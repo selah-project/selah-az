@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 19:17",
+  "book": "judges",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Və o, gözlərini qaldırdı və şəhərin meydanında ⟨את⟩ qonaq adamı gördü; və qoca adam dedi: Hara gedirsən və hardan gəlirsən?",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "qaldırdı"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "gözlərini"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "və gördü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qonaq adamı"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "הארח",
+      "gloss": "qonaq"
+    },
+    {
+      "surface": "ברחב",
+      "gloss": "meydanında"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şəhərin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "qoca"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "hara"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "gedirsən"
+    },
+    {
+      "surface": "ומאין",
+      "gloss": "və hardan"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "gəlirsən"
+    }
+  ],
+  "timestamp": "2026-09-01T11:26:48.864830037Z",
+  "model": "glm-5.3"
+}

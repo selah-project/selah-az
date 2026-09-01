@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 8:13",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Yahve Sevaotu ⟨את⟩ müqəddəs tutun, ⟨את⟩; O, sizin qorxunuz və O, sizin dəhşətiniz olsun.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve Sevaotu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sevaot"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "müqəddəs tutun (obyektini göstərir)"
+    },
+    {
+      "surface": "תקדישו",
+      "gloss": "müqəddəs tutun"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "O"
+    },
+    {
+      "surface": "מוראכם",
+      "gloss": "qorxunuz"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "O"
+    },
+    {
+      "surface": "מערצכם",
+      "gloss": "dəhşətiniz"
+    }
+  ],
+  "timestamp": "2026-09-01T12:47:57.361513477Z",
+  "model": "glm-5.3"
+}

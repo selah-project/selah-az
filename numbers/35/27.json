@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 35:27",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "və onu tapsa qanın qisasçısı sığınacaq şəhərinin sərhədindən kənarda, və öldürsə qanın qisasçısı ⟨את⟩ qatili — onun üçün qan yoxdur.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "və tapsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu (qatili)"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "qisasçısı"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "qanın"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kənarda"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "sərhədindən"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şəhərinin"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "sığınacaq"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "və öldürsə"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "qisasçısı"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "qanın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qatili"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "qatili"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onun üçün"
+    },
+    {
+      "surface": "דם",
+      "gloss": "qan"
+    }
+  ],
+  "timestamp": "2026-09-01T10:45:35.947017855Z",
+  "model": "glm-5.3"
+}

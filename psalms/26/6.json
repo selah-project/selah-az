@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 26:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Əllərimi təmizlikdə yuyacağam, Yahve, məqbəhənin ətrafında dolanacağam ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ארחץ",
+      "gloss": "yuyacağam"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "təmizlikdə"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "əllərimi"
+    },
+    {
+      "surface": "ואסבבה",
+      "gloss": "dolanacağam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "məqbəhənin"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "məqbəhənin ətrafında"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T15:08:39.243770876Z",
+  "model": "glm-5.3"
+}

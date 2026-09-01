@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 137,
+  "translation": "Xoşbəxtdir ⟨o⟩ ki tutar və sənin balaca uşaqlarını ⟨את⟩ qayaya çırpacaq.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Xoşbəxtdir"
+    },
+    {
+      "surface": "שיאחז",
+      "gloss": "ki tutar"
+    },
+    {
+      "surface": "ונפץ",
+      "gloss": "və çırpacaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sənin balaca uşaqlarını"
+    },
+    {
+      "surface": "עלליך",
+      "gloss": "sənin balaca uşaqlarını"
+    },
+    {
+      "surface": "אל",
+      "gloss": "qayaya doğru"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "qayaya"
+    }
+  ],
+  "timestamp": "2026-09-01T15:43:43.289953489Z",
+  "model": "glm-5.3"
+}

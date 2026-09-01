@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 9:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Düşmənlərim geri döndükcə, sənin üzündən ⟨onlar⟩ süsur, məhv olarlar.",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "döndükcə"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "düşmənlərim"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "geri"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "süsur"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "məhv olarlar"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "sənin üzündən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:05:11.764860290Z",
+  "model": "glm-5.3"
+}

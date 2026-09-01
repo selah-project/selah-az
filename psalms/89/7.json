@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 89:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 89,
+  "translation": "Çünki buludlarda Yahvəyə bərabər olan kimdir? İləhlərin oğulları arasında Yahvəyə bənzəyən kimdir?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "buludlarda"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "bərabər olan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvəyə"
+    },
+    {
+      "surface": "ידמה",
+      "gloss": "bənzəyən"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvəyə"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "oğulları arasında"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "iləhlərin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:45.505852214Z",
+  "model": "glm-5.3"
+}

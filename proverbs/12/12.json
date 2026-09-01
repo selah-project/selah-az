@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Rəşil pis adamların şəbəkəsini arzulayır, amma salehlərin kökü ⟨meyvə⟩ verir.",
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "arzulayır"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "rəşil"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "şəbəkəsini"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "pis adamların"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "amma kökü"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "salehlərin"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "verir"
+    }
+  ],
+  "timestamp": "2026-09-01T15:51:43.018865532Z",
+  "model": "glm-5.3"
+}

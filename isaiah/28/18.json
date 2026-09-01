@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 28:18",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "Və ləğv ediləcək ölüm ilə ⟨əhdiniz⟩, və Şeol ilə sazişiniz qalxmayacaq; sel kimi kamçı keçəndə, siz ona tapdalanma ⟨yeri⟩ olacaqsınız.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "Və ləğv ediləcək"
+    },
+    {
+      "surface": "בריתכם",
+      "gloss": "sizin əhdiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ölüm"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölüm"
+    },
+    {
+      "surface": "וחזותכם",
+      "gloss": "və sizin sazişiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şeol"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şeol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "qalxmayacaq"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "kamçı"
+    },
+    {
+      "surface": "שוטף",
+      "gloss": "sel kimi daşan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nə vaxt ki"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "keçəndə"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "siz olacaqsınız"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "tapdalama yeri"
+    }
+  ],
+  "timestamp": "2026-09-01T12:59:08.675418673Z",
+  "model": "glm-5.3"
+}

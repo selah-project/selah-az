@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 84,
+  "translation": "Necə bəxtiyardır o insan ki, onun üçün qüvvət səndədir; onların ürəklərində yollar ⟨vardır⟩.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Necə bəxtiyardır"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "qüvvət"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onun üçün"
+    },
+    {
+      "surface": "בך",
+      "gloss": "səndə"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "yollar"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "onların ürəklərində"
+    }
+  ],
+  "timestamp": "2026-09-01T15:30:47.191439498Z",
+  "model": "glm-5.3"
+}

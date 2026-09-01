@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 3:5",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Givonda Yahve Şlomoya gecə yuxusunda göründü, və Elohim dedi: İstə ⟨nə⟩ verim sənə.",
+  "tokens": [
+    {
+      "surface": "בגבעון",
+      "gloss": "Givonda"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "göründü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şlomo"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "yuxusunda"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "gecə"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "istə"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "verim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:10:37.082420916Z",
+  "model": "glm-5.3"
+}

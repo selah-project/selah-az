@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 38,
+  "translation": "Və düşmənlərim canlıdırlar, gücləndilər və məni haqsız yerə söyənlər çoxaldı.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "və düşmənlərim"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "canlıdırlar"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "gücləndilər"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "və çoxaldı"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "məni söyənlər"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "haqsız yerə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:13:14.569748780Z",
+  "model": "glm-5.3"
+}

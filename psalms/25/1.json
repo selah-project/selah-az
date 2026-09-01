@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Davuda məxsus. Sənə, ey Yahve, canımı qaldırıram.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davuda məxsus"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Sənə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ey Yahve"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "qaldırıram"
+    }
+  ],
+  "timestamp": "2026-09-01T15:08:43.902860430Z",
+  "model": "glm-5.3"
+}

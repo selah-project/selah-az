@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 8:9",
+  "book": "job",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Çünki dünənkinik ⟨biz⟩ və bilmirik, çünki günlərimiz yer üzündə kölgədir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "dünənkinik"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "⟨biz⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... bilmirik"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "bilmirik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "צל",
+      "gloss": "kölgə"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "günlərimiz"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üzündə"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-09-01T16:04:16.860603892Z",
+  "model": "glm-5.3"
+}

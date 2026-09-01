@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 87,
+  "translation": "Və oxuyanlar çalğanlar kimi ⟨deyəcəklər⟩: bütün mənbələrim Səndədir.",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "Və oxuyanlar"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "çalğanlar kimi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "mənbələrim"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Səndə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:30.097424559Z",
+  "model": "glm-5.3"
+}

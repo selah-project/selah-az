@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 4:32",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Elişa evə gəldi və bax, oğlan ölü idi, öz yatağında uzanmış.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "və gəldi"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elişa"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "evə"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "və bax"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "oğlan"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ölü"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "uzanmış"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərində"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "öz yatağının"
+    }
+  ],
+  "timestamp": "2026-09-01T12:30:28.887246425Z",
+  "model": "glm-5.3"
+}

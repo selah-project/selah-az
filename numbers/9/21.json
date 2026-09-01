@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 9:21",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Və ⟨belə oldu ki,⟩ bulud axşamdan səhərə qədər olduğunda, səhər bulud qalxdıqda yola düşdülər; ya gündüz, ya gecə ⟨saatlarında⟩ — bulud qalxanda yola düşdülər.",
+  "tokens": [
+    {
+      "surface": "ויש",
+      "gloss": "və ⟨belə oldu ki⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olduğunda"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "bulud"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "axşamdan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "səhərə"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "qalxdıqda"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "bulud"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "səhər"
+    },
+    {
+      "surface": "ונסעו",
+      "gloss": "yola düşdülər"
+    },
+    {
+      "surface": "או",
+      "gloss": "ya"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "gündüz"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ya gecə"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "qalxanda"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "bulud"
+    },
+    {
+      "surface": "ונסעו",
+      "gloss": "yola düşdülər"
+    }
+  ],
+  "timestamp": "2026-09-01T10:35:50.538111533Z",
+  "model": "glm-5.3"
+}

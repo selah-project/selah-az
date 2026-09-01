@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 7:26",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Və mənə qulaq asmadılar, qulaqlarını ⟨את⟩ əymədilər, boyunlarını ⟨את⟩ sərtləşdirdilər, atalarından daha pis iş gördülər.",
+  "tokens": [
+    {
+      "surface": "ולוא",
+      "gloss": "və ... olmadı"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "qulaq asmadılar"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... nə"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "əymədilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qulaqlarını"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "qulaqlarını"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "sərtləşdirdilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boyunlarını"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "boyunlarını"
+    },
+    {
+      "surface": "הרעו",
+      "gloss": "pis iş gördülər"
+    },
+    {
+      "surface": "מאבותם",
+      "gloss": "atalarından"
+    }
+  ],
+  "timestamp": "2026-09-01T13:26:20.337658247Z",
+  "model": "glm-5.3"
+}

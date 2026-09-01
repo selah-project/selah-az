@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "O zaman ⟨o⟩ özünü qırxacaq, amma ⟨את⟩ neteqi qırxmayacaq; və kohen neteqi olan adamı ⟨את⟩ neteq ⟨üçün⟩ yeddi gün ikinci dəfə bağlı saxlayacaq.",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "özünü qırxacaq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "neteq"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "neteq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "qırxmayacaq"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "bağlı saxlayacaq"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neteq"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "neteq"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "yeddi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ikinci dəfə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:26:01.228698719Z",
+  "model": "glm-5.3"
+}

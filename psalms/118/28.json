@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 118:28",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 118,
+  "translation": "Mənim Elim sən ⟨isən⟩, və mən səni tərifləyirəm; mənim Elohimim ⟨isə⟩, mən səni ucaldırıram.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "Mənim Elim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən ⟨isən⟩"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "və mən səni tərifləyirəm"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mənim Elohimim"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "mən səni ucaldırıram"
+    }
+  ],
+  "timestamp": "2026-09-01T17:43:02.507848885Z",
+  "model": "glm-5.3"
+}

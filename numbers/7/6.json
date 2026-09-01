@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Və Moşe arabanı ⟨את⟩ və inəkləri ⟨את⟩ götürdü və onları Levi oğullarına verdi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "və götürdü"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arabanı"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "arabanı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "inəkləri"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "inəkləri"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "və verdi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "onları ⟨את⟩",
+      "marks": "Levi oğullarına"
+    },
+    {
+      "surface": "אל",
+      "gloss": "çatır"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levi oğulları"
+    }
+  ],
+  "timestamp": "2026-09-01T10:33:56.996381764Z",
+  "model": "glm-5.3"
+}

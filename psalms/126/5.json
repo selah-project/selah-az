@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 126,
+  "translation": "Gözyaşı ilə əkənlər sevinç nəğməsi ilə biçəcəklər.",
+  "tokens": [
+    {
+      "surface": "הזרעים",
+      "gloss": "əkənlər"
+    },
+    {
+      "surface": "בדמעה",
+      "gloss": "gözyaşı ilə"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "sevinç nəğməsi ilə"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "biçəcəklər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:41:58.193804746Z",
+  "model": "glm-5.3"
+}

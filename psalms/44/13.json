@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 44:13",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 44,
+  "translation": "Satırsan xalqını var-dövlətsiz ⟨üçün⟩, və onların qiymətilə çoxalmamısan.",
+  "tokens": [
+    {
+      "surface": "תמכר",
+      "gloss": "satırsan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "xalqını"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "var-dövlətsiz ⟨üçün⟩"
+    },
+    {
+      "surface": "הון",
+      "gloss": "var-dövlət"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "רבית",
+      "gloss": "çoxalmamısan"
+    },
+    {
+      "surface": "במחיריהם",
+      "gloss": "onların qiymətilə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:15:16.084832423Z",
+  "model": "glm-5.3"
+}

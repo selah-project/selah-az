@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 12:7",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Və kahin onu Yahvenin hüzuruna təqdim edəcək və onun üçün kəffarə edəcək, və o, qanının mənbəyindən təmizlənəcək. Bu, doğan qadının qanunudur — erkək üçün ya dişi üçün.",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "təqdim edəcək"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hüzuruna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "kəffarə edəcək"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "onun üçün"
+    },
+    {
+      "surface": "וטהרה",
+      "gloss": "təmizlənəcək"
+    },
+    {
+      "surface": "ממקר",
+      "gloss": "mənbəyindən"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "qanının"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Bu"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "qanunudur"
+    },
+    {
+      "surface": "הילדת",
+      "gloss": "doğan qadının"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "erkək üçün"
+    },
+    {
+      "surface": "או",
+      "gloss": "ya"
+    },
+    {
+      "surface": "לנקבה",
+      "gloss": "dişi üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:25:42.198383075Z",
+  "model": "glm-5.3"
+}

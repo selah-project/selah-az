@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 19:20",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Və kişi, əgər yatırsa ⟨את⟩ bir qadınla — toxumla yatma — və o, bir kişiyə nişanlı verilmiş kənizdirsə, və ya fidyə ilə azad edilməyibsə, ya da ona azadlıq verilməyibsə, təhqiqat olunacaq; öldürülməyəcəklər, çünki o azad edilməyib.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "və kişi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "yatırsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bir qadınla"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "qadın"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "yatma"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "toxumla"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "və o"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "kəniz"
+    },
+    {
+      "surface": "נחרפת",
+      "gloss": "nişanlı verilmiş"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "bir kişiyə"
+    },
+    {
+      "surface": "והפדה",
+      "gloss": "və fidyə ilə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "נפדתה",
+      "gloss": "azad edilməyibsə"
+    },
+    {
+      "surface": "או",
+      "gloss": "ya da"
+    },
+    {
+      "surface": "חפשה",
+      "gloss": "azadlıq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verilməyibsə"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "בקרת",
+      "gloss": "təhqiqat"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olunacaq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "öldürülməyəcəklər"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "חפשה",
+      "gloss": "azad edilməyib"
+    }
+  ],
+  "timestamp": "2026-09-01T10:29:12.800204046Z",
+  "model": "glm-5.3"
+}

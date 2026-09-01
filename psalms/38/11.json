@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 38,
+  "translation": "Ürəyim döyünür, qüvvəm məni tərk etdi; gözlərimin işığı — onlar da ⟨את⟩ mənim yanımda deyil.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "ürəyim"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "döyünür"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "məni tərk etdi"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "qüvvəm"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "və işığı"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözlərimin"
+    },
+    {
+      "surface": "גם",
+      "gloss": "də"
+    },
+    {
+      "surface": "הם",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ yanımda",
+      "marks": "yanımda"
+    }
+  ],
+  "timestamp": "2026-09-01T15:13:18.353112910Z",
+  "model": "glm-5.3"
+}

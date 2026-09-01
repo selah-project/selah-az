@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 89,
+  "translation": "Məsləhət verici ⟨şeir⟩; Eytan ⟨hə⟩ Ezrahi ⟨tərəfindən⟩.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Məsləhət verici ⟨şeir⟩"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "Eytana məxsus"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "Ezrahi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:30:04.773640222Z",
+  "model": "glm-5.3"
+}

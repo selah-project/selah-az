@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "haggai 2:3",
+  "book": "haggai",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Sizdən kim qalıb ki, bu evi ilk izzətində görüb? Siz isə onu indi necə görürsünüz? Məgər o, sizin gözlərinizdə ⟨onun yanında⟩ heç kimi kimi deyilmi?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "sizdən"
+    },
+    {
+      "surface": "הנשאר",
+      "gloss": "qalıb"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "görüb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu evi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "בכבודו",
+      "gloss": "izzətində"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ilk"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "və necə"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "görürsünüz"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu (bu evi)"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "indi"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "məgər... deyilmi"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "⟨onun yanında⟩"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "heç kimi kimi"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "sizin gözlərinizdə"
+    }
+  ],
+  "timestamp": "2026-09-01T14:54:13.922429422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 19:5",
+  "book": "2-samuel",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Və padşah ⟨את⟩ üzünü örtüb və padşah böyük səslə qışqırdı: Oğlum Avşalom, Avşalom, oğlum, oğlum!",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "və padşah"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "örtüb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "üzünü"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "üzünü"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "və qışqırdı"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "קול",
+      "gloss": "səslə"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğlum"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avşalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avşalom"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğlum"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğlum"
+    }
+  ],
+  "timestamp": "2026-09-01T12:06:19.874544205Z",
+  "model": "glm-5.3"
+}

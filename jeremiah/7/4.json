@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 7:4",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Yalan sözlərinə güvənməyin — deyərək: Yahvenin məbədi, Yahvenin məbədi, Yahvenin məbədi — bunlardır onlar.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "-məyin"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "güvənin"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "özünüzə"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözlərinə"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "yalan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "məbədi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "məbədi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "məbədi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "המה",
+      "gloss": "onlardır"
+    }
+  ],
+  "timestamp": "2026-09-01T13:25:27.976337596Z",
+  "model": "glm-5.3"
+}

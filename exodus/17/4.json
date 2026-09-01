@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 17:4",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Və Moşe Yahveyə qışqırdı, deyərək: «Bu xalqa nə edim? Bir az qala məni daş-qalaq edəcəklər.»",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "qışqırdı"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "edim"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "xalqa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bir az qala"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "az"
+    },
+    {
+      "surface": "וסקלני",
+      "gloss": "məni daş-qalaq edəcəklər"
+    }
+  ],
+  "timestamp": "2026-09-01T10:12:34.035030669Z",
+  "model": "glm-5.3"
+}

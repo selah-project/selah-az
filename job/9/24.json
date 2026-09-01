@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 9:24",
+  "book": "job",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Yer şərrin əlinə verilir, onun hakimlərinin üzünü örtür ⟨o⟩; əgər yox, onda kimdir o?",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Yer"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "verilir"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "əlinə"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "şərrin"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzünü"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "onun hakimlərinin"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "örtür"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "onda"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kimdir"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-09-01T16:06:26.649916452Z",
+  "model": "glm-5.3"
+}

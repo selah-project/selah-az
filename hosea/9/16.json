@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 9:16",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Vurulmuşdur Efrayim, kökü qurudu; meyvə qətiyyən verməyəcəklər; hətta doğsalar belə, bətnlərinin sevimlilərini öldürəcəyəm.",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "Vurulmuşdur"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "שרשם",
+      "gloss": "kökü"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "qurudu"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "meyvə"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "qətiyyən"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "verməyəcəklər"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hətta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belə"
+    },
+    {
+      "surface": "ילדון",
+      "gloss": "doğsalar"
+    },
+    {
+      "surface": "והמתי",
+      "gloss": "və öldürəcəyəm"
+    },
+    {
+      "surface": "מחמדי",
+      "gloss": "sevimlilərini"
+    },
+    {
+      "surface": "בטנם",
+      "gloss": "bətnlərinin"
+    }
+  ],
+  "timestamp": "2026-09-01T14:36:22.589781848Z",
+  "model": "glm-5.3"
+}

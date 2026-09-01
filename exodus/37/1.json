@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 37:1",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Betsalel ⟨את⟩ sandığı akasiya ağacından düzəltdi: uzunluğu iki yarım qarış ⟨və⟩ yarım, eni bir qarış ⟨və⟩ yarım, hündürlüyü bir qarış ⟨və⟩ yarım idi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "düzəltdi"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandığı"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sandığı"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ağacından"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasiya"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "iki qarış"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "və yarım"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "uzunluğu"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "bir qarış"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "və yarım"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "eni"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "bir qarış"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "və yarım"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "hündürlüyü"
+    }
+  ],
+  "timestamp": "2026-09-01T10:20:50.078015081Z",
+  "model": "glm-5.3"
+}

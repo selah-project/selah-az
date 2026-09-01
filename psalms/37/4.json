@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Və Yahvedə zövq al, O ⟨sənə⟩ ürəyinin istəklərini verəcək.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "zövq al"
+    },
+    {
+      "surface": "על",
+      "gloss": "-də"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "verəcək"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨sənə⟩"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "istəklərini"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ürəyinin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:12:15.815634811Z",
+  "model": "glm-5.3"
+}

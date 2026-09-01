@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 105:20",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 105,
+  "translation": "Padşah göndərdi və onu azad etdi, xalqların hökmdarı onu sərbəst buraxdı.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "göndərdi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "ויתירהו",
+      "gloss": "və onu azad etdi"
+    },
+    {
+      "surface": "משל",
+      "gloss": "hökmdarı"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "xalqların"
+    },
+    {
+      "surface": "ויפתחהו",
+      "gloss": "onu sərbəst buraxdı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:25.373743987Z",
+  "model": "glm-5.3"
+}

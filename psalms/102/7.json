@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 102:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 102,
+  "translation": "Mən çölün qutanına bənzədim, xarabalıqların bayquşu kimi oldum.",
+  "tokens": [
+    {
+      "surface": "דמיתי",
+      "gloss": "bənzədim"
+    },
+    {
+      "surface": "לקאת",
+      "gloss": "qutanına"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "çölün"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "oldum"
+    },
+    {
+      "surface": "ככוס",
+      "gloss": "bayquş kimi"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "xarabalıqların"
+    }
+  ],
+  "timestamp": "2026-09-01T17:42:48.445468633Z",
+  "model": "glm-5.3"
+}

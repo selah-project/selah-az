@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 25:14",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Yoldaşınıza bir şey satdığınızda və ya yoldaşınızın əlindən bir şey aldığınızda, hər kəs qardaşını ⟨את⟩ sıxıntıya salmasın.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "və... -dığında"
+    },
+    {
+      "surface": "תמכרו",
+      "gloss": "satdığınızda"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "bir şey"
+    },
+    {
+      "surface": "לעמיתך",
+      "gloss": "yoldaşınıza"
+    },
+    {
+      "surface": "או",
+      "gloss": "və ya"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "aldığınızda"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "əlindən"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "yoldaşınızın"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-masın"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "sıxıntıya salasınız"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər kəs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qardaşını"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "qardaşını"
+    }
+  ],
+  "timestamp": "2026-09-01T10:30:41.515625Z",
+  "model": "glm-5.3"
+}

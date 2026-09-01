@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 77,
+  "translation": "Səsim ⟨yönəlib⟩ Elohimə, və qışqırıram; səsim ⟨yönəlib⟩ Elohimə, və O mənə qulaq asır.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "səsim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨yönəlib⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimə"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "və qışqırıram"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "səsim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨yönəlib⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimə"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "və O qulaq asır"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:25:59.791840805Z",
+  "model": "glm-5.3"
+}

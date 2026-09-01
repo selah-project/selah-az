@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "və ⟨את⟩ Yahvenin ardınca qayıdanları, Yahveni axtarmayanları və onu soruşmayanları",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahvenin ardınca qayıdanları"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "qayıdanları"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "ardınca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "və"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "axtarmayanları"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... -mə"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "onu soruşmayanları"
+    }
+  ],
+  "timestamp": "2026-09-01T14:52:32.777734924Z",
+  "model": "glm-5.3"
+}

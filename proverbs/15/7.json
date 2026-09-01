@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 15:7",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Hikmət sahiblərinin dodaqları biliyi səpir, amma axmaqların qəlbi elə ⟨olmaz⟩.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "dodaqları"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "hikmət sahiblərinin"
+    },
+    {
+      "surface": "יזרו",
+      "gloss": "səpir"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "biliyi"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "amma qəlbi"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "axmaqların"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨olmaz⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "elə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:53:37.637940447Z",
+  "model": "glm-5.3"
+}

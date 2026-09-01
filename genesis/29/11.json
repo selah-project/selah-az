@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "və Yaaqov Rəhəli öpdü və səsini ucaltdı və ağladı.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "öpdü"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaqob"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Rəhəli"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "ucaltdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "səsini"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "səsini"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "ağladı"
+    }
+  ],
+  "timestamp": "2026-09-01T17:55:36.243084021Z",
+  "model": "glm-5.3"
+}

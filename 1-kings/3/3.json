@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 3:3",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Şelomo Yahveni sevirdi, atası Davudun qaydalarında gəzmək üçün; yalnız bamalarda ⟨o⟩ qurban kəsir və tüstü qaldırırdı.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "sevirdi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "gəzmək üçün"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "qaydalarında"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davudun"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atası"
+    },
+    {
+      "surface": "רק",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "bamalarda"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "qurban kəsir"
+    },
+    {
+      "surface": "ומקטיר",
+      "gloss": "və tüstü qaldırır"
+    }
+  ],
+  "timestamp": "2026-09-01T12:10:57.883872849Z",
+  "model": "glm-5.3"
+}

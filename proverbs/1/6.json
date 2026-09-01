@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 1:6",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Məsəli və onun izahını, hikmətlilərin sözlərini və onların tapmacalarını anlamaq üçün.",
+  "tokens": [
+    {
+      "surface": "להבין",
+      "gloss": "anlamaq üçün"
+    },
+    {
+      "surface": "משל",
+      "gloss": "məsəli"
+    },
+    {
+      "surface": "ומליצה",
+      "gloss": "və onun izahını"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözlərini"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "hikmətlilərin"
+    },
+    {
+      "surface": "וחידתם",
+      "gloss": "və onların tapmacalarını"
+    }
+  ],
+  "timestamp": "2026-09-01T15:47:22.671618030Z",
+  "model": "glm-5.3"
+}

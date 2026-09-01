@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 1:7",
+  "book": "esther",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və içki qızıl qablarda ⟨verilirdi⟩, qablar bir-birindən fərqli qablar ⟨idi⟩, və kral şərabı bol, kralın əlinə görə.",
+  "tokens": [
+    {
+      "surface": "והשקות",
+      "gloss": "və içki"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "qablarda"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "qızıl"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "və qablar"
+    },
+    {
+      "surface": "מכלים",
+      "gloss": "qablardan"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "fərqli"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "və şərab"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "kral"
+    },
+    {
+      "surface": "רב",
+      "gloss": "bol"
+    },
+    {
+      "surface": "כיד",
+      "gloss": "əlinə görə"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    }
+  ],
+  "timestamp": "2026-09-01T16:34:24.820292776Z",
+  "model": "glm-5.3"
+}

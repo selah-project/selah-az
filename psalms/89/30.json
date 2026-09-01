@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 89:30",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 89,
+  "translation": "Onun nəslini əbədi qərar edəcəyəm və taxtını göylərin günləri ⟨kimi⟩ ⟨qərar edəcəyəm⟩.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "və qərar edəcəyəm"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "onun nəsli"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "və onun taxtı"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "günləri ⟨kimi⟩"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "göylərin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:30:17.675954395Z",
+  "model": "glm-5.3"
+}

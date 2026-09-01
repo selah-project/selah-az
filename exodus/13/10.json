@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Və sən ⟨את⟩ bu qanunu onun təyin olunmuş vaxtında gün dayından günlərə saxlayacaqsan.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "və saxlayacaqsan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu qanunu"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "bu qanunu"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "onun təyin olunmuş vaxtında"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "gün dayından"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "günlərə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:09:12.909717685Z",
+  "model": "glm-5.3"
+}

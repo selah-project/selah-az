@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 136:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 136,
+  "translation": "Yahveyə şükür edin, çünki ⟨O⟩ yaxşıdır, çünki Onun hesedi əbədidir.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "şükür edin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşıdır"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədidir"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Onun hesedi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:44:16.320228554Z",
+  "model": "glm-5.3"
+}

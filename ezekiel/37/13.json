@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 37:13",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Və biləcəksiniz ki, Mən Yahveyəm — məzarlarınızı açanda və ⟨את⟩ sizi məzarlarınızdan qaldıranda, ey xalqım.",
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "Və biləcəksiniz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveyəm"
+    },
+    {
+      "surface": "בפתחי",
+      "gloss": "məzarlarınızı açanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "məzarlarınızı"
+    },
+    {
+      "surface": "קברותיכם",
+      "gloss": "məzarlarınızı"
+    },
+    {
+      "surface": "ובהעלותי",
+      "gloss": "və qaldıranda"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi"
+    },
+    {
+      "surface": "מקברותיכם",
+      "gloss": "məzarlarınızdan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ey xalqım"
+    }
+  ],
+  "timestamp": "2026-09-01T14:26:08.877491026Z",
+  "model": "glm-5.3"
+}

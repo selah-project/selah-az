@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 93,
+  "translation": "Taxtın o gündən bərqərardır, əbədidən Sən ⟨san⟩.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "bərqərardır"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "taxtın"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "o gündən"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "əbədidən"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:32:55.441800049Z",
+  "model": "glm-5.3"
+}

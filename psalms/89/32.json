@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 89,
+  "translation": "Əgər onlar mənim qanunlarımı murdar etsələr və mənim əmrlərimi qorumasalar —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "mənim qanunlarımı"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "murdar etsələr"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "və mənim əmrlərimi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "qorumasalar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:30:17.676171829Z",
+  "model": "glm-5.3"
+}

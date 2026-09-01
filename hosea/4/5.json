@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 4:5",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Sən gündüz səndələyəcəksən, gecə isə peyğəmbər də səninlə səndələyəcək; mən ⟨isə⟩ ananı susduracağam.",
+  "tokens": [
+    {
+      "surface": "וכשלת",
+      "gloss": "sən səndələyəcəksən"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gündüz"
+    },
+    {
+      "surface": "וכשל",
+      "gloss": "səndələyəcək"
+    },
+    {
+      "surface": "גם",
+      "gloss": "də"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "peyğəmbər"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "səninlə"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "gecə"
+    },
+    {
+      "surface": "ודמיתי",
+      "gloss": "mən susduracağam"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ananı"
+    }
+  ],
+  "timestamp": "2026-09-01T14:34:23.470483155Z",
+  "model": "glm-5.3"
+}

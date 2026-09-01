@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Elohim Danieli ⟨את⟩ lütfə ⟨hesed⟩ və mərhəmət ⟨qarşısında⟩ sarislər sərinin gözünə çevirdi",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "çevirdi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daniel"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "lütfə ⟨hesed⟩ üçün"
+    },
+    {
+      "surface": "וֽלרחמים",
+      "gloss": "və mərhəmət üçün"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "qarşısında"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sər"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "sarislərin"
+    }
+  ],
+  "timestamp": "2026-09-01T18:03:08.581422619Z",
+  "model": "glm-5.3"
+}

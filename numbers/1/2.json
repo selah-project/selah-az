@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 1:2",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "İsrail oğullarının bütün icmasının başını qaldırın, onların ailələrinə görə, atalarının evlərinə görə, adlarının sayı ilə, bütün erkəyi, kəllə-kəllə ⟨את⟩:",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "qaldırın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "başını (İsrail icmasının başı)"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "başını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "icmasının"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ailələrinə görə"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "evlərinə görə"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "atalarının"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "sayı ilə"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "adlarının"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "erkəyi"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "kəllə-kəllə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:32:39.449977100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 8:15",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Onlarda çoxları səndələyəcək və düşəcəklər, sınacaq, tora düşəcək və tutulacaqlar.",
+  "tokens": [
+    {
+      "surface": "וכשלו",
+      "gloss": "səndələyəcək"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onlarda"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "çoxları"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "düşəcəklər"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "sınacaq"
+    },
+    {
+      "surface": "ונוקשו",
+      "gloss": "tora düşəcək"
+    },
+    {
+      "surface": "ונלכדו",
+      "gloss": "tutulacaqlar"
+    }
+  ],
+  "timestamp": "2026-09-01T12:47:57.361941500Z",
+  "model": "glm-5.3"
+}

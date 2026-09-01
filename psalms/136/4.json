@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 136,
+  "translation": "Yalnız Özü böyük möcüzələr görən ⟨Ona⟩ şükür ⟨edin⟩, çünki Onun hesedi əbədidir.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "görən ⟨Ona⟩"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "möcüzələr"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yalnız Özü"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədidir"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Onun hesedi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:44:16.320653015Z",
+  "model": "glm-5.3"
+}

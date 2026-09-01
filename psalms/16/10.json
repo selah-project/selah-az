@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Çünki canımı Şeola tərk etməyəcəksən, sadiq bəndəni çuxuru görməyə verməyəcəksən.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "tərk etməyəcəksən"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Şeola"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "verməyəcəksən"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "sadiq bəndəni"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "görməyə"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "çuxuru"
+    }
+  ],
+  "timestamp": "2026-09-01T15:03:18.285311037Z",
+  "model": "glm-5.3"
+}

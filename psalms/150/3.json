@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 150,
+  "translation": "O-na tərif deyin şofar-ın səsi ilə; O-na tərif deyin nevel və kinnor ilə.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "O-na tərif deyin"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "səsi ilə"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "şofar"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "O-na tərif deyin"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "nevel ilə"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "və kinnor ilə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:04.792264181Z",
+  "model": "glm-5.3"
+}

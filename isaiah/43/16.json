@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 43:16",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 43,
+  "translation": "Belə deyir Yahve, dənizdə yol verən və güclü sularda cığır açan —",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "belə"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "verən"
+    },
+    {
+      "surface": "בים",
+      "gloss": "dənizdə"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yol"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "sularda"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "güclü"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "cığır"
+    }
+  ],
+  "timestamp": "2026-09-01T13:07:31.234842262Z",
+  "model": "glm-5.3"
+}

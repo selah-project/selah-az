@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Mən Yahve, sənin Elohiminəm, səni Mitsrayim yerindən, qullar evindən çıxaran ⟨mən⟩.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sənin Elohiminəm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…-an"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "səni çıxaran"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yerindən"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "evindən"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "qullar"
+    }
+  ],
+  "timestamp": "2026-09-01T10:12:03.854591711Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 11:2",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Və onun üzərinə Yahvenin ruhu dinəcək — hikmət və anlayış ruhu, məsləhət və qüdrət ruhu, bilik ruhu və Yahve qorxusu.",
+  "tokens": [
+    {
+      "surface": "ונחה",
+      "gloss": "dinəcək"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üzərinə"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhu"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmət"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "və anlayış"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhu"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "məsləhət"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "və qüdrət"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhu"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "bilik"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "və qorxusu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T12:52:34.595339914Z",
+  "model": "glm-5.3"
+}

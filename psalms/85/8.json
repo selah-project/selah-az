@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 85,
+  "translation": "Bizə hesedini göstər, ey Yahve, və qurtuluşunu bizə ver.",
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "bizə göstər"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedini"
+    },
+    {
+      "surface": "וישעך",
+      "gloss": "və qurtuluşunu"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ver"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:11.248442467Z",
+  "model": "glm-5.3"
+}

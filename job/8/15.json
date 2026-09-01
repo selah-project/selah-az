@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 8:15",
+  "book": "job",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "O, öz evinə söykənər, amma o dayanmaz; ona yapışar, amma o ayağa qalxmaz.",
+  "tokens": [
+    {
+      "surface": "ישען",
+      "gloss": "söykənər"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "öz evinə"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma … yox"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "dayanmaz"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "yapışar"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma … yox"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ayağa qalxmaz"
+    }
+  ],
+  "timestamp": "2026-09-01T16:04:34.270331893Z",
+  "model": "glm-5.3"
+}

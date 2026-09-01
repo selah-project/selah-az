@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 80,
+  "translation": "Elohim, bizi geri qaytar, üzünü parlat, və xilas olarıq!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "bizi geri qaytar"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "və parlat"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "üzünü"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "və xilas olarıq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:27:48.383520380Z",
+  "model": "glm-5.3"
+}

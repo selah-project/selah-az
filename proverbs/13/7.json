@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 13:7",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "⟨Var⟩ özünü varlandıran, amma heç nəyi yoxdur; özünü kasıb edən, amma çox sərvəti var.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "⟨var⟩"
+    },
+    {
+      "surface": "מתעשר",
+      "gloss": "özünü varlandıran"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "amma heç nəyi yoxdur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heç nə"
+    },
+    {
+      "surface": "מתרושש",
+      "gloss": "özünü kasıb edən"
+    },
+    {
+      "surface": "והון",
+      "gloss": "amma sərvət"
+    },
+    {
+      "surface": "רב",
+      "gloss": "çox"
+    }
+  ],
+  "timestamp": "2026-09-01T15:52:08.901692492Z",
+  "model": "glm-5.3"
+}

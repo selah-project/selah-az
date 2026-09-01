@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 2:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Onları dəmir çubuqla sındıracqsan, saxsıdan qab kimi onları parça-parça edəcəksan.",
+  "tokens": [
+    {
+      "surface": "תרעם",
+      "gloss": "onları sındıracqsan"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "çubuqla"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "dəmir"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "qab kimi"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "saxsıdan ⟨hazırlayanın⟩"
+    },
+    {
+      "surface": "תנפצם",
+      "gloss": "onları parça-parça edəcəksan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:00:55.991607182Z",
+  "model": "glm-5.3"
+}

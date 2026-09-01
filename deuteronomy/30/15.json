@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Bax, bu gün önünə həyatı və xeyri, ölümü və şəri qoydum.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "qoydum"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "önünə"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bu gün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "həyatı"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "həyatı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "xeyri"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "xeyri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "ölümü"
+    },
+    {
+      "surface": "המות",
+      "gloss": "ölümü"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "şəri"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "şəri"
+    }
+  ],
+  "timestamp": "2026-09-01T10:57:23.231014793Z",
+  "model": "glm-5.3"
+}

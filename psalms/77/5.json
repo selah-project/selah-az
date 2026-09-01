@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 77,
+  "translation": "Sən gözlərimin qapaqlarını tutdun ⟨açıq⟩; mən sarsıldım və danışa bilmirəm.",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "tutdun"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "qapaqlarını"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözlərimin"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "sarsıldım"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və... bilmirəm"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "danışaram"
+    }
+  ],
+  "timestamp": "2026-09-01T15:24:49.008974610Z",
+  "model": "glm-5.3"
+}

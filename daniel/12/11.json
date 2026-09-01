@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "daniel 12:11",
+  "book": "daniel",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Və daimi ⟨qurban⟩ götürüləcəyi və viranedici iyrənclik qoyulacağı vaxtdan ⟨keçəcək⟩ min iki yüz doxsan gün.",
+  "tokens": [
+    {
+      "surface": "ומעת",
+      "gloss": "və ... vaxtından"
+    },
+    {
+      "surface": "הוסר",
+      "gloss": "götürüləcəyi"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "daimi ⟨qurban⟩"
+    },
+    {
+      "surface": "ולתת",
+      "gloss": "və qoyulacağı"
+    },
+    {
+      "surface": "שקוץ",
+      "gloss": "iyrənclik"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "viranedici"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "min"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "iki yüz"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "və doxsan"
+    }
+  ],
+  "timestamp": "2026-09-01T16:46:48.218408727Z",
+  "model": "glm-5.3"
+}

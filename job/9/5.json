@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 9:5",
+  "book": "job",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "O ki, dağları yerindən oynadır və onlar bilmirlər, onları qəzəbində devirən Odur.",
+  "tokens": [
+    {
+      "surface": "המעתיק",
+      "gloss": "yerindən oynadır"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dağları"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və … mərlər"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bilmirlər"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "O ki,"
+    },
+    {
+      "surface": "הפכם",
+      "gloss": "onları devirir"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "qəzəbində"
+    }
+  ],
+  "timestamp": "2026-09-01T16:05:52.495812809Z",
+  "model": "glm-5.3"
+}

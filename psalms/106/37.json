@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 106,
+  "translation": "Və oğullarını ⟨את⟩ və qızlarını ⟨את⟩ şedlərə qurban kəsdilər.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "qurban kəsdilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oğullarını"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qızlarını"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "qızlarını"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "şedlərə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:35:39.650523493Z",
+  "model": "glm-5.3"
+}

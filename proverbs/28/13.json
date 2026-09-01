@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 28:13",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "Pis işlərini örtən uğur qazanmaz, etiraf edən və tərk edən isə rəhm olunar.",
+  "tokens": [
+    {
+      "surface": "מכסה",
+      "gloss": "örtən"
+    },
+    {
+      "surface": "פשעיו",
+      "gloss": "pis işlərini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יצליח",
+      "gloss": "ugur qazanmaz"
+    },
+    {
+      "surface": "ומודה",
+      "gloss": "və etiraf edən"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "və tərk edən"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "rəhm olunar"
+    }
+  ],
+  "timestamp": "2026-09-01T16:00:34.537635682Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "Yalvarışlarımın səsini eşit; sənə fəryad edəndə, əllərimi müqəddəs ⟨dəbirinə⟩ — qüdsiyyətinin ⟨iç guvərinə⟩ qaldıranda.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "eşit"
+    },
+    {
+      "surface": "קול",
+      "gloss": "səsini"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "yalvarışlarımın"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "fəryad edəndə"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "qaldıranda"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "əllərimi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨→⟩"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "dəbirinə"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "qüdsiyyətinin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:09:36.871228425Z",
+  "model": "glm-5.3"
+}

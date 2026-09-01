@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 63:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 63,
+  "translation": "Yağın doluluğu kimi canım doyacaq, və sevinc harayları ⟨ilə⟩ dudaklarım səni tərifləyəcək.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "yağın doluluğu"
+    },
+    {
+      "surface": "ודשן",
+      "gloss": "və piy"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "doyacaq"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "və dudaklarım"
+    },
+    {
+      "surface": "רננות",
+      "gloss": "sevinc harayları"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "tərifləyəcək"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzım"
+    }
+  ],
+  "timestamp": "2026-09-01T15:21:35.146922222Z",
+  "model": "glm-5.3"
+}

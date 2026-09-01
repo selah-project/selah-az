@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 102,
+  "translation": "Çünki qulların onun daşlarından xoşlanırlar ⟨את⟩, və onun tozuna lütf edirlər ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "xoşlanırlar"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "qulların"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onun daşları"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "onun daşları"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "onun tozu"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "onun tozu"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "lütf edirlər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:34:13.586606599Z",
+  "model": "glm-5.3"
+}

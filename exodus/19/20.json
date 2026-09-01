@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 19:20",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Yahve Sina dağının üzərinə, dağın başına endi, və Yahve Moşeni dağın başına çağırdı, və Moşe qalxdı.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "endi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dağının"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "başına"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "dağın"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "çağırdı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moşeni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "başına"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "dağın"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "qalxdı"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    }
+  ],
+  "timestamp": "2026-09-01T10:10:47.660089364Z",
+  "model": "glm-5.3"
+}

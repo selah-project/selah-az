@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 44,
+  "translation": "Çünki düşmənlərimizdən bizi xilas etdin, və bizdən nifrət edənləri rüsvay etdin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "bizi xilas etdin"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "düşmənlərimizdən"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "və bizdən nifrət edənləri"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "rüsvay etdin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:14:22.866280660Z",
+  "model": "glm-5.3"
+}

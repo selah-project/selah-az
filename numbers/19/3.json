@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 19:3",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Onu Elazar kahinə verin; o, onu düşərgədən kənara çıxarsın və onu üzübaglında kəssinlər.",
+  "tokens": [
+    {
+      "surface": "ונתתם",
+      "gloss": "verin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "onu (inəyi)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "çıxarsın"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "onu (inəyi)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kənara"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "düşərgədən"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "kəssinlər"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "onu (inəyi)"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "üzübaglında"
+    }
+  ],
+  "timestamp": "2026-09-01T10:40:38.526872165Z",
+  "model": "glm-5.3"
+}

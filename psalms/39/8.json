@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 39,
+  "translation": "İndi isə nəyə ümid edim, Adonay? Ümidim — sənədir ⟨o⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "indi isə"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nəyə"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "ümid edim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "ümidim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "היא",
+      "gloss": "o⟨dur⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T15:14:41.164319558Z",
+  "model": "glm-5.3"
+}

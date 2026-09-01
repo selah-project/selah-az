@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 11:21",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Əldən-ələ ⟨birləşsə belə⟩ pis cəzasız qalmaz, haqlıların toxumu isə qurtulacaq.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "əl"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "ələ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "cəzasız qalmaz"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pis"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "və toxumu"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "haqlıların"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "qurtulacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:52:11.707603437Z",
+  "model": "glm-5.3"
+}

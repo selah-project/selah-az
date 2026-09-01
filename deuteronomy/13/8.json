@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 13:8",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "yəni ətrafınızda olan xalqların tanrılarından — sizə yaxın olanlardan və ya sizdən uzaq olanlardan, yerin bir ucundan yerin o biri ucunadək —",
+  "tokens": [
+    {
+      "surface": "מאלהי",
+      "gloss": "tanrılarından"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "xalqların"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "סביבתיכם",
+      "gloss": "ətrafınızda olan"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "yaxın olanlar"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sizə"
+    },
+    {
+      "surface": "או",
+      "gloss": "və ya"
+    },
+    {
+      "surface": "הרחקים",
+      "gloss": "uzaq olanlar"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "sizdən"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "bir ucundan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "və...adək"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "o biri ucu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:51:36.822068709Z",
+  "model": "glm-5.3"
+}

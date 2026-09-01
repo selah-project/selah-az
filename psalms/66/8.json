@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 66,
+  "translation": "Xalqlar, Elohimimizi mübarək edin və Onun tərifinin səsini eşitdirin.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "mübarək edin"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimizi"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "və eşitdirin"
+    },
+    {
+      "surface": "קול",
+      "gloss": "səsini"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "tərifinin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:21:33.309038122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 16:21",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Və ⟨את⟩ oğullarımı kəsdin və ⟨את⟩ onları keçirərək onlara təslim etdin.",
+  "tokens": [
+    {
+      "surface": "ותשחטי",
+      "gloss": "və kəsdin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oğullarımı"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarımı"
+    },
+    {
+      "surface": "ותתנים",
+      "gloss": "və onları təslim etdin"
+    },
+    {
+      "surface": "בהעביר",
+      "gloss": "keçirərək"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ onları"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    }
+  ],
+  "timestamp": "2026-09-01T14:07:41.248074158Z",
+  "model": "glm-5.3"
+}

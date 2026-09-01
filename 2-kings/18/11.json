@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Aşur padşahı İsraili ⟨את⟩ Aşura sürgün etdi və onları Halaxda, Qozan çayı Xavorda və Midi şəhərlərində yerləşdirdi.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "sürgün etdi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşahı"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsraili"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsraili"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "Aşura"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "və yerləşdirdi"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "Halaxda"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "Xavor-da"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "çayı"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Qozan"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "və şəhərlərində"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Midi"
+    }
+  ],
+  "timestamp": "2026-09-01T12:38:57.220784797Z",
+  "model": "glm-5.3"
+}

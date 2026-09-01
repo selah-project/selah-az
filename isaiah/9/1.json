@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 9:1",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Qaranlıqda gəzən xalq böyük ⟨bir⟩ işıq gördü; ölüm kölgəsi ölkəsində oturanların üstünə işıq parladı.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "gəzən"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "qaranlıqda"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "gördü"
+    },
+    {
+      "surface": "אור",
+      "gloss": "işıq"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "oturanların"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ölkəsində"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "ölüm kölgəsi"
+    },
+    {
+      "surface": "אור",
+      "gloss": "işıq"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "parladı"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "onların üstünə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:50:07.794343030Z",
+  "model": "glm-5.3"
+}

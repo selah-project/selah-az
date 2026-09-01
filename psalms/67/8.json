@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 67,
+  "translation": "Elohim bizi barəkləyəcək və yerin bütün ucları ⟨את⟩ Ondan qorxacaq.",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "bizi barəkləyəcək"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "qorxacaq"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yerin bütün ucları"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ucları"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:21:02.948011680Z",
+  "model": "glm-5.3"
+}

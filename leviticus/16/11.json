@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 16:11",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Və Aharon özünə məxsus ⟨את⟩ günah qurbanı buzağını yaxınlaşdıracaq, özü və öz evi üçün kəffarə edəcək, və özünə məxsus ⟨את⟩ günah qurbanı buzağını kəsəcək.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "yaxınlaşdıracaq"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buzağı"
+    },
+    {
+      "surface": "פר",
+      "gloss": "buzağı"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "günah qurbanı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona məxsus"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "və kəffarə edəcək"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "öncəsində"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "və öncəsində"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "evinin"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "və kəsəcək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buzağı"
+    },
+    {
+      "surface": "פר",
+      "gloss": "buzağı"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "günah qurbanı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona məxsus"
+    }
+  ],
+  "timestamp": "2026-09-01T10:27:47.461230022Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "və müqəddəs ilə adi arasında, təmizlə murdar arasında fərq qoymaq üçün ⟨—⟩",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "və fərq qoymaq üçün"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "və arasında"
+    },
+    {
+      "surface": "החל",
+      "gloss": "adi"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "və arasında"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "murdar"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "və arasında"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "təmiz"
+    }
+  ],
+  "timestamp": "2026-09-01T10:24:49.163652639Z",
+  "model": "glm-5.3"
+}

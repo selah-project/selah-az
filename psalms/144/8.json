@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 144,
+  "translation": "Onların ağzı puç söz danışır və onların sağ əli yalan sağ əlidir⟨dir⟩.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "onların ağzı"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "danışır"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "puç söz"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "və onların sağ əli"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "sağ əl"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yalan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:27.860519283Z",
+  "model": "glm-5.3"
+}

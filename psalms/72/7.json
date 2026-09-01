@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 72:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 72,
+  "translation": "Onun günlərində saleh ⟨insan⟩ çiçək açacaq, ⟨və⟩ sülhün bolluğu — ay ⟨artıq⟩ olmayınca ⟨qədər⟩.",
+  "tokens": [
+    {
+      "surface": "יפרח",
+      "gloss": "çiçək açacaq"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "onun günlərində"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "saleh"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "⟨və⟩ bolluğu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sülh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "olmayınca"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "ay"
+    }
+  ],
+  "timestamp": "2026-09-01T15:24:03.638928101Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 40:5",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "Və Yahvenin izzəti aşkar olunacaq, və bütün ət birlikdə ⟨onu⟩ görəcək, çünki Yahvenin ağzı ⟨bunu⟩ danışıb.",
+  "tokens": [
+    {
+      "surface": "ונגלה",
+      "gloss": "aşkar olunacaq"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "izzəti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "və görəcək"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ət"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "birlikdə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "danışıb"
+    }
+  ],
+  "timestamp": "2026-09-01T13:06:29.214561226Z",
+  "model": "glm-5.3"
+}

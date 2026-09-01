@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 69:19",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 69,
+  "translation": "Canıma yaxınlaş, onu qurtar; düşmənlərimə görə məni azad elə.",
+  "tokens": [
+    {
+      "surface": "קרבה",
+      "gloss": "yaxınlaş"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ona⟩"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canıma"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "onu qurtar"
+    },
+    {
+      "surface": "למען",
+      "gloss": "görə"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "düşmənlərimə"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "məni azad elə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:23:43.339511404Z",
+  "model": "glm-5.3"
+}

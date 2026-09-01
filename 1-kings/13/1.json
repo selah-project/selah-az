@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 13:1",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Və bax, Elohim adamı Yahvenin sözü ilə Yehudadan Beit-Elə gəldi, və Yarovam qurbanlığı yandırmaq üçün məhbədin üstündə dururdu.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "və bax"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gəldi"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "Yehudadan"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "sözü ilə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "וירבעם",
+      "gloss": "və Yarovam"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "dururdu"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "məhbədin"
+    },
+    {
+      "surface": "להקטיר",
+      "gloss": "qurbanlığı yandırmaq üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T12:19:59.372064851Z",
+  "model": "glm-5.3"
+}

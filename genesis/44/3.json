@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 44:3",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 44,
+  "translation": "Səhər işıqlandı, və kişilər göndərildilər — onlar və onların eşşəkləri.",
+  "tokens": [
+    {
+      "surface": "הבקר",
+      "gloss": "səhər"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ışıqlandı"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "və kişilər"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "göndərildilər"
+    },
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "וחמריהם",
+      "gloss": "və onların eşşəkləri"
+    }
+  ],
+  "timestamp": "2026-09-01T10:01:47.065898166Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və Levi evindən ⟨bir⟩ kişi getdi, və Levi qızını ⟨את⟩ götürdü.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "getdi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kişi"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "evindən"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "götürdü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Levi qızını"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qızını"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    }
+  ],
+  "timestamp": "2026-09-01T10:04:38.881365507Z",
+  "model": "glm-5.3"
+}

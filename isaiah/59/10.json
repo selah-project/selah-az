@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 59:10",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 59,
+  "translation": "Divarı əlləyirik korlar kimi, gözü olmayanlar kimi əlləyirik; səhintə vaxtı səndəlik ki, şəfəq vaxtı; ölmüşlər kimi quru yerlərdə.",
+  "tokens": [
+    {
+      "surface": "נגששה",
+      "gloss": "əlləyirik"
+    },
+    {
+      "surface": "כעורים",
+      "gloss": "korlar kimi"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "divarı"
+    },
+    {
+      "surface": "וכאין",
+      "gloss": "gözü olmayanlar kimi"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "gözü"
+    },
+    {
+      "surface": "נגששה",
+      "gloss": "əlləyirik"
+    },
+    {
+      "surface": "כשלנו",
+      "gloss": "səndəlik"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "səhintə vaxtı"
+    },
+    {
+      "surface": "כנשף",
+      "gloss": "şəfəq vaxtı kimi"
+    },
+    {
+      "surface": "באשמנים",
+      "gloss": "quru yerlərdə"
+    },
+    {
+      "surface": "כמתים",
+      "gloss": "ölmüşlər kimi"
+    }
+  ],
+  "timestamp": "2026-09-01T13:16:29.445760361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 117,
+  "translation": "Çünki hesedi (sadiq mərhəməti) bizim üstümüzə qüvvətli oldu, və Yahvenin əməti əbədidir. Haləluya!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "qüvvətli oldu"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "bizim üstümüzə"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedi"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "və əmət"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Haləluya (tərifləyin)"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:30.022992414Z",
+  "model": "glm-5.3"
+}

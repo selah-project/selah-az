@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 103:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 103,
+  "translation": "Günahlarımıza uyğun bizə ⟨belə⟩ etmədi, üsyankarlıqlarımıza uyğun isə bizə qarşı qarşılıq vermədi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "כחטאינו",
+      "gloss": "günahlarımıza uyğun"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etdi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizə"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "כעונתינו",
+      "gloss": "üsyankarlıqlarımıza uyğun"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "qarşılıq verdi"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "bizə qarşı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:33:56.206178967Z",
+  "model": "glm-5.3"
+}

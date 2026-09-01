@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 106,
+  "translation": "Məni xatırla, ya Yahve, xalqına razılığın ⟨zamanında⟩, mənə yetiş qurtuluşunla.",
+  "tokens": [
+    {
+      "surface": "זכרני",
+      "gloss": "Məni xatırla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahve"
+    },
+    {
+      "surface": "ברצון",
+      "gloss": "razılığında"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "xalqına"
+    },
+    {
+      "surface": "פקדני",
+      "gloss": "Mənə yetiş"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "qurtuluşunla"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:24.015333650Z",
+  "model": "glm-5.3"
+}

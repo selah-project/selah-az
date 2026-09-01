@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Atasını və anasını lənətləyən ölüm ilə öldürüləcək.",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "lənətləyən"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atasını"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "anasını"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölüm"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "öldürüləcək"
+    }
+  ],
+  "timestamp": "2026-09-01T10:15:32.582156254Z",
+  "model": "glm-5.3"
+}

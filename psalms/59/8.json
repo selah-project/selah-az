@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 59:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 59,
+  "translation": "Bax, ağızlarından ⟨qılınc sözlər⟩ köpür, dodaqlarında qılınc var, çünki ⟨deyirlər⟩ kim eşidir?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "יביעון",
+      "gloss": "köpür"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "ağızlarından"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "qılınclar"
+    },
+    {
+      "surface": "בשפתותיהם",
+      "gloss": "dodaqlarında"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eşidir"
+    }
+  ],
+  "timestamp": "2026-09-01T15:19:42.645473717Z",
+  "model": "glm-5.3"
+}

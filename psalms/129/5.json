@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 129,
+  "translation": "Bütün Sionu söyənlər xəcalət çəksinlər və geri çəkilsinlər.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "xəcalət çəksinlər"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "və geri çəkilsinlər"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "geri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "söyənlər"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sionu"
+    }
+  ],
+  "timestamp": "2026-09-01T17:43:08.426389440Z",
+  "model": "glm-5.3"
+}

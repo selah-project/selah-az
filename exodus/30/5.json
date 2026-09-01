@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Və şitim ağacından dirəklər düzəldəcəksən və onları qızılla örtəcəksən.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "düzəldəcəksən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dirəkləri"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "dirəkləri"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ağacından"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "şitim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "örtəcəksən"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "qızılla"
+    }
+  ],
+  "timestamp": "2026-09-01T10:17:52.079513544Z",
+  "model": "glm-5.3"
+}

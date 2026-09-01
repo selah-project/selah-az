@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 5:1",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Bu, Adəmin nəsil kitabıdır: Elohim insanı yaratdığı gün, Elohin surətində ⟨את⟩ onu etdi.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Bu"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitabıdır"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "nəsil"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adəmin"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "yaratdığı"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insanı"
+    },
+    {
+      "surface": "בדמות",
+      "gloss": "surətində"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohin"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etdi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    }
+  ],
+  "timestamp": "2026-09-01T09:46:44.596939086Z",
+  "model": "glm-5.3"
+}

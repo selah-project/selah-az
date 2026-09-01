@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 9:19",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "⟨O⟩ sağ tərəfdən qoparıb ⟨ac qalır⟩, sol tərəfdən yeyir və doymurlar; hər biri öz qolunun ətini yeyir.",
+  "tokens": [
+    {
+      "surface": "ויגזר",
+      "gloss": "qoparıb"
+    },
+    {
+      "surface": "על",
+      "gloss": "...tərəfdən"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "sağ"
+    },
+    {
+      "surface": "ורעב",
+      "gloss": "ac"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "yeyir"
+    },
+    {
+      "surface": "על",
+      "gloss": "...tərəfdən"
+    },
+    {
+      "surface": "שמאול",
+      "gloss": "sol"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və... deyil"
+    },
+    {
+      "surface": "שבעו",
+      "gloss": "doymurlar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər biri"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ətini"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "öz qolunun"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "yeyir"
+    }
+  ],
+  "timestamp": "2026-09-01T12:50:42.890865602Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 12:14",
+  "book": "2-samuel",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Yalnız — çünki bu sözlə ⟨את⟩ Yahvenin düşmənlərini xor gördün — həm də sənə doğulan oğlan ölümlə öləcək.",
+  "tokens": [
+    {
+      "surface": "אפס",
+      "gloss": "Yalnız"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "xor görmək"
+    },
+    {
+      "surface": "נאצת",
+      "gloss": "xor gördün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahvenin düşmənlərini"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "düşmənlərini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "sözlə"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "həm də"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "oğlan"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "doğulan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölümlə"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "öləcək"
+    }
+  ],
+  "timestamp": "2026-09-01T11:58:18.221576075Z",
+  "model": "glm-5.3"
+}

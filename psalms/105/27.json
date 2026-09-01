@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 105:27",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 105,
+  "translation": "Onların içində onun nişanələrinin sözlərini qoydular, və möcüzələr Xam torpağında.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "qoydular"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onların içində"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözlərini"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "onun nişanələrinin"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "və möcüzələr"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "torpağında"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Xam"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:31.822563401Z",
+  "model": "glm-5.3"
+}

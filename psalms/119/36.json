@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Əyir ürəyimi şəhadətlərinə tərəf, və yox — qazanca tərəf.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "əyir"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ürəyimi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tərəf"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "şəhadətlərinə"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tərəf"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "qazanca"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:45.205191131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Sənə arxalanan atalarımız ⟨idi⟩ — arxalandılar və sən onları qurtardın.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "arxalanan"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "atalarımız"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "arxalandılar"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "və qurtardın onları"
+    }
+  ],
+  "timestamp": "2026-09-01T17:42:01.287454969Z",
+  "model": "glm-5.3"
+}

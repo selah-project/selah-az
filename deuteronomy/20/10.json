@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 20:10",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Ola ki, bir şəhərə onunla vuruşmaq üçün yaxınlaşsan, ona salam (sülh) üçün müraciət edərsən.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ola ki"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "yaxınlaşsan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şəhər"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "vuruşmaq üçün"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "müraciət edərsən"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "sülh üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:52:08.108431141Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 12:27",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "siz deyəcəksiniz: «Pesah qurbanıdır — Yahve üçün, O, Mitsrayimdə İsrail oğullarının evlərinin üstündən keçdiyi zaman Mitsrayimi vurarkən ⟨את⟩ və bizim evlərimizi qurtararkən ⟨את⟩.» O zaman xalq baş əydi və səcdə etdi.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "siz deyəcəksiniz"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "qurban"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dır"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve üçün"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "O, …-dığı"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "üstündən keçdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündən"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "evlərinin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayimdə"
+    },
+    {
+      "surface": "בנגפו",
+      "gloss": "vurarkən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayimi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bizim evlərimizi"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "bizim evlərimizi"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "qurtardı"
+    },
+    {
+      "surface": "ויקד",
+      "gloss": "baş əydi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "səcdə etdi"
+    }
+  ],
+  "timestamp": "2026-09-01T10:09:29.858498892Z",
+  "model": "glm-5.3"
+}

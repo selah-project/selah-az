@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 12:20",
+  "book": "2-samuel",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "O zaman Davud yerəndən qalxdı, yuyundu, məsh olundu, paltarını dəyişdi, Yahvenin evinə girdi və səcdə etdi; sonra öz evinə girdi, yemək istədi, ona çörək qoydular və yedi.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "qalxdı"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "yerdən"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "yuyundu"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "məsh etdi"
+    },
+    {
+      "surface": "ויחלף",
+      "gloss": "dəyişdi"
+    },
+    {
+      "surface": "שמלתו",
+      "gloss": "paltarını"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "girdi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "səcdə etdi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "girdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a doğru"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "evi"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "istədi"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "qoydular"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "çörək"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "yedi"
+    }
+  ],
+  "timestamp": "2026-09-01T11:58:00.257447544Z",
+  "model": "glm-5.3"
+}

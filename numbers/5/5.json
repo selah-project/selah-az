@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 5:5",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Və Yahve Moşe ⟨ilə⟩ danışdı, deyərək:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Və … danışdı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    }
+  ],
+  "timestamp": "2026-09-01T10:34:45.122621839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 124,
+  "translation": "Onda sular bizi basdırardı, sel canımızın üstündən keçərdi,",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "onda"
+    },
+    {
+      "surface": "המים",
+      "gloss": "sular"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "basdırardı bizi"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "sel"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "keçərdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündən"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "canımızın"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:53.093371124Z",
+  "model": "glm-5.3"
+}

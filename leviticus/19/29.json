@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 19:29",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Qızını murdarlayıb fahişəliyə vermə ⟨את⟩; torpaq fahişəlik etməsin və torpaq çirkinliklə dolmasın.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "murdarlama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qızını"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "qızını"
+    },
+    {
+      "surface": "להזנותה",
+      "gloss": "fahişəliyə vermək üçün"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "תזנה",
+      "gloss": "fahişəlik etsin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "torpaq"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "və dolsun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "torpaq"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "çirkinlik"
+    }
+  ],
+  "timestamp": "2026-09-01T10:28:49.297419715Z",
+  "model": "glm-5.3"
+}

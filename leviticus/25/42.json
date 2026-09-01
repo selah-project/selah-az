@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "çünki Mənim qullarımdır onlar — onları Mitsrayim torpağından çıxartdım ⟨את⟩ — qul satışı ilə satılmayacaqlar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "Mənim qullarım"
+    },
+    {
+      "surface": "הם",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "çıxartdım"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "torpağından"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "satılmayacaqlar"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "satışı ilə"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "qul"
+    }
+  ],
+  "timestamp": "2026-09-01T10:30:59.682592308Z",
+  "model": "glm-5.3"
+}

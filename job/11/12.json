@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 11:12",
+  "book": "job",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "İçi boş adam ürək qazanar, və insan vəhşi eşşək balası kimi doğular.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "נבוב",
+      "gloss": "içi boş"
+    },
+    {
+      "surface": "ילבב",
+      "gloss": "ürək qazanar"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "eşşək balası"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "vəhşi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "doğular"
+    }
+  ],
+  "timestamp": "2026-09-01T16:06:59.944308127Z",
+  "model": "glm-5.3"
+}

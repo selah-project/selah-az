@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 25:6",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Və yerin şabbatı ⟨olacaq⟩ sizə yemək olaraq: sənə, quluna, kənizınə, muzdlu işçinə və səninlə birlikdə yaşayan müsafirlərinə.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "və olacaq"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "şabbatı"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizə"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "yemək olaraq"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "ולעבדך",
+      "gloss": "quluna"
+    },
+    {
+      "surface": "ולאמתך",
+      "gloss": "kənizınə"
+    },
+    {
+      "surface": "וללשכירך",
+      "gloss": "muzdlu işçinə"
+    },
+    {
+      "surface": "ולתושבך",
+      "gloss": "müsafirlərinə"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "yaşayan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "səninlə birlikdə"
+    }
+  ],
+  "timestamp": "2026-09-01T17:28:10.814682931Z",
+  "model": "glm-5.3"
+}

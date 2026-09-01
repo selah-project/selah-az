@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 10:8",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Və elçi gəlib ona bildirdi, deyə: Kralın oğullarının başlarını gətirdilər. O isə dedi: Onları qapının ağzında sabaha qədər iki yığma halında qoyun.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "gəlib"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "elçi"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "bildirdi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyə"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "gətirdilər"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "başlarını"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "qoyun"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onları"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iki"
+    },
+    {
+      "surface": "צברים",
+      "gloss": "yığma"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ağzında"
+    },
+    {
+      "surface": "השער",
+      "gloss": "qapının"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "sabaha"
+    }
+  ],
+  "timestamp": "2026-09-01T12:35:26.918592890Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 17:7",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Günlərin sonunda ⟨ oldu ⟩ və dərə qurudu, çünki ölkədə yağış yox idi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨ oldu ⟩"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "sonunda"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günlərin"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "qurudu"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "dərə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "היה",
+      "gloss": "idi"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "yağış"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ölkədə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:21:04.387987874Z",
+  "model": "glm-5.3"
+}

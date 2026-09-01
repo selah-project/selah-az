@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Mahnı ilə şərab içmirlər; acıdır şəkər onu içənlərə.",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "Mahnı ilə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...mirlər"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "içmirlər"
+    },
+    {
+      "surface": "יין",
+      "gloss": "şərab"
+    },
+    {
+      "surface": "יין",
+      "gloss": "acıdır"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "şəkər"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "onu içənlərə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:56:57.623594833Z",
+  "model": "glm-5.3"
+}

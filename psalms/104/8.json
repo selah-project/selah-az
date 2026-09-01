@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 104,
+  "translation": "Dağlar qalxır, dərələr enir — sənin onlar üçün müəyyən etdiyin yerə.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "qalxır"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dağlar"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "enir"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "dərələr"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-yə"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "yerə"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sənin ... etdiyin"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "müəyyən etdiyin"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlar üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T15:34:26.154148782Z",
+  "model": "glm-5.3"
+}

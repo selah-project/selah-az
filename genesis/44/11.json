@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 44,
+  "translation": "Onlar tələsib hər biri torbasını ⟨את⟩ yerə endirdilər, və hər biri öz torbasını açdı.",
+  "tokens": [
+    {
+      "surface": "וימהרו",
+      "gloss": "tələsib"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "endirdilər"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər biri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öz torbasını"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "öz torbasını"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yerə"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "və açdı"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər biri"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "öz torbasını"
+    }
+  ],
+  "timestamp": "2026-09-01T10:00:52.087698899Z",
+  "model": "glm-5.3"
+}

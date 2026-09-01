@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 50,
+  "translation": "Oturursan, qardaşına qarşı danışırsan; ananın oğluna iftira yağdırırsan.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "oturursan"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "qardaşına qarşı"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "danışırsan"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "oğluna"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ananın"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "yağdırırsan (verirsən)"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "iftira (böhtan)"
+    }
+  ],
+  "timestamp": "2026-09-01T15:16:26.736497230Z",
+  "model": "glm-5.3"
+}

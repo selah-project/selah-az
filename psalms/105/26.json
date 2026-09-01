@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 105:26",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 105,
+  "translation": "Qulu Moşeni göndərdi, Aharonu — onu seçdiyi kimi.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "göndərdi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşeni"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "qulu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "— kimi"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "seçdiyi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onu"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:31.822445011Z",
+  "model": "glm-5.3"
+}

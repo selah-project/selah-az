@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 57,
+  "translation": "Müdir ⟨üçün⟩; «Məhv etmə»; Davuda ⟨aid⟩, miktam — Şaulun üzündən mağaraya qaçarkən.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Müdir ⟨üçün⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "«"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "Məhv etmə»"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davuda ⟨aid⟩"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "qaçarkən"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "üzündən"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "mağaraya"
+    }
+  ],
+  "timestamp": "2026-09-01T15:19:46.235370683Z",
+  "model": "glm-5.3"
+}

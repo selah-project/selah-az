@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 40:7",
+  "book": "job",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "İndi sən bir kişi kimi belini bağla; mən səndən soruşacağam, sən isə mənə bildir.",
+  "tokens": [
+    {
+      "surface": "אזר",
+      "gloss": "bağla"
+    },
+    {
+      "surface": "נא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "כגבר",
+      "gloss": "bir kişi kimi"
+    },
+    {
+      "surface": "חלציך",
+      "gloss": "belini"
+    },
+    {
+      "surface": "אשאלך",
+      "gloss": "səndən soruşacağam"
+    },
+    {
+      "surface": "והודיעני",
+      "gloss": "və mənə bildir"
+    }
+  ],
+  "timestamp": "2026-09-01T16:18:23.238046964Z",
+  "model": "glm-5.3"
+}

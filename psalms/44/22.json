@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 44,
+  "translation": "Məgər Elohim bunu araşdırmayacaqmı? Çünki ⟨O⟩ ürəyin sirrlərini bilir.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "məgər...-mı"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "araşdırmayacaqmı"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bunu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨O⟩"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilir"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "sirrlərini"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ürəyin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:15:11.707864223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 19:4",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Elazar kahin barmağı ilə onun qanından götürsün və onun qanından görüş çadırının üzü qarşısına yeddi dəfə səpsin.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "götürsün"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "qanından"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "barmağı ilə"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "səpsin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "qarşısına"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzü"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadırının"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "görüş"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "qanından"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yeddi"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "dəfə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:40:38.527030718Z",
+  "model": "glm-5.3"
+}

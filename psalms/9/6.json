@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 9:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Millətləri qınadın, şəri məhv etdin, onların adını əbədi və sonsuz ⟨zamana qədər⟩ sildin.",
+  "tokens": [
+    {
+      "surface": "גערת",
+      "gloss": "qınadın"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "millətləri"
+    },
+    {
+      "surface": "אבדת",
+      "gloss": "məhv etdin"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "şəri"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "onların adını"
+    },
+    {
+      "surface": "מחית",
+      "gloss": "sildin"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "və sonsuz"
+    }
+  ],
+  "timestamp": "2026-09-01T15:03:52.715675279Z",
+  "model": "glm-5.3"
+}

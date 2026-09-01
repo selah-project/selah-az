@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 27:13",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Və əgər onu fidyə ilə geri alsa, qiymətləndirmənin üstünə onun beşdə birini əlavə etsin.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Və əgər"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "fidyə ilə geri almaq"
+    },
+    {
+      "surface": "יגאלנה",
+      "gloss": "onu geri alsa"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "əlavə etsin"
+    },
+    {
+      "surface": "חמישתו",
+      "gloss": "onun beşdə biri"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "sənin qiymətləndirmən"
+    }
+  ],
+  "timestamp": "2026-09-01T10:32:24.162429987Z",
+  "model": "glm-5.3"
+}

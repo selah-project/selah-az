@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 6:20",
+  "book": "judges",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Və Elohimin mələyi ona dedi: ⟨את⟩ əti və ⟨את⟩ matsotları götür və bu qayanın üstünə qoy, ⟨את⟩ şorbanı isə tök. Və belə etdi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Və dedi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mələk"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "קח",
+      "gloss": "götür"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əti"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "əti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "matsotları"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "matsotları"
+    },
+    {
+      "surface": "והנח",
+      "gloss": "və qoy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ın üstünə"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "qayanın"
+    },
+    {
+      "surface": "הלז",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "şorbanı"
+    },
+    {
+      "surface": "המרק",
+      "gloss": "şorbanı"
+    },
+    {
+      "surface": "שפוך",
+      "gloss": "tök"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "və etdi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "belə"
+    }
+  ],
+  "timestamp": "2026-09-01T11:19:13.896398944Z",
+  "model": "glm-5.3"
+}

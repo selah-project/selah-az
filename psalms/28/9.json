@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 28:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "Xalqını xilas et, ⟨את⟩ mülkünü xilas et və dincləndir onları, bərəkət ver ⟨את⟩ mirasına, onları otar və daşı onları əbədiyyətə qədər.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "xilas et"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqını"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "xalqını"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "və bərəkət ver"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mirasına"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "mirasına"
+    },
+    {
+      "surface": "ורעם",
+      "gloss": "və onları otar"
+    },
+    {
+      "surface": "ונשאם",
+      "gloss": "və daşı onları"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "əbədiyyətə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:07:49.401383103Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 23:10",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Və ⟨את⟩ bütün xalqı — hər kəs öz silahını əlində — evin sağ çiyinindən evin sol çiyininə qədər, altara və evə doğru, padşahın ətrafında düzəltdi.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "düzəltdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün xalqı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqı"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "hər kəs"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "öz silahını"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "əlində"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "çiyinindən"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "evin"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "sağ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "çiyininə"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "evin"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "sol"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "altara"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "və evə"
+    },
+    {
+      "surface": "על",
+      "gloss": "ətrafında"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşahın"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ətrafında"
+    }
+  ],
+  "timestamp": "2026-09-01T17:19:20.401751938Z",
+  "model": "glm-5.3"
+}

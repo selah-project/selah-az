@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 49,
+  "translation": "Atalarının nəslinə qədər gələcək, əbədiyyən işıq görməyəcəklər.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "gələcək"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "דור",
+      "gloss": "nəslinə"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "atalarının"
+    },
+    {
+      "surface": "עד",
+      "gloss": "əbədiyyən"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "əbədiyyən"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "görməyəcəklər"
+    },
+    {
+      "surface": "אור",
+      "gloss": "işıq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:16:14.832386841Z",
+  "model": "glm-5.3"
+}

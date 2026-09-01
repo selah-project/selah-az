@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 1:13",
+  "book": "esther",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Kral vaxtları bilən müdriklərə dedi — çünki kralın sözü ⟨belədir⟩, qanunu və məhkəməni bilən hər kəsin qarşısında.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": " dedi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "müdriklərə"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "bilən"
+    },
+    {
+      "surface": "העתים",
+      "gloss": "vaxtları"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "כן",
+      "gloss": "belə"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sözdür"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "qarşısında"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "bilən"
+    },
+    {
+      "surface": "דת",
+      "gloss": "qanun"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "və məhkəmə"
+    }
+  ],
+  "timestamp": "2026-09-01T16:35:07.209765424Z",
+  "model": "glm-5.3"
+}

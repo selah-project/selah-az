@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 141:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 141,
+  "translation": "Ürəyimi pis sözə əymə ki, pislikdə pis işlərlə məşğul olum, ⟨את⟩ əlbs işləyən adamlarla; və onların nemətlərindən yeməyim ⟨yox⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "əymə"
+    },
+    {
+      "surface": "תט",
+      "gloss": "əymə"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "Ürəyimi"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "sözə"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pis"
+    },
+    {
+      "surface": "להתעולל",
+      "gloss": "məşğul olum"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "işlərlə"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "pislikdə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adamlarla"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "adamlarla"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "işləyən"
+    },
+    {
+      "surface": "און",
+      "gloss": "əlbs (dəyərsizlik)"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "אלחם",
+      "gloss": "yeməyim"
+    },
+    {
+      "surface": "במנעמיהם",
+      "gloss": "onların nemətlərindən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:44:43.594734741Z",
+  "model": "glm-5.3"
+}

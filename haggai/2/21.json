@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "De: Zərubbavelə, Yəhudanın valisinə: Mən göyləri və yeri sarsıdacağam de.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "De"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zərubbavel"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "vali"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yəhuda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "de"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "sarsıdacağam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "göyləri"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göyləri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "yeri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeri"
+    }
+  ],
+  "timestamp": "2026-09-01T17:41:01.836156467Z",
+  "model": "glm-5.3"
+}

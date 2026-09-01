@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 42,
+  "translation": "Elohimim, canım içimdə yığılır ⟨mənim⟩; ona görə Səni xatırlayıram Yarden torpağından və Hermunlardan, Mitsar dağından.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "içimdə"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "yığılır"
+    },
+    {
+      "surface": "על",
+      "gloss": "ona görə"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "Səni xatırlayıram"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "torpağından"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "və Hermunlardan"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "dağından"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "Mitsar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:14:19.329263327Z",
+  "model": "glm-5.3"
+}

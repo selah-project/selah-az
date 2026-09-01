@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "və ⟨o gördü ki⟩ Yaakov atasına və anasına itaət edib Padan-Arama getdi.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "və itaət edib"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atası"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və -ına"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "anası"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "və getdi"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Padan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-09-01T09:54:27.134133371Z",
+  "model": "glm-5.3"
+}

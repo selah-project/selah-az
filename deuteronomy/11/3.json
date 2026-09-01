@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "və ⟨את⟩ onun nişanələrini və ⟨את⟩ onun əməllərini ki, o Mitsrayimin içində etdi — Paroya, Mitsrayim kralına və onun bütün torpağına.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "onun nişanələri"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "onun nişanələri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "onun əməlləri"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "onun əməlləri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o etdi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "içində"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Paroya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimin"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "onun torpağına"
+    }
+  ],
+  "timestamp": "2026-09-01T10:49:49.363773672Z",
+  "model": "glm-5.3"
+}

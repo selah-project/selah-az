@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 34:6",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 34,
+  "translation": "Yahvenin qılıncı qanla doludur, yağla doyubdur — qoyunların və keçi oğlaqlarının qanı ilə, qoçların böyrəklərinin yağı ilə; çünki Yahve üçün Botsrada qurban var, Edom torpağında böyük kəsim.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "qılınc"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "doludur"
+    },
+    {
+      "surface": "דם",
+      "gloss": "qanla"
+    },
+    {
+      "surface": "הדשנה",
+      "gloss": "doyubdur yağla"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "yağ ilə"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "qanı ilə"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "qoyunların"
+    },
+    {
+      "surface": "ועתודים",
+      "gloss": "və keçi oğlaqlarının"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "yağı ilə"
+    },
+    {
+      "surface": "כליות",
+      "gloss": "böyrəklərinin"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "qoçların"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "qurban"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve üçün"
+    },
+    {
+      "surface": "בבצרה",
+      "gloss": "Botsrada"
+    },
+    {
+      "surface": "וטבח",
+      "gloss": "və kəsim"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "torpağında"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-01T13:04:27.271344725Z",
+  "model": "glm-5.3"
+}

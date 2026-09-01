@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Padşah Estərə ⟨את⟩ qızıl əsanı uzatdı; Ester qalxıb padşahın önündə dayandı.",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "uzatdı"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Estərə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qızıl əsanı"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "əsanı"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "qızıl"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "qalxıb"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "dayandı"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önündə"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşahın"
+    }
+  ],
+  "timestamp": "2026-09-01T16:37:22.507690399Z",
+  "model": "glm-5.3"
+}

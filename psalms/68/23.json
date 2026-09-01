@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 68,
+  "translation": "Adonay dedi: «Başandan geri qaytaracağam, geri qaytaracağam dənizin dərinliklərindən.»",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "Başandan"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "geri qaytaracağam"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "geri qaytaracağam"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "dərinliklərindən"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dənizin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:22:19.992769963Z",
+  "model": "glm-5.3"
+}

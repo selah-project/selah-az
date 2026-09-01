@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Hətta ölüm kölgəsi dərəsindən keçəndə belə, pislikdən qorxmaram, çünki Sən mənimləsan; Sənin çomağın və Sənin əsan — onlar məni təsəlli edir.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Hətta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belə"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "keçəndə"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "dərəsindən"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "ölüm kölgəsi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—…maram"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "qorxmaram"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pislikdən"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sən"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "mənimləsan"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "Sənin çomağın"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "və Sənin əsan"
+    },
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "məni təsəlli edir"
+    }
+  ],
+  "timestamp": "2026-09-01T15:07:47.505710865Z",
+  "model": "glm-5.3"
+}

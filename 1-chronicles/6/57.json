@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-chronicles 6:57",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "və Yişşaxar tayfasından ⟨את⟩ Qedeşi və ⟨את⟩ onun kənd ərazilərini, ⟨את⟩ Davəratı və ⟨את⟩ onun kənd ərazilərini",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "və ... tayfasından"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yişşaxar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qedeşi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Qedeş"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "onun kənd ərazilərini"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "onun kənd əraziləri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davəratı"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Davərat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "onun kənd ərazilərini"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "onun kənd əraziləri"
+    }
+  ],
+  "timestamp": "2026-09-01T17:02:27.343427589Z",
+  "model": "glm-5.3"
+}

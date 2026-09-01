@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 4:25",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Onlar ⟨את⟩ mishkanın pərdələrini, ⟨את⟩ görüş çadırını, onun örtüyünü və üstündə olan, yuxarıdan tahaş örtüyünü, ⟨את⟩ görüş çadırı qapısının qarşısındakı pərdəni daşıyacaqlar.",
+  "tokens": [
+    {
+      "surface": "ונשאו",
+      "gloss": "daşıyacaqlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mishkanın pərdələrini"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "pərdələrini"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "mishkanın"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "görüş çadırını"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadırını"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "görüş"
+    },
+    {
+      "surface": "מכסהו",
+      "gloss": "onun örtüyünü"
+    },
+    {
+      "surface": "ומכסה",
+      "gloss": "örtüyünü"
+    },
+    {
+      "surface": "התחש",
+      "gloss": "tahaş"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "yuxarıdan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pərdəni"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "pərdəni"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "qapısının qarşısındakı"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadırı"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "görüş"
+    }
+  ],
+  "timestamp": "2026-09-01T17:28:42.044272873Z",
+  "model": "glm-5.3"
+}

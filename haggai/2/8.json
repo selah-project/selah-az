@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 2:8",
+  "book": "haggai",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Gümüş mənindir, və qızıl mənindir — Yahve Tsevaotun nəqli.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "mənindir"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "və mənindir"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "qızıl"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nəqli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    }
+  ],
+  "timestamp": "2026-09-01T14:52:36.984050637Z",
+  "model": "glm-5.3"
+}

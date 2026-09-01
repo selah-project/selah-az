@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 8:23",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Üç günlük yol ilə çölə gedəcəyik və Yahveyə, Elohimimizə O bizə nə deyərsə, elə ⟨qurban⟩ kəsəcəyik.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "yol"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "üç"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günlük"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "gedəcəyik"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "çölə"
+    },
+    {
+      "surface": "וזבחנו",
+      "gloss": "və kəsəcəyik"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimizə"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "elə"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "O deyərsə"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "bizə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:06:52.399597078Z",
+  "model": "glm-5.3"
+}

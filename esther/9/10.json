@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 9:10",
+  "book": "esther",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Hamanın on oğlu — Hamdata oğlu, yəhudilərin düşməni — öldürdülər, amma qənimətə ⟨את⟩ əllərini uzatmadılar",
+  "tokens": [
+    {
+      "surface": "עשרת",
+      "gloss": "on"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hamdata"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "düşməni"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "yəhudilərin"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "öldürdülər"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "qənimətə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "amma... yox"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "uzatmadılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əllərini"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "əllərini"
+    }
+  ],
+  "timestamp": "2026-09-01T16:36:48.262557876Z",
+  "model": "glm-5.3"
+}

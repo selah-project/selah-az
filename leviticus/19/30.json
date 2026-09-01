@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "⟨את⟩ şabbatlarımı qoruyun və məqdisimdən qorxun; mən Yahveyəm.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şabbatlarımı"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "şabbatlarımı"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "qoruyun"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "və məqdisim"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "qorxun"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T10:28:49.297654332Z",
+  "model": "glm-5.3"
+}

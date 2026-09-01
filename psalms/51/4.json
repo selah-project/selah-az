@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 51,
+  "translation": "Günahımdan ⟨məni⟩ çox-çox yu; xətamdan məni təmizlə.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "çox-çox"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "yu ⟨məni⟩"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "günahımdan"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "və xətamdan"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "məni təmizlə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:18:58.811994589Z",
+  "model": "glm-5.3"
+}

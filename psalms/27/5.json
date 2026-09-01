@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Çünki o, məni şər günündə sükka⟨sında⟩ gizlədəcək, çadırının gizli ⟨yerində⟩ məni saxlayacaq, qayanın ⟨üstündə⟩ məni yüksəldəcək.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "יצצפנני",
+      "gloss": "məni gizlədəcək"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "sükka⟨sında⟩"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "günündə"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "şər"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "məni saxlayacaq"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "gizli ⟨yerində⟩"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "çadırının"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "qayanın ⟨üstündə⟩"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "məni yüksəldəcək"
+    }
+  ],
+  "timestamp": "2026-09-01T15:09:28.046347223Z",
+  "model": "glm-5.3"
+}

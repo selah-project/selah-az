@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 58,
+  "translation": "Fasiqlər anadan gələndən yad olurlar; bətnindən azğırlaşırlar, yalan danışanlar ⟨kimi⟩.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "yad olurlar"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "Fasiqlər"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "anadan gələndən"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "azğırlaşırlar"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "bətnindən"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "danışanlar"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "yalan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:19:22.375322156Z",
+  "model": "glm-5.3"
+}

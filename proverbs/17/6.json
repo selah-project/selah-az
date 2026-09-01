@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 17:6",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Qocaların tacı oğulların oğullarıdır, oğulların izzəti isə ⟨onların⟩ atalarıdır.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "tacı"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "qocaların"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulların"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "və izzəti"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oğulların"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "onların ataları"
+    }
+  ],
+  "timestamp": "2026-09-01T17:44:09.808571001Z",
+  "model": "glm-5.3"
+}

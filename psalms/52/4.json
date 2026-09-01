@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 52,
+  "translation": "Dilan fəlakətlər qurur — iti ülgüc kimi, hiylə işlədən ⟨adam⟩.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "fəlakətlər"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "qurur"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "Dilan"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "ülgüc kimi"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "iti"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "işlədən"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "hiylə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:19:24.339006726Z",
+  "model": "glm-5.3"
+}

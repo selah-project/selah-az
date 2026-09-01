@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "Və onları bala buzov kimi rəqs etdirir — Livanon və Şiryon, vəhşi öküz balası kimi.",
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "və onları rəqs etdirir"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "bala buzov"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Livanon"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "və Şiryon"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "balası"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "vəhşi öküzlərin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:08:52.416542635Z",
+  "model": "glm-5.3"
+}

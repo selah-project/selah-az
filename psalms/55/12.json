@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 55,
+  "translation": "Xəstəliklər ⟨var⟩ onun ortasında, və onun meydanından çəkilməz zorakılıq və hiylə.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "xəstəliklər"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "onun ortasında"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... çəkilməz"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "çəkilməz"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "onun meydanından"
+    },
+    {
+      "surface": "תך",
+      "gloss": "zorakılıq"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "və hiylə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:17:58.509179547Z",
+  "model": "glm-5.3"
+}

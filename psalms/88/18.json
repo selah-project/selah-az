@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 88:18",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 88,
+  "translation": "Sular kimi bütün gün məni bürüdülər, birlikdə mənim ətrafımda dolandılar.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "məni bürüdülər"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "sular kimi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "הקיפו",
+      "gloss": "dolandılar"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ətrafımda"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "birlikdə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:14.179508286Z",
+  "model": "glm-5.3"
+}

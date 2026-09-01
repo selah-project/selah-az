@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 133,
+  "translation": "Hermônun şehi kimi, Siyon dağlarının üstünə enən; çünki orada Yahve ⟨את⟩ xeyir-duanı buyurdu — həyat, əbədiyyənə qədər.",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "şehi kimi"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Hermônun"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "enən"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "dağlarının"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurdu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xeyir-duanı"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "xeyir-duanı"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "həyat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "əbədiyyənə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:43:10.023461747Z",
+  "model": "glm-5.3"
+}

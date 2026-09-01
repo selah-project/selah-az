@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 21:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Çünki onu yaxşılıq bərəkətləri ilə qarşılayırsan, başına saf qızıldan tac qoyursan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "תקדמנו",
+      "gloss": "onu qarşılayırsan"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "bərəkətləri"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşılıq"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "qoyursan"
+    },
+    {
+      "surface": "לראשו",
+      "gloss": "başına"
+    },
+    {
+      "surface": "עטrerת",
+      "gloss": "tac"
+    },
+    {
+      "surface": "פז",
+      "gloss": "saf qızıldan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:07:42.195348301Z",
+  "model": "glm-5.3"
+}

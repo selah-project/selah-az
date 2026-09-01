@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 17:20",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Və Yahveyə çağırıb dedi: Yahve, Elohimim, mənim yanında qonaq qaldığım dul qadının üstünə dəmi pislik edirsən, oğlunu ⟨את⟩ öldürmək üçün?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "və çağırıb"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "dəmi"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "האלמנה",
+      "gloss": "dul qadının"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "מתגורר",
+      "gloss": "qonaq qalıram"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "pislik edirsən"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "öldürmək üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oğlunu"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "oğlunu"
+    }
+  ],
+  "timestamp": "2026-09-01T12:22:58.524799954Z",
+  "model": "glm-5.3"
+}

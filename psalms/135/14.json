@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 135,
+  "translation": "Çünki Yahve öz xalqını mühakimə edəcək, və qulları haqqında ⟨təsəlli tapacaq⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "mühakimə edəcək"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "öz xalqını"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "haqqında"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "qulları"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "təsəlli tapacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:32.474096703Z",
+  "model": "glm-5.3"
+}

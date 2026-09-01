@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 132,
+  "translation": "Qulun Davudun üzüülünüz üçün Məsihinin üzünü geri çevirmə.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "üzüülünüz"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "qulun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "geri"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "çevirmə"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzünü"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Məsihinin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:11.397155454Z",
+  "model": "glm-5.3"
+}

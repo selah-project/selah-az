@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 22:1",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Səkkiz yaşlı oğlan idi Yoşiya ⟨onun⟩ padşah olmasında, otuz bir il padşahlıq etdi Yeruşalayimdə; anasının adı Yedida — Ədəyyanın qızı, Boskatdan ⟨idi⟩.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "oğlan"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "səkkiz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yaş"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoşiya"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "padşah olmasında"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "otuz"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "bir"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "il"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşahlıq etdi"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yeruşalayimdə"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "və adı"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "anasının"
+    },
+    {
+      "surface": "ידידה",
+      "gloss": "Yedida"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qızı"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "Ədəyyanın"
+    },
+    {
+      "surface": "מבצקת",
+      "gloss": "Boskatdan"
+    }
+  ],
+  "timestamp": "2026-09-01T12:43:29.660706783Z",
+  "model": "glm-5.3"
+}

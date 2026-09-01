@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Mən isə əmin-amanlığımda demişdim: «Bəs heç vaxt sarsılmaram.»",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Mən isə"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "demişdim"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "əmin-amanlığımda"
+    },
+    {
+      "surface": "בל",
+      "gloss": "heç vaxt"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "sarsılmaram"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədi olaraq"
+    }
+  ],
+  "timestamp": "2026-09-01T17:41:24.567740783Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 59,
+  "translation": "Onlar yemək üçün dolanırlar; əgər doymasalar, ⟨gecəni⟩ keçirərlər.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "dolanırlar"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "yemək üçün"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "לא",
+      "gloss": "olmasa"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "doymasalar"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "keçirərlər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:20:13.170290562Z",
+  "model": "glm-5.3"
+}

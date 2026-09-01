@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Səmalarda Oturan gülür, Adonay Onları lağa qoyur.",
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "Oturan"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "Səmalarda"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "gülür"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "lağa qoyur"
+    },
+    {
+      "surface": "למו",
+      "gloss": "Onları"
+    }
+  ],
+  "timestamp": "2026-09-01T15:01:49.100382636Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 89:46",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 89,
+  "translation": "Onun gəncliyinin günlərini qısaltdın, onu utanc ilə örtdün. Selah.",
+  "tokens": [
+    {
+      "surface": "הקצרת",
+      "gloss": "qısaltdın"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "günlərini"
+    },
+    {
+      "surface": "עלומיו",
+      "gloss": "onun gəncliyinin"
+    },
+    {
+      "surface": "העטית",
+      "gloss": "örtdün"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onu"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "utanc ilə"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T15:30:29.405664853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 11:13",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Yalnız bütün məmləkəti qoparmayacağam — bir qəbiləni oğluna verəcəyəm, qulum Davidin xatirinə və seçdiyim Yeruşalayimin xatirinə.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün məmləkəti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "məmləkəti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "אקרע",
+      "gloss": "qoparmayacağam"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "qəbiləni"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "verəcəyəm"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "oğluna"
+    },
+    {
+      "surface": "למען",
+      "gloss": "xatirinə"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "qulum"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "və xatirinə"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayimin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "seçdiyim"
+    }
+  ],
+  "timestamp": "2026-09-01T12:18:42.266109042Z",
+  "model": "glm-5.3"
+}

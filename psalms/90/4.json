@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 90,
+  "translation": "Çünki min il sənin gözündə dünənki gün kimidir — ⟨çünki⟩ o keçib getdi — ⟨və⟩ gecənin bir növbəti kimidir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "min"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "il"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "sənin gözündə"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "gün kimidir"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "dünənki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨çünki⟩"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "keçib getdi"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "növbə kimidir"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "gecə⟨nin⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T15:32:33.236629107Z",
+  "model": "glm-5.3"
+}

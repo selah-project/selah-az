@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 20:9",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Kim deyə bilər: Mə ürəyimi təmizlədim, günahımdan təmizləndim?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kim"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "deyə bilər"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "təmizlədim"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ürəyimi"
+    },
+    {
+      "surface": "טהרתי",
+      "gloss": "təmizləndim"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "günahımdan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:55:21.493368856Z",
+  "model": "glm-5.3"
+}

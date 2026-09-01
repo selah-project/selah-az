@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 7:5",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Və Mitsrayim biləcək ki, Mən Yahveyam — əlimi ⟨את⟩ Mitsrayimin üstünə uzatdığımda və İsrail oğullarını ⟨את⟩ onların arasından çıxardığımda.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "və biləcək"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בנטתי",
+      "gloss": "uzatdığımda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əlimi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "əlimi"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimin"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "və çıxardığımda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsrail oğullarını"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "onların arasından"
+    }
+  ],
+  "timestamp": "2026-09-01T17:26:42.365984325Z",
+  "model": "glm-5.3"
+}

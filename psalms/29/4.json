@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "Yahvenin səsi qüdrətlidir; Yahvenin səsi zərgərliklə doludur.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "səsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "qüdrətlidir"
+    },
+    {
+      "surface": "קול",
+      "gloss": "səsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "zərgərliklə doludur"
+    }
+  ],
+  "timestamp": "2026-09-01T15:09:28.395003949Z",
+  "model": "glm-5.3"
+}

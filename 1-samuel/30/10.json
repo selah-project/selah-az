@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 30:10",
+  "book": "1-samuel",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "David təqib etdi, özü və dörd yüz adam; iki yüz adam isə dayandılar — ⟨onlar⟩ Besor çayını ⟨את⟩ keçməkdən tükənmişdilər.",
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "təqib etdi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "özü"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "və dörd"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "dayandılar"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "iki yüz"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "פגרו",
+      "gloss": "tükənmişdilər"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "keçməkdən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Besor çayı"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "çay"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "Besor"
+    }
+  ],
+  "timestamp": "2026-09-01T11:47:04.984569810Z",
+  "model": "glm-5.3"
+}

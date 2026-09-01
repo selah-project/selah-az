@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 4:28",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və orada insan əlinin əməli olan — ağacdan və daşdan — görməyən, eşitməyən, yeməyən və qoxmayan tanrılara ibadət edəcəksiniz.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "ibadət edəcəksiniz"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tanrılara"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "əməli"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "əlinin"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insanın"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ağacdan"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "və daşdan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יראון",
+      "gloss": "görmürlər"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "eşitmirlər"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "יאכלון",
+      "gloss": "yemirlər"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "יריחן",
+      "gloss": "qoxmurlar"
+    }
+  ],
+  "timestamp": "2026-09-01T10:48:05.795557348Z",
+  "model": "glm-5.3"
+}

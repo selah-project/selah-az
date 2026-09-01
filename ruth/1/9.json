@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ruth 1:9",
+  "book": "ruth",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Yahve sizə versin ki, hər biriniz öz ərinin evində istirahət tapasınız. O, onları öpdü, onlar isə səslərini qaldırıb ağladılar.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "versin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizə"
+    },
+    {
+      "surface": "ומצאן",
+      "gloss": "və tapasınız"
+    },
+    {
+      "surface": "מנוחה",
+      "gloss": "istirahət"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "hər biri ⟨qadın⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evində"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "öz ərinin"
+    },
+    {
+      "surface": "ותשק",
+      "gloss": "və öpdü"
+    },
+    {
+      "surface": "להן",
+      "gloss": "onları"
+    },
+    {
+      "surface": "ותשאנה",
+      "gloss": "qaldırıb"
+    },
+    {
+      "surface": "קולן",
+      "gloss": "səslərini"
+    },
+    {
+      "surface": "ותבכינה",
+      "gloss": "ağladılar"
+    }
+  ],
+  "timestamp": "2026-09-01T16:23:39.131430494Z",
+  "model": "glm-5.3"
+}

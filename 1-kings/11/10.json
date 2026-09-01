@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 11:10",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "və ona bu barədə əmr etmişdi — başqa eloimlərin arxasınca getməmək üçün; amma o, Yahvenin ona əmr etdiyi ⟨את⟩ şeyi saxlamadı.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "və əmr etdi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "על",
+      "gloss": "barədə"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "bu söz"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "olmasın deyə"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "getmək"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "arxasınca"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "eloimlərin"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "başqa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma ⟨o⟩ saxlamadı"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "saxladı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahvenin ona əmr etdiyi şey"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki, onu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "əmr etdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T12:18:29.364931502Z",
+  "model": "glm-5.3"
+}

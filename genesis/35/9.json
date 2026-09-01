@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 35:9",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "Elohim Padan-Aramdan gələrkən Yakova yenə göründü və onu bərəkətlədi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "göründü"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakov"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yenə"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "gələrkən"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "Padan-"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramdan"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "və bərəkətlədi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    }
+  ],
+  "timestamp": "2026-09-01T09:57:31.212318867Z",
+  "model": "glm-5.3"
+}

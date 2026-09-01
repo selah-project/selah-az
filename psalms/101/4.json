@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 101,
+  "translation": "Əyri ürək məndən uzaqlaşsın; şəri tanımayacağam.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "ürək"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "əyri"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "uzaqlaşsın"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "məndən"
+    },
+    {
+      "surface": "רע",
+      "gloss": "şəri"
+    },
+    {
+      "surface": "لא",
+      "gloss": "tanımayacağam (neqasiya)"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "tanımayacağam"
+    }
+  ],
+  "timestamp": "2026-09-01T15:34:44.053537367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "⟨O⟩ məni geniş yerə çıxartdı, ⟨məni⟩ xilas etdi, çünki ⟨O⟩ məndən razı qaldı.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "çıxartdı"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "geniş yerə"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "məni"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "xilas etdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "razı qaldı"
+    },
+    {
+      "surface": "בי",
+      "gloss": "məndən"
+    }
+  ],
+  "timestamp": "2026-09-01T12:06:42.664794424Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 22:1",
+  "book": "2-samuel",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Və Davud Yahveyə bu nəğmənin ⟨את⟩ sözlərini danışdı — Yahvenin onu ⟨את⟩ bütün düşmənlərinin əlindən və Şaulun əlindən qurtardığı gündə.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "və danışdı"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sözlərini"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözlərini"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "nəğmənin"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gündə"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "qurtardığı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "əlindən"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "düşmənlərinin"
+    },
+    {
+      "surface": "ומכף",
+      "gloss": "və əlindən"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaulun"
+    }
+  ],
+  "timestamp": "2026-09-01T12:05:35.047782225Z",
+  "model": "glm-5.3"
+}

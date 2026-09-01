@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 31:42",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "Əgər atamın Elohim-i — Avrahamın Elohim-i və Yitsjakın qorxusu mənimlə olmasaydı, indi məni boş göndərərdin. ⟨את⟩ əzabımı və ⟨את⟩ əllərimin əməyini Elohim görd və dünən gecə ⟨səni⟩ məzəmmət etdi.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "əgər olmasaydı"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-i"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atamın"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-i"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamın"
+    },
+    {
+      "surface": "ופחד",
+      "gloss": "və qorxusu"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsjakın"
+    },
+    {
+      "surface": "היה",
+      "gloss": "olardı"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənim üçün"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "boş"
+    },
+    {
+      "surface": "שלחתני",
+      "gloss": "məni göndərərdin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əzabımı"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "əzabımı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "əllərimin əməyini"
+    },
+    {
+      "surface": "יגיע",
+      "gloss": "əməyini"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "əllərimin"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "gördü"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "və məzəmmət etdi"
+    },
+    {
+      "surface": "אמש",
+      "gloss": "dünən gecə"
+    }
+  ],
+  "timestamp": "2026-09-01T09:56:58.875469863Z",
+  "model": "glm-5.3"
+}

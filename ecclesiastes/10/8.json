@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Çuxur qazan ⟨onun⟩ içinə düşər, divar sökəni isə ilan sancar.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "qazan"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "çuxur"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨onun⟩ içinə"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "düşər"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "sökən isə"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "divar"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "sancar"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ilan"
+    }
+  ],
+  "timestamp": "2026-09-01T16:31:17.484243605Z",
+  "model": "glm-5.3"
+}

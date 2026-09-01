@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 27:10",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Dostunu və atanın ⟨dostunu⟩ tərk etmə, və qardaşının evinə fəlakətin günündə girmə; yaxın qonşu uzaq qardaşdan ⟨daha⟩ yaxşıdır.",
+  "tokens": [
+    {
+      "surface": "רעך",
+      "gloss": "dostunu"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "və dostu"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "atanın"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "tərk etmə"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "və evinə"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "qardaşının"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "girmə"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "günündə"
+    },
+    {
+      "surface": "אידך",
+      "gloss": "fəlakətinin"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşıdır"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "qonşu"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "yaxın"
+    },
+    {
+      "surface": "מאח",
+      "gloss": "qardaşdan"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "uzaq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:59:38.828907415Z",
+  "model": "glm-5.3"
+}

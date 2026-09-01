@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 3:7",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və Yahve dedi: Görüm görmüşəm ⟨את⟩ xalqımın sıxıntısını, o ki, Mitsrayimdadır, və ⟨את⟩ fəryadlarını eşitmişəm nəzarətçilərin əlindən, çünki bilirəm ⟨את⟩ dərdlərini.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "görüm"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "görmüşəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqımın sıxıntısını"
+    },
+    {
+      "surface": "עני",
+      "gloss": "sıxıntısı"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqımın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o ki"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayimdadır"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "fəryadlarını"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "fəryadları"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "eşitmişəm"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "əlindən"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "nəzarətçilərin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "bilirəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dərdlərini"
+    },
+    {
+      "surface": "מכאביו",
+      "gloss": "dərdləri"
+    }
+  ],
+  "timestamp": "2026-09-01T17:26:41.566804880Z",
+  "model": "glm-5.3"
+}

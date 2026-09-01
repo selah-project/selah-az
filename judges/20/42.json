@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "judges 20:42",
+  "book": "judges",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Və İsrail adamlarının üzündən çölün yoluna tərəf döndülər, döyüş isə onları arxadan yetişib yapışdı, və şəhərlərdən ⟨çıxanlar⟩ onları ⟨onların⟩ ortasında məhv edirdilər.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "və döndülər"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "üzündən"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamının"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tərəfə"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yoluna"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "çölün"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "və döyüş"
+    },
+    {
+      "surface": "הדביקתהו",
+      "gloss": "ona yetişib yapışdı"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "və o kəslər ki"
+    },
+    {
+      "surface": "מהערים",
+      "gloss": "şəhərlərdən"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "məhv edirdilər"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "Binjamini (onun ortasında)"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "⟨onların⟩ ortasında"
+    }
+  ],
+  "timestamp": "2026-09-01T11:28:44.264624615Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 80:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 80,
+  "translation": "Onlara göz yaşı çörəyi yedirtmisən və onları üç qat göz yaşı ilə içirtmisən.",
+  "tokens": [
+    {
+      "surface": "האכלתם",
+      "gloss": "yedirtmisən"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "çörək"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "göz yaşı"
+    },
+    {
+      "surface": "ותשקמו",
+      "gloss": "və içirtmisən"
+    },
+    {
+      "surface": "בדמעות",
+      "gloss": "göz yaşı ilə"
+    },
+    {
+      "surface": "שליש",
+      "gloss": "üç qat"
+    }
+  ],
+  "timestamp": "2026-09-01T15:27:50.796733636Z",
+  "model": "glm-5.3"
+}

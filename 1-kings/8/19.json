@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 8:19",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Yalnız sən evi tikməyəcəksən, amma bingizdən çıxacaq olan oğlun — o, Mənim adıma evi tikəcək.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-mə"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "tikəcəksən"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amma"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "בנך",
+      "gloss": "oğlun"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "çıxacaq olan"
+    },
+    {
+      "surface": "מחלציך",
+      "gloss": "bingizdən"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "tikəcək"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "Mənim adıma"
+    }
+  ],
+  "timestamp": "2026-09-01T12:16:27.765952383Z",
+  "model": "glm-5.3"
+}

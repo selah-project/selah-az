@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Bunlar Şemin nəsilləridir: Şem yüz yaşında oğlu oldu ⟨את⟩ Arpaxşadın, tufandan iki il sonra.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "bunlar"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "nəsilləri"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Şem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Şem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yaşında"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpaxşadın"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpaxşad"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "iki il"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sonra"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "tufandan"
+    }
+  ],
+  "timestamp": "2026-09-01T09:48:40.985093933Z",
+  "model": "glm-5.3"
+}

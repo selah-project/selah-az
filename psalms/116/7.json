@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 116,
+  "translation": "Qayıt, canım, sərin istirahətinə, çünki Yahve sənə yaxşılıq etdi.",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "qayıt"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "sərin istirahətinə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "yaxşılıq etdi"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "sənə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:07.318348248Z",
+  "model": "glm-5.3"
+}

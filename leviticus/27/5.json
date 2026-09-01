@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 27:5",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Və əgər ⟨bu,⟩ beş yaşlı oğlandan iyirmi yaşlı oğladək ⟨olsa⟩, o zaman kişinin dəyərləndirmən iyirmi şəkel, qadın üçün isə on şəkel olacaq.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "oğlandan"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "beş"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "yaş"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dək"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iyirmi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yaş"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "dəyərləndirmən"
+    },
+    {
+      "surface": "הזכר",
+      "gloss": "kişinin"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iyirmi"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "şəkel"
+    },
+    {
+      "surface": "ולנקבה",
+      "gloss": "qadın üçün isə"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "on"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "şəkel"
+    }
+  ],
+  "timestamp": "2026-09-01T10:32:09.910540794Z",
+  "model": "glm-5.3"
+}

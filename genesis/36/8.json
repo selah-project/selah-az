@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 36,
+  "translation": "və Esav Seir dağında məskən saldı; Esav ⟨o⟩ Edomdur.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "və məskən saldı"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "dağında"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomdur"
+    }
+  ],
+  "timestamp": "2026-09-01T09:57:35.630908801Z",
+  "model": "glm-5.3"
+}

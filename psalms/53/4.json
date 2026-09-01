@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 53,
+  "translation": "Hamısı bir yerdə geri döndü, murdarlandı; yaxşılıq edən yoxdur — hətta bir nəfər belə.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "hamısı"
+    },
+    {
+      "surface": "סג",
+      "gloss": "geri döndü"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bir yerdə"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "murdarlandı"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "edən"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşılıq"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hətta"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir nəfər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:18:35.764179435Z",
+  "model": "glm-5.3"
+}

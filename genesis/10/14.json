@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "və ⟨את⟩ Patrusim, və ⟨את⟩ Kasluxim — oradan Pəliştim çıxdı — və ⟨את⟩ Kaftorim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Patrusim"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "Patrusim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kasluxim"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "Kasluxim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kimdən"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "çıxdılar"
+    },
+    {
+      "surface": "משם",
+      "gloss": "oradan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pəliştim"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "⟨את⟩",
+      "marks": "Kaftorim"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "Kaftorim"
+    }
+  ],
+  "timestamp": "2026-09-01T09:48:31.967327087Z",
+  "model": "glm-5.3"
+}

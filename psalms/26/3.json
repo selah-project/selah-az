@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Çünki Sənin hesed-in gözümün qarşısındadır və mən Sənin həqiqətində gəzmişəm.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-in"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "qarşısında"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözümün"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "və gəzmişəm"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "həqiqətində"
+    }
+  ],
+  "timestamp": "2026-09-01T17:41:35.870800594Z",
+  "model": "glm-5.3"
+}

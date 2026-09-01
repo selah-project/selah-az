@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 73,
+  "translation": "Mən isə həmişə Səninləyəm; Sağ əlimdən tutmusan.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "mən isə"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "həmişə"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "Səninlə"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "tutmusan"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "əlimdən"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "sağ"
+    }
+  ],
+  "timestamp": "2026-09-01T15:24:20.846658137Z",
+  "model": "glm-5.3"
+}

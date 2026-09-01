@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 120,
+  "translation": "Vay ⟨mənə⟩ ki, Meşexdə müvəqqəti yaşadım, Qedar çadırları ilə birlikdə məskən saldım.",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "vay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨mənə⟩ halıma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "müvəqqəti yaşadım"
+    },
+    {
+      "surface": "משך",
+      "gloss": "Meşexdə"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "məskən saldım"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ilə birlikdə"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "çadırları"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Qedar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:41:30.939287330Z",
+  "model": "glm-5.3"
+}

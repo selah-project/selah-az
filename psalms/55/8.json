@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 55,
+  "translation": "Bax, uzaqlaşaram, köçərdim, çöldə gecələrəm. Selah.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "uzaqlaşaram"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "köçərdim"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "gecələrəm"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "çöldə"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T15:17:40.788699585Z",
+  "model": "glm-5.3"
+}

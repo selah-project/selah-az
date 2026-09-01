@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 14:13",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Və qoçu ⟨את⟩ günah qurbanının və ⟨את⟩ yandırma qurbanının kəsildiyi yerdə, müqəddəs yerdə kəsəcək; çünki günah qurbanı kimi azad qurbanı da kahinindir — o, müqəddəslərin müqəddəsidir.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "kəsəcək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qoçu"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "qoçu"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "yerdə"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "kəsildiyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "günah qurbanı"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "günah qurbanının"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "yandırma qurbanı"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yandırma qurbanının"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "yerdə"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "günah qurbanı kimi"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "azad qurbanı"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kahinindir"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "müqəddəslərin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-09-01T10:26:33.295504821Z",
+  "model": "glm-5.3"
+}

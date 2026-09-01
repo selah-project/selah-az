@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 12:7",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Və candan qan götürüb iki qapı dirəyinə və üstündəki ləhmət üstünə, onu yeyəcəkləri evlərin üzərinə çəkəcəklər.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "və götürəcəklər"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "qandan"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "və qoyacaqlar"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iki"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "qapı dirəklərinin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "və üzərinə"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "ləhmətin (üst eşik)"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "evlərin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "yeyəcəkləri"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onlarda"
+    }
+  ],
+  "timestamp": "2026-09-01T10:08:06.898866353Z",
+  "model": "glm-5.3"
+}

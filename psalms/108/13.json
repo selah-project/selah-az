@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 108,
+  "translation": "Ver bizə sıxıntıdan ⟨ə⟩ kömək, çünki insanın qurtuluşu puçdur.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "ver"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizə"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "kömək"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "sıxıntıdan"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "çünki puçdur"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "qurtuluşu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insanın"
+    }
+  ],
+  "timestamp": "2026-09-01T15:37:00.356656067Z",
+  "model": "glm-5.3"
+}

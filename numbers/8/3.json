@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 8:3",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Aharon belə etdi: mənoranın üzü qarşısında onun çıraqlarını qaldırdı, Yahvenin Moşeyə ⟨את⟩ əmr etdiyi kimi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "etdi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "belə"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "qarşısında"
+    },
+    {
+      "surface": "מול",
+      "gloss": "üz qarşısında"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzü"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "mənoranın"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "qaldırdı"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "çıraqlarını"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "əmr etdiyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    }
+  ],
+  "timestamp": "2026-09-01T10:36:32.077485013Z",
+  "model": "glm-5.3"
+}

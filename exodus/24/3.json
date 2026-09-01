@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 24:3",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Moşe gəldi və xalqa Yahvenin bütün sözlərini ⟨את⟩ və bütün hökmləri ⟨את⟩ nəql etdi; bütün xalq bir səslə cavab verdi və dedi: Yahvenin danışdığı bütün sözləri edəcəyik.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "gəldi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ויספר",
+      "gloss": "nəql etdi"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "xalqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün sözləri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözlərini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bütün hökmləri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "hökmləri"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "cavab verdi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "קול",
+      "gloss": "səslə"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "və dedilər"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sözləri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "danışdığı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "edəcəyik"
+    }
+  ],
+  "timestamp": "2026-09-01T10:14:54.542236754Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 10:10",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Əgər dəmir kütləmişdirsə və o, üzlərini ⟨itiləməyibsə⟩, qüvvə çoxaltmaq lazımdır; üstünlüyü ⟨gətirən⟩ isə hikmətin özüdırür — ⟨o⟩ ⟨hər şeyi⟩ düzəldən.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "קהה",
+      "gloss": "kütləmişdirsə"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "dəmir"
+    },
+    {
+      "surface": "ו הוא",
+      "gloss": "və o"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "üzlərini"
+    },
+    {
+      "surface": "קלקל",
+      "gloss": "itiləməyibsə"
+    },
+    {
+      "surface": "וחילים",
+      "gloss": "qüvvə"
+    },
+    {
+      "surface": "יגבר",
+      "gloss": "çoxaltmaq lazımdır"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "üstünlüyü"
+    },
+    {
+      "surface": "הכשיר",
+      "gloss": "düzəldən"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmət"
+    }
+  ],
+  "timestamp": "2026-09-01T16:31:15.112042686Z",
+  "model": "glm-5.3"
+}

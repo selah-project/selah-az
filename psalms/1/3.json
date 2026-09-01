@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 1:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və ⟨o⟩ su arxlarının yanına əkilmiş ağac kimi olacaq ki, meyvəsini öz vaxtında verər, yarpağı solmaz, və nə edərsə ⟨hər şey⟩ müvəffəqiyyət tapar.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "və olacaq"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "ağac kimi"
+    },
+    {
+      "surface": "שתול",
+      "gloss": "əkilmiş"
+    },
+    {
+      "surface": "על",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "פלגי",
+      "gloss": "arxlarının"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "meyvəsini"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "verər"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "öz vaxtında"
+    },
+    {
+      "surface": "ועלהו",
+      "gloss": "yarpağı"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—maz"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "solmaq"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "və hər şey"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nə"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "edər"
+    },
+    {
+      "surface": "יצליח",
+      "gloss": "müvəffəqiyyət tapar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:02:35.782780037Z",
+  "model": "glm-5.3"
+}

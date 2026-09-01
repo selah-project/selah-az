@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 11:1",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Və Yişayın kötüyündən bir çubuq çıxacaq, onun köklərindən bir budaq bar verəcək.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "çıxacaq"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "çubuq"
+    },
+    {
+      "surface": "מגזע",
+      "gloss": "kötüyündən"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yişayın"
+    },
+    {
+      "surface": "ונצר",
+      "gloss": "və bir budaq"
+    },
+    {
+      "surface": "משרשיו",
+      "gloss": "onun köklərindən"
+    },
+    {
+      "surface": "יפרה",
+      "gloss": "bar verəcək"
+    }
+  ],
+  "timestamp": "2026-09-01T12:52:34.594931588Z",
+  "model": "glm-5.3"
+}

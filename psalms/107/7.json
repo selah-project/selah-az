@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 107,
+  "translation": "Onları düz yola yönəltdi, sakin olacaq şəhərə çatmaq üçün.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "yönəltdi onları"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yola"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "düz"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "çatmaq üçün"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şəhər"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "sakınclıq (məskən)"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:46.873255392Z",
+  "model": "glm-5.3"
+}

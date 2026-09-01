@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Əgər ilan fısıltısız dişləyirsə, dil sahibinin heç bir üstünlüyü yoxdur.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "dişləyirsə"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ilan"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "fısıltısız"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "fısıltı"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "üstünlük"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "sahibinin"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "dil"
+    }
+  ],
+  "timestamp": "2026-09-01T16:31:15.112230855Z",
+  "model": "glm-5.3"
+}

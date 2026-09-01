@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 52:3",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 52,
+  "translation": "Çünki belə deyir Yahve: pulsuz satıldınız və gümüşlə deyil, qayıdılacaqsınız.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "כה",
+      "gloss": "belə"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "pulsuz"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "satıldınız"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... deyil"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "gümüşlə"
+    },
+    {
+      "surface": "תגאלו",
+      "gloss": "qayıdılacaqsınız"
+    }
+  ],
+  "timestamp": "2026-09-01T13:14:55.719143078Z",
+  "model": "glm-5.3"
+}

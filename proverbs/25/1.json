@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 25:1",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Bunlar da Şlomonun məsəlləridir, hansılar ki Xizkiyahın, Yehuda kralının adamları köçürüb.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "də"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bunlar"
+    },
+    {
+      "surface": "משלי",
+      "gloss": "məsəlləri"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şlomonun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hansılar ki"
+    },
+    {
+      "surface": "העתיקו",
+      "gloss": "köçürdü"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "adamları"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Xizkiyahın"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-01T15:58:55.572536179Z",
+  "model": "glm-5.3"
+}

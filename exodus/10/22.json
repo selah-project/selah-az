@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Moşe ⟨את⟩ əlini göylərə tərəf uzatdı və bütün Mitsrayim torpağında üç gün qalın qaranlıq ⟨qaranlıq⟩ oldu.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "uzatdı"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əlini"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "əlini"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göylərə"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "qaranlıq"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "qalın qaranlıq"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "torpağında"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "üç"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:07:17.355065391Z",
+  "model": "glm-5.3"
+}

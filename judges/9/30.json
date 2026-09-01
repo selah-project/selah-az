@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 9:30",
+  "book": "judges",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Zevul, şəhərin sərkərdəsi, Qaal Eved oğlunun sözlərini ⟨את⟩ eşitdi, və qəzəbi ⟨qaynadı⟩.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "və eşitdi"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "Zevul"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sərkərdəsi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şəhərin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sözlərini"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözlərini"
+    },
+    {
+      "surface": "געל",
+      "gloss": "Qaal"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Eved"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "və qaynadı"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "qəzəbi"
+    }
+  ],
+  "timestamp": "2026-09-01T11:21:36.177145359Z",
+  "model": "glm-5.3"
+}

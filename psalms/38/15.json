@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 38,
+  "translation": "Eşitməyən adam kimi oldum, ağzında isə heç bir etiraz yoxdur.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "oldum"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "adam kimi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "eşitməyən"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eşitən"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "ağzında"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "etiraz"
+    }
+  ],
+  "timestamp": "2026-09-01T15:13:16.641010073Z",
+  "model": "glm-5.3"
+}

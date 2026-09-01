@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 81,
+  "translation": "Çünki bu İsrail üçün qanundur, Yaaqovun Elohiminin hökmüdür.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "חק",
+      "gloss": "qanun"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "İsrail üçün"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "bu ⟨dur⟩"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hökm"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohiminin"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaqovun"
+    }
+  ],
+  "timestamp": "2026-09-01T15:28:07.162544468Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 75,
+  "translation": "«Təyin olunmuş vaxtı götürəndə mən düzlüklə mühakimə edəcəyəm.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "⟨çünki⟩"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "götürəndə"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "təyin olunmuş vaxtı"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "düzlüklə"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "mühakimə edəcəyəm"
+    }
+  ],
+  "timestamp": "2026-09-01T15:25:46.993870967Z",
+  "model": "glm-5.3"
+}

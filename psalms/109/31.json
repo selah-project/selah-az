@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 109:31",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 109,
+  "translation": "Çünki O, yoxsulun sağ tərəfində dayanır, onu canını mühakimə edənlərdən qurtarmaq üçün.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "dayanır"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "sağ tərəfində"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "yoxsulun"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "qurtarmaq üçün"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mühakimə edənlərdən"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "canını"
+    }
+  ],
+  "timestamp": "2026-09-01T15:37:31.874517635Z",
+  "model": "glm-5.3"
+}

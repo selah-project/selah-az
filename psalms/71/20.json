@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 71:20",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 71,
+  "translation": "⟨Sən⟩ ki, bizə bir çox sıxıntılar və şərlər göstərdin, ⟨sən⟩ geri dönüb bizi dirildəcəksən, yerin dərinliklərindən geri dönüb məni yuxarı çıxaracaqsan.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הראיתנו",
+      "gloss": "bizə göstərdin"
+    },
+    {
+      "surface": "צרות",
+      "gloss": "sıxıntılar"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "bir çox"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "və şərlər"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "geri dönüb"
+    },
+    {
+      "surface": "תחיינו",
+      "gloss": "bizi dirildəcəksən"
+    },
+    {
+      "surface": "ומתהמות",
+      "gloss": "və dərinliklərindən"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "geri dönüb"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "məni yuxarı çıxaracaqsan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:23:42.789691976Z",
+  "model": "glm-5.3"
+}

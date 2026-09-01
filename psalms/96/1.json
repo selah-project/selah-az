@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 96,
+  "translation": "Yahveyə oxuyun yeni mahnı, Yahveyə oxuyun, bütün yer ⟨üzündəkilər⟩.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "oxuyun"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "mahnı"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "yeni"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "oxuyun"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer ⟨üçündəkilər⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T15:32:19.048965464Z",
+  "model": "glm-5.3"
+}

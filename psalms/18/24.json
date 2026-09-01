@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 18:24",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Və mən onunla tam oldum və öz günahımdan özümü qorudum.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "və oldum"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "tam"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "ואשתמר",
+      "gloss": "və özümü qorudum"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "günahımdan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:05:56.494516150Z",
+  "model": "glm-5.3"
+}

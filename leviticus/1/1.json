@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Yahve Moşeni çağırdı və Onunla görüş çadırından ona danışdı, deyərək:",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "çağırdı"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "danışdı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "çadırdan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "görüş"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    }
+  ],
+  "timestamp": "2026-09-01T10:22:47.857632313Z",
+  "model": "glm-5.3"
+}

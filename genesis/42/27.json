@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 42:27",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 42,
+  "translation": "Mənzildə biri ⟨את⟩ torbasını eşşəyinə yem vermək üçün açdı və ⟨את⟩ gümüşünü gördü — və bax, o, çuvalının ağzındaydı.",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "açdı"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "biri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "torbasını"
+    },
+    {
+      "surface": "שקו",
+      "gloss": "torbasını"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "vermək üçün"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "yem"
+    },
+    {
+      "surface": "לחמרו",
+      "gloss": "eşşəyinə"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "mənzildə"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "gördü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gümüşünü"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "gümüşünü"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "və bax"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ağzında"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "çuvalının"
+    }
+  ],
+  "timestamp": "2026-09-01T10:01:04.066788113Z",
+  "model": "glm-5.3"
+}

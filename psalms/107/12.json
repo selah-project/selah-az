@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 107:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 107,
+  "translation": "Və əziyyətlə ürəklərini aşağı saldı, sarsıldılar və kömək edən yox idi.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "aşağı saldı"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "əziyyətlə"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ürəklərini"
+    },
+    {
+      "surface": "כשلו",
+      "gloss": "sarsıldılar"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "və yox idi"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "kömək edən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:35:27.489647525Z",
+  "model": "glm-5.3"
+}

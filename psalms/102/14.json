@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 102,
+  "translation": "Sən qalxacaqsan, Tsiyona rəhm edəcəksən, çünki ona lütf ⟨etməyin⟩ vaxtıdır, çünki təyin olunmuş vaxt gəlib çatdır.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sən"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "qalxacaqsan"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "rəhm edəcəksən"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vaxtıdır"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "ona lütf ⟨etməyin⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gəlib çatdır"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "təyin olunmuş vaxt"
+    }
+  ],
+  "timestamp": "2026-09-01T15:34:13.586413542Z",
+  "model": "glm-5.3"
+}

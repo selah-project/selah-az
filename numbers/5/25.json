@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 5:25",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Və kahin qadının əlindən ⟨את⟩ qısqanclıq qurbanını götürəcək, ⟨את⟩ qurbanı Yahvenin önündə yellədəcək və ⟨את⟩ onu qurbangaha yaxınlaşdıracaq.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "götürəcək"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "əlindən"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "qadın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qısqanclıq qurbanını"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "qurbanını"
+    },
+    {
+      "surface": "הקנאת",
+      "gloss": "qısqanclıq"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "yellədəcək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbanı"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "qurban"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önündə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "yaxınlaşdıracaq"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "qurbangah"
+    }
+  ],
+  "timestamp": "2026-09-01T10:35:06.418300841Z",
+  "model": "glm-5.3"
+}

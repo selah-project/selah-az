@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 50,
+  "translation": "Elohimimiz gələcək və susmayacaq; önündə od yeyəcək, ətrafında şiddətli tufan qopacaq.",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "gələcək"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimiz"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və… yox"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "susmayacaq"
+    },
+    {
+      "surface": "אש",
+      "gloss": "od"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "önündə"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yeyəcək"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "ətrafında"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "tufan qopacaq"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "şiddətli"
+    }
+  ],
+  "timestamp": "2026-09-01T15:17:10.603447026Z",
+  "model": "glm-5.3"
+}

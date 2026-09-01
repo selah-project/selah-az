@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 116,
+  "translation": "Çünki ⟨o⟩ qulağını mənə əydi, və günlərimdə çağıracağım.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "əydi"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "qulağını"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "və günlərimdə"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "çağıracağım"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:17.494441487Z",
+  "model": "glm-5.3"
+}

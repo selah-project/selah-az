@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 7:25",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Çünki Yahve üçün od qurbanı kimi təqdim edilən heyvandan hər hansı yağ yiyəni yeyən hər kəs — o yeyən nəfəş öz xalqından kəsiləcəkdir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər kəs"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yeyən"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "yağ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "heyvan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki, ondan"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "təqdim edilər"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "od qurbanı"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve üçün"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "və kəsiləcəkdir"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "nəfəş"
+    },
+    {
+      "surface": "האכלת",
+      "gloss": "yeyən"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "öz xalqından"
+    }
+  ],
+  "timestamp": "2026-09-01T10:23:47.547600020Z",
+  "model": "glm-5.3"
+}

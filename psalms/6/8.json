@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Qəzəbdən gözüm tükəndi, bütün düşmənlərimdən dolayı qocalıb köhnədi.",
+  "tokens": [
+    {
+      "surface": "עששה",
+      "gloss": "tükəndi"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "qəzəbdən"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözüm"
+    },
+    {
+      "surface": "עתקah",
+      "gloss": "qocalıb köhnədi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "düşmənlərimdən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:01:12.424106567Z",
+  "model": "glm-5.3"
+}

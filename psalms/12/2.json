@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Xilas et, Yahve, çünki hasid qurtarıb, çünki sadiqlər insan oğulları arasından yox olub.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "xilas et"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "qurtarıb"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "hasid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "yox olub"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "sadiqlər"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "oğulları arasından"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:03:46.001558328Z",
+  "model": "glm-5.3"
+}

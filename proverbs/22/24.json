@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Qəzəbli adamla ⟨את⟩ dostluq qurma, və qəzəbi coşan adamla ⟨את⟩ gəzmə",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "dostluq qurma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qəzəbli adamla"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "adam"
+    },
+    {
+      "surface": "אף",
+      "gloss": "qəzəbli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamla"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "qəzəbi coşan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "gəzmə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:57:12.778837449Z",
+  "model": "glm-5.3"
+}

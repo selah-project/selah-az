@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 4:7",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "O gəldi və Elohim adamına xəbər verdi; o isə dedi: «Get, ⟨את⟩ yağı sat və ⟨את⟩ borclarını ödə; sən də oğulların da qalanla yaşayarsınız».",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "gəldi"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "xəbər verdi"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "adamına"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o dedi"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "get"
+    },
+    {
+      "surface": "מכרי",
+      "gloss": "sat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yağı"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "yağı"
+    },
+    {
+      "surface": "ושלמי",
+      "gloss": "ödə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "borclarını"
+    },
+    {
+      "surface": "נשיכי",
+      "gloss": "borclarını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sən də"
+    },
+    {
+      "surface": "בניכי",
+      "gloss": "oğulların"
+    },
+    {
+      "surface": "תחיי",
+      "gloss": "yaşayarsınız"
+    },
+    {
+      "surface": "בנותר",
+      "gloss": "qalanla"
+    }
+  ],
+  "timestamp": "2026-09-01T12:31:41.244954672Z",
+  "model": "glm-5.3"
+}

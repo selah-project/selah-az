@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 8:14",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və O, müqəddəs yer, toqmaq daşı və səndələmə qayası olacaq — İsrailin iki evi üçün, Yeruşalayim sakinləri üçün tələ və tor.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "müqəddəs yer"
+    },
+    {
+      "surface": "ולאבן",
+      "gloss": "daş"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "toqmaq"
+    },
+    {
+      "surface": "ולצור",
+      "gloss": "qaya"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "səndələmə"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "iki"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "evi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "לפח",
+      "gloss": "tələ"
+    },
+    {
+      "surface": "ולמוקש",
+      "gloss": "tor"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "sakinləri"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim"
+    }
+  ],
+  "timestamp": "2026-09-01T12:47:57.361797056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Niyə, Yahve, uzaqda dayanırsan, bəlanın vaxtlarında gizlənirsən?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Niyə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "dayanırsan"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "uzaqda"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "gizlənirsən"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "vaxtlarında"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "bəlanın"
+    }
+  ],
+  "timestamp": "2026-09-01T15:04:57.850547658Z",
+  "model": "glm-5.3"
+}

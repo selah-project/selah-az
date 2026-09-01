@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 13:22",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Və əgər dəridə çox yaysa, kahin onu natəmiz elan edər; o, ⟨את⟩ vurmadır.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "çox yaysa"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "yayır"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "dəridə"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "natəmiz elan edər"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu (natəmiz elan edilən şəxs)"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "vurma"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-09-01T10:26:18.053326020Z",
+  "model": "glm-5.3"
+}

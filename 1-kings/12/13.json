@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 12:13",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Və padşah ⟨את⟩ xalqa sərt cavab verdi və ⟨את⟩ qocaların ona vermiş olduğu məsləhəti tərk etdi.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Və cavab verdi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqa"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "sərt"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "və tərk etdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "məsləhəti"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "məsləhəti"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "qocaların"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "ona vermişdi"
+    }
+  ],
+  "timestamp": "2026-09-01T12:20:03.196971465Z",
+  "model": "glm-5.3"
+}

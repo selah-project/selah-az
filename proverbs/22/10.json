@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 22:10",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Məsxərəçini qov — mübahisə çıxar, mühakimə və təhqir sona yetər.",
+  "tokens": [
+    {
+      "surface": "גרש",
+      "gloss": "qov"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "məsxərəçini"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "çıxar"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "mübahisə"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "sona yetər"
+    },
+    {
+      "surface": "דין",
+      "gloss": "mühakimə"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "təhqir"
+    }
+  ],
+  "timestamp": "2026-09-01T15:56:36.331095570Z",
+  "model": "glm-5.3"
+}

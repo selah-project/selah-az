@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 69,
+  "translation": "Orucumla nəfəsim üçün ağladım, və bu mənə təhqirə ⟨çevrildi⟩.",
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "ağladım"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "orucumla"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nəfəsim"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "və ⟨çevrildi⟩"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "təhqirə"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    }
+  ],
+  "timestamp": "2026-09-01T17:42:57.242466433Z",
+  "model": "glm-5.3"
+}

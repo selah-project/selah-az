@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 66,
+  "translation": "Çünki sınadın bizi, ya Elohim, təmizlədin bizi, gümüş təmizlənən kimi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "sınadın bizi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "təmizlədin bizi"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "təmizlənən kimi"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    }
+  ],
+  "timestamp": "2026-09-01T15:20:19.008130528Z",
+  "model": "glm-5.3"
+}

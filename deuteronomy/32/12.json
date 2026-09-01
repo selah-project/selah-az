@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Yahve onu təkbaşına yönəldirdi; yanında yad El yox idi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "təkbaşına"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "onu yönəldirdi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "yox idi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yanında"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "yad"
+    }
+  ],
+  "timestamp": "2026-09-01T10:58:46.522248756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 109,
+  "translation": "Bu, məni qınayanların Yahvedən ⟨את⟩ ödənişidir — və canım haqqında pis danışanların.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "ödənişidir"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "məni qınayanların"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahvedən (qaynaq göstəricisi kimi)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "və danışanların"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pis"
+    },
+    {
+      "surface": "על",
+      "gloss": "haqqında"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    }
+  ],
+  "timestamp": "2026-09-01T15:37:33.342438095Z",
+  "model": "glm-5.3"
+}

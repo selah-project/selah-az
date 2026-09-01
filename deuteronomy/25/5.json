@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 25:5",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Əgər qardaşlar bir yerdə yaşasınlar və onlardan biri ölsün və onun oğlu olmasın, ölü arvadı yad bir kişiyə ⟨⟨verilməsin⟩⟩; qaynı onun yanına girsin və onu özünə arvad alsın və qaynalıq borcunu ona yerə yetirsin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "yaşasınlar"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "qardaşlar"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bir yerdə"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "və ölsün"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "biri"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "onlardan"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "və oğul"
+    },
+    {
+      "surface": "אין",
+      "gloss": "olmasın"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olmasın"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "arvadı"
+    },
+    {
+      "surface": "המת",
+      "gloss": "ölünün"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "kənara"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kişiyə"
+    },
+    {
+      "surface": "זר",
+      "gloss": "yad"
+    },
+    {
+      "surface": "יבמה",
+      "gloss": "qaynı"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "girsin"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "onun yanına"
+    },
+    {
+      "surface": "ולקחה",
+      "gloss": "və onu alsın"
+    },
+    {
+      "surface": "לו",
+      "gloss": "özünə"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "arvad"
+    },
+    {
+      "surface": "ויבמה",
+      "gloss": "və qaynalıq etsin"
+    }
+  ],
+  "timestamp": "2026-09-01T17:30:59.717569464Z",
+  "model": "glm-5.3"
+}

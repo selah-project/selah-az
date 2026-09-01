@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "malachi 3:2",
+  "book": "malachi",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və onun gəlişinin gününə ⟨את⟩ kimə davam gətirə bilər? və görünəndə kim qəbul edə bilər? Çünki o, əridənin odu kimidir və yuyanların yuyucusu kimidir.",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "və kim"
+    },
+    {
+      "surface": "מכלכל",
+      "gloss": "davam gətirə bilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onun gəlişinin gününə"
+    },
+    {
+      "surface": "יום",
+      "gloss": "günü"
+    },
+    {
+      "surface": "בואו",
+      "gloss": "onun gəlişinin"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "və kim"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "qəbul edə bilər \/ dura bilər"
+    },
+    {
+      "surface": "בהראותו",
+      "gloss": "görünəndə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "od kimi"
+    },
+    {
+      "surface": "מצרף",
+      "gloss": "əridənin (təmizləyənin)"
+    },
+    {
+      "surface": "וכברית",
+      "gloss": "yuyucu kimi"
+    },
+    {
+      "surface": "מכבסים",
+      "gloss": "yuyanların"
+    }
+  ],
+  "timestamp": "2026-09-01T15:02:48.077591582Z",
+  "model": "glm-5.3"
+}

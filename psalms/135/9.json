@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 135:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 135,
+  "translation": "O, Mitsrayımın ⟨içində⟩ nişanələr və möcüzələr göndərdi, Paronun və bütün qullarının üstünə.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "göndərdi"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "nişanələr"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "və möcüzələr"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "sənin içində"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayım"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "Paronun üstünə"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "qullarının"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:15.822014115Z",
+  "model": "glm-5.3"
+}

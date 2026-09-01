@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Elpaalın oğulları: Ever, Mişam və Şamed — o, ⟨את⟩ Ononu, ⟨את⟩ Lodu və onun qızlarını (kəndlərini) tikdi.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaalın"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "Mişam"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "Şamed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "tikdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ono"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Ono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Lod"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Lod"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "onun kəndləri"
+    }
+  ],
+  "timestamp": "2026-09-01T17:02:21.911716981Z",
+  "model": "glm-5.3"
+}

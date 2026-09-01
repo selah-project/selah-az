@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 6:4",
+  "book": "micah",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Çünki mən səni Mitsrayim torpağından çıxardım, və qullar evindən səni azad etdim, və önündə göndərdim ⟨את⟩ Moşe, Aharon və Miryamı.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "העלתיך",
+      "gloss": "çıxardım"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "torpağından"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "və evindən"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "qullar"
+    },
+    {
+      "surface": "פדיתיך",
+      "gloss": "azad etdim"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "və göndərdim"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "önündə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşe, Aharon və Miryamı"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "və Miryamı"
+    }
+  ],
+  "timestamp": "2026-09-01T14:49:26.264959978Z",
+  "model": "glm-5.3"
+}

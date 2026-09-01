@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 64:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 64,
+  "translation": "Özlərinə pis bir işi möhkəm tuturlar; tələləri gizlətməkdən danışırlar; deyirlər: Kim görəcək onları?",
+  "tokens": [
+    {
+      "surface": "יחזקו",
+      "gloss": "möhkəm tuturlar"
+    },
+    {
+      "surface": "למו",
+      "gloss": "özlərinə"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "iş"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pis"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "danışırlar"
+    },
+    {
+      "surface": "לטמון",
+      "gloss": "gizlətməkdən"
+    },
+    {
+      "surface": "מוקשים",
+      "gloss": "tələlər"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "deyirlər"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "görəcək"
+    },
+    {
+      "surface": "למו",
+      "gloss": "onları"
+    }
+  ],
+  "timestamp": "2026-09-01T15:21:37.185641066Z",
+  "model": "glm-5.3"
+}

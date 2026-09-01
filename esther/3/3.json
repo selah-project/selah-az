@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Kralın qapısında olan kralın qulları Mordehaya dedilər: nə üçün sən kralın əmrini ⟨את⟩ pozursan?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "və dedilər"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "qulları"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olan"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "qapısında"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordehaya"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "nə üçün"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "pozursan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əmrini"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "əmrini"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    }
+  ],
+  "timestamp": "2026-09-01T16:35:34.878351860Z",
+  "model": "glm-5.3"
+}

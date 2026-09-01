@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zephaniah 3:7",
+  "book": "zephaniah",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Dedim: Yalnız Məndən qorx, ⟨את⟩ məni; tərbiyəni qəbul et, ona buyurduğum hər şeyə baxmayaraq sığınacağı kəsilməyəcək; amma onlar səhər-tez durub bütün əməllərini korladılar.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Dedim"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Yalnız"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "qorx"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ məni",
+      "marks": "məni (Yahve)"
+    },
+    {
+      "surface": "תקחי",
+      "gloss": "qəbul et"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tərbiyəni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "—"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "kəsilməyəcək"
+    },
+    {
+      "surface": "מעונה",
+      "gloss": "sığınacağı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər şeyə"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "buyurduğum"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "amma"
+    },
+    {
+      "surface": "השכימו",
+      "gloss": "səhər-tez durub"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "korladılar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "əməllərini"
+    }
+  ],
+  "timestamp": "2026-09-01T14:53:52.264114193Z",
+  "model": "glm-5.3"
+}

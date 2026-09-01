@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 9:17",
+  "book": "judges",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "çünki atam sizin uğrunuzda döyüşdü, ⟨את⟩ canını qarşıya atdı və ⟨את⟩ sizi Midyanın əlindən qurtardı.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "döyüşdü"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atam"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sizin uğrunuzda"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "atdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "canını"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "canını"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "qarşıya"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "qurtardı"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "əlindən"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyanın"
+    }
+  ],
+  "timestamp": "2026-09-01T11:22:33.516112160Z",
+  "model": "glm-5.3"
+}

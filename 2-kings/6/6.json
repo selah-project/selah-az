@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 6:6",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Elohim adamı dedi: Haraya düşdü? Və ⟨o⟩ ona ⟨את⟩ yeri göstərdi; sonra bir ağac kəsdi, oraya atdı və dəmir üzdü.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Haraya"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "düşdü"
+    },
+    {
+      "surface": "ויראהו",
+      "gloss": "ona göstərdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yer"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "yeri"
+    },
+    {
+      "surface": "ויקצב",
+      "gloss": "kəsdi"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "bir ağac"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "atdı"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "oraya"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "üzdü"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "dəmir"
+    }
+  ],
+  "timestamp": "2026-09-01T12:29:51.749793244Z",
+  "model": "glm-5.3"
+}

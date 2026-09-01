@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 42:10",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 42,
+  "translation": "Məhəllə divarının enində, şərq tərəfdə olan yolda — ayrılmış yerin üzü qarşısında və binanın üzü qarşısında — otaqlar ⟨var idi⟩.",
+  "tokens": [
+    {
+      "surface": "ברחב",
+      "gloss": "enində"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "divarının"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "məhəllənin"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yolda"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "şərq tərəfdə olan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "qarşısında"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzü"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "ayrılmış yerin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və qarşısında"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzü"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "binanın"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "otaqlar"
+    }
+  ],
+  "timestamp": "2026-09-01T14:27:22.834646095Z",
+  "model": "glm-5.3"
+}

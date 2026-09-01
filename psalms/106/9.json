@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 106:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 106,
+  "translation": "O, Qamış dənizinə qəzəblə qışqırdı və ⟨o⟩ qurudu, onları dərinliklərdən keçirdi, çöl kimi.",
+  "tokens": [
+    {
+      "surface": "ויגער",
+      "gloss": "qəzəblə qışqırdı"
+    },
+    {
+      "surface": "בים",
+      "gloss": "dənizinə"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Qamış"
+    },
+    {
+      "surface": "ויחרב",
+      "gloss": "və qurudu"
+    },
+    {
+      "surface": "ויוליכם",
+      "gloss": "onları keçirdi"
+    },
+    {
+      "surface": "בתהמות",
+      "gloss": "dərinliklərdən"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "çöl kimi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:00.916977093Z",
+  "model": "glm-5.3"
+}

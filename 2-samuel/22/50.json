@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "2-samuel 22:50",
+  "book": "2-samuel",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Buna görə sənə, ya Yahve, xalqlar içində şükür edəcəyəm və adına mədh oxuyacağam.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "buna görə"
+    },
+    {
+      "surface": "כן",
+      "gloss": "görə"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "şükür edəcəyəm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "xalqlar içində"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "və adına"
+    },
+    {
+      "surface": "אזמר",
+      "gloss": "mədh oxuyacağam"
+    }
+  ],
+  "timestamp": "2026-09-01T12:06:41.685720722Z",
+  "model": "glm-5.3"
+}

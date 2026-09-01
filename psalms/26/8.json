@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Yahve, evinin sığınacağını sevirəm və izzətinin məskəninin yerini.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "sevirəm"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "sığınacağını"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "evinin"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "yerini"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "məskəninin"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "izzətinin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:08:39.244085188Z",
+  "model": "glm-5.3"
+}

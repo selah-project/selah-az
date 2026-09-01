@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 55:22",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 55,
+  "translation": "Ağızının sözləri yağdan hamar, amma ürəyi müharibədir; sözləri yağdan yumşaqdır, onlar isə ⟨qınından çıxarılmış⟩ qılınclardır.",
+  "tokens": [
+    {
+      "surface": "חלקו",
+      "gloss": "hamardır"
+    },
+    {
+      "surface": "מחמאת",
+      "gloss": "yağ kimi hamar"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "onun ağzı"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "amma müharibədir"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "onun ürəyi"
+    },
+    {
+      "surface": "רכו",
+      "gloss": "yumşaqdır"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "onun sözləri"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "yağdan"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "onlar isə"
+    },
+    {
+      "surface": "פתחות",
+      "gloss": "qınından çıxarılmış qılınclar"
+    }
+  ],
+  "timestamp": "2026-09-01T17:42:49.411607334Z",
+  "model": "glm-5.3"
+}

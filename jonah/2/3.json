@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 2:3",
+  "book": "jonah",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və dedi: «Sıxıntımdan Yahveyə çağırdım, və O mənə cavab verdi; Şeolun qarnından fəryad etdim — Sən mənim səsimi eşitdin».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "çağırdım"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "sıxıntımdan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "və cavab verdi mənə"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "qarnından"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şeolun"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "fəryad etdim"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "eşitdin"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "mənim səsimi"
+    }
+  ],
+  "timestamp": "2026-09-01T14:45:40.345005122Z",
+  "model": "glm-5.3"
+}

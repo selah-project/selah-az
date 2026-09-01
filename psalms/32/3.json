@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Çünki susdum — sümüklərim tükəndi, nərildəyərkən bütün gün ⟨boyu⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "susdum"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "tükəndi"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "sümüklərim"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "nərildəyərkən"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gün"
+    }
+  ],
+  "timestamp": "2026-09-01T15:11:42.230140629Z",
+  "model": "glm-5.3"
+}

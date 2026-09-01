@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 78:20",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 78,
+  "translation": "Bax, O qayaya vurdu və sular axıb çıxdı, sellər axdı; xəmir çörək də verə bilərmi, xalqı üçün ət hazırlayacaqmı?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Bax"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "vurdu"
+    },
+    {
+      "surface": "צור",
+      "gloss": "qayaya"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "axıb çıxdı"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sular"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "sellər (arıqlar)"
+    },
+    {
+      "surface": "ישטפו",
+      "gloss": "axdı"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "həm də"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "çörək"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "bilərmi"
+    },
+    {
+      "surface": "תת",
+      "gloss": "verməyə"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoxsa"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "hazırlayacaqmı"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ət (yemək)"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "xalqı üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T15:25:47.522018730Z",
+  "model": "glm-5.3"
+}

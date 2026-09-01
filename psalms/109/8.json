@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 109,
+  "translation": "Olsun onun günləri az, və vəzifəsini başqası alsın.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "onun günləri"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "az"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "vəzifəsini"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "alsın"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "başqası"
+    }
+  ],
+  "timestamp": "2026-09-01T15:37:36.394230228Z",
+  "model": "glm-5.3"
+}

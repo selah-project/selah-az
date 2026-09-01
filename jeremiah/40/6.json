@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 40:6",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "Və Yirmiyahu Mitspaya, Ahikam oğlu Gedalyanın yanına gəldi və ⟨את⟩ onunla torpaqda qalan xalqın ortasında yaşadı.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "gəldi"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmiyahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "גדליה",
+      "gloss": "Gedalyanın"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "Ahikam"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "Mitspaya"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "yaşadı"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onunla"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ortasında"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqın"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "qalan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "torpaqda"
+    }
+  ],
+  "timestamp": "2026-09-01T13:49:37.652063200Z",
+  "model": "glm-5.3"
+}

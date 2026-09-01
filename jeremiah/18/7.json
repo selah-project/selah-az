@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 18:7",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Bir anda mən bir xalq haqqında və bir padşahlıq haqqında danışaram — ⟨onu⟩ kökündən çıxarmağa, yıxmağa və məhv etməyə —",
+  "tokens": [
+    {
+      "surface": "רגע",
+      "gloss": "Bir anda"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "danışaram"
+    },
+    {
+      "surface": "על",
+      "gloss": "haqqında"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "və ... haqqında"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "padşahlıq"
+    },
+    {
+      "surface": "לנתוש",
+      "gloss": "kökündən çıxarmağa"
+    },
+    {
+      "surface": "ולנתוץ",
+      "gloss": "yıxmağa"
+    },
+    {
+      "surface": "ולהאביד",
+      "gloss": "və məhv etməyə"
+    }
+  ],
+  "timestamp": "2026-09-01T13:34:14.199701767Z",
+  "model": "glm-5.3"
+}

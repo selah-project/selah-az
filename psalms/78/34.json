@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 78:34",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 78,
+  "translation": "Onları öldürəndə Onu axtarırdılar, qayıdırdılar və El ⟨qədər⟩ səhər çağı Onu axtarırdılar.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "–də"
+    },
+    {
+      "surface": "הרגם",
+      "gloss": "onları öldürəndə"
+    },
+    {
+      "surface": "ודרשוהו",
+      "gloss": "Onu axtarırdılar"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "qayıdırdılar"
+    },
+    {
+      "surface": "ושחרו",
+      "gloss": "səhər çağı axtarırdılar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-01T15:27:25.708959759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 9:28",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Yahveyə yalvarın, çünki Elohim səsləri və dolu artıq kifayətdir; mən ⟨את⟩ sizi göndərəcəyəm və ⟨artıq⟩ durmağa davam etməyəcəksiniz.",
+  "tokens": [
+    {
+      "surface": "העתירו",
+      "gloss": "yalvarın"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-yə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "çünki kifayətdir"
+    },
+    {
+      "surface": "מהית",
+      "gloss": "artıq"
+    },
+    {
+      "surface": "קלת",
+      "gloss": "səsləri"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "və dolu"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "göndərəcəyəm"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "תספון",
+      "gloss": "davam etməyəcəksiniz"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "durmağa"
+    }
+  ],
+  "timestamp": "2026-09-01T10:07:04.483837903Z",
+  "model": "glm-5.3"
+}

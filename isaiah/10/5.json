@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 10:5",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Vay Aşşura! ⟨O⟩ qəzəbimin çubuğudur, onların əlindəki çomaq isə mənim hirsimdır.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Vay"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşşura"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "çubuğu"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "qəzəbimin"
+    },
+    {
+      "surface": "ומטה",
+      "gloss": "və çomaq"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨O⟩"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "onların əlindəki"
+    },
+    {
+      "surface": "זעמי",
+      "gloss": "mənim hirsimdır"
+    }
+  ],
+  "timestamp": "2026-09-01T12:50:47.420038500Z",
+  "model": "glm-5.3"
+}

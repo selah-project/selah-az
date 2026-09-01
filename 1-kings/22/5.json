@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 22:5",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Yehoşafat İsrail kralına dedi: Bu gün, xahiş edirəm, Yahvenin ⟨את⟩ sözünü soruş.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoşafat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "soruş"
+    },
+    {
+      "surface": "נא",
+      "gloss": "xahiş edirəm"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "bu gün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sözünü"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sözünü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    }
+  ],
+  "timestamp": "2026-09-01T12:28:10.204391371Z",
+  "model": "glm-5.3"
+}

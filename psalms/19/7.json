@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Göylərin ucundan ⟨onun⟩ çıxışı, və onun dövrəsi onların ucları üzərindədir; onun hərarətindən gizlənən yoxdur.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "ucundan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göylərin"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "çıxışı"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "və onun dövrəsi"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərində"
+    },
+    {
+      "surface": "קצותם",
+      "gloss": "onların ucları"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "və yoxdur"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "gizlənən"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "onun hərarətindən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:07:29.934790282Z",
+  "model": "glm-5.3"
+}

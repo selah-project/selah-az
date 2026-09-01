@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 68,
+  "translation": "Yürüşlərini gördülər, ya Elohim; Elimin, Məlikimin yürüşlərini müqəddəsdə.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "gördülər"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "yürüşlərini"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "yürüşlərini"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Elimin"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Məlikimin"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "müqəddəsdə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:23:30.056991295Z",
+  "model": "glm-5.3"
+}

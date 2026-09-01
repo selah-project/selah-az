@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 21:11",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Dumanın yükü. Mənə Seyirdən bir nida gəlir: Keşikçi, gecədən nə qalıb? Keşikçi, gecədən nə qalıb?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "yük"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "Dumanın"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "nida gəlir"
+    },
+    {
+      "surface": "משעיר",
+      "gloss": "Seyirdən"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Keşikçi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "מלילה",
+      "gloss": "gecədən qalıb"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Keşikçi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "מליל",
+      "gloss": "gecədən qalıb"
+    }
+  ],
+  "timestamp": "2026-09-01T12:53:56.146636034Z",
+  "model": "glm-5.3"
+}

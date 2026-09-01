@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Bütün sümüklərimi saya bilirəm; onlar baxıb baxırlar, məni görürlər.",
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "sayıram"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "sümüklərimi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "baxırlar"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "görürlər"
+    },
+    {
+      "surface": "בי",
+      "gloss": "məni"
+    }
+  ],
+  "timestamp": "2026-09-01T15:07:04.561532973Z",
+  "model": "glm-5.3"
+}

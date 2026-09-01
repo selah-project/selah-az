@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 8:3",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Səni alçaltdı, səni ac saxladı, səni ⟨את⟩ man ilə yedirdi — sənin bilmədiyin, atalarının da bilmədiyi — sənə bildirmək üçün ki, insan yalnız çörəklə yaşamaz, çünki Yahvenin ağzından çıxan hər şeylə insan yaşayar.",
+  "tokens": [
+    {
+      "surface": "ויענך",
+      "gloss": "alçaltdı"
+    },
+    {
+      "surface": "וירעבך",
+      "gloss": "ac saxladı"
+    },
+    {
+      "surface": "ויאכלך",
+      "gloss": "yedirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "man"
+    },
+    {
+      "surface": "המן",
+      "gloss": "man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bilmədiyin"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "—"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "da"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "bilmədiyi"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "atalarının"
+    },
+    {
+      "surface": "למען",
+      "gloss": "üçün"
+    },
+    {
+      "surface": "הודעך",
+      "gloss": "sənə bildirmək"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yalnız... yox"
+    },
+    {
+      "surface": "על",
+      "gloss": "—ilə"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "çörəklə"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "yaşamaz"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "על",
+      "gloss": "—ilə"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "çıxan"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzından"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "yaşayar"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insan"
+    }
+  ],
+  "timestamp": "2026-09-01T10:49:53.702725212Z",
+  "model": "glm-5.3"
+}

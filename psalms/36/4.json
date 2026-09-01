@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 36,
+  "translation": "Onun ağzının sözləri dəyərzəlik və hiylədir; ağıllı olmağı və yaxşılıq etməyi tərk etdi.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "sözləri"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "onun ağzının"
+    },
+    {
+      "surface": "און",
+      "gloss": "dəyərzəlik"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "və hiylə"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "tərk etdi"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "ağıllı olmağı"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "yaxşılıq etməyi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:12:02.606693665Z",
+  "model": "glm-5.3"
+}

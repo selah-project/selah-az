@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 24:4",
+  "book": "2-samuel",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Amma padşahın sözü Yoavın və ordu komandirlərinin sözündən üstün gəldi, və Yoav və ordu komandirləri padşahın hüzurundan xalqı — İsraili — saymaq üçün çıxdılar.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "üstün gəldi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sözü"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşahın"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ın üstündən"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoavın"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "və üzərindən"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "komandirlərinin"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "ordu"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "və çıxdı"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "və komandirləri"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "ordunun"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hüzurundan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşahın"
+    },
+    {
+      "surface": "לפקד",
+      "gloss": "saymaq üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsraili"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsraili"
+    }
+  ],
+  "timestamp": "2026-09-01T12:08:19.791083248Z",
+  "model": "glm-5.3"
+}

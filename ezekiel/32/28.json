@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 32:28",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Və sən, sünnətsizlərin ortasında sınıacaqsan və qılıncın yarası ilə öldürülənlərlə ⟨את⟩ yatacaqsan.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Və sən"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ortasında"
+    },
+    {
+      "surface": "ערלים",
+      "gloss": "sünnətsizlərin"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "sınıacaqsan"
+    },
+    {
+      "surface": "ותשכב",
+      "gloss": "yatacaqsan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öldürülənlər"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "öldürülənlərlə"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "qılıncın"
+    }
+  ],
+  "timestamp": "2026-09-01T14:21:41.836466667Z",
+  "model": "glm-5.3"
+}

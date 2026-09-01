@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 45,
+  "translation": "Və səsini ağlamaqda buraxdı; Mitsrayim ⟨xalqı⟩ eşitdi, və Paronun evi eşitdi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "və verdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "səsini"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "səsini"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "ağlamaqda"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "və eşitdilər"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "və eşitdi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paronun"
+    }
+  ],
+  "timestamp": "2026-09-01T10:02:38.307231189Z",
+  "model": "glm-5.3"
+}

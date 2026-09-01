@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 13:11",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Hevədən ⟨gələn⟩ var-dövlət azalar, amma əli ilə yığan çoxaldar.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "var-dövlət"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "hevədən"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "azalar"
+    },
+    {
+      "surface": "וקבץ",
+      "gloss": "amma yığan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ilə (əli ilə)"
+    },
+    {
+      "surface": "יד",
+      "gloss": "əli"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "çoxaldar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:51:37.010993388Z",
+  "model": "glm-5.3"
+}

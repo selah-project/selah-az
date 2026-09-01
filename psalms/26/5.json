@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Pis işləyənlərin yığıncağından nifrət etdim və rəşşələrlə oturmayacağam.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "nifrət etdim"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "yığıncağından"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "pis işləyənlərin"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "və ... ilə"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "rəşşələrlə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mayacağam"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "otur"
+    }
+  ],
+  "timestamp": "2026-09-01T15:08:39.243547505Z",
+  "model": "glm-5.3"
+}

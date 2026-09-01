@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 109:21",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 109,
+  "translation": "Sən isə, Yahve Adonay, mənimlə ⟨את⟩ iş gör — Adının uğrunda, çünki sənin hesed-in yaxşıdır; məni qurtar.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Sən isə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "iş gör"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mənimlə"
+    },
+    {
+      "surface": "למען",
+      "gloss": "uğrunda"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Adının"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşıdır"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-in"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "məni qurtar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:37:15.325219154Z",
+  "model": "glm-5.3"
+}

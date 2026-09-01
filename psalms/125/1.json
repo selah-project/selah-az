@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 125,
+  "translation": "Məqamlar mahnısı. Yahveyə etibar edənlər Tsiyon dağı kimidir — tərpənməz, əbədi qalır.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "mahnısı"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "Məqamlar"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "etibar edənlər"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "dağı kimidir"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tərpənməz (yox)"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "tərpənməz"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "qalır"
+    }
+  ],
+  "timestamp": "2026-09-01T15:43:07.501947638Z",
+  "model": "glm-5.3"
+}

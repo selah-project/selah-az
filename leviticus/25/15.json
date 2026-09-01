@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 25:15",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Yovildən sonrakı illərin sayına görə yoldaşınızdan ⟨את⟩ satın alın; məhsul illərinin sayına görə o sizə satır.",
+  "tokens": [
+    {
+      "surface": "במספר",
+      "gloss": "sayına görə"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "illərin"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sonrakı"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "yovildən"
+    },
+    {
+      "surface": "תקנה",
+      "gloss": "satın alın"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "yoldaşınızdan"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "sayına görə"
+    },
+    {
+      "surface": "שני",
+      "gloss": "illərinin"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "məhsul"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "o satır"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sizə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:30:41.515758617Z",
+  "model": "glm-5.3"
+}

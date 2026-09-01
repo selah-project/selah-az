@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 133,
+  "translation": "Başın üstünə tökülən yaxşı yağ kimi, saqqalın üstünə enən, Aharonun saqqalının üstünə enən, paltarlarının ağzına qədər enən.",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "yağ kimi"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "yaxşı"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "başın"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "enən"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "saqqalın"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "saqqalı"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonun"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "enən"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzına"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "paltarlarının"
+    }
+  ],
+  "timestamp": "2026-09-01T15:43:10.023299771Z",
+  "model": "glm-5.3"
+}

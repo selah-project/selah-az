@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Və Küş üzündən ümidləri ⟨olduqları üçün⟩ qorxuya düşəcəklər və utancacaqlar, Mitsrayim üzündən isə öyündükləri ⟨üçün⟩.",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "qorxuya düşəcəklər"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "utancacaqlar"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "Küş üzündən"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "ümidləri"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "üzündən isə"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "öyündükləri"
+    }
+  ],
+  "timestamp": "2026-09-01T12:53:28.246584555Z",
+  "model": "glm-5.3"
+}

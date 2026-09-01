@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "İkinci çayın adı Gihondur — o, bütün Kuş ölkəsini dolanır.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "adı"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "çayın"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikinci"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "Gihon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "dolanır"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün Kuş ölkəsini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ölkəsini"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuş"
+    }
+  ],
+  "timestamp": "2026-09-01T09:45:59.693560049Z",
+  "model": "glm-5.3"
+}

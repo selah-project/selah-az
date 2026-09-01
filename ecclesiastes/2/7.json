@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 2:7",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Qul qadınlar və qullar satın aldım, ev oğulları mənə ⟨oldu⟩; həmçinin mal-qara — inək və qoyun — mənə çox ⟨oldu⟩, məndən əvvəl Yeruşalayimdə olanların hamısından ⟨çox⟩.",
+  "tokens": [
+    {
+      "surface": "קניתי",
+      "gloss": "satın aldım"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "qullar"
+    },
+    {
+      "surface": "ושפחות",
+      "gloss": "və qul qadınlar"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "və oğulları"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨oldu⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "גם",
+      "gloss": "həmçinin"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "mal-qara"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "inek"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "və qoyun"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "çox"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨oldu⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "hamısından"
+    },
+    {
+      "surface": "שהיו",
+      "gloss": "olanların"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "məndən əvvəl"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yeruşalayimdə"
+    }
+  ],
+  "timestamp": "2026-09-01T16:29:45.395856653Z",
+  "model": "glm-5.3"
+}

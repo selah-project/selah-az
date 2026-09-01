@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 10:1",
+  "book": "job",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Nefəsim həyatımdan iyrənir, ⟨mən⟩ öz şikayətimi öz üstümə buraxıram, acı canımla danışacağam.",
+  "tokens": [
+    {
+      "surface": "נקטה",
+      "gloss": "iyrənir"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nəfəsim"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "həyatımdan"
+    },
+    {
+      "surface": "אעזבה",
+      "gloss": "buraxıram"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üstümə"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "şikayətimi"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "danışacağam"
+    },
+    {
+      "surface": "במר",
+      "gloss": "acı"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımla"
+    }
+  ],
+  "timestamp": "2026-09-01T16:08:01.179050913Z",
+  "model": "glm-5.3"
+}

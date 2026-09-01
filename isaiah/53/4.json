@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 53:4",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 53,
+  "translation": "Şübhəsiz, bizim xəstəliklərimizi o daşıdı və bizim ağrılarımızı o yükləndi; biz isə onu zədələnmiş, Elohim ⟨tərəfindən⟩ vurulmuş və əzilmiş saydıq.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "şübhəsiz"
+    },
+    {
+      "surface": "חלינו",
+      "gloss": "bizim xəstəliklərimizi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "daşıdı"
+    },
+    {
+      "surface": "ומכאבינו",
+      "gloss": "və bizim ağrılarımızı"
+    },
+    {
+      "surface": "סבלם",
+      "gloss": "o yükləndi"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "biz isə"
+    },
+    {
+      "surface": "חשבנהו",
+      "gloss": "saydıq onu"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "zədələnmiş"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "vurulmuş"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim ⟨tərəfindən⟩"
+    },
+    {
+      "surface": "ומענה",
+      "gloss": "və əzilmiş"
+    }
+  ],
+  "timestamp": "2026-09-01T13:14:07.094341520Z",
+  "model": "glm-5.3"
+}

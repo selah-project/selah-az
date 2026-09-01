@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 49:10",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 49,
+  "translation": "Çünki mən Eisavı soyundurdum, ⟨את⟩ onun gizli yerlərini açdım — ⟨את⟩; o gizlənə ⟨gizlənə⟩ bilməyəcək: nəsli talan edildi, qardaşları və qonşuları ⟨belə⟩, və o artıq yoxdur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "חשפתי",
+      "gloss": "soyundurdum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eisavı"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Eisavı"
+    },
+    {
+      "surface": "גליתי",
+      "gloss": "açdım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onun gizli yerlərini"
+    },
+    {
+      "surface": "מסתריו",
+      "gloss": "onun gizli yerlərini"
+    },
+    {
+      "surface": "ונחבה",
+      "gloss": "və gizlənə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "bilməyəcək"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "talan edildi"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "nəsli"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "qardaşları"
+    },
+    {
+      "surface": "ושכניו",
+      "gloss": "qonşuları"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "və o artıq yoxdur"
+    }
+  ],
+  "timestamp": "2026-09-01T13:56:16.352018378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 5:2",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Və onu əhatə etdi, daşlarını təmizlədi, onu seçilmiş tumla əkdi, ortasında qala qurdu, hətta içində şərab çəni yondu; üzüm verməsini gözlədi — o isə ilan törəsi gətirdi.",
+  "tokens": [
+    {
+      "surface": "ויעזקהו",
+      "gloss": "və onu əhatə etdi"
+    },
+    {
+      "surface": "ויסקלהו",
+      "gloss": "daşlarını təmizlədi"
+    },
+    {
+      "surface": "ויטעהו",
+      "gloss": "onu əkdi"
+    },
+    {
+      "surface": "שרק",
+      "gloss": "seçilmiş tumla"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "qurdu"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "qala"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "ortasında"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "hətta"
+    },
+    {
+      "surface": "יקב",
+      "gloss": "şərab çəni"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "yondu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "içində"
+    },
+    {
+      "surface": "ויקו",
+      "gloss": "gözlədi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "verməsini"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "üzüm"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "o isə gətiridi"
+    },
+    {
+      "surface": "באשים",
+      "gloss": "ilan törəsi"
+    }
+  ],
+  "timestamp": "2026-09-01T12:49:39.216458600Z",
+  "model": "glm-5.3"
+}

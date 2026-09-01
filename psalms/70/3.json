@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 70,
+  "translation": "Canımı axtaranlar xəcalət çəksinlər və utansınlar, geri çəkilsinlər və rüsvay olsunlar — mənim şərəmi istəyənlər.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "xəcalət çəksinlər"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "və utansınlar"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "axtaranlar"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "geri çəkilsinlər"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "geri"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "və rüsvay olsunlar"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "istəyənlər"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "mənim şərəmi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:22:43.714134883Z",
+  "model": "glm-5.3"
+}

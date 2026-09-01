@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 58,
+  "translation": "Və insan deyəcək: «Həqiqətən, saleh üçün bəhrə var; həqiqətən, yer üzündə hökm edən Elohim var».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və deyəcək"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "אך",
+      "gloss": "həqiqətən"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "bəhrə"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "saleh üçün"
+    },
+    {
+      "surface": "אך",
+      "gloss": "həqiqətən"
+    },
+    {
+      "surface": "יש",
+      "gloss": "var"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "hökm edən"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yer üzündə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:18:46.117318242Z",
+  "model": "glm-5.3"
+}

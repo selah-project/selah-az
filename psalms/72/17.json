@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 72:17",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 72,
+  "translation": "Adı əbədi qalsın, günəşdən öncə onun adı təzələnsin; onda bütün millətlər özünü xeyir-dua ilə bərəkətləsin, onu xoşbəxt adlandırsınlar.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "qalsın"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "adı"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "günəşdən öncə"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "günəş"
+    },
+    {
+      "surface": "ינין",
+      "gloss": "təzələnsin"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "onun adı"
+    },
+    {
+      "surface": "ויתברכו",
+      "gloss": "özünü xeyir-dua ilə bərəkətləsin"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "millətlər"
+    },
+    {
+      "surface": "יאשרוהו",
+      "gloss": "onu xoşbəxt adlandırsınlar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:23:59.849683233Z",
+  "model": "glm-5.3"
+}

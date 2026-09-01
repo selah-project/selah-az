@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "və ikrah olacaqlar sizin üçün; ətlərindən yeməyin, ⟨את⟩ cəsədlərini ikrah bilin.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "və ikrah"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "olacaqlar"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin üçün"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "ətlərindən"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yeməyin"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yeyin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "cəsədlərini"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "cəsədlərini"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "ikrah bilin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:24:20.481575998Z",
+  "model": "glm-5.3"
+}

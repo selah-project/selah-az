@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 9:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Siyonda yaşayan Yahveyə zümzümə edin, xalqlar arasında ⟨Onun⟩ əməllərini elan edin.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "zümzümə edin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "yaşayan"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyonda"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "elan edin"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "xalqlar arasında"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "⟨Onun⟩ əməllərini"
+    }
+  ],
+  "timestamp": "2026-09-01T15:03:47.379693805Z",
+  "model": "glm-5.3"
+}

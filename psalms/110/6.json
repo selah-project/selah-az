@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 110,
+  "translation": "O, xalqlar arasında hökm edəcək, ⟨yeri⟩ cəsədlərlə dolduracaq, geniş torpaq üstündə ⟨onların⟩ başını əzəcək.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "hökm edəcək"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "xalqlar arasında"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "dolduracaq"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "cəsədlərlə"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "əzəcək"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "başını"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "torpaq"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "geniş"
+    }
+  ],
+  "timestamp": "2026-09-01T15:37:37.223580617Z",
+  "model": "glm-5.3"
+}

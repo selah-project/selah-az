@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 36,
+  "translation": "Yatağının üstündə fəsad qurur, yaxşı olmayan bir yolda özünü yeridir; şəri rədd etmir.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "fəsad"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "qurur"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "yatağının"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "özünü yeridir"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzdə"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yolda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "olmayan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşı"
+    },
+    {
+      "surface": "רע",
+      "gloss": "şəri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "rədd"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "etmir"
+    }
+  ],
+  "timestamp": "2026-09-01T15:11:47.426002112Z",
+  "model": "glm-5.3"
+}

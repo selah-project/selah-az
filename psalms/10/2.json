@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 10:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Rəşəyin təkəbbüründən ⟨o⟩ yoxsulu təqib edir; onlar ⟨öz⟩ qurduqları hiylələrdə yaxalanacaqlar.",
+  "tokens": [
+    {
+      "surface": "בגאות",
+      "gloss": "təkəbbüründən"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "rəşəyin"
+    },
+    {
+      "surface": "ידלק",
+      "gloss": "təqib edir"
+    },
+    {
+      "surface": "עני",
+      "gloss": "yoxsulu"
+    },
+    {
+      "surface": "יתפשו",
+      "gloss": "yaxalanacaqlar"
+    },
+    {
+      "surface": "במזמות",
+      "gloss": "hiylələrdə"
+    },
+    {
+      "surface": "זו",
+      "gloss": "⟨öz⟩ qurduqları"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "qurduqları"
+    }
+  ],
+  "timestamp": "2026-09-01T18:01:44.374296372Z",
+  "model": "glm-5.3"
+}

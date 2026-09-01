@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 27:12",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Və həyətin eni qərb tərəfi üçün ⟨olacaq⟩: pərdələr əlli qulac; onların dirəkləri on, onların oyumqları on.",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "Və eni"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "həyətin"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "tərəfi üçün"
+    },
+    {
+      "surface": "ים",
+      "gloss": "qərb"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "pərdələr"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "əlli"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "qulac"
+    },
+    {
+      "surface": "עמדיהם",
+      "gloss": "onların dirəkləri"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "on"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "onların oyumqları"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "on"
+    }
+  ],
+  "timestamp": "2026-09-01T10:16:18.282250194Z",
+  "model": "glm-5.3"
+}

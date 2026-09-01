@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 2:10",
+  "book": "jonah",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Amma mən sənə təşəkkür səsi ilə qurban kəsəcəyəm, nəzir verdiyimi yerinə yetirəcəyəm; xilas Yahvendedir.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "amma mən"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "səsi ilə"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "təşəkkür"
+    },
+    {
+      "surface": "אזבחה",
+      "gloss": "qurban kəsəcəyəm"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nəzir verdiyimi"
+    },
+    {
+      "surface": "נדרתי",
+      "gloss": "(nəzir verdim)"
+    },
+    {
+      "surface": "אשלמה",
+      "gloss": "yerinə yetirəcəyəm"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "xilas"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvendedir"
+    }
+  ],
+  "timestamp": "2026-09-01T14:44:49.171289925Z",
+  "model": "glm-5.3"
+}

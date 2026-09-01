@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 20:20",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Və hər biri öz adamını vurdu; Aram qaçdı, İsrail onları qovdu; Aram padşahı Ben-Hadad at üzərində süvarilərlə ⟨qaçıb⟩ canını qurtardı.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "vurdu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər biri"
+    },
+    {
+      "surface": "אישו",
+      "gloss": "öz adamını"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "qaçdı"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "וירדפם",
+      "gloss": "onları qovdu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "canını qurtardı"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşahı"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərində"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "at"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "süvarilərlə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:24:55.739534461Z",
+  "model": "glm-5.3"
+}

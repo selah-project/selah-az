@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 69:13",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 69,
+  "translation": "Qapıda oturanlar barəmdə danışırlar və məstedici içki içənlərin nəğmələrində ⟨mən⟩ ⟨varam⟩.",
+  "tokens": [
+    {
+      "surface": "ישיחו",
+      "gloss": "danışırlar"
+    },
+    {
+      "surface": "בי",
+      "gloss": "barəmdə"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "oturanlar"
+    },
+    {
+      "surface": "שער",
+      "gloss": "qapıda"
+    },
+    {
+      "surface": "ונגינות",
+      "gloss": "və nəğmələrində"
+    },
+    {
+      "surface": "שותי",
+      "gloss": "içənlərin"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "məstedici içki"
+    }
+  ],
+  "timestamp": "2026-09-01T15:22:55.375070229Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Sən, ya Yahve, onları qoruyacaqsan, onu bu nəsildən əbədi qoruyub saxlayacaqsan.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "onları qoruyacaqsan"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "onu qoruyub saxlayacaqsan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "bu nəsil"
+    },
+    {
+      "surface": "זו",
+      "gloss": "bu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:04:39.408187081Z",
+  "model": "glm-5.3"
+}

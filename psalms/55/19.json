@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 55:19",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 55,
+  "translation": "Sülh içində canımı satın aldı, mənə yaxın olandan, çünki çoxları mənimlə ⟨birlikdə⟩ idi.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "satın aldı"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "sülh içində"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "yaxın olandan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "ברבים",
+      "gloss": "çoxları"
+    },
+    {
+      "surface": "היו",
+      "gloss": "idi"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "mənimlə ⟨birlikdə⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T15:18:39.954520361Z",
+  "model": "glm-5.3"
+}

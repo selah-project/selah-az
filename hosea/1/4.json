@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 1:4",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və Yahve ona dedi: Adını Yizreel qoy, çünki az sonra Yizreelin qanını ⟨את⟩ Yehu evinin üstünə yoxlayacağam və İsrail evinin padışahlığına son qoyacağam.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "qoy"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "adını"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hələ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "az"
+    },
+    {
+      "surface": "וופקדתי",
+      "gloss": "yoxlayacağam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yizreelin qanı"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "qanını"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreelin"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "son qoyacağam"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "padışahlığına"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    }
+  ],
+  "timestamp": "2026-09-01T14:35:11.666425064Z",
+  "model": "glm-5.3"
+}

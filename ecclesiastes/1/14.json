@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Gördüm ⟨את⟩ günəşin altında görülən bütün işləri, və bax, hamısı puçluqdur və rühun əzabıdır.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Gördüm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün işləri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "işləri"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "görülən"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "günəşin"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "və bax"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "hamısı"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "puçluqdur"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "və əzabıdır"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rühun"
+    }
+  ],
+  "timestamp": "2026-09-01T16:29:50.839278910Z",
+  "model": "glm-5.3"
+}

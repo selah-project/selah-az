@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Biz üsyankarlıq etdik və itaətsizlik göstərdik, Sən isə bağışlamadın.",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "biz"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "üsyan etdik"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "və itaətsizlik göstərdik"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sən"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "bağışladın"
+    }
+  ],
+  "timestamp": "2026-09-01T16:25:40.697445580Z",
+  "model": "glm-5.3"
+}

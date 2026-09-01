@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 5:6",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Paro o gün xalqın üzərindəki nəzarətçilərə ⟨את⟩ və onların yazıçılarına ⟨את⟩ əmr edib dedi:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "əmr edib"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "o gün"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "həmin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nəzarətçilərə"
+    },
+    {
+      "surface": "הנגשים",
+      "gloss": "nəzarətçilər"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "xalqın üzərindəki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yazıçılarına"
+    },
+    {
+      "surface": "שטריו",
+      "gloss": "onların yazıçıları"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dedi"
+    }
+  ],
+  "timestamp": "2026-09-01T10:06:17.194552224Z",
+  "model": "glm-5.3"
+}

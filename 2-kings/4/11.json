@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 4:11",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və ⟨bir⟩ gün oldu ki, o, oraya gəldi, üst otağa çəkildi və orada yatdı.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Və oldu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "⟨bir⟩ gün"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "o gəldi"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "oraya"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "çəkildi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "üst otağa doğru"
+    },
+    {
+      "surface": "העליה",
+      "gloss": "üst otaq"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "yatdı"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "orada"
+    }
+  ],
+  "timestamp": "2026-09-01T12:29:35.194796119Z",
+  "model": "glm-5.3"
+}

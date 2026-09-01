@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 45,
+  "translation": "Padşah qızları sənin əzizlərin ⟨arasındadır⟩; sağ tərəfində Ovirin təmiz qızılı ⟨ilə⟩ kraliça durur.",
+  "tokens": [
+    {
+      "surface": "בנות",
+      "gloss": "qızları"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "ביקרותיך",
+      "gloss": "sənin əzizlərin"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "durur"
+    },
+    {
+      "surface": "שגל",
+      "gloss": "kraliça"
+    },
+    {
+      "surface": "לימינך",
+      "gloss": "sağ tərəfində"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "təmiz qızılı ⟨ilə⟩"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Ovir"
+    }
+  ],
+  "timestamp": "2026-09-01T15:15:44.303055365Z",
+  "model": "glm-5.3"
+}

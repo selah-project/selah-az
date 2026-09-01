@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 1:6",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və yenə hamilə qaldı və qız doğdu. Və ⟨onun⟩ yanında olana dedi: Adını Lo-Ruhamah qoy, çünki İsrail evinə ⟨את⟩ artıq rəhm etməyəcəyəm, çünki onları tamamilə bağışlayacağam.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "hamilə qaldı"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yenə"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "doğdu"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qız"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onun yanında olan(a)"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "qoy"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "adını"
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Lo-Ruhamah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "--"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "artıq"
+    },
+    {
+      "surface": "עוד",
+      "gloss": ""
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "rəhm etməyəcəyəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsrail evinə"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "tamamilə"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "bağışlayacağam"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onları"
+    }
+  ],
+  "timestamp": "2026-09-01T14:34:43.287301005Z",
+  "model": "glm-5.3"
+}

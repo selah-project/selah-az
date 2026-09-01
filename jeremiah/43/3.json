@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 43:3",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 43,
+  "translation": "çünki Barux Neryanın oğlu ⟨את⟩ səni bizə qarşı qızışdırır — bizi Kasdlərin əlinə öldürmək üçün, və bizi Bavelə sürgün etmək üçün verməyin «məqsədilə».",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Barux"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "נריה",
+      "gloss": "Neryanın"
+    },
+    {
+      "surface": "מסית",
+      "gloss": "qızışdırır"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ səni",
+      "marks": "bizə qarşı"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "bizə qarşı"
+    },
+    {
+      "surface": "למען",
+      "gloss": "məqsədilə"
+    },
+    {
+      "surface": "תת",
+      "gloss": "verməyin"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ bizi",
+      "marks": "Kasdlərin əlinə"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "əlinə"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Kasdlərin"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "öldürmək üçün"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ bizi",
+      "marks": "Bavelə sürgün etmək"
+    },
+    {
+      "surface": "ולהגלות",
+      "gloss": "və sürgün etmək üçün"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ bizi",
+      "marks": "Bavelə"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavelə"
+    }
+  ],
+  "timestamp": "2026-09-01T13:53:32.943343825Z",
+  "model": "glm-5.3"
+}

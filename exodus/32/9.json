@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Və Yahve Moşeyə dedi: Mən ⟨את⟩ bu xalqı gördüm, və bax, boynu qalın bir xalqdır ⟨o⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "gördüm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu xalqı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqı"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "və bax"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "qalın"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "boyun"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o⟩dur"
+    }
+  ],
+  "timestamp": "2026-09-01T10:19:23.212014350Z",
+  "model": "glm-5.3"
+}

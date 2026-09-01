@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 78,
+  "translation": "Dənizi yarıb ⟨onları⟩ keçirtdi və suları təpə kimi duratdı.",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "yarıb"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dənizi"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "⟨onları⟩ keçirtdi"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "və duratdı"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suları"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "נד",
+      "gloss": "təpə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:26:02.607115124Z",
+  "model": "glm-5.3"
+}

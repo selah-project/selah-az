@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və onun bacısı uzaqdan dayandı, ona nə ediləcəyini bilmək üçün.",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "dayandı"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "bacısı"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "uzaqdan"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "bilmək üçün"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ediləcəyini"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-09-01T10:04:38.881959557Z",
+  "model": "glm-5.3"
+}

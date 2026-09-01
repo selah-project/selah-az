@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 10:23",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Heç bir adam ⟨את⟩ qardaşını görmədi və üç gün heç kəs öz yerindən qalxmadı; amma bütün İsrail oğullarının ⟨olduqları⟩ yerdə işıq ⟨var idi⟩ — yaşayış yerlərində.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "görmədi"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "görmədi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "heç bir adam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qardaşını"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "qardaşını"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və qalxmadı"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "qalxmadı"
+    },
+    {
+      "surface": "איש",
+      "gloss": "heç kəs"
+    },
+    {
+      "surface": "מתחתיו",
+      "gloss": "öz yerindən"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "üç"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "amma bütün"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "אור",
+      "gloss": "işıq"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "yaşayış yerlərində"
+    }
+  ],
+  "timestamp": "2026-09-01T10:07:17.355249926Z",
+  "model": "glm-5.3"
+}

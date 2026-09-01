@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 18:20",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Və Ahab bütün Yisrail oğullarının yanına göndərdi və peyğəmbərləri ⟨את⟩ Karmel dağına yığdı.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "və göndərdi"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrail"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "və yığdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peyğəmbərləri"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "peyğəmbərləri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dağına"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmel"
+    }
+  ],
+  "timestamp": "2026-09-01T12:23:50.807668511Z",
+  "model": "glm-5.3"
+}

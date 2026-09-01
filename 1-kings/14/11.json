@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 14:11",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Yarovamın öləni şəhərdə itlər yeyəcək, sahədə öləni isə göylərin quşları yeyəcək, çünki Yahve danışdı.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "ölən"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "Yarovamın"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "şəhərdə"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "yeyəcək"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "itlər"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "və ölən"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sahədə"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "yeyəcək"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "quşları"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göylərin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "danışdı"
+    }
+  ],
+  "timestamp": "2026-09-01T17:34:36.247515944Z",
+  "model": "glm-5.3"
+}

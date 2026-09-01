@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 60,
+  "translation": "Sən yeri titrətdin, onu yarıt; çatlarını sağalt, çünki o tərpənir.",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "titrətdin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yeri"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "onu yarıt"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "sağalt"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "çatlarını"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tərpənir"
+    }
+  ],
+  "timestamp": "2026-09-01T15:20:34.839351508Z",
+  "model": "glm-5.3"
+}

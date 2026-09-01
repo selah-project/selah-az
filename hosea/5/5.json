@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 5:5",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "İsrailin təkəbbürü onun üzinə şahidlik edəcək, İsrail və Efrayim öz günahlarında sarsılacaq, Yehuda da onlarla birlikdə sarsılacaq.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "və şahidlik edəcək"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "təkəbbürü"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailin"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "onun üzinə"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "və İsrail"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "və Efrayim"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "sarsılacaq"
+    },
+    {
+      "surface": "בעונם",
+      "gloss": "öz günahlarında"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "sarsılacaq"
+    },
+    {
+      "surface": "גם",
+      "gloss": "da"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "onlarla birlikdə"
+    }
+  ],
+  "timestamp": "2026-09-01T14:34:26.732774866Z",
+  "model": "glm-5.3"
+}

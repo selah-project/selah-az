@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 112,
+  "ref": "psalms 119:112",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Ürəyimi tərəfuma meyilləndirdim qanunlarını yerinə yetirməyə, əbədi, axıra qədər.",
+  "tokens": [
+    {
+      "surface": "נטיתי",
+      "gloss": "meyilləndirdim"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ürəyimi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yerinə yetirməyə"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "qanunlarını"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "axıra qədər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:41:08.970905066Z",
+  "model": "glm-5.3"
+}

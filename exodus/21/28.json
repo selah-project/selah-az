@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 21:28",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Və əgər öküz ⟨את⟩ kişini və ya ⟨את⟩ qadını buynuzla vurub öldürsə, öküz mütləq daşqalaq edilsin, ⟨את⟩ əti yeyilməsin; öküzün sahibi isə təqsirsizdir.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "buynuzla vurub"
+    },
+    {
+      "surface": "שור",
+      "gloss": "öküz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kişini"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kişini"
+    },
+    {
+      "surface": "או",
+      "gloss": "və ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qadını"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "qadını"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "öldürsə"
+    },
+    {
+      "surface": "סקול",
+      "gloss": "daşqalaq"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "edilsin"
+    },
+    {
+      "surface": "השור",
+      "gloss": "öküz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yeyilməsin"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "gloss_note": "",
+      "marks": "əti"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "əti"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "sahibi isə"
+    },
+    {
+      "surface": "השור",
+      "gloss": "öküzün"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "təqsirsizdir"
+    }
+  ],
+  "timestamp": "2026-09-01T17:27:46.181427706Z",
+  "model": "glm-5.3"
+}

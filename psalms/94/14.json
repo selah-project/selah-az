@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 94:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 94,
+  "translation": "Çünki Yahve Öz xalqını tərk etməyəcək, və Öz mirasını da tərk etməyəcək.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "tərk edəcək"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "Öz xalqını"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "və Öz mirasını"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "tərk edəcək"
+    }
+  ],
+  "timestamp": "2026-09-01T15:32:32.403607898Z",
+  "model": "glm-5.3"
+}

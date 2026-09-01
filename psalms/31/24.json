@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 31:24",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "Yahveni ⟨את⟩ sevin, ey Onun bütün hasidləri! Yahve sadiqləri qoruyur və təkəbbür edənə bollucla əvəz verir.",
+  "tokens": [
+    {
+      "surface": "אהבו",
+      "gloss": "sevin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "hasidləri"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "sadiqləri"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "qoruyur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "əvəz verir"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "יתר",
+      "gloss": "bollucla"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "edənə"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "təkəbbür"
+    }
+  ],
+  "timestamp": "2026-09-01T15:10:48.577348522Z",
+  "model": "glm-5.3"
+}

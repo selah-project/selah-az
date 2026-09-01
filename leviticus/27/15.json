@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 27:15",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Və əgər təqdis edən öz evini geri alsa, gümüşün beşdə birini — sənin qiymətləndirmənin üstünə — əlavə etsin, və ⟨ev⟩ onun olsun.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Və əgər"
+    },
+    {
+      "surface": "המקדיש",
+      "gloss": "təqdis edən"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "geri alsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öz evini"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "öz evini"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "əlavə etsin"
+    },
+    {
+      "surface": "חמישית",
+      "gloss": "beşdə birini"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "sənin qiymətləndirmən"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "və olsun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onun üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:32:24.163037587Z",
+  "model": "glm-5.3"
+}

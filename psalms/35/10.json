@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "Bütün sümüklərim deyəcək: Yahve, Sənə kim bərabərdir? Zəlili güclüdən xilas edən, zəli və yoxsulu onusoyandan qurtaran.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "sümüklərim"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "deyəcək"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "Sənə bərabərdir"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "xilas edən"
+    },
+    {
+      "surface": "עני",
+      "gloss": "zəlili"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "güclüdən"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "və zəli"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "və yoxsulu"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "onu soyan(dan)"
+    }
+  ],
+  "timestamp": "2026-09-01T15:10:56.782210889Z",
+  "model": "glm-5.3"
+}

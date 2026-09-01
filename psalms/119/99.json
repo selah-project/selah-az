@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Bütün öyrədənlərimdən ⟨⟨daha⟩⟩ anlayışlı oldum, çünki şəhadətlərin ⟨⟨mənim⟩⟩ mütaliəmdir ⟨⟨mənim üçün⟩⟩.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "bütün ... −dan"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "öyrədənlərim"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "anlayışlı oldum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "şəhadətlərin"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "mütaliə"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənim üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:42.793284780Z",
+  "model": "glm-5.3"
+}

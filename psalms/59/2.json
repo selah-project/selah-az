@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 59:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 59,
+  "translation": "Xilas et məni düşmənlərimdən, Elohim-im, qalxanlarımdan uca tut məni.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "xilas et məni"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "düşmənlərimdən"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-im"
+    },
+    {
+      "surface": "ממתקוממי",
+      "gloss": "qalxanlarımdan"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "uca tut məni"
+    }
+  ],
+  "timestamp": "2026-09-01T18:01:42.517308693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 91,
+  "translation": "Yahveyə deyirəm: sığınağım və qalam ⟨sən⟩, Elohimim, Onda etibar edirəm.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "deyirəm"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "sığınağım"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "və qalam"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "etibar edirəm"
+    },
+    {
+      "surface": "בו",
+      "gloss": "Onda"
+    }
+  ],
+  "timestamp": "2026-09-01T15:33:09.217569991Z",
+  "model": "glm-5.3"
+}

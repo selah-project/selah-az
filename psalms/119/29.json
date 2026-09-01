@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 119:29",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Yalan yolunu məndən uzaqlaşdır, Tövrətinlə ⟨mənə⟩ lütf et.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "yolunu"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yalan"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "uzaqlaşdır"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "məndən"
+    },
+    {
+      "surface": "ו תורתך",
+      "gloss": "Tövrətinlə"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "lütf et"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:52.307592184Z",
+  "model": "glm-5.3"
+}

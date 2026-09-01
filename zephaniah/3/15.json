@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zephaniah 3:15",
+  "book": "zephaniah",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Yahve ⟨sənin⟩ hökümlərini uzaqlaşdırdı, düşmənini pərdələdi ⟨uzaq saldı⟩; Yisrailin padşahı Yahve sənin ortasındadır, ⟨sən⟩ pislikdən qorxmayacaqsan artıq.",
+  "tokens": [
+    {
+      "surface": "הסיר",
+      "gloss": "uzaqlaşdırdı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "hökümlərini"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "pərdələdi"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "düşmənini"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşahı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrailin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "ortasındadır... sənin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "qorxmayacaqsan"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pislikdən"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "artıq"
+    }
+  ],
+  "timestamp": "2026-09-01T14:51:26.787446344Z",
+  "model": "glm-5.3"
+}

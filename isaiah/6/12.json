@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Və Yahve insanı uzaqlaşdırdıqca uzaqlaşdırar, ⟨və⟩ örkənlik torpağın hundurlüyündə çoxalar.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "və uzaqlaşdırdıqca uzaqlaşdırar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "insanı"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insanı"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "və çoxalar"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "örkənlik"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "torpağın hundurlüyündə"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "torpağın"
+    }
+  ],
+  "timestamp": "2026-09-01T12:49:23.746060757Z",
+  "model": "glm-5.3"
+}

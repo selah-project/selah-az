@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 32:33",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Ejderlərin zəhəri ⟨idir⟩ onların şərabı, və kobraların qəddar ⟨zəhəri⟩.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "zəhəri"
+    },
+    {
+      "surface": "תנינם",
+      "gloss": "ejderlərin"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "onların şərabı"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "və"
+    },
+    {
+      "surface": "פתנים",
+      "gloss": "kobraların"
+    },
+    {
+      "surface": "אכזר",
+      "gloss": "qəddar"
+    }
+  ],
+  "timestamp": "2026-09-01T10:59:14.683418640Z",
+  "model": "glm-5.3"
+}

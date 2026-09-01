@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 5:1",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Və bir can günah edib andın səsini eşidərsə, və o şahiddir — ya görmüşdür, ya bilmişdir — xəbər verməsə, öz günahını daşıyacaq.",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "və bir can"
+    },
+    {
+      "surface": "כי",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "günah edərsə"
+    },
+    {
+      "surface": "ושמעה",
+      "gloss": "və eşidərsə"
+    },
+    {
+      "surface": "קול",
+      "gloss": "səsini"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "andın"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "və o"
+    },
+    {
+      "surface": "עד",
+      "gloss": "şahiddir"
+    },
+    {
+      "surface": "או",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "görmüşdür"
+    },
+    {
+      "surface": "או",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilmişdir"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "xəbər verməsə"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "bildirə"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "daşıyacaq"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "öz günahını"
+    }
+  ],
+  "timestamp": "2026-09-01T10:24:03.130212392Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 26:10",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Çox ⟨var⟩, hamını dolandıran; kəsili icarəyə götürən də, ötüb-keçənləri icarəyə götürən də ⟨belədir⟩.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "çox"
+    },
+    {
+      "surface": "מחולל",
+      "gloss": "dolandıran"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamını"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "və icarəyə götürən"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "kəsili"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "və icarəyə götürən"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "ötüb-keçənləri"
+    }
+  ],
+  "timestamp": "2026-09-01T15:58:31.045605422Z",
+  "model": "glm-5.3"
+}

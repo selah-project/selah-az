@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 51,
+  "translation": "Bax, daxili üzvlərdə əməti istədin, və gizli yerdə mənə hikməti bildirəcəksən.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "bax"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "əməti"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "istədin"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "daxili üzvlərdə"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "və gizli yerdə"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikməti"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "mənə bildirəcəksən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:17:41.666864997Z",
+  "model": "glm-5.3"
+}

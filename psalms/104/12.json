@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 104:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 104,
+  "translation": "Onların üstündə göyün quşları sakin olurlar, budaqların arasından səs verirlər.",
+  "tokens": [
+    {
+      "surface": "עליהם",
+      "gloss": "onların üstündə"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "quşları"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göyün"
+    },
+    {
+      "surface": "ישכון",
+      "gloss": "sakin olurlar"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "arasından"
+    },
+    {
+      "surface": "עפאים",
+      "gloss": "budaqların"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "verirlər"
+    },
+    {
+      "surface": "קול",
+      "gloss": "səs"
+    }
+  ],
+  "timestamp": "2026-09-01T15:33:25.740430446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 11:8",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "O, şəhəri ətrafda, Millo-dan ətrafa qədər tikdi; Yoav isə ⟨את⟩ şəhərin qalanını bərpa etdi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "tikdi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şəhəri"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ətrafda"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Millo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "הסביב",
+      "gloss": "ətrafa"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "bərpa etdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şəhərin qalanını"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "qalanını"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şəhərin"
+    }
+  ],
+  "timestamp": "2026-09-01T17:03:15.302737429Z",
+  "model": "glm-5.3"
+}

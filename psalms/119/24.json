@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Əlbəttə, şəhadətlərin mənim əyləncəmdir, məsləhətçilərim ⟨onlardır⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "əlbəttə"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "şəhadətlərin"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "əyləncəmdir"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "məsləhətçilərim"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "⟨onlardır⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:49.577085759Z",
+  "model": "glm-5.3"
+}

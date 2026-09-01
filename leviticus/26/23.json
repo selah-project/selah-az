@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 26:23",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Və əgər ⟨bunlarla⟩ Mənə doğru tərbiyə olunmursunuzsa, lakin Mənimlə ⟨qarşıduraraq⟩ gərirsinizsə —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "⟨bunlarla⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תוסרו",
+      "gloss": "tərbiyə olunmursunuzsa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Mənə doğru"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "və gərirsinizsə"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Mənimlə"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "⟨qarşıduraraq⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T10:31:42.463181591Z",
+  "model": "glm-5.3"
+}

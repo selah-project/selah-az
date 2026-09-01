@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 24:8",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Şabbat günü, şabbat günü onu Yahvenin önündə düzər, daima; İsrail oğullarından ⟨את⟩ ⟨qəbul edir⟩ — əbədi əhd.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "günü"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "şabbatın"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "günü"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "şabbatın"
+    },
+    {
+      "surface": "יערכנו",
+      "gloss": "onu düzər"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önündə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daima"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "İsrail oğullarından"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "əhd"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "əbədi"
+    }
+  ],
+  "timestamp": "2026-09-01T17:27:55.085003341Z",
+  "model": "glm-5.3"
+}

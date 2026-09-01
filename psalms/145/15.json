@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 145,
+  "translation": "Hamının gözləri sənə ümid bəsləyir, və sən onlara ⟨את⟩ yeməklərini öz vaxtında verirsən.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "gözləri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamının"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "ümid bəsləyir"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "və sən"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "verirsən"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yeməklərini"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "yeməklərini"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "öz vaxtında"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:34.900289352Z",
+  "model": "glm-5.3"
+}

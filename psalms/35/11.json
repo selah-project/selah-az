@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "Zorakı şahidlər qalxacaq, bilmədiyim şeyləri məndən soruşacaqlar.",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "qalxacaq"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "şahidlər"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "zorakı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ki⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bilmədiyim"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": ""
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "məndən soruşacaqlar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:10:56.782361200Z",
+  "model": "glm-5.3"
+}

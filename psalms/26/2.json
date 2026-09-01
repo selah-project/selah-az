@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Məni sına, Yahve, və məni imtahana çək; böyrəklərimi və ürəyimi əridib təmizlə⟨diyin kimi sına⟩.",
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "Məni sına"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ונסני",
+      "gloss": "və məni imtahana çək"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "əridib təmizlə"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "böyrəklərimi"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "və ürəyimi"
+    }
+  ],
+  "timestamp": "2026-09-01T17:53:10.109098162Z",
+  "model": "glm-5.3"
+}

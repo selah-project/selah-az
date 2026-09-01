@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 11:9",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "və ⟨את⟩ Adorayimi, ⟨את⟩ Laxişi və ⟨את⟩ Əzəqanı ⟨möhkəmləndirdi⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Adorayim"
+    },
+    {
+      "surface": "אדורים",
+      "gloss": "Adorayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Laxiş"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "Laxiş"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Əzəqa"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Əzəqa"
+    }
+  ],
+  "timestamp": "2026-09-01T17:46:38.211593127Z",
+  "model": "glm-5.3"
+}

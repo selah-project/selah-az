@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Yahve balığla danışdı və o, Yonanı ⟨את⟩ quruya qusdu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "danışdı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "balığla"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "qusdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonanı"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "quruya"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "(quru yerə)"
+    }
+  ],
+  "timestamp": "2026-09-01T14:44:49.171418094Z",
+  "model": "glm-5.3"
+}

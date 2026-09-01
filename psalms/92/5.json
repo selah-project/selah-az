@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 92,
+  "translation": "Çünki məni sevindirdin, Yahve, sənin əməlinlə; sənin əllərinin əməlləri haqqında mahnı oxuyacağam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "məni sevindirdin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "sənin əməlinlə"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "əməlləri haqqında"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "sənin əllərinin"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "mahnı oxuyacağam"
+    }
+  ],
+  "timestamp": "2026-09-01T15:32:53.725214276Z",
+  "model": "glm-5.3"
+}

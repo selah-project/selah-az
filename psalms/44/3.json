@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 44:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 44,
+  "translation": "Sən — əlinlə xalqları qovdun ⟨onları⟩ və onları əkdin; millətləri əzdin və onları qovdun.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sən"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "əlinlə"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "xalqları"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "qovdun (miras aldın)"
+    },
+    {
+      "surface": "ותטעם",
+      "gloss": "və onları əkdin"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "əzdin"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "millətləri"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "və onları qovdun"
+    }
+  ],
+  "timestamp": "2026-09-01T15:14:52.191726335Z",
+  "model": "glm-5.3"
+}

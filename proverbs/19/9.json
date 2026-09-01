@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 19:9",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Yalançı şahid cəzasız qalmaz, yalan tükyönən ⟨isə⟩ yox olar.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "şahid"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "yalançı"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "cəzasız qalmaz"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "tükyönən"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "yalan"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "yox olar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:56:02.588394182Z",
+  "model": "glm-5.3"
+}

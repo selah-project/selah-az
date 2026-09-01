@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Onların ətindən yeməyin, ölü cəsədlərinə toxunmayın — onlar sizin üçün murdardırlar.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "Onların ətindən"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yeməyin (yox)"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yeməyin"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "ölü cəsədlərinə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "toxunmayın"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "murdardırlar"
+    },
+    {
+      "surface": "הם",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:24:49.145118308Z",
+  "model": "glm-5.3"
+}

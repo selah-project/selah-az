@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 1:30",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Yahve, Elohiminiz, önünüzcdə gedən Odur; sizin üçün O vuruşacaq — Mitsrayimdə göz qabağınızda sizin üçün etdiyi hər şey kimi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiminiz"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "gedən"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "önünüzcdə"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Odur"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "vuruşacaq"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin üçün"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "hər şey kimi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etdiyi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizinlə",
+      "marks": "sizin üçün (siz — diretiv obyekt)"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayimda"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "göz qabağınızda"
+    }
+  ],
+  "timestamp": "2026-09-01T10:46:14.618441821Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 43:21",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 43,
+  "translation": "⟨Bu⟩ xalqı mən özüm üçün yaratdım, mənim tərifimi söyləyəcəklər.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "זו",
+      "gloss": "⟨bu⟩"
+    },
+    {
+      "surface": "יצרתי",
+      "gloss": "yaratdım"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mən özüm üçün"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "mənim tərifimi"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "söyləyəcəklər"
+    }
+  ],
+  "timestamp": "2026-09-01T13:07:35.755273824Z",
+  "model": "glm-5.3"
+}

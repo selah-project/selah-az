@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 80,
+  "translation": "⟨O⟩ budaqlarını dənizə qədər göndərdi, və gövdəciklərini çaya ⟨qədər⟩.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "göndərdi"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "budaqlarını"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dənizə"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və ... doğru"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "çaya"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "gövdəciklərini"
+    }
+  ],
+  "timestamp": "2026-09-01T15:27:13.874181646Z",
+  "model": "glm-5.3"
+}

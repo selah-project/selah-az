@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 24:2",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "İnsan oğlu, özün üçün ⟨את⟩ bu günün adını yaz, ⟨את⟩ bu günün ta özünü: Babilin kralı bu günün ta özündə Yeruşalayimin üstünə yürüdü.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "yaz"
+    },
+    {
+      "surface": "לך",
+      "gloss": "özün üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu günün adını"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ad"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bu günün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu günün ta özünü"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "ta özü"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bu günün"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "סמך",
+      "gloss": "yürüdü"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "ta özündə"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bu günün"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-09-01T14:16:16.644052412Z",
+  "model": "glm-5.3"
+}

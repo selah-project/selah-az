@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 20:12",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Amma əgər səninlə sülh etməsə və səninlə müharibə etsə, onu mühasirəyə alacaqsan.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "amma əgər"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תשלים",
+      "gloss": "sülh etməsə"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "səninlə"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "və etsə"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "səninlə"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "müharibə"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "mühasirəyə alacaqsan"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "onu"
+    }
+  ],
+  "timestamp": "2026-09-01T10:52:08.108695722Z",
+  "model": "glm-5.3"
+}

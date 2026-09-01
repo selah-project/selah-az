@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 42:9",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 42,
+  "translation": "və onlara dedi: belə deyir Yahve, İsrailin Elohimi — kiçiniz Onun yanına ⟨את⟩ məni göndərdiniz, yalvarınızı Onun üzünün önünə tökmək üçün.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "כה",
+      "gloss": "belə"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שלחתם",
+      "gloss": "göndərdiniz"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ məni",
+      "marks": "məni (göndərilən obyekt)"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "Onun yanına"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "tökmək üçün"
+    },
+    {
+      "surface": "תחנתכם",
+      "gloss": "yalvarınız"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "Onun üzünün önünə"
+    }
+  ],
+  "timestamp": "2026-09-01T13:52:34.998167858Z",
+  "model": "glm-5.3"
+}

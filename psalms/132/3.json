@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 132,
+  "translation": "«Əgər çadırıma, evimə girərsəmsə, əgər döşəyimin üstünə qalxaramsa —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Əgər"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "girərsəm"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "çadırıma"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "evimə"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "qalxaramsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "döşəyimin"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "yatağımın"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:40.851567884Z",
+  "model": "glm-5.3"
+}

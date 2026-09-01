@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 40:8",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "Ot quruyur, çiçək solur, amma Elohimimizin sözü əbədi qalacaq.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "quruyur"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ot"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "solur"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "çiçək"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "amma sözü"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimizin"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "qalacaq"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədi"
+    }
+  ],
+  "timestamp": "2026-09-01T13:06:29.215126917Z",
+  "model": "glm-5.3"
+}

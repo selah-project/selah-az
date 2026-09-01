@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 56:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 56,
+  "translation": "O zaman düşmənlərim geri dönnər — mən çağırdığım gün; bunu bilirəm, çünki Elohim mənimlədir.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "o zaman"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "geri dönnər"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "düşmənlərim"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "geri"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "günündə"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "çağırdığım"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bunu"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "bilirəm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənim üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T15:18:10.579599302Z",
+  "model": "glm-5.3"
+}

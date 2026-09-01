@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "Ləyəni və ağaca tərpənməz yerini məsh edəsən və ⟨את⟩ onu müqəddəs edəsən.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "məsh edəsən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ləyən"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "ləyəni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "altlığı"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "altlığını"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "müqəddəs edəsən"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu"
+    }
+  ],
+  "timestamp": "2026-09-01T10:22:04.341288632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 30:2",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "və Yahve Elohiminə qayıdacaqsan və səninə uyub Onun səsini dinləyəcəksən, bütün o şeylərə görə ki, mən sənə bu gün əmr edirəm — sən və oğulların — bütün ürəyinlə və bütün nəfəsinlə.",
+  "tokens": [
+    {
+      "surface": "ושבת",
+      "gloss": "qayıdacaqsan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiminə"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "dinləyəcəksən"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "Onun səsini"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "bütün...-ə görə"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mən"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "sənə əmr edirəm"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bu gün"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "və oğulların"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ürəyinlə"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nəfəsinlə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:57:38.488507854Z",
+  "model": "glm-5.3"
+}

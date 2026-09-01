@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 47,
+  "translation": "Çünki Yahve Elyon qorxuludur, bütün yer üzü üzərində böyük Kraldır.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "qorxuludur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Kraldır"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərində"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer üzü"
+    }
+  ],
+  "timestamp": "2026-09-01T15:16:15.353034202Z",
+  "model": "glm-5.3"
+}

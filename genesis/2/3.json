@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və Elohim yeddinci günü mübarəkələdi ⟨את⟩, və onu müqəddəslədi ⟨את⟩, çünki onda dayandı bütün öz işindən ki yaratdı Elohim ⟨yaratmaq üçün⟩.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "mübarəkələdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yeddinci günü"
+    },
+    {
+      "surface": "יום",
+      "gloss": "günü"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "yeddinci"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "müqəddəslədi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "yeddinci gün"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onda"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "dayandı"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bütün … -dan"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "öz işindən"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "yaratdı"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "⟨yaratmaq üçün⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T09:46:30.537383652Z",
+  "model": "glm-5.3"
+}

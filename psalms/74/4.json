@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 74,
+  "translation": "Düşmənlərin sənin yığıncağının ortasında ulayırlar; öz nişanlarını ⟨sənin⟩ nişanlar ⟨yerinə⟩ qoydular.",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "ulayırlar"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "düşmənlərin"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ortasında"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "yığıncağının"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "qoydular"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "öz nişanlarını"
+    },
+    {
+      "surface": "אותות",
+      "gloss": "nişanlar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:25:48.160584216Z",
+  "model": "glm-5.3"
+}

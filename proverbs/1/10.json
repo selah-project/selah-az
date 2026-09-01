@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Oğlum, əgər günahkarlar səni yoldan çıxarsa, razı olma.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "oğlum"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "səni yoldan çıxarsa"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "günahkarlar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(razı) olma"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "razı olma"
+    }
+  ],
+  "timestamp": "2026-09-01T15:47:09.004656358Z",
+  "model": "glm-5.3"
+}

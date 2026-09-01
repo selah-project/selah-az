@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 25:25",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Əgər qardaşın kasıblasa və mülkündən bir hissə satıbsa, onun yaxın qohumu olan haqq ödəyicisi gəlsin və qardaşının satdığını ⟨את⟩ geri alsın.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "kasıblasa"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "qardaşın"
+    },
+    {
+      "surface": "ומכר",
+      "gloss": "satıbsa"
+    },
+    {
+      "surface": "מאחזתו",
+      "gloss": "mülkündən"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "gəlsin"
+    },
+    {
+      "surface": "גאלו",
+      "gloss": "haqq ödəyicisi"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "yaxın"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "onun"
+    },
+    {
+      "surface": "וגאל",
+      "gloss": "geri alsın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qardaşının satdığı şey"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "satılan"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "qardaşının"
+    }
+  ],
+  "timestamp": "2026-09-01T10:31:15.789184759Z",
+  "model": "glm-5.3"
+}

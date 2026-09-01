@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Çünüz ağzında sabitlik yoxdur, içləri ödübmüşlük, qəbri açıq kimi udlaqları, dillərini hamarlayırlar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "ağzında"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "sabitlik"
+    },
+    {
+      "surface": "קרבם",
+      "gloss": "içləri"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "ödübmüşlük"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "qəbr"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "açıq"
+    },
+    {
+      "surface": "גרונם",
+      "gloss": "onların udlaqları"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "dillərini"
+    },
+    {
+      "surface": "יחליקון",
+      "gloss": "hamarlayırlar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:00:33.704784312Z",
+  "model": "glm-5.3"
+}

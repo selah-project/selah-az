@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 1:43",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və Yonatan cavab verdi və Adoniyahuya dedi: Əksinə, ağamız ⟨olan⟩ kral David ⟨את⟩ Shlomonu kral etdi.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "və cavab verdi"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "Adoniyahuya"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "əksinə"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "ağamız"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "המליך",
+      "gloss": "kral etdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shlomonu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomo"
+    }
+  ],
+  "timestamp": "2026-09-01T12:09:38.460523529Z",
+  "model": "glm-5.3"
+}

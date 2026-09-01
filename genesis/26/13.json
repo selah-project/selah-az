@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 26:13",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Və adam böyüdü, irəli getdi, böyüyə-böyüyə ⟨o qədər⟩ ⟨böyüdü⟩ ki, çox böyük oldu.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "böyüdü"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "getdi irəli"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "gedə-gedə"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "böyüyərək"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨o qədər⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "⟨böyüdü⟩"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çox"
+    }
+  ],
+  "timestamp": "2026-09-01T09:53:39.044370410Z",
+  "model": "glm-5.3"
+}

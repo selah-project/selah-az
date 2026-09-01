@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 11:47",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "təmiz olmayan ilə təmiz arasında, yeyilən canlı ilə yeyilməyən canlı arasında fərq qoymaq üçün.",
+  "tokens": [
+    {
+      "surface": "להבדיל",
+      "gloss": "fərq qoymaq üçün"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "təmiz olmayan"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ilə ... arasında"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "təmiz"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ilə ... arasında"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "canlı"
+    },
+    {
+      "surface": "הנאכלת",
+      "gloss": "yeyilən"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ilə ... arasında"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "canlı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yeyiləcək"
+    }
+  ],
+  "timestamp": "2026-09-01T10:24:21.556665714Z",
+  "model": "glm-5.3"
+}

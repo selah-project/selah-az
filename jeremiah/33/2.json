@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 33:2",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "Belə deyir Yahve, onu edən Yahve, onu formalaşdıran, onu hazırlayan Yahve — Onun adı Yahvedir:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "belə"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "edən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "formalaşdıran"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu (formalaşdırılan şey)"
+    },
+    {
+      "surface": "להכינה",
+      "gloss": "onu hazırlayan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Onun adı"
+    }
+  ],
+  "timestamp": "2026-09-01T13:44:11.293565039Z",
+  "model": "glm-5.3"
+}

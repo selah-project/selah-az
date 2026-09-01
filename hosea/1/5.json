@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və olacaq o gündə ki, İsrailin ⟨את⟩ yayını Yizreel vadisində qıracağam.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "və olacaq"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gündə"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "qıracağam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yayını"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "yay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailin"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "vadisində"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    }
+  ],
+  "timestamp": "2026-09-01T14:34:43.287064992Z",
+  "model": "glm-5.3"
+}

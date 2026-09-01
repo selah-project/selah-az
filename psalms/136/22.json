@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 136:22",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 136,
+  "translation": "mülk ⟨olaraq⟩ quluna İsraılə, çünki onun hesedi əbədidir.",
+  "tokens": [
+    {
+      "surface": "נחלה",
+      "gloss": "mülk ⟨olaraq⟩"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "İsraılə"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "onun qulu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədidir"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "onun hesedi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:43:54.480665682Z",
+  "model": "glm-5.3"
+}

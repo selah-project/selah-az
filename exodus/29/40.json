@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 29:40",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "Və bir issaron xırda un, döyülmüş yağla qarışdırılmış, hinin dörddə biri ⟨miqdarında⟩, və içilik (nesek) hinin dörddə biri şərab — bir quzu üçün.",
+  "tokens": [
+    {
+      "surface": "ועשרן",
+      "gloss": "və issaron"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "xırda un"
+    },
+    {
+      "surface": "בלול",
+      "gloss": "qarışdırılmış"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "yağla"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "döyülmüş"
+    },
+    {
+      "surface": "רבע",
+      "gloss": "dörddə biri"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "hinin"
+    },
+    {
+      "surface": "ונסך",
+      "gloss": "və içilik"
+    },
+    {
+      "surface": "רבעית",
+      "gloss": "dörddə biri"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "hinin"
+    },
+    {
+      "surface": "יין",
+      "gloss": "şərab"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "quzu üçün"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "bir"
+    }
+  ],
+  "timestamp": "2026-09-01T10:18:01.265384570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 60,
+  "translation": "Moav mənim yuyunma qazanımdır, Edomun üstünə ayaqqabımı atacağam, mənim sayəmdə qışqır, Peliştim!",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "qazan"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "yuyunma (qazanım)"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomun"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "atacağam"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "ayaqqabımı"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mənim sayəmdə"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peliştim"
+    },
+    {
+      "surface": "התרעעי",
+      "gloss": "qışqır"
+    }
+  ],
+  "timestamp": "2026-09-01T15:20:16.266198076Z",
+  "model": "glm-5.3"
+}

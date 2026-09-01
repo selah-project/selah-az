@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Onu götürüb quyuya atdılar; quyu isə boş idi — içində su yox idi.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "onu götürdülər"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "və atdılar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "quyuya"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "və quyu"
+    },
+    {
+      "surface": "רק",
+      "gloss": "boş"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yox idi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "içində"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    }
+  ],
+  "timestamp": "2026-09-01T09:59:09.532264467Z",
+  "model": "glm-5.3"
+}

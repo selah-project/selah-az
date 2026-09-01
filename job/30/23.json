@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 30:23",
+  "book": "job",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Çünki bilirəm: ölümə qaytaracaqsan məni, bütün yaşayanlar üçün təyin olunmuş evə ⟨gedəcəyəm⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "bilirəm"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölümə"
+    },
+    {
+      "surface": "תשיבני",
+      "gloss": "qaytaracaqsan məni"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "və evə"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "təyin olunmuş"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bütün ... üçün"
+    },
+    {
+      "surface": "חי",
+      "gloss": "yaşayanlar"
+    }
+  ],
+  "timestamp": "2026-09-01T16:14:37.179103252Z",
+  "model": "glm-5.3"
+}

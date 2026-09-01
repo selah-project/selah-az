@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 61:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 61,
+  "translation": "Elohimin önündə əbədə otursun; hesed və doğruqanlıq tayin edilsin ki, onu qorusunlar.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "otursun"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "əbədə"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önündə"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "və doğruqanlıq"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tayin edilsin"
+    },
+    {
+      "surface": "ינצרהו",
+      "gloss": "onu qorusunlar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:21:30.085506800Z",
+  "model": "glm-5.3"
+}

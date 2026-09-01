@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 15:22",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Və əgər azsanız və Yahvenin Moşeyə danışdığı bu bütün əmrlərin ⟨את⟩ hamısını etməsəniz —",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "תשגו",
+      "gloss": "azsanız"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... etməsəniz"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "etsəniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu bütün əmrlərin hamısını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamısını"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "əmrlərin"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu bütün"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "danışdığı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-yə"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşeyə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:38:59.691869664Z",
+  "model": "glm-5.3"
+}

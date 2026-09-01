@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 6:11",
+  "book": "esther",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Həman libası və ⟨את⟩ atı götürdü, və Mordoxanı geyindirdi, və onu şəhərin meydanında gəzdirdi, və qarşısında elan etdi: «Padşahın şərəfinə xoşladığı adam belə olunur.»",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "götürdü"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Həman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "libası"
+    },
+    {
+      "surface": "הלבוש",
+      "gloss": "libası"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "atı"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "atı"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "geyindirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordoxanı"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordoxanı"
+    },
+    {
+      "surface": "וירכיבהו",
+      "gloss": "onu gəzdirdi"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "meydanında"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şəhərin"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "elan etdi"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "qarşısında"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "belə"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "olunur"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "xoşladı"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "şərəfinə"
+    }
+  ],
+  "timestamp": "2026-09-01T16:37:03.296425012Z",
+  "model": "glm-5.3"
+}

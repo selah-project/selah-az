@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joel 2:9",
+  "book": "joel",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Şəhərdə tullanırlar, sədd üstündə qaçırlar, evlərə dırmaşırlar, pəncərələrdən oğru kimi girirlər.",
+  "tokens": [
+    {
+      "surface": "בעיר",
+      "gloss": "şəhərdə"
+    },
+    {
+      "surface": "ישקו",
+      "gloss": "tullanırlar"
+    },
+    {
+      "surface": "בחומה",
+      "gloss": "sədd üstündə"
+    },
+    {
+      "surface": "ירצון",
+      "gloss": "qaçırlar"
+    },
+    {
+      "surface": "בבתים",
+      "gloss": "evlərə"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "dırmaşırlar"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "⟨içəri⟩"
+    },
+    {
+      "surface": "החלונים",
+      "gloss": "pəncərələrdən"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "girirlər"
+    },
+    {
+      "surface": "כגנב",
+      "gloss": "oğru kimi"
+    }
+  ],
+  "timestamp": "2026-09-01T14:39:32.342196670Z",
+  "model": "glm-5.3"
+}

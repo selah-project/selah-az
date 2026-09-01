@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 5:23",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Və belə olar: günah edərsə və tqsirkar olarsa, qarət etdiyi qarəti, yaxud sıxdırdığı sıxıntını, yaxud yanında əmanət qoyulmuş əmanəti, yaxud tapdığı itirilmiş şeyi geri qaytarsın",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "və belə olar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "günah edərsə"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "təqsirkar olarsa"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "geri qaytarsın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qarəti"
+    },
+    {
+      "surface": "הגזלה",
+      "gloss": "qarət"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "גזל",
+      "gloss": "qarət etdiyi"
+    },
+    {
+      "surface": "או",
+      "gloss": "yaxud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sıxıntını"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "sıxıntı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "sıxdırdığı"
+    },
+    {
+      "surface": "או",
+      "gloss": "yaxud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əmanəti"
+    },
+    {
+      "surface": "הפקדון",
+      "gloss": "əmanət"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הפקד",
+      "gloss": "əmanət qoyulmuş"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onun yanında"
+    },
+    {
+      "surface": "או",
+      "gloss": "yaxud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itirilmiş şeyi"
+    },
+    {
+      "surface": "האבדה",
+      "gloss": "itirilmiş şey"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "tapdığı"
+    }
+  ],
+  "timestamp": "2026-09-01T10:23:53.504198340Z",
+  "model": "glm-5.3"
+}

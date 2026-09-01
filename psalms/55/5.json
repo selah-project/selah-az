@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 55,
+  "translation": "Ürəyim içimdə burulur, ölüm qorxuları üstümə düşdü.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "ürəyim"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "burulur"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "içimdə"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "qorxuları"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölüm"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "düşdü"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üstümə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:17:40.788147653Z",
+  "model": "glm-5.3"
+}

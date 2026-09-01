@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 10:6",
+  "book": "zechariah",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Və ⟨את⟩ Yehuda evini gücləndirəcəyəm və ⟨את⟩ Yosef evini xilas edəcəyəm; onları yerləşdirəcəyəm, çünki onlara rəhm etdim, və ⟨olacaqlar⟩ ki, mən onları rədd etməmişəm, çünki mən Yahve, onların Elohim-i ⟨yəm⟩, və onları cavablandıracağam.",
+  "tokens": [
+    {
+      "surface": "וגברתי",
+      "gloss": "və gücləndirəcəyəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda evini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evini"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef evini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evini"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "xilas edəcəyəm"
+    },
+    {
+      "surface": "והושבותים",
+      "gloss": "onları yerləşdirəcəyəm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "רחמתים",
+      "gloss": "onlara rəhm etdim"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "və olacaqlar"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "זנחתים",
+      "gloss": "rədd etməmişəm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "onların Elohim-i"
+    },
+    {
+      "surface": "ואענם",
+      "gloss": "və onları cavablandıracağam"
+    }
+  ],
+  "timestamp": "2026-09-01T14:59:03.366100041Z",
+  "model": "glm-5.3"
+}

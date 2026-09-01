@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 25:3",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Götürəcəyiniz tərumə budur: onlardan ⟨את⟩ ⟨qəbul edəcəyiniz⟩ — qızıl, gümüş və misdən.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "budur"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "tərumə"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "götürəcəyiniz"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ onlardan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "qızıl"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "və gümüş"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "və mis"
+    }
+  ],
+  "timestamp": "2026-09-01T10:16:41.159583716Z",
+  "model": "glm-5.3"
+}

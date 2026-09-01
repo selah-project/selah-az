@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Pis gəldikdə hörmətsizlik də gəlir, alçaldıcı ilə birlikdə təhqir ⟨gəlir⟩.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "gəldikdə"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "pis"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gəlir"
+    },
+    {
+      "surface": "גם",
+      "gloss": "də"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "hörmətsizlik"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ilə birlikdə"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "alçaldıcı"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "təhqir"
+    }
+  ],
+  "timestamp": "2026-09-01T15:55:20.698614309Z",
+  "model": "glm-5.3"
+}

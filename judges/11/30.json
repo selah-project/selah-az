@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 11:30",
+  "book": "judges",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Və Yiftax Yahveyə nəzir verdi və dedi: Əgər əslində ⟨את⟩ Ammon oğullarını əlimə verəcəksənsə —",
+  "tokens": [
+    {
+      "surface": "וידר",
+      "gloss": "və nəzir verdi"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftax"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "nəzir"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "נתון",
+      "gloss": "vermək"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "verəcəksənsə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ammon oğullarını"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "əlimə"
+    }
+  ],
+  "timestamp": "2026-09-01T11:24:13.327589496Z",
+  "model": "glm-5.3"
+}

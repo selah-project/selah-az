@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 21:26",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Və Avimelex dedi: Bilmədim ⟨mən⟩ kim etdi ⟨את⟩ bu işi; həmçinin sən mənə xəbər vermədin, həmçinin ⟨mən⟩ də eşitmədim — bu gün müstəsna olmaqla.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Və ... dedi"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelex"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Bilmədim"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "bilmədim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu işi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "iş"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "həmçinin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…mədiniz"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "xəbər vermədin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "həmçinin"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "⟨mən⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…mədim"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "eşitmədim"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "müstəsna olmaqla"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bu gün"
+    }
+  ],
+  "timestamp": "2026-09-01T09:51:27.513857839Z",
+  "model": "glm-5.3"
+}

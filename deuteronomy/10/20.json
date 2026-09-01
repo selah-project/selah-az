@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 10:20",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "⟨את⟩ Yahve, sənin Elohimindən qorx, ⟨את⟩ Ona xidmət et, Ona yapış və Onun adı ilə and iç.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve, sənin Elohimin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sənin Elohimin"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "qorx"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ Ona"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "xidmət et"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "תדבק",
+      "gloss": "yapış"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "Onun adı ilə"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "and iç"
+    }
+  ],
+  "timestamp": "2026-09-01T10:49:09.609841889Z",
+  "model": "glm-5.3"
+}

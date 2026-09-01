@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "zechariah 8:21",
+  "book": "zechariah",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və bir ⟨şəhərin⟩ sakinləri o birinə gedib deyəcəklər: Gəlin, davamlı Yahvenin üzünü ⟨את⟩ yalvarmağa və Yahve Tsevaotı ⟨את⟩ axtarmağa gedək; mən də gedərəm.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "gedib"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "sakintləri"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "bir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨→⟩"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "o birinə"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyəcəklər"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "gedək"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "davamlı"
+    },
+    {
+      "surface": "לחלות",
+      "gloss": "yalvarmağa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahvenin üzünü"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzünü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ולבקש",
+      "gloss": "və axtarmağa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve Tsevaotı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אלכה",
+      "gloss": "gedərəm"
+    },
+    {
+      "surface": "גם",
+      "gloss": "də"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    }
+  ],
+  "timestamp": "2026-09-01T14:55:23.062735518Z",
+  "model": "glm-5.3"
+}

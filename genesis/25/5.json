@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "və Avraham ⟨את⟩ bütün malını ki, onun idi, Yitsxaka verdi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "və verdi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün malını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki, (olan)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onun idi"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Yitsxaka"
+    }
+  ],
+  "timestamp": "2026-09-01T09:53:03.500867089Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 1:3",
+  "book": "song-of-songs",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Yağlarının ətrinə ⟨görə⟩ xoşdur ⟨onlar⟩; adın tökülmüş yağdır; buna görə gənc qızlar səni sevir.",
+  "tokens": [
+    {
+      "surface": "לריח",
+      "gloss": "ətrinə ⟨görə⟩"
+    },
+    {
+      "surface": "שמניך",
+      "gloss": "yağlarının"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "xoşdur"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "yağ"
+    },
+    {
+      "surface": "תורק",
+      "gloss": "tökülmüş"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "adın"
+    },
+    {
+      "surface": "על",
+      "gloss": "buna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "görə"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "gənc qızlar"
+    },
+    {
+      "surface": "אהבוך",
+      "gloss": "səni sevir"
+    }
+  ],
+  "timestamp": "2026-09-01T16:20:59.204871831Z",
+  "model": "glm-5.3"
+}

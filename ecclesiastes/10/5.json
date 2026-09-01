@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Bir pislik var — onu günəş altında görmüşəm: hökmdarın ⟨üzünün⟩ önündən çıxan səhv kimi.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "var"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pislik"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "görmüşəm"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "günəş"
+    },
+    {
+      "surface": "כשגגה",
+      "gloss": "səhv kimi"
+    },
+    {
+      "surface": "שיצא",
+      "gloss": "çıxan"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "üzünün önündən"
+    },
+    {
+      "surface": "השליט",
+      "gloss": "hökmdar"
+    }
+  ],
+  "timestamp": "2026-09-01T16:31:17.483694117Z",
+  "model": "glm-5.3"
+}

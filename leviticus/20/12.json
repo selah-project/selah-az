@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 20:12",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Və bir kişi ki, ⟨את⟩ gəlini ilə yatsa, ikisi də ölüm ilə öldürülsün; qarışıqlıq etmişlər — onların qanı öz üstlərindədir.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "və bir kişi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "yatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gəlini"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "gəlini"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölüm"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "öldürülsün"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ikisi də"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "qarışıqlıq"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "etmişlər"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "onların qanı"
+    },
+    {
+      "surface": "בם",
+      "gloss": "öz üstlərindədir"
+    }
+  ],
+  "timestamp": "2026-09-01T10:29:28.850487208Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 21:13",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Çünki sən onları çiyin ⟨ilə qaçmağa⟩ qoyacaqsan, yayının telləri ilə onların üzlərinə ⟨nişan⟩ düzəcəksən.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "sən onları qoyacaqsan"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "çiyin"
+    },
+    {
+      "surface": "במיתריך",
+      "gloss": "yayının telləri ilə"
+    },
+    {
+      "surface": "תכונן",
+      "gloss": "düzəcəksən"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "onların üzləri"
+    }
+  ],
+  "timestamp": "2026-09-01T15:05:52.936116123Z",
+  "model": "glm-5.3"
+}

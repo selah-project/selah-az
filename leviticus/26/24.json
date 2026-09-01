@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 26:24",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "onda Mən də sizinlə ⟨qarşıduraraq⟩ gələcəyəm, və ⟨את⟩ sizi — hətta Mən özüm — günahlarınızın üstünə yeddiqat vuracağam.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "və gələcəyəm"
+    },
+    {
+      "surface": "אף",
+      "gloss": "da"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "sizinlə"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "⟨qarşıduraraq⟩"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "və vuracağam"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hətta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mən özüm"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yeddiqat"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "günahlarınızın"
+    }
+  ],
+  "timestamp": "2026-09-01T10:31:42.463332600Z",
+  "model": "glm-5.3"
+}

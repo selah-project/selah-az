@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 30:10",
+  "book": "job",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Məndən ikrah edirlər, uzaqlaşıb gedirlər məndən, və üzümün qarşısında tüpürməkdən çəkinmirlər.",
+  "tokens": [
+    {
+      "surface": "תעבוני",
+      "gloss": "məndən ikrah edirlər"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "uzaqlaşırlar"
+    },
+    {
+      "surface": "מני",
+      "gloss": "məndən"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "və üzümün qarşısında"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "çəkinirlər"
+    },
+    {
+      "surface": "רק",
+      "gloss": "tüpürük"
+    }
+  ],
+  "timestamp": "2026-09-01T16:14:42.583172706Z",
+  "model": "glm-5.3"
+}

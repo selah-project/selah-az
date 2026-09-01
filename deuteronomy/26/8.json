@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 26:8",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Və Yahve bizi Mitsrayimdan çıxartdı güclü əllə, və uzadılmış qolla, və böyük qorxu ilə, və nişanələrlə, və möcüzələrlə.",
+  "tokens": [
+    {
+      "surface": "ויוצאנו",
+      "gloss": "çıxartdı bizi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayimdan"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "əllə"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "güclü"
+    },
+    {
+      "surface": "ובזרע",
+      "gloss": "qolla"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "uzadılmış"
+    },
+    {
+      "surface": "ובמרא",
+      "gloss": "qorxu ilə"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "ובאתות",
+      "gloss": "nişanələrlə"
+    },
+    {
+      "surface": "ובמפתים",
+      "gloss": "möcüzələrlə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:54:25.804463209Z",
+  "model": "glm-5.3"
+}

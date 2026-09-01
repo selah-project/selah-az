@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 31:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "Qulağını mənə tərəf əy; tələs məni xilas et; mənə qaya, möhkəm sığınacaq, qalalar evi ol, məni xilas edəsən deyə.",
+  "tokens": [
+    {
+      "surface": "הטה",
+      "gloss": "əy"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənə tərəf"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "Qulağını"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "tələs"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "məni xilas et"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ol"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "qaya"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "möhkəm sığınacaq"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "מצודות",
+      "gloss": "qalalar"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "məni xilas edəsən deyə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:09:35.600560763Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 10:14",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "və Yahvedən soruşmadı; ⟨O⟩ onu öldürdü və səltənəti Davidə, Yişayın oğluna çevirdi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "və soruşmadı"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "soruşmadı"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahvedən"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "onu öldürdü"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "çevirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "səltənəti"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "səltənəti"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Davidə"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yişayın"
+    }
+  ],
+  "timestamp": "2026-09-01T17:03:04.603660710Z",
+  "model": "glm-5.3"
+}

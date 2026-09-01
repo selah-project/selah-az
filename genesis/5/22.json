@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 5:22",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Hanox Metuşelaxı doğduqdan sonra üç yüz il Elohim ⟨את⟩ ilə gəzdi ⟨və⟩ oğullar və qızlar doğdu.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "gəzdi"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanox"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sonra"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "doğduqdan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metuşelaxı"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metuşelax"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "üç"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "il"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "doğdu"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oğullar"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "qızlar"
+    }
+  ],
+  "timestamp": "2026-09-01T09:46:48.774220588Z",
+  "model": "glm-5.3"
+}

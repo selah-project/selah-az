@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 5:12",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "İsrail oğullarına danış və onlara de: hər adamın arvadı yoldan azsa və ona qarşı xəyanət etsə —",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "danış"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarına"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "və deyərsən"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər adamın"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər adam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "תשטה",
+      "gloss": "yoldan azsa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "arvadı"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "və xəyanət edərsə"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ona qarşı"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "xəyanət"
+    }
+  ],
+  "timestamp": "2026-09-01T10:33:58.627187187Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 145,
+  "translation": "Yahve Onu sevənlərin hamısını ⟨את⟩ qoruyur, şərlərin hamısını isə ⟨את⟩ məhv edəcək.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "qoruyur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Onu sevənlərin hamısını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamısını"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "Onu sevənlərin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "şərlərin hamısını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamısını"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "şərlərin"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "məhv edəcək"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:56.852446410Z",
+  "model": "glm-5.3"
+}

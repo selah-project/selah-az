@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "Yahve millətlərin məsləhətini pozdu, xalqların planlarını puç etdi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הפיר",
+      "gloss": "pozdu"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "məsləhətini"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "millətlərin"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "puç etdi"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "planlarını"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "xalqların"
+    }
+  ],
+  "timestamp": "2026-09-01T15:10:24.899664785Z",
+  "model": "glm-5.3"
+}

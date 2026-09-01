@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 27:7",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "və sellam qurbanları kəs, və orada yey, və Yahve sənin Elohiminin üzündə sevin.",
+  "tokens": [
+    {
+      "surface": "וזבחת",
+      "gloss": "və kəsəcəksən"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "sellam qurbanları"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "və yeyəcəksən"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "ושמחת",
+      "gloss": "və sevinəcəksən"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "üzündə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sənin Elohimin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:54:11.247956336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 18:16",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Qardaşının arvadının çılpaqlığını açma — o, qardaşının çılpaqlığıdır ⟨o⟩.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "çılpaqlığını"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "arvadının"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "qardaşının"
+    },
+    {
+      "surface": "לא",
+      "gloss": "açma"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": ""
+    },
+    {
+      "surface": "ערות",
+      "gloss": "çılpaqlığı"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "qardaşının"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o ⟨o⟩dur"
+    }
+  ],
+  "timestamp": "2026-09-01T10:27:49.390407758Z",
+  "model": "glm-5.3"
+}

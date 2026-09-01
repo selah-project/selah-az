@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 1:10",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Yosefin oğulları üçün: Efrayim üçün Elişama, Ammihudun oğlu; Menaşe üçün Qamliel, Pdahtsurun oğlu.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "oğulları üçün"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefin"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Efrayim üçün"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elişama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Ammihudun"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "Menaşe üçün"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Qamliel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "פדהצור",
+      "gloss": "Pdahtsurun"
+    }
+  ],
+  "timestamp": "2026-09-01T10:32:10.924974152Z",
+  "model": "glm-5.3"
+}

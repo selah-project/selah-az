@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 21:17",
+  "book": "joshua",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Və Binjamin tayfasından ⟨את⟩ Givon şəhərini ⟨את⟩ onun ətraf çölləri ilə, ⟨את⟩ Geva şəhərini və ⟨את⟩ onun ətraf çöllərini.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "və ... tayfasından"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Givon şəhərini"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Givon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "onun ətraf çöllərini"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "onun ətraf çölləri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Geva şəhərini"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "onun ətraf çöllərini"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "onun ətraf çölləri"
+    }
+  ],
+  "timestamp": "2026-09-01T11:11:56.188751201Z",
+  "model": "glm-5.3"
+}

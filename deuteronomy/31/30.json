@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 31:30",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "Və Moşe İsrailin bütün məclisinin qulaqlarına bu nəğmənin sözlərini, ⟨את⟩ sona çatana qədər söylədi.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "və söylədi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "qulaqlarına"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "məclisinin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sözlərini"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözlərini"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "nəğmənin"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "sona çatana"
+    }
+  ],
+  "timestamp": "2026-09-01T10:57:50.372229685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 31:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "Əlindədir vaxtlarım; məni düşmənlərimin əlindən və təqib edənlərimdən qurtar.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "Əlindədir"
+    },
+    {
+      "surface": "עתתי",
+      "gloss": "vaxtlarım"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "məni qurtar"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "əlindən"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "düşmənlərimin"
+    },
+    {
+      "surface": "ומרדפי",
+      "gloss": "və təqib edənlərimdən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:09:06.016952487Z",
+  "model": "glm-5.3"
+}

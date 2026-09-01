@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 98,
+  "translation": "Sur və şofar səsi ilə Kral Yahvenin hüzurunda səs çıxarın.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "surla"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "və səsi"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "şofarın"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "səs çıxarın"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hüzurunda"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Kral"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T15:33:50.705274455Z",
+  "model": "glm-5.3"
+}

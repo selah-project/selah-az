@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 35:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "Və nizəni irəli çəx, təqib edənlərimin qarşısını kəs; canıma de: «Mən ⟨sənin⟩ qurtuluşunam.»",
+  "tokens": [
+    {
+      "surface": "והרק",
+      "gloss": "və irəli çəx"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "nizəni"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "qarşısını kəs"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "qarşı"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "təqib edənlərimin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "de"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "canıma"
+    },
+    {
+      "surface": "ישעתך",
+      "gloss": "qurtuluşun"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:11:31.576668760Z",
+  "model": "glm-5.3"
+}

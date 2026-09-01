@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 10:3",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Yahve salehin canını ac saxlamaz, ama şərirlərin istəyini aradan qovar.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ירעיב",
+      "gloss": "ac saxlamaz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "canını"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "salehin"
+    },
+    {
+      "surface": "והות",
+      "gloss": "ama istəyini"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "şərirlərin"
+    },
+    {
+      "surface": "יהדף",
+      "gloss": "aradan qovar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:50:59.859951570Z",
+  "model": "glm-5.3"
+}

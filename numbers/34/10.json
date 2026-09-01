@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 34:10",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 34,
+  "translation": "Və şərq tərəfə olan sərhəd üçün özünüz üçün Hatsar-Enandan Şefamaya qədər ⟨işarələyəcəksiniz⟩.",
+  "tokens": [
+    {
+      "surface": "והתאויתם",
+      "gloss": "⟨işarələyəcəksiniz⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "özünüz üçün"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "sərhəd üçün"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "şərq tərəfə"
+    },
+    {
+      "surface": "מחצר",
+      "gloss": "Hatsar-"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "Enandan"
+    },
+    {
+      "surface": "שפמה",
+      "gloss": "Şefamaya"
+    }
+  ],
+  "timestamp": "2026-09-01T10:45:00.217726743Z",
+  "model": "glm-5.3"
+}

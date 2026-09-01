@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 8:17",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və David atamın ürəyində Yahve, İsrailin Elohiminin adına ⟨bir⟩ ev tikmək ⟨arzusu⟩ oldu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "və ... oldu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ürəyində"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atamın"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "tikmək"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "adına"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohiminin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailin"
+    }
+  ],
+  "timestamp": "2026-09-01T12:16:27.765577164Z",
+  "model": "glm-5.3"
+}

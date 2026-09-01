@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 1:21",
+  "book": "lamentations",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Eşitdilər ki, mən inləyirəm, mənə təsəlli verən yoxdur; bütün düşmənlərim bəlamsı eşitdilər, sevindilər, çünki sən etdin; sən günü gətirdin, sən çağırdın ⟨və onlar mənim kimi olacaqlar⟩.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "eşitdilər"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נאנחה",
+      "gloss": "inləyirəm"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "təsəlli verən"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "düşmənlərim"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "eşitdilər"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "bəlamsı"
+    },
+    {
+      "surface": "ששו",
+      "gloss": "sevindilər"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "etdin"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "gətirdin"
+    },
+    {
+      "surface": "יום",
+      "gloss": "günü"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "çağırdın"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "⟨və olacaqlar⟩"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "mənim kimi"
+    }
+  ],
+  "timestamp": "2026-09-01T16:25:33.654057849Z",
+  "model": "glm-5.3"
+}

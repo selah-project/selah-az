@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 1:5",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Yaaqovun yanından çıxan bütün canlar yetmiş can oldu; Yosef isə ⟨artıq⟩ Mitsrayimda idi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "can(lar)"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "çıxan"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "yanından"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaqov(un)"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "yetmiş"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "can"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "Yosef isə"
+    },
+    {
+      "surface": "היה",
+      "gloss": "idi"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayimda"
+    }
+  ],
+  "timestamp": "2026-09-01T10:03:42.563132681Z",
+  "model": "glm-5.3"
+}

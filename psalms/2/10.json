@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 2:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və indi, ey padşahlar, ağıllı olun; yerin hakimləri, tərbiyə alın!",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "və indi"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ey padşahlar"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "ağıllı olun"
+    },
+    {
+      "surface": "הוסרו",
+      "gloss": "tərbiyə alın"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "hakimləri"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:00:55.991844941Z",
+  "model": "glm-5.3"
+}

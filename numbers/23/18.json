@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 23:18",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Və o, məşəlini götürdü və dedi: Qalx, Balak, və eşit; qulaq as mənə, Tsipporun oğlu.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "götürdü"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "məşəlini"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "קום",
+      "gloss": "qalx"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "və eşit"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "qulaq as"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "Tsipporun"
+    }
+  ],
+  "timestamp": "2026-09-01T10:41:42.965567047Z",
+  "model": "glm-5.3"
+}

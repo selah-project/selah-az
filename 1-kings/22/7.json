@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 22:7",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Yehoşafat dedi: Burada Yahvenin ⟨başqa⟩ bir peyğəmbəri yoxdurmu, ⟨onun⟩ vasitəsilə soruşaq?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoşafat"
+    },
+    {
+      "surface": "האין",
+      "gloss": "yoxdurmu"
+    },
+    {
+      "surface": "פה",
+      "gloss": "burada"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "peyğəmbəri"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨başqa⟩"
+    },
+    {
+      "surface": "ונדרשה",
+      "gloss": "soruşaq"
+    },
+    {
+      "surface": "מאותו",
+      "gloss": "⟨את⟩ ⟨onun vasitəsilə⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T12:28:10.204966284Z",
+  "model": "glm-5.3"
+}

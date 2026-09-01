@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 75:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 75,
+  "translation": "Çünki Yahvenin əlində ⟨bir⟩ kasa var, şərab qızarmış-qaynayıb, qatışıqla doludur, və ⟨O⟩ ondan tökür; yalnız onun çöküntülərini bütün yerin pis əməlliləri süzüb içəcəklər.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "kasa"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "əlində"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "və şərab"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "qızarmış-qaynayıb"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "doludur"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "qatışıqla"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "və tökür"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "אך",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "onun çöküntülərini"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "süzəcəklər"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "içəcəklər"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "pis əməlliləri"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:24:31.001410801Z",
+  "model": "glm-5.3"
+}

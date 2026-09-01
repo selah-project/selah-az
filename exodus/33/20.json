@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "Və dedi: «Üzümü görməyə qadir deyilsən ⟨את⟩, çünki insan Məni görüb yaşamayacaq.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "qadir deyilsən"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "görməyə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "üzümü"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzümü"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "Məni görüb"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "yaşamayacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T10:20:18.104224090Z",
+  "model": "glm-5.3"
+}

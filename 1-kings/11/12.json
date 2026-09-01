@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Ancaq sənin günlərində bunu etməyəcəyəm, atın Davidin xatirinə; onu oğlunun əlindən qoparacağam.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ancaq"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "sənin günlərində"
+    },
+    {
+      "surface": "לא",
+      "gloss": "etməyəcəyəm"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "bunu edəcəyəm"
+    },
+    {
+      "surface": "למען",
+      "gloss": "xatirinə"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "atanın"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "əlindən"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "oğlunun"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "onu qoparacağam"
+    }
+  ],
+  "timestamp": "2026-09-01T12:18:29.365253567Z",
+  "model": "glm-5.3"
+}

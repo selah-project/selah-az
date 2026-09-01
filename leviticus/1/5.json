@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 1:5",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və o, ⟨את⟩ mal-qara oğlunu Yahvenin hüzurunda kəsəcək, və Aharonun oğulları kahinlər ⟨את⟩ qanı gətirəcəklər və ⟨את⟩ qanı görüş çadırının girişində olan qurbangahın ətrafına səpəcəklər.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "kəsəcək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mal-qara oğlunu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "mal-qara"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hüzurunda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "gətirəcəklər"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kahinlər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qanı"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "qan"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "səpəcəklər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qanı"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "qan"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "qurbangah"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ətrafına"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olan"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "girişində"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadır"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "görüş"
+    }
+  ],
+  "timestamp": "2026-09-01T10:22:47.652527942Z",
+  "model": "glm-5.3"
+}

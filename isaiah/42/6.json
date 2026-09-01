@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 42:6",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 42,
+  "translation": "Mən Yahve, səni ədalətlə çağırdım, əlindən tutacağam və səni qoruyacağam, səni xalq ⟨üçün⟩ əhd, millətlər ⟨üçün⟩ nur qərar verəcəyəm —",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "səni çağırdım"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ədalətlə"
+    },
+    {
+      "surface": "ואחזק",
+      "gloss": "və tutacağam"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "əlindən"
+    },
+    {
+      "surface": "ואצרך",
+      "gloss": "və səni qoruyacağam"
+    },
+    {
+      "surface": "ואתנך",
+      "gloss": "və səni verəcəyəm"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "əhd"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "nur"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "millətlər"
+    }
+  ],
+  "timestamp": "2026-09-01T13:06:40.900954946Z",
+  "model": "glm-5.3"
+}

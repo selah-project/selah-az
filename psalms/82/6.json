@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 82,
+  "translation": "Mən dedim: «Siz elohlarsınız ⟨siz⟩, Elyonun oğullarısınız hamınız.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "dedim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohlar"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "və oğulları"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyonun"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "hamınız"
+    }
+  ],
+  "timestamp": "2026-09-01T15:27:17.620573383Z",
+  "model": "glm-5.3"
+}

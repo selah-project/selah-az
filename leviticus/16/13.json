@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 16:13",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Və buxuru odun üzərinə Yahvenin hüzurunda qoyacaq, və buxurun dumanı şəhadətin üstündə olan ⟨את⟩ kəpporeti örtəcək, və o ölməyəcək.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "qoyacaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buxuru"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "buxuru"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "האש",
+      "gloss": "odun"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hüzurunda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "örtəcək"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "dumanı"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "buxurun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kəpporeti"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kəpporeti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olan"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "şəhadətin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və … yox"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ölməyəcək"
+    }
+  ],
+  "timestamp": "2026-09-01T10:28:26.451585438Z",
+  "model": "glm-5.3"
+}

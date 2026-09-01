@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 66,
+  "translation": "Elahaya deyin: Nə qorxulusan ⟨⟨ sən ⟩⟩ əməllərindən! Qüdrətinin çoxluğu ilə sənin düşmənlərin sənə yalançı itaət göstərəcəklər.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "deyin"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elahaya"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "qorxulusan"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "əməllərindən"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "çoxluğu ilə"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "qüdrətinin"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "yalançı itaət göstərəcəklər"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "düşmənlərin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:21:15.939190068Z",
+  "model": "glm-5.3"
+}

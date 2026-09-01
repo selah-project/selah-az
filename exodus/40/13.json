@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 40:13",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "və Aharonu müqəddəs paltarlarla geyindirəcəksən, onu məsh edəcəksən, onu müqəddəsləşdirəcəksən və o, Mənə kahinlik edəcək.",
+  "tokens": [
+    {
+      "surface": "והלבשת",
+      "gloss": "geyindirəcəksən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharonu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paltarlarla"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "paltarlarla"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "məsh edəcəksən"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "müqəddəsləşdirəcəksən"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu"
+    },
+    {
+      "surface": "וכהן",
+      "gloss": "kahinlik edəcək"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Mənə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:22:08.594200123Z",
+  "model": "glm-5.3"
+}

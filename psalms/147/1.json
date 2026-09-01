@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 147,
+  "translation": "Yah-nı tərifləyin, çünki Elohimimizə zəmrə oxumaq yaxşıdır, çünki xoşdur, tərifə layiqdir.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "tərifləyin"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşıdır"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "zəmrə oxumaq"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimizə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "xoşdur"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "layiqdir"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "tərif"
+    }
+  ],
+  "timestamp": "2026-09-01T15:47:05.819346806Z",
+  "model": "glm-5.3"
+}

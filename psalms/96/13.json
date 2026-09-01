@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 96:13",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 96,
+  "translation": "Yahvenin hüzurunda, çünki o gəlir, çünki o gəlir ⟨ki⟩ yeri mühakimə etsin; o, ⟨olmuşdur⟩ dünyanı ədalətlə mühakimə edəcək və xalqları öz imanı ⟨ilə⟩.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "hüzurunda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gəlir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gəlir"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "⟨ki⟩ mühakimə etsin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeri"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "mühakimə edəcək"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dünyanı"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ədalətlə"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "və xalqları"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "öz imanı ⟨ilə⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T18:02:07.611347324Z",
+  "model": "glm-5.3"
+}

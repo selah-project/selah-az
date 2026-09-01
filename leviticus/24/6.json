@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Və onları ⟨את⟩ iki sıra düzəcəksən, hər sırada altı ⟨bir⟩, təmiz masa üstündə, Yahvenin önündə.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "Və düzəcəksən"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "onları (iki sıra)"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "iki"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "sıra"
+    },
+    {
+      "surface": "שש",
+      "gloss": "altı"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "hər sıra"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "masa"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "təmiz"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önündə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T17:52:50.382742193Z",
+  "model": "glm-5.3"
+}

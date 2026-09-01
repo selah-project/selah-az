@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 95,
+  "translation": "Ürəklərinizi sərtləşdirməyin, Meriva kimi, Massa günü kimi, səhrada.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "…mağın"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "sərtləşdirməyin"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ürəklərinizi"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "Meriva kimi"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "günü kimi"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "Massa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "səhrada"
+    }
+  ],
+  "timestamp": "2026-09-01T15:32:50.712597443Z",
+  "model": "glm-5.3"
+}

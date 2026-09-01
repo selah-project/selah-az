@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Yisrael oğulları ilə danış və onlara de: Mən Yahve, sizin Elohiminizəm.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "danış"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "və de"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiminizəm"
+    }
+  ],
+  "timestamp": "2026-09-01T10:27:58.907837740Z",
+  "model": "glm-5.3"
+}

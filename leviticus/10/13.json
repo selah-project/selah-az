@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 10:13",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Onu ⟨את⟩ müqəddəs yerdə yeyəcəksiniz, çünki sənin qanunun və oğullarının qanunu odur — Yahvenin od qurbanlarındandır; çünki belə ⟨əmr olundum⟩.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "yeyəcəksiniz"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "onu (qalıq taxır qurbanını)"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "yerdə"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "חקך",
+      "gloss": "sənin qanunun"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "və qanun"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "odur"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "od qurbanlarındandır"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "כן",
+      "gloss": "belə"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "əmr olundum"
+    }
+  ],
+  "timestamp": "2026-09-01T10:25:22.093185440Z",
+  "model": "glm-5.3"
+}

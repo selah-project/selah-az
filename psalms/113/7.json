@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 113:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 113,
+  "translation": "Tozu qaldırır dəli üçün, zibilqədəndən yüksəldir ehtiyaclını —",
+  "tokens": [
+    {
+      "surface": "מקימי",
+      "gloss": "qaldırır"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "Tozdan"
+    },
+    {
+      "surface": "דל",
+      "gloss": "dəl"
+    },
+    {
+      "surface": "מאשפת",
+      "gloss": "zibilqədəndən"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "yüksəldir"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "ehtiyaclını"
+    }
+  ],
+  "timestamp": "2026-09-01T15:37:21.519808827Z",
+  "model": "glm-5.3"
+}

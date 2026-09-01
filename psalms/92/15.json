@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 92:15",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 92,
+  "translation": "Onlar hələ qocalıqda meyvə verəcəklər; dolğun və təravətli olacaqlar.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "hələ"
+    },
+    {
+      "surface": "ינובון",
+      "gloss": "meyvə verəcəklər"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "qocalıqda"
+    },
+    {
+      "surface": "דשנים",
+      "gloss": "dolğun"
+    },
+    {
+      "surface": "ורעננים",
+      "gloss": "və təravətli"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "olacaqlar"
+    }
+  ],
+  "timestamp": "2026-09-01T17:42:47.480931244Z",
+  "model": "glm-5.3"
+}

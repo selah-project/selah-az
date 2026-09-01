@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Yahve onu onun əlinə tərk etməz, və məhkəmə olunduqda onu ⟨günahkar⟩ çıxarmaz.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "onu tərk etməz"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "onun əlinə"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "onu günahkar çıxarmaz"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "məhkəmə olunduqda"
+    }
+  ],
+  "timestamp": "2026-09-01T17:41:54.514850635Z",
+  "model": "glm-5.3"
+}

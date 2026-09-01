@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 13:6",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Fəryad edin, çünki Yahvenin günü yaxındır; Şaddaydan ⟨gələn⟩ məhvvər kimi gələcək.",
+  "tokens": [
+    {
+      "surface": "הילילו",
+      "gloss": "Fəryad edin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "yaxındır"
+    },
+    {
+      "surface": "יום",
+      "gloss": "günü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "məhvvər kimi"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "Şaddaydan"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "gələcək"
+    }
+  ],
+  "timestamp": "2026-09-01T12:51:23.171401160Z",
+  "model": "glm-5.3"
+}

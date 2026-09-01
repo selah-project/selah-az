@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 29:8",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "Və ⟨siz⟩ bu əhdin sözlərini ⟨את⟩ qoruyub saxlayın və onları ⟨את⟩ yerinə yetirin — bilsiniz deyə ki, etdiyiniz hər şeydə ⟨את⟩ müvəffəq olasınız.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "və qoruyub saxlayın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu əhdin sözlərini"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözlərini"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "əhdin"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "və yerinə yetirin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "onları ⟨את⟩",
+      "marks": "sözləri (yerinə yetirilən)"
+    },
+    {
+      "surface": "למען",
+      "gloss": "bilsiniz deyə"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "müvəffəq olasınız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hər şeyi (etdiyiniz)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər şey"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "etdiyiniz"
+    }
+  ],
+  "timestamp": "2026-09-01T10:56:19.974169998Z",
+  "model": "glm-5.3"
+}

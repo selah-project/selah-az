@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 72:19",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 72,
+  "translation": "Və bərəkətli olsun onun izzətli adı əbədi, və onun izzəti ⟨את⟩ bütün yeri doldursun, amin və amin.",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "və bərəkətli olsun"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adı"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "onun izzətli"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "və doldursun"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "onun izzəti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün yeri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeri"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "və amin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:23:59.850051397Z",
+  "model": "glm-5.3"
+}

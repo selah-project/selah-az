@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 3:15",
+  "book": "esther",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Çaparlar kralın əmri ilə tələsərək çıxdılar və qanun Şuşan qalasında verildi; və kral və Haman içməyə oturdular, Şuşan şəhəri isə çaşqın ⟨qaldı⟩.",
+  "tokens": [
+    {
+      "surface": "הרצים",
+      "gloss": "çaparlar"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "çıxdılar"
+    },
+    {
+      "surface": "דחופים",
+      "gloss": "tələsərək"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "əmri ilə"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "והדת",
+      "gloss": "və qanun"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "verildi"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "Şuşanda"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "qalasında"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "və kral"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "və Haman"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "oturdular"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "içməyə"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "və şəhər"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Şuşan"
+    },
+    {
+      "surface": "נבוכה",
+      "gloss": "çaşqın ⟨qaldı⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T16:36:32.199742883Z",
+  "model": "glm-5.3"
+}

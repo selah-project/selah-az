@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Və Yeruşalayimin ⟨את⟩ divarlarını ətraf boyu cəlladlar rəisi ⟨yanındakı⟩ Kasdim ordusunun bütün qüvvəsi dağıtdı.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yeruşalayimin divarlarını"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "divarlarını"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayimin"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ətraf boyu"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "dağıtdı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "qüvvəsi"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hansı ki"
+    },
+    {
+      "surface": "רב",
+      "gloss": "rəisi"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "cəlladların"
+    }
+  ],
+  "timestamp": "2026-09-01T12:45:11.737838088Z",
+  "model": "glm-5.3"
+}

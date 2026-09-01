@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 35:2",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "Altı gün iş görüləcək, yeddinci gündə isə sizə müqəddəslik olacaq, Şabbat, tam istirahət Yahveyə; onda iş görən hər kəs öldürüləcək.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Altı"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "görüləcək"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "iş"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "yeddinci gündə isə"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "yeddinci"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizə"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "müqəddəslik"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Şabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "tam istirahət"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər kəs"
+    },
+    {
+      "surface": "העשה",
+      "gloss": "görən"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onda"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "iş"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "öldürüləcək"
+    }
+  ],
+  "timestamp": "2026-09-01T10:20:21.380964850Z",
+  "model": "glm-5.3"
+}

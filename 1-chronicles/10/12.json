@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 10:12",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Bütün igid kişilər qalxdılar, Şaulun cəsədini və oğullarının cəsədlərini götürdülər, onları Yaveşə gətirdilər, sümüklərini Yaveşdəki elə ağacının altında dəfn etdilər və yeddi gün oruc tutdular.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "qalxdılar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kişilər"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "igid"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "götürdülər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şaulun cəsədini"
+    },
+    {
+      "surface": "גופת",
+      "gloss": "cəsədini"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaulun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oğullarının cəsədlərini"
+    },
+    {
+      "surface": "גופת",
+      "gloss": "cəsədlərini"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "ויביאום",
+      "gloss": "gətirdilər"
+    },
+    {
+      "surface": "יבישה",
+      "gloss": "Yaveşə"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "dəfn etdilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sümüklərini"
+    },
+    {
+      "surface": "עצמותיהם",
+      "gloss": "sümüklərini"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "elə ağacının"
+    },
+    {
+      "surface": "ביבש",
+      "gloss": "Yaveşdəki"
+    },
+    {
+      "surface": "ויצומו",
+      "gloss": "oruc tutdular"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "yeddi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    }
+  ],
+  "timestamp": "2026-09-01T17:03:21.488652334Z",
+  "model": "glm-5.3"
+}

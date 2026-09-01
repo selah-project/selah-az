@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 59:4",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 59,
+  "translation": "Heç kim ədalətlə çağırmır, və heç kim sədaqətlə mühakimə etmir; boşluğa etibar edir və yalan danışırlar, əziyyətə hamilə qalıb fəsad doğurlar.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "heç kim"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "çağırmır"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ədalətlə"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "və heç kim"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "mühakimə etmir"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "sədaqətlə"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "etibar edir"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "boşluq"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "və danışırlar"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "yalan"
+    },
+    {
+      "surface": "הרו",
+      "gloss": "hamilə qalıb"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "əziyyət"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "və doğurlar"
+    },
+    {
+      "surface": "און",
+      "gloss": "fəsad"
+    }
+  ],
+  "timestamp": "2026-09-01T13:17:32.911779714Z",
+  "model": "glm-5.3"
+}

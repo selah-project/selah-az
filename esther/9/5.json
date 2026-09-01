@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 9:5",
+  "book": "esther",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Yəhudilər bütün düşmənlərini qılınc zərbəsi ilə, qırğın və məhvlə vurdular və onlardan nifrət bəslənilənlərə istədiklərini etdilər.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "vurdular"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yəhudilər"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "düşmənlərini"
+    },
+    {
+      "surface": "מכת",
+      "gloss": "zərbəsi ilə"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "qılınc"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "qırğın"
+    },
+    {
+      "surface": "ואבדן",
+      "gloss": "məhv"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "etdilər"
+    },
+    {
+      "surface": "בשנאיהם",
+      "gloss": "onlardan nifrət bəslənilənlərə"
+    },
+    {
+      "surface": "כרצונם",
+      "gloss": "istədiklərini"
+    }
+  ],
+  "timestamp": "2026-09-01T16:36:40.606097200Z",
+  "model": "glm-5.3"
+}

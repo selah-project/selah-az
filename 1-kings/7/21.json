@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 7:21",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Və ⟨את⟩ sütunları məbədin eyvanına qaldırdı; sağ sütunu qaldırdı və ⟨את⟩ onun adını Yaxin adlandırdı, sol sütunu qaldırdı və ⟨את⟩ onun adını Boaz adlandırdı.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "və qaldırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sütunları"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "sütunları"
+    },
+    {
+      "surface": "לאלם",
+      "gloss": "eyvanına"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "məbədin"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "və qaldırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sağ sütunu"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "sütunu"
+    },
+    {
+      "surface": "הימני",
+      "gloss": "sağ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "və adlandırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onun adını"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "onun adını"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Yaxin"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "və qaldırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sol sütunu"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "sütunu"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "sol"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "və adlandırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onun adını"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "onun adını"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-09-01T12:13:50.175781877Z",
+  "model": "glm-5.3"
+}

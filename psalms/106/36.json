@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 106,
+  "translation": "və ⟨את⟩ onların bütlərinə qulluq etdilər, və bunlar onlara tələyə çevrildi.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "qulluq etdilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onların bütlərinə"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "onların bütləri"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "oldular"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "tələyə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:24.662507692Z",
+  "model": "glm-5.3"
+}

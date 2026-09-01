@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 9:22",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Və Ham, Kenaanın atası, atasının çılpaqlığını ⟨את⟩ gördü və bayırda olan iki qardaşına bildirdi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "və gördü"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atası"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaanın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atasının çılpaqlığı"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "çılpaqlığı"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atasının"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "və bildirdi"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "ikiyə"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "qardaşına"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "bayırda"
+    }
+  ],
+  "timestamp": "2026-09-01T09:47:20.172279912Z",
+  "model": "glm-5.3"
+}

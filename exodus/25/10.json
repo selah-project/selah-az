@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 25:10",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Və sandıq düzəldəcəklər — şittim ağacından; uzunluğu iki yarım ama, eni bir yarım ama, hündürlüyü bir yarım ama.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "düzəldəcəklər"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandıq"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ağacından"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "şittim"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "iki ama"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "yarım"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "uzunluğu"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "bir ama"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "yarım"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "eni"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "bir ama"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "yarım"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "hündürlüyü"
+    }
+  ],
+  "timestamp": "2026-09-01T10:16:18.593534640Z",
+  "model": "glm-5.3"
+}

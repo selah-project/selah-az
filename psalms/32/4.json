@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Çünki gündüz və gecə əlin ağırlığı mənim üstümə çatırdı; şirnim yay quraqlığına döndi. Selah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "gündüz"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "və gecə"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "ağırlığı çatırdı"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üstümə"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "əlin"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "döndi"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "şirnim"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "quraqlığına"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "yay"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T15:11:42.230297575Z",
+  "model": "glm-5.3"
+}

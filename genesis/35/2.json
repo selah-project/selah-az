@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 35:2",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "Yaqov öz evinə və özü ilə olan hamısına dedi: Aranızdakı yad tanrıları ⟨את⟩ çəkin tərəfə, təmizlənin və paltarlarınızı dəyişin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "öz evinə"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və -ə"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamısına"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "özü ilə"
+    },
+    {
+      "surface": "הסרו",
+      "gloss": "çəkin tərəfə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yad tanrıları"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "tanrıları"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "yad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olan"
+    },
+    {
+      "surface": "בתככם",
+      "gloss": "aranızda"
+    },
+    {
+      "surface": "והטהרו",
+      "gloss": "və təmizlənin"
+    },
+    {
+      "surface": "והחליפו",
+      "gloss": "və dəyişin"
+    },
+    {
+      "surface": "שמלתיכם",
+      "gloss": "paltarlarınızı"
+    }
+  ],
+  "timestamp": "2026-09-01T09:58:18.372262640Z",
+  "model": "glm-5.3"
+}

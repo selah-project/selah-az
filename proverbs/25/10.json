@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 25:10",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Yox ⟨ki⟩ eşidən səni rüsvay etsin, və sənin pis sözün geri dönməsin.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "yox ki"
+    },
+    {
+      "surface": "יחסדך",
+      "gloss": "səni rüsvay etsin"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eşidən"
+    },
+    {
+      "surface": "ודבתך",
+      "gloss": "və pis sözün"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "geri dönməsin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:57:52.327047540Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Ürəyinin arzusunu ona verdin, dodaqlarının diləyini heç əsirgəmədin. Selah.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "arzusunu"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ürəyinin"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "verdin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "və diləyi"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "dodaqlarının"
+    },
+    {
+      "surface": "בל",
+      "gloss": "heç"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "əsirgəmədin"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T15:07:42.195217198Z",
+  "model": "glm-5.3"
+}

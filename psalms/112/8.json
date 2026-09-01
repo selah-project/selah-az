@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 112:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 112,
+  "translation": "Qəlbi söykənilmişdir, qorxmayacaq — nəhayət düşmənlərinə ⟨baxdıqda⟩.",
+  "tokens": [
+    {
+      "surface": "סמוך",
+      "gloss": "söykənilmişdir"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "qəlbi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "qorxmayacaq"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nəhayət"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "baxdıqda"
+    },
+    {
+      "surface": "בצריו",
+      "gloss": "düşmənlərinə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:01.694406963Z",
+  "model": "glm-5.3"
+}

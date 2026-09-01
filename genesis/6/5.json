@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 6:5",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Yahve gördü ki, insanın şəri yerdə çoxdur və ürəyinin düşüncələrinin bütün forması yalnız şərdir bütün gün.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "gördü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "çoxdur"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "şəri"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insanın"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerdə"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "forması"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "düşüncələrinin"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ürəyinin"
+    },
+    {
+      "surface": "רק",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "רע",
+      "gloss": "şərdir"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gün"
+    }
+  ],
+  "timestamp": "2026-09-01T09:47:33.045453432Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 5:24",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Və ⟨o⟩ Ophelə gəldi, onların əlindən ⟨onu⟩ götürdü, evdə saxladı, adamları ⟨את⟩ yola saldı və onlar getdilər.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "və gəldi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "Ophel"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "götürdü"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "onların əlindən"
+    },
+    {
+      "surface": "ופיקד",
+      "gloss": "saxladı"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "evdə"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "yola saldı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adamları"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "adamları"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "getdilər"
+    }
+  ],
+  "timestamp": "2026-09-01T17:59:38.676241910Z",
+  "model": "glm-5.3"
+}

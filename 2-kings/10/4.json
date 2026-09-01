@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 10:4",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Onlar çox çox qorxdular və dedilər: bax, iki kral onun qarşısında dura bilmədi, biz necə dura bilərik?",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "və qorxdular"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çox"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çox"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "və dedilər"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iki"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "kral"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "dura bilmədi"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "onun qarşısında"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "və necə"
+    },
+    {
+      "surface": "נעמד",
+      "gloss": "dura bilərik"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "biz"
+    }
+  ],
+  "timestamp": "2026-09-01T12:33:55.803546418Z",
+  "model": "glm-5.3"
+}

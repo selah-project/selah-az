@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 1:9",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Əgər Yahve Sevaot bizə az-az qalan sağqalan buraxmasaydı, Sedom kimi olardıq, Amora bənzərdik.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "əgər ... olmasaydı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sevaot"
+    },
+    {
+      "surface": "הותיר",
+      "gloss": "buraxmasaydı"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizə"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "sağqalan"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "az-az"
+    },
+    {
+      "surface": "כסדם",
+      "gloss": "Sedom kimi"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "olardıq"
+    },
+    {
+      "surface": "לעמרה",
+      "gloss": "Amora"
+    },
+    {
+      "surface": "דמינו",
+      "gloss": "bənzərdik"
+    }
+  ],
+  "timestamp": "2026-09-01T12:45:22.875607764Z",
+  "model": "glm-5.3"
+}

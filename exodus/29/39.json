@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 29:39",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "⟨את⟩ bir quzunu səhər edəcəksən, və ⟨את⟩ ikinci quzunu axşam vaxtı (iki axşam arası) edəcəksən.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bir quzunu"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "quzu"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "edəcəksən"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "səhər"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ikinci quzunu"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "quzu"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikinci"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "edəcəksən"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arası"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "iki axşam"
+    }
+  ],
+  "timestamp": "2026-09-01T10:18:01.265228602Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 106:48",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 106,
+  "translation": "Bərəkətli olsun Yahve, Yisraelin Eloahı, əbədidən əbədiyə qədər; və bütün xalq desin: Amen. Halləlu-Yah!",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "bərəkətli olsun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloahı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraelin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "əbədidən"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "əbədiyə"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "və desin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halləlu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:06.556520234Z",
+  "model": "glm-5.3"
+}

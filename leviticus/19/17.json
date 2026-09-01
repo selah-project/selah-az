@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Ürəyində qardaşını nifrətləmə; yoldaşını mütləq məzəmmət et, və onun üstünə günah daşıma.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תשנא",
+      "gloss": "nifrətləmə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qardaşını"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "qardaşını"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "ürəyində"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "məzəmmət et"
+    },
+    {
+      "surface": "תוכיח",
+      "gloss": "mütləq məzəmmət et"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yoldaşını"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "yoldaşını"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "daşıma"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üstünə"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "günah"
+    }
+  ],
+  "timestamp": "2026-09-01T10:29:12.799579194Z",
+  "model": "glm-5.3"
+}

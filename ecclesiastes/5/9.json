@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Gümüşü sevən gümüşlə doymaz və dövləti sevənin ⟨gəliri⟩ olmaz; bu da həvadır.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "sevən"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüşü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "doymaz"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüşlə"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "və kim"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "sevənin"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "dövləti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "gəliri olmaz"
+    },
+    {
+      "surface": "גם",
+      "gloss": "da"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "həva"
+    }
+  ],
+  "timestamp": "2026-09-01T16:31:47.452431206Z",
+  "model": "glm-5.3"
+}

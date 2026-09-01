@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 9:19",
+  "book": "job",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Əgər qüvvədən söhbət düşsə — bax, O güclüdür; əgər məhkəmədən düşsə — kim məni ⟨çağırar⟩?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "לכח",
+      "gloss": "qüvvədən"
+    },
+    {
+      "surface": "אמיץ",
+      "gloss": "güclüdür"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "məhkəmədən"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יועידני",
+      "gloss": "məni çağırar"
+    }
+  ],
+  "timestamp": "2026-09-01T16:05:54.906454248Z",
+  "model": "glm-5.3"
+}

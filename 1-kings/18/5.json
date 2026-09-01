@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 18:5",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Ahab ovdiyahuha dedi: Get ölkə boyunca bütün su bulaqlarına və bütün dərələrə, bəlkı ot tapaq və atla qatırı sağ saxlayaq, heyvanlardan ⟨heç birini⟩ kəsməyək.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨onun yanına⟩"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "ovdiyahu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "get"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ölkə boyunca"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨oranın⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "su bulaqlarına"
+    },
+    {
+      "surface": "המים",
+      "gloss": "su"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və ⟨oranın⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "dərələrinə"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "bəlkı"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "tapaq"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ot"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "və sağ saxlayaq"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "at"
+    },
+    {
+      "surface": "ופרד",
+      "gloss": "və qatır"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "və... yox"
+    },
+    {
+      "surface": "נכרית",
+      "gloss": "kəsək"
+    },
+    {
+      "surface": "מהבהמה",
+      "gloss": "heyvanlardan"
+    }
+  ],
+  "timestamp": "2026-09-01T12:23:14.641715522Z",
+  "model": "glm-5.3"
+}

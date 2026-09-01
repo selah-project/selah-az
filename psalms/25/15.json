@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Gözlərim həmişə Yahveyədir, çünki ⟨o⟩ torumaqdan ayaqlarımı çıxaracaq.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "gözlərim"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "həmişə"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tərəfə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveyədir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "çıxaracaq"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "torumaqdan"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ayaqlarımı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:08:28.419002266Z",
+  "model": "glm-5.3"
+}

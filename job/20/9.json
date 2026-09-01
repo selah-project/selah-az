@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 20:9",
+  "book": "job",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Göz onu görüb, ⟨artıq⟩ görməyəcək; onun yerində də onu ⟨bir daha⟩ görməyəcəklər.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "göz"
+    },
+    {
+      "surface": "שזפתו",
+      "gloss": "onu görüb"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "⟨artıq⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨bir daha⟩"
+    },
+    {
+      "surface": "תשורנו",
+      "gloss": "onu görəcək"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "onun yeri"
+    }
+  ],
+  "timestamp": "2026-09-01T16:10:46.026077402Z",
+  "model": "glm-5.3"
+}

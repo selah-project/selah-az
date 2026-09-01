@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 5:23",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Və ⟨olanda⟩ siz qaranlığın içindən ⟨את⟩ səsi eşitdiniz — daş isə odda yanıb-yaxılırdı — bütün tayfa başçılarınız və ağsaqqallarınız mənə yaxınlaşdınız.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "və ⟨olanda⟩"
+    },
+    {
+      "surface": "כשמעכם",
+      "gloss": "siz eşitdiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "səsi"
+    },
+    {
+      "surface": "הקול",
+      "gloss": "səsi"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "içindən"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "qaranlığın"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "və dağ"
+    },
+    {
+      "surface": "בער",
+      "gloss": "yanırdı"
+    },
+    {
+      "surface": "באש",
+      "gloss": "odda"
+    },
+    {
+      "surface": "ותקרבון",
+      "gloss": "yaxınlaşdınız"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "başçıları"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "tayfalarınızın"
+    },
+    {
+      "surface": "וזקניכם",
+      "gloss": "və ağsaqqallarınız"
+    }
+  ],
+  "timestamp": "2026-09-01T10:48:25.266332208Z",
+  "model": "glm-5.3"
+}

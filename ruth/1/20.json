@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 1:20",
+  "book": "ruth",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Onlara dedi: Mənə Noomi deməyin, mənə Mara deyin, çünki Şadday (Qüdrətli) mənimlə çox acı rəftar etdi.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "o dedi"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תקראנה",
+      "gloss": "deməyin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Noomi"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "deyin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "מרא",
+      "gloss": "Mara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "המר",
+      "gloss": "acı etdi"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Şadday"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çox"
+    }
+  ],
+  "timestamp": "2026-09-01T16:24:53.612362011Z",
+  "model": "glm-5.3"
+}

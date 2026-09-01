@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 31:17",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "Mənimlə Yisrael oğulları arasında əbədi nişandır o, çünki altı gündə Yahve ⟨את⟩ göyləri və ⟨את⟩ yeri yaratdı, yeddinci gündə isə işə son qoydu və dincəldi.",
+  "tokens": [
+    {
+      "surface": "ביני",
+      "gloss": "mənimlə…arasında"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "və…arasında"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אות",
+      "gloss": "nişandır"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "altı"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gündə"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaratdı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "göyləri"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göyləri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yeri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeri"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "yeddinci gündə"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "yeddinci"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "işə son qoydu"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "və dincəldi"
+    }
+  ],
+  "timestamp": "2026-09-01T10:19:08.517354225Z",
+  "model": "glm-5.3"
+}

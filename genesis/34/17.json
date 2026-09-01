@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 34:17",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 34,
+  "translation": "Əgər bizə qulaq asmzsınız, sünnət olunmağa ⟨⟨⟩⟩, onda qızımızı götürüb gedəcəyik. ⟨את⟩",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "qulaq asmazsınız"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "bizə"
+    },
+    {
+      "surface": "להמול",
+      "gloss": "sünnət olunmağa"
+    },
+    {
+      "surface": "ולקחנו",
+      "gloss": "götürəcəyik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qızımızı"
+    },
+    {
+      "surface": "בתנו",
+      "gloss": "qızımızı"
+    },
+    {
+      "surface": "והלכנו",
+      "gloss": "gedəcəyik"
+    }
+  ],
+  "timestamp": "2026-09-01T09:57:58.035652329Z",
+  "model": "glm-5.3"
+}

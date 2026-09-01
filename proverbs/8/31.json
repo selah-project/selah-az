@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 8:31",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "onun dünya-yerində oynayan, və şadlıqlarım ⟨את⟩ insan oğulları ilə ⟨dir⟩.",
+  "tokens": [
+    {
+      "surface": "משחקת",
+      "gloss": "oynayan"
+    },
+    {
+      "surface": "בתבל",
+      "gloss": "dünyada"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "onun yerində"
+    },
+    {
+      "surface": "ושעשעי",
+      "gloss": "və şadlıqlarım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "insan oğulları"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:51:06.012025614Z",
+  "model": "glm-5.3"
+}

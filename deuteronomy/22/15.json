@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 22:15",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "onda qızın atası və anası götürüb ⟨את⟩ qızın bakirəlik dəlillərini şəhərin qapısındakı yaşlıların önünə çıxarsınlar.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "götürüb"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atası"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "qızın"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "və anası"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "çıxarsınlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qızın bakirəlik dəlillərini"
+    },
+    {
+      "surface": "בתולי",
+      "gloss": "bakirəlik dəlilləri"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "qızın"
+    },
+    {
+      "surface": "אל",
+      "gloss": "önünə"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "yaşlıların"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şəhərin"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "qapısındakı"
+    }
+  ],
+  "timestamp": "2026-09-01T10:53:33.363544780Z",
+  "model": "glm-5.3"
+}

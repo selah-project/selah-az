@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Düşmənlərinizi ⟨את⟩ qovacaqsınız və qarşınızda qılınca düşəcəklər.",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "qovacaqsınız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "düşmənlərinizi"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "düşmənlərinizi"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "düşəcəklər"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "qarşınızda"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "qılınca"
+    }
+  ],
+  "timestamp": "2026-09-01T10:31:22.123200314Z",
+  "model": "glm-5.3"
+}

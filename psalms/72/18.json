@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 72:18",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 72,
+  "translation": "Bərəkətli olsun Yahve Elohim, Yisraelin Elohimi, yalnız ⟨o⟩ özü möcüzələr edən!",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "bərəkətli olsun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Yisraelin Elohimi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraelin"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "edən"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "möcüzələr"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yalnız ⟨o⟩ özü"
+    }
+  ],
+  "timestamp": "2026-09-01T15:23:59.849921132Z",
+  "model": "glm-5.3"
+}

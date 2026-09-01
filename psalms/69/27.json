@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 69:27",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 69,
+  "translation": "Çünki ⟨Sənin⟩ vurduğun ⟨kimsəni⟩ təqib edirlər, və Sənin deşik yaralılarının ağrısından danışırlar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sən"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨kimsəni⟩"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "vurduğun"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "təqib edirlər"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "ağrısından"
+    },
+    {
+      "surface": "חלליך",
+      "gloss": "Sənin deşik yaralılarının"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "danışırlar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:23:26.936035324Z",
+  "model": "glm-5.3"
+}

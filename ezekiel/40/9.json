@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 40:9",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "O, ⟨את⟩ darvazanın eyvanını səkkiz qarış, dirəklərini isə iki qarış ölçdü; darvazanın eyvanı binadan ⟨tərəf idi⟩.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "ölçdü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darvazanın eyvanını"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "eyvanını"
+    },
+    {
+      "surface": "השער",
+      "gloss": "darvazanın"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "səkkiz"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "qarış"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "dirəklərini isə"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "iki"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "qarış"
+    },
+    {
+      "surface": "ואלם",
+      "gloss": "eyvanı isə"
+    },
+    {
+      "surface": "השער",
+      "gloss": "darvazanın"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "binadan"
+    }
+  ],
+  "timestamp": "2026-09-01T14:27:32.523089797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 27:21",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Lənətlənmişdir hər bir heyvanla yatan ⟨ki⟩, və bütün xalq deyəcək: Amin.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Lənətlənmişdir"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "yatan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər bir"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "heyvanla"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "və deyəcək"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:55:24.306561302Z",
+  "model": "glm-5.3"
+}

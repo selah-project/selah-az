@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 22:3",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "İsrail kralı qullarına dedi: Bilirsinizmi ki, Ramot-Gilad bizimdir, biz isə onu Aram kralının əlindən almaqdan ⟨את⟩ sükut edirik?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "אל",
+      "gloss": "qullarına"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "qulları"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "Bilirsinizmi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizimdir"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "biz isə"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "sükut edirik"
+    },
+    {
+      "surface": "מקחת",
+      "gloss": "almaqdan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "onu (Ramot-Gilad)"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "əlindən"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralının"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-09-01T12:27:58.550628791Z",
+  "model": "glm-5.3"
+}

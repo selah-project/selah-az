@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 94,
+  "translation": "Dulu və qonaq ağanı öldürürlər, və yetimləri qətlə yetirirlər.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "dulu"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "və qonaq ağanı"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "öldürürlər"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "və yetimləri"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "qətlə yetirirlər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:31:49.675484666Z",
+  "model": "glm-5.3"
+}

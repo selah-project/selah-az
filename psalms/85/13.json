@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 85,
+  "translation": "Həqiqətən, Yahve yaxşılığı verəcək və torpağımız öz məhsulunu verəcək.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "həqiqətən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "verəcək"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "yaxşılığı"
+    },
+    {
+      "surface": "וארצנו",
+      "gloss": "və torpağımız"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "verəcək"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "öz məhsulunu"
+    }
+  ],
+  "timestamp": "2026-09-01T15:28:58.617259499Z",
+  "model": "glm-5.3"
+}

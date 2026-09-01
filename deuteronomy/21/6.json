@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 21:6",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Və o şəhərin bütün qocaları, öldürülmüş ⟨insana⟩ yaxın olanlar, dərədə boynu vurulmuş başınaq üstündə ⟨את⟩ əllərini yuyacaqlar.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "qocaları"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şəhərin"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "yaxın olanlar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ilə yaxınlıq⟩"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "öldürülmüşə"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "yuyacaqlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əllərini"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "əllərini"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "başınaq"
+    },
+    {
+      "surface": "הערופה",
+      "gloss": "boynu vurulmuş"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "dərədə"
+    }
+  ],
+  "timestamp": "2026-09-01T17:30:36.524304331Z",
+  "model": "glm-5.3"
+}

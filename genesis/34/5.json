@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 34:5",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 34,
+  "translation": "Yaqub eşitdi ki, ⟨o⟩ Dina adlı qızını murdarladı; oğulları isə mal-qarası ⟨את⟩ ilə sahədə idilər; və Yaqub onlar gələnədək sükut etdi.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "və Yaqub"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eşitdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "murdarladı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dina"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "qızını"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "və oğulları"
+    },
+    {
+      "surface": "היו",
+      "gloss": "idilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ilə"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "mal-qarası"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sahədə"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "və sükut etdi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqub"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ədək"
+    },
+    {
+      "surface": "באם",
+      "gloss": "onlar gələnə"
+    }
+  ],
+  "timestamp": "2026-09-01T09:57:52.006146352Z",
+  "model": "glm-5.3"
+}

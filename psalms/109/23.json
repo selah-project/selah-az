@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 109,
+  "translation": "Əyilən kölgə kimi getdim, çəyirtkə kimi sarsıldım.",
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "kölgə kimi"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "əyilən"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "getdim"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "sarsıldım"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "çəyirtkə kimi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:37:15.325776952Z",
+  "model": "glm-5.3"
+}

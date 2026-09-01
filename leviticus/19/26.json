@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 19:26",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Qan üzərinə ⟨bir şey⟩ yeməyəcəksiniz; falcılıq etməyəcəksiniz və muyicilik etməyəcəksiniz.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yeməyəcəksiniz"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "qan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תנחשו",
+      "gloss": "falcılıq etməyəcəksiniz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "תעוננו",
+      "gloss": "muyicilik etməyəcəksiniz"
+    }
+  ],
+  "timestamp": "2026-09-01T10:28:58.641341754Z",
+  "model": "glm-5.3"
+}

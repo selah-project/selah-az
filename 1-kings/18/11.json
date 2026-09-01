@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 18:11",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Və indi sən deyirsən: «Get, ağana de: bax, Eliyah buradadır.»",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "və indi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deyirsən"
+    },
+    {
+      "surface": "לך",
+      "gloss": "get"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "de"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "ağana"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyah buradadır"
+    }
+  ],
+  "timestamp": "2026-09-01T12:23:12.815673651Z",
+  "model": "glm-5.3"
+}

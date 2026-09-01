@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 2:16",
+  "book": "song-of-songs",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Sevgilim mənim üçündür və mən onun üçünəm — o, zanbaqlar arasında ⟨otarır⟩.",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "Sevgilim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənim üçündür"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "və mən"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onun üçünəm"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "otaran"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "zanbaqlar arasında"
+    }
+  ],
+  "timestamp": "2026-09-01T16:20:52.855209903Z",
+  "model": "glm-5.3"
+}

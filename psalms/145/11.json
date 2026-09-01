@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 145,
+  "translation": "Sənin məmləkətinin izzətindən danışacaqlar, və sənin qüdrətindən söyləyəcəklər.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "izzətindən"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "sənin məmləkətinin"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "danışacaqlar"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "və sənin qüdrətindən"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "söyləyəcəklər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:17.324484463Z",
+  "model": "glm-5.3"
+}

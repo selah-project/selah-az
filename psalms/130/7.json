@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 130,
+  "translation": "İsrail Yahvedən ümidvər olsun, çünki Yahvenin yanında hesed var, Onun yanında bol fidyə-varlıq.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "ümidvər olsun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ondan⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvedən"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yanında"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "bol"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "Onun yanında"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "fidyə-varlıq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:14.560205897Z",
+  "model": "glm-5.3"
+}

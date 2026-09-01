@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 18:21",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Yahve mənə salehliyimə görə əvəz verdi, əllərimin təmizliyinə görə mənə qaytardı.",
+  "tokens": [
+    {
+      "surface": "יגמלני",
+      "gloss": "mənə əvəz verdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "salehliyimə görə"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "təmizliyinə görə"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "əllərimin"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "qaytardı"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:05:56.494077720Z",
+  "model": "glm-5.3"
+}

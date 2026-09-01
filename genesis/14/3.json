@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Bunların hamısı Siddim dərəsinə toplandılar — o, duz dənizidir.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hamısı"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bunların"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "toplandılar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "dərə"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "Siddim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dənizi"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "duz"
+    }
+  ],
+  "timestamp": "2026-09-01T09:49:35.517153210Z",
+  "model": "glm-5.3"
+}

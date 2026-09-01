@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 32:32",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Və indi, əgər onların günahını götürsən — və əgər yoxsa, məni, nə olar, yazdığın kitabından sil.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "və indi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "götürsən"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "onların günahını"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxsa"
+    },
+    {
+      "surface": "מחני",
+      "gloss": "məni sil"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nə olar"
+    },
+    {
+      "surface": "מספרך",
+      "gloss": "kitabından"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "כתבת",
+      "gloss": "yazdığın"
+    }
+  ],
+  "timestamp": "2026-09-01T10:20:17.336764283Z",
+  "model": "glm-5.3"
+}

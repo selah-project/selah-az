@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 78:70",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 78,
+  "translation": "Və qulu Davudu seçdi, onu qoyun ağıllarından götürdü.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "və seçdi"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Davudu"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "qulu"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "onu götürdü"
+    },
+    {
+      "surface": "ממכלאת",
+      "gloss": "ağıllarından"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "qoyun"
+    }
+  ],
+  "timestamp": "2026-09-01T15:26:32.105860953Z",
+  "model": "glm-5.3"
+}

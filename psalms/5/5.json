@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Çünki Sən şərdən xoşlanan El deyilsən; şər Sənin yanında ⟨qonaq olmayacaq⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "deyilsən"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "xoşlanan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "şərdən"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sən"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨olmayacaq⟩"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "Sənin yanında qonaq"
+    },
+    {
+      "surface": "רע",
+      "gloss": "şər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:01:04.891246687Z",
+  "model": "glm-5.3"
+}

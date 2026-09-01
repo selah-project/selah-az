@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 17:19",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Yehuda da Yahve, Elohimlərinin əmrlərini ⟨את⟩ qorumadı, Yisraelin qoyduğu qaydalarla getdilər.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "də"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "qorumadı"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "qorumadı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əmrlərini"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "əmrlərini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohimlərinin"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "getdilər"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "qaydalarla"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraelin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "qoyduğu"
+    }
+  ],
+  "timestamp": "2026-09-01T12:39:45.780461418Z",
+  "model": "glm-5.3"
+}

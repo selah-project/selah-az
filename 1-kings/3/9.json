@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 3:9",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Sən quluna eşidən bir qəlb ver ki, xalqını ⟨את⟩ mühakimə etsin, yaxşı ilə pis arasını ayırd etsin; çünki kim bu ağır xalqını ⟨את⟩ mühakimə etməyə qadirdir?",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "Sən ver"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "quluna"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qəlb"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eşidən"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "mühakimə etsin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqını"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "xalqını"
+    },
+    {
+      "surface": "להבין",
+      "gloss": "ayırd etsin"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasını"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşı"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "pis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "qadirdir"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "mühakimə etməyə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqını"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "xalqını"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ağır"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-09-01T17:33:56.749570111Z",
+  "model": "glm-5.3"
+}

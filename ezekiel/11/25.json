@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Və sürgünə danışdım Yahvenin mənə göstərdiyi bütün sözləri ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "danışdım"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "sürgünə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün sözləri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözləri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "הראני",
+      "gloss": "mənə göstərdiyi"
+    }
+  ],
+  "timestamp": "2026-09-01T14:04:05.825395944Z",
+  "model": "glm-5.3"
+}

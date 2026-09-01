@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 44,
+  "translation": "İndi isə eşq olsun, ey Yaakov, qulum, və İsrail — onu seçdim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "indi isə"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eşq olsun"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "qulum"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "və İsrail"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "seçdim"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onu"
+    }
+  ],
+  "timestamp": "2026-09-01T13:08:39.621228856Z",
+  "model": "glm-5.3"
+}

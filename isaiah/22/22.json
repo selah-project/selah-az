@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 22:22",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Və David evinin açarını onun çiyinlərinin üstünə qoyacağam; o açacaq və bağlayan olmayacaq, o bağlayacaq və açan olmayacaq.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "qoyacağam"
+    },
+    {
+      "surface": "מפתח",
+      "gloss": "açarını"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "onun çiyinlərinin"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "və açacaq"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "və olmayacaq"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "bağlayan"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "və bağlayacaq"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "və olmayacaq"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "açan"
+    }
+  ],
+  "timestamp": "2026-09-01T12:56:52.059482134Z",
+  "model": "glm-5.3"
+}

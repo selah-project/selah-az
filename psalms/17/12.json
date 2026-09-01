@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 17:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Bənzəri aclıqdan saralan şir kimidir — parçalamağa can atır, və gənc şir kimi gizli yerlərdə oturar.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "bənzəri"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "şir kimi"
+    },
+    {
+      "surface": "יכסוף",
+      "gloss": "aclıqdan saralan (can atır)"
+    },
+    {
+      "surface": "לטרוף",
+      "gloss": "parçalamağa"
+    },
+    {
+      "surface": "וככפיר",
+      "gloss": "və gənc şir kimi"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "oturar"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "gizli yerlərdə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:03:43.470527153Z",
+  "model": "glm-5.3"
+}

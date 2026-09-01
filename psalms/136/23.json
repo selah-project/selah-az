@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 136:23",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 136,
+  "translation": "O, bizim aşağı vəziyyətimizdə bizi xatırladı, çünki onun hesedi əbədidir.",
+  "tokens": [
+    {
+      "surface": "שבשפלנו",
+      "gloss": "bizim aşağı vəziyyətimizdə"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "xatırladı"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədidir"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "onun hesedi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:43:54.480782537Z",
+  "model": "glm-5.3"
+}

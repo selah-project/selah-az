@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və Elohim dedi: “Suların ortasında sərtləşmiş görünüş ⟨olsun⟩, və sular ilə sular arasında ayırıcı ⟨olsun⟩.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "sərtləşmiş görünüş"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ortasında"
+    },
+    {
+      "surface": "המים",
+      "gloss": "suların"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "və olsun"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "ayırıcı"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sular"
+    },
+    {
+      "surface": "למים",
+      "gloss": "sular"
+    }
+  ],
+  "timestamp": "2026-09-01T09:45:39.433503840Z",
+  "model": "glm-5.3"
+}

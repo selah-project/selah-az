@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 36,
+  "translation": "Üsyan zalım ⟨haqqında⟩ ürəyimin içində deyir: onun gözlərinin qarşısında Elohim qorxusu yoxdur.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "Üsyan"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "zalım ⟨haqqında⟩"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "içində"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ürəyimin"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "qorxusu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "qarşısında"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "gözlərinin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:12:02.606460865Z",
+  "model": "glm-5.3"
+}

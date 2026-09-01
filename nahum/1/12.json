@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nahum 1:12",
+  "book": "nahum",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Belə deyir Yahve: Əgər tam ⟨olsalar⟩ və elə çox ⟨olsalar⟩, elə kəsiləcəklər və ⟨keçib gedəcəklər⟩; səni əzdim, səni bir daha əzməyəcəyəm.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "belə"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "tam"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "və elə"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "çox"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "və elə"
+    },
+    {
+      "surface": "נגזו",
+      "gloss": "kəsiləcəklər"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "və keçib gedəcək"
+    },
+    {
+      "surface": "וענתך",
+      "gloss": "səni əzdim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "əzməyəcəyəm"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bir daha"
+    }
+  ],
+  "timestamp": "2026-09-01T14:48:25.559048332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 79,
+  "translation": "Çünki ⟨onlar⟩ ⟨את⟩ Yaqovu yedilər və ⟨את⟩ onun məskənini viran qoydular.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yedilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaqovu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "onun məskənini"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "onun məskənini"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "viran qoydular"
+    }
+  ],
+  "timestamp": "2026-09-01T15:28:28.028568779Z",
+  "model": "glm-5.3"
+}

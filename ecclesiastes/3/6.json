@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Axtarmaq vaxtı, itirmək vaxtı; saxlamaq vaxtı, atmaq vaxtı.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "vaxtı"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "axtarmaq"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "və... vaxtı"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "itirmək"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vaxtı"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "saxlamaq"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "və... vaxtı"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "atmaq"
+    }
+  ],
+  "timestamp": "2026-09-01T16:28:52.441094953Z",
+  "model": "glm-5.3"
+}

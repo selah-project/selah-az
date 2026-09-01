@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 47,
+  "translation": "Və Yaqub Paronu ⟨את⟩ xeyir-dua verdi, və Paronun hüzurundan çıxdı.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "xeyir-dua verdi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqub"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paronu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "çıxdı"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "hüzurundan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paronun"
+    }
+  ],
+  "timestamp": "2026-09-01T17:26:11.118679788Z",
+  "model": "glm-5.3"
+}

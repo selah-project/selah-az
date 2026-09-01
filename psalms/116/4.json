@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 116,
+  "translation": "Və Yahvenin adı ilə çağırdım: 'Ah, Yahve, canımı xilas et!'",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "Və ... adı ilə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "çağırdım"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Ah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "xilas et"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:17.494731492Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 12:21",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Qulları qalxdı və sui-qəsd qurdular və Yoaşı ⟨את⟩ Bet-Milloda, Sillaya enən ⟨yolda⟩ vurub öldürdülər.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "qalxdılar"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "onun qulları"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "sui-qəsd qurdular"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "sui-qəsd"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "vurdular"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoaş"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoaş"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Millo"
+    },
+    {
+      "surface": "היורד",
+      "gloss": "enən"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "Silla"
+    }
+  ],
+  "timestamp": "2026-09-01T12:35:27.607267459Z",
+  "model": "glm-5.3"
+}

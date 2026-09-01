@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 112,
+  "translation": "Yerdə qüdrətli ⟨olacaq⟩ onun nəsli, düz adamların nəsli mübarək sayılacaq.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "qüdrətli"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerdə"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "onun nəsli"
+    },
+    {
+      "surface": "דור",
+      "gloss": "nəsli"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "düz adamların"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "mübarək sayılacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:37:45.846793972Z",
+  "model": "glm-5.3"
+}

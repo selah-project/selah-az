@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 1:12",
+  "book": "habakkuk",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Məgər sən əzəli deyilsənmi, ey Yahve, mənim Elohimim, mənim Müqəddəsim? Ölməyəcəyik. Yahve, onu mühakimə üçün qoydun; ey Qaya, onu töhmət üçün bünövrələdin.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "məgər ... deyilsənmi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "əzəli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mənim Elohimim"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "mənim Müqəddəsim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "ölməyəcəyik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "mühakimə üçün"
+    },
+    {
+      "surface": "שמתו",
+      "gloss": "qoydun"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "ey Qaya"
+    },
+    {
+      "surface": "להוכיח",
+      "gloss": "töhmət üçün"
+    },
+    {
+      "surface": "יסדתו",
+      "gloss": "bünövrələdin"
+    }
+  ],
+  "timestamp": "2026-09-01T14:48:24.063012896Z",
+  "model": "glm-5.3"
+}

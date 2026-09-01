@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 115,
+  "translation": "Və bizim Elohimimiz göylərdedir, ⟨onu⟩ istədiyi hər şeyi etdi.",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "və bizim Elohimimiz"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "göylərdedir"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər şeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨onu⟩ istədiyi"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "istədiyi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etdi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:32.317371314Z",
+  "model": "glm-5.3"
+}

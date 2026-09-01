@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 12:12",
+  "book": "2-samuel",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Çünki sən bunu gizlində etdin, Mən isə bu işi bütün İsrayilin qarşısında və günəşin qarşısında edəcəyəm.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "etdin"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "gizlində"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "Mən isə"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "edəcəyəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu işi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "işi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "qarşısında"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrayilin"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "və qarşısında"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "günün"
+    }
+  ],
+  "timestamp": "2026-09-01T11:57:26.007337349Z",
+  "model": "glm-5.3"
+}

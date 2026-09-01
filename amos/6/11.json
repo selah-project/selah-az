@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 6:11",
+  "book": "amos",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Çünki bax, Yahve əmr edir: böyük ev parça-parça, kiçik ev isə çatlarla vurulacaq.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "əmr edir"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "vurulacaq"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "רסיסים",
+      "gloss": "parça-parça"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "və ev"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "kiçik"
+    },
+    {
+      "surface": "בקעים",
+      "gloss": "çatlarla"
+    }
+  ],
+  "timestamp": "2026-09-01T14:42:26.209637389Z",
+  "model": "glm-5.3"
+}

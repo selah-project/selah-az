@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Yahve müqəddəs məbərindədir, Yahvenin taxtı göylərdədir; gözləri görür, kirpikləri insan oğullarını sınayır.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "məbərində"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "göylərdə"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "taxtı"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "gözləri"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "görür"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "kirpikləri"
+    },
+    {
+      "surface": "יבחנו",
+      "gloss": "sınayır"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:05:14.561300132Z",
+  "model": "glm-5.3"
+}

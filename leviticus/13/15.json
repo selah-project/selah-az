@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 13:15",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Kohen canlı ətə baxdıqda onu murdar elan edəcək; canlı ət murdardır — o, çaramıqdır.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "baxdıqda"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "canlı ətə"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ət"
+    },
+    {
+      "surface": "החי",
+      "gloss": "canlı"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "onu murdar elan edəcək"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ət"
+    },
+    {
+      "surface": "החי",
+      "gloss": "canlı"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "murdardır"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "çaramıq"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "odur"
+    }
+  ],
+  "timestamp": "2026-09-01T10:25:41.838354683Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 24:11",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "İsrail oğullarının seçilmişlərinə isə əlini uzatmadı; və Elohi mi ⟨את⟩ seyr etdilər, yedilər və içdilər.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "və ... qarşı"
+    },
+    {
+      "surface": "אצילי",
+      "gloss": "seçilmişlərinə"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "לא",
+      "gloss": "etmədi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "uzatmadı"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "əlini"
+    },
+    {
+      "surface": "ויחזו",
+      "gloss": "seyr etdilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "yedilər"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "və içdilər"
+    }
+  ],
+  "timestamp": "2026-09-01T10:14:22.491297987Z",
+  "model": "glm-5.3"
+}

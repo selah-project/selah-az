@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 24:10",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Və onların üstünə ⟨את⟩ qılıncı, ⟨את⟩ qıtlığı və ⟨את⟩ vəbanı göndərəcəyəm — onlara və atalarına verdiyim torpağın üstündən tükənənə qədər.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "göndərəcəyəm"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onların üstünə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qılıncı"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "qılıncı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qıtlığı"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "qıtlığı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "vəbanı"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "vəbanı"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "tükənənə"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "üstündən"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "torpağın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "verdim"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "ולאבותיהם",
+      "gloss": "və atalarına"
+    }
+  ],
+  "timestamp": "2026-09-01T13:35:45.115086922Z",
+  "model": "glm-5.3"
+}

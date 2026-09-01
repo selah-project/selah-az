@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 4:5",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "O, onun yanından getdi və qapını öz arxasınca və oğullarının arxasınca bağlıdı; onlar ⟨qabları⟩ ona gətirirdilər, o isə tökürdü.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "getdi"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ yanından"
+    },
+    {
+      "surface": "ותסגר",
+      "gloss": "bağladı"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "qapını"
+    },
+    {
+      "surface": "בעדה",
+      "gloss": "öz arxasınca"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "və ... arxasınca"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "הם",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "מגשים",
+      "gloss": "gətirirdilər"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "o isə"
+    },
+    {
+      "surface": "מיצקת",
+      "gloss": "tökürdü"
+    }
+  ],
+  "timestamp": "2026-09-01T12:31:41.244542015Z",
+  "model": "glm-5.3"
+}

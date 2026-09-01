@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 72,
+  "translation": "O, xalqını salehliklə, və kasıblarını məhkəmə ilə mühakimə etsin.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "mühakimə etsin"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "xalqını"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "salehliklə"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "və kasıblarını"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "məhkəmə ilə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:23:54.313468421Z",
+  "model": "glm-5.3"
+}

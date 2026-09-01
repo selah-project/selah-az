@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 2:18",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Çünki evi ölümə çökür və onun cığırları refaimlərə ⟨aparır⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "çökür"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə doğru"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölümə"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "evi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və -ə doğru"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "refaimlərə"
+    },
+    {
+      "surface": "מעגלתיה",
+      "gloss": "onun cığırları"
+    }
+  ],
+  "timestamp": "2026-09-01T15:48:27.038881625Z",
+  "model": "glm-5.3"
+}

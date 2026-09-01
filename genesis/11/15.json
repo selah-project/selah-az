@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 11:15",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Şelax ⟨את⟩ Everi doğuldan sonra üç yüz ⟨və⟩ dörd il yaşadı və oğullar ⟨və⟩ qızlar doğdu.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "yaşadı"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Şelax"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sonra"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "doğuldan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Everi"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Everi"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "üç"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "il"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "və dörd"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "il"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "doğdu"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oğullar"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "və qızlar"
+    }
+  ],
+  "timestamp": "2026-09-01T17:25:56.590372331Z",
+  "model": "glm-5.3"
+}

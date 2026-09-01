@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 9:9",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Və Ahavın ⟨את⟩ evini Navat oğlu Yarovamın evi kimi, və Axiya oğlu Başşanın evi kimi ⟨mən⟩ verəcəyəm.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "verəcəyəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "evini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evini"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahavın"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "evi kimi"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovamın"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Navat"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "və evi kimi"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Başşanın"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Axayanın"
+    }
+  ],
+  "timestamp": "2026-09-01T12:34:13.129215529Z",
+  "model": "glm-5.3"
+}

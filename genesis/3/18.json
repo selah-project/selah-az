@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və sənə tikan və kərpici çıxaracaq, və çöl otunu yeyəcəksən ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "və tikan"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "və kərpici"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "çıxaracaq"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "və yeyəcəksən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çöl otunu"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "çöl otunu"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "çölün"
+    }
+  ],
+  "timestamp": "2026-09-01T09:46:41.860852275Z",
+  "model": "glm-5.3"
+}

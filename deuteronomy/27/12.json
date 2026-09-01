@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 27:12",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Bunlar xalqı ⟨את⟩ bərəkətləmək üçün Qerizim dağının üstündə duracaqlar, siz Yardeni ⟨את⟩ keçdiyiniz zaman: Şimeon, Levi, Yehuda, Yişaxar, Yosef və Binyamin.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "bunlar"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "duracaqlar"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "bərəkətləmək üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dağının"
+    },
+    {
+      "surface": "גרזים",
+      "gloss": "Qerizim"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "siz keçdiyiniz zaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardeni"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Şimeon"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "və Levi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "və Yehuda"
+    },
+    {
+      "surface": "ויששכר",
+      "gloss": "və Yişaxar"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "və Yosef"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "və Binyamin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:53:55.024515506Z",
+  "model": "glm-5.3"
+}

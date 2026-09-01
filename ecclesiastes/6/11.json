@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Çünki çox sözlər vardır ki, heveli çoxaldır; insan üçün nə artıq var?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "יש",
+      "gloss": "vardır"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "sözlər"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "çox"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "çoxaldır"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "heveli"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "artıq"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "insan üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T16:32:06.063587704Z",
+  "model": "glm-5.3"
+}

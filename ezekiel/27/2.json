@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 27:2",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Sən isə, insan oğlu, Tsor üçün mərsiyə qaldır.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "sən isə"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "שא",
+      "gloss": "qaldır"
+    },
+    {
+      "surface": "על",
+      "gloss": "üçün"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "mərsiyə"
+    }
+  ],
+  "timestamp": "2026-09-01T14:18:36.394785067Z",
+  "model": "glm-5.3"
+}

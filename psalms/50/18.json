@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 50,
+  "translation": "Oğru gördün — onunla qaçdın; və zina edənlərlə sənin payın ⟨idi⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "gördün"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "oğru"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "və qaçdın"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "və ... ilə"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "zina edənlərlə"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "sənin payın"
+    }
+  ],
+  "timestamp": "2026-09-01T15:16:26.736128716Z",
+  "model": "glm-5.3"
+}

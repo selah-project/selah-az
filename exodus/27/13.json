@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 27:13",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Və həyətin eni şərq tərəfdə, günəş doğan tərəfə doğru əlli qarış olacaqdır.",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "və eni"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "həyətin"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "tərəfdə"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "şərq"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "günəş doğan tərəfə"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "əlli"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "qarış"
+    }
+  ],
+  "timestamp": "2026-09-01T10:16:26.105297383Z",
+  "model": "glm-5.3"
+}

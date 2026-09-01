@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 44:20",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 44,
+  "translation": "Kül otlayan ⟨kimsədir⟩; aldadılmış ürək onu yoldan çıxarıb sapdırdı, canını qurtara bilmir və deyə bilmir: “Sağ əlimdə yalan ⟨olmasınmı⟩?”",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "otlayan"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "kül"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ürək"
+    },
+    {
+      "surface": "הותל",
+      "gloss": "aldadılmış"
+    },
+    {
+      "surface": "הטהו",
+      "gloss": "onu sapdırdı"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "qurtara bilmir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "canını"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "onun canını"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və deyə"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "məgər yoxdurmu"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "deyə bilmir"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yalan"
+    },
+    {
+      "surface": "בימיני",
+      "gloss": "sağ əlimdə"
+    }
+  ],
+  "timestamp": "2026-09-01T13:11:31.092328704Z",
+  "model": "glm-5.3"
+}

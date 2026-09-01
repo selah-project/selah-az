@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Oğlum, tövratımı unutma, və əmrlərimi qəlbin saxlasın.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "oğlum"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "tövratımı"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "unutma"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "və əmrlərimi"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "qəlbin saxlasın"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "qəlbin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:48:48.811041976Z",
+  "model": "glm-5.3"
+}

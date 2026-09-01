@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 27:8",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Yuvasından qaçan quş kimi, öz yerindən qaçan adam da belədir.",
+  "tokens": [
+    {
+      "surface": "כצפור",
+      "gloss": "quş kimi"
+    },
+    {
+      "surface": "נודדת",
+      "gloss": "qaçan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "Yuvasından"
+    },
+    {
+      "surface": "כן",
+      "gloss": "belədir"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "נודד",
+      "gloss": "qaçan"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "öz yerindən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:59:50.462380871Z",
+  "model": "glm-5.3"
+}

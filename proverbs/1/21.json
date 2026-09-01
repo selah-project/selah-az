@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 1:21",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Səs-küyün başında çağırır, qapıların açılışlarında, şəhərdə öz sözlərini deyir.",
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "başında"
+    },
+    {
+      "surface": "המיות",
+      "gloss": "səs-küyün"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "çağırır"
+    },
+    {
+      "surface": "בפתחי",
+      "gloss": "açılışlarında"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "qapıların"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "şəhərdə"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "öz sözlərini"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "deyir"
+    }
+  ],
+  "timestamp": "2026-09-01T15:47:24.622665702Z",
+  "model": "glm-5.3"
+}

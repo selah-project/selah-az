@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 29:10",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "körpələriniz, qadınlarınız və düşərgələrinizin içindəki qonağınız — odununuzun doğrayanından suyunuzun çəkəninə qədər —",
+  "tokens": [
+    {
+      "surface": "טפכם",
+      "gloss": "körpələriniz"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "qadınlarınız"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "və qonağınız"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "içindəki"
+    },
+    {
+      "surface": "מחניך",
+      "gloss": "düşərgələrinizin"
+    },
+    {
+      "surface": "מחטב",
+      "gloss": "doğrayanından"
+    },
+    {
+      "surface": "עציך",
+      "gloss": "odununuzun"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "שאב",
+      "gloss": "çəkəninə"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "suyunuzun"
+    }
+  ],
+  "timestamp": "2026-09-01T10:55:53.835785768Z",
+  "model": "glm-5.3"
+}

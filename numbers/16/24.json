@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 16:24",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "«İcma ilə danış və de: Qorahın, Datanın və Aviramın məskəninin ətrafından uzaqlaşın.»",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "danış"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "icma"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "və de"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "uzaqlaşın"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ətrafından"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "məskəninin"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qorahın"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Datanın"
+    },
+    {
+      "surface": "ואבירם",
+      "gloss": "və Aviramın"
+    }
+  ],
+  "timestamp": "2026-09-01T10:38:26.849447356Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 23:8",
+  "book": "job",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Budur, şərqə getsəm, o yoxdur; qərbə — onu dərk edə bilmirəm.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "budur"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "şərqə"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "getsəm"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "o yoxdur"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "qərbə"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və... bilmirəm"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "dərk edərəm"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onu"
+    }
+  ],
+  "timestamp": "2026-09-01T16:12:05.000781643Z",
+  "model": "glm-5.3"
+}

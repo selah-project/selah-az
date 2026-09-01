@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 6:6",
+  "book": "job",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Dadsız şey duzsuz yeyilirmi, yoxsa yabanı otunun şirəsində dad var?",
+  "tokens": [
+    {
+      "surface": "היאכל",
+      "gloss": "yeyilirmi"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "dadsız şey"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "duzsuz"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "duz"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoxsa"
+    },
+    {
+      "surface": "יש",
+      "gloss": "var"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "dad"
+    },
+    {
+      "surface": "בריר",
+      "gloss": "şirəsində"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "yabanı otu"
+    }
+  ],
+  "timestamp": "2026-09-01T16:04:06.195002403Z",
+  "model": "glm-5.3"
+}

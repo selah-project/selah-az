@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 39,
+  "translation": "Bütün üsyanlarımdan məni qurtar; məni nadanın lağı ⟨etmə⟩.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "bütün ... -dan"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "üsyanlarım"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "məni qurtar"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "lağı"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nadanın"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨etmə⟩"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "məni qoy"
+    }
+  ],
+  "timestamp": "2026-09-01T15:13:47.008723274Z",
+  "model": "glm-5.3"
+}

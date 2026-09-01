@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 87,
+  "translation": "Və Tsiyon haqqında deyiləcək: adam, həm ⟨hər⟩ adam onda doğulub, və Elyon özü onu möhkəmləndirəcək.",
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "Və Tsiyon haqqında"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "deyiləcək"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "həm adam"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "doğulub"
+    },
+    {
+      "surface": "בה",
+      "gloss": "onda"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "özü"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "möhkəmləndirəcək"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:30.096988853Z",
+  "model": "glm-5.3"
+}

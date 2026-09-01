@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 3:3",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və Elohimimiz Yahve ⟨את⟩ Oqi də, Başanın hökmdarını və ⟨את⟩ bütün xalqını əlimizə verdi; və ona heç bir sağ qalan qalmayınca qədər vurduq.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "və verdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimiz"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "əlimizə"
+    },
+    {
+      "surface": "גם",
+      "gloss": "də"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oqi"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Oqi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hökmdarını"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Başanın"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bütün xalqını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "xalqını"
+    },
+    {
+      "surface": "ונכהו",
+      "gloss": "və vurduq"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "heç"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "sağ qalan qalmayınca"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "sağ qalan"
+    }
+  ],
+  "timestamp": "2026-09-01T10:47:02.453792294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Adını Yosef qoydu ⟨və dedi⟩: Yahve mənə ⟨başqa⟩ bir oğul əlavə etsin.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "qoydu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adını"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "adını"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨və dedi⟩"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "əlavə etsin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "başqa"
+    }
+  ],
+  "timestamp": "2026-09-01T09:54:10.905565668Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 120,
+  "translation": "Mən sülh tərəfdarıyam ⟨amma⟩ danışanda onlar müharibə üçündürlər.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sülh"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "⟨amma⟩ danışanda"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "danışanda"
+    },
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "müharibə üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T15:41:30.939660174Z",
+  "model": "glm-5.3"
+}

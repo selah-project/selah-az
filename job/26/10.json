@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 26:10",
+  "book": "job",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Suların üzlüyünə ⟨bir⟩ sərhəd dairəvi cızmışdır — işığın sonuncusu qaranlıqla birlikdə ⟨olan yerə⟩ qədər.",
+  "tokens": [
+    {
+      "surface": "חק",
+      "gloss": "sərhəd"
+    },
+    {
+      "surface": "חג",
+      "gloss": "dairəvi cızmışdır"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzlüyünə"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suların"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "תכלית",
+      "gloss": "sonuncusu"
+    },
+    {
+      "surface": "אור",
+      "gloss": "işığın"
+    },
+    {
+      "surface": "עם",
+      "gloss": "birlikdə"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "qaranlıqla"
+    }
+  ],
+  "timestamp": "2026-09-01T16:12:34.308574860Z",
+  "model": "glm-5.3"
+}

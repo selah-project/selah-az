@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 98,
+  "translation": "Dəniz və onun doluluğu gurlasin, ⟨⟨tebəl⟩⟩ yəni dünyanın özü və onda yaşayanlar.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "gurlasin"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dəniz"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "və onun doluluğu"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dünya"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "və yaşayanları"
+    },
+    {
+      "surface": "בה",
+      "gloss": "onda"
+    }
+  ],
+  "timestamp": "2026-09-01T18:01:52.439937421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 24:7",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Və əhd kitabını götürdü və xalqın qulaqlarında oxudu, və dedilər: Yahvenin danışdığı hər şeyi edəcəyik və itaət edəcəyik.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "və götürdü"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitabını"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "əhd"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "və oxudu"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "qulaqlarında"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqın"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "və dedilər"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər şeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "danışdığı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "edəcəyik"
+    },
+    {
+      "surface": "ונשמע",
+      "gloss": "və itaət edəcəyik"
+    }
+  ],
+  "timestamp": "2026-09-01T10:15:32.301295223Z",
+  "model": "glm-5.3"
+}

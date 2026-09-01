@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 3:5",
+  "book": "joshua",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Yehoşua xalqa dedi: Özünüzü müqəddəsləşdirin, çünki sabah Yahve aranızda möcüzələr edəcək.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "özünüzü müqəddəsləşdirin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "sabah"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "edəcək"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "aranızda"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "möcüzələr"
+    }
+  ],
+  "timestamp": "2026-09-01T11:02:42.457814716Z",
+  "model": "glm-5.3"
+}

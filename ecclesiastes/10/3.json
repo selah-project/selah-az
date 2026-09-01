@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Həmçinin yol boyunca axmaq gedəndə ürəyi çatışmır və hamıya deyir ki, o, axmaqdır.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "həmçinin"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yol boyunca"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "axmaq"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "gedəndə"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ürəyi"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "çatışmır"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "və deyir"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hamıya"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "axmaq"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-09-01T16:31:51.842792290Z",
+  "model": "glm-5.3"
+}

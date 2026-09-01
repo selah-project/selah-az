@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 26:32",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Və mən özüm ⟨את⟩ torpağı viran edəcəyəm və üstündə yaşayan düşmənləriniz ona heyrət edəcəklər.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "viran edəcəyəm"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən özüm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "torpağı"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "torpağı"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "heyrət edəcəklər"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ona\/üstündə"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "düşmənləriniz"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "yaşayan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "orada"
+    }
+  ],
+  "timestamp": "2026-09-01T10:31:43.459501377Z",
+  "model": "glm-5.3"
+}

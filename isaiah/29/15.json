@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 29:15",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "Vay o kəslərə ki, Yahvedən məsləhəti gizlətmək üçün dərinə gedirlər; işləri qaranlıqda olur və deyirlər: «Bizi kim görür? Və bizi kim tanıyır?»",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "vay"
+    },
+    {
+      "surface": "המעמיקים",
+      "gloss": "dərinə gedənlər"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Yahvedən"
+    },
+    {
+      "surface": "לסתר",
+      "gloss": "gizlətmək üçün"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "məsləhət"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "və olur"
+    },
+    {
+      "surface": "במחשך",
+      "gloss": "qaranlıqda"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "onların işləri"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "və deyirlər"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "ראנו",
+      "gloss": "bizi görür"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "və kim"
+    },
+    {
+      "surface": "יודענו",
+      "gloss": "bizi tanıyır"
+    }
+  ],
+  "timestamp": "2026-09-01T13:01:42.435959162Z",
+  "model": "glm-5.3"
+}

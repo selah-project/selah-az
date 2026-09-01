@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 39,
+  "translation": "Və ⟨את⟩ efodu düzdü: qızıl, göy, bənövşəyi, tökə qırmızısı və bükülmüş kətandan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "və düzdü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efodu"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "qızıl"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "göy"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "və bənövşəyi"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "və tökə"
+    },
+    {
+      "surface": "שני",
+      "gloss": "qırmızısı"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "və kətan"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "bükülmüş"
+    }
+  ],
+  "timestamp": "2026-09-01T10:21:46.433895081Z",
+  "model": "glm-5.3"
+}

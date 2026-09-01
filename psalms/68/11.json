@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 68,
+  "translation": "Sürün orada yaşadı; yoxsul üçün, ey Elohim, xeyirxahlığıınla hazırladın.",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "sürün"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "yaşadı"
+    },
+    {
+      "surface": "בה",
+      "gloss": "orada"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "hazırladın"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "xeyirxahlığıınla"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "yoxsul üçün"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T15:22:16.077443346Z",
+  "model": "glm-5.3"
+}

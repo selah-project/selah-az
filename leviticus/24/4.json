@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Təmiz çıraqüstündə çıraqları Yahvenin önündə fasiləsiz düzənləsin.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "çıraqüstündə"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "təmiz"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "düzənləsin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çıraqları"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "çıraqları"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önündə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "fasiləsiz"
+    }
+  ],
+  "timestamp": "2026-09-01T10:30:48.523236345Z",
+  "model": "glm-5.3"
+}

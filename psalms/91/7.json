@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 91,
+  "translation": "Yanında min nəfər düşəcək və sağ əlində on min; sənə yaxınlaşmayacaq.",
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "düşəcək"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "yanında"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "min"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "və on min"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "sağ əlində"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "yaxınlaşacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:32:49.720219057Z",
+  "model": "glm-5.3"
+}

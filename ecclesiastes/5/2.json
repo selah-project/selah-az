@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Çünki çox qayğı içində yuxu gəlir, və ağılın səsi çox sözlə içindədir ⟨gəlir⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gəlir"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "yuxu"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "çox"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "qayğı içində"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "səsi"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ağılın"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "çox"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "sözlə"
+    }
+  ],
+  "timestamp": "2026-09-01T16:30:16.194094511Z",
+  "model": "glm-5.3"
+}

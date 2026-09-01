@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Üzünü qulunun üzərində işıqlandır, və mənə ⟨את⟩ qanunlarını öyrət.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "üzünü"
+    },
+    {
+      "surface": "האר",
+      "gloss": "ışıqlandır"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "qulunun üzərində"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "və mənə öyrət"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qanunlarını"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "qanunlarını"
+    }
+  ],
+  "timestamp": "2026-09-01T15:41:05.665595236Z",
+  "model": "glm-5.3"
+}

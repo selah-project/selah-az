@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 132,
+  "translation": "Məqam nəğməsi. Xatırla, Yahve, Davud ⟨üçün⟩ ⟨את⟩ bütün onun əzablarını.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "nəğməsi"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "Məqam"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Xatırla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davud ⟨üçün⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün onun əzablarını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "onun əzablarını"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:40.851215716Z",
+  "model": "glm-5.3"
+}

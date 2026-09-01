@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 17:15",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Qadın getdi və Eliyahunun sözünə görə etdi; yedilər — ⟨o⟩ və ⟨o⟩, və ev əhli, günbəgün.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "və getdi"
+    },
+    {
+      "surface": "ותעשה",
+      "gloss": "və etdi"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sözünə görə"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahunun"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "və yedilər"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "və ⟨o⟩"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "və ev əhli"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günlər (günbəgün)"
+    }
+  ],
+  "timestamp": "2026-09-01T12:22:26.452573643Z",
+  "model": "glm-5.3"
+}

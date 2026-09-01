@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Yahveyə etibar et və yaxşılıq et; ölkədə sakin ol və sadiqqliyi ⟨güzəştə⟩ yet.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "etibar et"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "və et"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşılıq"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "sakin ol"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ölkədə"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "yet"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "sadiqqliyi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:12:15.815505873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 28:10",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "Və Xananya peyğəmbər ⟨את⟩ boyunduruğu Yirmiya peyğəmbərin boynundan götürdü və onu qırdı.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "və götürdü"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Xananya"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "peyğəmbər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boyunduruğu"
+    },
+    {
+      "surface": "המוטה",
+      "gloss": "boyunduruğu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dan"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "boynundan"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Yirmiya"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "peyğəmbərin"
+    },
+    {
+      "surface": "וישברהו",
+      "gloss": "və onu qırdı"
+    }
+  ],
+  "timestamp": "2026-09-01T13:39:46.005991674Z",
+  "model": "glm-5.3"
+}

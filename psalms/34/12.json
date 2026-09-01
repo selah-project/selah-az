@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 34,
+  "translation": "Gəlin, oğullar, mənə qulaq asın; sizə Yahve qorxusunu öyrədəcəyəm.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Gəlin"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oğullar"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "qulaq asın"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "qorxusunu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "sizə öyrədəcəyəm"
+    }
+  ],
+  "timestamp": "2026-09-01T15:10:55.148075017Z",
+  "model": "glm-5.3"
+}

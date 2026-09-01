@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 129:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 129,
+  "translation": "Dam başlarındaki ota bənzərsinlər — o ki, ⟨hələ⟩ çıxarılmamışdan əvvəl solub quruyur.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "bənzərsinlər"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "ot kimi"
+    },
+    {
+      "surface": "גגות",
+      "gloss": "dam başlarındaki"
+    },
+    {
+      "surface": "שקדמת",
+      "gloss": "əvvəl"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "çıxarılmamışdan"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "solub quruyur"
+    }
+  ],
+  "timestamp": "2026-09-01T17:43:08.426644241Z",
+  "model": "glm-5.3"
+}

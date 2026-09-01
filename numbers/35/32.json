@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 35:32",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "Sığınacaq şəhərinə qaçmış adam üçün kahinin ölümünə qədər yenidən torpaqda yaşamaq üçün geri dönmək məqsədilə fidyə götürməyin.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "götürməyin"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "fidyə"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "qaçmış üçün"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şəhər"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "onun sığınacağı"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "geri dönmək"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "yaşamaq"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "torpaqda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölümü"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahinin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:45:18.371803394Z",
+  "model": "glm-5.3"
+}

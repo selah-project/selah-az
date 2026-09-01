@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 60:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 60,
+  "translation": "Öz xalqına sərt şey göstərdin, bizə sarsıdıcı şərab içirdin.",
+  "tokens": [
+    {
+      "surface": "הראיתה",
+      "gloss": "göstərdin"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "öz xalqına"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "sərt şey"
+    },
+    {
+      "surface": "השקיתנו",
+      "gloss": "bizə içirdin"
+    },
+    {
+      "surface": "יין",
+      "gloss": "şərab"
+    },
+    {
+      "surface": "תרעלה",
+      "gloss": "sarsıdıcı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:20:43.799906810Z",
+  "model": "glm-5.3"
+}

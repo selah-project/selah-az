@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 10:14",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Dalğalanmış döşü ⟨את⟩ və qaldırılmış çənni ⟨את⟩ təmiz yerdə yeyəcəksiniz — sən, oğulların və qızların səninlə ⟨birlikdə⟩; çünki sənin payın və oğullarının payı olaraq İsrail oğullarının şalom qurbanlarından verilib.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dalğalanmış döşü"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "döşü"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "dalğalanmış"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qaldırılmış çənni"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "çənni"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "qaldırılmış"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yeyəcəksiniz"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "yerdə"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "təmiz"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "oğulların"
+    },
+    {
+      "surface": "ובנתיך",
+      "gloss": "qızların"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "səninlə ⟨את⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "חקך",
+      "gloss": "sənin payın"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "və pay"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "verilib"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "qurbanlarından"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "şalom"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    }
+  ],
+  "timestamp": "2026-09-01T10:25:22.093462244Z",
+  "model": "glm-5.3"
+}

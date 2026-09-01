@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 3:10",
+  "book": "jonah",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və Elohim ⟨את⟩ onların əməllərini gördü — ki onlar öz pis yollarından qayıtdılar — və Elohim o pislikdən peşman oldu ki, onlara etmək üçün demişdi, və ⟨onu⟩ etmədi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "və gördü"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onların əməllərini"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "onların əməllərini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "qayıtdılar"
+    },
+    {
+      "surface": "מדרכם",
+      "gloss": "öz yollarından"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "pis"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "və peşman oldu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "-dən (peşman olduğu şey)"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "o pislikdən"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "demişdi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "etmək üçün"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... etmədi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨onu⟩ etmədi"
+    }
+  ],
+  "timestamp": "2026-09-01T14:44:55.956907473Z",
+  "model": "glm-5.3"
+}

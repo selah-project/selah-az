@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 21:34",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "çalanın sahibi ⟨⟨zərəri⟩⟩ ödəyəcək, sahibinə gümüş qaytaracaq, ölü ⟨heyvan⟩ isə onun olacaq.",
+  "tokens": [
+    {
+      "surface": "בעל",
+      "gloss": "sahibi"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "çalanın"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ödəyəcək"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "qaytaracaq"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "sahibinə"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "ölü"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onun"
+    }
+  ],
+  "timestamp": "2026-09-01T10:13:53.049618532Z",
+  "model": "glm-5.3"
+}

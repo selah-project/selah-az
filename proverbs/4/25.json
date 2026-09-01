@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 4:25",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Gözlərin düzə baxsın, və qırpıqların sənin qarşında düzəlsin.",
+  "tokens": [
+    {
+      "surface": "עיניך",
+      "gloss": "gözlərin"
+    },
+    {
+      "surface": "לנכח",
+      "gloss": "düzə"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "baxsın"
+    },
+    {
+      "surface": "ועפעפיך",
+      "gloss": "və qırpıqların"
+    },
+    {
+      "surface": "יישרו",
+      "gloss": "düzəlsin"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "sənin qarşında"
+    }
+  ],
+  "timestamp": "2026-09-01T15:48:09.474901663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "«Qehat oğullarının başını say, Ləvi oğullarının içindən, ailələrinə görə, atalarının evlərinə görə.»",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "say (başını qaldır)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "başını"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "başını"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Qehat"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "içindən"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Ləvi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ailələrinə görə"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "evlərinə"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "atalarının"
+    }
+  ],
+  "timestamp": "2026-09-01T10:33:27.586078947Z",
+  "model": "glm-5.3"
+}

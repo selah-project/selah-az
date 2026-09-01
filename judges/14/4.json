@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 14:4",
+  "book": "judges",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Onun atası və anası bilmirdilər ki, ⟨bu⟩ Yahvedəndir, ki ⟨o⟩ peliştilərdən ⟨bir⟩ fürsət axtarır; və o vaxtda peliştilər Yisrael üzərində hakim idilər.",
+  "tokens": [
+    {
+      "surface": "ואביו",
+      "gloss": "və atası"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "və anası"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bilmirdilər"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Yahvedən"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨bu⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "fürsət"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "axtarır"
+    },
+    {
+      "surface": "מפלשתים",
+      "gloss": "peliştilərdən"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "və o vaxtda"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "o"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "peliştilər"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "hakim idilər"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Yisrael üzərində"
+    }
+  ],
+  "timestamp": "2026-09-01T11:24:45.075295775Z",
+  "model": "glm-5.3"
+}

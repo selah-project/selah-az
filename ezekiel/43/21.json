@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 43:21",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 43,
+  "translation": "Günah qurbanı öküzünü ⟨את⟩ götürəcəksən və onu məbədin müəyyən edilmiş yerində, müqəddəs yerdən xaricdə yandıracaqlar.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "götürəcəksən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öküzü"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "öküz"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "günah qurbanı"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "və yandıracaqlar"
+    },
+    {
+      "surface": "במפקד",
+      "gloss": "müəyyən edilmiş yerdə"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "məbədin"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "xaricində"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "müqəddəs yerdən"
+    }
+  ],
+  "timestamp": "2026-09-01T14:30:07.204289210Z",
+  "model": "glm-5.3"
+}

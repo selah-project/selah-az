@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 45,
+  "translation": "Ürəyim gözəl söz qaynadır, deyirəm: işlərim padşah haqqındadır; dilim sürətli yazıçının qələmidir.",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "qaynadır"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ürəyim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "söz"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gözəl"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deyirəm"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "işlərim"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "padşaha"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "dilim"
+    },
+    {
+      "surface": "עט",
+      "gloss": "qələm"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "yazıçının"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "sürətli"
+    }
+  ],
+  "timestamp": "2026-09-01T15:17:16.403625068Z",
+  "model": "glm-5.3"
+}

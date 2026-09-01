@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 138,
+  "translation": "Səni alqışlayacaqlar, Yahve, yer üzünün bütün padşahları, çünki ağzının sözlərini eşitdilər.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "Səni alqışlayacaqlar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "padşahları"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer üzünün"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "eşitdilər"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "sözlərini"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ağzının"
+    }
+  ],
+  "timestamp": "2026-09-01T15:45:37.610510087Z",
+  "model": "glm-5.3"
+}

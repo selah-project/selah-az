@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 33:3",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "⟨Sənin⟩ səs-küyünün səsindən xalqlar qaçdı; ⟨sənin⟩ ucalığından millətlər səpələndi.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "səsindən"
+    },
+    {
+      "surface": "המון",
+      "gloss": "səs-küyünün"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "qaçdı"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "מרוממתך",
+      "gloss": "ucalığından"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "səpələndi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "millətlər"
+    }
+  ],
+  "timestamp": "2026-09-01T13:01:48.468947019Z",
+  "model": "glm-5.3"
+}

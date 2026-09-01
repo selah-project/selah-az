@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 41:24",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 41,
+  "translation": "və cılız sünbüllər ⟨את⟩ yeddi yaxşı sünbülü uddu, və mən sehrbazlara dedim, və mənə bildirən yoxdur.",
+  "tokens": [
+    {
+      "surface": "ו תבלען",
+      "gloss": "və uddular"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "sünbüllər"
+    },
+    {
+      "surface": "הדקת",
+      "gloss": "cılız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yeddi yaxşı sünbülü"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yeddi"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "sünbül"
+    },
+    {
+      "surface": "הטבות",
+      "gloss": "yaxşı"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "və dedim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−ə"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "sehrbazlar"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "və yoxdur"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "bildirən"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    }
+  ],
+  "timestamp": "2026-09-01T09:59:44.319845577Z",
+  "model": "glm-5.3"
+}

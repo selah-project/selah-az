@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 14:2",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Və Davud bildi ki, Yahve onu İsrail üzərinə kral olaraq təsdiq etdi, çünki onun məmləkəti ucalığa qaldırıldı, onun xalqı İsrail uğrunda.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "bildi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "təsdiq etdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kral olaraq"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "qaldırıldı"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "ucalığa"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "onun məmləkəti"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "uğrunda"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "onun xalqı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    }
+  ],
+  "timestamp": "2026-09-01T17:45:53.422924666Z",
+  "model": "glm-5.3"
+}

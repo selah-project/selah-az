@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 7:12",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Çünki hikmətin kölgəsində ⟨olur⟩, pulun kölgəsində ⟨olur⟩; amma bilik üstünlüyü ⟨budur ki,⟩ hikmət sahiblərini yaşadır.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "kölgəsində"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "hikmətin"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "kölgəsində"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "pulun"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "üstünlüyü"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "bilik"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "hikmət"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "yaşadır"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "sahiblərini"
+    }
+  ],
+  "timestamp": "2026-09-01T16:30:58.869438316Z",
+  "model": "glm-5.3"
+}

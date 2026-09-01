@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "judges 9:50",
+  "book": "judges",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Avimelex Tevesə getdi, Tevesə qarşı düşərgə saldı və onu tutdu.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "getdi"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelex"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "תבץ",
+      "gloss": "Tevesə"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "düşərgə saldı"
+    },
+    {
+      "surface": "בתבץ",
+      "gloss": "Tevesə qarşı"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "onu tutdu"
+    }
+  ],
+  "timestamp": "2026-09-01T11:21:05.863065595Z",
+  "model": "glm-5.3"
+}

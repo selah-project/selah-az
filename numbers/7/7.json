@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "İki arabani ⟨את⟩ və dörd inəyi ⟨את⟩ Gerşon oğullarına verdi, onların xidmətlərinin ölcüsünə görə.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iki arabani"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iki"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "arabani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "dörd inəyi"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "dörd"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "inəyi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oğullarına"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gerşon"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ölcüsünə görə"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "onların xidmətlərinin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:33:56.996520270Z",
+  "model": "glm-5.3"
+}

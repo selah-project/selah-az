@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 3:3",
+  "book": "job",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Mənim doğulduğum gün məhv olsun, və ⟨deyilən⟩ gecə: “Kişi uşağı yatırlandı.”",
+  "tokens": [
+    {
+      "surface": "יאבד",
+      "gloss": "məhv olsun"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "אולד",
+      "gloss": "doğulduğum"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onda"
+    },
+    {
+      "surface": "והלילה",
+      "gloss": "və gecə"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deyilən"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "yatrlandı (hamilə qaldı)"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "kişi uşağı"
+    }
+  ],
+  "timestamp": "2026-09-01T16:02:47.995175668Z",
+  "model": "glm-5.3"
+}

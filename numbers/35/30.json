@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 35:30",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "Canı vuran hər kəs — şahidlərin ağzı ilə qatil ⟨את⟩ öldürülsün; lakin tək şahid heç kəsin ölümünə cavab verməsin.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hər kəs"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "vuran"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "canı"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ağızı ilə"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "şahidlərin"
+    },
+    {
+      "surface": "ירצח",
+      "gloss": "qatili öldürsün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qatil"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "qatil"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "və şahid"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tək"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "cavab verməsin"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "canına"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ölmək üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:45:18.371511504Z",
+  "model": "glm-5.3"
+}

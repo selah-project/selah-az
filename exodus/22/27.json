@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Elohimi söyməyəcəksən, və xalqının içindəki nadiri lənətləməyəcəksən.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "söyməyəcəksən"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "və nadiri"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "xalqının içindəki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lənətləməyəcəksən"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "yox"
+    }
+  ],
+  "timestamp": "2026-09-01T10:13:27.549987158Z",
+  "model": "glm-5.3"
+}

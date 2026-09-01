@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Onda utanaram ⟨yoxtə⟩, bütün əmrlərinə baxdığımda.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Onda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨yoxtə⟩"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "utanaram"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "baxdığımda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "əmrlərin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:20.944128330Z",
+  "model": "glm-5.3"
+}

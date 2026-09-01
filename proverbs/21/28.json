@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 21:28",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Yalan şahidi məhv olacaq, eşidən adam isə əbədi danışacaq.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "şahidi"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "yalan"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "məhv olacaq"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "adam isə"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "eşidən"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "danışacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:56:05.595828743Z",
+  "model": "glm-5.3"
+}

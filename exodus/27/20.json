@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 27:20",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Və sən Yisrael oğullarına əmr edəcəksən ki, ⟨את⟩ Yisrael oğullarının ⟨sənə⟩ təmiz, döyülmüş zeytun yağı gətirsinlər çıraq üçün, çırağı fasiləsiz yandırmaq üçün.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "və sən"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "əmr edəcəksən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael oğulları"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "gətirsinlər"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "yağı"
+    },
+    {
+      "surface": "זית",
+      "gloss": "zeytun"
+    },
+    {
+      "surface": "זך",
+      "gloss": "təmiz"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "döyülmüş"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "çıraq üçün"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "yandırmaq üçün"
+    },
+    {
+      "surface": "נר",
+      "gloss": "çırağı"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "fasiləsiz"
+    }
+  ],
+  "timestamp": "2026-09-01T17:26:51.024799773Z",
+  "model": "glm-5.3"
+}

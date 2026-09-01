@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 23:4",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Utan, Sidon, çünki dəniz dedi — dənizin qalası ⟨belə⟩ dedi: Mən doğuş ağrısı çəkmədim, doğmadım, cavanları böyütmədim, bakirələri ⟨böyütməklə⟩ ucaltmadım.",
+  "tokens": [
+    {
+      "surface": "בושי",
+      "gloss": "utan"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Sidon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dəniz"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "qalası"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dənizin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "חלתי",
+      "gloss": "doğuş ağrısı çəkmədim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "doğmadım"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "böyütmədim"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "cavanları"
+    },
+    {
+      "surface": "רוממתי",
+      "gloss": "ucaltmadım"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "bakirələri"
+    }
+  ],
+  "timestamp": "2026-09-01T12:57:54.601633034Z",
+  "model": "glm-5.3"
+}

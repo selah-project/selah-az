@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 9:3",
+  "book": "job",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Əgər ⟨El⟩ onunla mübahisə etmək istəsə, min dəfənin birinə ⟨belə⟩ ona cavab verə bilməz.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Əgər"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "istəsə"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "mübahisə etmək"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cavab verə bilməz — yox"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "ona cavab verə bilməz"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "birinə"
+    },
+    {
+      "surface": "מני",
+      "gloss": "dəfənin — min"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "min"
+    }
+  ],
+  "timestamp": "2026-09-01T16:05:48.768756867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 98,
+  "translation": "Nara çəkin Yahveyə, bütün yer; coşub səslənin, sevinclə hayqırın və zəblə oxuyun.",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "nara çəkin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "coşub səslənin"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "sevinclə hayqırın"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "və zəblə oxuyun"
+    }
+  ],
+  "timestamp": "2026-09-01T17:42:24.602247545Z",
+  "model": "glm-5.3"
+}

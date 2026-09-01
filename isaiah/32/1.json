@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 32:1",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Bax, padşah ədalətlə hökm edəcək, sərdarlar isə mühakimə ilə hakimlik edəcəklər.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Bax"
+    },
+    {
+      "surface": "לצדק",
+      "gloss": "ədalətlə"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "hökm edəcək"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "sərdarlar isə"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "mühakimə ilə"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "hakimlik edəcəklər"
+    }
+  ],
+  "timestamp": "2026-09-01T12:59:41.361317106Z",
+  "model": "glm-5.3"
+}

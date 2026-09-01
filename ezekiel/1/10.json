@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 1:10",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Üzlərinin surəti ⟨belə idi⟩: insan üzü, dördünün sağ tərəfində şir üzü, dördünün sol tərəfində öküz üzü, və dördünün ⟨hər birinin⟩ qartal üzü.",
+  "tokens": [
+    {
+      "surface": "ודמות",
+      "gloss": "surəti"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "üzlərinin"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzü"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "şir üzü"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "şir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tərəfində"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "sağ"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "dördünün"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "öküz üzü"
+    },
+    {
+      "surface": "שור",
+      "gloss": "öküz"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "sol tərəfində"
+    },
+    {
+      "surface": "לארבעתן",
+      "gloss": "dördünün"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "qartal üzü"
+    },
+    {
+      "surface": "נשר",
+      "gloss": "qartal"
+    },
+    {
+      "surface": "לארבעתן",
+      "gloss": "dördünün"
+    }
+  ],
+  "timestamp": "2026-09-01T13:59:23.451090238Z",
+  "model": "glm-5.3"
+}

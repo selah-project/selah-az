@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 85,
+  "translation": "Hesed və əmət qarşılaşdı, ədalət və sülh öpüşdülər.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "Hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "və əmət"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "qarşılaşdı"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ədalət"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "və sülh"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "öpüşdülər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:27.540814683Z",
+  "model": "glm-5.3"
+}

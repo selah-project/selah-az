@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 10:2",
+  "book": "job",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Eloaha deyəcəyəm: məni məhkum etmə; mənə bildir ki, nə üçün mənimlə mübahisə edirsən.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "deyəcəyəm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ilə⟩"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloaha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-mə"
+    },
+    {
+      "surface": "תרשיעני",
+      "gloss": "məhkum et"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "bildir"
+    },
+    {
+      "surface": "על",
+      "gloss": "nə üçün ⟨üzerindən⟩"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "תריבני",
+      "gloss": "mənimlə mübahisə edirsən"
+    }
+  ],
+  "timestamp": "2026-09-01T16:08:01.179269115Z",
+  "model": "glm-5.3"
+}

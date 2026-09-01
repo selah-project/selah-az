@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 3:9",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və onun zinalığının yüngüllüyündən ⟨olla⟩ o, ⟨את⟩ torpağı murdarladı və daşla və ağacla zina etdi ⟨את⟩ daşın ⟨ilə⟩ və ⟨את⟩ ağacın ⟨ilə⟩.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "və oldu"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "yüngüllüyündən"
+    },
+    {
+      "surface": "זנותה",
+      "gloss": "onun zinalığı"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "o murdarladı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "torpağı"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "torpağı"
+    },
+    {
+      "surface": "ותנאף",
+      "gloss": "və zina etdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daş"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "daş"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "ağac"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ağac"
+    }
+  ],
+  "timestamp": "2026-09-01T18:00:27.965932803Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Sus, Yahve qarşısında, və ⟨ona⟩ ürəklə gözlə; onun yolunda uğur qazanana qəzəblənmə, şər hiylələr törədən adamdan ⟨qəzəblənmə⟩.",
+  "tokens": [
+    {
+      "surface": "דום",
+      "gloss": "sus"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve qarşısında"
+    },
+    {
+      "surface": "והתחולל",
+      "gloss": "və ürəklə gözlə"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ona⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "qətiyyən"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "qəzəblənmə"
+    },
+    {
+      "surface": "במצליח",
+      "gloss": "uğur qazanana"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "yolunda"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "adamdan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "törədən"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "şər hiylələr"
+    }
+  ],
+  "timestamp": "2026-09-01T17:41:40.669873297Z",
+  "model": "glm-5.3"
+}

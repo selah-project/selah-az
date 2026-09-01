@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 7:21",
+  "book": "job",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Və niyə üsyanımı yüksəltmirsən ⟨yəni⟩, ⟨niyə⟩ ⟨את⟩ günahımı ötəyib keçirmirsən? Çünki indi toz üçün uzanıram; səhər-səhər məni axtaracaqsan — mən isə olmayacağam.",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "və niyə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...mirsən"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "yüksəltmirsən"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "üsyanımı"
+    },
+    {
+      "surface": "ותעביר",
+      "gloss": "ötəyib keçirmirsən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "günahımı"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "günahımı"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "indi"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "toz üçün"
+    },
+    {
+      "surface": "אשכב",
+      "gloss": "uzanıram"
+    },
+    {
+      "surface": "ושחרתני",
+      "gloss": "səhər-səhər məni axtaracaqsan"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "mən isə olmayacağam"
+    }
+  ],
+  "timestamp": "2026-09-01T16:03:56.808918255Z",
+  "model": "glm-5.3"
+}

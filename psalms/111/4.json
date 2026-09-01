@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 111:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 111,
+  "translation": "Öz möcüzələrinə yadigar qoydu; lütfkar və rəhmli Yahve.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "yadigar"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qoydu"
+    },
+    {
+      "surface": "לנפלאתיו",
+      "gloss": "öz möcüzələrinə"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "lütfkar"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "və rəhmli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:16.027060151Z",
+  "model": "glm-5.3"
+}

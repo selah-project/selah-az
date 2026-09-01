@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 20:18",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Və o dedi: Əgər sülh üçün çıxıblarsa, onları diri tutun; əgər döyüş üçün çıxıblarsa, ⟨yenə də⟩ diri tutun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Və o dedi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "sülh üçün"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "çıxıblarsa"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "onları tutun"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "diri"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "əgər də"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "döyüş üçün"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "çıxıblarsa"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "diri"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "tutun"
+    }
+  ],
+  "timestamp": "2026-09-01T12:24:55.739283569Z",
+  "model": "glm-5.3"
+}

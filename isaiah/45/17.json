@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 45:17",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 45,
+  "translation": "İsrail Yahve tərəfindən xilas olunub, əbədi xilaslaşma ilə; utanmayacaqsınız və məyus olmayacaqsınız əbədi ələmlərə qədər.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "xilas olunub"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahve tərəfindən"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "xilaslaşma"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תבשו",
+      "gloss": "utanmayacaqsınız"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "תכלמו",
+      "gloss": "məyus olmayacaqsınız"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "עולמי",
+      "gloss": "ələmlərə"
+    },
+    {
+      "surface": "עד",
+      "gloss": "əbədi"
+    }
+  ],
+  "timestamp": "2026-09-01T13:11:20.229934627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 2:17",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və insanın təkəbbürü əyiləcək, adamların ucalığı alçaldılacaq, və Yahve yalnız ⟨o⟩ gün ucaldılacaq.",
+  "tokens": [
+    {
+      "surface": "ושח",
+      "gloss": "əyiləcək"
+    },
+    {
+      "surface": "גבהות",
+      "gloss": "təkəbbürü"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insanın"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "alçaldılacaq"
+    },
+    {
+      "surface": "רום",
+      "gloss": "ucalığı"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "adamların"
+    },
+    {
+      "surface": "ונשגב",
+      "gloss": "ucaldılacaq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yalnız ⟨o⟩"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-09-01T12:45:02.170683012Z",
+  "model": "glm-5.3"
+}

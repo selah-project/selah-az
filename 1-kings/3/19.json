@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 3:19",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və bu qadının oğlu gecə öldü, çünki o, onun üstünə uzanmışdı.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "və öldü"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "qadının"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "gecə"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "שכבה",
+      "gloss": "uzanmışdı"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üstünə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:10:41.920653445Z",
+  "model": "glm-5.3"
+}

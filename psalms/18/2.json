@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 18:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Və dedi: Səni ürəklə sevirəm, ey Yahve, qüvvətim ⟨mənimdir⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Və dedi"
+    },
+    {
+      "surface": "ארחמך",
+      "gloss": "Səni ürəklə sevirəm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "qüvvətim"
+    }
+  ],
+  "timestamp": "2026-09-01T15:05:18.141938770Z",
+  "model": "glm-5.3"
+}

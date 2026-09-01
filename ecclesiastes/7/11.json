@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Hikmət mirasla birlikdə yaxşıdır və günəşi görənlər üçün fayda verir.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "yaxşıdır"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmət"
+    },
+    {
+      "surface": "עם",
+      "gloss": "birlikdə"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "mirasla"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "fayda verir"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "görənlər üçün"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "günəşi"
+    }
+  ],
+  "timestamp": "2026-09-01T16:30:58.869307981Z",
+  "model": "glm-5.3"
+}

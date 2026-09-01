@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 21:32",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Əgər öküz qul və ya kənizi vursa — otuz şekel gümüş ağasına versin, öküz isə daşqalaq edilsin.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "qul"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "vursa"
+    },
+    {
+      "surface": "השור",
+      "gloss": "öküz"
+    },
+    {
+      "surface": "או",
+      "gloss": "və ya"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "kənizi"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "otuz"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "şekel"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "versin"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "ağasına"
+    },
+    {
+      "surface": "והשור",
+      "gloss": "öküz isə"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "daşqalaq edilsin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:15:56.139734511Z",
+  "model": "glm-5.3"
+}

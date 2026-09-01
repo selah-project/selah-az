@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 16:5",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Yahve üçün iyrəncdir hər qürurlu ürək ⟨insan⟩; əl ələ verilsə ⟨belə⟩, o cəzasız qalmayacaq.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "iyrənc"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "qürurlu"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ürək"
+    },
+    {
+      "surface": "יד",
+      "gloss": "əl"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "ələ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "cəzasız qalmayacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:54:12.697276380Z",
+  "model": "glm-5.3"
+}

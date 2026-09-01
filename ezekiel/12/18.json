@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 12:18",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "İnsan oğlu, çörəyini titrəyərək yeyəcəksən və suyunu hirslə və qorxu içində içəcəksən.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "çörəyini"
+    },
+    {
+      "surface": "ברעש",
+      "gloss": "titrəyərək"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yeyəcəksən"
+    },
+    {
+      "surface": "ומימיך",
+      "gloss": "və suyunu"
+    },
+    {
+      "surface": "ברגזה",
+      "gloss": "hirslə"
+    },
+    {
+      "surface": "ובדאגה",
+      "gloss": "və qorxu ilə"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "içəcəksən"
+    }
+  ],
+  "timestamp": "2026-09-01T14:04:45.804826239Z",
+  "model": "glm-5.3"
+}

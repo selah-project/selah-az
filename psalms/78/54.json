@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "psalms 78:54",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 78,
+  "translation": "Və onları müqəddəs sərhədinə gətirdi, ⟨⟨sağ əlinin⟩⟩ əldə etdiyi bu dağa.",
+  "tokens": [
+    {
+      "surface": "ויביאם",
+      "gloss": "gətirdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə doğru"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "sərhədinə"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dağa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "קנתה",
+      "gloss": "əldə etdiyi"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "onun sağ əli"
+    }
+  ],
+  "timestamp": "2026-09-01T15:26:45.258716304Z",
+  "model": "glm-5.3"
+}

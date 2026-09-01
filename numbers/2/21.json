@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 2:21",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "və onun ordusu və sayılmışları iki otuz iki min iki yüz ⟨idi⟩",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "və onun ordusu"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "və sayılmışları"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iki"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "otuz"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "min"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "iki yüz"
+    }
+  ],
+  "timestamp": "2026-09-01T10:32:38.159228006Z",
+  "model": "glm-5.3"
+}

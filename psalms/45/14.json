@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 45:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 45,
+  "translation": "Şahın qızının bütün şöhrəti daxildədir; qızıl işləmələrdən ⟨onun⟩ geyimi ⟨var⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "כבודה",
+      "gloss": "şöhrəti"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qızı"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "şahın"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "daxildə"
+    },
+    {
+      "surface": "ממשבצות",
+      "gloss": "işləmələrdən"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "qızıl"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "geyimi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:16:31.626999388Z",
+  "model": "glm-5.3"
+}

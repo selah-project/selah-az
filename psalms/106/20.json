@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 106,
+  "translation": "Və öz izzətlərini ⟨את⟩ ot yeyən öküzün surətinə dəyişdilər.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "dəyişdilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öz izzətlərini"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "izzətlərini"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "surətinə"
+    },
+    {
+      "surface": "שור",
+      "gloss": "öküzün"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yeyən"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ot"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:20.054250257Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 17:5",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Və Assur padşahı bütün ölkə boyunca yürüdüb qalxdı və Şomrona qalxdı və onun üstünə üç il mühasirə qurdu.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "qalxdı"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ölkə"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "qalxdı"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Şomron"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "mühasirə qurdu"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "onun üstünə"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "üç"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "il"
+    }
+  ],
+  "timestamp": "2026-09-01T12:39:44.771380327Z",
+  "model": "glm-5.3"
+}

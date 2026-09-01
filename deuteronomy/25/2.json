@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 25:2",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Və belə olsun: əgər haqsız döyülməyi qazanmışsa, hakim onu yıqdır — üzü aşırsın onu, haqsızlığı qədər — sayı ilə.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "və belə olsun"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "בן",
+      "gloss": "qazanmışsa (layiqdirsə)"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "döyülməyi"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "haqsız"
+    },
+    {
+      "surface": "והפילו",
+      "gloss": "yıqdır —"
+    },
+    {
+      "surface": "השפט",
+      "gloss": "hakim"
+    },
+    {
+      "surface": "והכהו",
+      "gloss": "aşırsın onu"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "üzü (önündə)"
+    },
+    {
+      "surface": "כדי",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "רשעתו",
+      "gloss": "haqsızlığı"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "sayı ilə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:54:08.312759830Z",
+  "model": "glm-5.3"
+}

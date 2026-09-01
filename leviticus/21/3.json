@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "və bacısı — ona yaxın olan bakirə, kişi olmamış — üçün murdarlansın.",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "və bacısı"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "bakirə"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "yaxın olan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kim ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "olub"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kişiyə"
+    },
+    {
+      "surface": "לה",
+      "gloss": "onun üçün"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "murdarlansın"
+    }
+  ],
+  "timestamp": "2026-09-01T10:29:35.420917048Z",
+  "model": "glm-5.3"
+}

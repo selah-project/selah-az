@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 46:11",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 46,
+  "translation": "Şərqdən yırtıcı quşu, uzaq ölkədən məşvərətim adamını çağırıram; bəli, danışdım, bəli gətirəcəyəm onu; bəli form verdim, bəli edəcəyəm onu.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "çağırıram"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "şərqdən"
+    },
+    {
+      "surface": "עיט",
+      "gloss": "yırtıcı quşu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ölkədən"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "uzaq"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamını"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "məşvərətim"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bəli"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "danışdım"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bəli"
+    },
+    {
+      "surface": "אביאנה",
+      "gloss": "gətirəcəyəm"
+    },
+    {
+      "surface": "יצרתי",
+      "gloss": "form verdim"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bəli"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "edəcəyəm"
+    }
+  ],
+  "timestamp": "2026-09-01T13:09:19.652864413Z",
+  "model": "glm-5.3"
+}

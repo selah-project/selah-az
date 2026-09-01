@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Yahve payımdır, ölçülmüş hissəm və kasamdır; sənsən qismətimi saxlayan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "ölçülmüş pay"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "hissəm (irsim)"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "və kasam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "saxlayan"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "qismətim"
+    }
+  ],
+  "timestamp": "2026-09-01T15:04:36.303577139Z",
+  "model": "glm-5.3"
+}

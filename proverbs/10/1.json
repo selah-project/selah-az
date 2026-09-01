@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 10:1",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Şelomonun məsəlləri. Müdrik oğul atanı sevindirir, amma kəsil oğul anasının kədəridir.",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "məsəlləri"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomonun"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "müdrik"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "sevindirir"
+    },
+    {
+      "surface": "אב",
+      "gloss": "atanı"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "amma oğul"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "kəsil"
+    },
+    {
+      "surface": "תוגת",
+      "gloss": "kədəridir"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "anasının"
+    }
+  ],
+  "timestamp": "2026-09-01T15:50:59.859539055Z",
+  "model": "glm-5.3"
+}

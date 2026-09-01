@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 60:3",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 60,
+  "translation": "Və xalqlar işığına gedəcəklər, və padşahlar doğanın parıltısına.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "Və ... gedəcəklər"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "לאורך",
+      "gloss": "işığına"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "və padşahlar"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "parıltısına"
+    },
+    {
+      "surface": "זרחך",
+      "gloss": "doğanın"
+    }
+  ],
+  "timestamp": "2026-09-01T13:18:17.477404242Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 130,
+  "translation": "Məqam nəğməsi. Dərinliklərdən Sənə səsləndim, ya Yahve.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "nəğməsi"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "Məqam"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "Dərinliklərdən"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "Sənə səsləndim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:14.674173800Z",
+  "model": "glm-5.3"
+}

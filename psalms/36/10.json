@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 36,
+  "translation": "Çünki sənin yanındadır həyatın mənbəyi, sənin işığında işığı görəcəyik.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sənin yanında"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "mənbəyi"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "həyatın"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "sənin işığında"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "görəcəyik"
+    },
+    {
+      "surface": "אור",
+      "gloss": "işığı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:10:47.780236902Z",
+  "model": "glm-5.3"
+}

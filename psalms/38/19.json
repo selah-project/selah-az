@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 38:19",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 38,
+  "translation": "Çünki günahımı bildirirəm, günahımdan qorxub nigaranam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "günahımı"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "bildirirəm"
+    },
+    {
+      "surface": "אדאג",
+      "gloss": "nigaranam"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "günahımdan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:13:14.569643102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 62,
+  "translation": "Və səninlədir, ey Adonay, hesed (sadiq mərhəmət); çünki sən hər insana əməlinə görə əvəzini ödəyirsən.",
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "və səninlədir"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "ödəyirsən"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "hər insana"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "əməlinə görə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:19:42.271606281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 148,
+  "translation": "Və onları əbədi, sonsuzadək saxladı; qanun qoydu və ⟨o⟩ keçəcək.",
+  "tokens": [
+    {
+      "surface": "ויעמידם",
+      "gloss": "saxladı"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuzadək"
+    },
+    {
+      "surface": "חק",
+      "gloss": "qanun"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "qoydu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və olmaz"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "keçəcək"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:30.102618833Z",
+  "model": "glm-5.3"
+}

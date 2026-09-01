@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 79,
+  "ref": "psalms 119:79",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Sənə qorxu ilə bağlı olanlar mənə qayıtsınlar və ⟨onlar⟩ Sənin şəhadətlərini bilsinlər.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "qayıtsınlar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "יראיך",
+      "gloss": "Sənə qorxu ilə bağlı olanlar"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "və bilsinlər"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "şəhadətlərini"
+    }
+  ],
+  "timestamp": "2026-09-01T15:41:22.301321547Z",
+  "model": "glm-5.3"
+}

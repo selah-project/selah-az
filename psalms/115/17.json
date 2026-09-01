@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 115,
+  "translation": "Ölülər Yahi tərifi etməzlər, sükuta enənlərin heç biri ⟨də⟩ ⟨yox⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "ölülər"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "tərifi edərlər"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heç biri"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "enənlərin"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "sükut"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:29.488295393Z",
+  "model": "glm-5.3"
+}

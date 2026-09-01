@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 42,
+  "translation": "və bildirsin bizə Yahve, Elohimin, ⟨את⟩ yolu ki, onunla gedək, və ⟨את⟩ sözü ki, edək.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "və bildirsin"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yolu"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "yolu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "gedək"
+    },
+    {
+      "surface": "בה",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "sözü"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sözü"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "edək"
+    }
+  ],
+  "timestamp": "2026-09-01T13:50:20.063412247Z",
+  "model": "glm-5.3"
+}

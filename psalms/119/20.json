@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Canım arzu içində əzilir, sənin hökmlərinə ⟨⟨hər⟩⟩ vaxt.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "əzilir"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "arzu içində"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨⟩"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "hökmlərinə"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vaxt"
+    }
+  ],
+  "timestamp": "2026-09-01T17:43:30.559902717Z",
+  "model": "glm-5.3"
+}

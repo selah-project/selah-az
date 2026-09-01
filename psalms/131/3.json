@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 131,
+  "translation": "İsrail Yahveyə ümid etsin, bu andan əbədiyə qədər.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "ümid etsin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-yə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "bu andan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "əbədiyə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:13.497209568Z",
+  "model": "glm-5.3"
+}

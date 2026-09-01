@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 8:14",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "İsrael Yaradanını ⟨את⟩ unutdu və saraylar tikdi; Yehuda möhkəm şəhərləri çoxaltdı; Mən onun şəhərlərinə od göndərəcəyəm və ⟨o⟩ onun qalalarını yeyib bitirəcək.",
+  "tokens": [
+    {
+      "surface": "וישכח",
+      "gloss": "və unutdu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaradanını"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "Yaradanını"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "və tikdi"
+    },
+    {
+      "surface": "היכלות",
+      "gloss": "saraylar"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "və Yehuda"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "çoxaltdı"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "şəhərləri"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "möhkəm"
+    },
+    {
+      "surface": "ושלחתי",
+      "gloss": "və göndərəcəyəm"
+    },
+    {
+      "surface": "אש",
+      "gloss": "od"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "onun şəhərlərinə"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "və yeyib bitirəcək"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "onun qalalarını"
+    }
+  ],
+  "timestamp": "2026-09-01T14:35:44.652317108Z",
+  "model": "glm-5.3"
+}

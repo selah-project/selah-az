@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 4:2",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və bunlar onun ⟨olan⟩ sərləri ⟨idi⟩: Azaryahu bin Tsadok, kahin.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "və bunlar"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "sərlər"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨olan⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onun"
+    },
+    {
+      "surface": "עזריהו",
+      "gloss": "Azaryahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    }
+  ],
+  "timestamp": "2026-09-01T12:10:29.498439012Z",
+  "model": "glm-5.3"
+}

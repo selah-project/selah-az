@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və o, başqa yeddi gün gözlədi və göyərçini ⟨את⟩ sandıqdan göndərməyə davam etdi.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "və gözlədi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "daha"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "yeddi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "başqa"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "və davam etdi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "göndərməyə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "göyərçini"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "göyərçini"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "sandıqdan"
+    }
+  ],
+  "timestamp": "2026-09-01T09:47:06.011913697Z",
+  "model": "glm-5.3"
+}

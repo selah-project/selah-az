@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 116,
+  "translation": "İman gətirdim, çünki ⟨mən⟩ danışıram; mən çox əzilmişəm.",
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "iman gətirdim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "danışıram"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "əzilmişəm"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çox"
+    }
+  ],
+  "timestamp": "2026-09-01T17:42:35.012566929Z",
+  "model": "glm-5.3"
+}

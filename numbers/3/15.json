@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 3:15",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Levi oğullarını ata evlərinə görə, ailələrinə görə say — bir aylıq oğlandan yuxarı hər erkəyi onları sayacaqsan.",
+  "tokens": [
+    {
+      "surface": "פקד",
+      "gloss": "say"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Levi oğullarını"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "evlərinə görə"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ata"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ailələrinə görə"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "erkəyi"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "oğlandan"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "aylıq"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "yuxarı"
+    },
+    {
+      "surface": "תפקדם",
+      "gloss": "onları sayacaqsan"
+    }
+  ],
+  "timestamp": "2026-09-01T10:33:18.863060508Z",
+  "model": "glm-5.3"
+}

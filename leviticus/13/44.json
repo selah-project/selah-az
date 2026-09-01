@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 13:44",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "O, cüzamlı bir adamdır, o, murdardır; Kohen onu mütləq murdar elan edəcək — onun yarası başındadır.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "cüzamlı"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o⟩dur"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "murdar"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "murdar"
+    },
+    {
+      "surface": "יטמאנו",
+      "gloss": "murdar elan edəcək onu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Kohen"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "başında"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "onun yarası"
+    }
+  ],
+  "timestamp": "2026-09-01T10:25:54.909983649Z",
+  "model": "glm-5.3"
+}

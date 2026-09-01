@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 27:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Əgər ⟨mənim⟩ əleyhimə düşərgə salsalar, ürəyim qorxmayacaq; əgər ⟨mənim⟩ əleyhimə müharibə qalxarsa, mən ⟨buna⟩ etibar edirəm.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "düşərgə salsa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mənim əleyhimə"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "düşərgə (ordu)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "qorxacaq"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ürəyim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "qalxsa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mənim əleyhimə"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "müharibə"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "buna"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "etibar edirəm"
+    }
+  ],
+  "timestamp": "2026-09-01T18:01:59.947125448Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 18:21",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Şər adam bütün günahlarından, ki etdiyi, qayıtsa və bütün qanunlarımı ⟨את⟩ saxlasa və məhkəmət və ədalət etsə — yaşaya-yaşayacaq, ölməyəcək.",
+  "tokens": [
+    {
+      "surface": "והרשע",
+      "gloss": "şər adam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "qayıtsa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bütün...dan"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "günahlarından"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etdiyi"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "saxlasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün qanunlarımı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "qanunlarımı"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "etsə"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "məhkəmət"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "və ədalət"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "yaşaya"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "yaşayacaq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ölməyəcək"
+    }
+  ],
+  "timestamp": "2026-09-01T14:11:55.271559015Z",
+  "model": "glm-5.3"
+}

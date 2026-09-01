@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 21:30",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Yahveyə qarşı hikmət yoxdur, anlayış yoxdur və məsləhət yoxdur.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmət"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "yoxdur və"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "anlayış"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "yoxdur və"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "məsləhət"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "qarşı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T15:56:48.003222929Z",
+  "model": "glm-5.3"
+}

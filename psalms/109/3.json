@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 109,
+  "translation": "Və nifrət sözləri ilə məni mühasirəyə aldılar, mənimlə səbəbsiz döyüşdülər.",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "və sözləri"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "nifrət"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "məni mühasirəyə aldılar"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "mənimlə döyüşdülər"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "səbəbsiz"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:13.602107210Z",
+  "model": "glm-5.3"
+}

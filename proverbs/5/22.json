@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 5:22",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Onun öz şər əməlləri pisdüzeni yaxalayar, ⟨את⟩, və öz günahının kəndirlərində o, tutulub qalar.",
+  "tokens": [
+    {
+      "surface": "עוונותיו",
+      "gloss": "onun şər əməlləri"
+    },
+    {
+      "surface": "ילכדנו",
+      "gloss": "onu yaxalayar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pisdüzeni"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "pisdüzen"
+    },
+    {
+      "surface": "ובחבלי",
+      "gloss": "və kəndirlərində"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "onun günahının"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "tutulub qalar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:48:01.803865354Z",
+  "model": "glm-5.3"
+}

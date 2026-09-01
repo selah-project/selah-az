@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "O zaman yolunla əmin-amanlıqla gedəcəksən və ayağın toxunub düşməyəcək.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "o zaman"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "gedəcəksən"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "əmin-amanlıqla"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "yolunla"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "və ayağın"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "toxunub düşməyəcək"
+    }
+  ],
+  "timestamp": "2026-09-01T15:48:00.224468155Z",
+  "model": "glm-5.3"
+}

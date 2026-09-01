@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Şigayon — Davidə aiddir, o, Yahveyə Kush ben-Yemini haqqında ⟨olan⟩ sözlər üzərinə oxudu.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "Şigayon (əzilmiş ürəklə oxunan şeir)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidə aiddir"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o"
+    },
+    {
+      "surface": "שר",
+      "gloss": "oxudu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözlər"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "Yemini (Benyaminli)"
+    }
+  ],
+  "timestamp": "2026-09-01T15:02:21.068169636Z",
+  "model": "glm-5.3"
+}

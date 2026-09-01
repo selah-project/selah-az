@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Və torpaq murdarlandı, və mən onun üstünə onun günahını cəzalandırdım, və torpaq öz sakinlərini ⟨את⟩ qusdu.",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "və murdarlandı"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "torpaq"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "və mən cəzalandırdım"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "onun günahı"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "onun üstünə"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "və qusdu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "torpaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öz sakinlərini"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "sakinlərini"
+    }
+  ],
+  "timestamp": "2026-09-01T10:27:53.335368742Z",
+  "model": "glm-5.3"
+}

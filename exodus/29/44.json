@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 29:44",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "Və ⟨את⟩ görüş çadırını və ⟨את⟩ altarı müqəddəsləşdirəcəyəm, və ⟨את⟩ Aharonu və ⟨את⟩ oğullarını mənə kahinlik etmək üçün müqəddəsləşdirəcəyəm.",
+  "tokens": [
+    {
+      "surface": "וקדשתי",
+      "gloss": "və müqəddəsləşdirəcəyəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "görüş çadırı"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadır"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "görüş"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "altar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oğulları"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "אקדש",
+      "gloss": "müqəddəsləşdirəcəyəm"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kahinlik etmək üçün"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:18:17.336084219Z",
+  "model": "glm-5.3"
+}

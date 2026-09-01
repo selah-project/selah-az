@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 101:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 101,
+  "translation": "Gözümün qarşısına eyyətsiz iş qoymayacağam. Azğınların əməllərindən nifrət edirəm, mənə yapışmayacaq.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "qoymayacağam (neqasiya)"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "qoymayacağam"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "qarşısına"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözümün"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "iş"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "eyyətsiz"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "əməllərindən"
+    },
+    {
+      "surface": "סטים",
+      "gloss": "azğınların"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "nifrət edirəm"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "yapışmayacaq"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mənə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:34:44.053393273Z",
+  "model": "glm-5.3"
+}

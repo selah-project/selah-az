@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 6:15",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Utanmalı oldular, çünki iyrənc iş gördülər; amma utanalı da olmadılar, alçalmagı da bilmədilər; buna görə düşənlər arasında düşəcəklər — onları yoxladığım vaxt özüləcəklər, — deyir Yahve.",
+  "tokens": [
+    {
+      "surface": "הבישו",
+      "gloss": "utanmalı oldular"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "iyrənc iş"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gördülər"
+    },
+    {
+      "surface": "גם",
+      "gloss": "amma"
+    },
+    {
+      "surface": "בוש",
+      "gloss": "utanalı"
+    },
+    {
+      "surface": "לא",
+      "gloss": "olmadılar"
+    },
+    {
+      "surface": "יבושו",
+      "gloss": "utanmayacaqlar"
+    },
+    {
+      "surface": "גם",
+      "gloss": "amma"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "alçalmagı"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bilmədilər"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "buna görə"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "düşəcəklər"
+    },
+    {
+      "surface": "בנפלים",
+      "gloss": "düşənlər arasında"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "vaxt"
+    },
+    {
+      "surface": "פקדתים",
+      "gloss": "onları yoxladığım"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "özüləcəklər"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T13:24:48.498211219Z",
+  "model": "glm-5.3"
+}

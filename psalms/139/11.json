@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 139,
+  "translation": "Və dedim: yalnız qaranlıq məni örtər, gecə də mənim ətrafımda işıq olar.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "və dedim"
+    },
+    {
+      "surface": "אך",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "qaranlıq"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "məni örtər"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "gecə də"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ışıq"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "mənim ətrafımda"
+    }
+  ],
+  "timestamp": "2026-09-01T15:44:18.511411420Z",
+  "model": "glm-5.3"
+}

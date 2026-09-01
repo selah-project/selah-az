@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 3:9",
+  "book": "daniel",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Cavab verdilər və Nevuxadnəssər padşaha dedilər: ey padşah, əbədlərə yaşa!",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Cavab verdilər"
+    },
+    {
+      "surface": "ואמרין",
+      "gloss": "və dedilər"
+    },
+    {
+      "surface": "לנבוכדנצר",
+      "gloss": "Nevuxadnəssərə"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "padşaha"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ey padşah"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "əbədlərə"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "yaşa"
+    }
+  ],
+  "timestamp": "2026-09-01T16:40:09.498421384Z",
+  "model": "glm-5.3"
+}

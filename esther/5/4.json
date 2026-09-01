@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 5:4",
+  "book": "esther",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Ester dedi: Əgər padşahın gözündə yaxşıdırsa, padşah və Haman bu gün onun üçün hazırladığım ziyafətə gəlsin.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "על",
+      "gloss": "gözündə"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşahın"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşıdırsa"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "gəlsin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "və Haman"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bu gün"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "ziyafət"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "hazırladığım"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onun üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T16:35:58.116678063Z",
+  "model": "glm-5.3"
+}

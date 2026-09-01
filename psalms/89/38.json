@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 89,
+  "translation": "Ay kimi ⟨o⟩ əbədi təsbit olunacaq, və şəfaqdəki şahid sadiqdir. Selah.",
+  "tokens": [
+    {
+      "surface": "כירח",
+      "gloss": "ay kimi"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "təsbit olunacaq"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "və şahid"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "şəfaqda(ki)"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "sadiqdir"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:29.807245239Z",
+  "model": "glm-5.3"
+}

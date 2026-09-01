@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 79,
+  "translation": "Onların qanını su kimi Yeruşalayimin ətrafına tökdülər, dəfn edən ⟨yoxdur⟩.",
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "tökdülər"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "onların qanını"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "su kimi"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "ətrafına"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayimin"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "və yoxdur"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "dəfn edən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:28:41.536413646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 11:7",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Və mənim xalqım qayıtmağım ⟨barədə⟩ sallanıb qərarsızdır; ona Yücə Olan tərəfindən çağırış olsa da, birlikdə yüksəltməzlər ⟨onu⟩.",
+  "tokens": [
+    {
+      "surface": "ועמי",
+      "gloss": "və mənim xalqım"
+    },
+    {
+      "surface": "תלואים",
+      "gloss": "sallanıb qərarsızdır"
+    },
+    {
+      "surface": "למשובתי",
+      "gloss": "qayıtmağım barədə"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "-a doğru"
+    },
+    {
+      "surface": "על",
+      "gloss": "Yücə Olan"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "ona çağırış olsa"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "birlikdə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ירומם",
+      "gloss": "yüksəltməzlər"
+    }
+  ],
+  "timestamp": "2026-09-01T14:37:20.589881183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 21:22",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "və ⟨את⟩ sənin evini Yarovam, Nevat oğlunun evi kimi, və Başa, Axiya oğlunun evi kimi edəcəyəm — sənin qəzəbləndirdiyin qəzəbə görə, və İsrailə ⟨את⟩ günah etdirdin.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "və edəcəyəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sənin evini"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "sənin evini"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "evi kimi"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "və evi kimi"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Bşa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Axiya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨qəzəbə görə⟩"
+    },
+    {
+      "surface": "הכעס",
+      "gloss": "qəzəbləndirdiyin qəzəb"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ki⟩"
+    },
+    {
+      "surface": "הכעסת",
+      "gloss": "qəzəbləndirdin"
+    },
+    {
+      "surface": "ותחטא",
+      "gloss": "və günah etdirdin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsrailə"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    }
+  ],
+  "timestamp": "2026-09-01T12:23:51.456549949Z",
+  "model": "glm-5.3"
+}

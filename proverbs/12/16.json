@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 12:16",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Ağılsızın qəzəbi elə gündəcə bəlli olur, utancı örtən isə ehtiyatlıdır.",
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "ağılsızın"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gündə"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "bəlli olur"
+    },
+    {
+      "surface": "כעסו",
+      "gloss": "qəzəbi"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "və örtən"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "utanc"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "ehtiyatlıdır"
+    }
+  ],
+  "timestamp": "2026-09-01T15:52:50.174860452Z",
+  "model": "glm-5.3"
+}

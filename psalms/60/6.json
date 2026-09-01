@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 60,
+  "translation": "Səndən qorxanlara nəsan verdin, doğruluq üzündən ucaldılsın. Selah.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "verdın"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "səndən qorxanlara"
+    },
+    {
+      "surface": "נס",
+      "gloss": "nəsan"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "ucaldılsın"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "üzündən"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "doğruluq"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T15:20:43.800121869Z",
+  "model": "glm-5.3"
+}

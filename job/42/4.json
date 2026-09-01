@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 42:4",
+  "book": "job",
+  "lang": "az",
+  "chapter": 42,
+  "translation": "Eşit, xahiş edirəm, mən danışacağam; səndən soruşacağam, mənə bildir.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "eşit"
+    },
+    {
+      "surface": "נא",
+      "gloss": "xahiş edirəm"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "mən"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "danışacağam"
+    },
+    {
+      "surface": "אשאלך",
+      "gloss": "səndən soruşacağam"
+    },
+    {
+      "surface": "והודיעני",
+      "gloss": "mənə bildir"
+    }
+  ],
+  "timestamp": "2026-09-01T16:20:42.303043753Z",
+  "model": "glm-5.3"
+}

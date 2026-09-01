@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 4:7",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və dedi: Əlini yenidən qoynuna qaytar. O, əlini qoynuna qaytardı, qoynundan çıxartdı — bax, əti kimi bərpa olunmuşdu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "השב",
+      "gloss": "qaytar"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "əlini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yenidən ... -a"
+    },
+    {
+      "surface": "חיקך",
+      "gloss": "qoynuna"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "və qaytardı"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "əlini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "חיקו",
+      "gloss": "qoynuna"
+    },
+    {
+      "surface": "ויוצאה",
+      "gloss": "və çıxartdı"
+    },
+    {
+      "surface": "מחיקו",
+      "gloss": "qoynundan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "bərpa olunmuşdu \/ qayıtmışdı"
+    },
+    {
+      "surface": "כבשרו",
+      "gloss": "əti kimi"
+    }
+  ],
+  "timestamp": "2026-09-01T10:05:04.480025461Z",
+  "model": "glm-5.3"
+}

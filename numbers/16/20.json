@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 16:20",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Və Yahve Moşeyə və Ahrona danışdı, deyə:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "və danışdı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "→"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşeyə"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və →"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahrona"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:38:54.415027989Z",
+  "model": "glm-5.3"
+}

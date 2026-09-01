@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 3:18",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və ⟨belə⟩ oldu: mənim doğduğum üçüncü gündə bu qadın da doğdu, və biz birlikdə ⟨idik⟩ — evdə bizimlə ⟨את⟩ yad adam yox idi, biz ikimizdən başqa, evdə.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "və ⟨belə⟩ oldu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gündə"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "üçüncü"
+    },
+    {
+      "surface": "ללדתי",
+      "gloss": "mənim doğduğum"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "və doğdu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "da"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "qadın"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "və biz"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "birlikdə"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yox idi"
+    },
+    {
+      "surface": "זר",
+      "gloss": "yad adam"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ bizimlə",
+      "marks": "yad adam"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "evdə"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "başqa"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "iki"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "biz"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "evdə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:10:41.920505998Z",
+  "model": "glm-5.3"
+}

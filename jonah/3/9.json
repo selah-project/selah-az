@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 3:9",
+  "book": "jonah",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Kim bilir? ⟨O⟩ qayıdacaq və Elohim peşman olacaq, qəzəb burununun coşqusundan dönəcək, və biz məhv olmayacıq.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "bilir"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "qayıdacaq"
+    },
+    {
+      "surface": "ונחם",
+      "gloss": "və peşman olacaq"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "və dönəcək"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "coşqusundan"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "qəzəb burununun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... olmayacaq"
+    },
+    {
+      "surface": "נאבד",
+      "gloss": "məhv olmayacıq"
+    }
+  ],
+  "timestamp": "2026-09-01T14:44:55.956568436Z",
+  "model": "glm-5.3"
+}

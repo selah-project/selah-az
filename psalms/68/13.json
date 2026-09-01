@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 68:13",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 68,
+  "translation": "Orduların kralları qaçdılar, qaçdılar, evin ⟨sakin⟩ qadını isə qəniməti bölüşdürür.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "kralları"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "orduların"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "qaçdılar"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "qaçdılar"
+    },
+    {
+      "surface": "ונות",
+      "gloss": "və ⟨sakin⟩ qadını"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "bölüşdürür"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "qəniməti"
+    }
+  ],
+  "timestamp": "2026-09-01T15:23:32.649217459Z",
+  "model": "glm-5.3"
+}

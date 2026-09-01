@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 43:3",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 43,
+  "translation": "Çünki mən Yahve, sənin Elohimin, Yisraelin Qədusi, sənin Xilaskarın ⟨am⟩; sənin qədrini (fidyəni) Mitsrayim olaraq verdim, Kuş və Səva sənin əvəzinə.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sənin Elohimin"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Qədus (Müqəddəs)"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraelin"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "sənin Xilaskarın"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "verdim"
+    },
+    {
+      "surface": "כפרך",
+      "gloss": "sənin fidyəni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuş"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "və Səva"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "sənin əvəzinə"
+    }
+  ],
+  "timestamp": "2026-09-01T13:08:20.711252125Z",
+  "model": "glm-5.3"
+}

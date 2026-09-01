@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Moşe ⟨את⟩ qaynatasını yola saldı, o isə öz ölkəsinə getdi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yola saldı"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qaynatasını"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "qaynatası"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "getdi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨yolu ilə⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "öz ölkəsinə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:10:46.586981420Z",
+  "model": "glm-5.3"
+}

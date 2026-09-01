@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 3:4",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və ⟨את⟩ iki böyrəyi, ⟨את⟩ onların üstündəki, belə tərəflərdə olan yağı, ⟨את⟩ qaraciyərin üstündəki artımı — böyrəklərin yanında onu çıxartsın.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "iki böyrəyi"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iki"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "böyrəyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "yağı"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "yağı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki, olan"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "onların üstündəki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki, olan"
+    },
+    {
+      "surface": "על",
+      "gloss": "-də"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "bel tərəflərində"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "artımı"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "artımı"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündəki"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "qaraciyərin"
+    },
+    {
+      "surface": "על",
+      "gloss": "yanında"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "böyrəklərin"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "çıxartsın onu"
+    }
+  ],
+  "timestamp": "2026-09-01T10:22:48.627420192Z",
+  "model": "glm-5.3"
+}

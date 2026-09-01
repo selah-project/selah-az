@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 11:45",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Çünki Mən Yahveyəm — sizi Mitsrayim torpağından çıxaran, sizə Elohim olmaq üçün ⟨sizi çıxaran⟩; müqəddəs olacaqsınız, çünki Mən müqəddəsəm.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveyəm"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "çıxaran"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "çıxaran fellərinin mübtədası — 2-ci cəm şəxs əvəzliyi"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "torpağından"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "להית",
+      "gloss": "olmaq üçün"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizə"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "olacaqsınız"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "müqəddəsəm"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mən"
+    }
+  ],
+  "timestamp": "2026-09-01T10:24:21.556224351Z",
+  "model": "glm-5.3"
+}

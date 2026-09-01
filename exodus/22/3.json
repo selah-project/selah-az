@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Əgər oğurluq onun əlində tapılsa — canlı ⟨mal⟩, öküzdən eşşəyə qədər, qoyuna qədər — ikiqat ödəyəcək.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Əgər"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "tapılsa ki"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "tapılsa"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "onun əlində"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "oğurluq"
+    },
+    {
+      "surface": "משור",
+      "gloss": "öküzdən"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "eşşəyə"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "שה",
+      "gloss": "qoyun"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "canlı"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ikiqat"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ödəyəcək"
+    }
+  ],
+  "timestamp": "2026-09-01T10:15:33.396245036Z",
+  "model": "glm-5.3"
+}

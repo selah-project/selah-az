@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 15:5",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Və ⟨hər⟩ adam ki, onun yatağına toxunar, paltarlarını yuyar, suda yuyunar və axşamadək murdar olar.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "və adam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "toxunar"
+    },
+    {
+      "surface": "במשכבו",
+      "gloss": "onun yatağına"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "yuyar"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "paltarlarını"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "və yuyunar"
+    },
+    {
+      "surface": "במים",
+      "gloss": "suda"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "və murdar olar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "adək"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "axşam"
+    }
+  ],
+  "timestamp": "2026-09-01T10:27:25.580770637Z",
+  "model": "glm-5.3"
+}

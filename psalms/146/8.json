@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 146,
+  "translation": "Yahve korların gözlərini açır, Yahve əyilənləri dikəldir, Yahve salehləri sevir.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "açır"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "korların"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "dikəldir"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "əyilənləri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "sevir"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "salehləri"
+    }
+  ],
+  "timestamp": "2026-09-01T15:47:11.646453526Z",
+  "model": "glm-5.3"
+}

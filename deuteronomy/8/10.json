@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və yeyəcəksən və doyacaqsan və sənə verdiyi yaxşı torpaq üçün Yahve sənin Elohimini ⟨את⟩ alqışlayacaqsan.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "və yeyəcəksən"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "və doyacaqsan"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "və alqışlayacaqsan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve sənin Elohimini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sənin Elohimin"
+    },
+    {
+      "surface": "על",
+      "gloss": "üçün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "torpaq"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "yaxşı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:48:59.506438054Z",
+  "model": "glm-5.3"
+}

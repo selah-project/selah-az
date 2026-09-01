@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 74:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 74,
+  "translation": "Öz icmanı xatırla — qədimdə əldə etdiyini, miras övladı olaraq xilas etdiyini; Sion dağını, özünə məskən etdiyin bu ⟨dağı⟩.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "xatırla"
+    },
+    {
+      "surface": "עדתך",
+      "gloss": "öz icmanı"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "əldə etdiyini"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "qədimdə"
+    },
+    {
+      "surface": "גאלת",
+      "gloss": "xilas etdiyini"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "övladı olaraq"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "miras"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dağı"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "שכנת",
+      "gloss": "məskən etdiyin"
+    },
+    {
+      "surface": "בו",
+      "gloss": "özünə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:25:48.160287575Z",
+  "model": "glm-5.3"
+}

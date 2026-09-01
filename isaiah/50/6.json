@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 50:6",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 50,
+  "translation": "Kürəyimi vuranlara, üstanaqlarımı yolananlara verdim, üzmimi təhqirlərdən və tüpürcəkdən gizlətmədim.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "kürəyimi"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "verdim"
+    },
+    {
+      "surface": "למכים",
+      "gloss": "vuranlara"
+    },
+    {
+      "surface": "ולחיי",
+      "gloss": "üstanaqlarımı"
+    },
+    {
+      "surface": "למרטים",
+      "gloss": "yolananlara"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzmü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…mədim"
+    },
+    {
+      "surface": "הסתרתי",
+      "gloss": "gizlət"
+    },
+    {
+      "surface": "מכלמות",
+      "gloss": "təhqirlərdən"
+    },
+    {
+      "surface": "ורק",
+      "gloss": "və tüpürcəkdən"
+    }
+  ],
+  "timestamp": "2026-09-01T13:14:53.468867511Z",
+  "model": "glm-5.3"
+}

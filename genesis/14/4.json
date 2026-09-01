@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "On iki il Kedorlaomerə xidmət etdilər ⟨את⟩, on üçüncü ildə üsyan etdilər.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "on iki (iki)"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-on"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "il"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "xidmət etdilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedorlaomer"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedorlaomer"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "və on üç"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-on"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ildə"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "üsyan etdilər"
+    }
+  ],
+  "timestamp": "2026-09-01T09:49:35.517318399Z",
+  "model": "glm-5.3"
+}

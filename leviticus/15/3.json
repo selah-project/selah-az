@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 15:3",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Və zovundakı natəmizliyi bu olacaq: bədəni ⟨את⟩ zovunu axıtsın, yaxud bədəni zovundan bağlanmış olsun — onun natəmizliyi odur.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Və bu"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "natəmizliyi"
+    },
+    {
+      "surface": "בזובו",
+      "gloss": "zovundakı"
+    },
+    {
+      "surface": "רר",
+      "gloss": "axıtsın"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "bədəni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zovunu"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "zovunu"
+    },
+    {
+      "surface": "או",
+      "gloss": "yaxud"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "bağlanmış olsun"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "bədəni"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "zovundan"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "natəmizliyi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "odur"
+    }
+  ],
+  "timestamp": "2026-09-01T10:27:00.304647101Z",
+  "model": "glm-5.3"
+}

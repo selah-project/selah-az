@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 57:17",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 57,
+  "translation": "Onun haqsız qazancının günahına görə qəzəbləndim və onu vurdum; ⟨üzümü⟩ gizlətdim və qəzəbləndim, o isə ürəyinin yolunda inadcıl geri dönərək getdi.",
+  "tokens": [
+    {
+      "surface": "בעון",
+      "gloss": "günahına görə"
+    },
+    {
+      "surface": "בצעו",
+      "gloss": "onun haqsız qazancının"
+    },
+    {
+      "surface": "קצפתי",
+      "gloss": "qəzəbləndim"
+    },
+    {
+      "surface": "ואכהו",
+      "gloss": "və onu vurdum"
+    },
+    {
+      "surface": "הסתר",
+      "gloss": "⟨üzümü⟩ gizlətdim"
+    },
+    {
+      "surface": "ואקצף",
+      "gloss": "və qəzəbləndim"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "və getdi"
+    },
+    {
+      "surface": "שובב",
+      "gloss": "inadcıl geri dönərək"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolunda"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ürəyinin"
+    }
+  ],
+  "timestamp": "2026-09-01T13:16:56.792587695Z",
+  "model": "glm-5.3"
+}

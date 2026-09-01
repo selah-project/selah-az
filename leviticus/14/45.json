@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 14:45",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "O ⟨isə⟩ evi sökəcək — onun daşlarını, onun ağaclarını və evin bütün torpağını — və şəhərin xaricinə, murdar yerə çıxaracaq.",
+  "tokens": [
+    {
+      "surface": "ונתץ",
+      "gloss": "sökəcək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "evi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onun daşlarını"
+    },
+    {
+      "surface": "אבניו",
+      "gloss": "onun daşları"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "onun ağaclarını"
+    },
+    {
+      "surface": "עציו",
+      "gloss": "onun ağacları"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "bütün torpağını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "torpaq"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "evin"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "çıxaracaq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tərəfə"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "xaricinə"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "şəhərin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tərəfə"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "yerə"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "murdar"
+    }
+  ],
+  "timestamp": "2026-09-01T10:26:46.822525394Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Və deyərsiniz: «Yeddinci ildə nə yeyəcəyik? Bakı, toxum səpməyəcəyik və məhsulumuzu ⟨את⟩ yığmayacağıq».",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "deyərsiniz"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "yeyəcəyik"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ildə"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "yeddinci"
+    },
+    {
+      "surface": "הן",
+      "gloss": "bakı"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "toxum səpməyəcəyik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "yığmayacağıq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "məhsulumuzu"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "məhsulumuzu"
+    }
+  ],
+  "timestamp": "2026-09-01T10:31:01.035296985Z",
+  "model": "glm-5.3"
+}

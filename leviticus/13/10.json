@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 13:10",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Kahin baxsın və bax, dəridə ağ şişlik olsa və o, tükü ağartmışsa və şişlikdə canlı çiy ət olsa —",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "baxsın"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "və bax"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "şişlik"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ağ"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "dəridə"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "o"
+    },
+    {
+      "surface": "הפכה",
+      "gloss": "çevirmişdir"
+    },
+    {
+      "surface": "שער",
+      "gloss": "tükü"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ağ"
+    },
+    {
+      "surface": "ומחית",
+      "gloss": "və canlanma"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ət"
+    },
+    {
+      "surface": "חי",
+      "gloss": "canlı"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "şişlikdə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:25:40.771204549Z",
+  "model": "glm-5.3"
+}

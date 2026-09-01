@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 2:4",
+  "book": "job",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və HaSatan Yahveyi ⟨את⟩ cavablandırdı və dedi: Dəri müqabilində dəri, və insanın sahib olduğu hər şeyi canı müqabilində verər.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Və cavablandırdı"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "HaSatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveyi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "עור",
+      "gloss": "dəri"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "müqabilində"
+    },
+    {
+      "surface": "עור",
+      "gloss": "dəri"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "və hər şeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "insana ait"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "verər"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "müqabilində"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "canı"
+    }
+  ],
+  "timestamp": "2026-09-01T16:03:38.192426698Z",
+  "model": "glm-5.3"
+}

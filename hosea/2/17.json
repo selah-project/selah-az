@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 2:17",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və ona oradan ⟨את⟩ üzüm bağlarını verəcəyəm, və ⟨את⟩ Akor vadisini ümid qapısı ⟨kimi⟩ edəcəyəm; orada o, gənclik günlərindəki kimi, Mitsrayim yerindən çıxdığı gününkimi cavab verəcək.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "verəcəyəm"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "üzüm bağlarını"
+    },
+    {
+      "surface": "כרמיה",
+      "gloss": "üzüm bağlarını"
+    },
+    {
+      "surface": "משם",
+      "gloss": "oradan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "Akor vadisini"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "vadisini"
+    },
+    {
+      "surface": "עכור",
+      "gloss": "Akor"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "qapısı"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "ümid"
+    },
+    {
+      "surface": "וענתה",
+      "gloss": "və cavab verəcək"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "orada"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "günlərindəki kimi"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "gənclik"
+    },
+    {
+      "surface": "וכיום",
+      "gloss": "və gününkimi"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "çıxdığı"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yerindən"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T14:35:01.452994980Z",
+  "model": "glm-5.3"
+}

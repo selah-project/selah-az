@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 38:20",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 38,
+  "translation": "Və Məskənin bütün zərbacıları və ətrafdakı həyətin ⟨zərbacıları⟩ mis idi.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "היתדת",
+      "gloss": "zərbacıları"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Məskənin"
+    },
+    {
+      "surface": "ולחצר",
+      "gloss": "və həyətin"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ətrafdakı"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "mis idi"
+    }
+  ],
+  "timestamp": "2026-09-01T17:26:47.995180102Z",
+  "model": "glm-5.3"
+}

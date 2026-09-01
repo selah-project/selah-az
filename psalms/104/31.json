@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 104,
+  "translation": "Yahvenin izzəti əbədi olsun; Yahve öz əməllərindən sevinər!",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "izzəti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "sevinər"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "öz əməllərindən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:35:33.747599882Z",
+  "model": "glm-5.3"
+}

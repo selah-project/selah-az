@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 27:22",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Və Moşe Yahvenin ona ⟨את⟩ əmr etdiyi kimi etdi, və ⟨את⟩ Yehoşuanı götürdü və onu Elazar kahinin və bütün cəmiyyətin önündə durutdu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "və etdi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "əmr etdiyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ona",
+      "marks": "əmr etməyin obyekti — Moşe"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "və götürdü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoşua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "ויעמדהו",
+      "gloss": "və onu durutdu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önündə"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "və önündə"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "cəmiyyətin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:42:38.518727975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 18:50",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Buna görə Sənə, ey Yahve, xalqlar içində şükür edəcəyəm və Adına zümzümə çəkəcəyəm.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "buna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "görə"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "Sənə şükür edəcəyəm"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "xalqlar içində"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "və Adına"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "zümzümə çəkəcəyəm"
+    }
+  ],
+  "timestamp": "2026-09-01T17:42:05.694690401Z",
+  "model": "glm-5.3"
+}

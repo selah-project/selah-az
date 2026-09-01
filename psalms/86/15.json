@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 86,
+  "translation": "Sən isə, Adonay, rəhmli və lütfkar Elsan, qəzəbi uzun, bol hesed və əməldə ⟨sahib⟩.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "sən isə"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "rəhmli"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "və lütfkar"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "uzun"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "qəzəbi ⟨olan⟩"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "və bol"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "və əməl⟨də⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:47.763000792Z",
+  "model": "glm-5.3"
+}

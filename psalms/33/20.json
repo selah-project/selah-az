@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "Nefeşimiz Yahvemi gözlədi; köməyimiz və qalxanımız Odur.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "Nefeşimiz"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "gözlədi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvemi"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "köməyimiz"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "və qalxanımız"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "O(dur)"
+    }
+  ],
+  "timestamp": "2026-09-01T15:10:49.671135712Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 27:10",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Əgər onun qardaşları yoxdursa, onun irsini atasının qardaşlarına verəcəksiniz.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Əgər"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onun"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "qardaşları"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "verəcəksiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onun irsini"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "onun irsini"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "qardaşlarına"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atasının"
+    }
+  ],
+  "timestamp": "2026-09-01T10:42:43.590509667Z",
+  "model": "glm-5.3"
+}

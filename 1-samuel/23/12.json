@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 23:12",
+  "book": "1-samuel",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Və David dedi: «Qeilanın sahibləri məni ⟨את⟩ və ⟨את⟩ adamlarımı Şaulun əlinə təslim edəcəklərmi?» Və Yahve dedi: «Təslim edəcəklər.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "היסגרו",
+      "gloss": "təslim edəcəklərmi"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "sahibləri"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Qeilanın"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "məni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "adamlarımı"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "adamlarımı"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "əlinə"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaulun"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יסגירו",
+      "gloss": "təslim edəcəklər"
+    }
+  ],
+  "timestamp": "2026-09-01T11:43:47.253113385Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 14:24",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Və kahin günah qurbanı qoyununu və loq yağı götürsün, və kahin onları Yahvenin hüzurunda tərpətmə qurbanı kimi tərpətsin.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "götürsün"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "günah qurbanı qoyunu"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "qoyun"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "günah qurbanısının"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "loq yağı"
+    },
+    {
+      "surface": "לג",
+      "gloss": "loq"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "yağın"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "tərpətsin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "tərpətmə qurbanı kimi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hüzurunda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T10:26:17.474695246Z",
+  "model": "glm-5.3"
+}

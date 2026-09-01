@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "⟨O⟩ dedi: «Hansı yolla qalxacıq?» ⟨O⟩ dedi: «Edom səhrasının ⟨yolu ilə⟩.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אי",
+      "gloss": "hansı"
+    },
+    {
+      "surface": "זה",
+      "gloss": "­"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "yolla"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "qalxacıq"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yolu"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "səhrası"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-01T12:29:04.893810053Z",
+  "model": "glm-5.3"
+}

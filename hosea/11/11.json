@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 11:11",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Quş kimi Mitsrayimdən, göyərçin kimi Aşşur torpağından titrəyə-gələcəklər; onları evlərinə yerləşdirəcəyəm, — Yahvenin nəqli.",
+  "tokens": [
+    {
+      "surface": "יחרדו",
+      "gloss": "titrəyə-gələcəklər"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "quş kimi"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayimdən"
+    },
+    {
+      "surface": "וכיונה",
+      "gloss": "və göyərçin kimi"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "torpağından"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşşur"
+    },
+    {
+      "surface": "והושבתים",
+      "gloss": "və yerləşdirəcəyəm"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzlərinə"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "evlərinə"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nəqli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    }
+  ],
+  "timestamp": "2026-09-01T14:35:39.617586039Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 17:14",
+  "book": "job",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Çürüməyə çağırdım: 'Atam ⟨sən⟩sən'; qurda: 'anam və bacım'.",
+  "tokens": [
+    {
+      "surface": "לשחת",
+      "gloss": "çürüməyə"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "çağırdım"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨sən⟩sən"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "anam"
+    },
+    {
+      "surface": "ואחתי",
+      "gloss": "və bacım"
+    },
+    {
+      "surface": "לרמה",
+      "gloss": "qurda"
+    }
+  ],
+  "timestamp": "2026-09-01T16:09:55.869423147Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 26:1",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Özünüz üçün əlillər düzəltməyin, oyulmuş şəkil və sütun qaldırmayın, öz torpağınızda ona tapınmaq üçün naxışlı daş qoymayın; çünki Mən Yahve, sizin Elohiminizəm.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "düzəltməyin"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "özünüz üçün"
+    },
+    {
+      "surface": "אלילם",
+      "gloss": "əlillər"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "oyulmuş şəkil"
+    },
+    {
+      "surface": "ומצבה",
+      "gloss": "sütun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תקימו",
+      "gloss": "qaldırmayın"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "özünüz üçün"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "daş"
+    },
+    {
+      "surface": "משכית",
+      "gloss": "naxışlı"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "qoymayın"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "torpağınızda"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "tapınmaq üçün"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiminiz"
+    }
+  ],
+  "timestamp": "2026-09-01T10:31:26.748802979Z",
+  "model": "glm-5.3"
+}

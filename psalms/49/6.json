@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 49,
+  "translation": "Niyə qorxum pis günlərdə, ⟨hangı⟩ günah topuqlarımı dolanıb məni mühasirəyə alır?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Niyə"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "qorxum"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "günlərdə"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pis"
+    },
+    {
+      "surface": "עון",
+      "gloss": "günah"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "topuqlarımı"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "dolanıb məni mühasirəyə alır"
+    }
+  ],
+  "timestamp": "2026-09-01T15:15:51.023767317Z",
+  "model": "glm-5.3"
+}

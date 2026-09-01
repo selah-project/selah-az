@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 8:10",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Buna görə arvadlarını ⟨את⟩ başqalarına verəcəyəm, tarlalarını varislərə, çünki kiçidən böyüyə qədər hamısı haqsız qazanc dalınca gedir; peyğəmbərdən kahinə qədər hamısı yalan işlədir.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "buna görə"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "verəcəyəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arvadlarını"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "arvadlarını"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "başqalarına"
+    },
+    {
+      "surface": "שדותיהם",
+      "gloss": "tarlalarını"
+    },
+    {
+      "surface": "ליורשים",
+      "gloss": "varislərə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "kiçidən"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "böyüyə"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "hamısı"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "haqsız qazanc dalınca gedir"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "haqsız qazanc"
+    },
+    {
+      "surface": "מנביא",
+      "gloss": "peyğəmbərdən"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kahinə"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "hamısı"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "işlədir"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yalan"
+    }
+  ],
+  "timestamp": "2026-09-01T13:26:29.736148864Z",
+  "model": "glm-5.3"
+}

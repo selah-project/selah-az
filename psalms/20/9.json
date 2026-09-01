@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 20:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Onlar diz çökdülər və yıxıldılar, biz isə qalxdıq və özümüzü düzəldib dayandıq.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "diz çökdülər"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "və yıxıldılar"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "biz isə"
+    },
+    {
+      "surface": "קמנו",
+      "gloss": "qalxdıq"
+    },
+    {
+      "surface": "ונתעודד",
+      "gloss": "özümüzü düzəldib dayandıq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:05:52.861415466Z",
+  "model": "glm-5.3"
+}

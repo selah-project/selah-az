@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 102:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 102,
+  "translation": "Üzünü məndən gizlətmə — əziyyət günümdə; qulağını mənə tərəf əy — çağırdığım gün tez cavab ver mənə.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "gizlətmə"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "(inkar)"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "üzünü"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "məndən"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "günümdə"
+    },
+    {
+      "surface": "צר",
+      "gloss": "əziyyət"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənim"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "əy"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənə tərəf"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "qulağını"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "çağırdığım"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "tez"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "cavab ver mənə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:34:24.795756250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 34:20",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 34,
+  "translation": "Və ⟨את⟩ onları düşmənlərinin əlinə, canlarını axtaranların əlinə verəcəyəm; cəsədləri göy quşlarına və yerin heyvanlarına yem olacaq.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "verəcəyəm"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "əlinə"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "düşmənlərinin"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "və əlinə"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "axtaranların"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "canlarını"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "⟨olacaq⟩"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "cəsədləri"
+    },
+    {
+      "surface": "למאכל",
+      "gloss": "yem"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "quşlarına"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göyün"
+    },
+    {
+      "surface": "ולבהמת",
+      "gloss": "və heyvanlarına"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    }
+  ],
+  "timestamp": "2026-09-01T13:46:03.839799895Z",
+  "model": "glm-5.3"
+}

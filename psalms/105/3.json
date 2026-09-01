@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 105,
+  "translation": "Onun müqəddəş Adı ilə öyünün, Yahvini axtaranların qəlbi sevinş tutsun.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "öyünün"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "Adı ilə"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "Onun müqəddəşi"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "sevinş tutsun"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qəlbi"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "axtaranların"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvini"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:27.091066006Z",
+  "model": "glm-5.3"
+}

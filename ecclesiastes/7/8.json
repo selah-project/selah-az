@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Bir işin sonu onun başlanğıcından yaxşıdır; ruhu davamlı olan, ruhu ucalandan yaxşıdır.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "yaxşıdır"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "sonu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bir işin"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "onun başlanğıcından"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşıdır"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "davamlı"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhu"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "ucalandan"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhu"
+    }
+  ],
+  "timestamp": "2026-09-01T16:31:18.800439632Z",
+  "model": "glm-5.3"
+}

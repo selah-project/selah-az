@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "⟨את⟩ gümüşünü ona faizlə vermə, yeməyini də artımla vermə.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gümüşünü"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "gümüşünü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "vermə"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "faizlə"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "və artımla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "vermə"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "yeməyini"
+    }
+  ],
+  "timestamp": "2026-09-01T10:30:53.000635042Z",
+  "model": "glm-5.3"
+}

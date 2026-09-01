@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 7:12",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Axaz isə dedi: İstəməyəcəyəm və Yahveni ⟨את⟩ sınamayacağam.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və ... dedi"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Axaz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "אשאל",
+      "gloss": "istəməyəcəyəm"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "אנסה",
+      "gloss": "sınamayacağam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T12:47:37.601663444Z",
+  "model": "glm-5.3"
+}

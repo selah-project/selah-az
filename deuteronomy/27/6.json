@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 27:6",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Bütöv daşlardan Yahve sənin Elohiminin qurbangahını düzəlt ⟨את⟩, və ona yandırma qurbanları Yahve sənin Elohimin üçün qaldır.",
+  "tokens": [
+    {
+      "surface": "אבנים",
+      "gloss": "daşlardan"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "bütöv"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "düzəlt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbangahını"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "Yahvenin qurbangahı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sənin Elohimin"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "və qaldıracaqsan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "yandırma qurbanları"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve üçün"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sənin Elohimin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:54:11.247816433Z",
+  "model": "glm-5.3"
+}

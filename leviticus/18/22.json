@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Və ⟨את⟩ kişi ilə qadın yatağı kimi yatmayacaqsan; iyrənc şeydir o.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "kişi"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "kişi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "yatmayacaqsan"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "yatağı"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "qadın"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "iyrənc şey"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-09-01T10:27:44.910440506Z",
+  "model": "glm-5.3"
+}

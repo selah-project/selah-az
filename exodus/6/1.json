@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 6:1",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Və Yahve Moşeyə dedi: «İndi görəcəksən Paroya nə edəcəyəm, çünki güclü əl ilə onları göndərəcək və güclü əl ilə onları öz torpağından qovacaq.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "görəcəksən"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nə"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "edəcəyəm"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Paroya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "əl ilə"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "güclü"
+    },
+    {
+      "surface": "ישלחם",
+      "gloss": "onları göndərəcək"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "və əl ilə"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "güclü"
+    },
+    {
+      "surface": "יגרשם",
+      "gloss": "onları qovacaq"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "öz torpağından"
+    }
+  ],
+  "timestamp": "2026-09-01T10:05:52.832318177Z",
+  "model": "glm-5.3"
+}

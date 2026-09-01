@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 19:17",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Və olacaq ki, Hazaəlin qılıncından qurtulanı Yehu öldürəcək, və Yehunun qılıncından qurtulanı Elişa öldürəcək.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "və olacaq ki"
+    },
+    {
+      "surface": "הנמלט",
+      "gloss": "qurtulanı"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "qılıncından"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Hazaəlin"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "öldürəcək"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "והנמלט",
+      "gloss": "və qurtulanı"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "qılıncından"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehunun"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "öldürəcək"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elişa"
+    }
+  ],
+  "timestamp": "2026-09-01T12:25:37.616759951Z",
+  "model": "glm-5.3"
+}

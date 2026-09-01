@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 4:7",
+  "book": "esther",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Mordoxay ona ⟨את⟩ başına gələnlərin hamısını və ⟨את⟩ gümüşün miqdarını bildirdi — Hamanın yəhudiləri məhv etmək üçün kral xəzinələri hesabına çəkməyi dediyi ⟨məbləği⟩.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "bildirdi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordoxay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "başına gələnlərin hamısını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamısını"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki, onlara"
+    },
+    {
+      "surface": "קרהו",
+      "gloss": "başına gələnlərin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "gümüşün miqdarını"
+    },
+    {
+      "surface": "פרשת",
+      "gloss": "miqdarını"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "gümüşün"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki, onu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dediyi"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "לשקול",
+      "gloss": "çəkməyi"
+    },
+    {
+      "surface": "על",
+      "gloss": "hesabına"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "xəzinələri"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "yəhudiləri"
+    },
+    {
+      "surface": "לאבדם",
+      "gloss": "məhv etmək üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T16:35:27.821718800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 13:6",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Yeddi gün matsa yeyəcəksən, yeddinci gündə isə Yahveyə bayram ⟨olacaq⟩.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "Yeddi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yeyəcəksən"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "matsa"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "gündə isə"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "yeddinci"
+    },
+    {
+      "surface": "חג",
+      "gloss": "bayram"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:08:41.428153894Z",
+  "model": "glm-5.3"
+}

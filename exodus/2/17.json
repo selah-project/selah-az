@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 2:17",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və çobanlar gəldilər və onları qovdular; Moşe isə qalxdı və onları xilas etdi və ⟨את⟩ onların sürüsünü suvardı.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "və gəldilər"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "çobanlar"
+    },
+    {
+      "surface": "ויגרשום",
+      "gloss": "və onları qovdular"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "qalxdı"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ויושען",
+      "gloss": "və onları xilas etdi"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "və suvardı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onların sürüsünü"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "onların sürüsünü"
+    }
+  ],
+  "timestamp": "2026-09-01T10:03:35.600113924Z",
+  "model": "glm-5.3"
+}

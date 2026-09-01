@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 29:25",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "və keçilərdən bir şəyir günah qurbanı olaraq, davamlı yandırma qurbanından, onun taxıl qurbanından və onun içilik qurbanından əlavə.",
+  "tokens": [
+    {
+      "surface": "ושעיר",
+      "gloss": "və şəyir"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "keçilərdən"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "günah qurbanı"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "əlavə"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "yandırma qurbanından"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "davamlı"
+    },
+    {
+      "surface": "מנחתה",
+      "gloss": "onun taxıl qurbanından"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "və onun içilik qurbanından"
+    }
+  ],
+  "timestamp": "2026-09-01T10:42:54.413473035Z",
+  "model": "glm-5.3"
+}

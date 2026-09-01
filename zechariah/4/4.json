@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 4:4",
+  "book": "zechariah",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və mən cavab verdim və mənimlə danışan mələyə dedim, deyə: Bunlar nədir, Adonayım?",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "və mən cavab verdim"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "və dedim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə (yönlük)"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "mələyə"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "danışan"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mənimlə"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyə"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bunlar"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayım"
+    }
+  ],
+  "timestamp": "2026-09-01T17:40:12.628563864Z",
+  "model": "glm-5.3"
+}

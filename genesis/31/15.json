@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 31:15",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "Yad qadınlar kimi sayılmıyıqmi ona? Çünki o bizi satdı, hətta tamamilə yedi ⟨את⟩ gümüşümüzü.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "yoxmu"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "yad qadınlar kimi"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "sayılmıyıqmi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "מכרנו",
+      "gloss": "bizi satdı"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "və yedi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hətta"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "tamamilə yemək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gümüşümüzü"
+    },
+    {
+      "surface": "כספנו",
+      "gloss": "gümüşümüzü"
+    }
+  ],
+  "timestamp": "2026-09-01T09:56:16.441905810Z",
+  "model": "glm-5.3"
+}

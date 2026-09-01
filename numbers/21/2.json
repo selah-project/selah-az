@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 21:2",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Və İsrail Yahveyə nəzir verdi və dedi: Əgər həqiqətən ⟨את⟩ bu xalqı əlimə verəcəksən, mən onların şəhərlərini ⟨את⟩ həram edəcəyəm.",
+  "tokens": [
+    {
+      "surface": "וידר",
+      "gloss": "və nəzir verdi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "nəzir"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "vermək"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "verəcəksən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu xalqı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqı"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "əlimə"
+    },
+    {
+      "surface": "ויחרמתי",
+      "gloss": "və həram edəcəyəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onların şəhərlərini"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "onların şəhərlərini"
+    }
+  ],
+  "timestamp": "2026-09-01T10:40:05.043446809Z",
+  "model": "glm-5.3"
+}

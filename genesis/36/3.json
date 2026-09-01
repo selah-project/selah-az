@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 36,
+  "translation": "və ⟨את⟩ Bosmatı, Yişmaelin qızını, Nevayotun bacısını.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "Bosmatı"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bosmatı"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qızını"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yişmaelin"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "bacısını"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "Nevayotun"
+    }
+  ],
+  "timestamp": "2026-09-01T09:57:31.586720499Z",
+  "model": "glm-5.3"
+}

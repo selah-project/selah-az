@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Çünki Yisrael ⟨uşaq idi⟩, və onu sevdim, və Mitsrayimdən oğlumu çağırdım.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "נער",
+      "gloss": "uşaq"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "onu sevdim"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "Mitsrayimdan"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "çağırdım"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oğlumu"
+    }
+  ],
+  "timestamp": "2026-09-01T14:36:43.175752057Z",
+  "model": "glm-5.3"
+}

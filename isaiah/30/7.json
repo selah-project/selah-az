@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 30:7",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Və Mitsrayim puçluqla, boşluqla kömək edəcək; ona görə mən bunu belə adlandırdım: Rahab — oturub saxlanan.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Və Mitsrayim"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "puçluqla"
+    },
+    {
+      "surface": "וריק",
+      "gloss": "boşluqla"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "kömək edəcək"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "ona görə"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "adlandırdım"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "bunu"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahab"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "oturub saxlayan"
+    }
+  ],
+  "timestamp": "2026-09-01T13:02:36.885948410Z",
+  "model": "glm-5.3"
+}

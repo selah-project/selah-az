@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 128,
+  "translation": "və övladlarının övladlarını görəsən. İsrail üzərinə salam!",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "və görəsən"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "övladlarını"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "övladlarının"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salam"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    }
+  ],
+  "timestamp": "2026-09-01T15:41:38.661133895Z",
+  "model": "glm-5.3"
+}

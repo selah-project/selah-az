@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 5:11",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Vay o kəslərə ki, səhər tezdən şəkərin dalınca düşürlər, axşam qaranlığın sonuna qədər davam edirlər — şərab onları aləvləndirir!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "vay"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "səhər tezdən qalxanlar"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "səhər"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "şəkər ( güclü içki )"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "dalınca düşürlər"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "sonuna qədər gecələdən"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "qaranlıq düşəndə"
+    },
+    {
+      "surface": "יין",
+      "gloss": "şərab"
+    },
+    {
+      "surface": "ידליקם",
+      "gloss": "onları aləvləndirir"
+    }
+  ],
+  "timestamp": "2026-09-01T12:48:53.094634196Z",
+  "model": "glm-5.3"
+}

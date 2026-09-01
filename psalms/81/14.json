@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 81,
+  "translation": "Kaş ki, xalqım mənə qulaq asaydı, Yisrael yollarımda gəzəydi!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "Kaş ki"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqım"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "qulaq asaydı"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "yollarımda"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "gəzəydi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:27:48.214058636Z",
+  "model": "glm-5.3"
+}

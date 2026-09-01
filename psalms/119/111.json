@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Şəhadətlərini əbədi miras olaraq aldım, çünki onlar ürəyimin sevincidirirlər.",
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "miras aldım"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "şəhadətlərini"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "sevinci"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ürəyimin"
+    },
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:41:08.970776198Z",
+  "model": "glm-5.3"
+}

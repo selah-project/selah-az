@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Onların qılıncı öz ürəklərinə daxil olacaq və onların yayları sınıcaq.",
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "onların qılıncı"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "daxil olacaq"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "öz ürəklərinə"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "və onların yayları"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "sınıcaq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:12:01.051542172Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 16:12",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "İsrail oğullarının siziyyətlərini eşitdim; onlara de: Şəfəq vaxtlarının arasında ət yeyəcəksiniz, səhər isə çörəklə doyunca; və biləcəksiniz ki, mən Yahve, sizin Elohiminizəm.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "eşitdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siziyyətlərini"
+    },
+    {
+      "surface": "תלונת",
+      "gloss": "siziyyətlərini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "de"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "şəfəq vaxtlarının"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yeyəcəksiniz"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ət"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "və səhər"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "doyunca"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "çörəklə"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "və biləcəksiniz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiminiz"
+    }
+  ],
+  "timestamp": "2026-09-01T10:10:22.280758016Z",
+  "model": "glm-5.3"
+}

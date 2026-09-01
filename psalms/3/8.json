@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Qalx, ya Yahve, məni xilas et, ey mənim Elohimim, çünki Sən bütün düşmənlərimi ⟨את⟩ yanağa vurdun, pislərin dişlərini Sən sındın.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Qalx"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahve"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "məni xilas et"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ey mənim Elohimim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "Sən vurdun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün düşmənlərimi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "düşmənlərimi"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "yanağa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dişlərini"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "pislərin"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "Sən sındın"
+    }
+  ],
+  "timestamp": "2026-09-01T15:01:35.501581762Z",
+  "model": "glm-5.3"
+}

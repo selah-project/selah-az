@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "O zaman öz qəzəbində onlara danışacaq, öz hirsi ilə onları sarsıdacaq.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "o zaman"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "danışacaq"
+    },
+    {
+      "surface": "אלימו",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "öz qəzəbində"
+    },
+    {
+      "surface": "ובחרונו",
+      "gloss": "öz hirsi ilə"
+    },
+    {
+      "surface": "יבהלמו",
+      "gloss": "onları sarsıdacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:01:50.421007734Z",
+  "model": "glm-5.3"
+}

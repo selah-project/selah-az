@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 116,
+  "translation": "Yahvenin hüzurunda gəzəcəyəm, dirilərin torpaqlarında.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "gəzəcəyəm"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hüzurunda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "torpaqlarında"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "dirilərin"
+    }
+  ],
+  "timestamp": "2026-09-01T17:42:35.012270080Z",
+  "model": "glm-5.3"
+}

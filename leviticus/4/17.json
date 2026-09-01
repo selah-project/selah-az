@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 4:17",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Kohən barmağını qandan batıracaq və Yahvenin hüzurunda, pərdənin üzünə ⟨את⟩ yeddi dəfə səpəcək.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "batıracaq"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohən"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "barmağını"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "qan"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "səpəcək"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yeddi"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "dəfə"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hüzurunda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pərdənin üzü"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzünə"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "pərdənin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:23:06.150181033Z",
+  "model": "glm-5.3"
+}

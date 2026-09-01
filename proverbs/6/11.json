@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 6:11",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "və yoxsulluğun yolçusu kimi gələcək, və ehtiyacın silahlı adam kimi.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "və gələcək"
+    },
+    {
+      "surface": "כמהלך",
+      "gloss": "yolçusu kimi"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "yoxsulluğun"
+    },
+    {
+      "surface": "ומחסרך",
+      "gloss": "və ehtiyacın"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "adam kimi"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "silahlı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:49:23.983460588Z",
+  "model": "glm-5.3"
+}

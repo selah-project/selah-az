@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 74,
+  "ref": "psalms 119:74",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Səndən qorxanlar məni görüb sevinəcək, çünki mən sənin sözünə ümid etmişəm.",
+  "tokens": [
+    {
+      "surface": "יראיך",
+      "gloss": "səndən qorxanlar"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "məni görüb"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "sevinəcək"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "sənin sözünə"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "ümid etmişəm"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:23.921389541Z",
+  "model": "glm-5.3"
+}

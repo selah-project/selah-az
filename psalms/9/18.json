@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Pislər Şeola qayıdacaq, Elohini unudan bütün ümmətlər ⟨belə⟩.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "qayıdacaq"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "pislər"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "Şeola"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ümmətlər"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "unudan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T15:04:18.330076980Z",
+  "model": "glm-5.3"
+}

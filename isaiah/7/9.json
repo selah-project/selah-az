@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 7:9",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Efrayimin başı Şomerondur, Şomeronun başı isə Remalyahun oğludur. Əgər siz iman gətirməsəniz, şübhəsiz ki, möhkəm durmayacaqsınız.",
+  "tokens": [
+    {
+      "surface": "וראש",
+      "gloss": "və başı"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimin"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Şomeron"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "və başı"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Şomeronun"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remalyahun"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "iman gətirməsəniz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "şübhəsiz ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תאמנו",
+      "gloss": "möhkəm durmayacaqsınız"
+    }
+  ],
+  "timestamp": "2026-09-01T12:47:37.601132745Z",
+  "model": "glm-5.3"
+}

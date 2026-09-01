@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və Elohim Noaxla danışdı, deyərək:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "və danışdı"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noax"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    }
+  ],
+  "timestamp": "2026-09-01T09:47:07.905413783Z",
+  "model": "glm-5.3"
+}

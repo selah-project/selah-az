@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Yoav, Tserujyanın oğlu, bilib ki, padşahın ürəyi Avşalomun üstündədir.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "bilib ki"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "Tserujyanın"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ürəyi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşahın"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündədir"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avşalomun"
+    }
+  ],
+  "timestamp": "2026-09-01T11:58:51.504465287Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 9:21",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "və şərabdan içdi və sərxoş oldu, və çadırının ortasında açıldı.",
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "və içdi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "היין",
+      "gloss": "şərab"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "və sərxoş oldu"
+    },
+    {
+      "surface": "ויתגל",
+      "gloss": "və açıldı"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ortasında"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "çadırının"
+    }
+  ],
+  "timestamp": "2026-09-01T09:47:20.172007019Z",
+  "model": "glm-5.3"
+}

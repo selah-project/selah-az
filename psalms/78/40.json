@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 78:40",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 78,
+  "translation": "Nə qədər Onu çöldə üsyana qaldırdılar, Onu səhrada kədərləndirdilər!",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "nə qədər"
+    },
+    {
+      "surface": "ימרוהו",
+      "gloss": "Onu üsyana qaldırdılar"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "çöldə"
+    },
+    {
+      "surface": "יעציבוהו",
+      "gloss": "Onu kədərləndirdilər"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "səhrada"
+    }
+  ],
+  "timestamp": "2026-09-01T15:26:19.252862708Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 20:2",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "⟨Belə olacaq:⟩ müharibəyə yaxınlaşdığınızda kohen irəli gələcək və xalqla danışacaq.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "⟨Belə olacaq:⟩"
+    },
+    {
+      "surface": "כקרבכם",
+      "gloss": "yaxınlaşdığınızda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨−⟩"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "müharibəyə"
+    },
+    {
+      "surface": "ונגש",
+      "gloss": "və irəli gələcək"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "və danışacaq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    }
+  ],
+  "timestamp": "2026-09-01T10:52:28.647185428Z",
+  "model": "glm-5.3"
+}

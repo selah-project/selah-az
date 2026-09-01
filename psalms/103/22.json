@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 103,
+  "translation": "Yahveni süqün edin, bütün əməlləri, Onun hökmranlığının bütün yerlərində; mübarək ol, canım, ⟨את⟩ Yahvəni.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "süqün edin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "əməlləri"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün ... -də"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "yerlər"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "Onun hökmranlığı"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "mübarək ol"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahvəni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvəni"
+    }
+  ],
+  "timestamp": "2026-09-01T15:33:37.782468824Z",
+  "model": "glm-5.3"
+}

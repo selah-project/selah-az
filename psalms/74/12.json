@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 74,
+  "translation": "Və Elohim mənim kralım ⟨dir⟩ əzəldən, yerin ortasında xilaslar işlədir.",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "və Elohim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mənim kralım"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "əzəldən"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "işlədir"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "xilaslar"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ortasında"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:25:23.525431994Z",
+  "model": "glm-5.3"
+}

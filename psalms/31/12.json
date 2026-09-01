@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 31:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "Bütün sıxıntı verənlərim arasında rüsvayçılıq oldum, qonşularım üçün xüsusilə, tanıdıqlarım üçün isə qorxu; küçədə məni görənlər məndən qaçdılar.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "bütün ... arasında"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "sıxıntı verənlərim"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "oldum"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "rüsvayçılıq"
+    },
+    {
+      "surface": "ולשכני",
+      "gloss": "və qonşularım üçün"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "xüsusilə"
+    },
+    {
+      "surface": "ופחד",
+      "gloss": "və qorxu"
+    },
+    {
+      "surface": "למידעי",
+      "gloss": "tanıdıqlarım üçün"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "görənlər"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "küçədə"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "qaçdılar"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "məndən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:08:29.304065789Z",
+  "model": "glm-5.3"
+}

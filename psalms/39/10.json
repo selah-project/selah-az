@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 39,
+  "translation": "Dilsiz oldum, ağzımı açmıram, çünki ⟨Sən⟩ onu etdin.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "dilsiz oldum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "açmıram"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzımı"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sən"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "etdin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:13:47.008954817Z",
+  "model": "glm-5.3"
+}

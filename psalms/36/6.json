@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 36:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 36,
+  "translation": "Yahve, səmada ⟨ələ⟩ hesed ⟨qədərin⟩, emanətin buludlara qədər.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בהשמים",
+      "gloss": "səmada"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed ⟨qədərin⟩"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "emanətin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "buludlara"
+    }
+  ],
+  "timestamp": "2026-09-01T15:11:47.426253492Z",
+  "model": "glm-5.3"
+}

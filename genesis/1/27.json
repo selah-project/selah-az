@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və Elohim ⟨את⟩ insanı öz surətində yaratdı; Elohimin surətində yaratdı ⟨את⟩ onu; erkək və dişi yaratdı ⟨את⟩ onları.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "və yaratdı"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "insanı"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insanı"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "öz surətində"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "surətində"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "yaratdı"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "erkək"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "və dişi"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "yaratdı"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    }
+  ],
+  "timestamp": "2026-09-01T09:46:07.225512896Z",
+  "model": "glm-5.3"
+}

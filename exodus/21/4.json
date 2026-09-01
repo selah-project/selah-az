@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 21:4",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Əgər ağası ona bir arvad vermişsə və o arvad ona oğullar və ya qızlar doğmuşsa, arvad və uşaqları ağasına qalır, o isə öz başına çıxır.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ağası"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "vermişsə"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "bir arvad"
+    },
+    {
+      "surface": "וילדה",
+      "gloss": "doğmuşsa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oğullar"
+    },
+    {
+      "surface": "או",
+      "gloss": "və ya"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "qızlar"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "arvad"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "və uşaqları"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "qalır"
+    },
+    {
+      "surface": "לאדניה",
+      "gloss": "ağasına"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "o isə"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "çıxır"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "öz başına"
+    }
+  ],
+  "timestamp": "2026-09-01T10:15:32.037682220Z",
+  "model": "glm-5.3"
+}

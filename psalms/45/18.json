@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 45:18",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 45,
+  "translation": "Adını bütün nəsildən-nəslə çatdıracağam; buna görə xalqlar Səni əbədi olaraq, həmişəlik tərifləyəcəklər.",
+  "tokens": [
+    {
+      "surface": "אזכירה",
+      "gloss": "çatdıracağam"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Adını"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "דר",
+      "gloss": "nəsildən"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nəslə"
+    },
+    {
+      "surface": "על",
+      "gloss": "buna görə"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨buna görə⟩"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "יהודך",
+      "gloss": "Səni tərifləyəcəklər"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "əbədi olaraq"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "həmişəlik"
+    }
+  ],
+  "timestamp": "2026-09-01T18:01:58.357560001Z",
+  "model": "glm-5.3"
+}

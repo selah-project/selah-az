@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 16:7",
+  "book": "2-samuel",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Və Şimi lənətləyərkən belə dedi: Çıx, çıx, ey qanlar adamı, ey Belial adamı!",
+  "tokens": [
+    {
+      "surface": "וכה",
+      "gloss": "belə"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Şimi"
+    },
+    {
+      "surface": "בקללו",
+      "gloss": "lənətləyərkən"
+    },
+    {
+      "surface": "צא",
+      "gloss": "Çıx"
+    },
+    {
+      "surface": "צא",
+      "gloss": "çıx"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "qanlar"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ey ... adamı"
+    },
+    {
+      "surface": "הבליעל",
+      "gloss": "Belial"
+    }
+  ],
+  "timestamp": "2026-09-01T12:00:25.585903275Z",
+  "model": "glm-5.3"
+}

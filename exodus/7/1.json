@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 7:1",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Yahve Moşeyə dedi: Bax, səni Paro üçün Elohim təyin etdim, qardaşın Aharon isə sənin peyğəmbərin olacaq.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Bax"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "səni təyin etdim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Paro üçün"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "və Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "qardaşın"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "נביאך",
+      "gloss": "sənin peyğəmbərin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:06:10.983521273Z",
+  "model": "glm-5.3"
+}

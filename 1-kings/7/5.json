@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 7:5",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Və bütün qapılar və qapı dirəkləri kvadrat ⟨işlənmiş⟩, pəncərəli; və ⟨qarşısında⟩ pəncərə pəncərəyə ⟨baxır⟩, üç dəfə.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "הפתחים",
+      "gloss": "qapılar"
+    },
+    {
+      "surface": "והמזוזות",
+      "gloss": "və qapı dirəkləri"
+    },
+    {
+      "surface": "רבעים",
+      "gloss": "kvadrat"
+    },
+    {
+      "surface": "שקף",
+      "gloss": "pəncərəli"
+    },
+    {
+      "surface": "ומול",
+      "gloss": "və qarşısında"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "pəncərə"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨baxır⟩"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "pəncərəyə"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "üç"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "dəfə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:13:57.429913835Z",
+  "model": "glm-5.3"
+}

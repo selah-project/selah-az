@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Salmon ⟨את⟩ Boozu doğurdu, Booz isə ⟨את⟩ Ovədi doğurdu.",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "Salmon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boozu"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boozu"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "Booz isə"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ovədi"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Ovədi"
+    }
+  ],
+  "timestamp": "2026-09-01T16:22:32.519282612Z",
+  "model": "glm-5.3"
+}

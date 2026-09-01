@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 9:11",
+  "book": "zechariah",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Həm sən — sənin əhdinin qanı ilə mən sənin əsirlərini göndərdim, içində su olmayan zindandan.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "həm"
+    },
+    {
+      "surface": "את",
+      "gloss": "sən"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "qanı ilə"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "sənin əhdinin"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "mən göndərdim"
+    },
+    {
+      "surface": "אסיריך",
+      "gloss": "sənin əsirlərini"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "zindandan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "olmayan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    },
+    {
+      "surface": "בו",
+      "gloss": "içində"
+    }
+  ],
+  "timestamp": "2026-09-01T14:58:03.374104820Z",
+  "model": "glm-5.3"
+}

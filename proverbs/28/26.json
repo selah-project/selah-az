@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 28:26",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "Ürəyinə güvənən o, fool ⟨kimi⟩ — ağılsızdır; hikmətlə gedən isə o, qurtulacaq.",
+  "tokens": [
+    {
+      "surface": "בוטח",
+      "gloss": "güvənən"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "ürəyinə"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ağılsızdır"
+    },
+    {
+      "surface": "והולך",
+      "gloss": "gedən isə"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "hikmətlə"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "qurtulacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T16:00:30.024056707Z",
+  "model": "glm-5.3"
+}

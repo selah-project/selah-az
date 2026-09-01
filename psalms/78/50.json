@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 78,
+  "translation": "Qəzəbinə yol düzlədi, canlarını ölümdən saxlamadı, həyatlarını vəbaya təslim etdi.",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "düzlədi"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "yol"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "qəzəbinə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "saxlamadı"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ölümdən"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "canlarını"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "həyatlarını"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "vəbaya"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "təslim etdi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:26:24.823803506Z",
+  "model": "glm-5.3"
+}

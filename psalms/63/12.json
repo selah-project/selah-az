@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 63:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 63,
+  "translation": "Padşah isə Elohimdə sevinəcək, Onun adı ilə and içən hər kəs öyünəcək, çünki yalan danışanların ağzı bağlanacaq.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Padşah isə"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "sevinəcək"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimdə"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "öyünəcək"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər kəs"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "and içən"
+    },
+    {
+      "surface": "בו",
+      "gloss": "Onun adı ilə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "יסכר",
+      "gloss": "bağlanacaq"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzı"
+    },
+    {
+      "surface": "דוברי",
+      "gloss": "danışanların"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yalan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:20:15.525916800Z",
+  "model": "glm-5.3"
+}

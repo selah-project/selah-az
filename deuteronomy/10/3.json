@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 10:3",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Və şittim ağacından sandıq düzəltdim, və ilklər kimi iki daş lövhə yondum, və dağa çıxdım, və iki lövhə əlimdə idi.",
+  "tokens": [
+    {
+      "surface": "ואעש",
+      "gloss": "və düzəltdim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandıq"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ağacından"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "şittim"
+    },
+    {
+      "surface": "ואפסל",
+      "gloss": "və yondum"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iki"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "lövhə"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "daş"
+    },
+    {
+      "surface": "כראשנים",
+      "gloss": "ilklər kimi"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "və çıxdım"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "dağa"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "və iki"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "lövhə"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "əlimdə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:49:10.944146360Z",
+  "model": "glm-5.3"
+}

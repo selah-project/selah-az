@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 11:6",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "və bütün Mitsrayim torpağında böyük bir fəryad olacaq — onun kimi olmamışdır və onun kimi bir də ⟨olmayacaq⟩.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "və olacaq"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "fəryad"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "torpağında"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki, onun kimi"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "onun kimi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "olmamışdır"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "olmamışdır"
+    },
+    {
+      "surface": "וכמהו",
+      "gloss": "və onun kimi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bir də"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "⟨olmayacaq⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T10:07:53.423358509Z",
+  "model": "glm-5.3"
+}

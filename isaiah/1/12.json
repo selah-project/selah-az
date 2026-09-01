@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 1:12",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Çünki üzümü görməyə gəldiyinizdə — kim bunu əllərinizdən istədi, həyətlərimi çiynəməyə?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "gəldiyinizdə"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "görməyə"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzümü"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "istədi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bunu"
+    },
+    {
+      "surface": "מידכם",
+      "gloss": "əllərinizdən"
+    },
+    {
+      "surface": "רמס",
+      "gloss": "çiynəməyə"
+    },
+    {
+      "surface": "חצרי",
+      "gloss": "həyətlərimi"
+    }
+  ],
+  "timestamp": "2026-09-01T12:45:22.876196645Z",
+  "model": "glm-5.3"
+}

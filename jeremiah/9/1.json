@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 9:1",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Kim mənə çöldə yolçuların qonaq evi verər ki, mən ⟨את⟩ xalqımı tərk edib onlardan uzaqlaşam? Çünki hamısı zina edənlərdir, xainlər yığıncağıdır.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יתנני",
+      "gloss": "mənə verər"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "çöldə"
+    },
+    {
+      "surface": "מלון",
+      "gloss": "qonaq evi"
+    },
+    {
+      "surface": "ארחים",
+      "gloss": "yolçuların"
+    },
+    {
+      "surface": "ואעזבה",
+      "gloss": "tərk edim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqımı"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqımı"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "gedim"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ onlardan ⟨uzaqlaşım⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "hamısı"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "zina edənlərdir"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "yığıncağı"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "xainlər"
+    }
+  ],
+  "timestamp": "2026-09-01T13:28:50.683197497Z",
+  "model": "glm-5.3"
+}

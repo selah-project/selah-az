@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 57:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 57,
+  "translation": "Canım şirlərin arasında ⟨dir⟩; alovlu adamların oğullarının arasında uzanıram — dişləri nizə və oxlar, dilləri isə kəskin qılıncdır.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "içində"
+    },
+    {
+      "surface": "לבאם",
+      "gloss": "şirlərin"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "uzanıram"
+    },
+    {
+      "surface": "להטים",
+      "gloss": "alovlu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adamların"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "dişləri"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "nizə"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "və oxlar"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "dilləri"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "qılınc"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "kəskin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:19:29.833693441Z",
+  "model": "glm-5.3"
+}

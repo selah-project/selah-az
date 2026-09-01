@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "leviticus 14:53",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Diri quşu şəhərin kənarına, sahənin üzünə buraxacaq və ev üçün kəffarə edəcək və ⟨o⟩ təmiz olacaq.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "buraxacaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diri quşu"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "quşu"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "diri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kənarına"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "şəhərin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzünə"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sahənin"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "kəffarə edəcək"
+    },
+    {
+      "surface": "על",
+      "gloss": "üçün"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "təmiz olacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T10:26:06.267636549Z",
+  "model": "glm-5.3"
+}

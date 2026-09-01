@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 49,
+  "translation": "Dirijora, Qorah oğullarına, məzmur.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Dirijora"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oğullarına"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qorah"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "məzmur"
+    }
+  ],
+  "timestamp": "2026-09-01T15:16:39.587666098Z",
+  "model": "glm-5.3"
+}

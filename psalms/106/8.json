@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 106,
+  "translation": "Onları Öz adı uğrunda xilas etdi, ⟨את⟩ qüdrətini bildirmək üçün.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "xilas etdi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "uğrunda"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Öz adı"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "bildirmək üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qüdrətini"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "qüdrətini"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:00.980631229Z",
+  "model": "glm-5.3"
+}

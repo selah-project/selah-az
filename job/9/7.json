@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 9:7",
+  "book": "job",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "O ki, günəşə deyir və o doğmur, ulduzları isə möhürləyir.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "לחרס",
+      "gloss": "günəşə"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və … mır"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "doğmur"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "isə"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "ulduzları"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "möhürləyir"
+    }
+  ],
+  "timestamp": "2026-09-01T16:05:52.496217502Z",
+  "model": "glm-5.3"
+}

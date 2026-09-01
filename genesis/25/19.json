@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 25:19",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Və bunlar Yitsxaqın — Avrahamın oğlunun — nəsilləridir: Avraham ⟨את⟩ Yitsxaqı doğdu.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "və bunlar"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "nəsilləridir"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsxaqın"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamın"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "doğdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitsxaqı"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsxaqı"
+    }
+  ],
+  "timestamp": "2026-09-01T09:53:33.901009674Z",
+  "model": "glm-5.3"
+}

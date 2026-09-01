@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 10:15",
+  "book": "job",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Əgər günahkar olsam — vay mənə; saleh olsam — başımı qaldırmaram, utancdan toxmuşam, gör bəlamı.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "günahkar olsam"
+    },
+    {
+      "surface": "אללי",
+      "gloss": "vay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "saleh olsam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "qaldıraram"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "başımı"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "toxmuşam"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "utancdan"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "gör"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "bəlamı"
+    }
+  ],
+  "timestamp": "2026-09-01T16:07:28.690784368Z",
+  "model": "glm-5.3"
+}

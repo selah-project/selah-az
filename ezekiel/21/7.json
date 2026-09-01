@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 21:7",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "İnsan oğlu, üzünü Yeruşalayimə tərəf qoy və müqəddəslərə doğru təkidlə danış və İsrail torpağına qarşı peyğəmbərlik et.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "שים",
+      "gloss": "qoy"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "üzünü"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tərəfinə"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "və təkidlə danış"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tərəfinə"
+    },
+    {
+      "surface": "מקדשים",
+      "gloss": "müqəddəslər"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "və peyğəmbərlik et"
+    },
+    {
+      "surface": "אל",
+      "gloss": "qarşı"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "torpağına"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    }
+  ],
+  "timestamp": "2026-09-01T14:11:27.790692353Z",
+  "model": "glm-5.3"
+}

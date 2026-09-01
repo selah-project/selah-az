@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 1:20",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Əgər imtina etsəniz və üsyan etsəniz, qılınc yeyəcək ⟨sizi⟩, çünki Yahvenin ağzı danışdı.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "תמאנו",
+      "gloss": "imtina etsəniz"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "və üsyan etsəniz"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "qılınc"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yeyəcək"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "danışdı"
+    }
+  ],
+  "timestamp": "2026-09-01T12:45:43.290824309Z",
+  "model": "glm-5.3"
+}

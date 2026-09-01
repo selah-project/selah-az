@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 104:32",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 104,
+  "translation": "Yerə baxan Odur — yer titrəyir; dağlara toxunan Odur — onlar tüstülənirlər.",
+  "tokens": [
+    {
+      "surface": "המביט",
+      "gloss": "baxan (Odur)"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "yerə"
+    },
+    {
+      "surface": "ותרעד",
+      "gloss": "titrəyir"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "toxunan"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "dağlara"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "tüstülənirlər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:35:33.747756828Z",
+  "model": "glm-5.3"
+}

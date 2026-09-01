@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 73,
+  "translation": "Və bütün gün vurulmuş oldum, və mənim töhmətim hər səhər ⟨idi⟩.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "oldum"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "vurulmuş"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "və mənim töhmətim"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "hər səhər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:24:45.396966535Z",
+  "model": "glm-5.3"
+}

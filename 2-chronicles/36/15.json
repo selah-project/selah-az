@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 36:15",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 36,
+  "translation": "Və Yahve, onların atalarının Elohim-i, onların üstünə öz elçilərinin əli ilə, səhər-səhər durub göndərə-göndərə ⟨xəbərdarlıq etdi⟩, çünki ⟨o⟩ öz xalqına və öz məskəninə rəhm etdi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "göndərdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-i"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "onların atalarının"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "onların üstünə"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "əli ilə"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "öz elçilərinin"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "səhər-səhər durub"
+    },
+    {
+      "surface": "ושלוח",
+      "gloss": "göndərə-göndərə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "rəhm etdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "öz xalqına"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "və ... -ə"
+    },
+    {
+      "surface": "מעונו",
+      "gloss": "öz məskəninə"
+    }
+  ],
+  "timestamp": "2026-09-01T17:24:36.820276469Z",
+  "model": "glm-5.3"
+}

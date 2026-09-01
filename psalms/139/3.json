@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 139,
+  "translation": "Yolumu və uzanma mı ələdın ⟨səxilədin⟩, bütün yollarımla tanışsan.",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "yolumu"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "və uzanma mı"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "ələdın"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "yollarımla"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "tanışsan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:44:36.503308717Z",
+  "model": "glm-5.3"
+}

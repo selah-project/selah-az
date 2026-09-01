@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Sən mənim sənə əmr etdiyim hər şeyi danışacaqsan, qardaşın Aharon Paroya danışacaq ki, İsrail oğullarını öz torpağından buraxsın.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sən"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "danışacaqsan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hər şeyi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər şeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-diyi"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "sənə əmr etdiyim"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "və Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "qardaşın"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "danışacaq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "buraxsın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsrail oğullarını"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "öz torpağından"
+    }
+  ],
+  "timestamp": "2026-09-01T10:06:10.983824619Z",
+  "model": "glm-5.3"
+}

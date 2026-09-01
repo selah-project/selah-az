@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Və bütün xalq qulaqlarındakı qızıl halqaları ⟨את⟩ sökdü və Ahrona gətirdilər.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "və sökdülər"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qızıl halqaları"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "halqaları"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "qızıl"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "qulaqlarında"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "və gətirdilər"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-09-01T10:20:07.613027449Z",
+  "model": "glm-5.3"
+}

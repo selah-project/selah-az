@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Ever otuz dörd il yaşadı və ⟨את⟩ Peleqi doğdu.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "yaşadı"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "dörd"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "və otuz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "il"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "doğdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peleqi"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleqi"
+    }
+  ],
+  "timestamp": "2026-09-01T17:25:56.590605620Z",
+  "model": "glm-5.3"
+}

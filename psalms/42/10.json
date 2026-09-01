@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 42,
+  "translation": "Deyirəm Elə, qayam: “Niyə məni unutdun? Niyə düşmənin təzyiqi altında qəmlə gedirəm?”",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "deyirəm"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "El"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "qayam"
+    },
+    {
+      "surface": "למה",
+      "gloss": "niyə"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "unutdun"
+    },
+    {
+      "surface": "למה",
+      "gloss": "niyə"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "qəmlə"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "gedirəm"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "təzyiqi altında"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "düşmənin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:14:16.242041902Z",
+  "model": "glm-5.3"
+}

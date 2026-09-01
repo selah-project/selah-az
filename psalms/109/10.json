@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 109,
+  "translation": "Və oğulları gəzsin dolaşsın, dilənsinlər və ⟨onların⟩ xarabalıqlarından çörək axtarsınlar.",
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "və gəzsin"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "dolaşsınlar"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "dilənsinlər"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "və axtarsınlar"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "onların xarabalıqlarından"
+    }
+  ],
+  "timestamp": "2026-09-01T15:37:21.387815493Z",
+  "model": "glm-5.3"
+}

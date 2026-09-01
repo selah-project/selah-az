@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 22:23",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Çünki Yahve onların davasını aparacaq və onları soyanların canını ⟨את⟩ qoparacaq",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "davasını aparacaq"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "onların davası"
+    },
+    {
+      "surface": "וקבע",
+      "gloss": "və qoparacaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onları soyanların canını"
+    },
+    {
+      "surface": "קבעיהם",
+      "gloss": "onları soyanların"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "canını"
+    }
+  ],
+  "timestamp": "2026-09-01T15:57:12.778697336Z",
+  "model": "glm-5.3"
+}

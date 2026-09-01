@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Kənd həyətlərinin pusqusunda oturar; gizli yerlərdə məsumu öldürər; gözləri aciz ⟨üçün⟩ gizlicə gözləyər.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "oturar"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "pusqusunda"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "kənd həyətlərinin"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "gizli yerlərdə"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "öldürər"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "məsumu"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "gözləri"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "aciz"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "gizlicə gözləyər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:05:27.842561098Z",
+  "model": "glm-5.3"
+}

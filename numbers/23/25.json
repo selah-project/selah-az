@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Balaq Bilama dedi: «Nə lənətlə, onu lənətləmə, nə də xeyir-dua ilə, onu xeyir-dua vermə.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balaq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "{-e"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nə də"
+    },
+    {
+      "surface": "קב",
+      "gloss": "lənətləmək"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "onu lənətləmə"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nə də"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "xeyir-dua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "onu xeyir-dua vermə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:40:55.717525334Z",
+  "model": "glm-5.3"
+}

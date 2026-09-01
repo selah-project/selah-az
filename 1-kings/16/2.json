@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 16:2",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "⟨Buna görə ki⟩ səni tozdan qaldırdım və səni xalqım İsrail üzərinə başçı qoydum, sən isə Yaravamın yolunda getdin və xalqım İsraili ⟨את⟩ günaha saldın — onların günahları ilə məni qəzəbləndirmək üçün.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "⟨Buna görə ki⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ki⟩"
+    },
+    {
+      "surface": "הרימתיך",
+      "gloss": "qaldırdım səni"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "tozdan"
+    },
+    {
+      "surface": "ואתנך",
+      "gloss": "və qoydum səni"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "başçı"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqım"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "sən isə getdin"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolunda"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaravamın"
+    },
+    {
+      "surface": "ותחטא",
+      "gloss": "və günaha saldın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqım İsraili"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqım"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsraili"
+    },
+    {
+      "surface": "להכעיסני",
+      "gloss": "məni qəzəbləndirmək üçün"
+    },
+    {
+      "surface": "בחטאתם",
+      "gloss": "onların günahları ilə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:22:15.513728854Z",
+  "model": "glm-5.3"
+}

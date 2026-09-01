@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Çünki hər arzuya ⟨⟨zaman⟩⟩ və mühakimə var, çünki insanın şəri onun üstündə çoxdur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "arzuya"
+    },
+    {
+      "surface": "יש",
+      "gloss": "var"
+    },
+    {
+      "surface": "עת",
+      "gloss": "⟨zaman⟩"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "və mühakimə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "şəri"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insanın"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "böyükdür"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üstündə"
+    }
+  ],
+  "timestamp": "2026-09-01T16:32:41.252510743Z",
+  "model": "glm-5.3"
+}

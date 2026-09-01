@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Çünki zülm müdriki dəli edir və rüşvət ⟨את⟩ ürəyi məhv edir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "zülm"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "dəli edir"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "müdriki"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "və məhv edir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ürəyi"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ürəyi"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "rüşvət"
+    }
+  ],
+  "timestamp": "2026-09-01T16:31:18.800308878Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 85,
+  "translation": "Xor rəhbərinə, Korach oğullarına aid, məzmur.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "xor rəhbərinə"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oğullarına aid"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "məzmur"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:10.253489298Z",
+  "model": "glm-5.3"
+}

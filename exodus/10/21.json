@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 10:21",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Yahve Moşeyə dedi: Əlini göylərə tərəf uzat ki, Mitsrayim torpağı üzərində qaranlıq olsun, ⟨hətta⟩ qaranlıq toxunular ⟨olsun⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-yə"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "uzat"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "əlini"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göylərə"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "qaranlıq"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərində"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "torpağı"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וימש",
+      "gloss": "toxunular"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "qaranlıq"
+    }
+  ],
+  "timestamp": "2026-09-01T10:07:17.354838178Z",
+  "model": "glm-5.3"
+}

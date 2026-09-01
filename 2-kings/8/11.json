@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Üzünü ⟨את⟩ ona tutub saxladı, o utanana qədər; və Elohim adamı ağladı.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "saxladı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "üzünü"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "üzünü"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "qoydu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "בש",
+      "gloss": "utanana"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "və ağladı"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimin"
+    }
+  ],
+  "timestamp": "2026-09-01T12:33:23.974402534Z",
+  "model": "glm-5.3"
+}

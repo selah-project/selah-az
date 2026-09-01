@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 2:42",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və padşah göndərib Şimini çağırdı və ona dedi: Mən səni Yahve ilə and içmədimmi və sənə qarşı şahidlik etdimmi: Çıxdığın gün və haraya gedirsənse, yaxşı bil ki, mütləq öləcəksən? Və sən mənə dedin: Eşitdiyim söz yaxşıdır.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "göndərdi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "çağırdı"
+    },
+    {
+      "surface": "לשמעי",
+      "gloss": "Şimini"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "dəmi"
+    },
+    {
+      "surface": "השבעתיך",
+      "gloss": "and içmədimmi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahve ilə"
+    },
+    {
+      "surface": "ואעד",
+      "gloss": "şahidlik etdim"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sənə qarşı"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "çıxdığın"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "gedərsən"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "hara"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "hara"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bil"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "yaxşı bil"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mütləq ölüm"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "öləcəksən"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "dedin"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşıdır"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "söz"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "eşitdiyim"
+    }
+  ],
+  "timestamp": "2026-09-01T12:10:47.488565126Z",
+  "model": "glm-5.3"
+}

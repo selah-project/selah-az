@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 7:11",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "⟨Qapıçılar⟩ çağırdılar və kral evinə ⟨evə⟩ daxilə bildirdilər.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "çağırdı"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "qapıçılar"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "bildirdilər"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evinə"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "daxilə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:33:41.515036953Z",
+  "model": "glm-5.3"
+}

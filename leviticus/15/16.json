@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 15:16",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Və kişidən toxum axıtı çıxsa, bütün bədənini suda yuyacaq və axşama qədər murdar olacaq.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "və kişidən"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-sa"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "çıxsa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "axıtı"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "toxum"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "yuyacaq"
+    },
+    {
+      "surface": "במים",
+      "gloss": "suda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün bədənini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "bədənini"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "murdar olacaq"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "axşama"
+    }
+  ],
+  "timestamp": "2026-09-01T10:28:07.072601741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 21:34",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Və Yahve Moşeyə dedi: Ondan qorxma, çünki onu sənin əlinə vermişəm, və ⟨את⟩ bütün xalqını, və ⟨את⟩ torpağını; və ona Sihonla, əmorilərin kralı ilə, o ki Heşvonda yaşayırdı, etdiyin kimi edəcəksən.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": " dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-yə"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "qorxma"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "əlinə"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "vermişəm"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "bütün xalqını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "xalqını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "torpağını"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "torpağını"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "edəcəksən"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "etdiyin"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "Sihonla"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "əmorilərin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o ki"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "yaşayırdı"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "Heşvonda"
+    }
+  ],
+  "timestamp": "2026-09-01T10:39:41.224938264Z",
+  "model": "glm-5.3"
+}

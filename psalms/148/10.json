@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 148,
+  "translation": "Vəhşi heyvanlar və bütün mal-qara, sürünənlər və qanadlı quşlar",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "vəhşi heyvanlar"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "mal-qara"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "sürünənlər"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "və quşlar"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "qanadlı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:18.774177345Z",
+  "model": "glm-5.3"
+}

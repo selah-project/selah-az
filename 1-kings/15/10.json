@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 15:10",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Və qırx bir il Yeruşalayimda hökmranlıq etdi; anasının adı Avişalomun qızı Maaxa idi.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "və qırx"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "bir"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "il"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hökmranlıq etdi"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yeruşalayimda"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "və adı"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "anasının"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maaxa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qızı"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "Avişalomun"
+    }
+  ],
+  "timestamp": "2026-09-01T12:21:24.890705894Z",
+  "model": "glm-5.3"
+}

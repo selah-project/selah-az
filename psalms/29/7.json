@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "Yahvenin səsi od alovlarını yarır.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "səsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "yarır"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "alovlarını"
+    },
+    {
+      "surface": "אש",
+      "gloss": "od"
+    }
+  ],
+  "timestamp": "2026-09-01T15:08:52.416647825Z",
+  "model": "glm-5.3"
+}

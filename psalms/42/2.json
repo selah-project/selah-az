@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 42,
+  "translation": "Kuel su dərələrinə həsrətlənən kimi, canım da Sənə həsrətlənir, ey Elohim.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "kuel kimi"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "həsrətlənir"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzlərinə"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "su dərələri"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    },
+    {
+      "surface": "כן",
+      "gloss": "eləcə də"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "həsrətlənir"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Sənə"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T15:14:29.173129016Z",
+  "model": "glm-5.3"
+}

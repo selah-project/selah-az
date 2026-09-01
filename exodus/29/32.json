@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "Və Aharon və oğulları yeyəcəklər ⟨את⟩ qoçun ətini və ⟨את⟩ səbətdə olan çörəyi, Xeyma-Muədin girişində.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "və yeyəcəklər"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "və oğulları"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qoçun ətini"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ətini"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "qoçun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "çörəyi"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "çörəyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "səbətdə olan"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "girişində"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Xeyma"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Muədin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:18:12.355653837Z",
+  "model": "glm-5.3"
+}

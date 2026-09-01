@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 135,
+  "translation": "Millətlərin bütləri gümüş və qızıldır, insan əllərinin əməlidirlər.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "bütləri"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "millətlərin"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "qızıl"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "əməlidirlər"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "əllərinin"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:32.474272508Z",
+  "model": "glm-5.3"
+}

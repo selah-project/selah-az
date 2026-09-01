@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 18:16",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Çünki onların ⟨bir⟩ işi olduqda yanıma gəlir, mən isə adamla onun yoldaşı arasında mühakimə edirəm və ⟨את⟩ Elohimin qanunlarını və ⟨את⟩ onun tövrələrini onlara bildirirəm.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olduqda"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onların"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "iş"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gəlir"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "yanıma"
+    },
+    {
+      "surface": "ושפטתי",
+      "gloss": "və mühakimə edirəm"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamla"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "və arasında"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "onun yoldaşı"
+    },
+    {
+      "surface": "והודעתי",
+      "gloss": "və bildirirəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qanunlarını"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "qanunlarını"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tövrələrini"
+    },
+    {
+      "surface": "תורתיו",
+      "gloss": "onun tövrələrini"
+    }
+  ],
+  "timestamp": "2026-09-01T10:11:31.468970181Z",
+  "model": "glm-5.3"
+}

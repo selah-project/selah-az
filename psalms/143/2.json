@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 143,
+  "translation": "Və qulunla mühakiməyə girme, çünki sənin üzündə heç bir yaşayan saleh sayılmaz.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "və girmə"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "girme"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "mühakiməyə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qulun"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "qulun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "heç"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "saleh sayılmaz"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sənin üzündə"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heç bir"
+    },
+    {
+      "surface": "חי",
+      "gloss": "yaşayan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:45:05.651643966Z",
+  "model": "glm-5.3"
+}

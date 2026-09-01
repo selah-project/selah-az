@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Davitin ölüm günəri yaxınlaşdı, və o, oğlu Şelomoya ⟨את⟩ buyuraraq dedi:",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "yaxınlaşdı"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "günəri"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davitin"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ölüm"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "və buyurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şelomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dedi"
+    }
+  ],
+  "timestamp": "2026-09-01T12:11:21.937093408Z",
+  "model": "glm-5.3"
+}

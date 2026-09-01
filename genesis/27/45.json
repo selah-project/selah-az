@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "genesis 27:45",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Qardaşının qəzəbi səndən dönənə qədər, və o, sənin ona etdiyin ⟨את⟩ şeyi unudanadək; ondan sonra mən göndərib səni oradan gətirəcəyəm. Niyə bir gündə hər ikinizdən də məhrum olum?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "dönənə"
+    },
+    {
+      "surface": "אף",
+      "gloss": "qəzəbi"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "qardaşının"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "səndən"
+    },
+    {
+      "surface": "ושכח",
+      "gloss": "və unudanadək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "etdiyin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ושלחתי",
+      "gloss": "və göndərib"
+    },
+    {
+      "surface": "ולקחתיך",
+      "gloss": "səni gətirəcəyəm"
+    },
+    {
+      "surface": "משם",
+      "gloss": "oradan"
+    },
+    {
+      "surface": "למה",
+      "gloss": "niyə"
+    },
+    {
+      "surface": "אשכל",
+      "gloss": "məhrum olum"
+    },
+    {
+      "surface": "גם",
+      "gloss": "də"
+    },
+    {
+      "surface": "שניכם",
+      "gloss": "hər ikinizdən"
+    },
+    {
+      "surface": "יום",
+      "gloss": "bir gündə"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    }
+  ],
+  "timestamp": "2026-09-01T17:25:42.948066038Z",
+  "model": "glm-5.3"
+}

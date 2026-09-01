@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 12:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Qor başçısına, şəminit üstündə — məzmur, Davud ⟨üçündür⟩.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "qor başçısına"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "şəminit"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "məzmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davud ⟨üçündür⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T15:03:46.001325458Z",
+  "model": "glm-5.3"
+}

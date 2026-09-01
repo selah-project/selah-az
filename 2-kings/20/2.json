@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "⟨O⟩ üzünü divara tərəf çevirdi və Yahveyə dua edib dedi:",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "çevirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "üzünü"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "üzünü"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tərəf"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "divara"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "və dua etdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-yə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dedi"
+    }
+  ],
+  "timestamp": "2026-09-01T12:42:33.229652253Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 16:24",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Millətlər arasında ⟨את⟩ onun izzətini danışın, bütün xalqlar arasında onun möcüzələrini",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "danışın"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "millətlər arasında"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onun izzətini"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "onun izzətini"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "xalqlar arasında"
+    },
+    {
+      "surface": "נפלאתיv",
+      "gloss": "onun möcüzələrini"
+    }
+  ],
+  "timestamp": "2026-09-01T17:04:36.048846870Z",
+  "model": "glm-5.3"
+}

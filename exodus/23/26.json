@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Ölkəndə nə düşük edən, nə qısırlaşan olacaq; günlərinizin sayını dolduracağam.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nə... olacaq"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "düşük edən"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "qısırlaşan"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "ölkəndə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sayını"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "sayını"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "günlərinizin"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "dolduracağam"
+    }
+  ],
+  "timestamp": "2026-09-01T10:14:42.234070124Z",
+  "model": "glm-5.3"
+}

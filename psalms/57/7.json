@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 57:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 57,
+  "translation": "Addımlarım üçün tor hazırladılar, canımı əydilər; önümə çuxur qazdılar ⟨amma⟩ özləri içinə düşdülər. Selah.",
+  "tokens": [
+    {
+      "surface": "רשת",
+      "gloss": "tor"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "hazırladılar"
+    },
+    {
+      "surface": "לפעמי",
+      "gloss": "addımlarım üçün"
+    },
+    {
+      "surface": "כפף",
+      "gloss": "əydilər"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "כרו",
+      "gloss": "qazdılar"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önümə"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "çuxur"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "düşdülər"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "içinə"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T15:19:29.834242578Z",
+  "model": "glm-5.3"
+}

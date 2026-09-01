@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 150,
+  "translation": "O-na tərif deyin tof və rəqs ilə; O-na tərif deyin minnim və uqav ilə.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "O-na tərif deyin"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "tof ilə"
+    },
+    {
+      "surface": "ומחול",
+      "gloss": "və rəqs ilə"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "O-na tərif deyin"
+    },
+    {
+      "surface": "במנים",
+      "gloss": "minnim ilə"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "və uqav ilə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:04.792421128Z",
+  "model": "glm-5.3"
+}

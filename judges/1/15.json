@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 1:15",
+  "book": "judges",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və o, ona dedi: «Mənə bəxşiş ver; çünki mənə Negev torpağını verdin — mənə su gölləri də ver.» Və Kalev ona yuxarı gölləri ⟨את⟩ və aşağı gölləri ⟨את⟩ verdi.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "ver"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "bəxşiş"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "torpağını"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Negev"
+    },
+    {
+      "surface": "נתתני",
+      "gloss": "verdin"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "və ver"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "gölləri"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "və verdi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yuxarı gölləri"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "gölləri"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "yuxarı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aşağı gölləri"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "gölləri"
+    },
+    {
+      "surface": "תחתית",
+      "gloss": "aşağı"
+    }
+  ],
+  "timestamp": "2026-09-01T11:15:46.170047360Z",
+  "model": "glm-5.3"
+}

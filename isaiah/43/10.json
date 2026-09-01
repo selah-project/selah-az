@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 43:10",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 43,
+  "translation": "«Siz mənim şahidlərimsiniz», — Yahvenin nümü ⟨dir⟩, — «və seçdiyim qulum, ki biləsiniz, mənə inanasınız və anlayasınız ki, mən oduram: məndən əvvəl yaradılmış El yoxdur və məndən sonra olmayacaq.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "mənim şahidlərimsiniz"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nümü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "və qulum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "seçdiyim"
+    },
+    {
+      "surface": "למען",
+      "gloss": "üçün"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "biləsiniz"
+    },
+    {
+      "surface": "ותאמינו",
+      "gloss": "və inanasınız"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "ותבינו",
+      "gloss": "və anlayasınız"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "oduram"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "məndən əvvəl"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "נוצר",
+      "gloss": "yaradılmış"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "və məndən sonra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olmayacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T13:06:43.877703676Z",
+  "model": "glm-5.3"
+}

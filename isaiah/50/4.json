@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 50:4",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 50,
+  "translation": "Adonay Yahve mənə öyrədilmişlərin dilini verdi ki, yorğuna ⟨את⟩ sözü dəstəkləməyi bilim; səhər-səhər oyadır, səhər-səhər mənim qulağımı oyadır ki, öyrədilmişlər kimi eşidim.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "dil"
+    },
+    {
+      "surface": "למודים",
+      "gloss": "öyrədilmişlərin"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "bilmək üçün"
+    },
+    {
+      "surface": "לעות",
+      "gloss": "dəstəkləməyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yorğunu"
+    },
+    {
+      "surface": "יעף",
+      "gloss": "yorğuna"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sözü"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "oyadır"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "səhər-səhər"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "səhər-səhər"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "oyadır"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənim"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "qulağımı"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "eşitmək üçün"
+    },
+    {
+      "surface": "כלמודים",
+      "gloss": "öyrədilmişlər kimi"
+    }
+  ],
+  "timestamp": "2026-09-01T13:15:46.670316041Z",
+  "model": "glm-5.3"
+}

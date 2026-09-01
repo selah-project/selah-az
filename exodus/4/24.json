@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 4:24",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Yolda, gecələnəcək yerdə baş verdi ki, Yahve onunla qarşılaşdı və onu öldürmək istədi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "baş verdi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolda"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "gecələnəcək yerdə"
+    },
+    {
+      "surface": "ויפגשהו",
+      "gloss": "onunla qarşılaşdı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "və istədi"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "onu öldürmək"
+    }
+  ],
+  "timestamp": "2026-09-01T10:05:09.417277188Z",
+  "model": "glm-5.3"
+}

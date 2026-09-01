@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 119:45",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Və geniş yerdə gəzəcəyəm, çünki Sənin buyuruqlarını axtardım.",
+  "tokens": [
+    {
+      "surface": "ואתהלכה",
+      "gloss": "və gəzəcəyəm"
+    },
+    {
+      "surface": "ברחבה",
+      "gloss": "geniş yerdə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "Sənin buyuruqlarını"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "axtardım"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:50.449602674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 34,
+  "translation": "Yahve ⟨את⟩ axtardım, O mənə cavab verdi və bütün qorxularımdan məni qurtardı.",
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "axtardım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "və mənə cavab verdi"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "qorxularımdan"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "məni qurtardı"
+    }
+  ],
+  "timestamp": "2026-09-01T17:41:50.305916729Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 9:14",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Və Xiram padşaha yüz iyərmi talant qızıl göndərdi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "və göndərdi"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Xiram"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "padşaha"
+    },
+    {
+      "surface": "مאה",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "və iyirmi"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "talant"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "qızıl"
+    }
+  ],
+  "timestamp": "2026-09-01T12:17:34.130660254Z",
+  "model": "glm-5.3"
+}

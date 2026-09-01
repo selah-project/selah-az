@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 78,
+  "translation": "Onları eşitdik və bildik, atalarımız da bizə danışdılar.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "eşitdik"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "və bildik"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "atalarımız da"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "danışdılar"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:26:14.735703495Z",
+  "model": "glm-5.3"
+}

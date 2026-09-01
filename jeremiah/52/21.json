@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 52:21",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 52,
+  "translation": "Və sütunlar ⟨haqqında⟩: bir sütunun hündürlüyü on səkkiz qulac ⟨idi⟩, və onu on iki qulac ip dolanırdı, və onun qalınlığı dörd barmaq ⟨idi⟩ — içi boş ⟨idi⟩.",
+  "tokens": [
+    {
+      "surface": "והעמודים",
+      "gloss": "və sütunlar"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "səkkiz"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "on(-səkkiz)"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "qulac"
+    },
+    {
+      "surface": "קומה",
+      "gloss": "hündürlüyü"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "sütun"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "וחוט",
+      "gloss": "və ip"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "iki"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "on"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "qulac"
+    },
+    {
+      "surface": "יסבנו",
+      "gloss": "onu dolanırdı"
+    },
+    {
+      "surface": "ועביו",
+      "gloss": "və onun qalınlığı"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "dörd"
+    },
+    {
+      "surface": "אצבעות",
+      "gloss": "barmaq"
+    },
+    {
+      "surface": "נבוב",
+      "gloss": "içi boş"
+    }
+  ],
+  "timestamp": "2026-09-01T13:59:44.358647251Z",
+  "model": "glm-5.3"
+}

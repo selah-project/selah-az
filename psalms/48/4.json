@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 48,
+  "translation": "Elohim onun saraylarında sığınacaq kimi tanınır.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "onun saraylarında"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "tanınır"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "sığınacaq kimi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:16:42.393634688Z",
+  "model": "glm-5.3"
+}

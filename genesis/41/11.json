@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 41:11",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 41,
+  "translation": "Bir gecə ikimiz də — mən və o — yuxu gördük; hər birimiz öz yuxusunun yozumuna görə yuxu gördük.",
+  "tokens": [
+    {
+      "surface": "ונחלמה",
+      "gloss": "yuxu gördük"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "yuxu"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "gecə"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "və o"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər birimiz"
+    },
+    {
+      "surface": "כפתרון",
+      "gloss": "yozumuna görə"
+    },
+    {
+      "surface": "חלמו",
+      "gloss": "öz yuxusunun"
+    },
+    {
+      "surface": "חלמנו",
+      "gloss": "yuxu gördük"
+    }
+  ],
+  "timestamp": "2026-09-01T09:59:49.885822094Z",
+  "model": "glm-5.3"
+}

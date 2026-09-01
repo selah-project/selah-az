@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "Xeyir-dua olun Yahve, çünki yalvarışlarımın səsini eşitdi.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "xeyir-dua olun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eşitdi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "səsini"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "yalvarışlarımın"
+    }
+  ],
+  "timestamp": "2026-09-01T15:09:16.512849025Z",
+  "model": "glm-5.3"
+}

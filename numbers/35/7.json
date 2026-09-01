@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 35:7",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "Ləvililərə verəcəyiniz bütün şəhərlər — qırx səkkiz şəhər ⟨את⟩ onları, ⟨את⟩ kənar torpaqları ilə birlikdə.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "şəhərlər"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "verəcəksiniz"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "Ləvililərə"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "qırx"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "səkkiz"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şəhər"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩ onları",
+      "marks": "onları (şəhərləri)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kənar torpaqları"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "kənar torpaqları"
+    }
+  ],
+  "timestamp": "2026-09-01T10:45:18.601704271Z",
+  "model": "glm-5.3"
+}

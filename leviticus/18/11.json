@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 18:11",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Atanının qadınının qızının — atanindən doğulmuş, o sənin bacındır — çılpaqlığını açma; onun çılpaqlığını açma.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "çılpaqlığı"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qızının"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "qadınının"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "atanın"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "doğulmuş"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "atanindən"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "sənin bacındır"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "açma"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "onun çılpaqlığını"
+    }
+  ],
+  "timestamp": "2026-09-01T10:27:32.587324637Z",
+  "model": "glm-5.3"
+}

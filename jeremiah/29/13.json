@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 29:13",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "Və məni axtaracaqsınız və tapacaqsınız, çünki məni bütün qəlbinizlə axtaracaqsınız.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "və axtaracaqsınız"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ məni",
+      "marks": "məni (Yahve)"
+    },
+    {
+      "surface": "ומצאתם",
+      "gloss": "və tapacaqsınız"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "תדרשני",
+      "gloss": "məni axtaracaqsınız"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "qəlbinizlə"
+    }
+  ],
+  "timestamp": "2026-09-01T13:42:20.332636462Z",
+  "model": "glm-5.3"
+}

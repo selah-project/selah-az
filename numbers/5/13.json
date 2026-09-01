@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 5:13",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "və bir kişi onunla ⟨את⟩ toxunma toxumlu yatıb və ⟨o⟩ kişinin gözündən gizli qalıb və o gizlənib, o murdarlanıb, və onun əleyhinə şahid yoxdur, və o yaxalanmayıb",
+  "tokens": [
+    {
+      "surface": "ושכב",
+      "gloss": "yatıb"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir kişi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "onunla"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "toxunma"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "toxum"
+    },
+    {
+      "surface": "ונעלם",
+      "gloss": "gizli qalıb"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "gözündən"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "kişinin"
+    },
+    {
+      "surface": "ונסתרה",
+      "gloss": "gizlənib"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "o"
+    },
+    {
+      "surface": "נטמאה",
+      "gloss": "murdarlanıb"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "şahid"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "בה",
+      "gloss": "onun əleyhinə"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "və o"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "נתפשה",
+      "gloss": "yaxalanmayıb"
+    }
+  ],
+  "timestamp": "2026-09-01T10:34:21.423754857Z",
+  "model": "glm-5.3"
+}

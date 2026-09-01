@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 46,
+  "translation": "Qoçunu ⟨את⟩, təqdiməti ⟨את⟩ və yağı ⟨את⟩ səhər-səhər hazırlasınlar — daimi yandırma qurbanı olaraq.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "və hazırlasınlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qoçunu"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "qoçunu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "təqdiməti"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "təqdiməti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yağı"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "yağı"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "səhər"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "səhər"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "yandırma qurbanı"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daimi"
+    }
+  ],
+  "timestamp": "2026-09-01T14:30:52.076115029Z",
+  "model": "glm-5.3"
+}

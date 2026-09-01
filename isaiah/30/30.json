@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 30:30",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Və Yahve ⟨את⟩ səsinin əzəmətini eşitdirəcək və qolunun enişini göstərəcək — qəzəbli öfklə və yandırıcı odun alovu ilə; dağıdıcı fırtına, sel və dolu daşı ⟨ilə⟩.",
+  "tokens": [
+    {
+      "surface": "והשמיע",
+      "gloss": "eşitdirəcək"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əzəmət"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "əzəmətini"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "səsinin"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "və enişini"
+    },
+    {
+      "surface": "זרועו",
+      "gloss": "qolunun"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "göstərəcək"
+    },
+    {
+      "surface": "בזעף",
+      "gloss": "qəzəbli"
+    },
+    {
+      "surface": "אף",
+      "gloss": "öfklə"
+    },
+    {
+      "surface": "ולהב",
+      "gloss": "və alovu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "odun"
+    },
+    {
+      "surface": "אוכלה",
+      "gloss": "yandırıcı"
+    },
+    {
+      "surface": "נפץ",
+      "gloss": "dağıdıcı fırtına"
+    },
+    {
+      "surface": "וזרם",
+      "gloss": "və sel"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "və daşı"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "dolu"
+    }
+  ],
+  "timestamp": "2026-09-01T13:00:52.583969378Z",
+  "model": "glm-5.3"
+}

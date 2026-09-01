@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 2:15",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "və onun ordusu və onların sayılmışları beş əlli min qırx dörd yüz — ⟨yəni⟩ qırx beş min altı yüz əlli",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "və onun ordusu"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "və onların sayılmışları"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "beş"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "və qırx"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "min"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "və altı"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "və əlli"
+    }
+  ],
+  "timestamp": "2026-09-01T10:32:45.986050158Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 2:2",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Mən bütün yerin yolunda gedirəm; ⟨sən⟩ möhkəm ol və kişi ol.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "gedirəm"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "וחזקת",
+      "gloss": "və möhkəm ol"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "⟨ol⟩"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kişi"
+    }
+  ],
+  "timestamp": "2026-09-01T12:11:21.937319084Z",
+  "model": "glm-5.3"
+}

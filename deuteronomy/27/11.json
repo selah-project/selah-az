@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Və Moşe xalqa ⟨את⟩ o gün əmr buyurdu, deyərək:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "və əmr buyurdu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "o gündə"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    }
+  ],
+  "timestamp": "2026-09-01T10:53:55.024283753Z",
+  "model": "glm-5.3"
+}

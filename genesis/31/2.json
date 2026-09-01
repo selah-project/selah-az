@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "və Yaqub Lavanın üzünə baxdı, və bax, o artıq onunla dünən və əvvəlki günlər kimi deyildi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "və baxdı"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqub"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "üzünə"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzünə"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavanın"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "və bax"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "o deyildi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "dünən kimi"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "və əvvəlki günlər"
+    }
+  ],
+  "timestamp": "2026-09-01T09:56:05.343263465Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 13:17",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "və kahin onu görər, və bax, zədə ağa dönmüşsə, kahin zədəni ⟨את⟩ təmiz elan edər — o, təmizdir.",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "və görər onu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "və bax"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "dönmüşsə"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "zədə"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "ağa"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "və təmiz elan edər"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zədəni"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "zədəni"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "təmiz"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-09-01T17:27:30.492986475Z",
+  "model": "glm-5.3"
+}

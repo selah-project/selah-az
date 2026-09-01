@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Sənə fəryad etdilər və qurtuldular; sənə arxalandılar və utandılar ⟨ki, yox⟩.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "fəryad etdilər"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "və qurtuldular"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "arxalandılar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "utandılar"
+    }
+  ],
+  "timestamp": "2026-09-01T17:42:01.287649213Z",
+  "model": "glm-5.3"
+}

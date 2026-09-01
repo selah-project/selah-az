@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Yalan adamları ilə oturmamışam və ikiüzlülərlə ⟨birlikdə⟩ girmərəm.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "oturmamışam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "adamları"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "yalan"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "və ... ilə"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "ikiüzlülərlə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "girmərəm"
+    }
+  ],
+  "timestamp": "2026-09-01T17:41:35.871045687Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və ⟨oldu⟩ ki, midyalar Elohimdən qorxdular, və ⟨O⟩ onlara evlər qazandırdı.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "və ⟨oldu⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "qorxdular"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "midyalar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "qazandırdı"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "evlər"
+    }
+  ],
+  "timestamp": "2026-09-01T10:03:12.594663669Z",
+  "model": "glm-5.3"
+}

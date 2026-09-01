@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 7:2",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "və Yahve, sənin Elohimin onları sənin önündə verəcək, sən onları vuracaqsan — onları tam məhv edəcəksiniz (hərəm), onlarla əhd kəsməyəcəqsan və onlara mərhəmət göstərməyəcəksan.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "onları verəcək"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sənin Elohimin"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sənin önündə"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "vuracaqsan"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "tam məhv (hərəm)"
+    },
+    {
+      "surface": "תחרים",
+      "gloss": "məhv edəcəksən"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "kəsməyəcəksan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlarla"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "əhd"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "תחנם",
+      "gloss": "onlara mərhəmət göstərmə"
+    }
+  ],
+  "timestamp": "2026-09-01T17:57:42.814723112Z",
+  "model": "glm-5.3"
+}

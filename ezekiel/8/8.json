@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 8:8",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və mənə dedi: İnsan oğlu, divarı ⟨indi⟩ deş. Mən divarı deşdim və bax, bir qapı ⟨idi⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "חתר",
+      "gloss": "deş"
+    },
+    {
+      "surface": "נא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "divarı"
+    },
+    {
+      "surface": "ואחתר",
+      "gloss": "və deşdim"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "divarı"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "və bax"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "qapı"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    }
+  ],
+  "timestamp": "2026-09-01T14:01:55.974465438Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 3:2",
+  "book": "zephaniah",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Səsə qulaq asmadı, tərbiyə qəbul etmədi, Yahve-yə etibar etmədi, öz Elohim-inə yaxınlaşmadı.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "qulaq asmadı"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "səsə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "qəbul etmədi"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tərbiyə"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahve-yə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "בטחה",
+      "gloss": "etibar etmədi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə doğru"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "öz Elohim-inə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "קרבה",
+      "gloss": "yaxınlaşmadı"
+    }
+  ],
+  "timestamp": "2026-09-01T14:52:03.018876667Z",
+  "model": "glm-5.3"
+}

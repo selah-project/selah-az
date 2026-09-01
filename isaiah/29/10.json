@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 29:10",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "Çünki Yahve sizin üstünüzə tərdəmə ruhu tökdü, gözlərinizi — peyğəmbərləri — bağladı, başlarınızı — görənləri — örtdü.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "tökdü"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sizin üstünüzə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhu"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "tərdəmə"
+    },
+    {
+      "surface": "ויעצם",
+      "gloss": "bağladı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gözlərinizi"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "gözlərinizi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peyğəmbərləri"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "peyğəmbərləri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "başlarınızı"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "başlarınızı"
+    },
+    {
+      "surface": "החזים",
+      "gloss": "görənləri"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "örtdü"
+    }
+  ],
+  "timestamp": "2026-09-01T13:00:39.458164230Z",
+  "model": "glm-5.3"
+}

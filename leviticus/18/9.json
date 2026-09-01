@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 18:9",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Bacının — atanın qızı və ya ananın qızı, evdə doğulmuş və ya bayırda doğulmuş — çılpaqlığını açma; onların çılpaqlığını açma.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "çılpaqlığı"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "bacının"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qızı"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "atanın"
+    },
+    {
+      "surface": "או",
+      "gloss": "və ya"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qızı"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ananın"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "doğulmuş"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evdə"
+    },
+    {
+      "surface": "או",
+      "gloss": "və ya"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "doğulmuş"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "bayırda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "açma"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "onların çılpaqlığını"
+    }
+  ],
+  "timestamp": "2026-09-01T10:27:32.586936636Z",
+  "model": "glm-5.3"
+}

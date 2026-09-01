@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 104,
+  "translation": "Təhomi paltar kimi örtdün onu; dağların üstündə dayanır ⟨sular⟩.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Təhomu"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "paltar kimi"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "örtdün"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dağların"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "dayanır"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sular"
+    }
+  ],
+  "timestamp": "2026-09-01T15:34:26.153848509Z",
+  "model": "glm-5.3"
+}

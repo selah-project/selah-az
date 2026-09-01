@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 2:2",
+  "book": "esther",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və kralın nəğərləri, onun xidmətçiləri, dedilər: kral üçün gözəl görünüşlü bakirə qızlar axtarılsın.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "və dedilər"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "nəğərləri"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "onun xidmətçiləri"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "axtarılsın"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kral üçün"
+    },
+    {
+      "surface": "נערות",
+      "gloss": "qızlar"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "bakirə"
+    },
+    {
+      "surface": "טובות",
+      "gloss": "gözəl"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "görünüşlü"
+    }
+  ],
+  "timestamp": "2026-09-01T16:34:50.001259477Z",
+  "model": "glm-5.3"
+}

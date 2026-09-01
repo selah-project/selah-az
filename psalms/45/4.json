@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 45,
+  "translation": "Qılınçını bellə ⟨bağla⟩, ey qüdrətli; izzətin ⟨və⟩ əzəmətin.",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "⟨bağla⟩"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "qılınçını"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "bel"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "qüdrətli"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "izzətin"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "əzəmətin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:17:16.403906551Z",
+  "model": "glm-5.3"
+}

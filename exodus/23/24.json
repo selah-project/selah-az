@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 23:24",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Onların tanrılarına səcdə etməyəcəksən, onlara xidmət etməyəcəksən, onların əməlləri kimi etməyəcəksən, çünki onları tam yıxacaqsan və onların durdurulmuş daşlarını tam sındıracaqsan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "səcdə etməyəcəksən"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "onların tanrılarına"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "תעבדם",
+      "gloss": "onlara xidmət etməyəcəksən"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "etməyəcəksən"
+    },
+    {
+      "surface": "כמעשיהם",
+      "gloss": "onların əməlləri kimi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "tam yıx"
+    },
+    {
+      "surface": "תהרסם",
+      "gloss": "yıxacaqsan onları"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "və tam sındır"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "sındıracaqsan"
+    },
+    {
+      "surface": "מצבתיהם",
+      "gloss": "onların durdurulmuş daşlarını"
+    }
+  ],
+  "timestamp": "2026-09-01T10:13:59.264207300Z",
+  "model": "glm-5.3"
+}

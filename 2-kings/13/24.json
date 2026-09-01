@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 13:24",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Və Hazaəl, Aramın padşahı, öldü; Ben-Hadad, onun oğlu, onun yerinə padşahlıq etdi.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "öldü"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Hazaəl"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşahı"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramın"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "padşahlıq etdi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "onun oğlu"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "onun yerinə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:36:34.848709917Z",
+  "model": "glm-5.3"
+}

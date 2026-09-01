@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 40:6",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "Və şərq tərəfə baxan qapıya gəldi, onun pilləkənləri ilə qalxdı və qapının bir astanasının enini bir qamış, ⟨və⟩ ⟨את⟩ o birinci astananın ⟨da⟩ enini bir qamış ölçdü.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "gəldi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "שער",
+      "gloss": "qapı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "üzü"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tərəfə"
+    },
+    {
+      "surface": "הקדימה",
+      "gloss": "şərq"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "qalxdı"
+    },
+    {
+      "surface": "במעלותו",
+      "gloss": "onun pilləkənləri ilə"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "və ölçdü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "astana"
+    },
+    {
+      "surface": "סף",
+      "gloss": "astana"
+    },
+    {
+      "surface": "השער",
+      "gloss": "qapının"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "qamış"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "en"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "o birinci astana"
+    },
+    {
+      "surface": "סף",
+      "gloss": "astana"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "qamış"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "en"
+    }
+  ],
+  "timestamp": "2026-09-01T14:28:46.486545640Z",
+  "model": "glm-5.3"
+}

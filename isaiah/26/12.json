@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 26:12",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Yahve, Sən bizim üçün salom qoyarsan; çünki bütün əməllərimizi də Sən bizim üçün işlədin.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תשפת",
+      "gloss": "qoyursan"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salom"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizim üçün"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "גם",
+      "gloss": "də"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מעשינו",
+      "gloss": "əməllərimizi"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "işlədin"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizim üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T12:57:19.920266447Z",
+  "model": "glm-5.3"
+}

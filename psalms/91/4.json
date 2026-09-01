@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 91,
+  "translation": "Ləlkləri ilə səni örtəcək, qanadları altında sığınacaqsan; sipər və qalxan ⟨dır⟩ Onun əməni.",
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "ləlkləri ilə"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "örtəcək"
+    },
+    {
+      "surface": "לך",
+      "gloss": "səni"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "qanadları"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "sığınacaqsan"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "sipər"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "və qalxan"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "Onun əməni"
+    }
+  ],
+  "timestamp": "2026-09-01T15:33:09.218042157Z",
+  "model": "glm-5.3"
+}

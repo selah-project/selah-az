@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 8:15",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və dedi: Xeyir-dua olunsun Yahve, İsrailin Elohimi, ki O, ağzı ilə ⟨את⟩ atam Davidə danışdı və əli ilə ⟨onu⟩ yerinə yetirdi, deyərək:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "xeyir-dua olunsun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "danışdı"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "ağzı ilə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atam Davidə"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atam"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "və əli ilə"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "yerinə yetirdi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    }
+  ],
+  "timestamp": "2026-09-01T17:34:20.383042655Z",
+  "model": "glm-5.3"
+}

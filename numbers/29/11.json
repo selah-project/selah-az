@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 29:11",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "bir keçi erkəyi — günah ⟨qurbanı⟩ olaraq; kəffarətin günah qurbanından, daimi yandırma qurbanından ⟨başqa⟩, onun un darısından və onların içilik qurbanlarından ⟨əlavə⟩.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "keçi erkəyi"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "keçi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "günah qurbanı"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "başqa"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "günah qurbanı"
+    },
+    {
+      "surface": "הכפרים",
+      "gloss": "kəffarətin"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "və yandırma qurbanı"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "daimi"
+    },
+    {
+      "surface": "ומנחתה",
+      "gloss": "və onun un darısı"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "və onların içilik qurbanları"
+    }
+  ],
+  "timestamp": "2026-09-01T10:42:37.115655751Z",
+  "model": "glm-5.3"
+}

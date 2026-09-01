@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "İki nəfər bir yerdə gedərmi, əgər ⟨öncədən⟩ razılaşmamış olsunlar?",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "gedərmi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "İki nəfər"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bir yerdə"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "əgər ... məsənin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "-mə"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "razılaşmamış olsunlar"
+    }
+  ],
+  "timestamp": "2026-09-01T14:39:58.524896126Z",
+  "model": "glm-5.3"
+}

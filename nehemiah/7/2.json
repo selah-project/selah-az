@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 7:2",
+  "book": "nehemiah",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Əmr etdim ⟨את⟩ Xananiyə, qardaşıma, və ⟨את⟩ Xananyaya — biranın başçısına — Yeruşalayimin üzərinə; çünki o, düzgün bir adam kimi ⟨idi⟩ və Elohim⟨i⟩ çoxlarından artıq qorxurdu.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "əmr etdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Xanani"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "Xanani"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "qardaşıma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Xananya"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Xananya"
+    },
+    {
+      "surface": "שר",
+      "gloss": "başçısı"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "biranın"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayimin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "adam kimi"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "düzgün"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "və qorxurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "çoxlarından artıq"
+    }
+  ],
+  "timestamp": "2026-09-01T16:56:34.566343182Z",
+  "model": "glm-5.3"
+}

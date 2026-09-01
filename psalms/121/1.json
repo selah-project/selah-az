@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 121,
+  "translation": "Məqamlar mahnısı. Gözlərimi dağlara doğru qaldırıram — köməyim haradan gələcək?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "mahnısı"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "məqamlar"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "qaldırıram"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözlərimi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨doğru⟩"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "dağlara"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "haradan"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "gələcək"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "köməyim"
+    }
+  ],
+  "timestamp": "2026-09-01T15:41:52.704242483Z",
+  "model": "glm-5.3"
+}

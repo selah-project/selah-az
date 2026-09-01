@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və Yahve Elohim insanı torpağın tozundan formalaşdırdı və onun burun dəliklərinə həyat nəfəsini üflədi, və insan yaşayan can oldu.",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "formalaşdırdı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "insanı"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insanı"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "tozundan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "torpağın"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "üflədi"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "onun burun dəliklərinə"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "nəfəsini"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "həyat"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "can"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "yaşayan"
+    }
+  ],
+  "timestamp": "2026-09-01T09:45:54.121667415Z",
+  "model": "glm-5.3"
+}

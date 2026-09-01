@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 6:1",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Oğlum, əgər dostun üçün zamin olmusan, əgər yad adam üçün əlini vurmusan",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Oğlum"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "ערבת",
+      "gloss": "zamin olmusan"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "dostun üçün"
+    },
+    {
+      "surface": "תקעת",
+      "gloss": "vurmusan"
+    },
+    {
+      "surface": "לזר",
+      "gloss": "yad adam üçün"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "əlini"
+    }
+  ],
+  "timestamp": "2026-09-01T15:49:20.595593388Z",
+  "model": "glm-5.3"
+}

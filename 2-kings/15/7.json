@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 15:7",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Azarya ataları ilə yatdı, və ⟨את⟩ onu ataları ilə Davidin şəhərində dəfn etdilər; oğlu Yotam onun yerinə padşahlıq etdi.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "yatdı"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ataları"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "və dəfn etdilər"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ataları"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "şəhərində"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "və padşahlıq etdi"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "onun yerinə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:37:14.782054390Z",
+  "model": "glm-5.3"
+}

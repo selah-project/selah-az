@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 39:42",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 39,
+  "translation": "Yahvenin Moşeyə əmr etdiyi hər şeyə görə, elə İsrail oğulları bütün işi elə etdilər.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "hər şeyə görə"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "əmr etdiyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşeyə"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "elə"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "etdilər"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün işi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "işi"
+    }
+  ],
+  "timestamp": "2026-09-01T10:21:53.265145227Z",
+  "model": "glm-5.3"
+}

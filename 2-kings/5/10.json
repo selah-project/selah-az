@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 5:10",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Elişa ona ⟨bir⟩ elçi göndərib dedi: «Get, Yardenə yeddi dəfə çimmək, və ətin sənə qayıdacaq, və təmizlənəcəksən».",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "göndərib"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elişa"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "⟨bir⟩ elçi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "get"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "çimmək"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yeddi"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "dəfə"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "Yardenə"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "qayıdacaq"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "ətin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "təmizlənəcəksən"
+    }
+  ],
+  "timestamp": "2026-09-01T17:34:49.166055385Z",
+  "model": "glm-5.3"
+}

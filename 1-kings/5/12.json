@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 5:12",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "O, üç min məsəl danışdı, və onun nəğmələri min beş ⟨idi⟩.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "danışdı"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "üç"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "min"
+    },
+    {
+      "surface": "משל",
+      "gloss": "məsəl"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "və oldu"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "onun nəğmələri"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "beş"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "və min"
+    }
+  ],
+  "timestamp": "2026-09-01T12:12:15.796723286Z",
+  "model": "glm-5.3"
+}

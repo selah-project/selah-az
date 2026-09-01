@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 13:9",
+  "book": "job",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Yaxşıdırmı ki, o ⟨את⟩ sizi dindirsin? Yoxsa insanla lağ edildiyi kimi, onunla lağ edirsiniz?",
+  "tokens": [
+    {
+      "surface": "הטוב",
+      "gloss": "yaxşıdırmı"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "dindirsin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoxsa"
+    },
+    {
+      "surface": "כהתל",
+      "gloss": "lağ edildiyi kimi"
+    },
+    {
+      "surface": "באנוש",
+      "gloss": "insanla"
+    },
+    {
+      "surface": "תהתלו",
+      "gloss": "lağ edirsiniz"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onunla"
+    }
+  ],
+  "timestamp": "2026-09-01T16:07:06.862439310Z",
+  "model": "glm-5.3"
+}

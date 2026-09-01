@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Bəlkə, Yahvenin Tövrəsindədir onun xoşu, və Onun Tövrəsindən gecə-gündüz danışacaq ⟨o⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bəlkə"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əksinə"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "Tövrəsində"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "onun xoşu"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "Onun Tövrəsindən"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "danışacaq"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "gündüz"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "və gecə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:02:35.782622182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 19:37",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Bütün nizamlarımı və bütün qanunlarımı saxlayacağınız, ⟨את⟩ onları yerinə yetirəcəksiniz; mən Yahveyəm.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "saxlayacağınız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün nizamlarım"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "nizamlarım"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bütün qanunlarım"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "qanunlarım"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "yerinə yetirəcəksiniz"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onları"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveyəm"
+    }
+  ],
+  "timestamp": "2026-09-01T10:28:40.667728590Z",
+  "model": "glm-5.3"
+}

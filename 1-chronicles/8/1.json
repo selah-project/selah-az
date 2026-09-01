@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Benyamin ⟨את⟩ Belanı, öz ilkdoğulanını, dünyaya gətirdi; Aşbel ⟨ikinci⟩, Ahrax ⟨üçüncü⟩.",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "və Benyamin"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dünyaya gətirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bela"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "öz ilkdoğulanı"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "Aşbel"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikinci"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "və Ahrax"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "üçüncü"
+    }
+  ],
+  "timestamp": "2026-09-01T17:02:43.784561985Z",
+  "model": "glm-5.3"
+}

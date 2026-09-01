@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 3:17",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Qadınlardan biri dedi: ⟨Ay⟩ ağam, mən və bu qadın bir evdə yaşayırdıq, və mən onunla ⟨birlikdə⟩ evdə doğdum.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "qadın"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "biri"
+    },
+    {
+      "surface": "בי",
+      "gloss": "⟨ay⟩"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ağam"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "והאשה",
+      "gloss": "və qadın"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "yaşayırdıq"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "evdə"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "ואלד",
+      "gloss": "və doğdum"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "⟨birlikdə⟩ onunla"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "evdə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:10:41.920222838Z",
+  "model": "glm-5.3"
+}

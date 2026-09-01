@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "O sərvət pis bir müsibətlə məhv olur, ⟨o⟩ oğul doğur və əlində heç nə yoxdur.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "məhv olur"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "o sərvət"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "müsibətlə"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pis"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "doğur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "əlində"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "heç nə"
+    }
+  ],
+  "timestamp": "2026-09-01T16:31:34.686967485Z",
+  "model": "glm-5.3"
+}

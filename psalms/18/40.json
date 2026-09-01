@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 18:40",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Və müharibə üçün məni qüvvətlə qurşayırsan; mənim əleyhimə qalxanları mənim altıma yıxırsan.",
+  "tokens": [
+    {
+      "surface": "ותאזרני",
+      "gloss": "və məni qurşayırsan"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "qüvvətlə"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "müharibə üçün"
+    },
+    {
+      "surface": "תכריע",
+      "gloss": "yıxırsan"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "mənim əleyhimə qalxanları"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "mənim altıma"
+    }
+  ],
+  "timestamp": "2026-09-01T15:06:19.555745719Z",
+  "model": "glm-5.3"
+}

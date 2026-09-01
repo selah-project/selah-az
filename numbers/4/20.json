@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Ve girib ⟨את⟩ müqəddəsi udulduğu kimi görməsinlər, yoxsa ölsünlər.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ve … -mə"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "girməsinlər"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "görməyə"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "udulduğu kimi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "müqəddəsi"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "müqəddəsi"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "yoxsa ölsünlər"
+    }
+  ],
+  "timestamp": "2026-09-01T10:33:41.621879135Z",
+  "model": "glm-5.3"
+}

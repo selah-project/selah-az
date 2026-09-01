@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 136,
+  "translation": "Öz xalqını səhrada yönləndirənə — çünki onun hesedi əbədidir.",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "yönləndirənə"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "öz xalqını"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "səhrada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədidir"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "onun hesedi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:43:50.466060621Z",
+  "model": "glm-5.3"
+}

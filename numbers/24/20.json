@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 24:20",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Və ⟨o⟩ Amaleki gördü və məsəlini götürdü və dedi: Millətlərin başlanğıcı Amalekdir, onun axırı isə sonsuz məhvdır.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "gördü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleki"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleki"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "götürdü"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "məsəlini"
+    },
+    {
+      "surface": "ואאמר→ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "başlanğıcı"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "Millətlərin"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalekdir"
+    },
+    {
+      "surface": "ואחריתו",
+      "gloss": "onun axırı"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "sonsuz"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "məhvdır"
+    }
+  ],
+  "timestamp": "2026-09-01T10:41:43.492608376Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 3:5",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Əbədiymiş kimi qəzəblənəcək, yoxsa sona qədər saxlayacaq? Bax, sən danışdın və pis işlər gördün və ⟨bacardığını⟩ etdin.",
+  "tokens": [
+    {
+      "surface": "הינטר",
+      "gloss": "qəzəblənəcək (qəzəbi saxlayacaq)"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoxsa"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "saxlayacaq"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "sona qədər"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "danışdın"
+    },
+    {
+      "surface": "ותעשי",
+      "gloss": "və gördün"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "pis işlər"
+    },
+    {
+      "surface": "ותוכל",
+      "gloss": "və ⟨bacardığını etdin⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T13:22:04.631367395Z",
+  "model": "glm-5.3"
+}

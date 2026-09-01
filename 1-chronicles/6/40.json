@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 6:40",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Onlara Yehuda torpağında ⟨את⟩ Hevronu və ⟨את⟩ onun ətrafındakı kənd sahələrini verdilər.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "verdilər"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hevronu"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevronu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "torpağında"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "kənd sahələrini"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "onun kənd sahələrini"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "onun ətrafında"
+    }
+  ],
+  "timestamp": "2026-09-01T17:02:21.463063483Z",
+  "model": "glm-5.3"
+}

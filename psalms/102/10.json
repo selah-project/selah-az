@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 102,
+  "translation": "Çünki külü çörək kimi yedim və içim⟨i⟩ ağlamaqla qarışdırdım.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "külü"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "çörək kimi"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "yedim"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "və içim⟨i⟩"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "ağlamaqla"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "qarışdırdım"
+    }
+  ],
+  "timestamp": "2026-09-01T15:33:41.899401905Z",
+  "model": "glm-5.3"
+}

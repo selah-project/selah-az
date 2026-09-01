@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 23:25",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Qonşunun üzümlüyünə girdikdə arzuna görə, doyunca üzüm yeyə bilərsən, amma qabına qoymayacaqsan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "girdikdə"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "girdikdə"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "üzümlüyünə"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "qonşunun"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "yeyə bilərsən"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "üzüm"
+    },
+    {
+      "surface": "כנפשך",
+      "gloss": "arzuna görə"
+    },
+    {
+      "surface": "שבעך",
+      "gloss": "doyunca"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "amma qabına"
+    },
+    {
+      "surface": "כליך",
+      "gloss": "qabına"
+    },
+    {
+      "surface": "לא",
+      "gloss": "qoymayacaqsan"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "qoymayacaqsan"
+    }
+  ],
+  "timestamp": "2026-09-01T10:53:24.465983631Z",
+  "model": "glm-5.3"
+}

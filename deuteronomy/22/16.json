@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 22:16",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Və qızın atası yaşlılara desin: ⟨את⟩ qızımı bu kişiyə arvad olaraq verdim, o isə onu nifrət edir.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "və desin"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atası"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "qızın"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "yaşlılara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qızımı"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "qızımı"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "verdim"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kişiyə"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "arvad olaraq"
+    },
+    {
+      "surface": "וישנאה",
+      "gloss": "onu nifrət edir"
+    }
+  ],
+  "timestamp": "2026-09-01T10:53:33.363668829Z",
+  "model": "glm-5.3"
+}

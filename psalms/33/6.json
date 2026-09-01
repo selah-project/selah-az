@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "Yahvenin sözü ilə ⟨ isə ⟩ göylər yaradıldı, və Onun ağzının ruahı ilə bütün onların ordusu.",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "sözü ilə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "göylər"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "yaradıldı"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "və ruahı ilə"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "Onun ağzının"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "onların ordusu"
+    }
+  ],
+  "timestamp": "2026-09-01T15:10:32.942065285Z",
+  "model": "glm-5.3"
+}

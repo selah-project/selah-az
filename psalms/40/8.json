@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 40:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "O zaman dedim: bax, gəlmişəm; kitab scrollunda mənim haqqımda yazılıb.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "o zaman"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "dedim"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "gəlmişəm"
+    },
+    {
+      "surface": "במגלת",
+      "gloss": "scrollunda"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitab"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "yazılıb"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mənim haqqımda"
+    }
+  ],
+  "timestamp": "2026-09-01T15:14:30.511084528Z",
+  "model": "glm-5.3"
+}

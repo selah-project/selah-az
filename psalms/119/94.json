@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 94,
+  "ref": "psalms 119:94",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Səninəm, məni xilas et, çünki buyuruqlarını aramışam.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Səninəm"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "הוששיעני",
+      "gloss": "məni xilas et"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "buyuruqlarını"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "aramışam"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:27.943127955Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 106,
+  "translation": "Sular onların sıxıntı verənlərini örtdü, onlardan bir ⟨nəfər⟩ belə qalmadı.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "örtdü"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sular"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "onların sıxıntı verənlərini"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "onlardan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "qalmadı (inkar)"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "qalmadı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:00.917302650Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Adonay ona güləcək, çünki görür ki, onun günü gəlir.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "güləcək"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "görür"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "gəlir"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "onun günü"
+    }
+  ],
+  "timestamp": "2026-09-01T15:12:01.051001416Z",
+  "model": "glm-5.3"
+}

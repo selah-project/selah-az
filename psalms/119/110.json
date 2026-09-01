@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Pis adamlar mənə tor qurdular, amma əmrlərindən azmadım.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "qurdular"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "pis adamlar"
+    },
+    {
+      "surface": "פח",
+      "gloss": "tor"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "amma əmrlərindən"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תעיתי",
+      "gloss": "azmadım"
+    }
+  ],
+  "timestamp": "2026-09-01T15:41:08.970597739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 33:3",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "Həqiqətən, xalqları sevər; bütün müqəddəsləri ⟨sənin⟩ əlindədir; onlar ⟨sənin⟩ ayağının altında oturdular; ⟨hər kəs⟩ sözlərini daşıyır.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "həqiqətən"
+    },
+    {
+      "surface": "חבב",
+      "gloss": "sevər"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "xalqları"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "müqəddəsləri"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "əlində"
+    },
+    {
+      "surface": "והם",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "תכו",
+      "gloss": "oturdular"
+    },
+    {
+      "surface": "לרגלך",
+      "gloss": "ayağının altında"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "daşıyır"
+    },
+    {
+      "surface": "מדברתיך",
+      "gloss": "sözlərini"
+    }
+  ],
+  "timestamp": "2026-09-01T10:59:09.831924611Z",
+  "model": "glm-5.3"
+}

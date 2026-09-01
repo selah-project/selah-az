@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və kral Davud qocaldı, günlər ⟨iləri⟩ doldu; onu paltarla örtürdülər, lakin o, istilənmirdi.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "və kral"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "qocaldı"
+    },
+    {
+      "surface": "בא",
+      "gloss": "doldu"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "günlər"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "onu örtürdülər"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "paltarla"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lakin… yox"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "istilənmirdi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-09-01T12:08:33.090448704Z",
+  "model": "glm-5.3"
+}

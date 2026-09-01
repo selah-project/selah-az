@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 13:12",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Ölümlü insanı saf qızıldan, Adəm övladını isə Ofirin təmiz qızılından da nadir edəcəyəm.",
+  "tokens": [
+    {
+      "surface": "אוקיר",
+      "gloss": "nadir edəcəyəm"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Ölümlü insanı"
+    },
+    {
+      "surface": "מפז",
+      "gloss": "saf qızıldan"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "Adəm övladını"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "təmiz qızılından"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Ofirin"
+    }
+  ],
+  "timestamp": "2026-09-01T12:50:54.293943014Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 55:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 55,
+  "translation": "Gündüz və gecə ⟨onu⟩ dövrələyirlər divarlarının üstündə, və haqsızlıq və əziyyət ⟨var⟩ onun ortasında.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "Gündüz"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "və gecə"
+    },
+    {
+      "surface": "יסובבה",
+      "gloss": "dövrələyirlər ⟨onu⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "חומתיה",
+      "gloss": "divarlarının"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "və haqsızlıq"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "və əziyyət"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "onun ortasında"
+    }
+  ],
+  "timestamp": "2026-09-01T15:17:58.509006117Z",
+  "model": "glm-5.3"
+}

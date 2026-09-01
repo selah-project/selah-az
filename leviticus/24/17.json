@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Və ⟨əgər⟩ bir adam ⟨bir⟩ insanın ⟨hər hansı⟩ canına vurarsa, ölüm ilə öldürüləcək.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "və bir adam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨əgər⟩"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "vurarsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨hər hansı⟩"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "canına"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insanın"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölüm"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "öldürüləcək"
+    }
+  ],
+  "timestamp": "2026-09-01T10:30:21.244542732Z",
+  "model": "glm-5.3"
+}

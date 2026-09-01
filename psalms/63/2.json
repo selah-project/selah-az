@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 63,
+  "translation": "Elohim, sən mənim Elimsən; səni şəfəqlə axtarıram, sənə canım susadı, sənə ətim həsrət çəkir — quru və yorğun, susuz torpaqda.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənim Elimsən"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "səni şəfəqlə axtarıram"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "susadı"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "həsrət çəkir"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ətim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "torpaqda"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "quru"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "və yorğun"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "susuz"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    }
+  ],
+  "timestamp": "2026-09-01T17:42:44.209113543Z",
+  "model": "glm-5.3"
+}

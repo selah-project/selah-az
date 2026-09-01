@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 40:30",
+  "book": "job",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "Sənətkarlar onun haqqında sövdələşəcəkmi, onu kənanlılar arasında böləcəklərmi?",
+  "tokens": [
+    {
+      "surface": "יכרו",
+      "gloss": "sövdələşəcəkmi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun haqqında"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "sənətkarlar"
+    },
+    {
+      "surface": "יחצוהו",
+      "gloss": "onu böləcəklərmi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "כנענים",
+      "gloss": "kənanlılar"
+    }
+  ],
+  "timestamp": "2026-09-01T16:19:50.547720431Z",
+  "model": "glm-5.3"
+}

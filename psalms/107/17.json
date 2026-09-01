@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 107:17",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 107,
+  "translation": "Ağılsızlar üsyan ⟨yolundan⟩ öz təqsirlərinə görə əzab çəkirlər.",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "ağılsızlar"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "yolundan"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "üsyanlarından"
+    },
+    {
+      "surface": "ומעונתיהם",
+      "gloss": "və təqsirlərindən"
+    },
+    {
+      "surface": "יתענו",
+      "gloss": "əzab çəkirlər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:52.334821732Z",
+  "model": "glm-5.3"
+}

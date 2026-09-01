@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 14:11",
+  "book": "job",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Sular dənizdən çəkilir və çay quruyub kəsilib gedir.",
+  "tokens": [
+    {
+      "surface": "אזלו",
+      "gloss": "çəkilir"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sular"
+    },
+    {
+      "surface": "מני",
+      "gloss": "-dən"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dəniz"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "və çay"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "quruyur"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "əriyib kəsilib gedir"
+    }
+  ],
+  "timestamp": "2026-09-01T16:08:13.652077527Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 71:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 71,
+  "translation": "Bir çoxları üçün möcüzə ⟨kimi⟩ oldum, amma sən mənim güclü sığınacağımsan.",
+  "tokens": [
+    {
+      "surface": "כמופת",
+      "gloss": "möcüzə kimi"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "oldum"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "bir çoxları üçün"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "amma sən"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "sığınacağımsan"
+    },
+    {
+      "surface": "עז",
+      "gloss": "güclü"
+    }
+  ],
+  "timestamp": "2026-09-01T15:22:11.095696841Z",
+  "model": "glm-5.3"
+}

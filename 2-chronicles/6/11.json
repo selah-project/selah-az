@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 6:11",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Və oraya ⟨את⟩ sandığı qoydum — ⟨içində⟩ orada Yahvenin İsrail oğulları ilə kəsdiyi əhd ⟨var⟩.",
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "qoydum"
+    },
+    {
+      "surface": "שם",
+      "gloss": "oraya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandığı"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "sandığı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "əhd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "kəsdiyi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    }
+  ],
+  "timestamp": "2026-09-01T17:14:19.549430679Z",
+  "model": "glm-5.3"
+}

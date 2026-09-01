@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 63,
+  "translation": "Qılıncın əlinə töküləcəklər, tülkülərə pay olacaqlar.",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "töküləcəklər"
+    },
+    {
+      "surface": "על",
+      "gloss": "əlinə"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "əlinə"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "qılıncın"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "pay"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "tülkülərə"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "olacaqlar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:20:15.525751891Z",
+  "model": "glm-5.3"
+}

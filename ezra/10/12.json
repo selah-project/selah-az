@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 10:12",
+  "book": "ezra",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Bütün məclis cavab verdi və böyük səslə dedi: Belədir — sənin sözün ⟨bizim⟩ üzərimizə ⟨düşür⟩, ⟨bunu⟩ etmək ⟨üçün⟩.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "cavab verdi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "məclis"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "səslə"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "כן",
+      "gloss": "belədir"
+    },
+    {
+      "surface": "כדבריך",
+      "gloss": "sənin sözün"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "üzərimizə"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "etmək"
+    }
+  ],
+  "timestamp": "2026-09-01T16:52:15.321955674Z",
+  "model": "glm-5.3"
+}

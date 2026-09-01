@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 89,
+  "translation": "Sənin ⟨əlində⟩ qüdrətlə qol var; ⟨güclüdür⟩ əlin, yüksəkdir sağ əlin.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Sənin"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "qol"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ilə birlikdə"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "qüdrət"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "⟨güclüdür⟩"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "əlin"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "yüksəkdir"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "sağ əlin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:56.748429482Z",
+  "model": "glm-5.3"
+}

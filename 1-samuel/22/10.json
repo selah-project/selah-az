@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 22:10",
+  "book": "1-samuel",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "və o, onun üçün Yahvedən soruşdu, ona yemək verdi, və Filistli Golyatın qılıncını da ona verdi.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "soruşdu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onun üçün"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahvedən"
+    },
+    {
+      "surface": "וצידה",
+      "gloss": "yemək"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Filistli Golyatın qılıncını"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "qılıncını"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Golyatın"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filistli"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-09-01T11:43:41.914938566Z",
+  "model": "glm-5.3"
+}

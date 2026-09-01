@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 12:30",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Və Paro o gecə qalxdı, ⟨o⟩ və bütün qulları və bütün Mitsrayim, və Mitsrayimda böyük fəryad oldu, çünki elə bir ev yox idi ki, orada bir ölü olmasın.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "və qalxdı"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "gecə"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "qulları"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "və oldu"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "fəryad"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayimda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yox"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "olmasın"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "מת",
+      "gloss": "bir ölü"
+    }
+  ],
+  "timestamp": "2026-09-01T10:09:40.167751579Z",
+  "model": "glm-5.3"
+}

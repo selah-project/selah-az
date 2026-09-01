@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "Yalan ⟨dır⟩ at qurtuluş üçün, və çoxluq gücü ilə qurtarmayacaq.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "Yalan"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "at"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "qurtuluş üçün"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "və çoxluq"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "gücü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "qurtarmayacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:10:49.670626667Z",
+  "model": "glm-5.3"
+}

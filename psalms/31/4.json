@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "Çünki sən mənim qayam və qalamsan; Adının uğrunda məni yönəlt və ⟨məni⟩ yol göstər.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "mənim qayam"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "və qalamsan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "uğrunda"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Adının"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "məni yönəlt"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "⟨məni⟩ yol göstər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:09:35.600731958Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 116,
+  "ref": "psalms 119:116",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Sözlərinə görə məni saxla, ki yaşayım, və ümidimdən məni utandırma.",
+  "tokens": [
+    {
+      "surface": "סמכני",
+      "gloss": "məni saxla"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "sözlərinə görə"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "və yaşayım"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və utandırma"
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "məni"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "ümidimdən"
+    }
+  ],
+  "timestamp": "2026-09-01T17:43:03.712868687Z",
+  "model": "glm-5.3"
+}

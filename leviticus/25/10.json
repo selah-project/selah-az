@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 25:10",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Və əllinci ili müqəddəsləşdirəcəksiniz və bütün sakinlərinə ölkədə dorlor elan edəcəksiniz; o, sizin üçün Yovel olacaq; hər kəs öz mülkünə qayıdacaq və hər kəs öz ailəsinə qayıdacaq.",
+  "tokens": [
+    {
+      "surface": "וקדשתם",
+      "gloss": "və müqəddəsləşdirəcəksiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əllinci ili"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ilini"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "əllinci"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "il"
+    },
+    {
+      "surface": "וקראתם",
+      "gloss": "və elan edəcəksiniz"
+    },
+    {
+      "surface": "דרור",
+      "gloss": "azadlıq"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ölkədə"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "יושביה",
+      "gloss": "sakiləri"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "Yovel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin üçün"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "və qayıdacaqsınız"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər kəs"
+    },
+    {
+      "surface": "אל",
+      "gloss": "özinə... doğru"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "mülkuna"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "və hər kəs"
+    },
+    {
+      "surface": "אל",
+      "gloss": "doğru"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "ailəsinə"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "qayıdacaqsınız"
+    }
+  ],
+  "timestamp": "2026-09-01T10:31:06.077962971Z",
+  "model": "glm-5.3"
+}

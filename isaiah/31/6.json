@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 31:6",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "Qayıdın o kəsə, ⟨kimdən⟩ İsrail oğulları dərin azğınlığa düşdü.",
+  "tokens": [
+    {
+      "surface": "שובו",
+      "gloss": "qayıdın"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "o kəsə ⟨kimdən⟩"
+    },
+    {
+      "surface": "העמיקו",
+      "gloss": "dərin azğınlığa düşdü"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "azğınlıq"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    }
+  ],
+  "timestamp": "2026-09-01T13:01:08.437336472Z",
+  "model": "glm-5.3"
+}

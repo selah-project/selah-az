@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 9:22",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Yahve Moşeyə dedi: Əlini göylərə tərəf uzat ki, Mitsrayim üzərində — insan üzərində, mal-qara üzərində və Mitsrayim torpağındakı sahənin bütün otu üzərində bütün Mitsrayim torpağında dolu olsun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ə⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "uzat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əlini"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "əlini"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göylər"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "olsun ki"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "dolu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "torpağında"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərində"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "və üzərində"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "mal-qara"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "və üzərində"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "otu"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sahənin"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "torpağındakı"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T17:26:06.661196085Z",
+  "model": "glm-5.3"
+}

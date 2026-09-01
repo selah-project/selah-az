@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Moşe bir qurbanlıq yeri qurdu və onun adını Yahve-Nissi (Yahve mənim sancağımdır) qoydu.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "qurdu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "qurbanlıq yeri"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "və qoydu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "onun adını"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve-"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "Nissi"
+    }
+  ],
+  "timestamp": "2026-09-01T10:10:28.367335311Z",
+  "model": "glm-5.3"
+}

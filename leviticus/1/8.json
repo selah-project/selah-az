@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və Aharonun oğulları kahinlər ⟨את⟩ parçaları, ⟨את⟩ başı və ⟨את⟩ piyi qurbangahın üstündə olan odun üstündə olan oduncaqların üstünə düzəcəklər.",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "düzcəklər"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kahinlər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parçaları"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "parçaları"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "başını"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "baş"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "piyi"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "piy"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "oduncaqların"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olan"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "האש",
+      "gloss": "od"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olan"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "qurbangah"
+    }
+  ],
+  "timestamp": "2026-09-01T10:22:47.653060945Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 12:17",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "⟨Kimsi⟩ düzgünlüyü üzür, ədaləti bildirir; amma yalan şahidləri ⟨şərh edir⟩ hiyləgərlik.",
+  "tokens": [
+    {
+      "surface": "יפיח",
+      "gloss": "üzür (nəfəs verir)"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "düzgünlük"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "bildirir"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ədalət"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "amma şahid"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "yalanların"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "hiyləgərlik"
+    }
+  ],
+  "timestamp": "2026-09-01T15:52:28.709639065Z",
+  "model": "glm-5.3"
+}

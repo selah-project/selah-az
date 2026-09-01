@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 135:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 135,
+  "translation": "Yerin ucundan dumanları qaldıran, yağış üçün şimşəklər edən, xəzinələrindən küləyi çıxaran ⟨Odur⟩.",
+  "tokens": [
+    {
+      "surface": "מעלה",
+      "gloss": "qaldıran"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "dumanları"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ucundan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "şimşəklər"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "yağış üçün"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "edən"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "çıxaran"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "küləyi"
+    },
+    {
+      "surface": "מאוצרותיו",
+      "gloss": "xəzinələrindən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:43:18.822947714Z",
+  "model": "glm-5.3"
+}

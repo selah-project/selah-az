@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 25:10",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "O tarla ki, Avraham onu Ḥetin oğullarından ⟨את⟩ satın aldı — orada Avraham və Sara, arvadı dəfn edildi.",
+  "tokens": [
+    {
+      "surface": "השדה",
+      "gloss": "o tarla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "satın aldı"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ...-dan",
+      "marks": "satın alma mənbəyi: Ḥetin oğulları"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Ḥetin"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "orada"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "dəfn edildi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "və Sara"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "arvadı"
+    }
+  ],
+  "timestamp": "2026-09-01T09:53:07.768210619Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 9:7",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Və onlara dedi: «Evi murdarlayın, həyətləri öldürülənlərlə doldurun, çıxın.» Və çıxdılar və şəhərdə vurdular.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "murdarlayın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "evi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "və doldurun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "həyətləri"
+    },
+    {
+      "surface": "החצרות",
+      "gloss": "həyətləri"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "öldürülənlərlə"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "çıxın"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "və çıxdılar"
+    },
+    {
+      "surface": "והכו",
+      "gloss": "və vurdular"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "şəhərdə"
+    }
+  ],
+  "timestamp": "2026-09-01T14:06:51.142849380Z",
+  "model": "glm-5.3"
+}

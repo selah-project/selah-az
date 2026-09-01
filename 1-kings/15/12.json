@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 15:12",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Və qədim fahişələri ölkədən keçirdi, atalarının etdiyi bütün bütləri ⟨את⟩ yığışdırdı.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "və keçirdi"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "qədim fahişələri"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ölkə"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "və yığışdırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün bütləri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "bütləri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "etdiyi"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "atalarının"
+    }
+  ],
+  "timestamp": "2026-09-01T12:21:24.891030264Z",
+  "model": "glm-5.3"
+}

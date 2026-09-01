@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 16:32",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Zina edən qadın! ərinin yerinə yad kişiləri ⟨את⟩ götürürsən.",
+  "tokens": [
+    {
+      "surface": "האשה",
+      "gloss": "qadın"
+    },
+    {
+      "surface": "המנאפת",
+      "gloss": "zina edən"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "yerinə"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "ərinin"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "götürürsən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yad kişiləri"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "yad kişiləri"
+    }
+  ],
+  "timestamp": "2026-09-01T14:07:47.506806256Z",
+  "model": "glm-5.3"
+}

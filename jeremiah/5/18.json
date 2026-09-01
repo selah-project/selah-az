@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 5:18",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Və hətta o günlərdə belə, — Yahvenin nəqli — sizinlə ⟨את⟩ tam bir son etməyəcəyəm.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "və hətta"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "günlərdə"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "o"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nəqli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "etməyəcəyəm"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizinlə",
+      "marks": "siz"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "tam bir son"
+    }
+  ],
+  "timestamp": "2026-09-01T13:25:09.743510839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 7:6",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "«Yəhudaya qadalıb onu sarsıdaq, onu bizim üçün yarıb ⟨oraya⟩ padşah qoyaq — onun ⟨içində⟩, Tavəlin oğlu ⟨את⟩».",
+  "tokens": [
+    {
+      "surface": "נעלה",
+      "gloss": "qadalıb"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Yəhudaya"
+    },
+    {
+      "surface": "ונקיצנה",
+      "gloss": "onu sarsıdaq"
+    },
+    {
+      "surface": "ונבקענה",
+      "gloss": "onu yaraq"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "bizim üçün"
+    },
+    {
+      "surface": "ונמליך",
+      "gloss": "qoyaq"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "⟨içində⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tavəlin oğlu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "טבאל",
+      "gloss": "Tavəl"
+    }
+  ],
+  "timestamp": "2026-09-01T12:47:44.421584860Z",
+  "model": "glm-5.3"
+}

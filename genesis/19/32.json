@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 19:32",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Gəl, atamıza ⟨את⟩ şərab içirək və onunla yataq, atamızdan nəsil dirildək.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "gəl"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "içirək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atamıza"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "atamıza"
+    },
+    {
+      "surface": "יין",
+      "gloss": "şərab"
+    },
+    {
+      "surface": "ונשכבה",
+      "gloss": "və yataq"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "və dirildək"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "atamızdan"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "nəsil"
+    }
+  ],
+  "timestamp": "2026-09-01T09:50:59.719045648Z",
+  "model": "glm-5.3"
+}

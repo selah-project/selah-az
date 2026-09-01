@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 3:6",
+  "book": "song-of-songs",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Kim ⟨dir⟩ bu, çöldən qalxan, tüstü sütunları kimi, myrr və ətirli günlük yağı ilə ətirlənmiş, tacirin bütün tozlarından?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kim"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "qalxan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "çöldən"
+    },
+    {
+      "surface": "כתימרות",
+      "gloss": "sütunları kimi"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "tüstü"
+    },
+    {
+      "surface": "מקטרת",
+      "gloss": "ətirlənmiş"
+    },
+    {
+      "surface": "מור",
+      "gloss": "myrr"
+    },
+    {
+      "surface": "ולבונה",
+      "gloss": "ətirli günlük yağı"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "אבקת",
+      "gloss": "tozlarından"
+    },
+    {
+      "surface": "רוכל",
+      "gloss": "tacirin"
+    }
+  ],
+  "timestamp": "2026-09-01T16:21:59.663640359Z",
+  "model": "glm-5.3"
+}

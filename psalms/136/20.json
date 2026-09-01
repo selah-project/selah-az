@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 136:20",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 136,
+  "translation": "və Oqa, Başanın padşahına, çünki onun hesedi əbədidir.",
+  "tokens": [
+    {
+      "surface": "ולעוג",
+      "gloss": "və Oqa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşahına"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Başanın"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədidir"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "onun hesedi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:44:00.312530473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "Kim Yahvenin ⟨את⟩ ruhunu ölçüb tarazlıya bilib, və hansı adam Ona ⟨öz⟩ məsləhətini bildirib?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "ölçüb tarazlıya bilib"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruhunu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhunu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "və hansı adam"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "Onun məsləhətini"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "Ona bildirib"
+    }
+  ],
+  "timestamp": "2026-09-01T13:06:28.916254638Z",
+  "model": "glm-5.3"
+}

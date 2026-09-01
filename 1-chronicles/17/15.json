@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 17:15",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Bütün bu sözlərə və bütün bu mənzərəyə görə, Natan Davidə belə danışdı.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "bütün ... görə"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sözlərə"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "və bütün ... görə"
+    },
+    {
+      "surface": "החזון",
+      "gloss": "mənzərəyə"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "belə"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "danışdı"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-09-01T17:06:16.350279086Z",
+  "model": "glm-5.3"
+}

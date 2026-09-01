@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 5:9",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Ağır olsun iş kişilərin üstündə və onda işləsinlər; yalan sözlərə baxmasınlar.",
+  "tokens": [
+    {
+      "surface": "תכבד",
+      "gloss": "ağır olsun"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "iş"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "kişilərin"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "və işləsinlər"
+    },
+    {
+      "surface": "בה",
+      "gloss": "onunda"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "baxmasınlar"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "sözlərə"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yalan"
+    }
+  ],
+  "timestamp": "2026-09-01T18:20:30.734110096Z",
+  "model": "glm-5.3"
+}

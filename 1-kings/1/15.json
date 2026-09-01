@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 1:15",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Bat-Şeva kralın yanına, ⟨⟩ otağına girdi; kral çox qoca idi, və Şunamli Avişag krala ⟨את⟩ krala xidmət edirdi.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "girdi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Şeva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "otağına"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "və kral"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "qoca idi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çox"
+    },
+    {
+      "surface": "ואבישג",
+      "gloss": "və Avişag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "Şunamli"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "xidmət edirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krala"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krala"
+    }
+  ],
+  "timestamp": "2026-09-01T12:08:32.864473792Z",
+  "model": "glm-5.3"
+}

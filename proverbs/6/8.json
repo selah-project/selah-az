@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 6:8",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Yayda çörəyini hazırlayır, məhsul vaxtında yemini yığır.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "hazırlayır"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "yayda"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "çörəyini"
+    },
+    {
+      "surface": "אגרה",
+      "gloss": "yığır"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "məhsul vaxtında"
+    },
+    {
+      "surface": "מאכלה",
+      "gloss": "yemini"
+    }
+  ],
+  "timestamp": "2026-09-01T15:49:33.216810284Z",
+  "model": "glm-5.3"
+}

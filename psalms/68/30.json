@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 68,
+  "translation": "Sənin məbədindən — Yeruşalayimin üstündə — sənə padşahlar hədiyyələr gətirəcəklər.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "sənin məbədindən"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "gətirəcəklər"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "padşahlar"
+    },
+    {
+      "surface": "שי",
+      "gloss": "hədiyyə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:23:53.936090976Z",
+  "model": "glm-5.3"
+}

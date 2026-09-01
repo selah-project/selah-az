@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Və cavab verib deyəcəklər: Əllərimiz bu ⟨את⟩ qanı tökmədi, gözlərimiz də ⟨onu⟩ görmədi.",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "və cavab verəcəklər"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "və deyəcəklər"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "əllərimiz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "tökdü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qanı"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "qan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "və gözlərimiz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "gördü"
+    }
+  ],
+  "timestamp": "2026-09-01T17:30:57.379425677Z",
+  "model": "glm-5.3"
+}

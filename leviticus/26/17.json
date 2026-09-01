@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 26:17",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Üzümü sizə qarşı yönəldəcəyəm, və düşmənlərinizin önündə yıxılacaqsınız, sizdən nifrət edənlər üzərinizdə hökm sürəcəklər, və qaçacaqsınız, halbuki sizi qovan ⟨את⟩ olmayacaq.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "yönəldəcəyəm"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzümü"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "sizə qarşı"
+    },
+    {
+      "surface": "ונגפתם",
+      "gloss": "yıxılacaqsınız"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önündə"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "düşmənlərinizin"
+    },
+    {
+      "surface": "ורדו",
+      "gloss": "hökm sürəcəklər"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "üzərinizdə"
+    },
+    {
+      "surface": "שנאיכם",
+      "gloss": "sizdən nifrət edənlər"
+    },
+    {
+      "surface": "ונסתם",
+      "gloss": "qaçacaqsınız"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "halbuki ... olmayacaq"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "qovan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizi"
+    }
+  ],
+  "timestamp": "2026-09-01T10:31:47.924365952Z",
+  "model": "glm-5.3"
+}

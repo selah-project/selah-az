@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 38,
+  "translation": "Yaralarım iyləndi, irinlədi ⟨onlar⟩ axmaqla, mənim səfehliyim üzündən.",
+  "tokens": [
+    {
+      "surface": "הבאישׁוּ",
+      "gloss": "iyləndi"
+    },
+    {
+      "surface": "נמקו",
+      "gloss": "irinlədi"
+    },
+    {
+      "surface": "חבורתי",
+      "gloss": "yaralarım"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "üzündən"
+    },
+    {
+      "surface": "אולתי",
+      "gloss": "mənim səfehliyim"
+    }
+  ],
+  "timestamp": "2026-09-01T15:13:01.107933200Z",
+  "model": "glm-5.3"
+}

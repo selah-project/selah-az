@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 1:20",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və Elohim dedi: Sular canlı nefeş sürüsü ilə dolsun, və quşlar yerin üzərində, göylərin rəqia üzində uçuşsun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישרצו",
+      "gloss": "dolsun"
+    },
+    {
+      "surface": "המים",
+      "gloss": "sular"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "sürüsü ilə"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefeş"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "canlı"
+    },
+    {
+      "surface": "ועוף",
+      "gloss": "və quşlar"
+    },
+    {
+      "surface": "יעופף",
+      "gloss": "uçuşsun"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərində"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzində"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üz"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "rəqia"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göylərin"
+    }
+  ],
+  "timestamp": "2026-09-01T09:46:01.996981089Z",
+  "model": "glm-5.3"
+}

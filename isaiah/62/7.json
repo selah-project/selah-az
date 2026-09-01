@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 62:7",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 62,
+  "translation": "və Ona sükut verməyin, ⟨o qədər ki, o⟩ bərqərar edənə qədər və Yeruşalayimi ⟨את⟩ yerdə tərif qılanadək.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "və -mə"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "verməyin"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "sükut"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "יכונן",
+      "gloss": "bərqərar etsin"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "və qədər"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "etsin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeruşalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayimi"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "tərif"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerdə"
+    }
+  ],
+  "timestamp": "2026-09-01T13:19:00.880865950Z",
+  "model": "glm-5.3"
+}

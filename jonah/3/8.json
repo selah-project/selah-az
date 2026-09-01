@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 3:8",
+  "book": "jonah",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "İnsan və heyvan dən qumaşı ilə örtünsünlər və Elohimə güclü səslə çağırısınlar və hər kəs öz pis yolundan və əllərindəki zülmdən qayıtsın.",
+  "tokens": [
+    {
+      "surface": "ויתכסו",
+      "gloss": "örtünsünlər"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "dən qumaşı ilə"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "והבהמה",
+      "gloss": "və heyvan"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "çağırısınlar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בחזקה",
+      "gloss": "güclü səslə"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "qayıtsınlar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər kəs"
+    },
+    {
+      "surface": "מדרכו",
+      "gloss": "öz yolundan"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "pis"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "və -dan"
+    },
+    {
+      "surface": "החמס",
+      "gloss": "zülmdən"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בכפיהם",
+      "gloss": "əllərindəki"
+    }
+  ],
+  "timestamp": "2026-09-01T14:46:32.691803141Z",
+  "model": "glm-5.3"
+}

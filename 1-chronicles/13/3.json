@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Elohimimiz sandığınını ⟨את⟩ yanımıza geri gətirək, çünki Şaulun günlərində onu axtarmadıq.",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "geri gətirək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandığınını"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandığınını"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimiz"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "yanımıza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-mə"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "axtarmadıq"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "günlərində"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    }
+  ],
+  "timestamp": "2026-09-01T17:05:34.103095739Z",
+  "model": "glm-5.3"
+}

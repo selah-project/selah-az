@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 2:6",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Yeməyi onlardan ⟨את⟩ gümüşə alın və yeyin, həmçinu suyu onlardan ⟨את⟩ gümüşə alın və için.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "yeməyi"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "alın"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ onlardan"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "gümüşə"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "və yeyin"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "həmçinu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suyu"
+    },
+    {
+      "surface": "תכרו",
+      "gloss": "alın"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ onlardan"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "gümüşə"
+    },
+    {
+      "surface": "ושתיתם",
+      "gloss": "və için"
+    }
+  ],
+  "timestamp": "2026-09-01T10:46:18.975311727Z",
+  "model": "glm-5.3"
+}

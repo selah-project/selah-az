@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 80,
+  "translation": "Onun önündə ⟨yer⟩ açdın, ⟨o⟩ öz köklərini saldı və yeri doldurdu.",
+  "tokens": [
+    {
+      "surface": "פנית",
+      "gloss": "⟨yer⟩ açdın"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "onun önündə"
+    },
+    {
+      "surface": "ותשרש",
+      "gloss": "və ⟨o⟩ kök saldı"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "öz köklərini"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "və doldurdu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yeri"
+    }
+  ],
+  "timestamp": "2026-09-01T15:27:13.873849802Z",
+  "model": "glm-5.3"
+}

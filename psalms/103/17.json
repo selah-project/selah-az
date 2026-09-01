@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 103:17",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 103,
+  "translation": "Yahvenin hesedi ⟨əbədidən⟩ əbədiyədək Ona qorxanların üstündədir, Onun salehliyi isə oğulların oğullarına ⟨çatar⟩.",
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "hesedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "əbədidən"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "və"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "əbədiyədək"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "Ona qorxanların"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "Onun salehliyi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oğulların"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oğullarına"
+    }
+  ],
+  "timestamp": "2026-09-01T15:34:05.480630057Z",
+  "model": "glm-5.3"
+}

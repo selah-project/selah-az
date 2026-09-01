@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 12:1",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Və o gündə sən deyəcəksən: Sənə şükür edirəm, ya Yahve, çünki mənə qəzəbləndin, qəzəbin döndü və sən məni təsəlli etdin.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "və deyəcəksən"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "o gündə"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "sənə şükür edirəm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "qəzəbləndin"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "döndü"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "qəzəbin"
+    },
+    {
+      "surface": "ותנחמני",
+      "gloss": "və məni təsəlli etdin"
+    }
+  ],
+  "timestamp": "2026-09-01T12:50:46.504007697Z",
+  "model": "glm-5.3"
+}

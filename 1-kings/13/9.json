@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 13:9",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "çünki belə buyruldu mənə Yahvenin sözü ilə, deyə: çörək yemə, su içmə, gəldiyin yoldan geri dönmə.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "כן",
+      "gloss": "belə"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyruldu"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ məni",
+      "marks": "buyruldu (mənə)"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "sözü ilə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yemə"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "çörək"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "içmə"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "geri dönmə"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yoldan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "gəldiyin"
+    }
+  ],
+  "timestamp": "2026-09-01T12:19:44.295955950Z",
+  "model": "glm-5.3"
+}

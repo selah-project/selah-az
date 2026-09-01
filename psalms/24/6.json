@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Bu, Onu axtaran nəsildir, Üzünü axtaranlar ⟨sənin⟩ — Yaakov. Sela.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Bu"
+    },
+    {
+      "surface": "דור",
+      "gloss": "nəsil"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "Onu axtaran"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "axtaranlar"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "Üzünü ⟨sənin⟩"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-01T15:08:59.859976101Z",
+  "model": "glm-5.3"
+}

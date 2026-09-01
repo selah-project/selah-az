@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 8:25",
+  "book": "ezra",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "və onlara çəkib verdim ⟨את⟩ gümüşü, ⟨את⟩ qızılı və ⟨את⟩ əşyaları — Elohimimizin evinin təqdimatı ki, onu padşah, onun məsləhətçiləri, onun əmirləri və ⟨orada⟩ tapılmış bütün Yisrael qaldırmışdır.",
+  "tokens": [
+    {
+      "surface": "ואשקולה",
+      "gloss": "çəkib verdim"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gümüşü"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "gümüşü"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qızılı"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "qızılı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "əşyaları"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "əşyaları"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "təqdimatı"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evinin"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimizin"
+    },
+    {
+      "surface": "ההרימו",
+      "gloss": "qaldırmışdır"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "ויעציו",
+      "gloss": "onun məsləhətçiləri"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "onun əmirləri"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "tapılmış"
+    }
+  ],
+  "timestamp": "2026-09-01T16:51:48.414167412Z",
+  "model": "glm-5.3"
+}

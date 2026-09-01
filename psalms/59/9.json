@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 59,
+  "translation": "Və Sən, Yahve, onlara gülrəsən, bütün millətlərə lağ edərsən.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Və Sən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "gülürsən"
+    },
+    {
+      "surface": "למו",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "lağ edirsən"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "millətlər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:20:24.503186255Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 81:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 81,
+  "translation": "Yükü onun çiyinindən çəkdim; əlləri səbətdən keçdi.",
+  "tokens": [
+    {
+      "surface": "הסירותי",
+      "gloss": "çəkdim"
+    },
+    {
+      "surface": "מסבל",
+      "gloss": "yükdən"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "onun çiyini"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "əlləri"
+    },
+    {
+      "surface": "מדוד",
+      "gloss": "səbətdən"
+    },
+    {
+      "surface": "תעברנה",
+      "gloss": "keçdi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:28:07.162882178Z",
+  "model": "glm-5.3"
+}

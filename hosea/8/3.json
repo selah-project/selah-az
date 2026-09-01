@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 8:3",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "İsrail xeyiri qovdu; düşmən onu təqib edəcək.",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "qovdu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "xeyiri"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "düşmən"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "təqib edəcək"
+    }
+  ],
+  "timestamp": "2026-09-01T14:37:09.705673257Z",
+  "model": "glm-5.3"
+}

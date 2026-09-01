@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 8:42",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "çünki ⟨onlar⟩ sənin böyük adını, sənin güclü əlini və uzadılmış qolunu eşidəcəklər, və gəlib bu evdə ⟨sənə⟩ dua edərsə —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "eşidəcəklər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sənin böyük adını"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "adını"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sənin güclü əlini"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "əlini"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "güclü"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "və qolunu"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "uzadılmış"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "və gəlib"
+    },
+    {
+      "surface": "והתפלל",
+      "gloss": "dua edərsə"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨sənə⟩"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "evdə"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-09-01T12:17:36.820762711Z",
+  "model": "glm-5.3"
+}

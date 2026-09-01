@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 106:13",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 106,
+  "translation": "Tez oldu, ⟨onun⟩ əməllərini unutdular, onun məsləhətini gözləmədilər.",
+  "tokens": [
+    {
+      "surface": "מהרו",
+      "gloss": "Tez oldu"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "unutdular"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "əməllərini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "gözləmədilər — yox"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "gözləmədilər"
+    },
+    {
+      "surface": "לעצתו",
+      "gloss": "onun məsləhətini"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:02.914002416Z",
+  "model": "glm-5.3"
+}

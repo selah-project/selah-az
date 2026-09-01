@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Və dedi: Sənmi sən, oğlum Esav? Və o dedi: Mənəm.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sənmi sən"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğlum"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və o dedi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mənəm"
+    }
+  ],
+  "timestamp": "2026-09-01T09:54:02.061311415Z",
+  "model": "glm-5.3"
+}

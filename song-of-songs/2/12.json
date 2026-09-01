@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 2:12",
+  "book": "song-of-songs",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Çiçəklər torpaqda göründü, nəğmə vaxtı çatdı və tor ⟨göyərçinin⟩ səsi bizim torpağımızda eşidilir.",
+  "tokens": [
+    {
+      "surface": "הנצנים",
+      "gloss": "çiçəklər"
+    },
+    {
+      "surface": "נראו",
+      "gloss": "göründü"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "torpaqda"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vaxtı"
+    },
+    {
+      "surface": "הזמיר",
+      "gloss": "nəğmə"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "çatdı"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "və səsi"
+    },
+    {
+      "surface": "התור",
+      "gloss": "tor göyərçinin"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "eşidilir"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "bizim torpağımızda"
+    }
+  ],
+  "timestamp": "2026-09-01T17:44:57.787198277Z",
+  "model": "glm-5.3"
+}

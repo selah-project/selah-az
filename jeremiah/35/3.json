@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 35:3",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "Və mən götürdüm ⟨את⟩ Yaazanyahun, Yirmiyahunun oğlunu, Xavatsanyahunun oğlunu, və ⟨את⟩ qardaşlarını, və ⟨את⟩ bütün oğullarını, və ⟨את⟩ bütün Rexabim evini.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "Və mən götürdüm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaazanyahun"
+    },
+    {
+      "surface": "יאזניה",
+      "gloss": "Yaazanyahun"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmiyahunun"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlunu"
+    },
+    {
+      "surface": "חבצניה",
+      "gloss": "Xavatsanyahunun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "qardaşlarını"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "qardaşlarını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "bütün oğullarını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "bütün Rexabim evini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evini"
+    },
+    {
+      "surface": "הרכבים",
+      "gloss": " Rexabim"
+    }
+  ],
+  "timestamp": "2026-09-01T18:00:27.453745162Z",
+  "model": "glm-5.3"
+}

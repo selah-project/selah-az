@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "O, Yahve evinin yuxarı qapısını ⟨את⟩ tikdi və Ofel divarında çoxlu tikinti apardı.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "O"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "tikdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yuxarı qapını"
+    },
+    {
+      "surface": "שער",
+      "gloss": "qapısını"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "yuxarı"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "və ... divarında"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "Ofel"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "tikdi"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "çoxlu"
+    }
+  ],
+  "timestamp": "2026-09-01T17:20:07.734015666Z",
+  "model": "glm-5.3"
+}

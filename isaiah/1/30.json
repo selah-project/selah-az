@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 1:30",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Çünki olacaqsınız solmuş yarpaqlı palıd ⟨kimi⟩, və baǧ ⟨kimi⟩ ⟨ki⟩ su yoxdur onun üçün.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "olacaqsınız"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "palıd ⟨kimi⟩"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "solmuş"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "yarpaqlı"
+    },
+    {
+      "surface": "וכגנה",
+      "gloss": "və bağ ⟨kimi⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ki⟩"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "לה",
+      "gloss": "onun üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T12:46:12.973491485Z",
+  "model": "glm-5.3"
+}

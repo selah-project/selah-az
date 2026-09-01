@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Yahve Elohim-inin sənə verəcəyi qapılarından heç birində ⟨את⟩ Pesahı qurban kəsməyə qadir deyilsən.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "qadir deyilsən"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "qurban kəsməyə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesah"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesah"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "heç birində"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "sənin qapıların"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-in"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verir"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:50:52.571399849Z",
+  "model": "glm-5.3"
+}

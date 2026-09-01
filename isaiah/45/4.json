@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 45:4",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 45,
+  "translation": "Qulum Yaqubun və seçilmişim İsrailin xatirinə səni adınla çağırdım, sənə ad qoydum — sən isə məni tanımırdın.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "xatirinə"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "qulum"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqubun"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "və İsrailin"
+    },
+    {
+      "surface": "בחירי",
+      "gloss": "seçilmişim"
+    },
+    {
+      "surface": "ואקרא",
+      "gloss": "çağırdım"
+    },
+    {
+      "surface": "לך",
+      "gloss": "səni"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "adınla"
+    },
+    {
+      "surface": "אכנך",
+      "gloss": "sənə ad qoydum"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "isə yox"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "məni tanımırdın"
+    }
+  ],
+  "timestamp": "2026-09-01T13:11:40.332613316Z",
+  "model": "glm-5.3"
+}

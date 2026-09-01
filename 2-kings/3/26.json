@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 3:26",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Moavın kralı müharibənin özündən güclü olduğunu görəndə, yeddi yüz qılınclağayan adam götürüb Edomun kralının üstünə yarmaq istədi, amma bacara bilmədilər.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "görəndə"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moavın"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "güclü"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "özündən"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "müharibə"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "götürdü"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "yeddi yüz adam"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yeddi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "qılınclağayan"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "qılınc"
+    },
+    {
+      "surface": "להבקיע",
+      "gloss": "yarmaq üçün"
+    },
+    {
+      "surface": "אל",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralının"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "bacara bilmədilər"
+    }
+  ],
+  "timestamp": "2026-09-01T12:29:42.710482543Z",
+  "model": "glm-5.3"
+}

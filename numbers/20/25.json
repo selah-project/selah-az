@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 20:25",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Aharonu və onun oğlu Elazarı götür və onları Hor dağına çıxart.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "götür"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharonu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Elazarı"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazarı"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "onun oğlu"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "çıxart"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Hor"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "dağı"
+    }
+  ],
+  "timestamp": "2026-09-01T10:40:03.984984960Z",
+  "model": "glm-5.3"
+}

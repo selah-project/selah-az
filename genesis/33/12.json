@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 33:12",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "Və dedi: «Yola çıqaq və gedək, və mən qarşında gedərəm.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "נסעה",
+      "gloss": "yola çıxaq"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "gedək"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "gedərəm"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "qarşında"
+    }
+  ],
+  "timestamp": "2026-09-01T09:56:22.757034824Z",
+  "model": "glm-5.3"
+}

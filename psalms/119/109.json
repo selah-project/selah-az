@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 109,
+  "ref": "psalms 119:109",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Nəfəşim həmişə əlimdədir, amma Tövrəni unutmadım.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "nəfəşim"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "əlimdə"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "həmişə"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "amma Tövrəni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "unutmadım"
+    }
+  ],
+  "timestamp": "2026-09-01T15:41:08.970348175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 7:10",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Va İsraelin təkəbbürü üzünə şəhadət etdi, va Yahveyə, onların Elohiminə qayıtmadılar və onu bütün bunlarda axtarmadılar.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "şəhadət etdi"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "təkəbbürü"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsraelin"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "üzünə"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va yox"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "qayıtmadılar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "onların Elohiminə"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va yox"
+    },
+    {
+      "surface": "בקשהו",
+      "gloss": "onu axtarmadılar"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bunlarda"
+    }
+  ],
+  "timestamp": "2026-09-01T14:36:00.905699792Z",
+  "model": "glm-5.3"
+}

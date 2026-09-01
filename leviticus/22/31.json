@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Əmrlərimi saxlayın və ⟨את⟩ onları yerinə yetirin; mən Yahveyəm.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "saxlayın"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "əmrlərimi"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "yerinə yetirin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onları (əmrlərimi)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T10:29:18.704605185Z",
+  "model": "glm-5.3"
+}

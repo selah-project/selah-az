@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 166,
+  "ref": "psalms 119:166",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Ümidlə gözləmişəm sənin xilasını, ey Yahve, və sənin əmrlərini yerinə yetirmişəm.",
+  "tokens": [
+    {
+      "surface": "שברתי",
+      "gloss": "ümidlə gözləmişəm"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "sənin xilasını"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ומצותיך",
+      "gloss": "və sənin əmrlərini"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "yerinə yetirmişəm"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:27.090975020Z",
+  "model": "glm-5.3"
+}

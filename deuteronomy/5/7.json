@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Sənin üçün mənim üzlərimin üstündə başqa elohimlər olmayacaq",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olmayacaq"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənin üçün"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohimlər"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "başqa"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzlərimin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:47:13.556170977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 7:4",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Çünki ⟨o⟩ oğlunu Mənim arxamca getməkdən döndərəcək, və onlar başqa tanrılara qulluq edəcəklər; və Yahvenin qəzəbi sizə alovlanacaq, və ⟨O⟩ səni tez məhv edəcək.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "döndərəcək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oğlunu"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "oğlun"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "arxasınca (Məndən)"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "və qulluq edəcəklər"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tanrılara"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "başqa"
+    },
+    {
+      "surface": "וחרה",
+      "gloss": "alovlanacaq"
+    },
+    {
+      "surface": "אף",
+      "gloss": "qəzəbi (burun)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "sizə"
+    },
+    {
+      "surface": "והשמידך",
+      "gloss": "və səni məhv edəcək"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "tez"
+    }
+  ],
+  "timestamp": "2026-09-01T10:48:36.458860740Z",
+  "model": "glm-5.3"
+}

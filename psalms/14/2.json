@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 14:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Yahve göylərdən baxdı insan oğullarının üstünə, ⟨görmək üçün⟩: ağıllı, ⟨את⟩ Elohimi axtaran varmı?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "göylərdən"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "baxdı"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "görmək üçün"
+    },
+    {
+      "surface": "היש",
+      "gloss": "varmı"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ağıllı"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "axtaran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:04:50.106045304Z",
+  "model": "glm-5.3"
+}

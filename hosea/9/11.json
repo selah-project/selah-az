@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 9:11",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Efrayim — quş kimi uçub gedəcək onların izzəti; doğuşdan, bətndən və hamiləlikdən.",
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "כעוף",
+      "gloss": "quş kimi"
+    },
+    {
+      "surface": "יתעופף",
+      "gloss": "uçub gedəcək"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "onların izzəti"
+    },
+    {
+      "surface": "מלדה",
+      "gloss": "doğuşdan"
+    },
+    {
+      "surface": "ומבטן",
+      "gloss": "və bətndən"
+    },
+    {
+      "surface": "ומהריון",
+      "gloss": "və hamiləlikdən"
+    }
+  ],
+  "timestamp": "2026-09-01T14:36:23.828598493Z",
+  "model": "glm-5.3"
+}

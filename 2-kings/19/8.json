@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 19:8",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Və Ravşaqe qayıtdı və Laxişdən yola düşdüyünü eşitdiyi üçün Assur padşahını Livnaya qarşı vuruşarkən tapdı.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "qayıtdı"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Ravşaqe"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "Ravşaqe"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "tapdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Assur padşahını"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşahını"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "vuruşarkən"
+    },
+    {
+      "surface": "על",
+      "gloss": "qarşı"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livnaya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eşitdiyi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "düşdüyünü"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "yola düşdüyünü"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "Laxişdən"
+    }
+  ],
+  "timestamp": "2026-09-01T12:39:47.154190284Z",
+  "model": "glm-5.3"
+}

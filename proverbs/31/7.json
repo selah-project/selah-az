@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 31:7",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "İçsin, yoxsulluğunu unutsun və əzabını artıq xatırlamasın.",
+  "tokens": [
+    {
+      "surface": "ישתה",
+      "gloss": "içsin"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "və unutsun"
+    },
+    {
+      "surface": "רישו",
+      "gloss": "yoxsulluğunu"
+    },
+    {
+      "surface": "ועמלו",
+      "gloss": "və əzabını"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "xatırlamasın"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "artıq"
+    }
+  ],
+  "timestamp": "2026-09-01T16:01:37.429117365Z",
+  "model": "glm-5.3"
+}

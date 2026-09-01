@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Və o İsrailə ⟨את⟩ iyirmi üç il hakimlik etdi, və öldü, və Şamirdə dəfn olundu.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "hakimlik etdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsrailə"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailə"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iyirmi"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "üç"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "il"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "öldü"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "dəfn olundu"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "Şamirdə"
+    }
+  ],
+  "timestamp": "2026-09-01T11:21:33.984675362Z",
+  "model": "glm-5.3"
+}

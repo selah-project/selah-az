@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Yahvenin hesedlilərinə: Yahveyə zəhmətlə oxuyun ⟨və⟩ Onun müqəddəsliyinin xatirəsinə şükür edin.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "zəhmətlə oxuyun"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "Onun hesedliləri"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "⟨və⟩ şükür edin"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "xatirəsinə"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "Onun müqəddəsliyi"
+    }
+  ],
+  "timestamp": "2026-09-01T18:01:50.113161786Z",
+  "model": "glm-5.3"
+}

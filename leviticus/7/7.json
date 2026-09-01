@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 7:7",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Xəta qurbanı nə qədərdirsə, təqsir qurbanı da o qədərdir; onlar üçün bir tövrə ⟨var⟩; onunla kəffarə edən kohan ⟨onun⟩ olacaqdır — o, onun olacaq.",
+  "tokens": [
+    {
+      "surface": "כחטאת",
+      "gloss": "Xəta qurbanı nə qədərdirsə"
+    },
+    {
+      "surface": "כאשם",
+      "gloss": "təqsir qurbanı da o qədərdir"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "bir tövrə"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "bir"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlar üçün"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o ki"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "kəffarə edən"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onun"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T17:57:06.282202674Z",
+  "model": "glm-5.3"
+}

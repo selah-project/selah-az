@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "İsrail oğulları Pesahı öz vaxtında ⟨hazırlasınlar⟩:",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "etsinlər"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesahı"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesah"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "öz vaxtında"
+    }
+  ],
+  "timestamp": "2026-09-01T10:36:35.884580441Z",
+  "model": "glm-5.3"
+}

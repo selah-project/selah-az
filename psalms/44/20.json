@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 44,
+  "translation": "Çünki canavarlar yerində əzdin bizi və ölüm-kölgəsi ilə örtün bizi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "əzdin bizi"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "yerində"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "canavarlar"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "və örtün"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "bizi"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "ölüm-kölgəsi ilə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:15:23.372755772Z",
+  "model": "glm-5.3"
+}

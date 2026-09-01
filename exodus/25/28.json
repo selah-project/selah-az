@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 25:28",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Və dirəkləri sita ağacından düzəltcəksən, və ⟨את⟩ onları qızıl ilə örtəcəksən, və onlarla ⟨את⟩ masa daşınacaq.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "və düzəltcəksən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dirəkləri"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "dirəkləri"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ağacından"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sita"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "və örtəcəksən"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onları"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "qızıl ilə"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "və daşınacaq"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onlarla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "masa"
+    }
+  ],
+  "timestamp": "2026-09-01T10:16:12.637330821Z",
+  "model": "glm-5.3"
+}

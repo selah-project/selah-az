@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 6:25",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Gözəlliyini qəlbində arzulama, və onun kirpikləri səni alıb aparmasın.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "arzulama"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "arzulama"
+    },
+    {
+      "surface": "יפיה",
+      "gloss": "gözəlliyini"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "qəlbində"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və … -masın"
+    },
+    {
+      "surface": "תקחך",
+      "gloss": "səni alıb aparmasın"
+    },
+    {
+      "surface": "בעפעפיה",
+      "gloss": "onun kirpikləri"
+    }
+  ],
+  "timestamp": "2026-09-01T15:50:25.528062654Z",
+  "model": "glm-5.3"
+}

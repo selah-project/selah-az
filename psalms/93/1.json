@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 93,
+  "translation": "Yahve hökmranlıq etdi, əzəmət geyindi, Yahve qüdrət geyindi, özünü qurşadı; hətta dünyə ⟨⟨bərqərar⟩⟩ durdu, tərpənməzdir.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hökmranlıq etdi"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "əzəmət"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "geyindi"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "geyindi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עז",
+      "gloss": "qüdrət"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "özünü qurşadı"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hətta"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "⟨bərqərar⟩ durdu"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dünyə"
+    },
+    {
+      "surface": "בל",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "tərpənməzdir"
+    }
+  ],
+  "timestamp": "2026-09-01T15:32:55.441001139Z",
+  "model": "glm-5.3"
+}

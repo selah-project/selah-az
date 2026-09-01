@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 73:19",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 73,
+  "translation": "Necə də bir anda xarabalığa çevrildilər! Qorxulardan sona çatdılar, tam yox oldular.",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "necə də"
+    },
+    {
+      "surface": "היו",
+      "gloss": "çevrildilər"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "xarabalığa"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "bir anda"
+    },
+    {
+      "surface": "ספו",
+      "gloss": "sona çatdılar"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "tam yox oldular"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "בלהות",
+      "gloss": "qorxulardan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:24:32.458450345Z",
+  "model": "glm-5.3"
+}

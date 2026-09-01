@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Əllərimi döyüşə öyrədir, ⟨və⟩ qollarım mis kamanı endirir.",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "öyrədir"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "əllərimi"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "döyüşə"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "⟨və⟩ endirir"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "kamanı"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "mis"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "qollarım"
+    }
+  ],
+  "timestamp": "2026-09-01T15:06:35.792184875Z",
+  "model": "glm-5.3"
+}

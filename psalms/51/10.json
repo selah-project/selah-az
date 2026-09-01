@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 51,
+  "translation": "Mənə sevinc və şadlıq eşitdir; sındırdığın sümüklər sevinəcək.",
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "mənə eşitdir"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "sevinc"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "və şadlıq"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "sevinəcək"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "sümüklər"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "sındırdığın"
+    }
+  ],
+  "timestamp": "2026-09-01T15:17:43.588762280Z",
+  "model": "glm-5.3"
+}

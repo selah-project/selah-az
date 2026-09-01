@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 27:19",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Və əgər ⟨⟨את⟩ onu⟩ müqəddəs edən geri almaqla ⟨את⟩ sahəni geri alarsa, sənin qiymətləndirmən olan gümüşün beşdə birini ona əlavə etsin, və ⟨o⟩ onun üçün bərqərar olsun.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Və əgər"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "geri almaqla"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "geri alarsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sahəni"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sahəni"
+    },
+    {
+      "surface": "המקדיש",
+      "gloss": "onu müqəddəs edən"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "və əlavə etsin"
+    },
+    {
+      "surface": "חמשית",
+      "gloss": "beşdə birini"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüşün"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "sənin qiymətləndirmənin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "və bərqərar olsun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onun üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:32:23.392279044Z",
+  "model": "glm-5.3"
+}

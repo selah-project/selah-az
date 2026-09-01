@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 50,
+  "translation": "Dağların bütün quşlarını tanıyıram, və tarlanın canlıları ⟨mənim⟩ yanımdadır.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "tanıyıram"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "quşlarını"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dağların"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "və canlıları"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "tarlanın"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "yanımdadır"
+    }
+  ],
+  "timestamp": "2026-09-01T15:15:37.640369898Z",
+  "model": "glm-5.3"
+}

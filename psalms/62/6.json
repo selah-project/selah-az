@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 62,
+  "translation": "Yalnız Elohim üçün sükut et, canım; çünki Ondandır ümidim.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim üçün"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "sükut et"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "Ondan"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "ümidim"
+    }
+  ],
+  "timestamp": "2026-09-01T15:20:50.524022551Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 66:13",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 66,
+  "translation": "Evinə yandırma qurbanları ⟨ilə⟩ gələcəyəm, sənə nəzirlərimi ödəyəcəyəm.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "gələcəyəm"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "evinə"
+    },
+    {
+      "surface": "בעולות",
+      "gloss": "yandırma qurbanları ⟨ilə⟩"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "ödəyəcəyəm"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "nəzirlərimi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:20:49.065332476Z",
+  "model": "glm-5.3"
+}

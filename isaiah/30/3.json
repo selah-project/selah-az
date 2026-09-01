@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 30:3",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Paronun qalası sizin üçün utanc ⟨olacaq⟩, Misrin kölgəsində sığınmaq isə biabırlığa ⟨çevriləcək⟩.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "⟨olacaq⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin üçün"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "qalası"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paronun"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "utanc"
+    },
+    {
+      "surface": "והחסות",
+      "gloss": "sığınmaq"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "kölgəsində"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrin"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "biabırlığa"
+    }
+  ],
+  "timestamp": "2026-09-01T13:01:41.383538803Z",
+  "model": "glm-5.3"
+}

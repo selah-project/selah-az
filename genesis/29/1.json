@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "Yaaqov ayaqlarını qaldırdı və şərq övladlarının ölkəsinə getdi.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "qaldırdı"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaqov"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ayaqlarını"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "və getdi"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ölkəsinə"
+    },
+    {
+      "surface": "בני",
+      "gloss": "övladlarının"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "şərq"
+    }
+  ],
+  "timestamp": "2026-09-01T09:54:39.369663793Z",
+  "model": "glm-5.3"
+}

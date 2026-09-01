@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 36:15",
+  "book": "job",
+  "lang": "az",
+  "chapter": 36,
+  "translation": "O, məhrumu onun darlığında qurtarır və sıxıntıda onun qulağını ⟨açıq⟩ göstərir.",
+  "tokens": [
+    {
+      "surface": "יחלץ",
+      "gloss": "qurtarır"
+    },
+    {
+      "surface": "עני",
+      "gloss": "məhrumu"
+    },
+    {
+      "surface": "בעניו",
+      "gloss": "onun darlığında"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "və göstərir"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "sıxıntıda"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "onun qulağı"
+    }
+  ],
+  "timestamp": "2026-09-01T16:16:49.029343810Z",
+  "model": "glm-5.3"
+}

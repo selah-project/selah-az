@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 5:2",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Paro dedi: Kimdir Yahve ki, səsini eşidib İsraili ⟨את⟩ buraxım? Yahveni ⟨את⟩ tanımıram, həmçinin İsraili ⟨את⟩ buraxmayacağam.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "eşidib"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "səsini"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "buraxmaq üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsraili"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsraili"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "tanımıram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveni"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "həmçinin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsraili"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsraili"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "buraxmayacağam"
+    }
+  ],
+  "timestamp": "2026-09-01T10:06:02.290298994Z",
+  "model": "glm-5.3"
+}

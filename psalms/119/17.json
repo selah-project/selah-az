@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 119:17",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Quluna yaxşılıq ⟨et⟩ quluna, ki yaşayım və sözünü qoruyum.",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "yaxşılıq ⟨et⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨quluna doğru⟩"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "quluna"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "yaşayım"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "və qoruyum"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "sözünü"
+    }
+  ],
+  "timestamp": "2026-09-01T17:43:08.304360975Z",
+  "model": "glm-5.3"
+}

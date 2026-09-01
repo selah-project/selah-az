@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 2:19",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və Yahve Elohim torpaqdan sahənin bütün heyvanlarını və ⟨את⟩ göylərin bütün quşlarını düzəltdi, və onları insana gətirdi — nə ad qoyacağını görək; və insanın hər canlıya nə ad qoydusa, onun adı o oldu.",
+  "tokens": [
+    {
+      "surface": "ויצר",
+      "gloss": "düzəltdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "torpaqdan"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "torpaqdan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "חית",
+      "gloss": "heyvanlarını"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sahənin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "göylərin bütün quşlarını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "quşlarını"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göylərin"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "və gətirdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insana"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "görək"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ad qoyacağını"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "və hər"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ad qoydusa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insanın"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "canlıya"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "canlıya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "adı"
+    }
+  ],
+  "timestamp": "2026-09-01T09:46:04.756199648Z",
+  "model": "glm-5.3"
+}

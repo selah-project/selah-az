@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 35:24",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "onda məclis ⟨hökmsünəcək⟩ vuran ilə qanın goeli arasında bu hökmlərə görə.",
+  "tokens": [
+    {
+      "surface": "ושפטו",
+      "gloss": "hökmsünəcək"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "məclis"
+    },
+    {
+      "surface": "בין",
+      "gloss": " arasında"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "vuran"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ilə ... arasında"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "goeli"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "qanın"
+    },
+    {
+      "surface": "על",
+      "gloss": "əsasən"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "hökmlər"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-09-01T10:45:25.892427412Z",
+  "model": "glm-5.3"
+}

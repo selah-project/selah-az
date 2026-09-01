@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 7:8",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Çünki Yahve ⟨את⟩ sizi sevdiyi və atalarınıza içdiyi ⟨את⟩ andı qoruduğu üçün, Yahve ⟨את⟩ sizi güclü əllə çıxartdı və sizi qul evindən, Paronun — Mitsrayim kralının — əlindən azad etdi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "מאהבת",
+      "gloss": "sevdiyi üçün"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizi"
+    },
+    {
+      "surface": "ומשמרו",
+      "gloss": "və qoruduğu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andı"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "andı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "içdiyi"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "atalarınıza"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "çıxartdı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "əllə"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "güclü"
+    },
+    {
+      "surface": "ויפדך",
+      "gloss": "və sizi azad etdi"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "evindən"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "qul"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "əlindən"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paronun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralının"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T17:30:17.740101848Z",
+  "model": "glm-5.3"
+}

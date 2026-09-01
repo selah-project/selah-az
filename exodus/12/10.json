@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Və ondan səhərə qədər heç nə qalmayacaq; ondan səhərə qədər qalanı odda yandıracaqsınız.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "qoymayacaqsınız"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "səhər"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "və qalan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "səhər"
+    },
+    {
+      "surface": "באש",
+      "gloss": "odda"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "yandıracaqsınız"
+    }
+  ],
+  "timestamp": "2026-09-01T10:08:17.885968158Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 11:8",
+  "book": "daniel",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Hətta onların tanrılarını da tökmə bütləri ilə, istək əşyaları ilə — gümüş və qızıl — əsirlikdə Mitsrayimə gətirəcək; və o, şimal kralından ⟨bəzi⟩ illər dayanacaq.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "hətta ... da"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "onların tanrılarını"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "tökmə bütləri"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "əşyaları"
+    },
+    {
+      "surface": "חמדתם",
+      "gloss": "istək"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "qızıl"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "əsirlikdə"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "gətirəcək"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimə"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "və o"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "illər"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "dayanacaq"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "kralından"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "şimal"
+    }
+  ],
+  "timestamp": "2026-09-01T16:48:00.256682200Z",
+  "model": "glm-5.3"
+}

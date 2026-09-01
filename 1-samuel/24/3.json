@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 24:3",
+  "book": "1-samuel",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Şaul bütün İsraildən seçilmiş üç min kişi götürdü və Davidi ⟨və⟩ adamlarını dağ keçilərinin qayalarının üstündə axtarmağa getdi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "götürdü"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "üç"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "min"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kişi"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "seçilmiş"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bütün...dən"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrael"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "getdi"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "axtarmağa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "⟨və⟩ adamlarını"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzündə \/ qarşısında"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "qayalarının"
+    },
+    {
+      "surface": "היעלים",
+      "gloss": "dağ keçilərinin"
+    }
+  ],
+  "timestamp": "2026-09-01T11:44:37.362614235Z",
+  "model": "glm-5.3"
+}

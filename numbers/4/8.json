@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 4:8",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "və onların üstünə qırmızı qurddan boyanmış parça sərəcəklər və onu ⟨את⟩ taxşı dərisindən örtüklə örtəcəklər və çubuqlarını ⟨את⟩ yerləşdirəcəklər.",
+  "tokens": [
+    {
+      "surface": "ופרשו",
+      "gloss": "və sərəcəklər"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "onların üstünə"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "parça"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "qurd"
+    },
+    {
+      "surface": "שני",
+      "gloss": "qırmızı (boyanmış)"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "və örtəcəklər"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "במכסה",
+      "gloss": "örtüklə"
+    },
+    {
+      "surface": "עור",
+      "gloss": "dəri"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "taxşı"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "və yerləşdirəcəklər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çubuqlar"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "çubuqlarını"
+    }
+  ],
+  "timestamp": "2026-09-01T10:33:05.724156265Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 4:7",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Hərgah yaxşı etsən, yüksəlmə ⟨olacaq⟩; yaxşı etməsən, qapının ağzında günah uzanıb durur, onun arzusu sənədir, sən isə ona hökm edəcəksən.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "məgər"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "yaxşı etsən"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "yüksəlmə"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "yaxşı etməsən"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "qapının ağzında"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "günah"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "uzanıb durur"
+    },
+    {
+      "surface": "ואליך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "onun arzusu"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "sən isə"
+    },
+    {
+      "surface": "תמשל",
+      "gloss": "hökm edəcəksən"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-09-01T17:25:25.703242289Z",
+  "model": "glm-5.3"
+}

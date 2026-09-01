@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 11:19",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "və ⟨את⟩ leyləyi, durnanı növünə görə, ⟨את⟩ çənnəyi və ⟨את⟩ yarasa",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "leylək"
+    },
+    {
+      "surface": "החסידה",
+      "gloss": "leylək"
+    },
+    {
+      "surface": "האנפה",
+      "gloss": "durna"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "növünə görə"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "çənnək"
+    },
+    {
+      "surface": "הדוכיפת",
+      "gloss": "çənnək"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yarasa"
+    },
+    {
+      "surface": "העטלף",
+      "gloss": "yarasa"
+    }
+  ],
+  "timestamp": "2026-09-01T10:24:48.551399245Z",
+  "model": "glm-5.3"
+}

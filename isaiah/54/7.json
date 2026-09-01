@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 54:7",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 54,
+  "translation": "Bir anda, kiçik ⟨müddətə⟩ səni tərk etdim, amma böyük rəhmlər ⟨ilə⟩ səni toplayacağam.",
+  "tokens": [
+    {
+      "surface": "ברגע",
+      "gloss": "bir anda"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "kiçik"
+    },
+    {
+      "surface": "עזבתיך",
+      "gloss": "səni tərk etdim"
+    },
+    {
+      "surface": "וברחמים",
+      "gloss": "rəhmlərlə"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "səni toplayacağam"
+    }
+  ],
+  "timestamp": "2026-09-01T13:14:04.593612454Z",
+  "model": "glm-5.3"
+}

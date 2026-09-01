@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 8:2",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "⟨את⟩ Aharonu və onun oğullarını ⟨את⟩ özü ilə götür, ⟨את⟩ paltarları, ⟨את⟩ məsh yağını, ⟨את⟩ günah qurbanı buzovunu, ⟨את⟩ iki qoçu və ⟨את⟩ məssot səbətini.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "götür"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharonu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "oğullarını"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "onun oğullarını"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ özü ilə"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "paltarları"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "paltarları"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "məsh yağını"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "yağını"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "məsh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "buzovunu"
+    },
+    {
+      "surface": "פר",
+      "gloss": "buzovunu"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "günah qurbanı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "iki qoçu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iki"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "qoçu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "səbətini"
+    },
+    {
+      "surface": "סל",
+      "gloss": "səbətini"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "məssot"
+    }
+  ],
+  "timestamp": "2026-09-01T10:24:00.839504762Z",
+  "model": "glm-5.3"
+}

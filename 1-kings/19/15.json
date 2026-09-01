@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 19:15",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Və Yahve ona dedi: Get, öz yolunla geri dön çöl ⟨tərəfə⟩ Damaşqa, və gələcəksən və ⟨את⟩ Hazaeli Aram üzərinə padşah ⟨olmaq üçün⟩ məsh edəcəksən.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "לך",
+      "gloss": "get"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "geri dön"
+    },
+    {
+      "surface": "לדרכך",
+      "gloss": "öz yolunla"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "çöl ⟨tərəfə⟩"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaşq"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "və gələcəksən"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "və məsh edəcəksən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hazaeli"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Hazaeli"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "padşah ⟨olmaq üçün⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-09-01T12:24:45.108060961Z",
+  "model": "glm-5.3"
+}

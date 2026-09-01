@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 119:25",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Canım torpağa yapışdı; məni sözünə görə dirildə.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "yapışdı"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "torpağa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "məni dirildə"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "sözünə görə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:37.231544938Z",
+  "model": "glm-5.3"
+}

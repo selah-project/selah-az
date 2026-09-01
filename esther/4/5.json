@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 4:5",
+  "book": "esther",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Ester kralın öz qarşısına qoyduğu hadimlərindən Hatəxi çağırdı və ona Mordoxay haqqında tapşırıq verdi — bilmək üçün ki, bu nədir və bu nə üçündür.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "çağırdı"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "Hatəxi"
+    },
+    {
+      "surface": "מסריסי",
+      "gloss": "hadimlərindən"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki, o"
+    },
+    {
+      "surface": "העמיד",
+      "gloss": "qarşısına qoyduğu"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "öz qarşısına"
+    },
+    {
+      "surface": "ותצוהו",
+      "gloss": "ona tapşırıq verdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "haqqında"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordoxay"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "bilmək üçün"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "və"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə üçün"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-09-01T16:35:27.821273455Z",
+  "model": "glm-5.3"
+}

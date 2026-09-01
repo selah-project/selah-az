@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 65:4",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 65,
+  "translation": "Qəbrlərdə oturan, gizli yerlərdə gecələyənlər; donuz əti yeyənlər, qablarında murdar şeylərin şorbası ⟨olanlar⟩.",
+  "tokens": [
+    {
+      "surface": "הישבים",
+      "gloss": "oturan(lar)"
+    },
+    {
+      "surface": "בקברים",
+      "gloss": "qəbirlərdə"
+    },
+    {
+      "surface": "ובנצורים",
+      "gloss": "və gizli yerlərdə"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "gecələyirlər"
+    },
+    {
+      "surface": "האוכלים",
+      "gloss": "yeyən(lər)"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "əti"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "donuz(un)"
+    },
+    {
+      "surface": "ופרק",
+      "gloss": "və şorbası"
+    },
+    {
+      "surface": "פגלים",
+      "gloss": "murdar şeylərin"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "onların qabları(nda)"
+    }
+  ],
+  "timestamp": "2026-09-01T13:20:54.348531241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 50,
+  "translation": "Qurbanlarına görə səni tənbeh etmərəm, və yanğı-qurbanların daim qarşımdadır.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "על",
+      "gloss": "görə"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "qurbanlarına"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "səni tənbeh etmərəm"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "və yanğı-qurbanların"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "qarşımda"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daim"
+    }
+  ],
+  "timestamp": "2026-09-01T15:16:14.019601962Z",
+  "model": "glm-5.3"
+}

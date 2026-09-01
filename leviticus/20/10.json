@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Və bir kişi ki, ⟨את⟩ başqa kişinin arvadı ilə, ⟨את⟩ yoldaşının arvadı ilə zina etsə, ölüm ilə öldürülsün — zina edən kişi və zina edən qadın.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "və bir kişi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "zina etsə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "başqa kişinin arvadı"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "arvadı"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kişinin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "zina etsə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yoldaşının arvadı"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "arvadı"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "yoldaşının"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölüm"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "öldürülsün"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "zina edən kişi"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "zina edən qadın"
+    }
+  ],
+  "timestamp": "2026-09-01T10:29:28.850162210Z",
+  "model": "glm-5.3"
+}

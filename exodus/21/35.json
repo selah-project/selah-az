@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 21:35",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Və əgər bir adamın öküzü yoldaşının öküzünü ⟨את⟩ vurarsa və ölərsə, diri öküzü ⟨את⟩ satıb gümüşünü ⟨את⟩ yarı bölsünlər, ölüsünü ⟨את⟩ də böləcəklər.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "יגף",
+      "gloss": "vurarsa"
+    },
+    {
+      "surface": "שור",
+      "gloss": "öküzü"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir adamın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öküzünü"
+    },
+    {
+      "surface": "שור",
+      "gloss": "öküzünü"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "yoldaşının"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "və ölərsə"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "satsınlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öküzü"
+    },
+    {
+      "surface": "השור",
+      "gloss": "öküzü"
+    },
+    {
+      "surface": "החי",
+      "gloss": "diri"
+    },
+    {
+      "surface": "וחצו",
+      "gloss": "yarı bölsünlər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gümüşünü"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "gümüşünü"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "həm də"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ölüsünü"
+    },
+    {
+      "surface": "המת",
+      "gloss": "ölüsünü"
+    },
+    {
+      "surface": "יחצון",
+      "gloss": "böləcəklər"
+    }
+  ],
+  "timestamp": "2026-09-01T10:13:53.049777225Z",
+  "model": "glm-5.3"
+}

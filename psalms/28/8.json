@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "Yahve onlara qüvvə⟨dir⟩, və öz Məsihinin xilaslarının qalası ⟨odur⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עז",
+      "gloss": "qüvvə"
+    },
+    {
+      "surface": "למו",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "və qalası"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "xilaslarının"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "öz Məsihinin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "odur"
+    }
+  ],
+  "timestamp": "2026-09-01T15:09:16.513208667Z",
+  "model": "glm-5.3"
+}

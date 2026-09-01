@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 150:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 150,
+  "translation": "Onu səs salan tsilsellərlə tərifləyin, onu sədası ucalan tsilsellərlə tərifləyin.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Onu tərifləyin"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "tsilsellərlə"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "səs salan"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "onu tərifləyin"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "tsilsellərlə"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "sədası ucalan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:45:54.133360776Z",
+  "model": "glm-5.3"
+}

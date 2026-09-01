@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 18:21",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Və nəslindən ⟨את⟩ Molox üçün keçirtməyə vermə, və Elohiminin adını murdarlamayacaqsan; mən Yahve.",
+  "tokens": [
+    {
+      "surface": "ומזרעך",
+      "gloss": "və nəslindən"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "vermə"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "keçirtməyə"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Molox üçün"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "murdarlamayacaqsan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adını"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adını"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiminin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T10:27:44.910225587Z",
+  "model": "glm-5.3"
+}

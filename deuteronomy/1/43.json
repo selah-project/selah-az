@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 1:43",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Mən sizə danışdım, amma eşitmədiniz; Yahvenin ⟨את⟩ ağzına qarşı üsyan qaldırdınız, özbaşınlıq etdiniz və dağa qalxdınız.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "danışdım"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "sizə"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma yox"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "eşitmədiniz"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "üsyan qaldırdınız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ağzına"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağız"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "ותזדו",
+      "gloss": "özbaşınlıq etdiniz"
+    },
+    {
+      "surface": "ותעלו",
+      "gloss": "qalxdınız"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "dağa"
+    }
+  ],
+  "timestamp": "2026-09-01T10:45:49.592605903Z",
+  "model": "glm-5.3"
+}

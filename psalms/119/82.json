@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "psalms 119:82",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Gözlərim sənin sözünə doğru tükəndilər, ⟨deyərək⟩: nə vaxt məni təsəlli edəcəksən?",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "tükəndilər"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözlərim"
+    },
+    {
+      "surface": "לאמרתך",
+      "gloss": "sənin sözünə doğru"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨deyərək⟩"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "nə vaxt"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "məni təsəlli edəcəksən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:41:00.007526529Z",
+  "model": "glm-5.3"
+}

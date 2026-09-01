@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Məgər hikmət çağırmır, və anlayış öz səsini ucaltmır?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "məgər... deyil"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmət"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "çağırmır"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "və anlayış"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "verir \/ ucaldır"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "öz səsini"
+    }
+  ],
+  "timestamp": "2026-09-01T15:50:31.924380044Z",
+  "model": "glm-5.3"
+}

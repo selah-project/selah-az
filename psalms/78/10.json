@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 78,
+  "translation": "Elohimin əhdini qorumadılar, Onun Tövrəsində gəzməkdən imtina etdilər.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "qorumadılar"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "əhd"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "Tövrəsində"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "imtina etdilər"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "gəzməkdən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:25:58.261387406Z",
+  "model": "glm-5.3"
+}

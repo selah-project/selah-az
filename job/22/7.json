@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 22:7",
+  "book": "job",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Yorğan adama su içirtmədin, ac adamdan isə çörəyi əskitdin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "yorğan"
+    },
+    {
+      "surface": "תשקה",
+      "gloss": "içirtmədin"
+    },
+    {
+      "surface": "ומרעב",
+      "gloss": "və ac (adamdan)"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "əskitdin"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "çörəyi"
+    }
+  ],
+  "timestamp": "2026-09-01T17:43:58.920636207Z",
+  "model": "glm-5.3"
+}

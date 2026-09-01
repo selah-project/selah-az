@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 5:10",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Yehudanın başçıları sərhəd daşını yerindən tərpədənlər kimi oldular; onların üzərinə qəzəbimi su kimi tökəcəyim.",
+  "tokens": [
+    {
+      "surface": "היו",
+      "gloss": "oldular"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "başçıları"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudanın"
+    },
+    {
+      "surface": "כמסיגי",
+      "gloss": "tərpədənlər kimi"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "sərhəd"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "onların üzərinə"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "tökəcəyim"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "su kimi"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "qəzəbimi"
+    }
+  ],
+  "timestamp": "2026-09-01T14:33:35.466537483Z",
+  "model": "glm-5.3"
+}

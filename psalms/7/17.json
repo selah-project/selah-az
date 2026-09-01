@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Onun əməli öz başına qayıdacaq, öz təpəsinin üstünə onun zorakılığı enəcək.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "qayıdacaq"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "onun əməli"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "öz başına"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "öz təpəsinin"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "onun zorakılığı"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "enəcək"
+    }
+  ],
+  "timestamp": "2026-09-01T15:00:19.203454972Z",
+  "model": "glm-5.3"
+}

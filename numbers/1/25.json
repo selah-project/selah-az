@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 1:25",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Sayılmışları Qad qəbiləsi üçün qırx beş min altı yüz əlli ⟨idi⟩.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "sayılmışları"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "qəbiləsi üçün"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Qad"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "beş"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "və qırx"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "min"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "və altı"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "və əlli"
+    }
+  ],
+  "timestamp": "2026-09-01T17:28:35.398212684Z",
+  "model": "glm-5.3"
+}

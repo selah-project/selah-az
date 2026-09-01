@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 45:4",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 45,
+  "translation": "Ona belə deyərsən: Belə deyir Yahve: Bax, mənim tikdiyimi mən dağıdıram, ⟨את⟩ mənim əkdiyimi isə mən sökürəm — bütün ölkəni ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "belə"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "deyərsən"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "כה",
+      "gloss": "belə"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bax"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-diyimi"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "tik"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "dağıdıram"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mənim əkdiyimi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-diyimi"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "ək"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "נתש",
+      "gloss": "sökürəm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bütün ölkəni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ölkəni"
+    },
+    {
+      "surface": "היא",
+      "gloss": "özü"
+    }
+  ],
+  "timestamp": "2026-09-01T13:52:45.711027056Z",
+  "model": "glm-5.3"
+}

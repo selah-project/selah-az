@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 22:21",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Bilam səhər early qalxmadı — səhər qalxdı və ⟨את⟩ qadın eşşəyini yəhərlədi və Moavın başçıları ilə getdi.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "qalxdı"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "səhər"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "yəhərlədi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qadın eşşəyini"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "qadın eşşəyi"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "getdi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "başçıları"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    }
+  ],
+  "timestamp": "2026-09-01T10:40:21.846274656Z",
+  "model": "glm-5.3"
+}

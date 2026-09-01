@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 40:4",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "Hər dərə qalxacaq, hər dağ və təpə alçalacaq; qıvrımlı ⟨yer⟩ düz çölə, ruğlar ⟨isə⟩ vadiyə çevriləcək.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Hər"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "dərə"
+    },
+    {
+      "surface": "ינשא",
+      "gloss": "qalxacaq"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dağ"
+    },
+    {
+      "surface": "וגבעה",
+      "gloss": "və təpə"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "alçalacaq"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "və ⟨olacaq⟩"
+    },
+    {
+      "surface": "העקב",
+      "gloss": "qıvrımlı ⟨yer⟩"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "düz çölə"
+    },
+    {
+      "surface": "והרכסים",
+      "gloss": "və ruğlar"
+    },
+    {
+      "surface": "לבקעה",
+      "gloss": "vadiyə"
+    }
+  ],
+  "timestamp": "2026-09-01T13:08:08.320625457Z",
+  "model": "glm-5.3"
+}

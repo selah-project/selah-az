@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 78,
+  "translation": "Onları onların övladlarından gizlətməyəcəyik; gələcək nəslə Yahvenin təriflərini, qüdrətini və etdiyi möcüzələrini danışacağıq.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "gizlətməyəcəyik"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "yox"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "onların övladlarından"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "nəslə"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "gələcək"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "danışacağıq"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "təriflərini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "qüdrətini"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "möcüzələrini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etdiyi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:26:14.735851431Z",
+  "model": "glm-5.3"
+}

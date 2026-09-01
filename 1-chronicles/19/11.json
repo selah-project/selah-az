@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 19:11",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Və ⟨את⟩ qalan xalqı qardaşı Avşayının əlinə verdi, və Ammon oğullarına qarşı düzdülər.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qalan xalqı"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "qalan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqı"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "əlinə"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "Avşayı"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "qardaşı"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "və düzdülər"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "qarşı"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarına"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    }
+  ],
+  "timestamp": "2026-09-01T17:06:15.229237433Z",
+  "model": "glm-5.3"
+}

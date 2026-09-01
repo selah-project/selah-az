@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 8:17",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və mən Yahveni gözləyəcəyəm, O ki, üzünü Yaakov evindən gizlədir, və mən Onu gözləyəcəyəm.",
+  "tokens": [
+    {
+      "surface": "וחכיתי",
+      "gloss": "və mən gözləyəcəyəm"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveni"
+    },
+    {
+      "surface": "המסתיר",
+      "gloss": "O ki, gizlədir"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "üzünü"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "evindən"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וקויתי",
+      "gloss": "və mən gözləyəcəyəm"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Onu"
+    }
+  ],
+  "timestamp": "2026-09-01T12:48:35.848412937Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "İndi gəl, onu lövhə üzərinə yaz — ⟨את⟩ onlarla — və kitaba həkk et; və sonrakı gün üçün olsun, şahidliyə, əbədi, əbədiyyənə qədər.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "İndi"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "gəl"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "onu yaz"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "lövhə"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onlarla"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "və"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitaba"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "həkk et"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "və olsun"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "gün üçün"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "sonrakı"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "şahidliyə, əbədi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "əbədiyyətə"
+    }
+  ],
+  "timestamp": "2026-09-01T13:02:36.886125333Z",
+  "model": "glm-5.3"
+}

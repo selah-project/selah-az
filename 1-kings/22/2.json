@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 22:2",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Üçüncü ildə baş verdi: Yehuda kralı Yehoşafat İsrail kralının yanına eniş etdi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "baş verdi"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ildə"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "üçüncü"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "eniş etdi"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoşafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralının"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    }
+  ],
+  "timestamp": "2026-09-01T12:27:58.550468701Z",
+  "model": "glm-5.3"
+}

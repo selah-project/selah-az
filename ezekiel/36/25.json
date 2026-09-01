@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 36:25",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 36,
+  "translation": "Və sizin üstünüzə təmiz su səpəcəyəm, və təmizlənəcəksiniz; bütün murdarlıqlarınızdan və bütün bütlərinizdən sizi təmizləyəcəyəm — ⟨את⟩ sizin özünüzü.",
+  "tokens": [
+    {
+      "surface": "וְזָרַקְתִּי",
+      "gloss": "səpəcəyəm"
+    },
+    {
+      "surface": "עֲלֵיכֶם",
+      "gloss": "sizin üstünüzə"
+    },
+    {
+      "surface": "מַיִם",
+      "gloss": "su"
+    },
+    {
+      "surface": "טְהוֹרִים",
+      "gloss": "təmiz"
+    },
+    {
+      "surface": "וּטְהַרְתֶּם",
+      "gloss": "təmizlənəcəksiniz"
+    },
+    {
+      "surface": "מִכֹּל",
+      "gloss": "bütün ... -dan"
+    },
+    {
+      "surface": "טֻמְאוֹתֵיכֶם",
+      "gloss": "murdarlıqlarınızdan"
+    },
+    {
+      "surface": "וּמִכָּל",
+      "gloss": "və bütün ... -dən"
+    },
+    {
+      "surface": "גִּלּוּלֵיכֶם",
+      "gloss": "bütlərinizdən"
+    },
+    {
+      "surface": "אֲטַהֵר",
+      "gloss": "təmizləyəcəyəm"
+    },
+    {
+      "surface": "אֶתְכֶם",
+      "gloss": "⟨את⟩",
+      "marks": "sizin özünüzü (sizi)"
+    }
+  ],
+  "timestamp": "2026-09-01T18:01:16.509546900Z",
+  "model": "glm-5.3"
+}

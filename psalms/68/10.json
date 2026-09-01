@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 68:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 68,
+  "translation": "Könüllülük yağışını səyirtdin, ey Elohim; məişətini ⟨is⟩, yorulanda sən onu bərpa etdin ⟨onu⟩.",
+  "tokens": [
+    {
+      "surface": "גשם",
+      "gloss": "yağışını"
+    },
+    {
+      "surface": "נדבות",
+      "gloss": "könüllülülük"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "səyirtdin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "məişətini"
+    },
+    {
+      "surface": "ונלאה",
+      "gloss": "yorulanda"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "bərpa etdin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:22:16.077322231Z",
+  "model": "glm-5.3"
+}

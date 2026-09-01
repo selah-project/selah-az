@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 118:23",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 118,
+  "translation": "Bu, Yahvedən ⟨את⟩ olub; ⟨o⟩ bizim gözümüzdə möcüzədir.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩-dən",
+      "marks": "bu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "olub"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "möcüzədir"
+    },
+    {
+      "surface": "בעינינו",
+      "gloss": "bizim gözümüzdə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:56.560421072Z",
+  "model": "glm-5.3"
+}

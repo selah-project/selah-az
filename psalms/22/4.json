@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Və ⟨sən⟩ müqəddəssən, Yisraelin təriflərinin ⟨üzerində⟩ oturan.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "və ⟨sən⟩"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "müqəddəssən"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "oturan"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "təriflərinin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraelin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:07:09.720929099Z",
+  "model": "glm-5.3"
+}

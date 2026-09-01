@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 13:11",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Bu, dərisində, ətində köhnəlmiş tsaraatdır və kahin onu murdar etsin; onu bağlatdırmasın, çünki o, murdardır.",
+  "tokens": [
+    {
+      "surface": "צרעת",
+      "gloss": "tsaraat"
+    },
+    {
+      "surface": "נושנת",
+      "gloss": "köhnəlmiş"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "bu"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "dərisində"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ətində"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "murdar etsin"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יסגרנו",
+      "gloss": "bağlatdırmasın"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "murdar"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-09-01T10:25:40.771351996Z",
+  "model": "glm-5.3"
+}

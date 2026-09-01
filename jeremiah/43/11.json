@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 43:11",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 43,
+  "translation": "Və o, gəlib ⟨את⟩ Mitsrayim torpağını vuracaq: ölümə təyin olunan ölümə, əsirliyə təyin olunan əsirliyə, qılınca təyin olunan qılınca.",
+  "tokens": [
+    {
+      "surface": "ובאה",
+      "gloss": "və o, gəlib"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "vuracaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim torpağını"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "torpağını"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "təyin olunan"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ölümə"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ölümə"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "və təyin olunan"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "əsirliyə"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "əsirliyə"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "və təyin olunan"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "qılınca"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "qılınca"
+    }
+  ],
+  "timestamp": "2026-09-01T18:00:35.984508026Z",
+  "model": "glm-5.3"
+}

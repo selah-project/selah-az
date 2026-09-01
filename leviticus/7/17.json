@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 7:17",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Qurbanın ətindən qalan isə üçüncü gündə odda yandırılacaq.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "qalan isə"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "ətindən"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "qurbanın"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gündə"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "üçüncü"
+    },
+    {
+      "surface": "באש",
+      "gloss": "odda"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "yandırılacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T10:23:29.853149701Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 1:13",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və içərağzı və baldırlar suda yuyulacaq; kohen isə ⟨את⟩ hamısını təqdim edəcək və altarda yandıracaq — o, yandırma qurbanıdır, od qurbanı, Yahve üçün xoş ətir.",
+  "tokens": [
+    {
+      "surface": "והקרב",
+      "gloss": "və içərağzı"
+    },
+    {
+      "surface": "והכרעים",
+      "gloss": "və baldırlar"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "yuyulacaq"
+    },
+    {
+      "surface": "במים",
+      "gloss": "suda"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "təqdim edəcək"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hamısını"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "hamısını"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "yandıracaq"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "altarda"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "yandırma qurbanı"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "od qurbanı"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "ətir"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "xoş"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T17:27:07.019794367Z",
+  "model": "glm-5.3"
+}

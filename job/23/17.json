@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 23:17",
+  "book": "job",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Çünki mən qaranlığın üzündən yox edilmədim, və ⟨O⟩ zülməti üzümə qarşı örtmədi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "נצמתי",
+      "gloss": "mən yox edilmədim"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "üzündən"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "qaranlığın"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "və üzümə qarşı"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "örtmədi"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "zülməti"
+    }
+  ],
+  "timestamp": "2026-09-01T16:12:00.126954899Z",
+  "model": "glm-5.3"
+}

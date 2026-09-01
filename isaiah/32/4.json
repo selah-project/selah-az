@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 32:4",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Və tələsənlərin ürəyi bilməyi anlayacaq, lal-lal danışanların dili aydın danışmağa tələsəcək.",
+  "tokens": [
+    {
+      "surface": "ולבב",
+      "gloss": "Və … ürəyi"
+    },
+    {
+      "surface": "נמהרים",
+      "gloss": "tələsənlərin"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "anlayacaq"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "bilməyi"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "dili isə"
+    },
+    {
+      "surface": "עלגים",
+      "gloss": "lal-lal danışanların"
+    },
+    {
+      "surface": "תמהר",
+      "gloss": "tələsəcək"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "danışmağa"
+    },
+    {
+      "surface": "צחות",
+      "gloss": "aydın"
+    }
+  ],
+  "timestamp": "2026-09-01T12:59:41.361818747Z",
+  "model": "glm-5.3"
+}

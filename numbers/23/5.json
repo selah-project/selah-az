@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 23:5",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Yahve ⟨bir⟩ söz Bilamın ağzına qoydu və dedi: Balaqın yanına qayıt və belə danış.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "qoydu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "söz"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ağzına"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "qayıt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balaqın"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "və belə"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "danış"
+    }
+  ],
+  "timestamp": "2026-09-01T10:41:39.512822234Z",
+  "model": "glm-5.3"
+}

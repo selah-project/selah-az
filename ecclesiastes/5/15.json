@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Bu da xəstələnmiş bir şərdir: gəldiyi kimi, bütün cəhətdən elə də gedir; küləyə əmək sürəndə ona nə qazanc var?",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "həm də"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "şərdir"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "xəstələnmiş"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "cəhətdən"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "gəldiyi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "elə"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "gedir"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "qazanc"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "əmək sürəndə"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "küləyə"
+    }
+  ],
+  "timestamp": "2026-09-01T16:31:34.687353950Z",
+  "model": "glm-5.3"
+}

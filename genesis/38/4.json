@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 38,
+  "translation": "Yenidən hamilə qaldı və bir oğul doğdu və adını ⟨את⟩ Onan qoydu.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "hamilə qaldı"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yenidən"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "doğdu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "qoydu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adını"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "adını"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Onan"
+    }
+  ],
+  "timestamp": "2026-09-01T09:59:21.986455216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 42,
+  "translation": "Dərinlik dərinliyə səslənir sənin şəlalələrinin səsinə; sənin bütün dalğa qırılanların və şahələrin üstdən mənim üstümdən keçdi.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Dərinlik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-(y)a"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "dərinliyə"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "səslənir"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "səsinə"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "şəlalələrinin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "dalğa qırılanların"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "və şahələrin"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mənim üstümdən"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "keçdi"
+    }
+  ],
+  "timestamp": "2026-09-01T18:01:59.253259568Z",
+  "model": "glm-5.3"
+}

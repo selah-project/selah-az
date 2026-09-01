@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Və xalq xəmirini ⟨את⟩ — mayalandırmadan əvvəl — götürdü; yoğurma qabları paltarlarına bükülü, çiyinlərinin üstündə.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "və götürdü"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xəmirini"
+    },
+    {
+      "surface": "בצקו",
+      "gloss": "xəmirini"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "əvvəl"
+    },
+    {
+      "surface": "יחמץ",
+      "gloss": "mayalandırmadan"
+    },
+    {
+      "surface": "משארתם",
+      "gloss": "yoğurma qabları"
+    },
+    {
+      "surface": "צררת",
+      "gloss": "bükülü"
+    },
+    {
+      "surface": "בשמלתם",
+      "gloss": "paltarlarına"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "שכמם",
+      "gloss": "çiyinlərinin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:09:06.418198818Z",
+  "model": "glm-5.3"
+}

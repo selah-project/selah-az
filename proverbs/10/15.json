@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 10:15",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Zənginin sərvəti onun güc şəhəridir, kasıbların yıxıntısı isə onların yoxsulluğudur.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "sərvəti"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "zənginin"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "şəhəridir"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "güc … onun"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "yıxıntısı"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "kasıbların"
+    },
+    {
+      "surface": "רישם",
+      "gloss": "yoxsulluğudur"
+    }
+  ],
+  "timestamp": "2026-09-01T15:51:17.095065163Z",
+  "model": "glm-5.3"
+}

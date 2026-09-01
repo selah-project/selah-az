@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 1:4",
+  "book": "amos",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və Hazaəlin evinə od göndərəcəyəm, və o, Ben-Hadadın qalalarını yeyəcək.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "və göndərəcəyəm"
+    },
+    {
+      "surface": "אש",
+      "gloss": "od"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "evinə"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Hazaəlin"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "və o, yeyəcək"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "qalalarını"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadadın"
+    }
+  ],
+  "timestamp": "2026-09-01T14:41:22.980853156Z",
+  "model": "glm-5.3"
+}

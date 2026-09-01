@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 11:11",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "O, ⟨את⟩ qalaları möhkəmləndirdi və onların içiçinə sərkərdələr qoydu, yemək, yağ və şərab anbarları.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "möhkəmləndirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qalaları"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "qalaları"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "qoydu"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onların içiçinə"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "sərkərdələr"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "anbarları"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "yemək"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "yağ"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "şərab"
+    }
+  ],
+  "timestamp": "2026-09-01T17:47:20.227319954Z",
+  "model": "glm-5.3"
+}

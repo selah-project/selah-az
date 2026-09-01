@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 22:26",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Səndəndir mənim tərifim böyük məclisdə; andlarımı Onu qorxanların önündə yerinə yetirəcəyəm.",
+  "tokens": [
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ səndən"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "mənim tərifim"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "məclisdə"
+    },
+    {
+      "surface": "רב",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "andlarımı"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "yerinə yetirəcəyəm"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "önündə"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "Onu qorxanların"
+    }
+  ],
+  "timestamp": "2026-09-01T15:07:31.128199914Z",
+  "model": "glm-5.3"
+}

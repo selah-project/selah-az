@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 80,
+  "translation": "Yahve, Elohim Səvaot, bizim üçün geri qaytar; üzünün işığını saç və xilas olacağıq.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Səvaot (orduların)"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "bizim üçün geri qaytar"
+    },
+    {
+      "surface": "האר",
+      "gloss": "işığını saç"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "üzünün"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "və xilas olacağıq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:27:52.365498549Z",
+  "model": "glm-5.3"
+}

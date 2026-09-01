@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və bir çay Edendən çıxırdı bağı suvarmaq üçün ⟨את⟩; oradan isə bölünür və dörd baş qol olur.",
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "və çay"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "çıxırdı"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "Edendən"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "suvarmaq üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bağı"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "bağı"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "oradan isə"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "bölünür"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "və olur"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "dörd"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "baş qol"
+    }
+  ],
+  "timestamp": "2026-09-01T09:45:42.945863619Z",
+  "model": "glm-5.3"
+}

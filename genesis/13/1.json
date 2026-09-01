@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 13:1",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Və Avram Mitsrayimdan qalxdı — özü, arvadı və ona məxsus olan hər şey, və Lut onunla — cənub tərəfə.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "və qalxdı"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayimdan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "özü"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "və onun arvadı"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki, olan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona məxsus"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "və Lut"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "cənub tərəfə"
+    }
+  ],
+  "timestamp": "2026-09-01T09:49:19.633407909Z",
+  "model": "glm-5.3"
+}

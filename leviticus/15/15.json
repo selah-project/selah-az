@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 15:15",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Kahin onlardan birini günah qurbanı, digərini isə yandırma qurbanı kimi edəcək, və kahin onun axıtına görə Yahvenin hüzurunda onun üçün kəffarə edəcək.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "edəcək"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onlardan birini... digərini"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "birini"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "günah qurbanı"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "və digərini"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "yandırma qurbanı"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "kəffarə edəcək"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üçün"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hüzurunda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "axıtına görə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:28:07.072479160Z",
+  "model": "glm-5.3"
+}

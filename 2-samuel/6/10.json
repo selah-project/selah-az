@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 6:10",
+  "book": "2-samuel",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Davud Yahvenin sandığını öz yanına, Davud şəhərinə daşımağa razı olmadı və Davud onu Qittili Oved-Edomun evinə yönəltdi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "razı oldu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "להסיר",
+      "gloss": "daşımağa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandığı"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandığı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨üzerə⟩"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şəhəri"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davudun"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "yönəltdi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evinə"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomun"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "Qittili"
+    }
+  ],
+  "timestamp": "2026-09-01T11:53:20.019005061Z",
+  "model": "glm-5.3"
+}

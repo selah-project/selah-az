@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 1:6",
+  "book": "job",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və bir gün oldu: Elohimin oğulları Yahvenin hüzurunda durmaq üçün gəldilər, Şatan da onların arasında gəldi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨oldu⟩"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bir gün"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "gəldilər"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "להתיצב",
+      "gloss": "durmaq üçün"
+    },
+    {
+      "surface": "על",
+      "gloss": "hüzurunda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "gəldi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "də"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Şatan"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "onların arasında"
+    }
+  ],
+  "timestamp": "2026-09-01T16:03:38.434927496Z",
+  "model": "glm-5.3"
+}

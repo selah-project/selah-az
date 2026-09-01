@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 90,
+  "translation": "Çünki qəzəbində tükəndik, öz hirsində sarsıldıq.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "tükəndik"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "qəzəbində"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "öz hirsində"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "sarsıldıq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:32:23.344417786Z",
+  "model": "glm-5.3"
+}

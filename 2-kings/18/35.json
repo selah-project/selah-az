@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 18:35",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Kimdir bütün ölkələrin tanrıları içində ⟨את⟩ ölkələrini mənim əlimdən qurtaran, ki Yahve ⟨את⟩ Yeruşalayımı mənim əlimdən qurtarsın?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kimdir"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün... içində"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "tanrıları"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "ölkələrinin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "qurtaran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ölkələrini"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ölkələrini"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "mənim əlimdən"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "qurtarsın"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeruşalayımı"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayımı"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "mənim əlimdən"
+    }
+  ],
+  "timestamp": "2026-09-01T12:39:53.743509896Z",
+  "model": "glm-5.3"
+}

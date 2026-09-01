@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "Sən gördün, Yahve, susma; Adonay, məndən uzaq olma.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "Sən gördün"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "susma"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "(susma)"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "olma"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "uzaq (olma)"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "məndən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:10:41.846298521Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 8:21",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və orada aron üçün bir yer müəyyən etdim — orada Yahvenin beriti ⟨var⟩, atalarımızla kəsdiyi berit, onları ⟨את⟩ Mitsrayim torpağından çıxararkən.",
+  "tokens": [
+    {
+      "surface": "ואשם",
+      "gloss": "və müəyyən etdim"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "yer"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "aron üçün"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "berit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "kəsdiyi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "atalarımız"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "çıxararkən"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "torpağından"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T12:17:26.943108859Z",
+  "model": "glm-5.3"
+}

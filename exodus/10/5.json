@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 10:5",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "və torpağın üzünü örtəcək, torpağı görmək mümkün olmayacaq; o, doludan sizə qalan qurtarılmış artıq yeyəcək və sizin üçün tarlada bitən bütün ağacları yeyəcək.",
+  "tokens": [
+    {
+      "surface": "וכסה",
+      "gloss": "örtəcək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "torpağın üzünü"
+    },
+    {
+      "surface": "עין",
+      "gloss": "üzünü"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "torpağın"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və olmayacaq"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "mümkün"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "görmək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "torpağı"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "torpağı"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "və yeyəcək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "artığı"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "artığını"
+    },
+    {
+      "surface": "הפלטה",
+      "gloss": "qurtarılmış"
+    },
+    {
+      "surface": "הנשארת",
+      "gloss": "qalan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizə"
+    },
+    {
+      "surface": "מן",
+      "gloss": "doludan"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "dolu"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "və yeyəcək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün ağacları"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ağacları"
+    },
+    {
+      "surface": "הצמח",
+      "gloss": "bitən"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin üçün"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tarladan"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tarla"
+    }
+  ],
+  "timestamp": "2026-09-01T10:07:57.892899188Z",
+  "model": "glm-5.3"
+}

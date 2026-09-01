@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Əgər bir adam tarla və ya üzümlük otlatdırarsa və ⟨את⟩ malını buraxıb başqasının tarlasında otlatdırsa, öz tarlasının ən yaxşısından və öz üzümlüyünün ən yaxşısından ödəyəcək.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Əgər"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "otlatdırarsa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir adam"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "tarla"
+    },
+    {
+      "surface": "או",
+      "gloss": "və ya"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "üzümlük"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "və buraxsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malını"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "malını"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "və otlatdırsa"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "tarlasında"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "başqasının"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "ən yaxşısından"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "öz tarlasının"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "və ən yaxşısından"
+    },
+    {
+      "surface": "כרמו",
+      "gloss": "öz üzümlüyünün"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ödəyəcək"
+    }
+  ],
+  "timestamp": "2026-09-01T10:15:33.396418956Z",
+  "model": "glm-5.3"
+}

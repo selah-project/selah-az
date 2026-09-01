@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 8:12",
+  "book": "joshua",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və beş min kişi götürdü və onları pusquya qoydu — Beyt-El ilə Ay arasında, şəhərin qərbində.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "götürdü"
+    },
+    {
+      "surface": "כחמשת",
+      "gloss": "təxminən beş"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "min"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kişi"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "qoydu"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ onları",
+      "marks": "pusqu"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "pusquya"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ay"
+    },
+    {
+      "surface": "מים",
+      "gloss": "qərbində"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "şəhərin"
+    }
+  ],
+  "timestamp": "2026-09-01T11:04:09.475204489Z",
+  "model": "glm-5.3"
+}

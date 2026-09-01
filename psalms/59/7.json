@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 59,
+  "translation": "Axşam qayıdırlar, it kimi hürür və şəhərin ətrafında dolaşırlar.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "qayıdırlar"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "axşam"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "hürür"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "it kimi"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "və dolaşırlar"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şəhərin ətrafında"
+    }
+  ],
+  "timestamp": "2026-09-01T15:19:42.645348062Z",
+  "model": "glm-5.3"
+}

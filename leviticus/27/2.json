@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 27:2",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "İsrail oğulları ilə danış və onlara de: bir adam nəzir ⟨olaraq⟩ aşır dəyər verdiyində — dəyərləndirmənə görə canlar Yahvenin olacaq.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "danış"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "və de"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir adam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-dığında"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "aşır dəyər verəndə"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "nəzir"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "dəyərləndirmənə görə"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "canlar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvenin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:31:59.802634048Z",
+  "model": "glm-5.3"
+}

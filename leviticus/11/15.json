@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "⟨את⟩ hər qarğanı — növünə görə.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hər qarğanı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "qarğa"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "növünə görə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:24:15.880387879Z",
+  "model": "glm-5.3"
+}

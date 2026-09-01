@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "daniel 11:42",
+  "book": "daniel",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Və o, öz əlini ölkələr üzərinə uzadacaq, və Mitsrayim torpağı qaçıb qurtulan ⟨yerdə⟩ olmayacaq.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "və uzadacaq"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "öz əlini"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "ölkələr üzərinə"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "və torpağı"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "olmayacaq"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨yerdə⟩"
+    },
+    {
+      "surface": "לפליטה",
+      "gloss": "qaçıb qurtulan"
+    }
+  ],
+  "timestamp": "2026-09-01T16:46:42.960958953Z",
+  "model": "glm-5.3"
+}

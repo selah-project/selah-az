@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Yahve dedi: Yehuda qalxacaq; bax, mən ⟨את⟩ torpağı onun əlinə vermişəm.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "qalxacaq"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "vermişəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "torpağı"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "torpağı"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "onun əlinə"
+    }
+  ],
+  "timestamp": "2026-09-01T11:15:43.948622101Z",
+  "model": "glm-5.3"
+}

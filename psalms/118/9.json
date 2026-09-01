@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 118:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 118,
+  "translation": "Yahvedə sığınmaq xoşdur, nədiblərə güvənməkdən.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "xoşdur"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "sığınmaq"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahvedə"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "güvənməkdən"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "nədiblərə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:55.448274694Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 5:2",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Kişi və qadın ⟨onları⟩ yaratdı, onları xeyir-dua verdi və onların adını İnsan qoydu, onların yaradıldığı gündə.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Kişi"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "və qadın"
+    },
+    {
+      "surface": "בראם",
+      "gloss": "yaratdı ⟨onları⟩"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "xeyir-dua verdi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "qoydu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adlarını"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "adlarını"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "İnsan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gündə"
+    },
+    {
+      "surface": "הבראם",
+      "gloss": "yaradıldıqları"
+    }
+  ],
+  "timestamp": "2026-09-01T09:46:44.597280079Z",
+  "model": "glm-5.3"
+}

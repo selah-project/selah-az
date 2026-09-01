@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 40:30",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "Və eyvanlar dövrə var idi ⟨ətrafında⟩ — uzunluğu beş və iyirmi amma, eni beş amma.",
+  "tokens": [
+    {
+      "surface": "ואלמות",
+      "gloss": "və eyvanlar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dövrə"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ətrafında"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "uzunluğu"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "beş"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "və iyirmi"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amma"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "və eni"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "beş"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amma"
+    }
+  ],
+  "timestamp": "2026-09-01T14:27:20.854242550Z",
+  "model": "glm-5.3"
+}

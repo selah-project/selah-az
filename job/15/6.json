@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 15:6",
+  "book": "job",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Ağzın səni mücrim elan edir, və mən ⟨deyil⟩, və dodaqların sənin əleyhinə ⟨cavab⟩ verir.",
+  "tokens": [
+    {
+      "surface": "ירשיעך",
+      "gloss": "mücrim elan edir səni"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ağzın"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ⟨deyil⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "və dodaqların"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "⟨cavab⟩ verir"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sənin əleyhinə"
+    }
+  ],
+  "timestamp": "2026-09-01T16:08:41.896470596Z",
+  "model": "glm-5.3"
+}

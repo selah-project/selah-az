@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 20:20",
+  "book": "2-samuel",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Və Yoav cavab verdi və dedi: Uzaq olsun, uzaq olsun məndən — ⟨kı⟩ udum ⟨və ya⟩ dağıtmaram.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "cavab verdi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Uzaq olsun"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "uzaq olsun"
+    },
+    {
+      "surface": "לי",
+      "gloss": "məndən"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨kı⟩"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "udum"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "⟨və ya⟩"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "dağıtmaram"
+    }
+  ],
+  "timestamp": "2026-09-01T12:03:13.912610319Z",
+  "model": "glm-5.3"
+}

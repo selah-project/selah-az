@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 38:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 38,
+  "translation": "Adonay, bütün arzum Sənin üzündədir və ah çəkmişəm Səndən gizlədilməyib.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "Sənin üzündə"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "תאותי",
+      "gloss": "arzum"
+    },
+    {
+      "surface": "ואנחתי",
+      "gloss": "və ahlarım"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "Səndən"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "gizlədilib"
+    }
+  ],
+  "timestamp": "2026-09-01T15:13:18.352930679Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 29:17",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "Və ⟨את⟩ qoçu öz doğranmış hissələrinə doğra, onun içərisini və baldırlarını yu, bunları onun hissələrinin üstünə və onun başının üstünə qoy.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "qoçu"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "qoç"
+    },
+    {
+      "surface": "תנתח",
+      "gloss": "doğra"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "öz doğranmış hissələrinə"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "və yu"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "onun içərisi"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "və onun baldırları"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "və qoy"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "נתחיו",
+      "gloss": "onun hissələri"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "və üstünə"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "onun başı"
+    }
+  ],
+  "timestamp": "2026-09-01T10:18:35.028531245Z",
+  "model": "glm-5.3"
+}

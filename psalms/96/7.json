@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 96:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 96,
+  "translation": "Verin Yahveyə, ey xalqların ailələri, verin Yahveyə izzət və qüdrət!",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "verin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "ailələri"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "xalqların"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "verin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "izzət"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "və qüdrət"
+    }
+  ],
+  "timestamp": "2026-09-01T15:31:54.570171517Z",
+  "model": "glm-5.3"
+}

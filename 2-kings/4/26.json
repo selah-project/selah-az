@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 4:26",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "İndi qaç, xahiş edirəm, onun qarşısına və ona de: Sənə salamdır? ərinə salamdır? uşağa salamdır? Və o dedi: Salam.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "indi"
+    },
+    {
+      "surface": "רוץ",
+      "gloss": "qaç"
+    },
+    {
+      "surface": "נא",
+      "gloss": "xahiş edirəm"
+    },
+    {
+      "surface": "לקראתה",
+      "gloss": "onun qarşısına"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "və de"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "salamdır?"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "salamdır?"
+    },
+    {
+      "surface": "לאישך",
+      "gloss": "ərinə"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "salamdır?"
+    },
+    {
+      "surface": "לילד",
+      "gloss": "uşağa"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "və o dedi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Salam"
+    }
+  ],
+  "timestamp": "2026-09-01T12:30:26.109002539Z",
+  "model": "glm-5.3"
+}

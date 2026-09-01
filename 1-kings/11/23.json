@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 11:23",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Elohim ona bir qarşı-durancı qaldırdı: Rezonu, Elyadanın oğlunu ⟨את⟩ — o, öz ağası Tsoba padşahı Hadadezerdən ⟨את⟩ qaçmışdı.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "qaldırdı"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "qarşı-durancı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rezonu"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "Rezonu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlunu"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "Elyadanın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o, ki"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "qaçmışdı"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩-dən",
+      "marks": "Hadadezerdən"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezerdən"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşahı"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsoba"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "öz ağası"
+    }
+  ],
+  "timestamp": "2026-09-01T12:18:37.093317331Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 9:11",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Və mən əqdimi ⟨את⟩ sizinlə qururam: bütün ət artıq daşqının suları ilə kəsilməyəcək və yerin məhv edilməsi üçün artıq daşqın olmayacaq.",
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "qururam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əqdimi"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "əqdimi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizinlə"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və … olmayacaq"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "kəsilməyəcək"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ət"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "artıq"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "suları ilə"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "daşqının"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və olmayacaq"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olmayacaq"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "artıq"
+    },
+    {
+      "surface": "מבול",
+      "gloss": "daşqın"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "məhv etmək üçün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    }
+  ],
+  "timestamp": "2026-09-01T09:47:53.920294003Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 89,
+  "translation": "O, mənə səslənəcək: Sən mənim Atamsan, mənim Elim, mənim xilasımın Qayasısan.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "mənə səslənəcək"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Atam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənim Elim"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "və Qaya"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "mənim xilasım"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:15.639026945Z",
+  "model": "glm-5.3"
+}

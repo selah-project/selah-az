@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 17:20",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "«Yişmaelə gəlincə, səni eşitdim; bax, Mən onu ⟨את⟩ aldım, onu ⟨את⟩ bərəkətləndirəcək, onu ⟨את⟩ çox çox artıracağım; on iki əmir doğacaq və onu böyük bir millət edəcəyəm.",
+  "tokens": [
+    {
+      "surface": "ולישמעאל",
+      "gloss": "Yişmaelə gəlincə"
+    },
+    {
+      "surface": "şəmətix\/שמעתיך",
+      "gloss": "səni eşitdim"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "aldım"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu (Yişmaeli)"
+    },
+    {
+      "surface": "והפריתי",
+      "gloss": "bərəkətləndirəcək"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu (Yişmaeli)"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "artıracağam"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu (Yişmaeli)"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "çox"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çox"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "on iki"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(on) iki"
+    },
+    {
+      "surface": "נשיאם",
+      "gloss": "əmir"
+    },
+    {
+      "surface": "יוליד",
+      "gloss": "doğacaq"
+    },
+    {
+      "surface": "ונתתיו",
+      "gloss": "və edəcəyəm onu"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "millət"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "böyük"
+    }
+  ],
+  "timestamp": "2026-09-01T09:50:36.984058736Z",
+  "model": "glm-5.3"
+}

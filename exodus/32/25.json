@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 32:25",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Moşe ⟨את⟩ xalqı gördü ki, o başıpozuqdur, çünki Aharon onu onların qalxanları arasında lağa qoyulmaq üçün başıpozuq salmışdı.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "gördü"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqı"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "başıpozuqdur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "başıpozuq salmışdı"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לשמצה",
+      "gloss": "lağa qoyulmaq üçün"
+    },
+    {
+      "surface": "בקמיהם",
+      "gloss": "onların qalxanları arasında"
+    }
+  ],
+  "timestamp": "2026-09-01T10:20:07.253824229Z",
+  "model": "glm-5.3"
+}

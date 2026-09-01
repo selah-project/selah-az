@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Qazamın qalığını çəyərtkə yedi, və çəyərtkənin qalığını yelek yedi, və yelekin qalığını xasil yedi.",
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "qalığı"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "qazamın"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yedi"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "çəyərtkə"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "və qalığı"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "çəyərtkənin"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yedi"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "yelek"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "və qalığı"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "yelekin"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yedi"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "xasil"
+    }
+  ],
+  "timestamp": "2026-09-01T14:38:03.491845742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 75,
+  "translation": "Buynuzunuzu yüksəkliyə qaldırmayın; sərt boynunuzu çərib danışmayın.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "…mayın"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "qaldırmayın"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "yüksəkliyə"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "buynuzunuzu"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "danışmayın"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "boyunla"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "sərt (inadkar)"
+    }
+  ],
+  "timestamp": "2026-09-01T15:25:33.330769021Z",
+  "model": "glm-5.3"
+}

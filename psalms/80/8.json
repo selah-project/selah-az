@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 80:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 80,
+  "translation": "Elohim Tsevaot, bizi geri qaytar, üzgünü parlaqlaşdır və xilas olacağıq.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "bizi geri qaytar"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "və parlaqlaşdır"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "üzgünü"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "və xilas olacağıq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:27:50.797029578Z",
+  "model": "glm-5.3"
+}

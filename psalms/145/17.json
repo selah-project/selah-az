@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 145,
+  "translation": "Yahve bütün yollarında salehdir, bütün işlərində hesedlidir.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "salehdir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "yollarında"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "hesedlidir"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "işlərində"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:56.851834200Z",
+  "model": "glm-5.3"
+}

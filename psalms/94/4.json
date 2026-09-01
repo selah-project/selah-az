@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 94,
+  "translation": "Boşalırlar, cümlələr danışırlar ⟨sanki⟩ onur, özünü böyüdürlər bütün pislik işlədənlər.",
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "boşalırlar"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "danışırlar"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "onur"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "özünü böyüdürlər"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "işlədənlər"
+    },
+    {
+      "surface": "און",
+      "gloss": "pislik"
+    }
+  ],
+  "timestamp": "2026-09-01T15:32:19.419778947Z",
+  "model": "glm-5.3"
+}

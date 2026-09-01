@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 28:10",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "Və yerin bütün xalqları görəcək ki, Yahve adı sənin üstünə çağırılıb, və səndən qorxacaqlar.",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "görəcək"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqları"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "çağırılıb"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "qorxacaqlar"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "səndən"
+    }
+  ],
+  "timestamp": "2026-09-01T10:55:43.602654927Z",
+  "model": "glm-5.3"
+}

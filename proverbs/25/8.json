@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 25:8",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Tez mübahisəyə çıxma, yoxsa ⟨bilməzsən⟩ nə edəcəksən onun sonunda — rəyin ⟨את⟩ səni utandıranda.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "çıxma"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "mübahisəyə"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "tez"
+    },
+    {
+      "surface": "פן",
+      "gloss": "yoxsa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "edəcəksən"
+    },
+    {
+      "surface": "באחריתה",
+      "gloss": "onun sonunda"
+    },
+    {
+      "surface": "בהכלים",
+      "gloss": "utandıranda"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ səni",
+      "marks": "utandırma fəlinin obyekti — sən"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "rəyin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:59:19.867500929Z",
+  "model": "glm-5.3"
+}

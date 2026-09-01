@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 5:15",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "İnsan əyildi və kişi alçaldı, və ucalanların gözləri alçaldı.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "əyildi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "alçaldı"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kişi"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "gözləri"
+    },
+    {
+      "surface": "גבהים",
+      "gloss": "ucalanların"
+    },
+    {
+      "surface": "תשפלנה",
+      "gloss": "alçaldı"
+    }
+  ],
+  "timestamp": "2026-09-01T12:49:00.982676742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 69,
+  "translation": "Çünki sənin üztünə təhqir daşıdım; üzlətimi örtdü rüsvayçılıq.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sənin üztünə"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "daşıdım"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "təhqir"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "örtdü"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "rüsvayçılıq"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzlətimi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:22:20.977962118Z",
+  "model": "glm-5.3"
+}

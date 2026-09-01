@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "⟨את⟩ bir qoçu səhər hazırla, ⟨את⟩ ikinci qoçu isə iki axşam arasında hazırla.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bir qoçu"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "qoçu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "hazırla"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "səhər"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ikinci qoçu"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "qoçu"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikinci"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "hazırla"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "iki axşam"
+    }
+  ],
+  "timestamp": "2026-09-01T10:43:09.831145030Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 11:20",
+  "book": "judges",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Amma Sihon Yisraelə inanmadı ⟨את⟩ ki öz sərhədindən keçsin; Sihon bütün xalqını ⟨את⟩ topladı, Yatsada düşərgə saldılar və Yisraillə vuruşdu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "amma ... inanmadı"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "inanmadı"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "Sihon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraelə"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "keçsin"
+    },
+    {
+      "surface": "בגבלו",
+      "gloss": "öz sərhədindən"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "topladı"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "Sihon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün xalqını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "xalqını"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "düşərgə saldılar"
+    },
+    {
+      "surface": "ביהצה",
+      "gloss": "Yatsada"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "vuruşdu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraellə"
+    }
+  ],
+  "timestamp": "2026-09-01T11:24:52.847164900Z",
+  "model": "glm-5.3"
+}

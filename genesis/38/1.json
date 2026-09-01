@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 38:1",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 38,
+  "translation": "Və ⟨o⟩ vaxtda baş verdi: Yehuda qardaşlarından ⟨את⟩-dən enib bir Adullamlı adamın yanına yönəldi, onun adı Xira idi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "baş verdi"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "vaxtda"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "endi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩-dən",
+      "marks": "qardaşlarından"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "qardaşlarından"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "yönəldi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamın"
+    },
+    {
+      "surface": "עדלמי",
+      "gloss": "Adullamlı"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "onun adı"
+    },
+    {
+      "surface": "חירה",
+      "gloss": "Xira"
+    }
+  ],
+  "timestamp": "2026-09-01T09:59:21.986003096Z",
+  "model": "glm-5.3"
+}

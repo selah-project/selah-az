@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 3:3",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və mən ona dedim: Çox günlər sən mənim üçün ⟨gözləyəcəksən⟩; zina etməyəcəksən və bir kişinin ⟨olmayacaqsan⟩, və mən də ⟨belə⟩ sənə ⟨olacağam⟩.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "dedim"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günlər"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "çox"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "oturacaqsan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənim üçün"
+    },
+    {
+      "surface": "לא",
+      "gloss": "olmaz"
+    },
+    {
+      "surface": "תזני",
+      "gloss": "zina edəsən"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və olmaz"
+    },
+    {
+      "surface": "תהיי",
+      "gloss": "olacaqsan"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kişiyə"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "və ... də"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sənə"
+    }
+  ],
+  "timestamp": "2026-09-01T14:35:07.647929970Z",
+  "model": "glm-5.3"
+}

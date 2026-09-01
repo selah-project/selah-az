@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 10:17",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Yahve, Sən alçaqların arzusunu eşitdin; onların ürəyini möhkəmləndirirsən, qulağını ⟨onlara doğru⟩ dikirsən.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "arzusunu"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "alçaqların"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "eşitdin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "möhkəmləndirirsən"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ürəyini"
+    },
+    {
+      "surface": "תקשיב",
+      "gloss": "dikirsən"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "qulağını"
+    }
+  ],
+  "timestamp": "2026-09-01T15:03:15.477589550Z",
+  "model": "glm-5.3"
+}

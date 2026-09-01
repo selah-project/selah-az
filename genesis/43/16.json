@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 43:16",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 43,
+  "translation": "Yosef onları Binyaminlə ⟨את⟩ gördü, evinin üstündə olanına dedi: Kişiləri evə gətir, kəs ⟨את⟩ malı kəs, və hazırla, çünki kişilər günorta mənimlə ⟨את⟩ yeyəcəklər.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "gördü"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "onlarla ⟨את⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Binyamini"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binyamini"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "olanına"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "evinin"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "gətir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kişiləri"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "kişiləri"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "evə"
+    },
+    {
+      "surface": "וטבח",
+      "gloss": "kəs"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "mal kəs"
+    },
+    {
+      "surface": "והכן",
+      "gloss": "və hazırla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "mənimlə ⟨את⟩"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "yeyəcəklər"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "kişilər"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "günorta"
+    }
+  ],
+  "timestamp": "2026-09-01T10:01:27.533555986Z",
+  "model": "glm-5.3"
+}

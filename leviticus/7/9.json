@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 7:9",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Və tandırda bişən hər minhə, həmçinin qazanda və tavada bişən hər şey — onu təqdim edən kohanın ⟨olacaq⟩; o, ona məxsus olacaqdır.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "və hər"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minhə"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "bişən"
+    },
+    {
+      "surface": "בתנור",
+      "gloss": "tandırda"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "həmçinin hər"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "bişən şey"
+    },
+    {
+      "surface": "במרחשת",
+      "gloss": "qazanda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "və üstündə"
+    },
+    {
+      "surface": "מחבת",
+      "gloss": "tavada"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kohanın"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "onu təqdim edən"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "onu (minhəni)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T10:23:09.847066837Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 17:5",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "O, getdi və Yahvenin sözünə görə etdi; ⟨o⟩ getdi və Yardanın üzərindəki Kerit dərəsində yaşadı.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "getdi"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "etdi"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sözünə görə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "⟨o⟩ getdi"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "yaşadı"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "dərəsində"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "Kerit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərindəki"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzü"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardanın"
+    }
+  ],
+  "timestamp": "2026-09-01T12:21:04.387502087Z",
+  "model": "glm-5.3"
+}

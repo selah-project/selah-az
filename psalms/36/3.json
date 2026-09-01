@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 36,
+  "translation": "Çünki öz gözündə özünə ⟨günahını⟩ hamarladı, öz günahını tapıb nifrət etmək üçün ⟨deyil⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "hamarladı"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "özünə"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "öz gözündə"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "tapmaq"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "öz günahını"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "nifrət etmək"
+    }
+  ],
+  "timestamp": "2026-09-01T15:12:02.606585332Z",
+  "model": "glm-5.3"
+}

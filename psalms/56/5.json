@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 56,
+  "translation": "Elohimdə Onun sözünü mədh edirəm, Elohimdə güvəndim, qorxmaram — ət mənə nə edə bilər?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimdə"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "mədh edirəm"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "Onun sözünü"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimdə"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "güvəndim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "qorxaram"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "edə bilər"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ət"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:19:24.743616579Z",
+  "model": "glm-5.3"
+}

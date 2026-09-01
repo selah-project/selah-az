@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 6:2",
+  "book": "joshua",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Və Yahve Yehoşuaya dedi: Bax, sənin əlinə verdim ⟨את⟩ Yerihonu və ⟨את⟩ onun kralını, qüdrətli cəngavərləri.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Və dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a (yön)"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Bax"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "verdim"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "sənin əlinə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerihonu"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yerihonu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "onun kralını"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "onun kralını"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "qüdrətli"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "cəngavərləri"
+    }
+  ],
+  "timestamp": "2026-09-01T11:04:05.958945117Z",
+  "model": "glm-5.3"
+}

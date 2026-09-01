@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 6:13",
+  "book": "job",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Bəlkə məndə kömək yoxdur, və sağlam düşüncə məndən qovulub?",
+  "tokens": [
+    {
+      "surface": "האם",
+      "gloss": "bəlkə"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "köməyim"
+    },
+    {
+      "surface": "בי",
+      "gloss": "məndə"
+    },
+    {
+      "surface": "ותשיה",
+      "gloss": "və sağlam düşüncə"
+    },
+    {
+      "surface": "נדחה",
+      "gloss": "qovulub"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "məndən"
+    }
+  ],
+  "timestamp": "2026-09-01T16:05:24.042327537Z",
+  "model": "glm-5.3"
+}

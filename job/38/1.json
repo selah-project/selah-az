@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 38:1",
+  "book": "job",
+  "lang": "az",
+  "chapter": 38,
+  "translation": "Yahve fırtınadan ⟨את⟩ İyyovu cavablandırdı və dedi:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "cavablandırdı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İyyovu"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "İyyov"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "‑dan"
+    },
+    {
+      "surface": "הסערה",
+      "gloss": "fırtına"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    }
+  ],
+  "timestamp": "2026-09-01T16:19:16.020344522Z",
+  "model": "glm-5.3"
+}

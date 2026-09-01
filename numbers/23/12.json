@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 23:12",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "O, cavab verib dedi: Yahvenin mənim ağzıma qoyduğu şeydən başqa ⟨bir şey⟩ danışmaqmıyam ⟨mən⟩ — onu qoruyub danışmalıyam.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "cavab verib"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "məgər yox"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahvenin ağzıma qoyduğu şeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki, onu"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "qoyur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "mənim ağzıma"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu (qoruyub danışmalı olduğum şeyi)"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "qoruyub saxlayıram"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "danışmaq üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:41:05.205038465Z",
+  "model": "glm-5.3"
+}

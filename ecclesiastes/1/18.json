@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Çünki çox hikmətdə çox qəhər ⟨var⟩, və biliyi artıran kədəri artırar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "çox"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmətdə"
+    },
+    {
+      "surface": "רב",
+      "gloss": "çox"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "qəhər"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "və artıran"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "biliyi"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "artırar"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "kədəri"
+    }
+  ],
+  "timestamp": "2026-09-01T16:28:38.936217905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 110,
+  "translation": "Davuda məxmur. Yahvenin natiqi mənim Adonayıma: \"Sağ tərəfimdə otur, düşmənlərini ayaqların ⟨üçün⟩ səkişi edənə qədər.\"",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davuda"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "məzmur"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "natiqi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "mənim Adonayıma"
+    },
+    {
+      "surface": "שב",
+      "gloss": "otur"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "sağ tərəfimdə"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "edənə"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "düşmənlərini"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "səkişi"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "ayaqların ⟨üçün⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:23.202380705Z",
+  "model": "glm-5.3"
+}

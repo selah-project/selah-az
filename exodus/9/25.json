@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 9:25",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Və dolu bütün Mitsrayim torpağında ⟨את⟩ tarladakı hər şeyi — adamdan mal-qaraya qədər — vurdu; və dolu tarlanın bütün otlarını vurdu ⟨və⟩ ⟨את⟩ tarlanın bütün ağaclarını qırdı.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "və vurdu"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "dolu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "torpağında"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hər şeyi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər şeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "tarladakı"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "adamdan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "mal-qaraya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨və⟩ ⟨את⟩",
+      "marks": "bütün otları"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "otları"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tarlanın"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "vurdu"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "dolu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨və⟩ ⟨את⟩",
+      "marks": "bütün ağaclarını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ağaclarını"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tarlanın"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "qırdı"
+    }
+  ],
+  "timestamp": "2026-09-01T10:07:04.483199291Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 80:18",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 80,
+  "translation": "Əlin sağ əl adamının üstündə olsun, özün üçün möhkəmləndirdiyin insan oğlunun üstündə.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "əlin"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "sağ əl"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlunun"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "אמצת",
+      "gloss": "möhkəmləndirdiyin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "özün üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T15:27:52.365220698Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 3:5",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Bütün bu şəhərlər möhkəm qala divarları ilə — hündür divar, qapılar və sürgülər — ⟨idi⟩; divarsız kənd şəhərlərindən başqa, çox çox ⟨idi⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "şəhərlər"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "möhkəm qala"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "divar"
+    },
+    {
+      "surface": "גבהה",
+      "gloss": "hündür"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "qapılar"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "və sürgülər"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "başqa"
+    },
+    {
+      "surface": "מערי",
+      "gloss": "şəhərlərindən"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "divarsız kənd"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "çox"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çox"
+    }
+  ],
+  "timestamp": "2026-09-01T10:46:07.737097992Z",
+  "model": "glm-5.3"
+}

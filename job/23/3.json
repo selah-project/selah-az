@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 23:3",
+  "book": "job",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Kaş biləydim və onu tapaydım, onun yerinə⟨nə⟩ qədər gələydim!",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "kaş verəydi"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "biləydim"
+    },
+    {
+      "surface": "ואמצאהו",
+      "gloss": "və onu tapaydım"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "gələydim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "תכונתו",
+      "gloss": "onun yeri"
+    }
+  ],
+  "timestamp": "2026-09-01T16:12:02.950881169Z",
+  "model": "glm-5.3"
+}

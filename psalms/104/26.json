@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 104:26",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 104,
+  "translation": "Orada gəmilər gəzir; Livyatanı — bunu ⟨sən⟩ oyun üçün yaratmısan ⟨orada⟩.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Orada"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "gəmilər"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "gəzir"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "Livyatan"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bunu"
+    },
+    {
+      "surface": "יצרת",
+      "gloss": "yaratmısan"
+    },
+    {
+      "surface": "לשחק",
+      "gloss": "oyun üçün"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨orada⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T15:34:54.996237390Z",
+  "model": "glm-5.3"
+}

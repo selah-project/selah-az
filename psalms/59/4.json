@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 59,
+  "translation": "Çünki bax, canım üçün pusqu qurdular; güclülər mənim üstümə toplaşdılar — üsyanım yoxdur, günahım yoxdur, ey Yahve!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "pusqu qurdular"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "canım üçün"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "toplaşdılar"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mənim üstümə"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "güclülər"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "üsyanım"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... yoxdur"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "günahım"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T18:01:44.901637679Z",
+  "model": "glm-5.3"
+}

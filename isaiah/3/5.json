@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 3:5",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və xalq ⟨bir-birini⟩ əzəcək, kişi insana qarşı ⟨belə⟩, və hər kişi öz yaxınına qarşı; cavan qocaya qarşı təkəbbür göstərəcək, və alçaq şərəfliyə qarşı ⟨belə⟩.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "və əzəcək"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kişi"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "insana qarşı"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "və hər kişi"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "öz yaxınına qarşı"
+    },
+    {
+      "surface": "ירהבו",
+      "gloss": "təkəbbür göstərəcək"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "cavan"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "qocaya qarşı"
+    },
+    {
+      "surface": "והנקלה",
+      "gloss": "və alçaq"
+    },
+    {
+      "surface": "בנכבד",
+      "gloss": "şərəfliyə qarşı"
+    }
+  ],
+  "timestamp": "2026-09-01T18:00:08.327374192Z",
+  "model": "glm-5.3"
+}

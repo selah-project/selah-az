@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 3:7",
+  "book": "lamentations",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Divar çəkdi ətrafıma, çıxa bilmirəm; dəmir zəncirimı ağırlaşdırdı.",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "divar çəkdi"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "ətrafıma"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "çıxa bilmirəm ⟨vä⟩"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "çıxmaq"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "ağırlaşdırdı"
+    },
+    {
+      "surface": "נחשתי",
+      "gloss": "dəmir zəncirimı"
+    }
+  ],
+  "timestamp": "2026-09-01T16:25:42.456649816Z",
+  "model": "glm-5.3"
+}

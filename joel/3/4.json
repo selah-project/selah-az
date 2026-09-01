@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 3:4",
+  "book": "joel",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Günəş qaranlığa, ay ⟨is⟩ qana çevriləcək — Yahvenin böyük və qorxulu günü gəlməzdən əvvəl.",
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "günəş"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "çevriləcək"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "qaranlığa"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "ay"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "qana"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "əvvəl"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "gəlməzdən"
+    },
+    {
+      "surface": "יום",
+      "gloss": "günü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "והנורא",
+      "gloss": "və qorxulu"
+    }
+  ],
+  "timestamp": "2026-09-01T14:39:57.870799880Z",
+  "model": "glm-5.3"
+}

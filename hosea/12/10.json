@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 12:10",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Mən ⟨isə⟩ Yahve, sənin Elohimin, Mitsrayim torpağından; yenə səni çadırlarda sakin edəcəyəm, təyin olunmuş bayram günlərindəki kimi.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Mən isə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sənin Elohimin"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "torpağından"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "yenə"
+    },
+    {
+      "surface": "אושיבך",
+      "gloss": "səni sakin edəcəyəm"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "çadırlarda"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "günlərindəki kimi"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "təyin olunmuş bayram"
+    }
+  ],
+  "timestamp": "2026-09-01T14:36:21.149426510Z",
+  "model": "glm-5.3"
+}

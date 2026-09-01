@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 38:10",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 38,
+  "translation": "Onların sütunları iyirmi, sütun altlıqları iyirmi — tuncdan; sütunların qarmaqları və onların halqaları gümüşdən.",
+  "tokens": [
+    {
+      "surface": "עמודיהם",
+      "gloss": "onların sütunları"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iyirmi"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "və onların altlıqları"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iyirmi"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tuncdan"
+    },
+    {
+      "surface": "ונחשת → ווי",
+      "gloss": ""
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "sütunların"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "və onların halqaları"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüşdən"
+    }
+  ],
+  "timestamp": "2026-09-01T10:20:51.415497223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 77:20",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 77,
+  "translation": "Dənizdə ⟨idi⟩ sənin yolun və cığırların çox sularda ⟨idi⟩, sənin izlərin isə bilinmədi.",
+  "tokens": [
+    {
+      "surface": "בים",
+      "gloss": "dənizdə"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "sənin yolun"
+    },
+    {
+      "surface": "ושביליך",
+      "gloss": "və cığırların"
+    },
+    {
+      "surface": "במים",
+      "gloss": "sularda"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "çox"
+    },
+    {
+      "surface": "ועקבותיך",
+      "gloss": "sənin izlərin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "isə... yox"
+    },
+    {
+      "surface": "נדעו",
+      "gloss": "bilinmədi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:25:15.840656754Z",
+  "model": "glm-5.3"
+}

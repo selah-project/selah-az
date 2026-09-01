@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 31:20",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "Və hər paltarı, hər dəri əşyanı, hər keçi tükündən olan işi və hər ağac əşyanı təmizləyin.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "paltarı"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "əşyası"
+    },
+    {
+      "surface": "עור",
+      "gloss": "dəri(dən)"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "işi"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "keçi(tükü)"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "əşyanı"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ağac(dan)"
+    },
+    {
+      "surface": "תתחטאו",
+      "gloss": "təmizləyin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:44:11.506680321Z",
+  "model": "glm-5.3"
+}

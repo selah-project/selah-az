@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Və Esav dedi: «Bax, mən ölməyə gedirəm; ⟨bəs⟩ doğuş haqqı mənə nəyə lazımdır?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mən"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "gedirəm"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ölməyə"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "və nəyə"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "doğuş haqqı"
+    }
+  ],
+  "timestamp": "2026-09-01T09:53:25.819416931Z",
+  "model": "glm-5.3"
+}

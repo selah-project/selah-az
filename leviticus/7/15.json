@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 7:15",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Və selamotlarının təşəkkür qurbanının əti qurbanının günündə yeyiləcək; səhərə qədər ondan heç nə qoymayacaq.",
+  "tokens": [
+    {
+      "surface": "ובשר",
+      "gloss": "və əti"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "qurbanının"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "təşəkkür"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "selamotlarının"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "günündə"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "qurbanının"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yeyiləcək"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "qoymayacaq"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "səhərə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:23:28.217200044Z",
+  "model": "glm-5.3"
+}

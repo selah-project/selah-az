@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-chronicles 34:29",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 34,
+  "translation": "Və kral göndərdi və Yehuda və Yeruşalayimin bütün qocalarını ⟨את⟩ topladı.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "və göndərdi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "və topladı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün qocalarını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "qocalarını"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "və Yeruşalayimin"
+    }
+  ],
+  "timestamp": "2026-09-01T17:24:49.998221859Z",
+  "model": "glm-5.3"
+}

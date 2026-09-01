@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 116,
+  "translation": "Sevdim, çünki Yahve eşidir səsimi, yalvarışlarımı.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "Sevdim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "eşidir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "səsimi"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "səsimi"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "yalvarışlarımı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:17.494232085Z",
+  "model": "glm-5.3"
+}

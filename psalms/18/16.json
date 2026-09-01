@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 18:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Suların dərələri göründü və dünyanın təməlləri aşkarlandı — sənin qınamağından, ey Yahve, sənin burun dəliklərinin nəfəsinin üfürüyüşündən.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "göründü"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "dərələri"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suların"
+    },
+    {
+      "surface": "ויגלו",
+      "gloss": "aşkarlandı"
+    },
+    {
+      "surface": "מוסדות",
+      "gloss": "təməlləri"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dünyanın"
+    },
+    {
+      "surface": "מגערתך",
+      "gloss": "sənin qınamağından"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מנשמת",
+      "gloss": "nəfəsinin üfürüyüşündən"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhunun"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "burun dəliklərinin"
+    }
+  ],
+  "timestamp": "2026-09-01T17:42:05.307487916Z",
+  "model": "glm-5.3"
+}

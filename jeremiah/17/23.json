@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 17:23",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Amma dinləmədilər, qulaqlarını ⟨את⟩ əymədilər, boyunlarını ⟨את⟩ sərtləşdirdilər — dinləməmək üçün və tərbiyə qəbul etməmək üçün.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dinlədilər"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "əymədilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qulaqlarını"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "qulaqlarını"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "sərtləşdirdilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boyunlarını"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "boyunlarını"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "…məmək üçün"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "dinləmək"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "və …məmək üçün"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "qəbul etmək"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tərbiyə"
+    }
+  ],
+  "timestamp": "2026-09-01T13:33:14.314526639Z",
+  "model": "glm-5.3"
+}

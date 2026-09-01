@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 75,
+  "translation": "Çünki ⟨nə⟩ şərqdən, ⟨nə⟩ qərbdən, ⟨nə⟩ də çöldən ⟨gəlir⟩ yüksəliş.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "şərqdən"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "və qərbdən"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "çöldən"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "yüksəliş"
+    }
+  ],
+  "timestamp": "2026-09-01T15:25:33.330893488Z",
+  "model": "glm-5.3"
+}

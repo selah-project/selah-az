@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 10:42",
+  "book": "joshua",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Və ⟨את⟩ bütün bu padşahları və ⟨את⟩ torpaqlarını Yehoşua bir dəfəyə tutdu, çünki Yahve, İsrailin Elohimi, İsrail üçün döyüşürdü.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bütün bu padşahları"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "padşahları"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "torpaqlarını"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "torpaqlarını"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "tutdu"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "dəfəyə"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "bir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailin"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "döyüşürdü"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "İsrail üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T11:06:34.239108062Z",
+  "model": "glm-5.3"
+}

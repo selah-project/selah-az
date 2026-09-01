@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 49:13",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 49,
+  "translation": "Və adam qiymətli ⟨olandа⟩ ⟨qalmaz⟩; heyvanlar kimi bənzədilib, məhv olublar.",
+  "tokens": [
+    {
+      "surface": "ואדם",
+      "gloss": "və adam"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "qiymətli ⟨olandа⟩"
+    },
+    {
+      "surface": "בל",
+      "gloss": "⟨qalmaz⟩"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "gecələməz\/qalmaz"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "bənzədilib"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "heyvanlar kimi"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "məhv olublar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:16:35.322051557Z",
+  "model": "glm-5.3"
+}

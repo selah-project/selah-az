@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 1:15",
+  "book": "song-of-songs",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Gör, nə qədər gözəlsən, sevgilim; gör, nə qədər gözəlsən; gözlərin ⟨göyərçinlərdir⟩.",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "gör"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "nə qədər gözəlsən"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "sevgilim"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "gör"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "nə qədər gözəlsən"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "gözlərin"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "göyərçinlərdir"
+    }
+  ],
+  "timestamp": "2026-09-01T16:20:22.441969083Z",
+  "model": "glm-5.3"
+}

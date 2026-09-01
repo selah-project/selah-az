@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 109,
+  "translation": "Ağzımla Yahveni çox şükür edəcəyəm və çoxlarının içində Onu tərifləyəcəyəm.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "şükür edəcəyəm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çox"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ağzımla"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "və içində"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "çoxlarının"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "Onu tərifləyəcəyəm"
+    }
+  ],
+  "timestamp": "2026-09-01T15:37:31.874369698Z",
+  "model": "glm-5.3"
+}

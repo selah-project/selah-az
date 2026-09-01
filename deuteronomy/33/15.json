@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 33:15",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "Əzəli dağların zirvəsindən, və əbədi təpələrin ən yaxşısından.",
+  "tokens": [
+    {
+      "surface": "ומראש",
+      "gloss": "zirvəsindən"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "dağların"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "əzəli"
+    },
+    {
+      "surface": "וממגד",
+      "gloss": "ən yaxşısından"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "təpələrin"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "əbədi"
+    }
+  ],
+  "timestamp": "2026-09-01T10:58:14.363106109Z",
+  "model": "glm-5.3"
+}

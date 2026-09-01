@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Ananı ⟨mütləq⟩ burax, balaları ⟨isə⟩ özün üçün götür; ⟨məqsəd⟩ sənə yaxşı olsun və günlərini uzadasan.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "burax"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "buraxacaqsan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ananı"
+    },
+    {
+      "surface": "האם",
+      "gloss": "ananı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "balaları"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "balaları"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "götürəcəksən"
+    },
+    {
+      "surface": "לך",
+      "gloss": "özün üçün"
+    },
+    {
+      "surface": "למען",
+      "gloss": "⟨məqsəd⟩"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "yaxşı olsun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "və uzadacaqsan"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günlərini"
+    }
+  ],
+  "timestamp": "2026-09-01T10:53:16.147997075Z",
+  "model": "glm-5.3"
+}

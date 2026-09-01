@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 4:19",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və ⟨את⟩ bütün piyini ondan ayıracaq və məhbəddə yandıracaq.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bütün piyi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "piyini"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ayıracaq"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "yandıracaq"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "məhbəddə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:23:06.150619672Z",
+  "model": "glm-5.3"
+}

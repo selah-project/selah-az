@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 55:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 55,
+  "translation": "Qulaq as, Elohim, duamı, yalvarışımdan özünü gizlətmə.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "qulaq as"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "duamı"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və gizlətmə"
+    },
+    {
+      "surface": "תתעלם",
+      "gloss": "özünü"
+    },
+    {
+      "surface": "מתחנתי",
+      "gloss": "yalvarışımdan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:19:00.518302102Z",
+  "model": "glm-5.3"
+}

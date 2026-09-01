@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 9:16",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Beləcə daima ⟨olardı⟩: bulud onu örtər, gecə isə od görüntüsü.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "beləcə"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨olardı⟩"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daima"
+    },
+    {
+      "surface": "העננן",
+      "gloss": "bulud"
+    },
+    {
+      "surface": "יכסנו",
+      "gloss": "onu örtər"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "və görüntüsü"
+    },
+    {
+      "surface": "אש",
+      "gloss": "od"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "gecə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:36:22.312337117Z",
+  "model": "glm-5.3"
+}

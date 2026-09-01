@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 10:5",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Bunlardan millətlərin adaları öz torpaqlarında ayrıldı, hər biri öz dilinə görə, öz tayfalarına görə, öz millətlərində.",
+  "tokens": [
+    {
+      "surface": "מאלה",
+      "gloss": "bunlardan"
+    },
+    {
+      "surface": "נפרדו",
+      "gloss": "ayrıldı"
+    },
+    {
+      "surface": "איי",
+      "gloss": "adaları"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "millətlərin"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "öz torpaqlarında"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər biri"
+    },
+    {
+      "surface": "ללשנו",
+      "gloss": "öz dilinə görə"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "öz tayfalarına görə"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "öz millətlərində"
+    }
+  ],
+  "timestamp": "2026-09-01T09:47:52.685540549Z",
+  "model": "glm-5.3"
+}

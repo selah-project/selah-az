@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 107:20",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 107,
+  "translation": "Öz sözünü göndərdi və onları sağaltdı, və öz məhvlərindən qurtardı.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "göndərdi"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "öz sözünü"
+    },
+    {
+      "surface": "וירפאם",
+      "gloss": "və onları sağaltdı"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "və qurtardı"
+    },
+    {
+      "surface": "משחיתותם",
+      "gloss": "öz məhvlərindən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:52.335425699Z",
+  "model": "glm-5.3"
+}

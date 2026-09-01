@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 1:3",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "öküz sahibini tanıyır, və eşşək öz ağasının yemini ⟨bilir⟩; İsraeil tanımır, xalqım ⟨anlamır⟩.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "tanıyır"
+    },
+    {
+      "surface": "שור",
+      "gloss": "öküz"
+    },
+    {
+      "surface": "קנהו",
+      "gloss": "sahibini"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "və eşşək"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "yemini"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "öz ağasının"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsraeil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨yox⟩"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tanımır"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqım"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨yox⟩"
+    },
+    {
+      "surface": "התבונן",
+      "gloss": "⟨anlamır⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T12:46:38.410414599Z",
+  "model": "glm-5.3"
+}

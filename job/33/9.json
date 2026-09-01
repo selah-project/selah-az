@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 33:9",
+  "book": "job",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "«Təmizəm mən, üsyan olmadan; günlüyəm mən, və məndə günah ⟨yoxdur⟩.»",
+  "tokens": [
+    {
+      "surface": "זך",
+      "gloss": "təmiz"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "olmadan"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "üsyan"
+    },
+    {
+      "surface": "חף",
+      "gloss": "günlük"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mən"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "עון",
+      "gloss": "günah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "məndə"
+    }
+  ],
+  "timestamp": "2026-09-01T16:14:45.273566808Z",
+  "model": "glm-5.3"
+}

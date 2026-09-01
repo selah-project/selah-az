@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 106:43",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 106,
+  "translation": "Bir çox dəfə onları qurtardı, amma onlar öz məsləhətlərində üsyan etdilər və öz günahları üzündən alçaldılar.",
+  "tokens": [
+    {
+      "surface": "פעמים",
+      "gloss": "dəfə"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "bir çox"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "onları qurtardı"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "amma onlar"
+    },
+    {
+      "surface": "ימרו",
+      "gloss": "üsyan etdilər"
+    },
+    {
+      "surface": "בעצתם",
+      "gloss": "öz məsləhətlərində"
+    },
+    {
+      "surface": "וימכו",
+      "gloss": "alçaldılar"
+    },
+    {
+      "surface": "בעונם",
+      "gloss": "öz günahları üzündən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:35:57.520654431Z",
+  "model": "glm-5.3"
+}

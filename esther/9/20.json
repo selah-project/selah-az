@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 9:20",
+  "book": "esther",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Mordehay bu sözləri ⟨את⟩ yazdı və Axaşveroş padşahının bütün əyalətlərində olan bütün yəhudilərə, yaxın və uzaq olanlara məktublar göndərdi.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "və yazdı"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sözləri"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sözləri"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "və göndərdi"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "məktublar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə, doğru"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "yəhudilər"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki, olanlar"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מדינות",
+      "gloss": "əyalətlərində"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşahının"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Axaşveroş"
+    },
+    {
+      "surface": "הקרובים",
+      "gloss": "yaxın olanlar"
+    },
+    {
+      "surface": "והרחוקים",
+      "gloss": "və uzaq olanlar"
+    }
+  ],
+  "timestamp": "2026-09-01T16:37:59.924477073Z",
+  "model": "glm-5.3"
+}

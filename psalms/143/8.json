@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 143:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 143,
+  "translation": "Səhər ⟨vaxtı⟩ hesedini mənə eşitdir, çünki Sənə güvənmişəm; gedəcəyim yolu mənə bildir, çünki canımı Sənə qaldırmışam.",
+  "tokens": [
+    {
+      "surface": "השמיעני",
+      "gloss": "mənə eşitdir"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "Səhər"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Sənə"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "güvənmişəm"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "mənə bildir"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yolu"
+    },
+    {
+      "surface": "זו",
+      "gloss": "gedəcəyim"
+    },
+    {
+      "surface": "אלך",
+      "gloss": ""
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Sənə"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "qaldırmışam"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:45:40.459256177Z",
+  "model": "glm-5.3"
+}

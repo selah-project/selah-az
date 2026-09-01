@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 33:1",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "Vay o talan edənə, sən isə talan olunmamısan; xəyanət edənə, sənlə xəyanət edilməyib! Nə vaxt talanı bitirirsən, talan olunacaqsan; nə vaxt xəyanəti qurtarırsan, sənlə xəyanət olunacaq.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "vay"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "talan edən"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "sən isə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "שדוד",
+      "gloss": "talan olunmamısan"
+    },
+    {
+      "surface": "ובוגד",
+      "gloss": "xəyanət edən"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "xəyanət edilməyib"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sənlə"
+    },
+    {
+      "surface": "כהתמך",
+      "gloss": "nə vaxt bitirirsən"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "talanı"
+    },
+    {
+      "surface": "תושד",
+      "gloss": "talan olunacaqsan"
+    },
+    {
+      "surface": "כנלתך",
+      "gloss": "nə vaxt qurtarırsan"
+    },
+    {
+      "surface": "לבגד",
+      "gloss": "xəyanəti"
+    },
+    {
+      "surface": "יבגדו",
+      "gloss": "xəyanət olunacaq"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sənlə"
+    }
+  ],
+  "timestamp": "2026-09-01T13:01:48.468512500Z",
+  "model": "glm-5.3"
+}

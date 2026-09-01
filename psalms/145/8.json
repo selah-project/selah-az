@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 145,
+  "translation": "Yahve lütfkardır və rəhmlidir, qəzəbə ⟨uzunburunlu⟩ — yavaş tutandır, və hesedi ⟨böyükdür⟩.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "lütfkardır"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "və rəhmlidir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "⟨uzunburunlu⟩ — yavaş"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "qəzəbə"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "və böyük"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:33.858377827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və Moşe cəmiyyətə dedi: Budur o söz ki, Yahve onu etməyi əmr etdi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "cəmiyyət"
+    },
+    {
+      "surface": "זה",
+      "gloss": "budur"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "söz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "əmr etdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "etmək üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:25:05.544659026Z",
+  "model": "glm-5.3"
+}

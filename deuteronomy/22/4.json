@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 22:4",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Qardaşının eşşəyini və ya öküzünü yolda düşmüş görməyəcəksən və onlardan özünü gizlətməyəcəksən; mütləq onunla birlikdə qaldıracaqsan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "görəcəksən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eşşəyini"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "eşşək"
+    },
+    {
+      "surface": "אחיק",
+      "gloss": "qardaşının"
+    },
+    {
+      "surface": "או",
+      "gloss": "və ya"
+    },
+    {
+      "surface": "שורו",
+      "gloss": "öküzünü"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "düşmüş"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolda"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "özünü gizlətməyəcəksən"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "onlardan"
+    },
+    {
+      "surface": "הקם",
+      "gloss": "mütləq qaldır"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "qaldıracaqsan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "onunla birlikdə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:53:29.248924792Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 42,
+  "translation": "Canım Elohimə, El Haıya susadı — nə vaxt gəlib Elohinin üzünü görəcəyəm?",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "susadı"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimə"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Haı (diri)"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "nə vaxt"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "gəlib"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "görəcəyəm"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzünü"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:14:29.173321305Z",
+  "model": "glm-5.3"
+}

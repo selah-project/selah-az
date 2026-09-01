@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Sözünün başı həqiqətdir, və əbədi ⟨dayanır⟩ sənin ədalətinin bütün hökmləri.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "başı"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "sözünün"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "həqiqətdir"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "və əbədi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hökmləri"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "sənin ədalətinin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:41:37.766176660Z",
+  "model": "glm-5.3"
+}

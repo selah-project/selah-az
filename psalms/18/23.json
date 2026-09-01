@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 18:23",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Çünki bütün hökmləri qarşımda ⟨idi⟩ və qanunlarını özümdən uzaqlaşdırmadım.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "hökmləri"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "qarşımda"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "və qanunlarını"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "uzaqlaşdırdım"
+    },
+    {
+      "surface": "מני",
+      "gloss": "özümdən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:05:56.494401531Z",
+  "model": "glm-5.3"
+}

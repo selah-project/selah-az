@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 3:4",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və o vaxtda ⟨את⟩ bütün şəhərlərini tutduq; onlardan ⟨את⟩ almadığımız şəhər qalmadı; altmış şəhər, Arqob bölgəsinin bütövlüyü, Oqun səltəqəti, Başanda.",
+  "tokens": [
+    {
+      "surface": "ונלכד",
+      "gloss": "və tutduq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün şəhərlərini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עריו",
+      "gloss": "şəhərlərini"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "o vaxtda"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "qalmadı"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "şəhər"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "almasaq"
+    },
+    {
+      "surface": "לקחנו",
+      "gloss": "almadığımız"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ onlardan"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "altmış"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şəhər"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütövlüyü"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "bölgəsi"
+    },
+    {
+      "surface": "ארגב",
+      "gloss": "Arqob"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "səltəqəti"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Oqun"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "Başanda"
+    }
+  ],
+  "timestamp": "2026-09-01T10:47:02.453995689Z",
+  "model": "glm-5.3"
+}

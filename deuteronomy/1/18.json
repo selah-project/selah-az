@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və mən o vaxtda ⟨את⟩ sizə ⟨את⟩ bütün o işləri buyurdum ki, edəcəksiniz.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "və buyurdum"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizə"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "o vaxtda"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün o işləri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "işləri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "edəcəksiniz"
+    }
+  ],
+  "timestamp": "2026-09-01T10:46:58.011690643Z",
+  "model": "glm-5.3"
+}

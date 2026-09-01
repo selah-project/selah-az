@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 26:42",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Və mən Yaakovla ⟨את⟩ əhdimi, hətta İsağılla ⟨את⟩ əhdimi, hətta Avrahımla ⟨את⟩ əhdimi xatırlayacağam, və torpağı xatırlayacağam.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "və xatırlayacağam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əhdimi"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "əhdimi"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "Yaakovla"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "hətta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əhdimi"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "əhdimi"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "İsağılla"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "hətta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əhdimi"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "əhdimi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahımla"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "xatırlayacağam"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "və torpağı"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "xatırlayacağam"
+    }
+  ],
+  "timestamp": "2026-09-01T10:31:45.726797187Z",
+  "model": "glm-5.3"
+}

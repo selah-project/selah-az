@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 69:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 69,
+  "translation": "Saçlarımdan çox oldular məni qeyri-üzvi soyanlarım; gücləndilər məni yox etmək istəyənlərim — yalançı düşmənlərim; o ki, oğramadım — ⟨onda⟩ geri qaytarıram.",
+  "tokens": [
+    {
+      "surface": "רבו",
+      "gloss": "çox oldular"
+    },
+    {
+      "surface": "משערות",
+      "gloss": "saçlarımdan"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "başımın"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "məni soyanlarım"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "qeyri-üzvi"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "gücləndilər"
+    },
+    {
+      "surface": "מצמיתי",
+      "gloss": "məni yox etmək istəyənlərim"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "düşmənlərim"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yalançı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "oğramadım"
+    },
+    {
+      "surface": "גזלתי",
+      "gloss": "(oğramışdım)"
+    },
+    {
+      "surface": "אז",
+      "gloss": "⟨onda⟩"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "geri qaytarıram"
+    }
+  ],
+  "timestamp": "2026-09-01T15:22:20.977440081Z",
+  "model": "glm-5.3"
+}

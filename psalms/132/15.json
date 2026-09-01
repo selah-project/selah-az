@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 132,
+  "translation": "Onun rızqını bərəkətləndirə-bərəkətləndirəcəyəm, onun yoxsullarını çörəklə doyuracağam.",
+  "tokens": [
+    {
+      "surface": "צידה",
+      "gloss": "rızqını"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "bərəkətləndirə-"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "bərəkətləndirəcəyəm"
+    },
+    {
+      "surface": "אביוניה",
+      "gloss": "yoxsullarını"
+    },
+    {
+      "surface": "אשביע",
+      "gloss": "doyuracağam"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "çörəklə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:16.334919831Z",
+  "model": "glm-5.3"
+}

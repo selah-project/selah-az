@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 23:21",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Və bütün yerin xalqı sevindi, şəhər ⟨sakit⟩ oldu, ⟨את⟩ Atalyahu isə qılıncla öldürdülər.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "və sevindi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalqı"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "və şəhər"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "sakit oldu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Atalyahu"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalyahu"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "öldürdülər"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "qılıncla"
+    }
+  ],
+  "timestamp": "2026-09-01T17:18:10.436807196Z",
+  "model": "glm-5.3"
+}

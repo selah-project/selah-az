@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Kahin onları Yahvenin hüzuruna gətirəcək və ⟨את⟩ onun günah qurbanını və ⟨את⟩ onun yanıq qurbanını edəcək.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "və gətirəcək"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hüzuruna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "və edəcək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onun günah qurbanını"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "onun günah qurbanını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "onun yanıq qurbanını"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "onun yanıq qurbanını"
+    }
+  ],
+  "timestamp": "2026-09-01T10:34:34.020528994Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 42:10",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 42,
+  "translation": "Yahveyə yeni mahnı oxuyun, Onun mədhini ⟨⟨yerin⟩⟩ ucundan — dənizə enənlər və onun dolusu, adalar və onların sakinləri ⟨mədh oxusun⟩.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "oxuyun"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "mahnı"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "yeni"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "Onun mədhini"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ucundan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "enənlər"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dənizə"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "və onun dolusu"
+    },
+    {
+      "surface": "איים",
+      "gloss": "adalar"
+    },
+    {
+      "surface": "וישביהם",
+      "gloss": "və onların sakinləri"
+    }
+  ],
+  "timestamp": "2026-09-01T13:06:55.103010531Z",
+  "model": "glm-5.3"
+}

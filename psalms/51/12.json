@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 51,
+  "translation": "Təmiz ürək məndə yarat, ya Elohim, və düzgün ruhu içimdə yenilə.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "ürək"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "təmiz"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "yarat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənim üçün"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "və ruh"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "düzgün (sabit)"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "yenilə"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "içimdə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:17:43.589028327Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 8:20",
+  "book": "judges",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və birinci oğlu Yeterə dedi: «Qalx, ⟨את⟩ onları öldür.» Amma oğlan qılıncını çıxarmadı, çünki qorxdu, çünki o hələ oğlan idi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "ליתר",
+      "gloss": "Yeterə"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "birinci oğlu"
+    },
+    {
+      "surface": "קום",
+      "gloss": "qalx"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "öldür"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ onları"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma ... -mə"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "çıxarmadı"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "oğlan"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "qılıncını"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "qorxdu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "hələ"
+    },
+    {
+      "surface": "נער",
+      "gloss": "oğlan"
+    }
+  ],
+  "timestamp": "2026-09-01T11:21:05.497352888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 8:16",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "⟨O⟩ ki, səni səhrada atalarının tanımadığı man ilə yedizdirən — səni alçaltmaq, səni sınamaq üçün, axırında sənə xeyir etmək ⟨üçün⟩.",
+  "tokens": [
+    {
+      "surface": "המאכלך",
+      "gloss": "səni yedizdirən"
+    },
+    {
+      "surface": "מן",
+      "gloss": "man"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "səhrada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "tanımadığı"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "atalarının"
+    },
+    {
+      "surface": "למען",
+      "gloss": "üçün"
+    },
+    {
+      "surface": "ענתך",
+      "gloss": "səni alçaltmaq"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "və … üçün"
+    },
+    {
+      "surface": "נסתך",
+      "gloss": "səni sınamaq"
+    },
+    {
+      "surface": "להיטבך",
+      "gloss": "sənə xeyir etmək"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "axırında"
+    }
+  ],
+  "timestamp": "2026-09-01T10:49:01.361020116Z",
+  "model": "glm-5.3"
+}

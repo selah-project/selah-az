@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 148,
+  "translation": "Həmd deyin, Yah! Həmd deyin Yahve-yə göylərdən, Həmd deyin ⟨Ona⟩ ucalıqlarda!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Həmd deyin"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Həmd deyin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dən"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göylər"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "Həmd deyin ⟨Ona⟩"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "ucalıqlarda"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:40.468388254Z",
+  "model": "glm-5.3"
+}

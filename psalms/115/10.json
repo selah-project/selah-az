@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 115:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 115,
+  "translation": "Ey Aharon evi, Yahveyə etibar edin; onların köməyi və onların qalxanı Odur.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "etibar edin"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "onların köməyi"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "və onların qalxanı"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Odur"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:40.904532960Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 21:5",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Çalışqan ⟨adamın⟩ düşüncələri yalnız artıma ⟨aparır⟩, hər tələsənin ⟨yolu⟩ isə yalnız çatışmazlığa ⟨aparır⟩.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "düşüncələri"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "çalışqan ⟨adamın⟩"
+    },
+    {
+      "surface": "אך",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "למותר",
+      "gloss": "artıma"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "אץ",
+      "gloss": "tələsənin"
+    },
+    {
+      "surface": "אך",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "çatışmazlığa"
+    }
+  ],
+  "timestamp": "2026-09-01T15:55:48.315164217Z",
+  "model": "glm-5.3"
+}

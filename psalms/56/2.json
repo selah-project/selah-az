@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 56,
+  "translation": "Mənə lütf et, Elohim, çünki ölümlü ⟨insan⟩ məni udır; bütün gün döyüşərək məni sıxışdırır.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Mənə lütf et"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "məni udır"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ölümlü ⟨insan⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "döyüşərək"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "məni sıxışdırır"
+    }
+  ],
+  "timestamp": "2026-09-01T15:18:49.913320593Z",
+  "model": "glm-5.3"
+}

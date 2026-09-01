@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Nə fayda var qanımda, mən çuxura enəndə? Torpaq Səni tərifləyəcəkmi? ⟨O⟩ Sənin doğruluğunu bildirəcəkmi?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Nə"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "fayda"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "qanımda"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "mən enəndə"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨çuxura⟩"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "çuxur"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "Səni tərifləyəcəkmi"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "torpaq"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "bildirəcəkmi"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "Sənin doğruluğunu"
+    }
+  ],
+  "timestamp": "2026-09-01T15:08:24.152660320Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 34,
+  "translation": "Mənim nəfəşim Yahvedə öyünəcək; alçaqgönüllülər eşidsin və sevinsinlər.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahvedə"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "öyünəcək"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mənim nəfəşim"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "eşidsin"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "alçaqgönüllülər"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "və sevinsinlər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:11:42.406294060Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 17:21",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Kəsil doğan ⟨üçün⟩ kədər ⟨dir⟩ özünə, və navalın atası sevinməz.",
+  "tokens": [
+    {
+      "surface": "ילד",
+      "gloss": "doğan"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "kəsil"
+    },
+    {
+      "surface": "לתוגה",
+      "gloss": "kədər⟨ üçün⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "özünə"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və … yox"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "sevinməz"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atası"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "navalın"
+    }
+  ],
+  "timestamp": "2026-09-01T15:54:20.974355703Z",
+  "model": "glm-5.3"
+}

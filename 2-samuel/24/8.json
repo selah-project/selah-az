@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 24:8",
+  "book": "2-samuel",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Bütün ölkəni gəzib dolaşdıqdan sonra doqquz ay iyirmi günlük ⟨müddətin⟩ sonunda Yeruşalayimə qayıtdılar.",
+  "tokens": [
+    {
+      "surface": "וישטו",
+      "gloss": "gəzib dolaşdıqdan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ölkəni"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "qayıtdılar ⟨gəldilər⟩"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "sonunda"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "doqquz"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ay"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "iyirmi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "günlük"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayimə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:07:41.219678153Z",
+  "model": "glm-5.3"
+}

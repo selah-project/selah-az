@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 8:7",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "və Naaman, və Axiya, və Gera — o, onları sürgün etdi; və ⟨את⟩ Uzzanı və ⟨את⟩ Axixudu doğurdu.",
+  "tokens": [
+    {
+      "surface": "ונעמן",
+      "gloss": "və Naaman"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "və Axiya"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "və Gera"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "הגלם",
+      "gloss": "onları sürgün etdi"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "və doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uzzanı"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uzzanı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "Axixudu"
+    },
+    {
+      "surface": "אחיחד",
+      "gloss": "Axixudu"
+    }
+  ],
+  "timestamp": "2026-09-01T17:02:39.845643246Z",
+  "model": "glm-5.3"
+}

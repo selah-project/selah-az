@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Kaş ki yollarım qərar tutsa sənin qanunlarını saxlamağa!",
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "Kaş ki"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "qərar tutsa"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "yollarım"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "saxlamağa"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "qanunlarını"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:20.943844611Z",
+  "model": "glm-5.3"
+}

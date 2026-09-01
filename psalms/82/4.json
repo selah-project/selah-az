@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 82,
+  "translation": "Zəifi və yoxsulu qurtarın, şər insanların əlindən xilas edin.",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "qurtarın"
+    },
+    {
+      "surface": "דל",
+      "gloss": "zəifi"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "və yoxsulu"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "əlindən"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "şər insanların"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "xilas edin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:27:15.736311680Z",
+  "model": "glm-5.3"
+}

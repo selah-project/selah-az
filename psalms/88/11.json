@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 88:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 88,
+  "translation": "Ölülərə möcüzəmi göstərərsən? Yoxsa Rəfaim qalxıb sənə şükür edərlərmi? Selah.",
+  "tokens": [
+    {
+      "surface": "הלמתים",
+      "gloss": "ölülərə"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "göstərərsən"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "möcüzə"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoxsa"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Rəfaim"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "qalxıb"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "sənə şükür edərlər"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:30.542120865Z",
+  "model": "glm-5.3"
+}

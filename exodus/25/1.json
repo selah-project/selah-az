@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 25:1",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Yahve Moşe ilə danışdı və dedi:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "danışdı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dedi"
+    }
+  ],
+  "timestamp": "2026-09-01T10:16:41.159144378Z",
+  "model": "glm-5.3"
+}

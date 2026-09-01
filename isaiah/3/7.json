@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 3:7",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "O gün ⟨o⟩ deyəcək: «Mən sarğıyan olmayacağam, çünki evimdə nə çörək var, nə paltar; məni xalqın başçısı etməyin.»",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "deyəcək"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "o gün"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "לא",
+      "gloss": "olmayacağam"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "olmayacağam"
+    },
+    {
+      "surface": "חבש",
+      "gloss": "sarğıyan"
+    },
+    {
+      "surface": "ובביתי",
+      "gloss": "evimdə"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "çörək"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nə paltar"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "paltar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "etməyin"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "məni... etməyin"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "başçısı"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalqın"
+    }
+  ],
+  "timestamp": "2026-09-01T18:00:01.261859229Z",
+  "model": "glm-5.3"
+}

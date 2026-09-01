@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 36,
+  "translation": "Müşahidəçiyə. Yahvenin qulu, Davidə.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Müşahidəçiyə"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "qulu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:12:02.606237075Z",
+  "model": "glm-5.3"
+}

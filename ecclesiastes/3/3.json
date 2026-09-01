@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Öldürməyə vaxt, sağaltmağa vaxt; dağıtmağa vaxt, tikməyə vaxt.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "vaxt"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "öldürməyə"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "və vaxt"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "sağaltmağa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vaxt"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "dağıtmağa"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "və vaxt"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "tikməyə"
+    }
+  ],
+  "timestamp": "2026-09-01T16:29:14.704277411Z",
+  "model": "glm-5.3"
+}

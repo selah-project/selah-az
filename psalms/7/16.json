@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Çuxur qazdı və onu dərinləşdirdi, və öz düzəltdiyi çuxura düşdü.",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "Çuxur"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "qazdı"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "onu dərinləşdirdi"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "düşdü"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "çuxura"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "öz düzəltdiyi"
+    }
+  ],
+  "timestamp": "2026-09-01T17:41:56.076027192Z",
+  "model": "glm-5.3"
+}

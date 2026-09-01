@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 82,
+  "translation": "Zəifi və yetimi mühakimə edin, düşkünü və kasıbı ədalətli çıxarın.",
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "mühakimə edin"
+    },
+    {
+      "surface": "דל",
+      "gloss": "zəifi"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "və yetimi"
+    },
+    {
+      "surface": "עני",
+      "gloss": "düşkünü"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "və kasıbı"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "ədalətli çıxarın"
+    }
+  ],
+  "timestamp": "2026-09-01T15:27:15.736210891Z",
+  "model": "glm-5.3"
+}

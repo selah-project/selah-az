@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Deyin: ədalətliyə ⟨yaxşı olacaq⟩, çünki əməllərinin meyvəsini yeyəcəklər.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "deyin"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ədalətli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨yaxşı olacaq⟩"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşı"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "meyvəsini"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "əməllərinin"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "yeyəcəklər"
+    }
+  ],
+  "timestamp": "2026-09-01T12:46:15.640512837Z",
+  "model": "glm-5.3"
+}

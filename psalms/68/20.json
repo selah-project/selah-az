@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 68,
+  "translation": "Mübarəkdir Adonay, gün beəlgün bizim üçün yük daşıyır, El — xilasımızdır. Selah.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Mübarəkdir"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "יום",
+      "gloss": "beəlgün"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "yük daşıyır"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizim üçün"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "xilasımızdır"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T15:23:21.973482351Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 68,
+  "translation": "Tüstü qovulduğu kimi ⟨onları⟩ qov; odun üzü önündə mum əriyəcəyi kimi, şər əməllilər Elohimin üzü önündə məhv olsunlar.",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "qovulduğu kimi"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "tüstü"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "⟨onları⟩ qov"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "əriyəcəyi kimi"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "mum"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "üzü önündə"
+    },
+    {
+      "surface": "אש",
+      "gloss": "od"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "məhv olsunlar"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "şər əməllilər"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "üzü önündə"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:22:06.835634046Z",
+  "model": "glm-5.3"
+}

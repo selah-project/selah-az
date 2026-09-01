@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 78:24",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 78,
+  "translation": "Və onların üzərinə yemək üçün man yağdırdı, səma dənini onlara verdi.",
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "və yağdırdı"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "onların üzərinə"
+    },
+    {
+      "surface": "מן",
+      "gloss": "man"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "yemək üçün"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "və dənini"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "səma"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "למו",
+      "gloss": "onlara"
+    }
+  ],
+  "timestamp": "2026-09-01T15:25:44.886241149Z",
+  "model": "glm-5.3"
+}

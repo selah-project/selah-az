@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 1:15",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Mitsrayim kralı ivri mamaqlara dedi — birincinin adı Şifra, ikincinin adı Pua idi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "mamaqlara"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "ivri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adı"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "birincinin"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "Şifra"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "və adı"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ikincinin"
+    },
+    {
+      "surface": "פועה",
+      "gloss": "Pua"
+    }
+  ],
+  "timestamp": "2026-09-01T10:03:54.434048881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 10:3",
+  "book": "daniel",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Ləzzətli çörək yemədim, ət və şərab ağzıma gəlmədi, yağla da sürtənmədim, üç həftə gün dolana qədər.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "çörək"
+    },
+    {
+      "surface": "חמדות",
+      "gloss": "ləzzətli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "yemədim"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "və ət"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "şərab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gəlmədi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "çə"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağızıma"
+    },
+    {
+      "surface": "וסוך",
+      "gloss": "və yağla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "סכתי",
+      "gloss": "sürtənmədim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "dolana"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "üç"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "həftə"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    }
+  ],
+  "timestamp": "2026-09-01T16:45:35.472394222Z",
+  "model": "glm-5.3"
+}

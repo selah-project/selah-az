@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 29:25",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "İnsan qorxusu tələ verir, Yahve-yə etibar edən isə ⟨⟨yüksəldiləcək⟩⟩.",
+  "tokens": [
+    {
+      "surface": "חרדת",
+      "gloss": "qorxusu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "verir"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "tələ"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "və etibar edən"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahve-yə"
+    },
+    {
+      "surface": "ישגב",
+      "gloss": "yüksəldiləcək"
+    }
+  ],
+  "timestamp": "2026-09-01T16:00:32.015728533Z",
+  "model": "glm-5.3"
+}

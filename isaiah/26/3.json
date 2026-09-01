@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 26:3",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Sənə söykənmiş niyyəti sülh ilə qoruyursan — sülh! — çünki sənə güvənir.",
+  "tokens": [
+    {
+      "surface": "יצר",
+      "gloss": "niyyəti"
+    },
+    {
+      "surface": "סמוך",
+      "gloss": "söykənmiş"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "qoruyursan"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sülh"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sülh!"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "güvənir"
+    }
+  ],
+  "timestamp": "2026-09-01T12:57:56.690564748Z",
+  "model": "glm-5.3"
+}

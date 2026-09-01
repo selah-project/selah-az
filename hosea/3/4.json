@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 3:4",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Çünki İsrail oğulları çox günlər ⟨oturacaqlar⟩: padşah yoxdur, və əmir yoxdur, və qurban yoxdur, və sütun yoxdur, və efod yoxdur, və tərapimlər ⟨yoxdur⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günlər"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "çox"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "oturacaqlar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "və yoxdur"
+    },
+    {
+      "surface": "שר",
+      "gloss": "əmir"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "və yoxdur"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "qurban"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "və yoxdur"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "sütun"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "və yoxdur"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "və tərapimlər"
+    }
+  ],
+  "timestamp": "2026-09-01T14:35:07.648081398Z",
+  "model": "glm-5.3"
+}

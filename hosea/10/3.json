@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 10:3",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Çünki indi deyəcəklər: bizim üçün kral yoxdur, çünki ⟨את⟩ Yahve'dən qorxmadıq; kral da bizim üçün nə edə bilər?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "deyəcəklər"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizim üçün"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…ma"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "qorxmadıq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "kral da"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "edə bilər"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizim üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T14:38:11.687137472Z",
+  "model": "glm-5.3"
+}

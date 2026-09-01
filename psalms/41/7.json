@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 41:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 41,
+  "translation": "Və əgər ⟨kimsə⟩ məni görməyə gəlsə, yalan danışar; ürəyi özünə pislik toplayar; bayıra çıxanda onu danışar.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Və əgər"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gəlsə"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "görməyə"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "yalan"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "danışar"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ürəyi"
+    },
+    {
+      "surface": "יקבץ",
+      "gloss": "toplayar"
+    },
+    {
+      "surface": "און",
+      "gloss": "pislik"
+    },
+    {
+      "surface": "לו",
+      "gloss": "özünə"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "çıxanda"
+    },
+    {
+      "surface": "לחוץ",
+      "gloss": "bayıra"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "danışar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:13:55.744976198Z",
+  "model": "glm-5.3"
+}

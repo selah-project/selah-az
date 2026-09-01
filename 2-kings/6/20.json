@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 6:20",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Şomrona girdiklərində Elişa dedi: Yahve, ⟨את⟩ bunların gözlərini aç ki, görsünlər. Yahve ⟨את⟩ gözlərini açdı və gördülər və bax, ⟨onlar⟩ Şomronun ortasında idilər.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "כבאם",
+      "gloss": "girdiklərində"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Şomrona"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elişa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "aç"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gözlərini"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözlərini"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bunların"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ki, görsünlər"
+    },
+    {
+      "surface": "ויפקח",
+      "gloss": "və açdı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gözlərini"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "gözlərini"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "və gördülər"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "və bax"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ortasında"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Şomronun"
+    }
+  ],
+  "timestamp": "2026-09-01T12:31:37.911686614Z",
+  "model": "glm-5.3"
+}

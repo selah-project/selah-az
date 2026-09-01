@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 9:2",
+  "book": "amos",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Əgər Şeolda deşib girsələr, oradan əlim onları alacaq; və əgər göylərə qalxsalar, oradan onları endirəcəyəm.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Əgər"
+    },
+    {
+      "surface": "יחתרו",
+      "gloss": "deşib girsələr"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "Şeolda"
+    },
+    {
+      "surface": "משם",
+      "gloss": "oradan"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "əlim"
+    },
+    {
+      "surface": "תקחם",
+      "gloss": "onları alacaq"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "qalxsalar"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göylərə"
+    },
+    {
+      "surface": "משם",
+      "gloss": "oradan"
+    },
+    {
+      "surface": "אורידם",
+      "gloss": "onları endirəcəyəm"
+    }
+  ],
+  "timestamp": "2026-09-01T14:44:18.925819807Z",
+  "model": "glm-5.3"
+}

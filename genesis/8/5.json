@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 8:5",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və sular onuncu aya qədər azalıb-getməkdə idilər; onuncu ayda, ayın birinci günündə dağların başları göründü.",
+  "tokens": [
+    {
+      "surface": "והמים",
+      "gloss": "Və sular"
+    },
+    {
+      "surface": "היו",
+      "gloss": "idilər"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "getməkdə"
+    },
+    {
+      "surface": "וחסור",
+      "gloss": "azalıb"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "aya"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "onuncu"
+    },
+    {
+      "surface": "בעשירי",
+      "gloss": "onuncu ayda"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "birinci günündə"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ayın"
+    },
+    {
+      "surface": "נראו",
+      "gloss": "göründü"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "başları"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "dağların"
+    }
+  ],
+  "timestamp": "2026-09-01T09:47:34.364304095Z",
+  "model": "glm-5.3"
+}

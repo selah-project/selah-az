@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 20:2",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Padlanış kimi ⟨dir⟩ şah balasının — padlanışı kimi padşahın qorxusu; onu qəzəbləndirən ⟨öz⟩ canına qarşı günah edir.",
+  "tokens": [
+    {
+      "surface": "נהם",
+      "gloss": "padlanış"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "şah balası kimi"
+    },
+    {
+      "surface": "אימת",
+      "gloss": "qorxusu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşahın"
+    },
+    {
+      "surface": "מתעברו",
+      "gloss": "onu qəzəbləndirən"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "günah edir"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "canına qarşı"
+    }
+  ],
+  "timestamp": "2026-09-01T18:02:27.695965268Z",
+  "model": "glm-5.3"
+}

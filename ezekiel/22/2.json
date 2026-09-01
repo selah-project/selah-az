@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 22:2",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Və sən, insan oğlu, mühakimə edərsənmi, mühakimə edərsənmi ⟨את⟩ qanlar şəhərini? Və ona bildirərsən ⟨את⟩ bütün iyrəncliklərini.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Və sən"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "mühakimə edərsənmi"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "mühakimə edərsənmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qanlar şəhərini"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şəhər"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "qanlar"
+    },
+    {
+      "surface": "והודעתה",
+      "gloss": "və ona bildirərsən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün iyrəncliklərini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "iyrəncliklərini"
+    }
+  ],
+  "timestamp": "2026-09-01T14:14:30.100602069Z",
+  "model": "glm-5.3"
+}

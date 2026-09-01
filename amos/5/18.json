@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "amos 5:18",
+  "book": "amos",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Vay o kəslərə ki, Yahve ⟨את⟩ gününü arzulayırlar! Nə üçün sizə bu — Yahve günü? O, qaranlıqdır, işıq deyil.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Vay"
+    },
+    {
+      "surface": "המתאוים",
+      "gloss": "arzulayanlara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve gününü"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gününü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nə üçün"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizə"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "O"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "qaranlıqdır"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "deyil"
+    },
+    {
+      "surface": "אור",
+      "gloss": "işıq"
+    }
+  ],
+  "timestamp": "2026-09-01T14:43:12.504827690Z",
+  "model": "glm-5.3"
+}

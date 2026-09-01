@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 40:7",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "Və ləyəni ⟨את⟩ görüş çadırı ilə altarın arasına qoyacaqsan, və oraya su qoyacaqsan.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "qoyacaqsan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ləyən"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "ləyən"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasına"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadırı"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "görüş"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarın"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "qoyacaqsan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "oraya"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    }
+  ],
+  "timestamp": "2026-09-01T10:22:06.133348592Z",
+  "model": "glm-5.3"
+}

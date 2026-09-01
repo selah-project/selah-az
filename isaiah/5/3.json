@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 5:3",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Və indi, ey Yeruşalayım sakinləri və Yehuda kişiləri, mənimlə bağım arasında hökm verin.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "və indi"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "sakinləri"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayım"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "və kişiləri"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "hökm verin"
+    },
+    {
+      "surface": "נא",
+      "gloss": ""
+    },
+    {
+      "surface": "ביני",
+      "gloss": "mənimlə"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "bağım arasında"
+    }
+  ],
+  "timestamp": "2026-09-01T12:49:39.216616524Z",
+  "model": "glm-5.3"
+}

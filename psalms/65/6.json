@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 65:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 65,
+  "translation": "Qorxulu ⟨əməllərlə⟩ ədalətlə bizi cavablandırırsan, ey qurtuluşumuzun Elohimi, ⟨sən⟩ bütün yer uclarının və uzaq dənizlərin etibarısan.",
+  "tokens": [
+    {
+      "surface": "נוראות",
+      "gloss": "Qorxulu ⟨əməllərlə⟩"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ədalətlə"
+    },
+    {
+      "surface": "תעננו",
+      "gloss": "bizi cavablandırırsan"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim… (ey …Elohimi)"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "qurtuluşumuzun"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "etibarı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "uclarının"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "וים",
+      "gloss": "və dənizlərin"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "uzaq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:21:30.742595118Z",
+  "model": "glm-5.3"
+}

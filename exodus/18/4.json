@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Və digərinin adı Eliyezer idi, çünki demişdi: 'Atamın Elohimi mənim köməyim ⟨oldu⟩ və məni Paronun qılıncından xilas etdi'.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "və adı"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "digərinin"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "Eliyezer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Atamın"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "mənim köməyim"
+    },
+    {
+      "surface": "ויצלני",
+      "gloss": "və məni xilas etdi"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "qılıncından"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paronun"
+    }
+  ],
+  "timestamp": "2026-09-01T10:12:17.888330613Z",
+  "model": "glm-5.3"
+}

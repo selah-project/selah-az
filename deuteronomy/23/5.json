@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 23:5",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Çünki Mitsrayimdan çıxarkən yolda sizə çörəklə və su ilə qarşılaşmadılar, və sənin əleyhinə ⟨את⟩ Bilamı, Beorun oğlunu, Pitor Aram-Naharayimdən sənə lənət oxusun deyə işə götürdülər.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "işə görə"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "qarşılamadılar"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "qarşılamadılar"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "sizi (çörəklə və su ilə qarşılama obyekti)"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "çörəklə"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "və su ilə"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolda"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "çıxarkən"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayimdan"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "və ki"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "işə götürdülər"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sənin əleyhinə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilamı"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "Beorun"
+    },
+    {
+      "surface": "מפתור",
+      "gloss": "Pitordan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharayim"
+    },
+    {
+      "surface": "לקללך",
+      "gloss": "sənə lənət oxusun deyə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:54:13.497697989Z",
+  "model": "glm-5.3"
+}

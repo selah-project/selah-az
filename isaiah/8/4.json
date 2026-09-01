@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Çünki oğlan 'ata'm, 'ana'm deməyi biləndən əvvəl Dameseqin sərvətini ⟨את⟩ və Şomronun qənimətini ⟨את⟩ Aşur padşahının önünə daşıyacaq.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "...dan əvvəl"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilsə"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "oğlan"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "deməyi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "'ata'm"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "və 'ana'm"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "daşıyacaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dameseqin sərvətini"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sərvət"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Dameseq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Şomronun qənimətini"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "qənimət"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Şomron"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünə"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşur"
+    }
+  ],
+  "timestamp": "2026-09-01T12:48:58.061562612Z",
+  "model": "glm-5.3"
+}

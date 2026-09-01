@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 120,
+  "translation": "Güclünün iti oxları ⟨birlikdə⟩ rethem kömürləri ilə.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "oxları"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "Güclünün"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "iti"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨birlikdə⟩ ilə"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "kömürləri"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "rethem"
+    }
+  ],
+  "timestamp": "2026-09-01T17:43:11.280166702Z",
+  "model": "glm-5.3"
+}

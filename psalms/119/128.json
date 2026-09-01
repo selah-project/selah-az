@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Buna görə bütün öhdəliklərini bütün ⟨şeylər⟩ barəsində düz tutdum; hər yalan yolından nifrət etdim.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "buna görə (üzərinə)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "buna görə"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "öhdəliklərini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "düz tutdum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "yol"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yalan"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "nifrət etdim"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:36.999034429Z",
+  "model": "glm-5.3"
+}

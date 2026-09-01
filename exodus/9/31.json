@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 9:31",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Kətan zərbələndi və arpa zərbələndi, çünki arpa ⟨hələ⟩ yaşıl başaqda idi və kətan çiçək qönçəsində idi.",
+  "tokens": [
+    {
+      "surface": "והפשתה",
+      "gloss": "və kətan"
+    },
+    {
+      "surface": "והשערה",
+      "gloss": "və arpa"
+    },
+    {
+      "surface": "נכתה",
+      "gloss": "zərbələndi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "arpa"
+    },
+    {
+      "surface": "אביב",
+      "gloss": "yaşıl başaqda"
+    },
+    {
+      "surface": "והפשתה",
+      "gloss": "və kətan"
+    },
+    {
+      "surface": "גבעל",
+      "gloss": "çiçək qönçəsində"
+    }
+  ],
+  "timestamp": "2026-09-01T10:06:47.557010827Z",
+  "model": "glm-5.3"
+}

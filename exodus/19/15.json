@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 19:15",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Xalqa dedi: üç günə hazır olun, qadına yaxınlaşmayın.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "היו",
+      "gloss": "olun"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "hazır"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "üç"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günə"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תגשו",
+      "gloss": "yaxınlaşmayın"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "qadına"
+    }
+  ],
+  "timestamp": "2026-09-01T10:10:54.100362230Z",
+  "model": "glm-5.3"
+}

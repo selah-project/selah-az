@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 73:24",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 73,
+  "translation": "Məsləhətinlə məni doğru yola salırsan və sonra məni izzətə qəbul edirsən.",
+  "tokens": [
+    {
+      "surface": "בעצתך",
+      "gloss": "Məsləhətinlə"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "məni doğru yola salırsan"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "və sonra"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "izzətə"
+    },
+    {
+      "surface": "תקחני",
+      "gloss": "məni qəbul edirsən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:24:20.846768915Z",
+  "model": "glm-5.3"
+}

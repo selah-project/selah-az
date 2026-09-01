@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 6:1",
+  "book": "joshua",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Və Yeriho qapalı idi, İsrail oğullarının üzündən qapanmışdı; çıxan yox idi və girən yox idi.",
+  "tokens": [
+    {
+      "surface": "ויריחו",
+      "gloss": "Və Yeriho"
+    },
+    {
+      "surface": "סגרת",
+      "gloss": "qapalı idi"
+    },
+    {
+      "surface": "ומסגרת",
+      "gloss": "qapanmışdı"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "üzündən"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yox idi"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "çıxan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "və yox idi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "girən"
+    }
+  ],
+  "timestamp": "2026-09-01T11:04:05.958621026Z",
+  "model": "glm-5.3"
+}

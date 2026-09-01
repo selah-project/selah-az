@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 14:11",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Və Moşeyə dedilər: Məgər Misirdə qəbirlər yox idi, ki bizi səhrada ölmək üçün apardım? Bu bizə nə etdin, bizi Misirdən çıxartmaq üçün?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "dedilər"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-yə"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşeyə"
+    },
+    {
+      "surface": "המבלי",
+      "gloss": "məgər... yox idi ki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yox"
+    },
+    {
+      "surface": "קברים",
+      "gloss": "qəbirlər"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Misirdə"
+    },
+    {
+      "surface": "לקחתנו",
+      "gloss": "bizi apardım"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ölmək üçün"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "səhrada"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "etdin"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizə"
+    },
+    {
+      "surface": "להוציאנו",
+      "gloss": "bizi çıxartmaq üçün"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Misirdən"
+    }
+  ],
+  "timestamp": "2026-09-01T10:09:32.072783026Z",
+  "model": "glm-5.3"
+}

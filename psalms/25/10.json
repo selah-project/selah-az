@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 25:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Yahvenin bütün yolları hesed və əməldir, Onun əhdini və şəhadətlərini qoruyanlar üçün.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "yolları"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "əməl (sadiq olur)"
+    },
+    {
+      "surface": "לנצרי",
+      "gloss": "qoruyanlar üçün"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "Onun əhdini"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "şəhadətlərini"
+    }
+  ],
+  "timestamp": "2026-09-01T15:08:10.864590131Z",
+  "model": "glm-5.3"
+}

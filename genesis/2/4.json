@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 2:4",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Bunlardır nəsilləri göylərin və yerin, onların yaradılışında ⟨günündə⟩, Yahve Elohim-in yeri və göyləri etdiyi gün.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "bunlardır"
+    },
+    {
+      "surface": "תולדות",
+      "gloss": "nəsilləri"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göylərin"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "və yerin"
+    },
+    {
+      "surface": "בהבראם",
+      "gloss": "onların yaradılışında"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "günündə"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "etdiyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "və göylər"
+    }
+  ],
+  "timestamp": "2026-09-01T09:46:30.537556314Z",
+  "model": "glm-5.3"
+}

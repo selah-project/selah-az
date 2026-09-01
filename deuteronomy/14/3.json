@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Heç bir iyrənc şey yeməyin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yeməyin"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "(yemə)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heç bir"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "iyrənc şey"
+    }
+  ],
+  "timestamp": "2026-09-01T10:50:15.919198858Z",
+  "model": "glm-5.3"
+}

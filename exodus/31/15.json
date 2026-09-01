@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 31:15",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "Altı gün iş görülə bilər, yeddinci gündə isə şabbat, tam istirahət, Yahve üçün müqəddəsdir; şabbat günü iş görən hər kəs mütləq öldürüləcək.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "altı"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "görülə bilər"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "iş"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "yeddinci gündə isə"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "yeddinci"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "şabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "tam istirahət"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve üçün"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər kəs"
+    },
+    {
+      "surface": "העשה",
+      "gloss": "görən"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "iş"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "günü"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "şabbat"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mütləq"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "öldürüləcək"
+    }
+  ],
+  "timestamp": "2026-09-01T10:18:30.370805161Z",
+  "model": "glm-5.3"
+}

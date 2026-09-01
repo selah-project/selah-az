@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 67:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 67,
+  "translation": "Xalqlar Səni tərifləsin, ey Elohim; xalqların hamısı Səni tərifləsin.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "tərifləsin"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "tərifləsin"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "hamısı"
+    }
+  ],
+  "timestamp": "2026-09-01T17:42:24.390391598Z",
+  "model": "glm-5.3"
+}

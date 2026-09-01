@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 6:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Dirijor üçün, simli alətlərlə, səkkizlikdə, Davudun məzmuru.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "dirijor üçün"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "simli alətlərlə"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərində"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "səkkizlikdə"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "məzmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davudun"
+    }
+  ],
+  "timestamp": "2026-09-01T15:01:52.622312772Z",
+  "model": "glm-5.3"
+}

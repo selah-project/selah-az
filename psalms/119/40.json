@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 119:40",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Bax, sənin əmrlərinə susamışam, sənin ədalətində məni dirilt.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bax"
+    },
+    {
+      "surface": "תאבתי",
+      "gloss": "susamışam"
+    },
+    {
+      "surface": "לפקדיך",
+      "gloss": "sənin əmrlərinə"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "sənin ədalətində"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "məni dirilt"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:16.869368592Z",
+  "model": "glm-5.3"
+}

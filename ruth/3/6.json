@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 3:6",
+  "book": "ruth",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "O, xırmana endi və qaynanasının ona əmr etdiyi hər şeyi etdi.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "endi"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "xırmana"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "və etdi"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "hər şeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "əmr etdiyi"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "qaynanası"
+    }
+  ],
+  "timestamp": "2026-09-01T16:23:36.091643374Z",
+  "model": "glm-5.3"
+}

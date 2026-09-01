@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 66,
+  "translation": "Xormanın rəhbərinə. Mahir, məzmur. Elahaya qışqırın, bütün ⟨⟨ bütün ⟩⟩ yer!",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "xormanın rəhbərinə"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "mahir"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "məzmur"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "qışqırın"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohaya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-09-01T15:21:15.938618509Z",
+  "model": "glm-5.3"
+}

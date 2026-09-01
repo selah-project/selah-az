@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 10:14",
+  "book": "job",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Əgər günah etsəm, məni gözləyirsən, və günahkarlığımdan məni təmizə çıxarmırsan.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "günah etsəm"
+    },
+    {
+      "surface": "ושמרתני",
+      "gloss": "məni gözləyirsən"
+    },
+    {
+      "surface": "ומעוני",
+      "gloss": "və günahkarlığımdan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תנקני",
+      "gloss": "məni təmizə çıxarmırsan"
+    }
+  ],
+  "timestamp": "2026-09-01T16:07:28.690652218Z",
+  "model": "glm-5.3"
+}

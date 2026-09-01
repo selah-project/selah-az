@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 69:17",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 69,
+  "translation": "Mənə cavab ver, Yahve, çünki hesed-in yaxşıdır; rəhmətlərinin çoxluğuna görə mənə üz tut.",
+  "tokens": [
+    {
+      "surface": "ענני",
+      "gloss": "Mənə cavab ver"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşıdır"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-in"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "çoxluğuna görə"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "rəhmətlərinin"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "üz tut"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:23:43.339011299Z",
+  "model": "glm-5.3"
+}

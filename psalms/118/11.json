@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 118:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 118,
+  "translation": "Məni əhatə etdilər, hətta yenidən əhatə etdilər məni; Yahvenin adı ilə mən onları kəsəcəyəm.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "məni əhatə etdilər"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hətta"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "yenidən əhatə etdilər"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "adı ilə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨həqiqətən⟩"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "onları kəsəcəyəm"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:55.448609262Z",
+  "model": "glm-5.3"
+}

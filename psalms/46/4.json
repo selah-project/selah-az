@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 46,
+  "translation": "Suları uğultu ilə qaynayar, dağlar onun yoğun dalğasından titrər. Sela.",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "uğultu ilə"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "qaynayar"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "suları"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "titrər"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dağlar"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "onun yoğun dalğasından"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-01T15:16:56.274753997Z",
+  "model": "glm-5.3"
+}

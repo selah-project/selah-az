@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 41:12",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 41,
+  "translation": "Onları axtaracaqsan, lakin tapmayacaqsan — səninlə münaqişə edən adamları; onlar heç olacaq, sıfır kimi — səninlə müharibə edən adamlar.",
+  "tokens": [
+    {
+      "surface": "תבקשם",
+      "gloss": "onları axtaracaqsan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lakin ... yox"
+    },
+    {
+      "surface": "תמצאם",
+      "gloss": "tapmayacaqsan"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "adamları"
+    },
+    {
+      "surface": "מצתך",
+      "gloss": "səninlə münaqişə edən"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "heç kimi"
+    },
+    {
+      "surface": "וכאפס",
+      "gloss": "və sıfır kimi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "adamlar"
+    },
+    {
+      "surface": "מלחמתך",
+      "gloss": "səninlə müharibə edən"
+    }
+  ],
+  "timestamp": "2026-09-01T13:06:53.983268903Z",
+  "model": "glm-5.3"
+}

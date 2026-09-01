@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 93:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 93,
+  "translation": "Bir Yahve yüksəklikdə qüdrətlidir — çox suların səslərindən, dənizin əzəmətli daşıq dalğalarından ⟨daha⟩.",
+  "tokens": [
+    {
+      "surface": "מקלות",
+      "gloss": "səslərindən"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suların"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "çox"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "əzəmətli"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "daşıq dalğalarından"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dənizin"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "qüdrətlidir"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "yüksəklikdə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T15:32:55.442160390Z",
+  "model": "glm-5.3"
+}

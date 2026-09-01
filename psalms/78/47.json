@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 78:47",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 78,
+  "translation": "Dolanbaclarını dolu ilə öldürdü, şəcərələrini şaxa ilə ⟨öldürdü⟩.",
+  "tokens": [
+    {
+      "surface": "יהרג",
+      "gloss": "öldürdü"
+    },
+    {
+      "surface": "בברד",
+      "gloss": "dolu ilə"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "dolanbaclarını"
+    },
+    {
+      "surface": "ושקמותם",
+      "gloss": "şəcərələrini"
+    },
+    {
+      "surface": "בחנמל",
+      "gloss": "şaxa ilə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:26:40.788796484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 7:16",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Və əgər onun qurban qurbanı nəzir və ya nədava olarsa, onun qurbanını təqdim etdiyi gün yeyiləcək, və sabahısı gün ⟨də⟩, və ondan qalan yeyiləcək.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "nəzir"
+    },
+    {
+      "surface": "או",
+      "gloss": "və ya"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "nədava"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "qurban"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "onun qurbanı"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "הקריבו",
+      "gloss": "təqdim etdiyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onun qurbanını"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "onun qurbanını"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yeyiləcək"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "və sabahısı gün"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "və qalan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yeyiləcək"
+    }
+  ],
+  "timestamp": "2026-09-01T10:23:28.217369214Z",
+  "model": "glm-5.3"
+}

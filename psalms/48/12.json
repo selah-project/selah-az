@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 48:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 48,
+  "translation": "Sevinər Tzion dağı, sevinər Yehudanın qızları — sənin məhkəmələrin ⟨sayəsində⟩.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "sevinər"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dağ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "sevinər"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "qızları"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudanın"
+    },
+    {
+      "surface": "למען",
+      "gloss": "— sayəsində"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "sənin məhkəmələrin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:15:42.825831193Z",
+  "model": "glm-5.3"
+}

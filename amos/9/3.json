@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 9:3",
+  "book": "amos",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Və əgər Karmelin başında gizlənsələr, oradan axtaracağam və onları tutacağam; və əgər gözlərimin qarşısından dənizin dibində gizlənsələr, oradan ⟨את⟩ ilana əmr edəcəyəm və o, onları sancacaq.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Və əgər"
+    },
+    {
+      "surface": "יחבאו",
+      "gloss": "gizlənsələr"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "başında"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmelin"
+    },
+    {
+      "surface": "משם",
+      "gloss": "oradan"
+    },
+    {
+      "surface": "אחפש",
+      "gloss": "axtaracağam"
+    },
+    {
+      "surface": "ולקחתים",
+      "gloss": "və onları tutacağam"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "יסתרו",
+      "gloss": "gizlənsələr"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "qarşısından"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözlərimin"
+    },
+    {
+      "surface": "בקרקע",
+      "gloss": "dibində"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dənizin"
+    },
+    {
+      "surface": "משם",
+      "gloss": "oradan"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "əmr edəcəyəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilan"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ilan"
+    },
+    {
+      "surface": "ונשכם",
+      "gloss": "və onları sancacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T14:44:18.926077962Z",
+  "model": "glm-5.3"
+}

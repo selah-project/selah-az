@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 10:10",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Onlara dedi: Yahve sizinlə elə olsun, ⟨את⟩ sizi və uşaqlarınızı necə buraxsanım ⟨elə⟩; görün, çünki pislik üzlərinizin qarşısındadır.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "כן",
+      "gloss": "elə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "sizinlə"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "necə"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "buraxsanım"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uşaqlarınızı"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "uşaqlarınızı"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "görün"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pislik"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "qarşısında"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "üzlərinizin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:07:36.049694058Z",
+  "model": "glm-5.3"
+}

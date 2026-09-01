@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 116,
+  "translation": "Mən tələsikdə dedim: bütün insanlar yalançıdır.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "dedim"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "tələsikdə"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insanlar"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "yalançıdır"
+    }
+  ],
+  "timestamp": "2026-09-01T17:43:09.194476342Z",
+  "model": "glm-5.3"
+}

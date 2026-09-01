@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 2:10",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Qayaya gir, tozda gizlən — Yahve-nin qorxusundan və ⟨Onun⟩ əzəmətinin əzəmətindən!",
+  "tokens": [
+    {
+      "surface": "בוא",
+      "gloss": "gir"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "qayaya"
+    },
+    {
+      "surface": "והטמן",
+      "gloss": "və gizlən"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "tozda"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "üzündən"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "qorxu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ומהדר",
+      "gloss": "və əzəmətindən"
+    },
+    {
+      "surface": "גאנו",
+      "gloss": "Onun əzəməti"
+    }
+  ],
+  "timestamp": "2026-09-01T12:44:39.785459970Z",
+  "model": "glm-5.3"
+}

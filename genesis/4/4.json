@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 4:4",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və Hevel də öz qoyunlarının ilk doğulanlarından və onların yağından gətirdi. Və Yahve Hevele və onun qurbanına nəzər saldı.",
+  "tokens": [
+    {
+      "surface": "והבל",
+      "gloss": "və Hevel"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "gətirdi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "də"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "özü"
+    },
+    {
+      "surface": "מבכרות",
+      "gloss": "ilk doğulanlarından"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "öz qoyunlarının"
+    },
+    {
+      "surface": "ומחלבהן",
+      "gloss": "və onların yağından"
+    },
+    {
+      "surface": "וישע",
+      "gloss": "və nəzər saldı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-e doğru"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevele"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və -e doğru"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "onun qurbanına"
+    }
+  ],
+  "timestamp": "2026-09-01T09:46:34.591141012Z",
+  "model": "glm-5.3"
+}

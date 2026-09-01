@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 8:6",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Padşah qadından soruşdu, o da ona danışdı. Padşah ona bir saray əyanı təyin etdi və dedi: «⟨את⟩ ona aid olan hər şeyi və ⟨את⟩ tarlanın bütün məhsulunu — torpağı tərk etdiyi gündən indiyədək — ona qaytar.»",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "Və soruşdu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "qadından"
+    },
+    {
+      "surface": "ותספר",
+      "gloss": "və o danışdı"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "və təyin etdi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "saray əyanı"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "qaytar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ona aid olan hər şeyi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər şeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ona aiddir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "tarlanın bütün məhsulunu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "məhsulunu"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tarlanın"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "gündən"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "tərk etdiyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "torpağı"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "torpağı"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "vədək"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "indi"
+    }
+  ],
+  "timestamp": "2026-09-01T12:35:03.648002801Z",
+  "model": "glm-5.3"
+}

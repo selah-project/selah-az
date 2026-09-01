@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "Və ondan Moşe, Aharon və oğulları ⟨את⟩ əllərini və ⟨את⟩ ayaqlarını yuyudular.",
+  "tokens": [
+    {
+      "surface": "וְרָחֲצוּ",
+      "gloss": "və yuyudular"
+    },
+    {
+      "surface": "מִמֶּנּוּ",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "וְאַהֲרֹן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "וּבָנָיו",
+      "gloss": "və oğulları"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "əllərini"
+    },
+    {
+      "surface": "יְדֵיהֶם",
+      "gloss": "əllərini"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ayaqlarını"
+    },
+    {
+      "surface": "רַגְלֵיהֶם",
+      "gloss": "ayaqlarını"
+    }
+  ],
+  "timestamp": "2026-09-01T17:56:42.485628256Z",
+  "model": "glm-5.3"
+}

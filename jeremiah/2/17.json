@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 2:17",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Məgər bunu özünə sən özün etmədinmi? — özünü Yahve, Elohimindən qoyub getdiyinə görə, səni yolda apararkən ⟨את⟩ Yahveni, Elohimini tərk etdiyinə görə?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "məgər... yoxsa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "etdin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə (özünə)"
+    },
+    {
+      "surface": "עזבך",
+      "gloss": "tərk etdiyin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "o vaxtda"
+    },
+    {
+      "surface": "מוליכך",
+      "gloss": "səni apararkən"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolda"
+    }
+  ],
+  "timestamp": "2026-09-01T13:21:35.631877740Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 55,
+  "translation": "El eşidəcək və onları əzəcək, əzəldə Oturan ⟨kimdir⟩ — Səlah. ⟨Onlar⟩ dəyişilməyi olmayanlar, və Elohimdən qorxmayanlar ⟨kimi⟩.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "eşidəcək"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "və onları əzəcək"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "Oturan"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "əzəldə"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Səlah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨kimdi⟩"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yox"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "dəyişilməyi"
+    },
+    {
+      "surface": "למו",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... -mə"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "qorxurlar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T15:18:39.954690648Z",
+  "model": "glm-5.3"
+}

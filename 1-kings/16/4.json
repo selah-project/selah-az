@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 16:4",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Şəhərdə Başadan öləni itlər yeyəcək, sahədə ondan öləni isə göyün quşları yeyəcək.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "öləni"
+    },
+    {
+      "surface": "לבעשא",
+      "gloss": "Başadan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "şəhərdə"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "yeyəcək"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "itlər"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "və öləni"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sahədə"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "yeyəcək"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "quşları"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göyün"
+    }
+  ],
+  "timestamp": "2026-09-01T12:22:15.514064192Z",
+  "model": "glm-5.3"
+}

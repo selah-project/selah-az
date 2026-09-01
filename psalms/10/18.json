@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Yetimi və əziləni mühakimə etmək üçün — yer üzünün insanı artıq qorxutmayacaq.",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "mühakimə etmək üçün"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "yetimi"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "və əziləni"
+    },
+    {
+      "surface": "בל",
+      "gloss": "artıq... yox"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "davam edəcək ⟨deyil⟩"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "daha"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "qorxutmağa"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "insan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer üzünün"
+    }
+  ],
+  "timestamp": "2026-09-01T15:03:15.477932359Z",
+  "model": "glm-5.3"
+}

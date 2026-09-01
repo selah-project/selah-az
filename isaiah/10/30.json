@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 10:30",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Səsini ucald, Qalim qızı! Qulaq as, Layiş! Ey səfil Anatot!",
+  "tokens": [
+    {
+      "surface": "צהלי",
+      "gloss": "ucald"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "səsini"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qızı"
+    },
+    {
+      "surface": "גלים",
+      "gloss": "Qalim"
+    },
+    {
+      "surface": "הקשיבי",
+      "gloss": "qulaq as"
+    },
+    {
+      "surface": "לישה",
+      "gloss": "Layiş"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "səfil"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Anatot"
+    }
+  ],
+  "timestamp": "2026-09-01T12:51:34.680167416Z",
+  "model": "glm-5.3"
+}

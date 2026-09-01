@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 94,
+  "translation": "Və deyirlər: «Yah görməz, və Yaqovun Elohimi də anlamaz.»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "və deyirlər"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "görməz"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "anlamaz"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqovun"
+    }
+  ],
+  "timestamp": "2026-09-01T15:31:49.675635187Z",
+  "model": "glm-5.3"
+}

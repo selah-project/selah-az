@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və Elohim ⟨את⟩ onları göylərin rəqia)sında, yerin üstünə işıq vermək üçün yerləşdirdi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "yerləşdirdi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onları",
+      "marks": "iki böyük işıq və ulduzlar (öncəki ayədən)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "rəqia)sında"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göylərin"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "işıq vermək üçün"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    }
+  ],
+  "timestamp": "2026-09-01T17:55:47.301279621Z",
+  "model": "glm-5.3"
+}

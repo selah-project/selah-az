@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Muzdla yaşayan sakin və kirayə işçi ondan yeməz.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "muzdla yaşayan sakin"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "və kirayə işçi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yeməz"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ondan"
+    }
+  ],
+  "timestamp": "2026-09-01T10:09:02.897919522Z",
+  "model": "glm-5.3"
+}

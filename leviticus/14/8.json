@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 14:8",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Təmizlənən ⟨את⟩ paltarlarını yuyacaq, bütün tükünü qırxacaq, suda yuyunacaq və təmiz olacaq; sonradan düşərgəyə girəcək, lakin çadırının kənarında yeddi gün qalacaq.",
+  "tokens": [
+    {
+      "surface": "וכבס",
+      "gloss": "yuyacaq"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "təmizlənən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paltarlarını"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "paltarlarını"
+    },
+    {
+      "surface": "וגלח",
+      "gloss": "qırxacaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün tükünü"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "שערו",
+      "gloss": "tükünü"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "yuyunacaq"
+    },
+    {
+      "surface": "במים",
+      "gloss": "suda"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "təmiz olacaq"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "sonradan"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "girəcək"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-yə"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "düşərgəyə"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "qalacaq"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kənarında"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "çadırının"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "yeddi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:26:45.929447219Z",
+  "model": "glm-5.3"
+}

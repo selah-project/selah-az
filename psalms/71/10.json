@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 71:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 71,
+  "translation": "Çünki düşmənlərim ⟨mənim haqqımda⟩ dedilər, canımı gözləyənlər birlikdə məsləhətləşdilər.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "dedilər"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "düşmənlərim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨mənim haqqımda⟩"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "gözləyənlər"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "məsləhətləşdilər"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "birlikdə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:22:48.688745510Z",
+  "model": "glm-5.3"
+}

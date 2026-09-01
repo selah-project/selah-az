@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 28:10",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "⟨Bu⟩ şabbatın yandırma qurbanıdır, hər şabbatda, daimi yandırma qurbanına əlavə olaraq, və onun içki qurbanı.",
+  "tokens": [
+    {
+      "surface": "עלת",
+      "gloss": "yandırma qurbanı"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "şabbatın"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "onun şabbatında"
+    },
+    {
+      "surface": "על",
+      "gloss": "əlavə olaraq ... üstünə"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "yandırma qurbanına"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "daimi"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "və onun içki qurbanı"
+    }
+  ],
+  "timestamp": "2026-09-01T10:42:42.224136365Z",
+  "model": "glm-5.3"
+}

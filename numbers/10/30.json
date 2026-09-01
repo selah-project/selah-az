@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Və ⟨o⟩ ona dedi: Gətməyəcəyəm, çünki ⟨yalnız⟩ öz torpağıma və öz doğulduğum yerə gedəcəyəm.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "gedəcəyəm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨yalnız⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "öz torpağıma"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və -a"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "doğulduğum yerə"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "gedəcəyəm"
+    }
+  ],
+  "timestamp": "2026-09-01T10:36:22.114670618Z",
+  "model": "glm-5.3"
+}

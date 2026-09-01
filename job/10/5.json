@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Ölümlü insanın günləri kimi ⟨sənin⟩ günlərinmi, yoxsa adamın günləri kimi sənin illərin?",
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ölümlü insanın"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "sənin günlərin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoxsa"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "sənin illərin"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "adam"
+    }
+  ],
+  "timestamp": "2026-09-01T16:06:40.766575551Z",
+  "model": "glm-5.3"
+}

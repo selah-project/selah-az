@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Balak, Sipporun oğlu, İsrailin Emorilərə etdiyi ⟨את⟩ hər şeyi gördü.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "gördü"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "Sippor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hər şeyi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər şeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "etdiyi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etdiyi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailin"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "Emorilərə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:40:45.462476363Z",
+  "model": "glm-5.3"
+}

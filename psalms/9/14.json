@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 9:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Mənə lütf et, Yahve, mənim dərdimi gör — məni söyənlərdən ⟨gördüyünü⟩; ölüm qapılarından məni yüksəldən ⟨sənsən⟩.",
+  "tokens": [
+    {
+      "surface": "חננני",
+      "gloss": "Mənə lütf et"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "gör"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "mənim dərdimi"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "məni söyənlərdən"
+    },
+    {
+      "surface": "מרוממי",
+      "gloss": "məni yüksəldən"
+    },
+    {
+      "surface": "משערי",
+      "gloss": "qapılarından"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölüm"
+    }
+  ],
+  "timestamp": "2026-09-01T15:04:26.830239336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 47,
+  "translation": "Qalxdı Elohim səs-küy ilə, Yahve şofar səsi ilə.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "qalxdı"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "səs-küy ilə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "səsi ilə"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "şofar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:16:21.938390019Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 71:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 71,
+  "translation": "Deyərək: «Elohim onu tərk edib; təqib edin və onu tutun, çünki qurtaran yoxdur».",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "tərk edib"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "təqib edin"
+    },
+    {
+      "surface": "ותפשוהו",
+      "gloss": "onu tutun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "qurtaran"
+    }
+  ],
+  "timestamp": "2026-09-01T15:22:48.688913842Z",
+  "model": "glm-5.3"
+}

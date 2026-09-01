@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 41:5",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 41,
+  "translation": "Sonra evin divarını ölçdü: altı qarış; və yan otağın eni: dörd qarış, evin ətrafında, ətrafda, ⟨hər⟩ tərəfdə.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "ölçdü"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "divarını"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "evin"
+    },
+    {
+      "surface": "שש",
+      "gloss": "altı"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "qarış"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "və eni"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "yan otağın"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "dörd"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "qarış"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ətrafında"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ətrafda"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ev üçün"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ətrafında"
+    }
+  ],
+  "timestamp": "2026-09-01T17:39:33.122328313Z",
+  "model": "glm-5.3"
+}

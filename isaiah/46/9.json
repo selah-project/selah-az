@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 46:9",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 46,
+  "translation": "İlk şeyləri əzəldən yada salın, çünki mən El-əm və başqa yoxdur; Elohim ⟨var⟩ və mənim kimi ⟨heç nə⟩ yoxdur.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "yada salın"
+    },
+    {
+      "surface": "ראשנות",
+      "gloss": "ilk şeyləri"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "əzəldən"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mən"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "və yoxdur"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "başqa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "və ⟨heç nə⟩"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "mənim kimi"
+    }
+  ],
+  "timestamp": "2026-09-01T13:09:19.652207222Z",
+  "model": "glm-5.3"
+}

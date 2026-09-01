@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 48:7",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 48,
+  "translation": "İndi yaradıldılar, əvvəldən yox, gündən əvvəl isə onları eşitməmişdin — ki, bax, mən onları bilirdim — deməyəsən.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "İndi"
+    },
+    {
+      "surface": "נבראו",
+      "gloss": "yaradıldılar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "əvvəldən"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "və ... əvvəl"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gündən"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və --"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "onları eşitməmişdin"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ki ... deməyəsən"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "deməyəsən"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "ידעתין",
+      "gloss": "mən onları bilirdim"
+    }
+  ],
+  "timestamp": "2026-09-01T13:09:37.432543998Z",
+  "model": "glm-5.3"
+}

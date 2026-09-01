@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 18:38",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Düşmənlərimi qovuram və onları yetişirəm, və onlar tükənənədək geri qayıtmırım.",
+  "tokens": [
+    {
+      "surface": "ארדוף",
+      "gloss": "qovuram"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "düşmənlərimi"
+    },
+    {
+      "surface": "ואשיגם",
+      "gloss": "və onları yetişirəm"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "geri qayıtmırım"
+    },
+    {
+      "surface": "עד",
+      "gloss": "...-ədək"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "onlar tükənənə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:06:19.555509427Z",
+  "model": "glm-5.3"
+}

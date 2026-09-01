@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 26:6",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Və düzəltməlisən əlli qızıl qurmaq, və birləşdirməlisən ⟨את⟩ pərdələri biri ⟨digəri⟩ ilə qurmaqlarla ⟨vasitəsilə⟩, və məskən ⟨bir⟩ olacaq.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "və düzəltməlisən"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "əlli"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "qurmaq"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "qızıl"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "və birləşdirməlisən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pərdələri"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "pərdələri"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "biri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "⟨digəri⟩"
+    },
+    {
+      "surface": "בקרסים",
+      "gloss": "qurmaqlarla"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "və olacaq"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "məskən"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "⟨bir⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T10:16:49.900677371Z",
+  "model": "glm-5.3"
+}

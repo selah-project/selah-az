@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 24:21",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Və adam ona heyrətlə baxıb susdu, bilmək üçün: Yahve onun yolunu uğurlandırmışdımı, yoxsa yox?",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "və adam"
+    },
+    {
+      "surface": "משתאה",
+      "gloss": "heyrətlə baxıb"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "מחריש",
+      "gloss": "susdu"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "bilmək üçün"
+    },
+    {
+      "surface": "ההצליח",
+      "gloss": "uğurlandırmışdımı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "onun yolunu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoxsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    }
+  ],
+  "timestamp": "2026-09-01T09:52:47.007193492Z",
+  "model": "glm-5.3"
+}

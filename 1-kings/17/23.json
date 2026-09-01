@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 17:23",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Eliya uşağı götürdü və onu üst otaqdan evə endirdi və onu anasına verdi və Eliya dedi: Bax, oğlun yaşayır.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "və götürdü"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uşağı"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "uşağı"
+    },
+    {
+      "surface": "וירדהו",
+      "gloss": "və onu endirdi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "העליה",
+      "gloss": "üst otaqdan"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "evə"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "və onu verdi"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "anasına"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliya"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "Bax"
+    },
+    {
+      "surface": "חי",
+      "gloss": "yaşayır"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "oğlun"
+    }
+  ],
+  "timestamp": "2026-09-01T12:21:40.176146350Z",
+  "model": "glm-5.3"
+}

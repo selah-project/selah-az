@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 29:20",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "Və Hizkiya padşah səhər tez qalxdı, şəhərin başçılarını ⟨את⟩ topladı və Yahvenin evinə qalxdı.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "səhər tez qalxdı"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hizkiya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "topladı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şəhərin başçılarını"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "başçılarını"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şəhərin"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "qalxdı"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evinə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    }
+  ],
+  "timestamp": "2026-09-01T17:21:40.822841014Z",
+  "model": "glm-5.3"
+}

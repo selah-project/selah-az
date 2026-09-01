@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Yalnız ⟨את⟩ onun qanını yemə; yerin üstünə su ⟨kimi⟩ tök onu.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onun qanını"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "onun qanını"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yemə (yin: yox)"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yemə"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "tök onu"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "su ⟨kimi⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T10:50:13.462552639Z",
+  "model": "glm-5.3"
+}

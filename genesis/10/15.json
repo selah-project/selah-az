@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Kənan ⟨את⟩ Tsidonu, öz ilk doğulanını, və ⟨את⟩ Xeti doğurdu.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Kənan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidon"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "öz ilk doğulanı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Xet"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Xet"
+    }
+  ],
+  "timestamp": "2026-09-01T09:48:31.967456443Z",
+  "model": "glm-5.3"
+}

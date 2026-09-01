@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 14:42",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Qalxmayın, çünki Yahve içinizdə deyil, yoxsa düşmənləriniz önündə vurularsınız.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "qalxmayın"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "qalxmayın"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "deyil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "içinizdə"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "yoxsa"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "vurularsınız"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önündə"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "düşmənlərinizin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:37:55.091632543Z",
+  "model": "glm-5.3"
+}

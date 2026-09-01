@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 3:2",
+  "book": "amos",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Yalnız ⟨את⟩ sizləri tanıdım yer üzünün bütün ailələrindən; buna görə bütün günahlarınızın üstünə ⟨את⟩ yoxlayacağam.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Yalnız"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizləri"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "tanıdım"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bütün ... dən"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "ailələri"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "yer üzünün"
+    },
+    {
+      "surface": "על",
+      "gloss": "buna görə (üzerinə)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "buna görə"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "yoxlayacağam"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sizin üstünüzə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün günahlarınızı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "günahlarınızı"
+    }
+  ],
+  "timestamp": "2026-09-01T14:39:58.524741135Z",
+  "model": "glm-5.3"
+}

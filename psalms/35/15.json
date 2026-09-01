@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 35:15",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "Ləngəyəndə isə sevinərək yığıldılar, mənim əleyhimə toplaşdılar — vurğanlar, mən bilmədim; yırtıldılar və susmadılar.",
+  "tokens": [
+    {
+      "surface": "ובצלעי",
+      "gloss": "ləngəyəndə isə"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "sevinərək"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "yığıldılar"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "toplaşdılar"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mənim əleyhimə"
+    },
+    {
+      "surface": "נכים",
+      "gloss": "vurğunlar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... deyil"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mən bilmədim"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "yırtıldılar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... deyil"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "susmadılar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:11:10.685667013Z",
+  "model": "glm-5.3"
+}

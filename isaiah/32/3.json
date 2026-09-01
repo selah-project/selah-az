@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Və görənlərin gözləri ⟨tovlanmayacaq⟩, eşidənlərin qulaqları isə diqqətlə dinləyəcək.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Və … -mayacaq"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "tovlanmayacaq"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözləri"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "görənlərin"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "qulaqları isə"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "eşidənlərin"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "diqqətlə dinləyəcək"
+    }
+  ],
+  "timestamp": "2026-09-01T12:59:41.361693791Z",
+  "model": "glm-5.3"
+}

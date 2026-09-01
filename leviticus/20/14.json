@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 20:14",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Və bir kişi ki, ⟨את⟩ bir qadını və ⟨את⟩ anasını alsa — pis əməldir o; odda yandıracaqlar ⟨את⟩ onu ⟨את⟩ və onları, və aranızda pis əməl olmasın.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Və kişi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "alsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bir qadını"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "qadın"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anasını"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "anası"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "pis əməl"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "odur"
+    },
+    {
+      "surface": "באש",
+      "gloss": "odda"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "yandıracaqlar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu"
+    },
+    {
+      "surface": "ואתהן",
+      "gloss": "⟨את⟩ və onları"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və olmasın"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olmasın"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "pis əməl"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "aranızda"
+    }
+  ],
+  "timestamp": "2026-09-01T10:30:07.585810612Z",
+  "model": "glm-5.3"
+}

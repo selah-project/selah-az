@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 6:23",
+  "book": "job",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Və düşmənin əlindən məni xilas edin, və zorbaların əlindən məni fidyə ilə azad edin?",
+  "tokens": [
+    {
+      "surface": "ומלטוני",
+      "gloss": "və məni xilas edin"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "əlindən"
+    },
+    {
+      "surface": "צר",
+      "gloss": "düşmənin"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "və ... əlindən"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "zorbaların"
+    },
+    {
+      "surface": "תפדוני",
+      "gloss": "məni fidyə ilə azad edin"
+    }
+  ],
+  "timestamp": "2026-09-01T16:04:06.633808496Z",
+  "model": "glm-5.3"
+}

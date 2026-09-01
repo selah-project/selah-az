@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 2:6",
+  "book": "judges",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Yehoşua ⟨את⟩ xalqı göndərdi, və İsrail oğulları hər biri öz mülkünə getdi, ⟨את⟩ torpağı mənimsəmək üçün.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "göndərdi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqı"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "getdilər"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər biri"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "öz mülkünə"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "mənimsəmək üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "torpağı"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "torpağı"
+    }
+  ],
+  "timestamp": "2026-09-01T11:15:04.353453548Z",
+  "model": "glm-5.3"
+}

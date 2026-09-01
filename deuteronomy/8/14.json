@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 8:14",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "və ürəyin qürrələnə, və Yahve sənin Elohimini unudasan — ⟨O⟩ ki, səni Mitsrayim torpağından, qullar evindən çıxaran.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "qürrələnə"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ürəyin"
+    },
+    {
+      "surface": "ושכחת",
+      "gloss": "unudasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve sənin Elohimini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sənin Elohimini"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "səni çıxaran"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "torpağından"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "evindən"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "qullar"
+    }
+  ],
+  "timestamp": "2026-09-01T10:49:01.360671020Z",
+  "model": "glm-5.3"
+}

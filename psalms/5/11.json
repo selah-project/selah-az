@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 5:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Onları təqsirli hesab et, Elohim; öz məsləhətlərindən düşsünlər; üsyanlarının çoxluğu ilə onları qov, çünki Sənə qarşı üsyan etdilər.",
+  "tokens": [
+    {
+      "surface": "האשימם",
+      "gloss": "onları təqsirli hesab et"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "düşsünlər"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "öz məsləhətlərindən"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "çoxluğu ilə"
+    },
+    {
+      "surface": "פשעיהם",
+      "gloss": "üsyanlarının"
+    },
+    {
+      "surface": "הדיחמו",
+      "gloss": "onları qov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "üsyan etdilər"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Sənə qarşı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:00:33.704929105Z",
+  "model": "glm-5.3"
+}

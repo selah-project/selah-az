@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 3:15",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və düşmənlik qoyacağam səninlə qadının arasında, sənin nəslinlə onun nəslinin arasında; o, başını əzəcək, sən isə onun dabanını sancacaqsan.",
+  "tokens": [
+    {
+      "surface": "ואיבה",
+      "gloss": "və düşmənlik"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "qoyacağam"
+    },
+    {
+      "surface": "בינך",
+      "gloss": "səninlə"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "qadının"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "və arasında"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "sənin nəslin"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "və arasında"
+    },
+    {
+      "surface": "זרעה",
+      "gloss": "onun nəsli"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ישופך",
+      "gloss": "başını əzəcək"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "baş"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "sən isə"
+    },
+    {
+      "surface": "תשופנו",
+      "gloss": "onun dabanını sancacaqsan"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "daban"
+    }
+  ],
+  "timestamp": "2026-09-01T09:46:30.336005248Z",
+  "model": "glm-5.3"
+}

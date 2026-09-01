@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və onu götürdü və onu anasının yanına gətirdi, və o, günortaya qədər dizlərinin üstündə oturdu və öldü.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "onu götürdü"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "onu gətirdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "anası⟨nın⟩"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "oturdu"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "dizlərinin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "günorta⟨ya⟩"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "və öldü"
+    }
+  ],
+  "timestamp": "2026-09-01T12:30:52.511746071Z",
+  "model": "glm-5.3"
+}

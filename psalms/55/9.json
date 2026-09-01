@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 55,
+  "translation": "Tez bir sığınacaq tapardım ⟨üçün⟩ özümə, qasırğalı küləkdən, tufandan.",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "tez ⟨tapardım⟩"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "sığınacaq"
+    },
+    {
+      "surface": "לי",
+      "gloss": "özümə"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "küləkdən"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "qasırğalı"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "tufandan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:17:58.508550924Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 20:14",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Və Ahab dedi: «Kim ⟨ilə⟩?» Və dedi: «Belə deyir Yahve: vilayət sərkərdələrinin cavanları ⟨ilə».» Və dedi: «Döyüşü kim başlayacaq?» Və dedi: «⟨Sən».»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "במי",
+      "gloss": "kim ⟨ilə⟩"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "כה",
+      "gloss": "belə"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בנערי",
+      "gloss": "cavanları ⟨ilə⟩"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "sərkərdələrinin"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "vilayət"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יאסר",
+      "gloss": "başlayacaq"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "döyüşü"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    }
+  ],
+  "timestamp": "2026-09-01T12:24:29.533811510Z",
+  "model": "glm-5.3"
+}

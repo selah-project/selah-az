@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 23:19",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "El ⟨kişi⟩ deyil ki yalan söyləsin, insan oğlu ⟨ki⟩ peşman olsun. O dedi — və etməz? O danışdı — və onu yerinə yetirməz?",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "deyil"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kişi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויכזב",
+      "gloss": "ki yalan söyləsin"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "və oğlu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "ויתנחם",
+      "gloss": "ki peşman olsun"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "O"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və etməz"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "etməz"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "və danışdı"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... yox"
+    },
+    {
+      "surface": "יקימנה",
+      "gloss": "yerinə yetirməz"
+    }
+  ],
+  "timestamp": "2026-09-01T10:41:42.965719384Z",
+  "model": "glm-5.3"
+}

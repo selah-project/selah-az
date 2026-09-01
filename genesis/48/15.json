@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 48:15",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 48,
+  "translation": "Və ⟨o⟩ Yosefi xeyir-dua verdi və dedi: «Elohim, onun önündə atalarım — Avraham və Yitzhak — gəzmişdilər; Elohim, məni varlığımdan ⟨את⟩ bu günə qədər otaran",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "xeyir-dua verdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosefi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "התהלכו",
+      "gloss": "gəzmişdilər"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "atalarım"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "onun önündə"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויצחק",
+      "gloss": "və Yitzhak"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "otaran"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ məni",
+      "marks": "məni varlığımdan"
+    },
+    {
+      "surface": "מעודי",
+      "gloss": "varlığımdan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bu günə"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-09-01T10:02:57.913159490Z",
+  "model": "glm-5.3"
+}

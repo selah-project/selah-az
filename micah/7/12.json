@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 7:12",
+  "book": "micah",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "O gün sənin yanına gələcəklər — Aşşurdan və möhkəm şəhərlərdən, Matsordan çayınadək, dənizdən dənizə və dağdan dağa.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ועדיך",
+      "gloss": "sənin yanına"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "gələcəklər"
+    },
+    {
+      "surface": "למני",
+      "gloss": "—dan"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşşur"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "və şəhərlərindən"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "möhkəm"
+    },
+    {
+      "surface": "ולמני",
+      "gloss": "və —dan"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "Matsor"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "— qədər"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "çay"
+    },
+    {
+      "surface": "וים",
+      "gloss": "və dənizdən"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dənizə"
+    },
+    {
+      "surface": "והר",
+      "gloss": "və dağdan"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "dağa"
+    }
+  ],
+  "timestamp": "2026-09-01T14:48:09.377364900Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 30:30",
+  "book": "job",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Dərim ⟨qara⟩ oldu üstümdə, sümüklərim quraqlıqdan yandı.",
+  "tokens": [
+    {
+      "surface": "עורי",
+      "gloss": "dərim"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "qaraldı"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "üstümdə"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "sümüklərim"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "yandı"
+    },
+    {
+      "surface": "מני",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "quraqlıqdan"
+    }
+  ],
+  "timestamp": "2026-09-01T16:15:30.273576498Z",
+  "model": "glm-5.3"
+}

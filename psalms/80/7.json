@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 80:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 80,
+  "translation": "Bizi qonşularımızla mübahisə ⟨qoyubsan⟩, və düşmənlərimiz bizi məsxərəyə qoyurlar.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "bizi qoyursan"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "mübahisə"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "qonşularımıza"
+    },
+    {
+      "surface": "ואיבינו",
+      "gloss": "və düşmənlərimiz"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "məsxərəyə qoyurlar"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨onları⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T15:27:50.796897357Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 1:8",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və qalan Sionun qızı bağçadakı çiy kimi, xiyar tarlasındakı sığınacaq kimi, mühasirəyə alınmış şəhər kimi qalıb.",
+  "tokens": [
+    {
+      "surface": "ונותרה",
+      "gloss": "qalan... qalıb"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qızı"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sionun"
+    },
+    {
+      "surface": "כסכה",
+      "gloss": "çiy kimi"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "bağçadakı"
+    },
+    {
+      "surface": "כמלונה",
+      "gloss": "sığınacaq kimi"
+    },
+    {
+      "surface": "במקשה",
+      "gloss": "xiyar tarlasındakı"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "şəhər kimi"
+    },
+    {
+      "surface": "נצורה",
+      "gloss": "mühasirəyə alınmış"
+    }
+  ],
+  "timestamp": "2026-09-01T12:46:06.287152253Z",
+  "model": "glm-5.3"
+}

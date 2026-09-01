@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 1:9",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və dedi: Adını Lo-Ammi qoy ⟨⟨çünki⟩⟩ siz mənim xalqım deyilsiniz və mən də sizin ⟨üçün⟩ olmayacağam.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Və dedi"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "qoy (adını çağır)"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "onun adı"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ammi (mənim xalqım)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "deyil"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mənim xalqım"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "və mən"
+    },
+    {
+      "surface": "לא",
+      "gloss": "olmayacağam"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "⟨olacağam⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T14:32:51.563227549Z",
+  "model": "glm-5.3"
+}

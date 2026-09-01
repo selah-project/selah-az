@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Və təmizləyən kohen ⟨את⟩ təmizlənən adamı və onları Yahvenin önündə, görüş çadırının girişində durduraq.",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "və durturaq"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "təmizləyən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "təmizlənən adamı"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "təmizlənən"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "⟨את⟩ onları",
+      "marks": "Yahvenin önündə dayananlar"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önündə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "girişində"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadırının"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "görüş"
+    }
+  ],
+  "timestamp": "2026-09-01T10:26:03.455663590Z",
+  "model": "glm-5.3"
+}

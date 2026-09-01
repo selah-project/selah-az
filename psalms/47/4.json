@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 47,
+  "translation": "Xalqları bizim altımıza dəbdə edər, ulusları ayaqlarımızın altına.",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "dəbdə edər"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "Xalqları"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "bizim altımıza"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "ulusları"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altına"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "ayaqlarımızın"
+    }
+  ],
+  "timestamp": "2026-09-01T15:16:15.353185840Z",
+  "model": "glm-5.3"
+}

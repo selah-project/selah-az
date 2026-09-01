@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 12:2",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Və səni böyük bir xalq edəcəyəm, və səni mübarək edəcəyəm, və adını böyüdəcəyəm; və ⟨sən⟩ mübarəklik ol.",
+  "tokens": [
+    {
+      "surface": "ואעשך",
+      "gloss": "və səni edəcəyəm"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "bir xalq ⟨kimi⟩"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "ואברכך",
+      "gloss": "və səni mübarək edəcəyəm"
+    },
+    {
+      "surface": "ואגדלה",
+      "gloss": "və böyüdəcəyəm"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "adını"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "və ol"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "mübarəklik"
+    }
+  ],
+  "timestamp": "2026-09-01T09:49:06.619024282Z",
+  "model": "glm-5.3"
+}

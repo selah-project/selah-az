@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 51,
+  "translation": "Mənə lütflə yanaş, Elohim, hesed-inə görə; rəhmətlərinin çoxluğuna görə üsyanlarımı sil.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "mənə lütflə yanaş"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "hesed-inə görə"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "çoxluğuna görə"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "rəhmətlərinin"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "sil"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "üsyanlarımı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:18:58.811845535Z",
+  "model": "glm-5.3"
+}

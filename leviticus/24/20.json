@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Sınıq sınağın qarşılığında, göz gözün qarşılığında, diş dişin qarşılığında; insana nə qüsur veribsə, ona da elə veriləcək.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "Sınıq"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "qarşılığında"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "sınağın"
+    },
+    {
+      "surface": "עין",
+      "gloss": "göz"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "qarşılığında"
+    },
+    {
+      "surface": "עין",
+      "gloss": "gözün"
+    },
+    {
+      "surface": "שן",
+      "gloss": "diş"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "qarşılığında"
+    },
+    {
+      "surface": "שן",
+      "gloss": "dişin"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nə"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "veribsə"
+    },
+    {
+      "surface": "מום",
+      "gloss": "qüsur"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "insana"
+    },
+    {
+      "surface": "כן",
+      "gloss": "elə"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "veriləcək"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-09-01T10:30:21.245172123Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 135,
+  "translation": "Tərif deyin Yah-a, çünki Yahve yaxşıdır; Adına zümzləyin, çünki ⟨o⟩ xoştərdir.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Tərif deyin"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşıdır"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "zümzləyin"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "Adına"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "xoştərdir"
+    }
+  ],
+  "timestamp": "2026-09-01T15:43:17.632854542Z",
+  "model": "glm-5.3"
+}

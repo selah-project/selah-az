@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 139,
+  "translation": "Və gör əgər məndə iztirablı bir yol varsa, və məni əbədi yolda yönəlt.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "və gör"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yol"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "iztirablı"
+    },
+    {
+      "surface": "בי",
+      "gloss": "məndə"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "və məni yönəlt"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolda"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "əbədi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:44:17.773275842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 43:24",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 43,
+  "translation": "Mənə gümüşlə şirin qamış satın almadın, və qurbanlarının yağı ilə məni doydurmadın; ancaq günahlarırla məni xidmətə məcbur etdin, tüğyanlarırla məni yordun.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "satın almadın"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "gümüşlə"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "şirin qamış"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "və ... yağı"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "qurbanlarının"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "הרויתני",
+      "gloss": "məni doydurmadın"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ancaq"
+    },
+    {
+      "surface": "העבדתני",
+      "gloss": "məni xidmətə məcbur etdin"
+    },
+    {
+      "surface": "בחטאותיך",
+      "gloss": "günahlarırla"
+    },
+    {
+      "surface": "הוגעתני",
+      "gloss": "məni yordun"
+    },
+    {
+      "surface": "בעונתיך",
+      "gloss": "tüğyanlarırla"
+    }
+  ],
+  "timestamp": "2026-09-01T13:07:35.755847967Z",
+  "model": "glm-5.3"
+}

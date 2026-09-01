@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 11:11",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "və ⟨o⟩ ölkə ki, siz ora keçib onu mənimsəmək üçün — dağlar və dərələr ölkəsidir, göyün yağışından su içir.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "və ⟨o⟩ ölkə"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "keçib"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ora"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "onu mənimsəmək üçün"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ölkəsidir"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dağlar"
+    },
+    {
+      "surface": "ובקעת",
+      "gloss": "və dərələr"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "yağışından"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göyün"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "içir"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    }
+  ],
+  "timestamp": "2026-09-01T10:49:16.823995389Z",
+  "model": "glm-5.3"
+}

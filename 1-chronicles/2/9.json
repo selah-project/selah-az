@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və Xetsronun ona doğulan oğulları: ⟨את⟩ Yerahmeel, ⟨את⟩ Ram və ⟨את⟩ Kelubay.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "və oğulları"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Xetsronun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "doğulan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerahmeel"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Yerahmeel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ram"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ram"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kelubay"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "Kelubay"
+    }
+  ],
+  "timestamp": "2026-09-01T17:00:28.186345854Z",
+  "model": "glm-5.3"
+}

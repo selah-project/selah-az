@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 30:20",
+  "book": "job",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Sənə fəryad edirəm, amma məni cavablandırmırsan; dururam, ⟨sən⟩ mənə tamaşa edirsən.",
+  "tokens": [
+    {
+      "surface": "אשוע",
+      "gloss": "fəryad edirəm"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma yox"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "məni cavablandırmırsan"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "dururam"
+    },
+    {
+      "surface": "ותתבנן",
+      "gloss": "və tamaşa edirsən"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mənə"
+    }
+  ],
+  "timestamp": "2026-09-01T16:15:26.253218146Z",
+  "model": "glm-5.3"
+}

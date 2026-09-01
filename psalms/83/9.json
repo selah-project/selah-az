@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 83,
+  "translation": "Əşşur də onlarla birləşdi, Lut oğullarına qol ⟨oldular⟩. Səla.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "də"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Əşşur"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "birləşdi"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "onlarla"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨oldular⟩"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "qol"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oğullarına"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lut"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Səla"
+    }
+  ],
+  "timestamp": "2026-09-01T15:27:06.723259143Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 8:14",
+  "book": "judges",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Sukkot adamlarından bir gənci tutdu və ondan soruşdu; o, ona Sukkotun sərkərdələrini ⟨את⟩ və onun ağsaqqallarını ⟨את⟩ yazıb göstərdi — yetmiş yeddi nəfər.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "tutdu"
+    },
+    {
+      "surface": "נער",
+      "gloss": "gənci"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "adamlarından"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "וישאלהו",
+      "gloss": "ondan soruşdu"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "yazıb göstərdi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sukkotun sərkərdələrini"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "sərkərdələrini"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkotun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "onun ağsaqqallarını"
+    },
+    {
+      "surface": "זקניה",
+      "gloss": "ağsaqqallarını"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "yetmiş"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "yeddi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nəfər"
+    }
+  ],
+  "timestamp": "2026-09-01T11:20:44.376648190Z",
+  "model": "glm-5.3"
+}

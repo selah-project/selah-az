@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 8:17",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və ⟨את⟩ buğanı, ⟨את⟩ dərisini, ⟨את⟩ ətini və ⟨את⟩ nəcisini odlar yandırdı düşərgənin xaricində, necə ki Yahve Moşeyə əmr etdi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "buğanı"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "buğa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dərisini"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "dərisi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ətini"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "əti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nəcisini"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "nəcisi"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "yandırdı"
+    },
+    {
+      "surface": "באש",
+      "gloss": "odla"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "xaricində"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "düşərgənin"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "necə ki"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "əmr etdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşeyə"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    }
+  ],
+  "timestamp": "2026-09-01T10:24:45.450904991Z",
+  "model": "glm-5.3"
+}

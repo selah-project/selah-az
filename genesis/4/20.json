@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Ada ⟨את⟩ Yavalı doğdu; o, çadırdə yaşayanların və mal-qaranın atası oldu.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "doğdu"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yavalı"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "Yavalı"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atası"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "yaşayanların"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadırdə"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "mal-qaranın"
+    }
+  ],
+  "timestamp": "2026-09-01T09:46:19.072171795Z",
+  "model": "glm-5.3"
+}

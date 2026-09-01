@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 6:7",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Və dedi: Qaldır özün üçün; və ⟨o⟩ əlini uzatdı və onu götürdü.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Və dedi"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "Qaldır"
+    },
+    {
+      "surface": "לך",
+      "gloss": "özün üçün"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "uzatdı"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "əlini"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "onu götürdü"
+    }
+  ],
+  "timestamp": "2026-09-01T12:29:51.749957245Z",
+  "model": "glm-5.3"
+}

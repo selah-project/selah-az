@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 34:3",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 34,
+  "translation": "Və canı Yaakovun qızı Dinaya bağlandı, və o gənc qızı sevdə ⟨את⟩ və gənc qızın ürəyinə danışdı.",
+  "tokens": [
+    {
+      "surface": "ותדבק",
+      "gloss": "bağlandı"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "canı"
+    },
+    {
+      "surface": "בדינה",
+      "gloss": "Dinaya"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qızı"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovun"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "sevdə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gənc qızı"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "gənc qızı"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "danışdı"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ürəyinə"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "gənc qızın"
+    }
+  ],
+  "timestamp": "2026-09-01T09:58:04.713063971Z",
+  "model": "glm-5.3"
+}

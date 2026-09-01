@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 8:18",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Sərvət və izzət ⟨את⟩ yanımdadır; əzəli mal və ədalət ⟨var⟩.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "sərvət"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "və izzət"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ yanımda",
+      "marks": "sərvət və izzət"
+    },
+    {
+      "surface": "הון",
+      "gloss": "mal"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "əzəli"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "və ədalət"
+    }
+  ],
+  "timestamp": "2026-09-01T15:50:47.699851667Z",
+  "model": "glm-5.3"
+}

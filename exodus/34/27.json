@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 34:27",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 34,
+  "translation": "Və Yahve Moşeyə dedi: «Özün üçün ⟨את⟩ bu sözləri yaz, çünki bu sözlərin məzmununa görə mən sənlə ⟨את⟩ və İsrail ilə ⟨את⟩ əhd bağladım.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Və dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-yə"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "yaz"
+    },
+    {
+      "surface": "לך",
+      "gloss": "özün üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu sözləri"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sözləri"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "על",
+      "gloss": "-in məzmununa görə"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağız"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sözlərin"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "bağladım"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "sənlə ⟨את⟩"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "əhd"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    }
+  ],
+  "timestamp": "2026-09-01T10:20:06.303924369Z",
+  "model": "glm-5.3"
+}

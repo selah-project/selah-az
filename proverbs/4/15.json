@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 4:15",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Ondan kənara çək, üstündən keçmə; ondan yayın keçib get.",
+  "tokens": [
+    {
+      "surface": "פרעהו",
+      "gloss": "ondan kənara çək"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "keçmə"
+    },
+    {
+      "surface": "בו",
+      "gloss": "üstündən"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "yayın"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "ועבור",
+      "gloss": "və keçib get"
+    }
+  ],
+  "timestamp": "2026-09-01T15:48:43.035238535Z",
+  "model": "glm-5.3"
+}

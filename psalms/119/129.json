@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 129,
+  "ref": "psalms 119:129",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Pe. ⟨Sənin⟩ şəhadətlərin möcüzəvidir, buna görə canım onları qoruyur.",
+  "tokens": [
+    {
+      "surface": "פלאות",
+      "gloss": "möcüzəvidir"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "şəhadətlərin"
+    },
+    {
+      "surface": "על",
+      "gloss": "buna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "görə"
+    },
+    {
+      "surface": "נצרתם",
+      "gloss": "onları qoruyur"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:51.954370510Z",
+  "model": "glm-5.3"
+}

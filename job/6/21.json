@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 6:21",
+  "book": "job",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Çünki indi siz ⟨heç⟩ nə oldunuz; dəhşəti görürsünüz və qorxursunuz.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "indi"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "oldunuz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨heç⟩ ... nə"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "görürsünüz"
+    },
+    {
+      "surface": "חתת",
+      "gloss": "dəhşəti"
+    },
+    {
+      "surface": "ותיראו",
+      "gloss": "və qorxursunuz"
+    }
+  ],
+  "timestamp": "2026-09-01T16:04:06.633430205Z",
+  "model": "glm-5.3"
+}

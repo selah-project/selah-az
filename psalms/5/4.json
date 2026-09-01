@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 5:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Yahve, səhər səsimi eşidəcəksən; səhər ⟨duamı⟩ sənin üçün düzəcəyəm və gözləyəcəyəm.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "səhər"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "eşidəcəksən"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "səsimi"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "səhər"
+    },
+    {
+      "surface": "אערך",
+      "gloss": "düzəcəyəm"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənin üçün"
+    },
+    {
+      "surface": "ואצפה",
+      "gloss": "və gözləyəcəyəm"
+    }
+  ],
+  "timestamp": "2026-09-01T15:01:10.810407271Z",
+  "model": "glm-5.3"
+}

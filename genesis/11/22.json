@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Səruq otuz il yaşadı və ⟨את⟩ Naxoru doğdu.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "yaşadı"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Səruq"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "otuz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "il"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "doğdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naxoru"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Naxoru"
+    }
+  ],
+  "timestamp": "2026-09-01T09:48:27.478210977Z",
+  "model": "glm-5.3"
+}

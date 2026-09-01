@@ -1,0 +1,137 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 35:5",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "Və şəhərin xaricində ölçəcəksiniz: şərq tərəfini ⟨את⟩ iki min qulacdır, cənub tərəfini ⟨את⟩ iki min qulacdır, qərb tərəfini ⟨את⟩ iki min qulacdır, şimal tərəfini ⟨את⟩ iki min qulacdır, şəhər isə ortada olacaq; bu, onlara şəhərlərin kənar torpaqları olacaqdır.",
+  "tokens": [
+    {
+      "surface": "ומדתם",
+      "gloss": "ölçəcəksiniz"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "xaricində"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "şəhərin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tərəfini (şərq tərəfini)"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "tərəfi"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "şərq"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "iki min"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "qulacdır"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tərəfini (cənub tərəfini)"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "tərəfi"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "cənub"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "iki min"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "qulacdır"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tərəfini (qərb tərəfini)"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "tərəfi"
+    },
+    {
+      "surface": "ים",
+      "gloss": "qərb"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "iki min"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "qulacdır"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tərəfini (şimal tərəfini)"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "tərəfi"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "şimal"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "iki min"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "qulacdır"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "şəhər isə"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ortada"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacaqdır"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "מגרשי",
+      "gloss": "kənar torpaqları"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "şəhərlərin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:45:18.601289169Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 121,
+  "translation": "Köməyim ⟨-dəndir⟩ Yahvedən — göyləri və yeri Yaradan.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "köməyim"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "⟨-dən⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Yaradan"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "göyləri"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "və yeri"
+    }
+  ],
+  "timestamp": "2026-09-01T15:41:52.704479334Z",
+  "model": "glm-5.3"
+}

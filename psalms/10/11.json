@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Qəlbində dedi: \"El unutdu, üzünü gizlətdi, heç vaxt görməz.\"",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "qəlbində"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "unutdu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "gizlətdi"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "üzünü"
+    },
+    {
+      "surface": "בל",
+      "gloss": "heç vaxt"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "görməz"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "sonadək"
+    }
+  ],
+  "timestamp": "2026-09-01T15:03:34.708503558Z",
+  "model": "glm-5.3"
+}

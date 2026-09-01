@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 22:24",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Yahvedən qorxanlar, Onu tərifləyin; Yaakovun bütün nəsli Onu izzətləndirin; və İsrailin bütün nəslindən ⟨Ondan⟩ qorxun.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "qorxanlar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "Onu tərifləyin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "nəsli"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovun"
+    },
+    {
+      "surface": "כבדוהו",
+      "gloss": "Onu izzətləndirin"
+    },
+    {
+      "surface": "וגורו",
+      "gloss": "və qorxun"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "⟨Ondan⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "nəsli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:06:23.381497845Z",
+  "model": "glm-5.3"
+}

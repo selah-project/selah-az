@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 20:11",
+  "book": "job",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Sümükləri öz gəncliyi ilə doludur, ⟨o⟩ isə tozun üstündə ⟨onunla⟩ uzanacaq.",
+  "tokens": [
+    {
+      "surface": "עצמותיו",
+      "gloss": "onun sümükləri"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "doludur"
+    },
+    {
+      "surface": "עלומו",
+      "gloss": "öz gəncliyi ilə"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "⟨onunla⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "tozun"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "uzanacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T16:10:46.026419443Z",
+  "model": "glm-5.3"
+}

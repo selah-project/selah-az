@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 10:21",
+  "book": "job",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Mən gedərəm və qayıtmaram — ⟨o⟩ qaranlığın və ölüm-kölgəsinin torpağına.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "⟨mən⟩"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "gedərəm"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və... yox"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "qayıtmaram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨o⟩ ... -a"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "torpağına"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "qaranlığın"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "və ölüm-kölgəsinin"
+    }
+  ],
+  "timestamp": "2026-09-01T16:06:38.695873189Z",
+  "model": "glm-5.3"
+}

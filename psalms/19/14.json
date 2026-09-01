@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 19:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Həm ⟨qəsdən edilən⟩ günahlardan qulu saxla, onlar məndə hökm sürməsin; ⟨o zaman⟩ mən kamal ⟨taparam⟩ və çox üsyandan təmiz çıxaram.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "həm"
+    },
+    {
+      "surface": "מזדים",
+      "gloss": "⟨qəsdən edilən⟩ günahlardan"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "saxla"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "qulun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ימשלו",
+      "gloss": "hökm sürməsin"
+    },
+    {
+      "surface": "בי",
+      "gloss": "məndə"
+    },
+    {
+      "surface": "אז",
+      "gloss": "⟨o zaman⟩"
+    },
+    {
+      "surface": "איתם",
+      "gloss": "kamal ⟨taparam⟩"
+    },
+    {
+      "surface": "ונקיתי",
+      "gloss": "və təmiz çıxaram"
+    },
+    {
+      "surface": "מפשע",
+      "gloss": "üsyandan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "çox"
+    }
+  ],
+  "timestamp": "2026-09-01T15:05:57.703762697Z",
+  "model": "glm-5.3"
+}

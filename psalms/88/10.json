@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 88,
+  "translation": "Gözüm dərdimdən sönür; səni çağırdım, ey Yahve, hər gün, əllərimi sənə doğru açdım.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "gözüm"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "sönür"
+    },
+    {
+      "surface": "מני",
+      "gloss": "‑dan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "dərdim"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "səni çağırdım"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "açdım"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sənə doğru"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "əllərimi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:30.541974954Z",
+  "model": "glm-5.3"
+}

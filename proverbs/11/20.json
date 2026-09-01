@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 11:20",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Yahvenin iyrənci ürəyi əyri olanlardır, Onun xoşnalığı isə yolda kamillərdir.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "iyrənci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "עקשי",
+      "gloss": "əyri olanlar"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ürəyi"
+    },
+    {
+      "surface": "ורצונו",
+      "gloss": "Onun xoşnalığı isə"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "kamillər"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yolda"
+    }
+  ],
+  "timestamp": "2026-09-01T15:51:54.604430132Z",
+  "model": "glm-5.3"
+}

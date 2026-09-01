@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 23:20",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Və orada məzbəhlər üzərində olan bütün bama kahinlərini ⟨את⟩ qurban kəsdi və insan sümüklərini onların üzərində yandırdı və Yeruşalayimə qayıtdı.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "və qurban kəsdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün bama kahinlərini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "kahinlərini"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "bama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərində"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "məzbəhlərin"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "və yandırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "insan sümüklərini"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "sümüklərini"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "onların üzərində"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "və qayıtdı"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayimə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:44:18.678363653Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Yandırma qurbanının kəsildiyi yerdə ⟨את⟩ günah qurbanını kəssinlər, onun ⟨את⟩ qanını isə qurbangahın ətrafına səpsin.",
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "yerdə"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "harada ki"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "kəsirlər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yandırma qurbanı"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yandırma qurbanı"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "kəssinlər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "günah qurbanı"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "günah qurbanı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "qanını"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "səpsin"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "qurbangahın"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ətrafına"
+    }
+  ],
+  "timestamp": "2026-09-01T10:23:23.879859544Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 45:8",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 45,
+  "translation": "İndi isə məni ⟨את⟩ bura siz yox, Elohim göndərdi; ⟨O⟩ məni Paro üçün ata, bütün evi üçün ağa və bütün Mitsrayim torpağında hökmdar etdi.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "indi isə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "שלחתם",
+      "gloss": "göndərdiniz"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ məni",
+      "marks": "bura (birbaşa obyekt: məni)"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bura"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וישימני",
+      "gloss": "və məni etdi"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "ata"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Paro üçün"
+    },
+    {
+      "surface": "ולאדון",
+      "gloss": "və ağa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "evi üçün"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "və hökmdar"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "torpağında"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T10:02:18.579408445Z",
+  "model": "glm-5.3"
+}

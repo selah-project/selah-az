@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "Və Moşe levililərə — Yahve əhd sandığının daşıyıcılarına — ⟨את⟩ əmr verdi, deyərək:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "əmr verdi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "levililərə"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levililərə"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "daşıyıcılarına"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandığının"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "əhd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    }
+  ],
+  "timestamp": "2026-09-01T10:59:49.299560719Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 7:14",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Və ondan birini, bütün qurban miqdarında teruma kimi Yahveyə gətirəcək; selamotların qanını səpən kohan üçün ⟨o⟩ olacaq.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "gətirəcək"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "birini"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "qurban miqdarında"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "teruma kimi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kohan üçün"
+    },
+    {
+      "surface": "הזרק",
+      "gloss": "səpən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qan"
+    },
+    {
+      "surface": "דם",
+      "gloss": "qanı"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "selamotların"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T10:23:28.217042539Z",
+  "model": "glm-5.3"
+}

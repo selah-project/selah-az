@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 19:12",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Və zəlzələdən sonra od — odda Yahve ⟨yox idi⟩; və oddan sonra incə sükut səsi.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "və sonra"
+    },
+    {
+      "surface": "הרעש",
+      "gloss": "zəlzələdən"
+    },
+    {
+      "surface": "אש",
+      "gloss": "od"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "באש",
+      "gloss": "odda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "və sonra"
+    },
+    {
+      "surface": "האש",
+      "gloss": "odda"
+    },
+    {
+      "surface": "קול",
+      "gloss": "səs"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "sükut"
+    },
+    {
+      "surface": "דקה",
+      "gloss": "incə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:24:40.224321560Z",
+  "model": "glm-5.3"
+}

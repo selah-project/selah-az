@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 32:35",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "və Atrot-Şofanı ⟨את⟩ və Yazeri ⟨את⟩ və Yoqbehahı ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "Atrot-Şofan"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Atrot"
+    },
+    {
+      "surface": "שופן",
+      "gloss": "Şofanı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "Yazer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yazeri"
+    },
+    {
+      "surface": "ויגבהה",
+      "gloss": "və Yoqbehahı"
+    }
+  ],
+  "timestamp": "2026-09-01T10:44:05.404627324Z",
+  "model": "glm-5.3"
+}

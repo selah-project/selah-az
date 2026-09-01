@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 127:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 127,
+  "translation": "Yüksəliş məqləri, Şlomo üçün. Əgər Yahve evi tikməsə, onu tikənlər ⟨onun üçün⟩ boş yerə əziyyət çəkdilər; əgər Yahve şəhəri qorumasa, qoruyan boş yerə oyaq qaldı.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "məqəm"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "yüksəlişlərin"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Şlomo üçün"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "tikməsə"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "boş yerə"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "əziyyət çəkdilər"
+    },
+    {
+      "surface": "בוניו",
+      "gloss": "onu tikənlər"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onun üçün"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "qorumasa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şəhər"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "boş yerə"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "oyaq qaldı"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "qoruyan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:43:33.100623718Z",
+  "model": "glm-5.3"
+}

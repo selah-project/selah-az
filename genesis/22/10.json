@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Və Avraham əlini uzatdı və bıçağı götürdü — oğlunu kəsmək üçün.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "uzatdı"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əlini"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "əlini"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "götürdü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bıçağı"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "bıçağı"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "kəsmək üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oğlunu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlunu"
+    }
+  ],
+  "timestamp": "2026-09-01T09:51:39.076135596Z",
+  "model": "glm-5.3"
+}

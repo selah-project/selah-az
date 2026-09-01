@@ -1,0 +1,138 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 4:8",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Bir kəs var, ikincisi yoxdur; ona nə oğul, nə qardaş var; bütün əməyinin sonuna da yoxdur; gözləri də var-dövlətlə doymur: 'Mən kimin üçün əziyyət çəkirəm və canımı yaxşılıqdan məhrum edirəm?' Bu da puçluqdur, pis bir ⟨işdir⟩.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "var"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir kəs"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "və ... yoxdur"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ikincisi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nə ... nə"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "ואח",
+      "gloss": "qardaş"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "sonu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "əməyinin"
+    },
+    {
+      "surface": "גם",
+      "gloss": "də"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "gözləri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "doymur"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "doymur"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "var-dövlətlə"
+    },
+    {
+      "surface": "ולמי",
+      "gloss": "kimin üçün"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "əziyyət çəkirəm"
+    },
+    {
+      "surface": "ומחסר",
+      "gloss": "və ... məhrum edirəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "canımı"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "מטובה",
+      "gloss": "yaxşılıqdan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bu da"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "puçluqdur"
+    },
+    {
+      "surface": "וענין",
+      "gloss": "və ... ⟨işdir⟩"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pis"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-09-01T16:30:01.535018266Z",
+  "model": "glm-5.3"
+}

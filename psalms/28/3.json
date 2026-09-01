@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "Məni şərlilərlə birgə çəkmə, pislik işləyənlərlə birgə; ⟨onlar ki⟩ yoldaşları ilə salam danışır, qəlblərində isə pislikdir.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "çəkmə"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "məni"
+    },
+    {
+      "surface": "עם",
+      "gloss": "birgə"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "şərlilərlə"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "birgə"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "işləyənlərlə"
+    },
+    {
+      "surface": "און",
+      "gloss": "pislik"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "danışır"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "yoldaşları"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "pislik"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "qəlblərində"
+    }
+  ],
+  "timestamp": "2026-09-01T15:09:36.871510118Z",
+  "model": "glm-5.3"
+}

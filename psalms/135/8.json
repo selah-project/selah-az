@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 135,
+  "translation": "Ki, ⟨o⟩ Mitsrayimin bəkərlərini — insandan heyvanadək — vurdu.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "ki, vurdu"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "bəkərlərini"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimin"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "insandan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dək"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "heyvanadək"
+    }
+  ],
+  "timestamp": "2026-09-01T15:43:18.823072181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 22:24",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Onun kənizi — adı Reuma idi — o da ⟨את⟩ Tavaxı, ⟨את⟩ Qaxamı, ⟨את⟩ Taxaşı və ⟨את⟩ Maaxanı doğdu.",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "onun kənizi"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "adı"
+    },
+    {
+      "surface": "ראומה",
+      "gloss": "Reuma"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "o da doğdu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "da"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tavaxı"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "Tavax"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Qaxamı"
+    },
+    {
+      "surface": "גחם",
+      "gloss": "Qaxam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Taxaşı"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "Taxaş"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Maaxanı"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maaxa"
+    }
+  ],
+  "timestamp": "2026-09-01T09:51:34.339950231Z",
+  "model": "glm-5.3"
+}

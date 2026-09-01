@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 13:17",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Və oldu: Paroh ⟨את⟩ xalqı buraxanda, Elohim onları Pelişti torpağının yolu ilə aparmadı, çünki o, yaxın idi; çünki Elohim dedi: Ola bilsin ki, xalq müharibə görəndə peşman olub Mitsrayima qayıtsın.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "və oldu"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "buraxanda"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqı"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... yox"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "aparmadı"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yolu ilə"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "torpağının"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelişti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "yaxın"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ola bilsin ki"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "peşman olsun"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "görəndə"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "müharibə"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "qayıtsınlar"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrayima"
+    }
+  ],
+  "timestamp": "2026-09-01T10:09:49.348080505Z",
+  "model": "glm-5.3"
+}

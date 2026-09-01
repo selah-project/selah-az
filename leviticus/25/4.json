@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 25:4",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "yeddinci ildə isə ölkə üçün şabat, tam istirahət şabatı olacaq — Yahve üçün şabat; tarlanı əkməyəcəksən, bağını da budamayacaqsan.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "ildə isə"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "yeddinci"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "şabat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "tam istirahət"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ölkə üçün"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "şabat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve üçün"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "tarlanı"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "əkməyəcəksən"
+    },
+    {
+      "surface": "וכרמך",
+      "gloss": "və bağını"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "budamayacaqsan"
+    }
+  ],
+  "timestamp": "2026-09-01T10:31:06.994854796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 37:10",
+  "book": "job",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "El-in nəfəsindən dondurucu qırağ yaranır, və suların eni ⟨qatılaşır⟩.",
+  "tokens": [
+    {
+      "surface": "מנשמת",
+      "gloss": "nəfəsindən"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El-in"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "yaranır ⟨verilir⟩"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "dondurucu qırağ"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "və eni"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suların"
+    },
+    {
+      "surface": "במוצק",
+      "gloss": "⟨qatılaşır⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T16:16:54.240430511Z",
+  "model": "glm-5.3"
+}

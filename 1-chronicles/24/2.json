@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 24:2",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Nadav və Avihu atalarından əvvəl öldü, oğulları da onlara olmadı ⟨yox idi⟩; Elazar və Itamar kahinlik etdi.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "öldü"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadav"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "Avihu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önündə\/əvvəl"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "atalarından"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "היו",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "ויכהנו",
+      "gloss": "kahinlik etdi"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "Itamar"
+    }
+  ],
+  "timestamp": "2026-09-01T17:07:55.981363499Z",
+  "model": "glm-5.3"
+}

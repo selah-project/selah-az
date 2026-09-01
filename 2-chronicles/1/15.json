@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 1:15",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Padşah Yeruşalayimdə ⟨את⟩ gümüşü və ⟨את⟩ qızılı daşlar kimi etdi; ⟨את⟩ sidr ağaclarını isə düzənlikdəki qarağat ağacları kimi bol-bol verdi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gümüşü"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "gümüşü"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qızılı"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "qızılı"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yeruşalayimdə"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "daşlar kimi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sidr ağaclarını"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "sidr ağaclarını"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "qarağat ağacları kimi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olan"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "düzənlikdə"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "bol-bol"
+    }
+  ],
+  "timestamp": "2026-09-01T17:12:00.993236252Z",
+  "model": "glm-5.3"
+}

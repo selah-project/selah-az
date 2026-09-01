@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 32:18",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Səni doğan Qayanı tərk etdin, səni ⟨böyüdən⟩ Elı unutdun.",
+  "tokens": [
+    {
+      "surface": "צור",
+      "gloss": "Qayanı"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "səni doğan"
+    },
+    {
+      "surface": "תשי",
+      "gloss": "tərk etdin"
+    },
+    {
+      "surface": "ותשכח",
+      "gloss": "unutdun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elı"
+    },
+    {
+      "surface": "מחללך",
+      "gloss": "səni ⟨böyüdən⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T10:59:21.379897985Z",
+  "model": "glm-5.3"
+}

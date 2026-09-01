@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Üz üzlə danışdı Yahve sizinlə dağda, odun ortasından.",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "üz"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "üzlə"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "danışdı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "sizinlə"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "dağda"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ortasından"
+    },
+    {
+      "surface": "האש",
+      "gloss": "odun"
+    }
+  ],
+  "timestamp": "2026-09-01T10:47:27.952207584Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 1:10",
+  "book": "ruth",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Onlar isə ona dedilər: «Xeyr, biz səninlə birlikdə sənin xalqına qayıdacağıq».",
+  "tokens": [
+    {
+      "surface": "ותאמרנה",
+      "gloss": "və dedilər"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨Xeyr⟩ çünki"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ səninlə"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "qayıdacağıq"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "sənin xalqına"
+    }
+  ],
+  "timestamp": "2026-09-01T16:23:39.131619990Z",
+  "model": "glm-5.3"
+}

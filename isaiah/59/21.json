@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 59:21",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 59,
+  "translation": "Mənə gəlincə — bu, onlarla ⟨את⟩ mənim əhdlərimdir, — deyir Yahve, — sənin üstündə olan ruhum və ağzına qoyduğum sözlərim ağzından, nəslinin ağzından və nəslinin nəslinin ağzından əskilməyəcək, deyir Yahve, bundan sonra və əbədiyədək.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Mənə gəlincə"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "əhdlərim"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "onlarla (əhd)"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruhum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olan"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sənin üstündə"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "və sözlərim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "qoyduğum"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "ağzına"
+    },
+    {
+      "surface": "לא",
+      "gloss": "əskilməyəcək"
+    },
+    {
+      "surface": "ימושו",
+      "gloss": "yox"
+    },
+    {
+      "surface": "מפיך",
+      "gloss": "ağzından"
+    },
+    {
+      "surface": "ומפי",
+      "gloss": "və ağzından"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "nəslinin"
+    },
+    {
+      "surface": "ומפי",
+      "gloss": "və ağzından"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "nəslinin"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "nəslinin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "bundan sonra"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "və ...yədək"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "əbədi"
+    }
+  ],
+  "timestamp": "2026-09-01T13:16:11.306750178Z",
+  "model": "glm-5.3"
+}

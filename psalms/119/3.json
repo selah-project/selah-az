@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Həqiqətən ⟨onlar⟩ haqsızlıq etmədilər, Onun yollarında gəzdilər.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Həqiqətən"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "etmədilər"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "haqsızlıq"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "Onun yollarında"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "gəzdilər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:37.802034175Z",
+  "model": "glm-5.3"
+}

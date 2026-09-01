@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 4:22",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Çünki mən bu torpaqda ölürəm, mən ⟨את⟩ Yardeni keçmirəm; siz isə keçirsiniz və bu yaxşı torpağı miras alırsınız.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mən"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ölürəm"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "torpaqda"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "deyiləm"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "keçən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardeni"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardeni"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "siz isə"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "keçirsiniz"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "miras alırsınız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu yaxşı torpağı"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "torpağı"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "yaxşı"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-09-01T10:47:25.254665680Z",
+  "model": "glm-5.3"
+}

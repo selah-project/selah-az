@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 107,
+  "translation": "Bütün yemək onların canı üçün iyrəncdir və ölüm qapılarına çatdılar.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yemək"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "iyrəncdir"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "onların canı"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "çatdılar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ə qədər"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "qapılarına"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölüm"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:52.335118931Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 12:32",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Həm qoyunlarınızı, həm inəklərinizi götürün, dediyiniz kimi, və gedin; və həm məni ⟨את⟩ mübarəkəndə edin.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "həm"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "qoyunlarınızı"
+    },
+    {
+      "surface": "גם",
+      "gloss": "həm"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "ineklerinizi"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "götürün"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dediyiniz kimi"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": ""
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "və gedin"
+    },
+    {
+      "surface": "וברכתם",
+      "gloss": "və mübarəkəndə edin"
+    },
+    {
+      "surface": "גם",
+      "gloss": "həm də"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ məni",
+      "marks": "məni"
+    }
+  ],
+  "timestamp": "2026-09-01T10:09:40.168086077Z",
+  "model": "glm-5.3"
+}

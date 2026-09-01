@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 34:3",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 34,
+  "translation": "Onların öldürülənləri atılacaq, və cəsədlərindən pis qoxu qalxacaq, və dağlar onların qanından əriyəcək.",
+  "tokens": [
+    {
+      "surface": "וחלליהם",
+      "gloss": "və onların öldürülənləri"
+    },
+    {
+      "surface": "ישלכו",
+      "gloss": "atılacaq"
+    },
+    {
+      "surface": "ופגריהם",
+      "gloss": "və cəsədləri"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "qalxacaq"
+    },
+    {
+      "surface": "באשם",
+      "gloss": "pis qoxu"
+    },
+    {
+      "surface": "ונמסו",
+      "gloss": "və əriyəcək"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dağlar"
+    },
+    {
+      "surface": "מדמם",
+      "gloss": "onların qanından"
+    }
+  ],
+  "timestamp": "2026-09-01T13:04:22.630728949Z",
+  "model": "glm-5.3"
+}

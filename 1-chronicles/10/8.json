@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 10:8",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Ertəsi gün filiştimlilər öldürülənləri soymaq üçün gəldilər və Şaulu və oğullarını Gilboa dağında yıxılmış vəziyyətdə tapdılar. ⟨את⟩ öldürülənləri, ⟨את⟩ Şaulu və ⟨את⟩ oğullarını.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "oldu ki"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ertəsi gün"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "gəldilər"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filiştimlilər"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "soymaq üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öldürülənləri"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "öldürülənləri"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "və tapdılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şaulu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaulu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oğullarını"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "yıxılmış"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "dağında"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-09-01T17:04:06.548120100Z",
+  "model": "glm-5.3"
+}

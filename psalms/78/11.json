@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 78,
+  "translation": "Onun əməllərini unutdular — onlara göstərdiyi möcüzələrini.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "unutdular"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "əməllərini"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "möcüzələrini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ki⟩ o"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "onlara göstərdiyi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:25:58.261517951Z",
+  "model": "glm-5.3"
+}

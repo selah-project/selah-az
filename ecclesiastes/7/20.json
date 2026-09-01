@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Çünki yer üzündə saleh insan yoxdur ⟨ki⟩ yaxşılıq etsin və günah etməsin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "saleh"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yer üzündə"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ki⟩"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "etsin"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşılıq"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... etməsin"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "günah"
+    }
+  ],
+  "timestamp": "2026-09-01T18:02:41.013060382Z",
+  "model": "glm-5.3"
+}

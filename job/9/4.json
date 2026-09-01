@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 9:4",
+  "book": "job",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Ürəkdə müdrik, qüvvətdə güclüdür; ona sərtlik edən kim sağ-qalmışdır?",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "müdrik"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ürəkdə"
+    },
+    {
+      "surface": "ואמיץ",
+      "gloss": "güclüdür"
+    },
+    {
+      "surface": "כח",
+      "gloss": "qüvvətdə"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "sərtlik edən"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "וישלם",
+      "gloss": "sağ-qalmışdır"
+    }
+  ],
+  "timestamp": "2026-09-01T16:05:48.768903755Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "İsrail ümmətinin hamısı ⟨את⟩ onu edəcək.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hamısı"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ümməti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "edəcək"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu (Pesahı)"
+    }
+  ],
+  "timestamp": "2026-09-01T10:09:02.898321212Z",
+  "model": "glm-5.3"
+}

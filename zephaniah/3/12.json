@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zephaniah 3:12",
+  "book": "zephaniah",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və mən sənin ortanda yoxsul və miskin bir xalq saxlayacağam, onlar Yahvenin adına sığınacaqlar.",
+  "tokens": [
+    {
+      "surface": "והשארתי",
+      "gloss": "saxlayacağam"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "sənin ortanda"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "עני",
+      "gloss": "yoxsul"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "və miskin"
+    },
+    {
+      "surface": "וחסו",
+      "gloss": "sığınacaqlar"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "adına"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T14:51:41.410976387Z",
+  "model": "glm-5.3"
+}

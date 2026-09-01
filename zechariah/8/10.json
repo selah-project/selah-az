@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 8:10",
+  "book": "zechariah",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Çünki o günlərdən əvvəl insanın əmək haqqı yox idi, heyvanın əmək haqqı da yox idi; çıxana da gələnə də düşməndən sülh yox idi, və mən ⟨את⟩ bütün insanları, hər kəsi öz yoldaşına qarşı göndərirdim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "əvvəl"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "günlərdən"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "o"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "əmək haqqı"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insanın"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "idi"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "əmək haqqı da"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "heyvanın"
+    },
+    {
+      "surface": "איננה",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "וליוצא",
+      "gloss": "çıxana da"
+    },
+    {
+      "surface": "ולבא",
+      "gloss": "gələnə də"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yox"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sülh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "הצר",
+      "gloss": "düşmən"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "və göndərirdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün insanları"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insanları"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər kəsi"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "öz yoldaşına qarşı"
+    }
+  ],
+  "timestamp": "2026-09-01T14:55:30.640980562Z",
+  "model": "glm-5.3"
+}

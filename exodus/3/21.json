@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və mən bu xalqa Mitsrayimin gözündə ⟨את⟩ lütf verəcəyəm; və olacaq ki, siz gedəndə boş getməyəcəksiniz.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "və mən verəcəyəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lütf"
+    },
+    {
+      "surface": "חן",
+      "gloss": "lütf"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bu xalq"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "gözündə"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "və olacaq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "siz gedəndə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "gedəcəksiniz"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "boş"
+    }
+  ],
+  "timestamp": "2026-09-01T10:04:45.653880330Z",
+  "model": "glm-5.3"
+}

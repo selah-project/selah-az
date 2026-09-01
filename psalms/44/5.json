@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 44,
+  "translation": "Sən sən ki, mənim padşahım ⟨sən⟩, Elohim; Yağovuba qurtuluşlar əmr et.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sən"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sən ki"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mənim padşahım"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "əmr et"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "qurtuluşlar"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yağovub"
+    }
+  ],
+  "timestamp": "2026-09-01T15:14:22.865534414Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 9:17",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Yahve ⟨məlum oldu⟩ — məhkəmə əmələ gətirdi, öz əllərinin əməli ilə pis adam tora düşdü. Higgayon. Selah.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "məlum oldu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "məhkəmə (hökm)"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "əmələ gətirdi"
+    },
+    {
+      "surface": "בפעל",
+      "gloss": "əməli ilə"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "əllərinin"
+    },
+    {
+      "surface": "נוקש",
+      "gloss": "tora düşdü"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "pis adam"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "Higgayon"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T15:04:18.329811841Z",
+  "model": "glm-5.3"
+}

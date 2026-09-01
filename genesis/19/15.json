@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 19:15",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "və şəfəq çatanda mələklər Lota tələsdirib dedilər: qalx, aravanı və burada olan iki qızını götür, yoxsa şəhərin günahında məhv olarsan.",
+  "tokens": [
+    {
+      "surface": "וכמו",
+      "gloss": "və kimi"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "şəfəq"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "çatanda"
+    },
+    {
+      "surface": "ויאיצו",
+      "gloss": "və tələsdirib"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "mələklər"
+    },
+    {
+      "surface": "בלוט",
+      "gloss": "Lota"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dedilər"
+    },
+    {
+      "surface": "קום",
+      "gloss": "qalx"
+    },
+    {
+      "surface": "קח",
+      "gloss": "götür"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aravanı"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "aravanı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iki qızını"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iki"
+    },
+    {
+      "surface": "בנתיך",
+      "gloss": "qızını"
+    },
+    {
+      "surface": "הנמצאת",
+      "gloss": "burada olan"
+    },
+    {
+      "surface": "פן",
+      "gloss": "yoxsa"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "məhv olarsan"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "günahında"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şəhərin"
+    }
+  ],
+  "timestamp": "2026-09-01T09:51:04.625073668Z",
+  "model": "glm-5.3"
+}

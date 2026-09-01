@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 11:5",
+  "book": "daniel",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Və cənubun kralı qüvvətlənəcək, amma onun sərkərdələrindən ⟨biri⟩; və ⟨o⟩ ondan qüvvətli olub hökm sürəcək — onun hökmranlığı böyük hökmranlıqdır.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "qüvvətlənəcək"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "cənubun"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "amma onun ... -dən"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "sərkərdələrindən biri"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "qüvvətli olub"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "hökm sürəcək"
+    },
+    {
+      "surface": "ממשל",
+      "gloss": "hökmranlıq"
+    },
+    {
+      "surface": "רב",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "onun hökmranlığı"
+    }
+  ],
+  "timestamp": "2026-09-01T16:48:00.253739682Z",
+  "model": "glm-5.3"
+}

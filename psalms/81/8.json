@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 81:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 81,
+  "translation": "Sıxıntıda sən çağırdın və mən səni qurtardım; səni göy gurultusunun sirrində cavablandıracağam; səni Meriva sularında sınayacağam. Sela.",
+  "tokens": [
+    {
+      "surface": "בצרה",
+      "gloss": "sıxıntıda"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "sən çağırdın"
+    },
+    {
+      "surface": "ואחלצך",
+      "gloss": "və mən səni qurtardım"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "səni cavablandıracağam"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "sirrində"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "göy gurultusunun"
+    },
+    {
+      "surface": "אבחנך",
+      "gloss": "səni sınayacağam"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərində"
+    },
+    {
+      "surface": "מי",
+      "gloss": "suları"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meriva"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-01T15:28:07.163054002Z",
+  "model": "glm-5.3"
+}

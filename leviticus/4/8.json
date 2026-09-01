@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 4:8",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "⟨את⟩ günah qurbanı buğanın bütün piyini ondan qaldıracaq: ⟨את⟩ içəriyi örtən piyi və ⟨את⟩ içəriyin üstündəki bütün piyi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bütün piyini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "piyini"
+    },
+    {
+      "surface": "פר",
+      "gloss": "buğanın"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "günah qurbanı"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "qaldıracaq"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "piyi"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "piyi"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "örtən"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündəki"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "içəriyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bütün piyi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "piyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olan"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "içəriyin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:23:38.200852252Z",
+  "model": "glm-5.3"
+}

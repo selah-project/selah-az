@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Və padşah Damaşqdan gəldi, padşah ⟨את⟩ qurbangahı gördü, padşah qurbangaha yaxınlaşdı və onun üstündə ⟨qurban⟩ təqdim etdi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "gəldi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "Damaşqdan"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "gördü"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbangahı"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "qurbangahı"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "yaxınlaşdı"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "על",
+      "gloss": "-a"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "qurbangaha"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "təqdim etdi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üstündə"
+    }
+  ],
+  "timestamp": "2026-09-01T17:59:45.530565035Z",
+  "model": "glm-5.3"
+}

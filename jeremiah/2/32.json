@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 2:32",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Qız bəzəyini unudarmı, gəlin kəmərini? Amma xalqım məni saysız günlərdir unutdu.",
+  "tokens": [
+    {
+      "surface": "התשכח",
+      "gloss": "unudarmı"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "Qız"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "bəzəyini"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "gəlin"
+    },
+    {
+      "surface": "קשריה",
+      "gloss": "kəmərini"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "Amma xalqım"
+    },
+    {
+      "surface": "שכחוני",
+      "gloss": "məni unutdu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günlər"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨yoxdur⟩"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "saysız"
+    }
+  ],
+  "timestamp": "2026-09-01T13:21:32.889869528Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 119:71",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Mənim üçün yaxşıdır ki, əzilmişəm — ⟨belə ki⟩ qanunlarını öyrənim.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "yaxşıdır"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənim üçün"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "əzilmişəm"
+    },
+    {
+      "surface": "למען",
+      "gloss": "⟨belə ki⟩"
+    },
+    {
+      "surface": "אלמד",
+      "gloss": "öyrənim"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "qanunlarını"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:44.701705120Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 2:10",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Uşaq böyüdü və qadın onu Paronun qızının yanına gətirdi; o, ona oğul oldu. Qadın onun adını Moşe qoydu və dedi: Çünki mən onu sudan çəkib çıkardım.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "böyüdü"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "uşaq"
+    },
+    {
+      "surface": "ותבאהו",
+      "gloss": "gətirdi onu"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "qızının yanına"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paronun"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "o oldu"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "qoydu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "onun adını"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "המים",
+      "gloss": "su"
+    },
+    {
+      "surface": "משיתהו",
+      "gloss": "mən onu çəkib çıkardım"
+    }
+  ],
+  "timestamp": "2026-09-01T10:04:06.927830048Z",
+  "model": "glm-5.3"
+}

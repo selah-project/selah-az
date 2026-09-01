@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "leviticus 13:56",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Və əgər kohan baxsa və baxsa — yuyulandan sonra zərər dimginləşibsə — onu paltardan, yaxud dəridən, yaxud ərişdən, yaxud araqqan kəssinlər.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Və əgər"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "baxsa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "və baxsa"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "dimginləşibsə"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "zərər"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sonra"
+    },
+    {
+      "surface": "הכבס",
+      "gloss": "yuyulma"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu (zərərli hissəni)"
+    },
+    {
+      "surface": "וקרע",
+      "gloss": "kəssinlər"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu (zərərli hissəni)"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "paltar"
+    },
+    {
+      "surface": "או",
+      "gloss": "yaxud"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "העור",
+      "gloss": "dəri"
+    },
+    {
+      "surface": "או",
+      "gloss": "yaxud"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "השתי",
+      "gloss": "əriş"
+    },
+    {
+      "surface": "או",
+      "gloss": "yaxud"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "araq"
+    }
+  ],
+  "timestamp": "2026-09-01T10:27:12.326466301Z",
+  "model": "glm-5.3"
+}

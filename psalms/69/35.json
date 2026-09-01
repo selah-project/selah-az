@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 69,
+  "translation": "Onu göylər və yer tərifləsin, dənizlər və onlarda sürünən hər şey ⟨Onu⟩.",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "Onu tərifləsin"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "göylər"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "və yer"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dənizlər"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "və hər"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "sürünən şey"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onlarda"
+    }
+  ],
+  "timestamp": "2026-09-01T15:22:33.173368042Z",
+  "model": "glm-5.3"
+}

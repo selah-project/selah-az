@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 130,
+  "translation": "Canım Adonay üçün ⟨⟨gözləyir⟩⟩ — səhər gözləyənlərdən çox, səhər gözləyən gözləyicilərdən çox.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonay üçün"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "⟨gözləyənlərdən çox⟩"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "səhər gözləyənlər"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "gözləyən gözləyicilər"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "səhər üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:14.560013887Z",
+  "model": "glm-5.3"
+}

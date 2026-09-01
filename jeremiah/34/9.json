@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 34:9",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 34,
+  "translation": "Hər adam qulunu və hər adam kənizini — ivri kişi və ivri qadını — azad buraxmaq üçün, heç kəs onları, yəhudi qardaşını, qul kimi işlətməsin deyə.",
+  "tokens": [
+    {
+      "surface": "לשלח",
+      "gloss": "buraxmaq üçün"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər adam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qulunu"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "qulunu"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "və hər adam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kənizini"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "kənizini"
+    },
+    {
+      "surface": "העברי",
+      "gloss": "ivri ⟨kişi⟩"
+    },
+    {
+      "surface": "והעבריה",
+      "gloss": "və ivri qadını"
+    },
+    {
+      "surface": "חפשים",
+      "gloss": "azad"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "heç kəs … deyə"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "qul kimi işlətməsin"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onları"
+    },
+    {
+      "surface": "ביהודי",
+      "gloss": "yəhudi"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "qardaşını"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨heç kəs⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T13:43:56.922687655Z",
+  "model": "glm-5.3"
+}

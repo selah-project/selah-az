@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 13:18",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Və dedi: oxları götür. Və götürdü. Və İsrail kralına dedi: yerə vur. Və üç dəfə vurdu və dayandı.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Və dedi"
+    },
+    {
+      "surface": "קח",
+      "gloss": "götür"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "oxları"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "Və götürdü"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Və dedi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "İsrail kralına"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "הך",
+      "gloss": "vur"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yerə"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "Və vurdu"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "üç"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "dəfə"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "və dayandı"
+    }
+  ],
+  "timestamp": "2026-09-01T12:38:10.221530756Z",
+  "model": "glm-5.3"
+}

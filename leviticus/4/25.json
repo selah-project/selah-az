@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 4:25",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Kahin barmağı ilə günah qurbanının qanından götürüb yandırma qurbani məzbəhinin buynuzlarına sürtəcək, ⟨את⟩ qanını isə yandırma qurbani məzbəhinin təməlinə tökəcək.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "götürüb"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "qanından"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "günah qurbanının"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "barmağı ilə"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "sürtəcək"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "buynuzlarına"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "məzbəhinin"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yandırma qurbanı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qanını"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "qanını"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "tökəcək"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə doğru"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "təməlinə"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "məzbəhinin"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yandırma qurbanı"
+    }
+  ],
+  "timestamp": "2026-09-01T10:23:16.025925428Z",
+  "model": "glm-5.3"
+}

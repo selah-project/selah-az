@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 52:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 52,
+  "translation": "Səni əbədi tərifləyəcəyəm, çünki ⟨bunu⟩ etdin; Adına ümid edirəm, çünki ⟨o⟩ sənin hasidlərinin önündə yaxşıdır.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Səni tərifləyəcəyəm"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "etdin"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "ümid edirəm"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Adına"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşıdır"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "önündə"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "sənin hasidlərinin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:17:46.366832647Z",
+  "model": "glm-5.3"
+}

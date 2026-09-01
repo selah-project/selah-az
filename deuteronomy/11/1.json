@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Və Yahve, sənin Elohimini sevəcəksən ⟨את⟩, və onun qorunmasını qoruyacaqsan, və onun qanunlarını, və onun hökmlərini, və onun əmrlərini bütün günlər.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "və sevəcəksən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve, sənin Elohimin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sənin Elohimin"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "və qoruyacaqsan"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "onun qorunması"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "və onun qanunları"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "və onun hökmləri"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "və onun əmrləri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "günlər"
+    }
+  ],
+  "timestamp": "2026-09-01T10:49:49.363276640Z",
+  "model": "glm-5.3"
+}

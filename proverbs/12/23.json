@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 12:23",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Ağıllı adam biligi örtür, amma ağılsızların qəlbi axmaqlığı elan edir.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "ağıllı"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "örtür"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "biligi"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "amma qəlbi"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ağılsızların"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "elan edir"
+    },
+    {
+      "surface": "רע",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-01T15:51:54.937841706Z",
+  "model": "glm-5.3"
+}

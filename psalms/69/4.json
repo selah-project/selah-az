@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 69,
+  "translation": "Çağırışından yorulmuşam, boğazım quruyub yanıb, gözlərim tükənib — Elohimimi gözləyə-gözləyə.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "yorulmuşam"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "çağırışından"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "quruyub yanıb"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "boğazım"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "tükənib"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözlərim"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "gözləyə-gözləyə"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohimimi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:23:33.737475645Z",
+  "model": "glm-5.3"
+}

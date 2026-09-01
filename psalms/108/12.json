@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 108:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 108,
+  "translation": "Məgər ⟨sən⟩, Elohim, bizi rədd etmədinmi? Və çıxmırsanmı, Elohim, ordularımızla ⟨birlikdə⟩?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "məgər... -mı"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "bizi rədd etmədin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "çıxırsan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאתינו",
+      "gloss": "ordularımızla"
+    }
+  ],
+  "timestamp": "2026-09-01T15:37:26.595101037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 113,
+  "translation": "onu nəciblərlə, öz xalqının nəcibləri ilə birgə oturtmaq üçün.",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "oturtmaq üçün"
+    },
+    {
+      "surface": "עם",
+      "gloss": "birgə"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "nəciblərlə"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "nəcibləri"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "öz xalqının"
+    }
+  ],
+  "timestamp": "2026-09-01T15:37:21.519957461Z",
+  "model": "glm-5.3"
+}

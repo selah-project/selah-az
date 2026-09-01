@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 18:5",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Və Yisraelin padşahı peyğəmbərləri — dörd yüz nəfər — ⟨את⟩ topladı və onlara dedi: «Ramot-Gilada döyüşə gedək, yoxsa dayanım?» Onlar dedilər: «Çıx, və Elohim ⟨onu⟩ padşahın əlinə verəcək.»",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "topladı"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşahı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraelin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peyğəmbərləri"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "peyğəmbərləri"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "dörd"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nəfər"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "הנלך",
+      "gloss": "gedəkmi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilada"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "döyüşə"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoxsa"
+    },
+    {
+      "surface": "אחדל",
+      "gloss": "dayanım"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "və dedilər"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Çıx"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "verəcək"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "əlinə"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşahın"
+    }
+  ],
+  "timestamp": "2026-09-01T17:17:57.662585872Z",
+  "model": "glm-5.3"
+}

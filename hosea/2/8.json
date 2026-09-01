@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 2:8",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Buna görə bax, Mən sənin yolunu ⟨את⟩ tikanlıqlarla bağlayacağam, ⟨את⟩ hasar çəkəcəyəm, və onun cığırlarını tapa bilməyəcək.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "buna görə"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "bax, Mən"
+    },
+    {
+      "surface": "שך",
+      "gloss": "bağlayacağam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sənin yolunu"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "sənin yolunu"
+    },
+    {
+      "surface": "בסירים",
+      "gloss": "tikanlıqlarla"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "hasar çəkəcəyəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hasarı"
+    },
+    {
+      "surface": "גדרה",
+      "gloss": "hasarı"
+    },
+    {
+      "surface": "ונתיבותיה",
+      "gloss": "onun cığırlarını"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "tapa bilməyəcək"
+    }
+  ],
+  "timestamp": "2026-09-01T14:34:33.781371083Z",
+  "model": "glm-5.3"
+}

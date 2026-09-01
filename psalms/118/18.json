@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 118:18",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 118,
+  "translation": "Yah ciddi tərbiyə etdi məni, ölümə isə yox ⟨verdi⟩ məni.",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "tərbiyə etdi"
+    },
+    {
+      "surface": "יסרני",
+      "gloss": "məni tərbiyə etdi"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ולמות",
+      "gloss": "ölümə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "נתנני",
+      "gloss": "məni verdi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:12.429804039Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 16:25",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Moşe dedi: «Onu bu gün yeyin, çünki bu gün Yahve üçün şabbat⟨dır⟩; bu gün onu sahədə tapmayacaqsınız.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אכלהו",
+      "gloss": "onu yeyin"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bu gün"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "şabbat"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bu gün"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve üçün"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bu gün"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תמצאהו",
+      "gloss": "onu tapmayacaqsınız"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sahədə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:10:22.539165667Z",
+  "model": "glm-5.3"
+}

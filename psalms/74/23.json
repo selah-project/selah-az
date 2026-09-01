@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 74:23",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 74,
+  "translation": "Unutma sənin düşmənlərinin səsini; sənin sənin əleyhinə qalxanların hay-küyü daima yüksəlir.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "unutma (inkar)"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "unutma"
+    },
+    {
+      "surface": "קול",
+      "gloss": "səsini"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "sənin düşmənlərinin"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "hay-küyü"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "sənin əleyhinə qalxanların"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "yüksəlir"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daima"
+    }
+  ],
+  "timestamp": "2026-09-01T15:24:45.651220515Z",
+  "model": "glm-5.3"
+}

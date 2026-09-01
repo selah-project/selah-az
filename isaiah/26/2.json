@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 26:2",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Açın qapıları, və daxil olsun ədalətli xalq, əmanəti qoruyan ⟨xalq⟩.",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "açın"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "qapıları"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "və daxil olsun"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ədalətli"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "qoruyan"
+    },
+    {
+      "surface": "אמנים",
+      "gloss": "əmanəti"
+    }
+  ],
+  "timestamp": "2026-09-01T12:57:56.690446707Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 31:49",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "və Moşeyə dedilər: qulların ⟨את⟩ müharibə adamlarının başını — kimin əlimizdədirsə — saydılar və ondan ⟨bir⟩ nəfər də çatmır.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "dedilər"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "qulların"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "saydılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "müharibə adamlarının başını"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "başını"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "adamlarının"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "müharibə"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kim"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "əlimizdədir"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və... deyil"
+    },
+    {
+      "surface": "נפקד",
+      "gloss": "çatmır"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir nəfər"
+    }
+  ],
+  "timestamp": "2026-09-01T10:43:29.664971455Z",
+  "model": "glm-5.3"
+}

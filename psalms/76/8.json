@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 76,
+  "translation": "⟨Sənsən⟩, ey Qorxulu ⟨sən⟩, və kim dura bilər üzüqarşında, o andan etibarən qəzəbindən?",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "⟨Sənsən⟩"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "Qorxulu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨sən⟩"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "və kim"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "dura bilər"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "üzüqarşında"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "o andan etibarən"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "qəzəbindən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:25:14.931000863Z",
+  "model": "glm-5.3"
+}

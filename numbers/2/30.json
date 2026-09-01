@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 2:30",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və onun ordusu, və sayılmışları əlli üç min dörd yüz idi.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "və onun ordusu"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "və sayılmışları"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "üç"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "və əlli"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "min"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "və dörd"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    }
+  ],
+  "timestamp": "2026-09-01T10:32:56.135727601Z",
+  "model": "glm-5.3"
+}

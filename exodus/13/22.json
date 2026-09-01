@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Bulud sütunu gündüzlər, od sütunu gecələr xalqın önündən ⟨ı⟩ çəkilmədi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "çəkilmədi (inkar)"
+    },
+    {
+      "surface": "יָמִישׁ",
+      "gloss": "çəkilmədi"
+    },
+    {
+      "surface": "עַמּוּד",
+      "gloss": "sütunu"
+    },
+    {
+      "surface": "הֶעָנָן",
+      "gloss": "bulud"
+    },
+    {
+      "surface": "יוֹמָם",
+      "gloss": "gündüzlər"
+    },
+    {
+      "surface": "וְעַמּוּד",
+      "gloss": "və ... sütunu"
+    },
+    {
+      "surface": "הָאֵשׁ",
+      "gloss": "od"
+    },
+    {
+      "surface": "לַיְלָה",
+      "gloss": "gecələr"
+    },
+    {
+      "surface": "לִפְנֵי",
+      "gloss": "önündən"
+    },
+    {
+      "surface": "הָעָם",
+      "gloss": "xalqın"
+    }
+  ],
+  "timestamp": "2026-09-01T17:56:24.869078257Z",
+  "model": "glm-5.3"
+}

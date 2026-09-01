@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Və biçdiyiniz zaman torpağınızın biçənini ⟨את⟩ tamamilə biçməyəcaksınız, tarlanızın kənarını biçmək üçün sona çatdırmayacaqsınız, və biçəninin töküntüsünü dəmirayacaqsınız.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "və biçdiyiniz zaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biçənini"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "biçəni"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "torpağınızın"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "sona çatdıracaqsan"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "kənarını"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "tarlanın"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "biçmək üçün"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "və töküntüsünü"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "biçəninin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "dəmirayacaqsan"
+    }
+  ],
+  "timestamp": "2026-09-01T10:28:08.140515792Z",
+  "model": "glm-5.3"
+}

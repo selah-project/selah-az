@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 17:12",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Balasından məhrum ayını insanla qarşılaşdır — amma kəsili öz axmaqlığında ⟨yox⟩.",
+  "tokens": [
+    {
+      "surface": "פגוש",
+      "gloss": "qarşılaşdır"
+    },
+    {
+      "surface": "דב",
+      "gloss": "ayı"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "balasından məhrum"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "insanla"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "amma ⟨yox⟩"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "kəsili"
+    },
+    {
+      "surface": "באולתו",
+      "gloss": "öz axmaqlığında"
+    }
+  ],
+  "timestamp": "2026-09-01T15:54:04.858920468Z",
+  "model": "glm-5.3"
+}

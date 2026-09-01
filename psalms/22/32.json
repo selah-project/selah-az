@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Gələcəklər və Onun ədalətini doğulacaq qövmə xəbər verəcəklər, çünki ⟨O⟩ bunu etdi.",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "Gələcəklər"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "xəbər verəcəklər"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "Onun ədalətini"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "qövmə"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "doğulacaq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etdi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:07:05.670667105Z",
+  "model": "glm-5.3"
+}

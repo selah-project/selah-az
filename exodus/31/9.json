@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "və ⟨את⟩ yandırma qurbangahını və ⟨את⟩ bütün ləvazimatını, və ⟨את⟩ çəni və ⟨את⟩ onun oturacağını",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yandırma qurbangahını"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "qurbangah"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yandırma (qurbanı)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bütün ləvazimatını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ləvazimatı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "çəni"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "çən"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "onun oturacağını"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "oturacağı"
+    }
+  ],
+  "timestamp": "2026-09-01T10:18:15.167241378Z",
+  "model": "glm-5.3"
+}

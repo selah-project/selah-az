@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 118,
+  "ref": "psalms 119:118",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Sən xor baxdın qanunlarından azanların hamısına, çünki yalandır onların hiyləsi.",
+  "tokens": [
+    {
+      "surface": "סלית",
+      "gloss": "xor baxdın"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamısına"
+    },
+    {
+      "surface": "שוגים",
+      "gloss": "azanların"
+    },
+    {
+      "surface": "מחקיך",
+      "gloss": "qanunlarından"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yalandır"
+    },
+    {
+      "surface": "תרמיתם",
+      "gloss": "onların hiyləsi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:41:04.076931854Z",
+  "model": "glm-5.3"
+}

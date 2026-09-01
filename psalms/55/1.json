@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 55,
+  "translation": "Xor başçısına, simli alətlərlə, öyüd-nəsihət şeiri, Davuda aiddir.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "xor başçısına"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "simli alətlərlə"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "öyüd-nəsihət şeiri"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davuda aiddir"
+    }
+  ],
+  "timestamp": "2026-09-01T15:19:00.518103457Z",
+  "model": "glm-5.3"
+}

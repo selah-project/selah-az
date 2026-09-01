@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ruth 3:15",
+  "book": "ruth",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və o dedi: üstündəki örpəyi ver və onu tut. O da onu tutdu; o, altı ölçü arpa ölçdü və onun üstünə qoydu, sonra o şəhərə girdi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və o dedi"
+    },
+    {
+      "surface": "הבי",
+      "gloss": "ver"
+    },
+    {
+      "surface": "המטפחת",
+      "gloss": "örpək"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "üstündəki"
+    },
+    {
+      "surface": "ואחזי",
+      "gloss": "və onu tut"
+    },
+    {
+      "surface": "בה",
+      "gloss": "onu"
+    },
+    {
+      "surface": "ותאחז",
+      "gloss": "o da onu tutdu"
+    },
+    {
+      "surface": "בה",
+      "gloss": "onu"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "o, ölçdü"
+    },
+    {
+      "surface": "שש",
+      "gloss": "altı"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ölçü arpa"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "və qoydu"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "onun üstünə"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "o girdi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şəhərə"
+    }
+  ],
+  "timestamp": "2026-09-01T16:23:59.555571595Z",
+  "model": "glm-5.3"
+}

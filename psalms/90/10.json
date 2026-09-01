@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 90:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 90,
+  "translation": "İllərimizin günləri — onlarda yetmiş il, güc ⟨olsa⟩ səksən il; onların öyündüyü ancaq əmək və iztirabdır, çünki ⟨onu⟩ tez kəsirlər və biz uçuşub gedirik.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "günləri"
+    },
+    {
+      "surface": "שנותינו",
+      "gloss": "illərimizin"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onlarda"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "yetmiş"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "il"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "güc ⟨olsa⟩"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "səksən"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "il"
+    },
+    {
+      "surface": "ורהבם",
+      "gloss": "onların öyündüyü"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "əmək"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "və iztirab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "גז",
+      "gloss": "kəsirlər"
+    },
+    {
+      "surface": "חיש",
+      "gloss": "tez"
+    },
+    {
+      "surface": "ונעפה",
+      "gloss": "uçuşub gedirik"
+    }
+  ],
+  "timestamp": "2026-09-01T15:31:51.567455286Z",
+  "model": "glm-5.3"
+}

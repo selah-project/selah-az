@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 65:24",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 65,
+  "translation": "Və ⟨belə⟩ olacaq: onlar hələ çağırmazdan əvvəl mən cavab verəcəyəm; onlar hələ danışarkən mən eşidəcəyəm.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "və olacaq"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "hələ ...mazdan əvvəl"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "çağırmazdan"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "və mən"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "cavab verəcəyəm"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hələ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "מדברים",
+      "gloss": "danışarkən"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "və mən"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "eşidəcəyəm"
+    }
+  ],
+  "timestamp": "2026-09-01T13:19:33.980646623Z",
+  "model": "glm-5.3"
+}

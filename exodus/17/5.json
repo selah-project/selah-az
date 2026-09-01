@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 17:5",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Yahve Moşeyə dedi: Xalqın önünə keç və İsrailin qocalarından özünlə ⟨את⟩ götür və çubuğunu — onunla ⟨את⟩ çaya vurmuşdin — əlində götür və get.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "keç"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünə"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqın"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "və götür"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ özünlə"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "qocalarından"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailin"
+    },
+    {
+      "surface": "ומטך",
+      "gloss": "və çubuğunu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "vurmuşdin"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çay"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "çaya"
+    },
+    {
+      "surface": "קח",
+      "gloss": "götür"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "əlində"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "və get"
+    }
+  ],
+  "timestamp": "2026-09-01T10:11:44.860961168Z",
+  "model": "glm-5.3"
+}

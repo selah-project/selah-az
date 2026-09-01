@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 14:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Məgər bilmirlərmi — bütün pislik işləyənlər — xalqımı yeyənlər, çörək yeyirlər ⟨kimi⟩; Yahveni çağırmırlar?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Məgər...mi"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bilmirlər"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "işləyənlər"
+    },
+    {
+      "surface": "און",
+      "gloss": "pislik"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "yeyənlər"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqımı"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "yeyirlər"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "çörək"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "çağırmırlar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:04:50.106321689Z",
+  "model": "glm-5.3"
+}

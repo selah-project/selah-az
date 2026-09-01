@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 22:6",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Bir adam qonşuna gümüş və ya əşya saxlamağa versə və o adamın evindən oğurlansa — oğru tapılsa, ikiqat ödəsin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "versə"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir adam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "qonşuna"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "או",
+      "gloss": "və ya"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "əşya"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "saxlamağa"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "və oğurlansa"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "evindən"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "adamın"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "tapılsa"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "oğru"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ödəsin"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ikiqat"
+    }
+  ],
+  "timestamp": "2026-09-01T10:15:22.419874717Z",
+  "model": "glm-5.3"
+}

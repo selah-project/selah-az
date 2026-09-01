@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 86:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 86,
+  "translation": "Mənə üz tut və mənə lütf göstər, qüvvəni quluna ver və qadın qulunun oğlunu xilas et.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "üz tut"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "və mənə lütf göstər"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "ver"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "qüvvəni"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "quluna"
+    },
+    {
+      "surface": "והושיעה",
+      "gloss": "və xilas et"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "oğlunu"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "qadın qulunun"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:47.763142023Z",
+  "model": "glm-5.3"
+}

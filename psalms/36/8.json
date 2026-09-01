@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 36:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 36,
+  "translation": "Nə qədər dəyərlidir hesed ⟨qədərin⟩, Elohim! İnsan övladları qanadlarının kölgəsində sığınırlar.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Nə qədər"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "dəyərlidir"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed ⟨qədərin⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "övladları"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "kölgəsində"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "qanadlarının"
+    },
+    {
+      "surface": "יחסיון",
+      "gloss": "sığınırlar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:11:47.426547548Z",
+  "model": "glm-5.3"
+}

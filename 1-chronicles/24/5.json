@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 24:5",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Və onları quralarla böldülər, bunlar o bunlarla ⟨⟩, çünki müqəddəslik öndərləri və Elohim öndərləri Elazar oğullarından və Itamar oğullarından idilər.",
+  "tokens": [
+    {
+      "surface": "ויחלקום",
+      "gloss": "böldülər"
+    },
+    {
+      "surface": "בגורלות",
+      "gloss": "quralarla"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bunlar"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "o bunlarla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "היו",
+      "gloss": "idilər"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "öndərləri"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "müqəddəslik"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "və öndərləri"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "oğullarından"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ובבני",
+      "gloss": "və oğullarından"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamar"
+    }
+  ],
+  "timestamp": "2026-09-01T17:07:51.209950674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 25:18",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Və cəlladlar rəisi ⟨את⟩ Serayanı götürdü — baş kahini — və ⟨את⟩ Tsefanyanı — ikinci kahini — və ⟨את⟩ qapının üç gözətçisini.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "və götürdü"
+    },
+    {
+      "surface": "רב",
+      "gloss": "rəisi"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "cəlladların"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serayanı"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Seraya"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "baş"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "Tsefanyanı"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "Tsefanya"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "ikinci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "qapının üç gözətçisini"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "üç"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "gözətçisi"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "qapının"
+    }
+  ],
+  "timestamp": "2026-09-01T12:46:37.855162510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 5:12",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Və xalq bütün Mitsrayim torpağında samanın yerinə quru ot yığmaq üçün səpələndi.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "və səpələndi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "torpağında"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לקשש",
+      "gloss": "yığmaq üçün"
+    },
+    {
+      "surface": "קש",
+      "gloss": "quru ot"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "samanın yerinə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:05:28.926707088Z",
+  "model": "glm-5.3"
+}

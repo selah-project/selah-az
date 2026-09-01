@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Yahve ⟨את⟩ şəhəri və ⟨את⟩ qalanı görmək üçün endi ki, adamoğulları onları tikmişdi.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "endi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "görmək üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şəhəri"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şəhəri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qalanı"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "qalanı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "tikmişdi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "adamoğlunun"
+    }
+  ],
+  "timestamp": "2026-09-01T09:49:13.106341745Z",
+  "model": "glm-5.3"
+}

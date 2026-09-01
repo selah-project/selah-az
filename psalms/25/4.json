@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Yollarını, ey Yahve, mənə bildir; cığırlarını mənə öyrət.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "Yollarını"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ey Yahve"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "mənə bildir"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "cığırlarını"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "mənə öyrət"
+    }
+  ],
+  "timestamp": "2026-09-01T15:08:43.903485422Z",
+  "model": "glm-5.3"
+}

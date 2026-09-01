@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "micah 7:15",
+  "book": "micah",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Mitsrayim torpağından çıxdığın günlərdəki kimi, ona möcüzələr göstərəcəyəm.",
+  "tokens": [
+    {
+      "surface": "כימי",
+      "gloss": "günlərdəki kimi"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "çıxdığın"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "torpağından"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "göstərəcəyəm"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "möcüzələr"
+    }
+  ],
+  "timestamp": "2026-09-01T14:48:23.285276927Z",
+  "model": "glm-5.3"
+}

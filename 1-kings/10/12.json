@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 10:12",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Və padşah almug ağacından ⟨את⟩ Yahve evi üçün və padşahın evi üçün mərhələ dayaqları, oxuyanlar üçün kinnorlar və nevallar düzəltdi; belə almug ağacı bir daha gəlmədi və bu günə qədər görünmədi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "və düzəltdi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "almug ağacından"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ağacından"
+    },
+    {
+      "surface": "האלמגים",
+      "gloss": "almug"
+    },
+    {
+      "surface": "מסעד",
+      "gloss": "mərhələ dayaqları"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "evi üçün"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "və evi üçün"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşahın"
+    },
+    {
+      "surface": "וכנרות",
+      "gloss": "və kinnorlar"
+    },
+    {
+      "surface": "ונבלים",
+      "gloss": "və nevallar"
+    },
+    {
+      "surface": "לשרים",
+      "gloss": "oxuyanlar üçün"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gəldi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "belə"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ağacı"
+    },
+    {
+      "surface": "אלמגים",
+      "gloss": "almug"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "görünmədi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bu günə"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-09-01T12:16:19.149780057Z",
+  "model": "glm-5.3"
+}

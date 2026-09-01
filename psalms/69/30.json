@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 69:30",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 69,
+  "translation": "Mən isə kasıb və ağrılıyam; sənin qurtuluşun, ya Elohim, məni ucaltsın.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "mən isə"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kasıb"
+    },
+    {
+      "surface": "וכואב",
+      "gloss": "və ağrılı"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "sənin qurtuluşun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "məni ucaltsın"
+    }
+  ],
+  "timestamp": "2026-09-01T15:23:40.864460880Z",
+  "model": "glm-5.3"
+}

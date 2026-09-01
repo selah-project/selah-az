@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 37:31",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Onun Elohiminin Tövrəsi onun ürəyindədir, addımları tərəddüd etməyəcək.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Tövrəsi"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohiminin"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "ürəyindədir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—"
+    },
+    {
+      "surface": "תמעד",
+      "gloss": "tərəddüd etməyəcək"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "addımları"
+    }
+  ],
+  "timestamp": "2026-09-01T15:12:40.301712288Z",
+  "model": "glm-5.3"
+}

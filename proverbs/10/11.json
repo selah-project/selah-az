@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 10:11",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Ədalətlinin ağzı həyat bulağıdır, amma şərirlərin ağzı zülmü örtər.",
+  "tokens": [
+    {
+      "surface": "מקור",
+      "gloss": "bulağıdır"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "həyat"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzı"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ədalətlinin"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "amma ağzı"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "şərirlərin"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "örtər"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "zülmü"
+    }
+  ],
+  "timestamp": "2026-09-01T15:50:52.039840305Z",
+  "model": "glm-5.3"
+}

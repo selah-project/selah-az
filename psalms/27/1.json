@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Davuda ⟨ait⟩. Yahve işığım ⟨dır⟩ və qurtuluşum — kimdən qorxaram? Yahve həyatımın qalası ⟨dır⟩ — kimdən lərzəyə düşərəm?",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davuda ⟨ait⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "işığım"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "və qurtuluşum"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "kimdən"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "qorxaram"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "qalası"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "həyatımın"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "kimdən"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "lərzəyə düşərəm"
+    }
+  ],
+  "timestamp": "2026-09-01T15:10:02.211273471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 14:8",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "həmçinin ⟨את⟩ donuzu — çünki o, dırnağı yarır, lakin cud çeynəmir; o, sizin üçün murdardır; ətindən yeməyin və ölü cəsədinə toxunmayın.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "donuzu"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "donuzu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "dırnağı yarır"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "dırnaq"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lakin... çeynəmir"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "cud"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "murdar"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin üçün"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "ətindən"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yeməyin"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yeməyin"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "ölü cəsədinə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "toxunmayın"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "toxunmayın"
+    }
+  ],
+  "timestamp": "2026-09-01T10:51:27.158658868Z",
+  "model": "glm-5.3"
+}

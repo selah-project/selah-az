@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 68:32",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 68,
+  "translation": "Zənginlər Mitsrayimdən gələcəklər; Kuş əllərini Elohimə tərəf uzadacaq.",
+  "tokens": [
+    {
+      "surface": "יאתיו",
+      "gloss": "gələcəklər"
+    },
+    {
+      "surface": "חשמנים",
+      "gloss": "zənginlər"
+    },
+    {
+      "surface": "מני",
+      "gloss": "-dən"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuş"
+    },
+    {
+      "surface": "תריץ",
+      "gloss": "tələsəcək"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "əllərini"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:23:53.936405847Z",
+  "model": "glm-5.3"
+}

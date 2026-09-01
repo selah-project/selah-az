@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 62,
+  "translation": "Xorda üçün, Yedutun üzərinə, Davudun məzəməri.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "xorda üçün"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "Yedutun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "məzəmər"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davudun"
+    }
+  ],
+  "timestamp": "2026-09-01T15:20:46.045967651Z",
+  "model": "glm-5.3"
+}

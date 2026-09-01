@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Buğda və sıyıq buğdası isə zərbələnmədi, çünki onlar gec yetişəndirlər.",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "və buğda"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "və sıyıq buğdası"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "zərbələndi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "gec yetişən"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "onlar"
+    }
+  ],
+  "timestamp": "2026-09-01T10:06:47.557131732Z",
+  "model": "glm-5.3"
+}

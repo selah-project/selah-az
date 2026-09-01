@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Çünki Ezra ürəyini hazırlamışdı — Yahve-nin Tövrəsini axtarmağa ⟨את⟩, onu yerinə yetirməyə və Yisrayılda qanunu və hökmü öyrətməyə.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "hazırlamışdı"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "ürəyini"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "axtarmağa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve-nin Tövrəsini"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tövrəsini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve-nin"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "yerinə yetirməyə"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "öyrətməyə"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Yisrayılda"
+    },
+    {
+      "surface": "חק",
+      "gloss": "qanunu"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "və hökmü"
+    }
+  ],
+  "timestamp": "2026-09-01T16:49:22.466662055Z",
+  "model": "glm-5.3"
+}

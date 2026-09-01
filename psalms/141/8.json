@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 141,
+  "translation": "Çünki gözlərim ⟨Sənə tərəfdır⟩, Yahve, Adonay; Sənə sığındım — canımı çılpaq qoyma.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Sənə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözlərim"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "Səndə"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "sığındım"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תער",
+      "gloss": "çılpaq qoyma"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    }
+  ],
+  "timestamp": "2026-09-01T15:45:03.572806108Z",
+  "model": "glm-5.3"
+}

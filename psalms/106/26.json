@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 106:26",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 106,
+  "translation": "Əlini onların üzərinə qaldırdı — ⟨את⟩ onları ⟨səhrada⟩ devirmək üçün.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "qaldırdı"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "əlini"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onların üzərinə"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "devirmək üçün"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ onları"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "⟨səhrada⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:32.728733679Z",
+  "model": "glm-5.3"
+}

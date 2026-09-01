@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 103,
+  "translation": "Yahveni mübarək sayın, Onun mələkləri — qüvvət qəhrəmanları, Onun sözünü yerinə yetirənlər, Onun sözünün səsini eşitmək üçün ⟨hazır olanlar⟩!",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "mübarək sayın"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveni"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "Onun mələkləri"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "qəhrəmanları"
+    },
+    {
+      "surface": "כח",
+      "gloss": "qüvvət"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "yerinə yetirənlər"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "Onun sözünü"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "eşitmək üçün"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "səsini"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "Onun sözünün"
+    }
+  ],
+  "timestamp": "2026-09-01T15:34:05.481097893Z",
+  "model": "glm-5.3"
+}

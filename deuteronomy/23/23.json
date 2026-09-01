@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Amma nəzir adamaqdan çəkinsən, səndə günah olmayacaq.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "amma nə vaxt ki"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "çəkinsən"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "nəzir adamaqdan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olmayacaq"
+    },
+    {
+      "surface": "בך",
+      "gloss": "səndə"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "günah"
+    }
+  ],
+  "timestamp": "2026-09-01T10:53:39.078547699Z",
+  "model": "glm-5.3"
+}

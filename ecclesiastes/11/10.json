@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Və qəzəbi qəlbindən uzaqlaştır, və şəri ətindən keçirt, çünki uşaqlıq və qaralma ⟨həvadır⟩.",
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "uzaqlaştır"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "qəzəbi"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "qəlbindən"
+    },
+    {
+      "surface": "והעבר",
+      "gloss": "keçirt"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "şəri"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "ətindən"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "uşaqlıq"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "qaralma"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "⟨həvadır⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T16:33:05.991440913Z",
+  "model": "glm-5.3"
+}

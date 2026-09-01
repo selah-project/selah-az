@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 115,
+  "translation": "Yahvenin bərəkəti sizin üstünüzdedir — göyləri və yeri Yaradanın.",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "bərəkətli"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Yaradanın"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "göyləri"
+    },
+    {
+      "surface": "ו ארץ",
+      "gloss": "və yeri"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:34.424898722Z",
+  "model": "glm-5.3"
+}

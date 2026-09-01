@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 13:7",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Buna görə bütün əllər gevşəyəcək və hər ölümlü insanın ürəyi əriyəcək.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "bunun"
+    },
+    {
+      "surface": "כן",
+      "gloss": "görə"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "əllər"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "gevşəyəcək"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "və hər"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ürəyi"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ölümlü insanın"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "əriyəcək"
+    }
+  ],
+  "timestamp": "2026-09-01T12:51:23.171529889Z",
+  "model": "glm-5.3"
+}

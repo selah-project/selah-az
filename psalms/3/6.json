@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Mən uzanıb yatdım və yatmışam, oyandım, çünki Yahve məni dəstəkləyir.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "uzanıb yatdım"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "və yatmışam"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "oyandım"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "məni dəstəkləyir"
+    }
+  ],
+  "timestamp": "2026-09-01T15:01:35.501338834Z",
+  "model": "glm-5.3"
+}

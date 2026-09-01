@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 144:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 144,
+  "translation": "İldırım çax, onları səpələ; oxlarını göndər, onları alt-üst et.",
+  "tokens": [
+    {
+      "surface": "ברוק",
+      "gloss": "çax"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "ildırım"
+    },
+    {
+      "surface": "ותפיצם",
+      "gloss": "onları səpələ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "göndər"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "oxlarını"
+    },
+    {
+      "surface": "ותהמם",
+      "gloss": "onları alt-üst et"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:27.860211048Z",
+  "model": "glm-5.3"
+}

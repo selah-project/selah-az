@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 8:12",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Onun üçün minlərlə Tövrəmi yazdım; lakin onlar ona yad şey kimi hesablandı.",
+  "tokens": [
+    {
+      "surface": "אכתוב",
+      "gloss": "yazdım"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onun üçün"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "minlərlə"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Tövrəmi"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "זר",
+      "gloss": "yad"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "hesablandı"
+    }
+  ],
+  "timestamp": "2026-09-01T14:35:48.276879477Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 46,
+  "translation": "Buna görə qorxmayacağıq, yer dəyişsə ⟨ də ⟩, dağlar dənizin qəlbində sarsılsa ⟨ da ⟩.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "buna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "görə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "qorxmayacağıq"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "dəyişsə"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "sarsılsa ⟨ da ⟩"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dağlar"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "qəlbində"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dənizin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:16:56.274619891Z",
+  "model": "glm-5.3"
+}

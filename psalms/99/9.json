@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 99:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 99,
+  "translation": "Yahve Elohimimizi ucaldın, Onun müqəddəs dağına səcdə edin, çünski müqəddəsdir Yahve Elohimimiz.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "ucaldın"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimizi"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "səcdə edin"
+    },
+    {
+      "surface": "להר",
+      "gloss": "dağına"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünski"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "müqəddəsdir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimiz"
+    }
+  ],
+  "timestamp": "2026-09-01T15:33:20.469152315Z",
+  "model": "glm-5.3"
+}

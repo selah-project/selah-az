@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 105:37",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 105,
+  "translation": "Və onları gümüşlə və qızulla çıxartdı, və onun qəbilələrində sarsılan ⟨yox idi⟩.",
+  "tokens": [
+    {
+      "surface": "ויוציאם",
+      "gloss": "və onları çıxartdı"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "gümüşlə"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "və qızulla"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "və yox idi"
+    },
+    {
+      "surface": "בשבטיו",
+      "gloss": "onun qəbilələrində"
+    },
+    {
+      "surface": "כושל",
+      "gloss": "sarsılan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:35:35.870441267Z",
+  "model": "glm-5.3"
+}

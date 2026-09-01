@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Rəşəin qolunu sındır; rəşəliyini axtarıb tap ki, heç ⟨bir şey⟩ tapılmasın.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "sındır"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "qolunu"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "rəşəin"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "və rəşə"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "axtarıb tap"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "rəşəliyini"
+    },
+    {
+      "surface": "בל",
+      "gloss": "heç"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "tapılmasın"
+    }
+  ],
+  "timestamp": "2026-09-01T15:04:25.811601973Z",
+  "model": "glm-5.3"
+}

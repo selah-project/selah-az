@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 57:4",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 57,
+  "translation": "Kimin əleyhinə əylənirsiniz? kimin əleyhinə ağzınızı genəldirir, dilinizi uzadırsınız? Məgər siz üsyan övladları, yalan toxumu deyilsiniz?",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "əleyhinə"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kimin"
+    },
+    {
+      "surface": "תתענגו",
+      "gloss": "əylənirsiniz"
+    },
+    {
+      "surface": "על",
+      "gloss": "əleyhinə"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kimin"
+    },
+    {
+      "surface": "תרחיבו",
+      "gloss": "genəldirirsiniz"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ağzınızı"
+    },
+    {
+      "surface": "תאריכו",
+      "gloss": "uzadırsınız"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "dilinizi"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "məgər ... deyil"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "ילדי",
+      "gloss": "övladları"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "üsyan"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "toxumu"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yalan"
+    }
+  ],
+  "timestamp": "2026-09-01T13:15:49.645304164Z",
+  "model": "glm-5.3"
+}

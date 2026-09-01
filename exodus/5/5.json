@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 5:5",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Paro dedi: Bax, indi ölkənin xalqi çoxdur, siz isə onları öz yüklərindən ⟨את⟩ dindirirsiniz.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "הן",
+      "gloss": "bax"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "çoxdur"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "indi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalqi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ölkənin"
+    },
+    {
+      "surface": "והשבתם",
+      "gloss": "dindirirsiniz"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "מסבלתם",
+      "gloss": "öz yüklərindən"
+    }
+  ],
+  "timestamp": "2026-09-01T10:06:17.194263546Z",
+  "model": "glm-5.3"
+}

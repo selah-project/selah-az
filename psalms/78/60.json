@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 78,
+  "translation": "Şilonun məskənini tərk etdi, insanlar arasında səpilən çadırı.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "tərk etdi"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "məskəni"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "Şilonun"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadırı"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "səpilən"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "insanlar arasında"
+    }
+  ],
+  "timestamp": "2026-09-01T15:26:13.153865015Z",
+  "model": "glm-5.3"
+}

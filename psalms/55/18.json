@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 55,
+  "translation": "Axşam, səhər və günorta mən üşüb-danışaram və inləyirəm, və ⟨O⟩ səsimi eşitdi.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "Axşam"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "və səhər"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "və günorta"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "üşüb-danışaram"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "və inləyirəm"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "və ⟨O⟩ eşitdi"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "səsimi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:18:39.954374660Z",
+  "model": "glm-5.3"
+}

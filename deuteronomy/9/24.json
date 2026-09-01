@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Yahveyə qarşı asi idiniz, sizi ⟨את⟩ tanıdığım gündən bəri.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "asi"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "idiniz"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-ə qarşı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "-dan, gündən"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "tanıdığım"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "sizi ⟨את⟩",
+      "marks": "tanınanlar"
+    }
+  ],
+  "timestamp": "2026-09-01T10:49:20.032186930Z",
+  "model": "glm-5.3"
+}

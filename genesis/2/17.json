@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 2:17",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Elm ağacından — yaxşını və pisi bilən ağacdan — yemə, çünki ondan yediyin gün mütləq ölücəksən.",
+  "tokens": [
+    {
+      "surface": "ומעץ",
+      "gloss": "və ağacından"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "bilən"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşını"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "və pisi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yemə"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yemə"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "günü"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "yediyin"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mütləq"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ölücəksən"
+    }
+  ],
+  "timestamp": "2026-09-01T09:46:04.755515147Z",
+  "model": "glm-5.3"
+}

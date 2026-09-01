@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 18:6",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Yehoşafat dedi: Burada Yahvenin başqa bir peyğəmbəri yoxdurmu, ⟨את⟩ ondan soruşaq?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoşafat"
+    },
+    {
+      "surface": "האין",
+      "gloss": "yoxdurmu"
+    },
+    {
+      "surface": "פה",
+      "gloss": "burada"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "peyğəmbər"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "başqa bir"
+    },
+    {
+      "surface": "ונדרשה",
+      "gloss": "soruşaq"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩",
+      "marks": "ondan"
+    }
+  ],
+  "timestamp": "2026-09-01T18:03:55.623314212Z",
+  "model": "glm-5.3"
+}

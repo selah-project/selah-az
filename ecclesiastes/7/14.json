@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 7:14",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Yaxşı gündə yaxşılıqda ol, pis gündə isə gör ⟨את⟩ bunu: bunu onun qarşılığında Elohim etdi, ki insan ⟨ondan⟩ sonra heç nə tapa bilməsin.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "gündə"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "yaxşı"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ol"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "yaxşılıqda"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "və gündə"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pis"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "gör"
+    },
+    {
+      "surface": "גם",
+      "gloss": "həm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bunu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bunu"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "qarşılığında"
+    },
+    {
+      "surface": "זה",
+      "gloss": "onun"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etdi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "-(məqsədilə)"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "bilməsin"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "tapa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ondan sonra"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "heç nə"
+    }
+  ],
+  "timestamp": "2026-09-01T16:31:35.669427372Z",
+  "model": "glm-5.3"
+}

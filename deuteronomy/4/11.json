@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 4:11",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və yaxınlaşdınız və dağın altında dayandınız, dağ odla yanırdı göylərin ürəyinə qədər — zülmət, bulud və qalın qaranlıq.",
+  "tokens": [
+    {
+      "surface": "ותקרבון",
+      "gloss": "və yaxınlaşdınız"
+    },
+    {
+      "surface": "ותעמדון",
+      "gloss": "və dayandınız"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "dağın"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "və dağ"
+    },
+    {
+      "surface": "בער",
+      "gloss": "yanırdı"
+    },
+    {
+      "surface": "באש",
+      "gloss": "odla"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ürəyinə"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göylərin"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "zülmət"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "bulud"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "və qalın qaranlıq"
+    }
+  ],
+  "timestamp": "2026-09-01T10:47:39.580184660Z",
+  "model": "glm-5.3"
+}

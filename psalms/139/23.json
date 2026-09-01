@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 139,
+  "translation": "Məni dərk et, ya El, və ürəyimi bil; sına məni və düşüncələrimi bil.",
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "məni dərk et"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "və bil"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ürəyimi"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "sına məni"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "və bil"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "düşüncələrimi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:44:17.773158569Z",
+  "model": "glm-5.3"
+}

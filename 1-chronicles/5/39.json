@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Şallum ⟨את⟩ Xilqiyanı doğurdu, Xilqiya isə ⟨את⟩ Azarjanı doğurdu.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "Şallum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Xilqiya"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Xilqiya"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "Xilqiya isə"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarja"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarja"
+    }
+  ],
+  "timestamp": "2026-09-01T17:01:04.318198287Z",
+  "model": "glm-5.3"
+}

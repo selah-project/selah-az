@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 16:7",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Və iki keçini ⟨את⟩ götürəcək və ⟨את⟩ onları Yahvenin önündə, görüş çadırının girişində dirətdirəcək.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "götürəcək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iki keçini"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iki"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "keçini"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "dirətdirəcək"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onları"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önündə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "girişində"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadırının"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "görüş"
+    }
+  ],
+  "timestamp": "2026-09-01T10:28:07.864124692Z",
+  "model": "glm-5.3"
+}

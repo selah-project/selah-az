@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 20:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Yahve səni çətinlik günündə cavablandırsın; Yaakovun Elohiminin adı səni ucaltsın.",
+  "tokens": [
+    {
+      "surface": "יענך",
+      "gloss": "səni cavablandırsın"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "günündə"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "çətinlik"
+    },
+    {
+      "surface": "ישגבך",
+      "gloss": "səni ucaltsın"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adı"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohiminin"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovun"
+    }
+  ],
+  "timestamp": "2026-09-01T15:07:17.482707026Z",
+  "model": "glm-5.3"
+}

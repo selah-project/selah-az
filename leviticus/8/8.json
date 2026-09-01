@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və üstünə ⟨את⟩ çiyinlik qoydu, çiyinliyə ⟨את⟩ Urimi və ⟨את⟩ Tumimi qoydu.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "qoydu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çiyinliyi"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "çiyinlik"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "qoydu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "çiyinliyə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urimi"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "Urim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "Tumimi"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "Tumim"
+    }
+  ],
+  "timestamp": "2026-09-01T10:25:05.545302666Z",
+  "model": "glm-5.3"
+}

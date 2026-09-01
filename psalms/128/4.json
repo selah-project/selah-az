@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 128,
+  "translation": "Bax, həqiqətən, belə xeyir-dua alacaq adam ki, Yahvedən qorxur.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "כי",
+      "gloss": "həqiqətən"
+    },
+    {
+      "surface": "כן",
+      "gloss": "belə"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "xeyir-dua alacaq"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "adam"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "qorxur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:44.462934724Z",
+  "model": "glm-5.3"
+}

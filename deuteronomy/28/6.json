@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "Mübarəksən sən girişində, və mübarəksən sən çıxışında.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Mübarəksən"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "girişində"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "və mübarəksən"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "çıxışında"
+    }
+  ],
+  "timestamp": "2026-09-01T10:55:56.155782119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 10:4",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Və O, ilkin yazıya uyğun olaraq lövhələrin üstünə ⟨את⟩ on kəlməni yazdı — o kəlmələri ki, Yahve yığıncaq günü dağda, odun ortasından sizə danışmışdı — və Yahve onları mənə verdi.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "və yazdı"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "lövhələrin"
+    },
+    {
+      "surface": "כמכתב",
+      "gloss": "yazıya uyğun olaraq"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ilkin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "on kəlməni"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "on"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kəlməni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "danışmışdı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "sizə"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "dağda"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ortasından"
+    },
+    {
+      "surface": "האש",
+      "gloss": "odun"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "günü"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "yığıncaq"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "və verdi onları"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:49:10.944299185Z",
+  "model": "glm-5.3"
+}

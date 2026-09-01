@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 23:22",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Eşit səni doğan atanı, və ananı rəzil görmə, çünki o qocalıb.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "eşit"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "atanı"
+    },
+    {
+      "surface": "זה",
+      "gloss": "o"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "səni doğan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və ... görmə"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "rəzil"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "qocalıb"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ananı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:57:36.975199828Z",
+  "model": "glm-5.3"
+}

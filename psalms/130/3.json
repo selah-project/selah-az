@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 130,
+  "translation": "Əgər qeydləri saxlasan, ya Yah — kim, Adonay, dura bilər?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Əgər"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "qeydlər"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "saxlasan"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "dura bilər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:14.674497192Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 3:2",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və bunlar Aharonun oğullarının adlarıdır: baş doğulan Nadav, və Avihu, Elazar və Itamar.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "və bunlar"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "adları"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "baş doğulan"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadav"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "və Avihu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "və Itamar"
+    }
+  ],
+  "timestamp": "2026-09-01T10:33:36.048238382Z",
+  "model": "glm-5.3"
+}

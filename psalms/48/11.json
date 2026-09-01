@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 48:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 48,
+  "translation": "Adın ⟨kimdirsə⟩, ey Elohim, mədhin də elədir — yerin ucqarlarına qədər; ədalət sənin sağ əlini doldurub.",
+  "tokens": [
+    {
+      "surface": "כשמך",
+      "gloss": "adın kimi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "elə"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "sənin mədhin"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə — qədər"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "ucqarlarına"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ədalət"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "doldurub"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "sənin sağ əlin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:15:42.825620604Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 161,
+  "ref": "psalms 119:161",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Knəzlər məni haqsız yerə təqib etdilər, amma ürəyim ⟨sənin⟩ sözlərindən qorxur.",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "knəzlər"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "məni təqib etdilər"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "haqsız yerə"
+    },
+    {
+      "surface": "ומדבריך",
+      "gloss": "amma sənin sözlərindən"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "qorxur"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ürəyim"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:11.496226019Z",
+  "model": "glm-5.3"
+}

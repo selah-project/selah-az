@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 25:4",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Yahve Moşeyə dedi: Xalqın bütün başçılarını götür və ⟨את⟩ onları Yahve üçün günəşin qarşısında as, ki Yahvenin qəzəbinin alovlanması İsraildən dönsün.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-yə"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "קח",
+      "gloss": "götür"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqın bütün başçılarını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "başçılarını"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqın"
+    },
+    {
+      "surface": "והוקע",
+      "gloss": "və as"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ onları",
+      "marks": "Yahve üçün"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve üçün"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "qarşısında"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "günəşin"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dönsün"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "alovlanması"
+    },
+    {
+      "surface": "אף",
+      "gloss": "qəzəbinin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "İsraildən"
+    }
+  ],
+  "timestamp": "2026-09-01T10:41:23.933789434Z",
+  "model": "glm-5.3"
+}

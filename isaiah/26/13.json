@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 26:13",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Yahve, Elohimimiz, səndən başqa ağalar hökm sürdülər bizim üzərimizə; yalnız sənlə adını xatırlayırıq.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimiz"
+    },
+    {
+      "surface": "בעלונו",
+      "gloss": "hökm sürdülər bizim üzərimizə"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "ağalar"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "səndən başqa"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sənlə"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "xatırlayırıq"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "adını"
+    }
+  ],
+  "timestamp": "2026-09-01T12:57:35.829351445Z",
+  "model": "glm-5.3"
+}

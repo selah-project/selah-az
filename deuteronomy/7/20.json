@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 7:20",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Həmçinin Yahve Elohimin ⟨את⟩ arılarını üstələrinə göndərəcək, səndən gizlənənlər və qalanlar məhv olana qədər.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "həmçinin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arıları"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "arıları"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "göndərəcək"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "בם",
+      "gloss": "üstələrinə"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "mhv olana"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "qalanlar"
+    },
+    {
+      "surface": "והנסתרים",
+      "gloss": "və gizlənənlər"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "səndən"
+    }
+  ],
+  "timestamp": "2026-09-01T10:49:17.108638311Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 90:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 90,
+  "translation": "Sən ölümlü insanı toz⟨a⟩ qədər çevirirsən, ⟨və⟩ deyirsən: «Qayıdın, insan oğulları».",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "çevirirsən"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ölümlü insanı"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "toz⟨a⟩"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "deyirsən"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "Qayıdın"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan⟨ın⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T15:32:33.236058457Z",
+  "model": "glm-5.3"
+}

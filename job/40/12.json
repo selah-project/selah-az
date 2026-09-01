@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 40:12",
+  "book": "job",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "Hər bir lovğayanı gör, onu diz çökdür, və şər əməlliləri öz yerlərində əz.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "gör"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər bir"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "lovğayanı"
+    },
+    {
+      "surface": "הכניעהו",
+      "gloss": "onu diz çökdür"
+    },
+    {
+      "surface": "והדך",
+      "gloss": "və əz"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "şər əməlliləri"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "öz yerlərində"
+    }
+  ],
+  "timestamp": "2026-09-01T16:18:42.248398611Z",
+  "model": "glm-5.3"
+}

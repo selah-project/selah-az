@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 20:21",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Və bir kişi, ki qardaşının arvadını alarsa — nidadır o, qardaşının çılpaqlığını açmışdır; uşaqsız qalarlar.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Və bir kişi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "alarsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qardaşının arvadını"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "arvadını"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "qardaşının"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "nidadır"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "çılpaqlığını"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "qardaşının"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "açmışdır"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "uşaqsız"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "qalarlar"
+    }
+  ],
+  "timestamp": "2026-09-01T10:29:56.101059843Z",
+  "model": "glm-5.3"
+}

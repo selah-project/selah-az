@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Və nizamnamələrimi saxlayın və onları yerinə yetirin; Mən Yahve, sizi müqəddəsləşdirən.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "saxlayın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nizamnamələrimi"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "nizamnamələrimi"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "və yerinə yetirin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onları",
+      "marks": "onları"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "sizi müqəddəsləşdirən"
+    }
+  ],
+  "timestamp": "2026-09-01T10:29:08.854105183Z",
+  "model": "glm-5.3"
+}

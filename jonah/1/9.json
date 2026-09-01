@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 1:9",
+  "book": "jonah",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Onlara dedi: İvritəm mən; və Yahve-ni, göylərin Elohimini qorxuram mən — hansı ki, ⟨את⟩ dənizi və ⟨את⟩ quru torpağı etdi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": " dedi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "İvrit"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mənəm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göylərin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "qorxuram"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hansı ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dənizi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dənizi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "quru torpağı"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "quru torpağı"
+    }
+  ],
+  "timestamp": "2026-09-01T14:45:54.727666872Z",
+  "model": "glm-5.3"
+}

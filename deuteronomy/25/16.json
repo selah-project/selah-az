@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 25:16",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Çünki Yahve Elohiminin iyrənc şeyidir bunları edənin hamısı, haqsızlıq edənin hamısı.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "iyrənc şeyidir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiminin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamısı"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "edənin"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bunları"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamısı"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "edənin"
+    },
+    {
+      "surface": "עול",
+      "gloss": "haqsızlıq"
+    }
+  ],
+  "timestamp": "2026-09-01T17:30:55.694576232Z",
+  "model": "glm-5.3"
+}

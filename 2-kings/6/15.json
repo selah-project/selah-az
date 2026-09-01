@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 6:15",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Elohim adamının xidmətçisi səhər tezdən qalxıb çıxdı, və bax, bir qüvvə şəhəri ⟨את⟩ mühasirəyə almışdı, at və araba ⟨ilə⟩. Onun cavanı ona dedi: Vay, ağam! Nə edək?",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "səhər tezdən"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "xidmətçisi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "qalxmaq üçün"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "və çıxdı"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "və bax"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "qüvvə"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "mühasirəyə almışdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şəhəri"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şəhəri"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "at"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "və araba"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "onun cavanı"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "vay"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ağam"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "necə"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "edək"
+    }
+  ],
+  "timestamp": "2026-09-01T12:30:51.254787894Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 36:40",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 36,
+  "translation": "Bunlar Esavın əlufələrinin adlarıdır, ailələrinə görə, məkanlarına görə, adları ilə: əlufə Timna, əlufə Alva, əlufə Yetet.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "və bunlar"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "adları"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "əlufələrinin"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavın"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ailələrinə görə"
+    },
+    {
+      "surface": "למקמתם",
+      "gloss": "məkanlarına görə"
+    },
+    {
+      "surface": "בשמתם",
+      "gloss": "adları ilə"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "əlufə"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "Timna"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "əlufə"
+    },
+    {
+      "surface": "עלוה",
+      "gloss": "Alva"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "əlufə"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "Yetet"
+    }
+  ],
+  "timestamp": "2026-09-01T17:26:03.723965359Z",
+  "model": "glm-5.3"
+}

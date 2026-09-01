@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Rəşəq borc alır və ödəmir, saleh isə lütf edir və verir.",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "borc alır"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "rəşəq"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ödəmir"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ödəyir"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "saleh isə"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "lütf edir"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "və verir"
+    }
+  ],
+  "timestamp": "2026-09-01T15:13:01.757584226Z",
+  "model": "glm-5.3"
+}

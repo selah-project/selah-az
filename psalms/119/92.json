@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 92,
+  "ref": "psalms 119:92",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Əgər Tövrən mənim əyləncim olmasaydı, o zaman əzabım içində məhv olardım.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "əgər olmasaydı"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tövrən"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "əyləncim"
+    },
+    {
+      "surface": "אז",
+      "gloss": "o zaman"
+    },
+    {
+      "surface": "אבדתי",
+      "gloss": "məhv olardım"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "əzabım içində"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:21.281876580Z",
+  "model": "glm-5.3"
+}

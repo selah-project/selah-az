@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 13:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Mən isə sənin hesed-inə (sadiq məhəbbətinə) güvənirəm; qəlbim sənin xilasınla sevinəcək; Yahveyə oxuyacağam, çünki o, mənə yaxşılıq etdi.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "mən isə"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "sənin hesed-inə"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "güvənirəm"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "sevinəcək"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "qəlbim"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "sənin xilasınla"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "oxuyacağam"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "yaxşılıq etdi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mənə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:03:19.691076894Z",
+  "model": "glm-5.3"
+}

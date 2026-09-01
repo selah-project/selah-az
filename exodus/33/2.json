@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "və önündə bir mələk göndərəcəyəm, və ⟨את⟩ kənanilini, emorilini, hitilini, perizilini, hivvilini və yevusilini qovacağam.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "və göndərəcəyəm"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "önündə"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mələk"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "və qovacağam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kənanilini"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kənanilini"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emorilini"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "və hitilini"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "və perizilini"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "hivvilini"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "və yevusilini"
+    }
+  ],
+  "timestamp": "2026-09-01T10:20:04.938147820Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 125,
+  "translation": "Yeruşalayimin ətrafında dağlar ⟨vardır⟩, Yahve isə öz xalqının ətrafındadır — bu anddan əbədiyə qədər.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayimin"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dağlar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ətrafında"
+    },
+    {
+      "surface": "לה",
+      "gloss": "onun"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahve isə"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ətrafında"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "öz xalqının"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "bu anddan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "əbədiyə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:43:07.502209774Z",
+  "model": "glm-5.3"
+}

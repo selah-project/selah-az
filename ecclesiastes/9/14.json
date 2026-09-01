@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "⟨Balaca⟩ bir şəhər, içində az adam, və ona ⟨qarşı⟩ böyük bir padşah gəldi, onu ⟨את⟩ mühasirəyə aldı və üzərinə böyük səddlər qurdu.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "şəhər"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "balaca"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "və adamlar"
+    },
+    {
+      "surface": "בה",
+      "gloss": "içində"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "az"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "və gəldi"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "və mühasirəyə aldı"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "onu (şəhəri)"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "və qurdu"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "səddlər"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "böyük"
+    }
+  ],
+  "timestamp": "2026-09-01T16:31:21.517195056Z",
+  "model": "glm-5.3"
+}

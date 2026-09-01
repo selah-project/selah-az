@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 3:12",
+  "book": "malachi",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və bütün xalqlar ⟨את⟩ sizi bəxtiyar adlandıracaq, çünki siz ⟨siz⟩ arzu olunan bir ölkə olacaqsınız, — deyir Yahve Sevaot.",
+  "tokens": [
+    {
+      "surface": "ואשרו",
+      "gloss": "Və … bəxtiyar adlandıracaq"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "sizi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "olacaqsınız"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨siz⟩"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ölkə"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "arzu olunan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sevaot"
+    }
+  ],
+  "timestamp": "2026-09-01T15:01:45.531514090Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 137,
+  "translation": "Ey Babil qızı, talan olunmuş, xoşbəxtdir o kəs ki, sənə ödəyir ⟨את⟩ əvəzini, hansını ki, bizə etmisən.",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "qızı"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babil"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "talan olunmuş"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "xoşbəxtdir"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "ödəyir"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əvəzini"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "əvəzini"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "etmisən"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:45:27.819254132Z",
+  "model": "glm-5.3"
+}

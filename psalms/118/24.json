@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 118:24",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 118,
+  "translation": "Bu, Yahvenin etdiyi gündür; onda sevinək və şadlanaq.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etdiyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "sevinək"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "və şadlanaq"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onda"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:56.560550080Z",
+  "model": "glm-5.3"
+}

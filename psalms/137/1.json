@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 137,
+  "translation": "Babil çaylarının yanında orada oturduq, həm də ağladıq, Sionu xatırladığımızda.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "yanında"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "çaylarının"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babil"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "oturduq"
+    },
+    {
+      "surface": "גם",
+      "gloss": "həm də"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "ağladıq"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "xatırladığımızda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sionu"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    }
+  ],
+  "timestamp": "2026-09-01T15:44:57.128326560Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 5:7",
+  "book": "lamentations",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Atalarımız günah etdi, onlar ⟨artı⟩ yoxdur; biz onların günahlarını daşıdıq.",
+  "tokens": [
+    {
+      "surface": "אבתינו",
+      "gloss": "atalarımız"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "günah etdi"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "biz"
+    },
+    {
+      "surface": "עונתיהם",
+      "gloss": "onların günahlarını"
+    },
+    {
+      "surface": "סבלנו",
+      "gloss": "daşıdıq"
+    }
+  ],
+  "timestamp": "2026-09-01T16:28:41.158606513Z",
+  "model": "glm-5.3"
+}

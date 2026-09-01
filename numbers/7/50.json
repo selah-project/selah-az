@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 7:50",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Bir qızıl kəfkə, on şəkəl ⟨çəkisində⟩, təmamən buxurdan dolu.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "kəfkə"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "bir"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "on"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "qızıl"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "dolu"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "buxur"
+    }
+  ],
+  "timestamp": "2026-09-01T10:34:30.847874921Z",
+  "model": "glm-5.3"
+}

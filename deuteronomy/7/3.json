@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Və onlarla qohumluq bağlamayacaqsan; qızını onun oğluna verməyəcəksən, və onun qızını oğlun üçün almayacaqsan.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "qohumluq bağlayacaqsan"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onlarla"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "qızın"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "verəcəksən"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "onun oğluna"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "və onun qızı"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "alacaqsan"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "oğlun üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:48:36.458715179Z",
+  "model": "glm-5.3"
+}

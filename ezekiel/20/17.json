@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 20:17",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Və gözüm onları məhv etməkdən çəkindi, və mən onları çöldə ⟨את⟩ sona çatdırmadım.",
+  "tokens": [
+    {
+      "surface": "ותחס",
+      "gloss": "və çəkindi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözüm"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "onları"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "məhv etməkdən"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və... yox"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mən etdim"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "son"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "son"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "çöldə"
+    }
+  ],
+  "timestamp": "2026-09-01T14:12:52.515817800Z",
+  "model": "glm-5.3"
+}

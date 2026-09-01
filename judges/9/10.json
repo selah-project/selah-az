@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 9:10",
+  "book": "judges",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Ağaclar əncir ağacına dedilər: gəl, sən bizim üstümüzdə padşahlıq et.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "dedilər"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ağaclar"
+    },
+    {
+      "surface": "לתאנה",
+      "gloss": "əncir ağacına"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "gəl"
+    },
+    {
+      "surface": "את",
+      "gloss": "sən"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "padşahlıq et"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "bizim üstümüzdə"
+    }
+  ],
+  "timestamp": "2026-09-01T11:20:12.001955897Z",
+  "model": "glm-5.3"
+}

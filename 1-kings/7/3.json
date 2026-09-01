@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 7:3",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Və yuxarıdan sütunların üstündəki qabırğaların üstü sidrlə örtüldü — qırx beş ⟨sütun⟩, sıra başına on beş.",
+  "tokens": [
+    {
+      "surface": "וספן",
+      "gloss": "örtüldü"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "sidrlə"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "yuxarıdan"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "הצלעת",
+      "gloss": "qabırğaların"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "sütunların"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "qırx"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "beş"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "on beş"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(on beş)"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "sıra başına"
+    }
+  ],
+  "timestamp": "2026-09-01T12:13:39.258706979Z",
+  "model": "glm-5.3"
+}

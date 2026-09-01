@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Bu gün siz çıxırsınız, Aviv ayında.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "bu gün"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "çıxırsınız"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ayında"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Aviv"
+    }
+  ],
+  "timestamp": "2026-09-01T10:09:45.821911077Z",
+  "model": "glm-5.3"
+}

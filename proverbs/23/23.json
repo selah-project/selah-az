@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 23:23",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Həqiqəti satın al və satma; hikməti, tərbiyəni və dərki.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "həqiqəti"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "satın al"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və ... satma"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "sat"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikməti"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "tərbiyəni"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "və dərki"
+    }
+  ],
+  "timestamp": "2026-09-01T15:57:36.975583497Z",
+  "model": "glm-5.3"
+}

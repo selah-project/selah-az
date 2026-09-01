@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 10:17",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Xoşbəxt{sən}, ölkə, kralın nəciblər oğlu olanda, və sərinlərin vaxtında yeyəndə — qüvvət üçün, sərxoşluq üçün yox!",
+  "tokens": [
+    {
+      "surface": "אשריך",
+      "gloss": "xoşbəxt{sən}"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ölkə"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "חורים",
+      "gloss": "nəciblər(in)"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "və sərinlərin"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "vaxtında"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "yeyərlər"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "qüvvət üçün"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "sərxoşluqda"
+    }
+  ],
+  "timestamp": "2026-09-01T16:31:41.865076803Z",
+  "model": "glm-5.3"
+}

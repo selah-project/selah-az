@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 43:17",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 43,
+  "translation": "Və adam Yosefin dediyi kimi etdi, və adam adamları ⟨את⟩ Yosefin evinə gətirdi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "və etdi"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dediyi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "və gətirdi"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adamları"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "adamları"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "evinə"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:01:11.639344301Z",
+  "model": "glm-5.3"
+}

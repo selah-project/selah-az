@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "Nə xoşbəxtdir o kişi ki, Yahveni öz etibar yeri edib və təkəbbürlülərə və yalan tərəfdarlarına üz tutmayıb.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "nə xoşbəxtdir"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "o kişi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "edib"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveni"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "öz etibar yeri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... mayıb"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "üz tutmayıb"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "təkəbbürlülülərə"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "və tərəfdarları"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "yalan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:14:30.510514367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 3:10",
+  "book": "1-samuel",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və Yahve gəldi və dayandı və çağırdı, dəfələrlə olduğu kimi: «Şmuel, Şmuel». Və Şmuel dedi: «Danış, çünki qulun eşidir».",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "və gəldi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "və dayandı"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "və çağırdı"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "dəfələrlə olduğu kimi"
+    },
+    {
+      "surface": "בפעעם",
+      "gloss": ""
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şmuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şmuel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şmuel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "danış"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eşidir"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "qulun"
+    }
+  ],
+  "timestamp": "2026-09-01T11:31:35.408334960Z",
+  "model": "glm-5.3"
+}

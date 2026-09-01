@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 7:10",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Gəlib şəhərin qapıçısını çağırdılar və onlara bildirdilər, deyərək: «Aram düşərgəsinə girdik və bax — orada nə adam var, nə insan səsi; yalnız at bağlanmış, eşşək bağlanmış və çadırlar olduğu kimi.»",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "gəlib (girdilər)"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "çağırdılar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-"
+    },
+    {
+      "surface": "שער",
+      "gloss": "qapıçı"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şəhərin"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "bildirdilər"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "girdik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "düşərgəsinə"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "və bax"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "və səsi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insanın"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨yalnız⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "at"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "bağlanmış"
+    },
+    {
+      "surface": "והחמור",
+      "gloss": "və eşşək"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "bağlanmış"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "və çadırlar"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "olduğu kimi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "onlar⟨dır⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T12:33:41.514845851Z",
+  "model": "glm-5.3"
+}

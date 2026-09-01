@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Və peyğəmbər vasitəsilə Yahve ⟨את⟩ Yisraeli Mitsrayimdan qaldırdı, və peyğəmbər vasitəsilə ⟨o⟩ qorunub saxlandı.",
+  "tokens": [
+    {
+      "surface": "ובנביא",
+      "gloss": "və peyğəmbər vasitəsilə"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "qaldırdı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayimdan"
+    },
+    {
+      "surface": "ובנביא",
+      "gloss": "və peyğəmbər vasitəsilə"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "qorunub saxlandı"
+    }
+  ],
+  "timestamp": "2026-09-01T14:35:45.045611996Z",
+  "model": "glm-5.3"
+}

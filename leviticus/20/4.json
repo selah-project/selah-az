@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 20:4",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Əgər ölkənin xalqı o adamdan gözünü çəkərək gizlədərsə — o, öz toxumunu Molekə verərkən — onu öldürməmək üçün,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Əgər"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "gizlətmək"
+    },
+    {
+      "surface": "יעלימו",
+      "gloss": "gizlədərlər"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalqı"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ölkənin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gözlərini"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "gözlərini"
+    },
+    {
+      "surface": "מן",
+      "gloss": "−dan"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "adamdan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "בתתו",
+      "gloss": "verərkən"
+    },
+    {
+      "surface": "מזרעו",
+      "gloss": "öz toxumunu"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Molekə"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "məqsədi ilə ki... olmasın"
+    },
+    {
+      "surface": "המית",
+      "gloss": "öldürmək"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu (o adamı)"
+    }
+  ],
+  "timestamp": "2026-09-01T17:52:47.236191321Z",
+  "model": "glm-5.3"
+}

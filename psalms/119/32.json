@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 119:32",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Əmrlərin yolunu qaçacağam, çünki ürəyimi genişləndirirsən.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "yolunu"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "əmrlərin"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "qaçacağam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "תרחיב",
+      "gloss": "genişləndirirsən"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ürəyimi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:52.308075665Z",
+  "model": "glm-5.3"
+}

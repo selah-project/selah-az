@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 137,
+  "translation": "Necə oxuyaq ⟨את⟩ Yahvenin mahnısını yad torpaqda?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "necə"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "oxuyaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahvenin mahnısını"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "mahnısını"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerində"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "torpaqda"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "yad"
+    }
+  ],
+  "timestamp": "2026-09-01T15:44:57.128805571Z",
+  "model": "glm-5.3"
+}

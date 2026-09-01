@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və qadın ilana dedi: “Bağın ağaclarının meyvəsindən yeyirik.”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Və dedi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "qadın"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ilana"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "meyvəsindən"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ağaclarının"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "bağın"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "yeyirik"
+    }
+  ],
+  "timestamp": "2026-09-01T09:46:24.157696539Z",
+  "model": "glm-5.3"
+}

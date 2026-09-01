@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 44:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 44,
+  "translation": "Bizi yem olacaq qoyunlar kimi təslim etdin və millətlər arasında səpələdin.",
+  "tokens": [
+    {
+      "surface": "תתננו",
+      "gloss": "bizi təslim etdin"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "qoyunlar kimi"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "yem"
+    },
+    {
+      "surface": "ובגוים",
+      "gloss": "və millətlər arasında"
+    },
+    {
+      "surface": "זריתנו",
+      "gloss": "səpələdin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:15:10.565821721Z",
+  "model": "glm-5.3"
+}

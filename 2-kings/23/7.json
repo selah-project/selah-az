@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 23:7",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Və ⟨את⟩ qədeşlərin evlərini dağıtdı — Yahvenin evində ⟨olanları⟩ — ⟨elə yeri ki⟩ qadınlar orada Aşera üçün evlər toxuyurdular.",
+  "tokens": [
+    {
+      "surface": "ויתץ",
+      "gloss": "dağıtdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "evlərini"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "evlərini"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "qədeşlərin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ki⟩"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "evində"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ki⟩"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "qadınlar"
+    },
+    {
+      "surface": "ארגות",
+      "gloss": "toxuyurdular"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "evlər"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "Aşera üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T12:44:07.507519051Z",
+  "model": "glm-5.3"
+}

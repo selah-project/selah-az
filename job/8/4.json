@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 8:4",
+  "book": "job",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Əgər oğulların Ona qarşı günah etdilərsə, O onları öz üsyanlarının əlinə göndərdi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "oğulların"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "günah etdilərsə"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "O onları göndərdi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "əlinə"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "üsyanlarının"
+    }
+  ],
+  "timestamp": "2026-09-01T16:05:25.770183502Z",
+  "model": "glm-5.3"
+}

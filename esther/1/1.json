@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 1:1",
+  "book": "esther",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və oldu — Axaşveroşin günlərində, o Axaşveroş, ⟨o⟩ padşah, Hodudan Kuşa qədər, yeddi və iyirmi və yüz əyalət üzərində hökmranlıq edən.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Və oldu"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "günlərində"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Axaşveroşin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Axaşveroş"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "Hodudan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuşa"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yeddi"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "və iyirmi"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "və yüz"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "əyalət"
+    }
+  ],
+  "timestamp": "2026-09-01T16:35:23.575212704Z",
+  "model": "glm-5.3"
+}

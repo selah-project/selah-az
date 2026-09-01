@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 58:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 58,
+  "translation": "Həqiqətənmi, ey sükut ⟨içindəkilər⟩, ədaləti danışırsınız? Adamların oğulları arasında düzgün hökm verirsiniz?",
+  "tokens": [
+    {
+      "surface": "האמנם",
+      "gloss": "Həqiqətənmi"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "sükut"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ədaləti"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "danışırsınız"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "düzgün"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "hökm verirsiniz"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adamların"
+    }
+  ],
+  "timestamp": "2026-09-01T15:19:22.375075596Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 99,
+  "translation": "Yahve hökmranlıq etdi — xalqlar titrəsin; Kərubim üstündə oturan — yer sarsın.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hökmranlıq etdi"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "titrəsin"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "oturan"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "Kərubim üstündə"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "sarsın"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-09-01T15:34:25.556913287Z",
+  "model": "glm-5.3"
+}

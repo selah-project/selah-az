@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Günəş doğur və günəş batır, öz yerinə doğru nəfəsini çəkərək tələsir; orada doğan ⟨odur⟩.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "doğur"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "günəş"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "batır"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "günəş"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "doğru"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "öz yerinə"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "nəfəsini çəkərək tələsir"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "doğan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    }
+  ],
+  "timestamp": "2026-09-01T16:30:25.393757981Z",
+  "model": "glm-5.3"
+}

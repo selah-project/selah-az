@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 74:21",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 74,
+  "translation": "Ezilən utandırılmış halda geri qayıtmasın; aciz və yoxsul Adını sənin adını şərtləndirsin.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "qayıtmasın (inkar)"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "geri qayıtmasın"
+    },
+    {
+      "surface": "דך",
+      "gloss": "ezilən"
+    },
+    {
+      "surface": "נכלם",
+      "gloss": "utandırılmış halda"
+    },
+    {
+      "surface": "עני",
+      "gloss": "aciz"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "və yoxsul"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "şərtləndirsinlər"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sənin adını"
+    }
+  ],
+  "timestamp": "2026-09-01T15:24:45.650735916Z",
+  "model": "glm-5.3"
+}

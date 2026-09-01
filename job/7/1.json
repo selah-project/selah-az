@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 7:1",
+  "book": "job",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Məgər insan üçün yer üzündə hərbi xidmət yoxdurmu? Və onun günləri muzdlu işçinin günləri kimidir.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "məgər ... yoxdurmu"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "hərbi xidmət"
+    },
+    {
+      "surface": "לאנוש",
+      "gloss": "insan üçün"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərində"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "וכימי",
+      "gloss": "və ... günləri kimi"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "muzdlu işçinin"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "onun günləri"
+    }
+  ],
+  "timestamp": "2026-09-01T16:05:11.617297876Z",
+  "model": "glm-5.3"
+}

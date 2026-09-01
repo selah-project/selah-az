@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 9:12",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Çünki insan həm öz vaxtını ⟨את⟩ bilmir — balıqlar kimi ki pis torun içində tutulur, quşlar kimi ki dəmir tora yaxalanır; onlar kimi insan oğulları da pis bir vaxtda tutulurlar, birdən öz üstlərinə düşəndə.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "גם",
+      "gloss": "həm"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-mır"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilmir"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öz vaxtı"
+    },
+    {
+      "surface": "עתו",
+      "gloss": "öz vaxtını"
+    },
+    {
+      "surface": "כדגים",
+      "gloss": "balıqlar kimi"
+    },
+    {
+      "surface": "שנאחזים",
+      "gloss": "ki tutulur"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "torun içində"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pis"
+    },
+    {
+      "surface": "וכצפרים",
+      "gloss": "və quşlar kimi"
+    },
+    {
+      "surface": "האחזות",
+      "gloss": "yaxalanan"
+    },
+    {
+      "surface": "בפח",
+      "gloss": "tora"
+    },
+    {
+      "surface": "כהם",
+      "gloss": "onlar kimi"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "tutulurlar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "vaxtda"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pis"
+    },
+    {
+      "surface": "כשתפול",
+      "gloss": "düşəndə"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "üstlərinə"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "birdən"
+    }
+  ],
+  "timestamp": "2026-09-01T16:33:23.385557365Z",
+  "model": "glm-5.3"
+}

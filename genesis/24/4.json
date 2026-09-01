@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 24:4",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "çünki sən mənim torpağıma və doğulduğum yerə gedəcəksən və oğlum Yitsxaq üçün qadın götürəcəksən.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "torpağıma"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və -ə"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "doğulduğum yerə"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "gedəcəksən"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "və götürəcəksən"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "qadın"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oğlum"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Yitsxaq üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T09:52:34.639229385Z",
+  "model": "glm-5.3"
+}

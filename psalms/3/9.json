@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Yahve-yəddir xilas; xalqının üstündə bərəkətin. Sela.",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve-yəddir"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "xilas"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "xalqının"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "bərəkətin"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-09-01T15:00:02.933909183Z",
+  "model": "glm-5.3"
+}

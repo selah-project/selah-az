@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Öküzlə və eşşəklə birlikdə şummayacaqsan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "şummayacaqsan"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "öküzlə"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "və eşşəklə"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "birlikdə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:51:51.041702832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 145,
+  "translation": "Şanın izzətinin əzəmətini və möcüzələrinin sözlərini düşünüb-söyləyəcəyəm.",
+  "tokens": [
+    {
+      "surface": "הדר",
+      "gloss": "əzəmətini"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "izzətinin"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "şanın"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "və ... sözlərini"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "möcüzələrinin"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "düşünüb-söyləyəcəyəm"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:33.857758982Z",
+  "model": "glm-5.3"
+}

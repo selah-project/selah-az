@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 16:18",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Və omer ilə ölçdülər: çox yığan artıq saxlamadı, az yığan əskik qalmadı; hər biri öz yeməyinə görə yığdı.",
+  "tokens": [
+    {
+      "surface": "וימדו",
+      "gloss": "və ölçdülər"
+    },
+    {
+      "surface": "בעמר",
+      "gloss": "omer ilə"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və… yox"
+    },
+    {
+      "surface": "העדיף",
+      "gloss": "artıq saxlamadı"
+    },
+    {
+      "surface": "המרבה",
+      "gloss": "çox yığan"
+    },
+    {
+      "surface": "והממעיט",
+      "gloss": "az yığan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "החסיר",
+      "gloss": "əskik qaldı"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər biri"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "görə"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "öz yeməyinə"
+    },
+    {
+      "surface": "לקטו",
+      "gloss": "yığdı"
+    }
+  ],
+  "timestamp": "2026-09-01T10:10:24.192829089Z",
+  "model": "glm-5.3"
+}

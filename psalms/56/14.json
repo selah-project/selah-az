@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 56:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 56,
+  "translation": "Çünki canımı ölümdən qurtardın, ayaqlarımı yıxılmaqdan ⟨məgər⟩ ⟨sən⟩ qurtarmadınmı, Elohimin üzərində, dirilərin işığında gəzmək üçün?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "הצלת",
+      "gloss": "qurtardın"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ölümdən"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "⟨məgər⟩...deyilmi"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ayaqlarımı"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "yıxılmaqdan"
+    },
+    {
+      "surface": "להתהלך",
+      "gloss": "gəzmək üçün"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "üzərində"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "באור",
+      "gloss": "işığında"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "dirilərin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:17:34.570342109Z",
+  "model": "glm-5.3"
+}

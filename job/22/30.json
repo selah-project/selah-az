@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 22:30",
+  "book": "job",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Günahsız olmayanı belə xilas edəcək, və o, əllərinin təmizliyi sayəsində xilas olunacaq.",
+  "tokens": [
+    {
+      "surface": "ימלט",
+      "gloss": "xilas edəcək"
+    },
+    {
+      "surface": "אי",
+      "gloss": "olmayanı"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "günahsız"
+    },
+    {
+      "surface": "ונמלט",
+      "gloss": "xilas olunacaq"
+    },
+    {
+      "surface": "בבר",
+      "gloss": "təmizliyi sayəsində"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "əllərinin"
+    }
+  ],
+  "timestamp": "2026-09-01T16:11:46.347602167Z",
+  "model": "glm-5.3"
+}

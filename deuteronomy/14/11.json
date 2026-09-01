@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 14:11",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Bütün təmiz quşları yeyə bilərsiniz.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "quşları"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "təmiz"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yeyə bilərsiniz"
+    }
+  ],
+  "timestamp": "2026-09-01T10:50:09.419504864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 95,
+  "translation": "Qırx il o nəslə qarşı ikrah duydum və dedim: qəlbi azan bir xalqdır ⟨onlar⟩, və ⟨onlar⟩ yollarımı tanımadılar.",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "qırx"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "il"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "ikrah duydum"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "o nəslə qarşı"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "və dedim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "azan"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "qəlbi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨onlar⟩"
+    },
+    {
+      "surface": "והם",
+      "gloss": "və ⟨onlar⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "tanımadılar"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "yollarımı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:31:29.004552171Z",
+  "model": "glm-5.3"
+}

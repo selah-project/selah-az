@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 94:23",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 94,
+  "translation": "Və onların üstünə ⟨את⟩ onların şərini qaytaracaq, onların pisliyində onları kökünü kəsəcək, kökünü kəsəcək onları Yahve, Elohimimiz.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Və ... qaytaracaq"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "onların üstünə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onların şərini"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "onların şərini"
+    },
+    {
+      "surface": "וברעתם",
+      "gloss": "onların pisliyində"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "onları kökünü kəsəcək"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "kökünü kəsəcək onları"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimiz"
+    }
+  ],
+  "timestamp": "2026-09-01T15:31:21.110813885Z",
+  "model": "glm-5.3"
+}

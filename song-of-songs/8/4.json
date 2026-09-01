@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 8:4",
+  "book": "song-of-songs",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "And içdim ⟨את⟩ sizə, Yeruşalayim qızları: məhəbbəti oyatmayın və oyandırmayın, istəyənə qədər.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "and içdim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizə (Yeruşalayim qızları)"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "qızları"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə üçün"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "oyatmayın"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "və nə üçün"
+    },
+    {
+      "surface": "תעררו",
+      "gloss": "oyandırmayın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "məhəbbəti"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "məhəbbəti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "istəyənə"
+    }
+  ],
+  "timestamp": "2026-09-01T16:23:14.295436291Z",
+  "model": "glm-5.3"
+}

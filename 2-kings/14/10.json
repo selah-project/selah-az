@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Vurmusan ⟨sən⟩ ⟨את⟩ Edomu, və qəlbin səni qaldırmışdır; ⟨bu ilə⟩ öyün və evində otur; niyə şərə qarışırısan ki, sən və səninlə Yehuda düşəsiniz?",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "həqiqətən vurmusan"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "vurmusan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edomu"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "qaldırmışdır səni"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "qəlbin"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "öyün"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "otur"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "evində"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "və niyə"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "qarışırısan"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "şərə"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "düşəsən"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "və Yehuda"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "səninlə"
+    }
+  ],
+  "timestamp": "2026-09-01T17:35:16.268268673Z",
+  "model": "glm-5.3"
+}

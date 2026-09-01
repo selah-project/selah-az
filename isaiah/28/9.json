@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "O, ⟨את⟩ kimə bilik öyrədəcək, ⟨את⟩ kimə xəbəri anladacaq? Südən kəsilmişlərəmi, döşdən aralanmışlara mı?",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kimə"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kimə"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "öyrədəcək"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "bilik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kimə"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kimə"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "anladacaq"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "xəbəri"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "kəsilmişlərəmi"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "südən"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "aralanmışlar"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "döşdən"
+    }
+  ],
+  "timestamp": "2026-09-01T12:58:19.448600556Z",
+  "model": "glm-5.3"
+}

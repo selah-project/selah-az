@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 78:44",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 78,
+  "translation": "Və onların çaylarını qana çevirdi, bulaqlarını isə ⟨belə ki⟩ heç içə bilmədilər.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "və çevirdi"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "qana"
+    },
+    {
+      "surface": "יאריהם",
+      "gloss": "onların çaylarını"
+    },
+    {
+      "surface": "ונזליהם",
+      "gloss": "bulaqlarını"
+    },
+    {
+      "surface": "בל",
+      "gloss": "heç"
+    },
+    {
+      "surface": "ישתיון",
+      "gloss": "içə bilmədilər"
+    }
+  ],
+  "timestamp": "2026-09-01T17:42:52.895095047Z",
+  "model": "glm-5.3"
+}

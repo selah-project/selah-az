@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Çünki ot kimi tez kəsiləcəklər, yaşıl otlar kimi solub quruyacaqlar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "ot kimi"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "tez"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "kəsiləcəklər"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "yaşıl otlar kimi"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "otlar"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "solub quruyacaqlar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:12:15.815369601Z",
+  "model": "glm-5.3"
+}

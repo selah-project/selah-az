@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 122:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 122,
+  "translation": "Çünki oraya qalxırlar qəbilələr, Yahın qəbilələri, İsrail üçün şəhadət olaraq, Yahvenin adına şükür etmək üçün.",
+  "tokens": [
+    {
+      "surface": "ששם",
+      "gloss": "çünki oraya"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "qalxırlar"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "qəbilələr"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "qəbilələri"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yahın"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "şəhadət olaraq"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "İsrail üçün"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "şükür etmək üçün"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "adına"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:46.436193173Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 73,
+  "translation": "Mən isə ⟨az qala⟩ ayaqlarım əyildi, addımlarım yox olmuş kimi töküldü.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "mən isə"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "az qala"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "əyildi"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ayaqlarım"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "yox olmuş kimi"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "töküldü"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "addımlarım"
+    }
+  ],
+  "timestamp": "2026-09-01T15:24:18.522271433Z",
+  "model": "glm-5.3"
+}

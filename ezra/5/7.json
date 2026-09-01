@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 5:7",
+  "book": "ezra",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Ona ⟨belə⟩ bir məktub göndərdilər; içində belə yazılmışdır: Darəyavuş padşaha — tam salamatlıq!",
+  "tokens": [
+    {
+      "surface": "פתגמא",
+      "gloss": "məktub"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "göndərdilər"
+    },
+    {
+      "surface": "עלוהי",
+      "gloss": "ona"
+    },
+    {
+      "surface": "וכדנה",
+      "gloss": "belə"
+    },
+    {
+      "surface": "כתיב",
+      "gloss": "yazılmışdır"
+    },
+    {
+      "surface": "בגוה",
+      "gloss": "içində"
+    },
+    {
+      "surface": "לדריוש",
+      "gloss": "Darəyavuş"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "padışaha"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "salamatlıq"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "tam"
+    }
+  ],
+  "timestamp": "2026-09-01T16:50:35.601384787Z",
+  "model": "glm-5.3"
+}

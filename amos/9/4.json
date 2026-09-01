@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 9:4",
+  "book": "amos",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Və əgər düşmənlərinin önündə əsirliyə getsələr, oradan ⟨את⟩ qılıncı əmr edəcəyəm və o, onları öldürəcək; və gözümü onların üstünə şər üçün qoyacağam, yaxşı üçün isə yox.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Və əgər"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "getsələr"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "əsirliyə"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önündə"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "düşmənlərinin"
+    },
+    {
+      "surface": "משם",
+      "gloss": "oradan"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "əmr edəcəyəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qılınc"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "qılınc"
+    },
+    {
+      "surface": "והרגתם",
+      "gloss": "və onları öldürəcək"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "və qoyacağam"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözümü"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "onların üstünə"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "şər üçün"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "yaxşı üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T14:44:18.926280798Z",
+  "model": "glm-5.3"
+}

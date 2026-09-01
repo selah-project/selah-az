@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 12:4",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Qüdrətli qadın ərinin tacıdır, utanc gətirən isə sümüklərindəki çürüyüş kimidir.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "qadın"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "qüdrətli"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "tacıdır"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "ərinin"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "çürüyüş kimidir isə"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "sümüklərindəki"
+    },
+    {
+      "surface": "מבישה",
+      "gloss": "utanc gətirən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:52:38.937618045Z",
+  "model": "glm-5.3"
+}

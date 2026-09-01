@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 144,
+  "translation": "⟨Davuda məxsus psalm⟩. Mübarəkdir Yahve, qayam — əllərimə döyüşməyi, barmaqlarıma vuruşmağı öyrədən.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "⟨Davuda məxsus⟩"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Mübarəkdir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "qayam"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "öyrədən"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "əllərimə"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "döyüşməyi"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "barmaqlarıma"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "vuruşmağı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:45:25.499963527Z",
+  "model": "glm-5.3"
+}

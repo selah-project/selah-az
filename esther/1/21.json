@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "esther 1:21",
+  "book": "esther",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və ⟨bu⟩ söz padşahın və sərkərdələrin gözündə yaxşı göründü, və padşah Memuxanın sözünə görə etdi.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "yaxşı göründü"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "söz"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "gözündə"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşahın"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "və sərkərdələrin"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "və etdi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sözünə görə"
+    },
+    {
+      "surface": "ממוכן",
+      "gloss": "Memuxanın"
+    }
+  ],
+  "timestamp": "2026-09-01T16:33:29.961769240Z",
+  "model": "glm-5.3"
+}

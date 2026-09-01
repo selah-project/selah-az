@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 36:20",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 36,
+  "translation": "Bütün bu ölkələrin tanrıları arasından kim ⟨את⟩ öz torpağını mənim əlimdən xilas etdi ki, Yahve ⟨את⟩ Yerusəlalımı mənim əlimdən xilas etsin?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün... arasından"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "tanrıları"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "ölkələrinin"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "xilas etdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öz torpağını"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "öz torpağını"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "mənim əlimdən"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "xilas etsin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerusəlalımı"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusəlalımı"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "mənim əlimdən"
+    }
+  ],
+  "timestamp": "2026-09-01T13:04:23.086216537Z",
+  "model": "glm-5.3"
+}

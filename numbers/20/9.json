@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Moşe Yahvenin hüzurundan ⟨את⟩ əsasını götürdü, ona əmr edildiyi kimi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "götürdü"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əsasa"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "əsasanı"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "hüzurundan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ona əmr etdi"
+    }
+  ],
+  "timestamp": "2026-09-01T10:40:19.387513383Z",
+  "model": "glm-5.3"
+}

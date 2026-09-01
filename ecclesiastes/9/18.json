@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 9:18",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Hikmət müharibə silahlarından xeyirlidir, və bir günahkar çox xeyri məhv edir.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "xeyirlidir"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmət"
+    },
+    {
+      "surface": "מכלי",
+      "gloss": "silahlarından"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "müharibə"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "və günahkar"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "məhv edir"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "xeyri"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "çox"
+    }
+  ],
+  "timestamp": "2026-09-01T16:30:52.249550175Z",
+  "model": "glm-5.3"
+}

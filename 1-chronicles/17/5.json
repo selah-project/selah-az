@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 17:5",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Çünki İsraili ⟨את⟩ çıxardığım gündən bu günə qədər evdə oturmadım, çadırdan çadıra və məskəndən ⟨məskənə⟩ oldum.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "oturmadım… -mə"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "oturmadım"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "evdə"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gündən"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "çıxardım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsraili"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsraili"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "היום",
+      "gloss": "günə"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "oldum"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "çadırdan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "çadıra… -a"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadıra"
+    },
+    {
+      "surface": "וממשכן",
+      "gloss": "və məskəndən"
+    }
+  ],
+  "timestamp": "2026-09-01T17:07:09.718443547Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 17:30",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Və Bavl adamları ⟨את⟩ Succot-Benotu etdilər, və Kut adamları ⟨את⟩ Nergalı etdilər, və Hamat adamları ⟨את⟩ Aşimanı etdilər.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "və adamları"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavl"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "etdilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Succot-Benotu"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Succot"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "Benot"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "və adamları"
+    },
+    {
+      "surface": "כות",
+      "gloss": "Kut"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "etdilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nergalı"
+    },
+    {
+      "surface": "נרגל",
+      "gloss": "Nergal"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "və adamları"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "etdilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aşimanı"
+    },
+    {
+      "surface": "אשימא",
+      "gloss": "Aşima"
+    }
+  ],
+  "timestamp": "2026-09-01T12:41:06.128163741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Gözlərində rədd edilmiş alçaqdır, Yahvedən qorxanları isə ⟨את⟩ ehtiramla qəbul edir; pisliyə and içəndə ⟨andından⟩ dönməz.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "alçaq (noxusan rədd edilmiş)"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "Gözlərində"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "rədd edilmiş"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahvedən qorxanları"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "qorxanları"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "ehtiramla qəbul edir (ağırlıq verir)"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "and içəndə"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "pisliyə"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dönməz"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "dönməz (dəyişməz)"
+    }
+  ],
+  "timestamp": "2026-09-01T15:05:05.900524775Z",
+  "model": "glm-5.3"
+}

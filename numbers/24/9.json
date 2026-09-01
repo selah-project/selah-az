@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 24:9",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Şir kimi çöküb uzandı, şir dişisi kimi — onu kim oyada bilər? Səni mübarək edən mübarək ⟨dir⟩, səni qarğayan isə qarğalanmış ⟨dır⟩.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "çöküb"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "uzandı"
+    },
+    {
+      "surface": "כארי",
+      "gloss": "şir kimi"
+    },
+    {
+      "surface": "וכלביא",
+      "gloss": "şir dişisi kimi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יקימנו",
+      "gloss": "onu oyada bilər"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "səni mübarək edən"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "mübarək ⟨dir⟩"
+    },
+    {
+      "surface": "וארריך",
+      "gloss": "səni qarğayan"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "qarğalanmış ⟨dır⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T10:41:20.315693505Z",
+  "model": "glm-5.3"
+}

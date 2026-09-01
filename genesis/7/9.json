@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 7:9",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "İki-iki gəldilər Noaha, gəmiyə, erkək və dişi, necə ki Elohim əmr etmişdi ⟨את⟩ Noah.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "iki"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iki"
+    },
+    {
+      "surface": "באו",
+      "gloss": "gəldilər"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−ya"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−ya"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "gəmiyə"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "erkək"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "və dişi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "necə ki"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "əmr etmişdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noah"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noah"
+    }
+  ],
+  "timestamp": "2026-09-01T09:47:16.983706976Z",
+  "model": "glm-5.3"
+}

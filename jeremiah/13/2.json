@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Və kəməri Yahvenin sözünə görə ⟨את⟩ satın aldım və belimə qoydum.",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "satın aldım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kəməri"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "kəməri"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sözünə görə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "qoydum"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "belim"
+    }
+  ],
+  "timestamp": "2026-09-01T18:00:32.517732261Z",
+  "model": "glm-5.3"
+}

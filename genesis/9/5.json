@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Və həqiqətən, ⟨את⟩ qanınızı — canlarınızın ⟨qanını⟩ — mən tələb edəcəyəm; hər canlının əlindən onu tələb edəcəyəm; və insanın əlindən, hər kişinin qardaşının əlindən ⟨את⟩ insanın canını tələb edəcəyəm.",
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "və həqiqətən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qanınızı"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "qanınızı"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "canlarınızın"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "mən tələb edəcəyəm"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "əlindən"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "canlının"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "onu tələb edəcəyəm"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "və əlindən"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insanın"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "əlindən"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kişinin"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "qardaşının"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "tələb edəcəyəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "insanın canını"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "canını"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insanın"
+    }
+  ],
+  "timestamp": "2026-09-01T09:47:12.595754008Z",
+  "model": "glm-5.3"
+}

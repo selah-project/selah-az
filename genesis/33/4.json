@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 33:4",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "Və Esav onu qarşılamağa qaçdı, onu qucaqladı, boynuna düşdü, onu öpdü, və ⟨onlar⟩ ağladılar.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "qaçdı"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "onu qarşılamağa"
+    },
+    {
+      "surface": "ויחבקהו",
+      "gloss": "onu qucaqladı"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "düşdü"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "צוארו",
+      "gloss": "boynuna"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "onu öpdü"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "ağladılar"
+    }
+  ],
+  "timestamp": "2026-09-01T09:57:00.936808611Z",
+  "model": "glm-5.3"
+}

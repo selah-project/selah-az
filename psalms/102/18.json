@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 102,
+  "translation": "Dardsızın duasına üz tutdu və onların duasını ⟨את⟩ rədd etmədi.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "üz tutdu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "duasına"
+    },
+    {
+      "surface": "הערער",
+      "gloss": "dardsızın"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... etmədi"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "rədd etdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onların duasını"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "onların duasını"
+    }
+  ],
+  "timestamp": "2026-09-01T15:34:08.387261517Z",
+  "model": "glm-5.3"
+}

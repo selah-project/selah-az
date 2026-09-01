@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 1:33",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Onların sayılmışları Efrayim qəbiləsinə görə qırx min beş yüz idi.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "onların sayılmışları"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "qəbiləsinə göre"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "qırx"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "min"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "və beş"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    }
+  ],
+  "timestamp": "2026-09-01T10:32:25.609080053Z",
+  "model": "glm-5.3"
+}

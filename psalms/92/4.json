@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 92,
+  "translation": "Onsimli ⟨çalğı⟩ üstündə, və nevel üstündə, hiqayon üstündə, kinnor ⟨ilə⟩.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "onsimli"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "və üstündə"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nevel"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "hiqayon"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinnor ⟨ilə⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T15:32:53.911389579Z",
+  "model": "glm-5.3"
+}

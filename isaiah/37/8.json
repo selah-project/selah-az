@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Ravşaqe qayıtdı və Assur padşahını Libna üzərində vuruşarkən tapdı, çünki Lakışdan yola düşdüyünü eşitmişdi.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "qayıtdı"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rav(şaqe)"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "(-şaqe)"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "və tapdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Assur padşahını"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşahını"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "vuruşarkən"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərində"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eşitmişdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "yola düşdüyünü"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "Lakışdan"
+    }
+  ],
+  "timestamp": "2026-09-01T13:04:30.960424120Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 71,
+  "translation": "Ağzım Sənin salehliyini danışacaq, bütün gün Sənin xilasını; çünki mən onların sayını bilmirəm.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "Ağzım"
+    },
+    {
+      "surface": "יסספר",
+      "gloss": "danışacaq"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "salehliyini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "xilasını"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "bilmirəm"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "sayını"
+    }
+  ],
+  "timestamp": "2026-09-01T15:23:12.797957157Z",
+  "model": "glm-5.3"
+}

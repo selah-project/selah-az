@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 11:23",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Və Yahve Moşeyə dedi: Yahvenin əli mi qısalıb? İndi görəcəksən — sözüm sənə çatacaqmı, yoxsa yox.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə, doğru"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "היד",
+      "gloss": "əli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "תקצר",
+      "gloss": "qısalıbmı"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "görəcəksən"
+    },
+    {
+      "surface": "היקרך",
+      "gloss": "çatacaqmı"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözüm"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ymı"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    }
+  ],
+  "timestamp": "2026-09-01T10:37:01.607038105Z",
+  "model": "glm-5.3"
+}

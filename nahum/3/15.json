@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nahum 3:15",
+  "book": "nahum",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Orada od səni yeyəcək, qılınc səni kəsəcək; çəyirtkə çiyinün kimi səni yeyəcək. Ağırlaş çəyirtkə çiyini kimi, ağırlaş sürü çəyirtkəsi kimi.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "תאכלך",
+      "gloss": "yeyəcək səni"
+    },
+    {
+      "surface": "אש",
+      "gloss": "od"
+    },
+    {
+      "surface": "תכריתך",
+      "gloss": "kəsəcək səni"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "qılınc"
+    },
+    {
+      "surface": "תאכלך",
+      "gloss": "yeyəcək səni"
+    },
+    {
+      "surface": "כילק",
+      "gloss": "çəyirtkə çiyini kimi"
+    },
+    {
+      "surface": "התכבד",
+      "gloss": "ağırlaş"
+    },
+    {
+      "surface": "כילק",
+      "gloss": "çəyirtkə çiyini kimi"
+    },
+    {
+      "surface": "התכבדי",
+      "gloss": "ağırlaş"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "sürü çəyirtkəsi kimi"
+    }
+  ],
+  "timestamp": "2026-09-01T14:49:37.604076149Z",
+  "model": "glm-5.3"
+}

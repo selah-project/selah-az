@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 4:17",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və ⟨o⟩ qadın hamilə qaldı və bu təyinata, can⟨ın⟩ vaxtına görə, Elişanın ona dediyi kimi bir oğul doğdu.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "hamilə qaldı"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "qadın"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "və doğdu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "bu təyinat⟨a⟩"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "vaxtına görə"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "can⟨ın⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dediyi"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elişa"
+    }
+  ],
+  "timestamp": "2026-09-01T12:30:52.511273834Z",
+  "model": "glm-5.3"
+}

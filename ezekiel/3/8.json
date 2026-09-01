@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 3:8",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Bax, üzlərini onların üzlərinin qarşısında sərt ⟨etdim⟩, alınını onların alnının qarşısında sərt ⟨etdim⟩.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bax"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "etdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "üzünü"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "üzünü"
+    },
+    {
+      "surface": "חזקים",
+      "gloss": "sərt"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "qarşısında"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "onların üzlərinin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alınını"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "alınını"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "sərt"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "qarşısında"
+    },
+    {
+      "surface": "מצחם",
+      "gloss": "onların alnının"
+    }
+  ],
+  "timestamp": "2026-09-01T14:03:06.218687074Z",
+  "model": "glm-5.3"
+}

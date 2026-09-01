@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 104:21",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 104,
+  "translation": "Gənc şirler ov üçün nərildəyirlər və Elindən yeməklərini axtarırlar.",
+  "tokens": [
+    {
+      "surface": "הכפירים",
+      "gloss": "gənc şirler"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "nərildəyirlər"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "ov üçün"
+    },
+    {
+      "surface": "ולבקש",
+      "gloss": "və axtarırlar"
+    },
+    {
+      "surface": "מאל",
+      "gloss": "Elindən"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "yeməklərini"
+    }
+  ],
+  "timestamp": "2026-09-01T15:33:52.271922901Z",
+  "model": "glm-5.3"
+}

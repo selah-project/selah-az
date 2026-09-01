@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Davud xəbər tutdu və ⟨את⟩ Yoavı və ⟨את⟩ bütün qəhrəmanlar ordusunu göndərdi.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "xəbər tutdu"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "və göndərdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoavı"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bütün qəhrəmanlar ordusunu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ordu"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "qəhrəmanlar"
+    }
+  ],
+  "timestamp": "2026-09-01T17:07:10.416163309Z",
+  "model": "glm-5.3"
+}

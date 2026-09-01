@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 1:44",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və o dağda yaşayan Haemori sizin qarşınızla çıxdı və sizi arıların etdiyi kimi qovdular və ⟨את⟩ sizinizi Seirdən Xormaya qədər məğlub etdilər.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "və çıxdı"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Haemori"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "yaşayan"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "o dağda"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לקראתכם",
+      "gloss": "sizin qarşınızla"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "və qovdular"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "arıların etdiyi kimi (qovmaq obyekti)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "תעשינה",
+      "gloss": "etdiyi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "arıların"
+    },
+    {
+      "surface": "ויכתו",
+      "gloss": "və məğlub etdilər"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizinizi",
+      "marks": "sizi (Seirdən Xormaya qədər vurulan obyekt)"
+    },
+    {
+      "surface": "בשעיר",
+      "gloss": "Seirdən"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Xormaya"
+    }
+  ],
+  "timestamp": "2026-09-01T17:57:47.017534411Z",
+  "model": "glm-5.3"
+}

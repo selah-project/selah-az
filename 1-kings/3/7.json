@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 3:7",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və indi, Yahve, Elohimim, sən qulunu atam Davudun yerinə hökmdar etdin, amma mən kiçik bir oğlanam, çıxmağı və girməyi bilmirəm.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "və indi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "hökmdar etdin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qulunu"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "qulunu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "yerinə"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atam"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "amma mən"
+    },
+    {
+      "surface": "נער",
+      "gloss": "oğlan"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "kiçik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "bilmirəm"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "çıxmağı"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "və girməyi"
+    }
+  ],
+  "timestamp": "2026-09-01T12:10:37.082956852Z",
+  "model": "glm-5.3"
+}

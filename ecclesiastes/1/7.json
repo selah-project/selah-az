@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Bütün çaylar dənizə gedir və dəniz dolmur; çayların getdiyi yerə, oraya onlar geri qayıdırlar ⟨axmaq üçün⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "çaylar"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "gedirlər"
+    },
+    {
+      "surface": "אל",
+      "gloss": "doğru"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dəniz"
+    },
+    {
+      "surface": "והים",
+      "gloss": "və dəniz"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "dolmur"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "dolmuş ⟨deyil⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "doğru"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "yer"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "çayların"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "getdiyi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "oraya"
+    },
+    {
+      "surface": "הם",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "geri qayıdırlar"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "⟨axmaq üçün⟩ gedməyə"
+    }
+  ],
+  "timestamp": "2026-09-01T16:30:25.394280160Z",
+  "model": "glm-5.3"
+}

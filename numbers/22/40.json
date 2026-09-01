@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 22:40",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Balak inək və qoyun ⟨את⟩ kəsdi və Bilama və yanında olan sərərlərə ⟨göndərdi⟩.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "kəsdi (qurban)"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "inək"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "qoyun"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "⟨göndərdi⟩"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "Bilama"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "sərərlərə"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onun yanında",
+      "marks": "onun yanında"
+    }
+  ],
+  "timestamp": "2026-09-01T17:29:06.966338501Z",
+  "model": "glm-5.3"
+}

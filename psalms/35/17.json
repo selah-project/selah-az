@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 35:17",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "Adonay, nə qədər baxacaqsan? ⟨Canımı⟩ onların dağıntılarından geri qaytar, şirlərdən təkcanımı.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "nə qədər"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "baxacaqsan"
+    },
+    {
+      "surface": "השיבה",
+      "gloss": "geri qaytar"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "משאיהם",
+      "gloss": "onların dağıntılarından"
+    },
+    {
+      "surface": "מכפירים",
+      "gloss": "şirlərdən"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "təkcanımı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:11:24.629168125Z",
+  "model": "glm-5.3"
+}

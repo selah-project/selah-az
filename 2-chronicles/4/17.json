@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 4:17",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Padşah onları İordanın dairəsində, Sukkot ilə Tseredata arasındakı gil torpaqda tökdü.",
+  "tokens": [
+    {
+      "surface": "בככר",
+      "gloss": "dairəsində"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "İordanın"
+    },
+    {
+      "surface": "יצקם",
+      "gloss": "tökdü"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "בעבי",
+      "gloss": "gilində"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "torpaq"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "צרדתה",
+      "gloss": "Tseredata"
+    }
+  ],
+  "timestamp": "2026-09-01T17:13:49.138263908Z",
+  "model": "glm-5.3"
+}

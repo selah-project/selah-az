@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 44:10",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 44,
+  "translation": "O isə dedi: «İndi də sözünüzdəki kimi olsun: kimin yanında tapılarsa, mənim qulum olsun, siz isə günahsız olacaqsınız».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o isə dedi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "də"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "indi"
+    },
+    {
+      "surface": "כדבריכם",
+      "gloss": "sözünüzdəki kimi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "belə"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kimin yanında"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "tapılarsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onun yanında"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənim"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "qul"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "siz isə"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "olacaqsınız"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "günahsız"
+    }
+  ],
+  "timestamp": "2026-09-01T10:00:52.087571568Z",
+  "model": "glm-5.3"
+}

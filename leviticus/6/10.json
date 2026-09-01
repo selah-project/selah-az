@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 6:10",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Mayalı bişirilməz; onların payını od qurbanlarımdan ⟨את⟩ onu verdim; müqəddəs müqəddəslərdir o, günah qurbanı kimi və təqsir qurbanı kimi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "bişirilməz"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "mayalı"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "onların payını"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "verdim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "onu (payı)"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "od qurbanlarımdan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "müqəddəslər"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "günah qurbanı kimi"
+    },
+    {
+      "surface": "וכאשם",
+      "gloss": "və təqsir qurbanı kimi"
+    }
+  ],
+  "timestamp": "2026-09-01T18:20:28.119838709Z",
+  "model": "glm-5.3"
+}

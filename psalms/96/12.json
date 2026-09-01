@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 96,
+  "translation": "Səhra sevincdən sıçrayacaq və onda olan hər şey; o zaman meşənin bütün ağacları sevinc nəğməsi söyləyəcək.",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "sevincdən sıçrayacaq"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "səhra"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "və hər şey"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onda olan"
+    },
+    {
+      "surface": "אז",
+      "gloss": "o zaman"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "sevinc nəğməsi söyləyəcək"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ağaclan"
+    },
+    {
+      "surface": "יער",
+      "gloss": "meşənin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:32:03.669254367Z",
+  "model": "glm-5.3"
+}

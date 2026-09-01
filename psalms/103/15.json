@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 103,
+  "translation": "Ölümlü insan — günləri ot kimidir; tarla çiçəyi kimi, eləcə də çiçək açar.",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "Ölümlü insan"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "ot kimidir"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "günləri"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "çiçəyi kimi"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tarla"
+    },
+    {
+      "surface": "כן",
+      "gloss": "eləcə də"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "çiçək açar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:33:51.448778557Z",
+  "model": "glm-5.3"
+}

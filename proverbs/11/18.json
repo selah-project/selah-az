@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 11:18",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Pis adam yalan əməli ⟨görür⟩, tərəvətlik əkən isə ⟨həqiqi⟩ muzd alır.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "pis adam"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "görür"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "əməli"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yalan"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "əkən isə"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tərəvətlik"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "muzd"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "həqiqi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:51:54.604179173Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 103,
+  "translation": "O, canını çuxurdan (məhv olmaqdan) qurtarır, səni hesed (sadiq mərhəmət) və rəhmlə taclayır —",
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "qurtarır (qayıdan kimi azad edir)"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "çuxurdan (məhv olmaqdan)"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "canını"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "taclayır"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed (sadiq mərhəmət)"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "və rəhmlə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:34:43.411458945Z",
+  "model": "glm-5.3"
+}

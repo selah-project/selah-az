@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Və xalq onu vuranın yanına qayıtmadı və Yahve Səbaotunu axtarmadılar.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "və xalq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "שב",
+      "gloss": "qayıtmadı"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tərəfində olan"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "onu vuran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve Səbaotu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Səbaotunu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "axtarmadılar"
+    }
+  ],
+  "timestamp": "2026-09-01T12:50:43.937940390Z",
+  "model": "glm-5.3"
+}

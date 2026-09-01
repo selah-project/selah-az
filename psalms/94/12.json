@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 94,
+  "translation": "Necə xoşbəxtdir o kişi ki, sən onu tərbiyə edirsən, Yah, və Tövrəndən ona öyrədirsən.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "xoşbəxtdir"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "kişi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "tərbiyə edirsən"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "Tövrəndən"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "öyrədirsən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:31:39.181119825Z",
+  "model": "glm-5.3"
+}

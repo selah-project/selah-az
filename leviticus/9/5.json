@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 9:5",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Və götürdülər ⟨את⟩ Moşenin buyurduğu şeyləri görüş çadırınınüzərinə, və yaxınlaşdı bütün cəmiyyət, və dayandılar Yahveninüzərinə.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "və götürdülər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşenin buyurduğu şeyləri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurduğu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzünə"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadır"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "görüş"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "və yaxınlaşdı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "cəmiyyət"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "və dayandılar"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T10:24:48.324220555Z",
+  "model": "glm-5.3"
+}

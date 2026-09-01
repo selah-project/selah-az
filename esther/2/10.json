@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Ester öz xalqını ⟨את⟩ və öz doğma mənşəyini ⟨את⟩ bildirmədi, çünki Mordehay ona bildirməməyi əmr etmişdi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "bildirdi"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öz xalqını"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "öz xalqını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "doğma mənşəyini"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "doğma mənşəyini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehay"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "əmr etdi"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "bildirsin"
+    }
+  ],
+  "timestamp": "2026-09-01T16:34:48.694610076Z",
+  "model": "glm-5.3"
+}

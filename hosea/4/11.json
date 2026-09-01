@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 4:11",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Zina, şərab və təzə şərab ürəyi aparır.",
+  "tokens": [
+    {
+      "surface": "זנות",
+      "gloss": "Zina"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "şərab"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "təzə şərab"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "aparır"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ürəyi"
+    }
+  ],
+  "timestamp": "2026-09-01T14:33:13.727796239Z",
+  "model": "glm-5.3"
+}

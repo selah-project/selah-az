@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 54:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 54,
+  "translation": "Şər özümü gözləyən düşmənlərimə qayıdacaq; öz əminliyində onları kökəlt.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "qayıdacaq"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "şər"
+    },
+    {
+      "surface": "לשררי",
+      "gloss": "özümü gözləyən düşmənlərimə"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "öz əminliyində"
+    },
+    {
+      "surface": "הצמיתם",
+      "gloss": "onları kökəlt"
+    }
+  ],
+  "timestamp": "2026-09-01T15:17:50.185951636Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 92:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 92,
+  "translation": "Yahveyə şükür etmək yaxşıdır, və sənin adına, ey Elyon, mədh oxumaq.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "yaxşıdır"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "şükür etmək"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "ולזמר",
+      "gloss": "və mədh oxumaq"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "sənin adına"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-09-01T15:32:53.910860697Z",
+  "model": "glm-5.3"
+}

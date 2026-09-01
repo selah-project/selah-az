@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 20:20",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Və o dedi: «Keçməyəcəksən.» Və Edom onun qarşısına ağır xalq ilə və güclü əl ilə çıxdı.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "keçməyəcəksən"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "və çıxdı"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "onun qarşısına"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "xalq ilə"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ağır"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "və əl ilə"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "güclü"
+    }
+  ],
+  "timestamp": "2026-09-01T10:40:38.535945023Z",
+  "model": "glm-5.3"
+}

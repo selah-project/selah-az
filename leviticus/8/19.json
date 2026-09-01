@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və onu kəsdi, və Moşe ⟨את⟩ qanı altarın üzərinə ətrafına səpdi.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "kəsdi"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "səpdi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qanı"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "qan"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarın"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ətrafına"
+    }
+  ],
+  "timestamp": "2026-09-01T10:24:45.451342163Z",
+  "model": "glm-5.3"
+}

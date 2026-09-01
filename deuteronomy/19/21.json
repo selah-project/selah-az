@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "və gözün ⟨rəhm edib⟩ saxlamasın: can üçün can, göz üçün göz, diş üçün diş, əl üçün əl, ayaq üçün ayaq.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "və … -masın"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "rəhm edib saxlamasın"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "gözün"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "can"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "can üçün"
+    },
+    {
+      "surface": "עין",
+      "gloss": "göz"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "göz üçün"
+    },
+    {
+      "surface": "שן",
+      "gloss": "diş"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "diş üçün"
+    },
+    {
+      "surface": "יד",
+      "gloss": "əl"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "əl üçün"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ayaq"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "ayaq üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:51:45.103200445Z",
+  "model": "glm-5.3"
+}

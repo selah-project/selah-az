@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 122,
+  "translation": "Yeruşalayimin selamını istəyin; səni sevənlər rahat olsun.",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "istəyin"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "selamını"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayimin"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "rahat olsun"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "səni sevənlər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:17.782360080Z",
+  "model": "glm-5.3"
+}

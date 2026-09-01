@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 23:20",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Və tarla və içinde olan mağara Xet oğullarından ⟨את⟩ Avrahama qəbir mülkü olaraq təsdiq olundu.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "təsdiq olundu"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tarla"
+    },
+    {
+      "surface": "והמערה",
+      "gloss": "və mağara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "içinde"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avrahama"
+    },
+    {
+      "surface": "לאחזת",
+      "gloss": "mülkü olaraq"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "qəbir"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Xet oğulları"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Xet"
+    }
+  ],
+  "timestamp": "2026-09-01T09:51:58.018611552Z",
+  "model": "glm-5.3"
+}

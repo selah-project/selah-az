@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 31:25",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "Güclü olun, və ürəyiniz qüvvət ⟨tapasın⟩, ey Yahve üçün gözləyənlərin hamısı!",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "Güclü olun"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "və qüvvət ⟨tapasın⟩"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ürəyiniz"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamısı"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "gözləyənlərin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T15:10:12.569585264Z",
+  "model": "glm-5.3"
+}

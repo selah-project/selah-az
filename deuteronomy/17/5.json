@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 17:5",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "⟨את⟩ həmin adamı və ya ⟨את⟩ həmin qadını — ki ⟨את⟩ bu pis işi görən adam və ya qadın — sənin qapılarına çıxaracaqsan, ⟨את⟩ adamı və ya ⟨את⟩ qadını, və onları daşlarla daşlayacaqsan və ölüb gedəcəklər.",
+  "tokens": [
+    {
+      "surface": "והוצאת",
+      "gloss": "çıxaracaqsan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "həmin adam"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "həmin"
+    },
+    {
+      "surface": "או",
+      "gloss": "və ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "həmin qadın"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "qadın"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "həmin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "görən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu pis iş"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "iş"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "pis"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "sənin qapılarına"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adam"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "או",
+      "gloss": "və ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qadın"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "qadın"
+    },
+    {
+      "surface": "וסקלתם",
+      "gloss": "daşla öldürəcəksən"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "daşlarla"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "və öləcəklər"
+    }
+  ],
+  "timestamp": "2026-09-01T10:52:46.519091916Z",
+  "model": "glm-5.3"
+}

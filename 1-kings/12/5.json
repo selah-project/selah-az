@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 12:5",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Və onlara dedi: Gedin hələ ⟨üç⟩ gün ⟨odur ki⟩ ⟨qayıdın⟩, sonra qayıdın mənim yanıma. Və xalq getdi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Və dedi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Gedin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hələ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "üç"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "və qayıdın"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənim yanıma"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "Və getdi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    }
+  ],
+  "timestamp": "2026-09-01T12:19:08.518962875Z",
+  "model": "glm-5.3"
+}

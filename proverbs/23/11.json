@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 23:11",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Çünki onların qatibi(goel) qüvvətlidir, ⟨o⟩ onların ⟨את⟩ davasını ⟨את⟩ səninlə çəkəcək.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "onların qatibi(goel)"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "qüvvətlidir"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "davasını çəkəcək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onların davasını"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "onların davasını"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ səninlə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:57:26.138055371Z",
+  "model": "glm-5.3"
+}

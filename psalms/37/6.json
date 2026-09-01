@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Sədinliyini işıq kimi, məhkəmə haqqını çağ şəfəqi kimi çıxaracaq.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "çıxaracaq"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "işıq kimi"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "sədinliyini"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "məhkəmə haqqını"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "çağ şəfəqi kimi"
+    }
+  ],
+  "timestamp": "2026-09-01T17:41:58.425449287Z",
+  "model": "glm-5.3"
+}

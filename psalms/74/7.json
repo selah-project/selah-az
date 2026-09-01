@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 74,
+  "translation": "Müqəddəs məkanına od göndərdilər; Adının məskənini yerə ⟨endirib⟩ murdarladılar.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "göndərdilər"
+    },
+    {
+      "surface": "באש",
+      "gloss": "od"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "müqəddəs məkanına"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "yerə"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "murdarladılar"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "məskənini"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Adının"
+    }
+  ],
+  "timestamp": "2026-09-01T15:25:13.225003290Z",
+  "model": "glm-5.3"
+}

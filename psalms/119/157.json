@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 157,
+  "ref": "psalms 119:157",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Çoxdur məni təqib edənlər və düşmənlərim, ⟨amma⟩ şəhadətlərindən uzaqlaşmadım.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "çoxdur"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "məni təqib edənlər"
+    },
+    {
+      "surface": "וצרי",
+      "gloss": "və düşmənlərim"
+    },
+    {
+      "surface": "מעדותיך",
+      "gloss": "şəhadətlərindən"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "uzaqlaşmadım"
+    }
+  ],
+  "timestamp": "2026-09-01T15:41:37.765534416Z",
+  "model": "glm-5.3"
+}

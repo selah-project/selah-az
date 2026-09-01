@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Elohim işığa Gün adını qoydu, qaranlığa isə Gecə adını qoydu. Və axşam oldu, və səhər oldu — bir gün.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "adını qoydu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "işığa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "Gün"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "qaranlığa isə"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "adını qoydu"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "Gecə"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "və oldu"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "axşam"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "və oldu"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "səhər"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    }
+  ],
+  "timestamp": "2026-09-01T17:25:33.228106407Z",
+  "model": "glm-5.3"
+}

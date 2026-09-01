@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 2:10",
+  "book": "ruth",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Üzü üstə düşdü, yerə səcdə etdi və ona dedi: Niyə gözündə lütf tapdım ki, məni tanıyasın, mən isə yadam?",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "düşdü"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzünə"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "üzü"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "səcdə etdi"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yerə"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "niyə"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "tapdım"
+    },
+    {
+      "surface": "חן",
+      "gloss": "lütf"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "gözündə"
+    },
+    {
+      "surface": "להכירני",
+      "gloss": "məni tanıyasın"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "mən isə"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "yad"
+    }
+  ],
+  "timestamp": "2026-09-01T16:24:06.236764499Z",
+  "model": "glm-5.3"
+}

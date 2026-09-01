@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 71:24",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 71,
+  "translation": "Dilim də bütün gün sənin ədalətini danışacaq, çünki xəcalət çəkdilər, çünkü utandılar, mənim şərimi axtaranlar.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "də"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "Dilim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "danışacaq"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "sənin ədalətini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "בשu",
+      "gloss": "xəcalət çəkdilər"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünkü"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "utandılar"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "axtaranlar"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "mənim şərimi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:22:44.083124049Z",
+  "model": "glm-5.3"
+}

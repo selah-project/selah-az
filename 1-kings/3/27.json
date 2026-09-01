@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 3:27",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Padşah cavab verdi və dedi: Diri uşağı ona verin, öldürməyin — o, anasıdır.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "cavab verdi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "verin"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diri uşağı"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "uşağı"
+    },
+    {
+      "surface": "החי",
+      "gloss": "diri"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "öldürməyin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תמיתהו",
+      "gloss": "öldürməyin"
+    },
+    {
+      "surface": "היא",
+      "gloss": "o"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "anasıdır"
+    }
+  ],
+  "timestamp": "2026-09-01T12:11:02.729533121Z",
+  "model": "glm-5.3"
+}

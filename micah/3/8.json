@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 3:8",
+  "book": "micah",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Amma mən — mən güclə doluyam, Yahvenin ruhu ilə, ⟨את⟩ — məhkəmə və qüdrətlə, Yaakovun üsyanını və İsrailin günahını bildirmək üçün.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "amma"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mən"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "doluyam"
+    },
+    {
+      "surface": "כח",
+      "gloss": "güclə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahvenin ruhu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "və məhkəmə"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "və qüdrət"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "bildirmək üçün"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yaakova"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "onun üsyanını"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "və İsrailə"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "onun günahını"
+    }
+  ],
+  "timestamp": "2026-09-01T14:46:22.901224899Z",
+  "model": "glm-5.3"
+}

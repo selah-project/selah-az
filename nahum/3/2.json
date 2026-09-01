@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nahum 3:2",
+  "book": "nahum",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Qamçının səsi, təkərin gurultusu, çaparan at və rəqs edən döyüş arabası!",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "səsi"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "Qamçının"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "gurultusu"
+    },
+    {
+      "surface": "רעש",
+      "gloss": "təkərin"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "təkər"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "at"
+    },
+    {
+      "surface": "דהר",
+      "gloss": "çaparan"
+    },
+    {
+      "surface": "ומרכבה",
+      "gloss": "döyüş arabası"
+    },
+    {
+      "surface": "מרקדה",
+      "gloss": "rəqs edən"
+    }
+  ],
+  "timestamp": "2026-09-01T14:49:25.258675073Z",
+  "model": "glm-5.3"
+}

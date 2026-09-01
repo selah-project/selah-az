@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 7:19",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Kaptellər ⟨isə⟩, ⟨ki onlar⟩ eyvanda sütunların başı üstündə ⟨idi⟩, zanbaq işi ⟨idi⟩; dörd qulac.",
+  "tokens": [
+    {
+      "surface": "וכתרת",
+      "gloss": "kaptellər"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ki⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "başının"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "sütunların"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "işi"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "zanbaq"
+    },
+    {
+      "surface": "באולם",
+      "gloss": "eyvanda"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "dörd"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "qulac"
+    }
+  ],
+  "timestamp": "2026-09-01T12:14:12.493356737Z",
+  "model": "glm-5.3"
+}

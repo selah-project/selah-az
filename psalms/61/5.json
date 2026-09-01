@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 61:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 61,
+  "translation": "Sənin çadırında əbədlər boyu qonaq olum, qanadlarının sığınacağında sığınım. Sela.",
+  "tokens": [
+    {
+      "surface": "אגורה",
+      "gloss": "qonaq olum"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "Sənin çadırında"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "əbədlər boyu"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "sığınım"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "sığınacağında"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "qanadlarının"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-01T15:21:30.085010955Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 5:16",
+  "book": "lamentations",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Başımızın tacı düşdü. Vay bizə, çünki günah etdik!",
+  "tokens": [
+    {
+      "surface": "נפלה",
+      "gloss": "düşdü"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "tacı"
+    },
+    {
+      "surface": "ראשנו",
+      "gloss": "Başımızın"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "Vay"
+    },
+    {
+      "surface": "נא",
+      "gloss": ""
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "günah etdik"
+    }
+  ],
+  "timestamp": "2026-09-01T16:28:32.155437234Z",
+  "model": "glm-5.3"
+}

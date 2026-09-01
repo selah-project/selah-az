@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 3:4",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və mən onların başçıları kimi yeniyetmələr qoyacağam, və şənlənən uşaqlar onlara hökm edəcək.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "qoyacağam"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "yeniyetmələr"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "başçıları"
+    },
+    {
+      "surface": "ותעלולים",
+      "gloss": "şənlənən uşaqlar"
+    },
+    {
+      "surface": "ימשלו",
+      "gloss": "hökm edəcək"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onlara"
+    }
+  ],
+  "timestamp": "2026-09-01T12:46:50.768113270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 132,
+  "translation": "əgər gözümə yuxu, göz qapaqlarıma düşgünlük verirsəmsə —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "verirsəm"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "yuxu"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "gözümə"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "göz qapaqlarıma"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "düşgünlük"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:40.851713166Z",
+  "model": "glm-5.3"
+}

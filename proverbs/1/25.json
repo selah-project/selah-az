@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 1:25",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Siz isə bütün məsləhətimə arxa çevirdiniz, töhmətimi isə istəmadiniz.",
+  "tokens": [
+    {
+      "surface": "ותפרעו",
+      "gloss": "arxa çevirdiniz"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "məsləhətimə"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "töhmətimi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "isə... istəmədiniz"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "istəmədiniz"
+    }
+  ],
+  "timestamp": "2026-09-01T15:47:51.251419110Z",
+  "model": "glm-5.3"
+}

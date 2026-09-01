@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 10:15",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "⟨Bundan əlavə idi⟩ — səyyah adamlardan, tacirlərin alış-verişindən, Ərəbin bütün padşahlarından və ölkənin valilərindən ⟨gələn⟩.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "⟨başqa⟩"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "adamlarından"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "səyyah"
+    },
+    {
+      "surface": "ומסחר",
+      "gloss": "və alış-verişindən"
+    },
+    {
+      "surface": "הרכלים",
+      "gloss": "tacirlərin"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "padşahlarından"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "Ərəbin"
+    },
+    {
+      "surface": "ופחות",
+      "gloss": "və valilərindən"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ölkənin"
+    }
+  ],
+  "timestamp": "2026-09-01T12:16:40.196723716Z",
+  "model": "glm-5.3"
+}

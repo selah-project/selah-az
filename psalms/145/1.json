@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 145,
+  "translation": "Tərif, Davuda aiddir. Səni ucaldacağam, Elohimim, ⟨hə⟩⟩ məlik, və Adını mübarək edəcəyəm əbədi olaraq, həmişəlik.",
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "Tərif"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davuda aiddir"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "Səni ucaldacağam"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Elohimim"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨hə⟩ məlik"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "və mübarək edəcəyəm"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Adını"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədi olaraq"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "həmişəlik"
+    }
+  ],
+  "timestamp": "2026-09-01T15:47:02.800995304Z",
+  "model": "glm-5.3"
+}

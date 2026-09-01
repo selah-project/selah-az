@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Və Aronun içinə şəhadəti qoy ki, Mən sənə verəcəyəm.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "və qoy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "içinə"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Aronun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şəhadəti"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "şəhadəti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "verəcəyəm"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sənə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:16:27.026590828Z",
+  "model": "glm-5.3"
+}

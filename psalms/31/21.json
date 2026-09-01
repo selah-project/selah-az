@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 31:21",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "Üzünün sirrində onları insanın qurğularından gizlədirsən, onları səkkədə ⟨⟨dillərin⟩⟩ dillərin davasından saxlayırsan.",
+  "tokens": [
+    {
+      "surface": "תסתירם",
+      "gloss": "onları gizlədirsən"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "sirrində"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "Üzünün"
+    },
+    {
+      "surface": "מרכסי",
+      "gloss": "qurğularından"
+    },
+    {
+      "surface": "איש",
+      "gloss": "insanın"
+    },
+    {
+      "surface": "תצפנם",
+      "gloss": "onları saxlayırsan"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "səkkədə"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "davasından"
+    },
+    {
+      "surface": "לשנות",
+      "gloss": "dillərin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:10:48.576768652Z",
+  "model": "glm-5.3"
+}

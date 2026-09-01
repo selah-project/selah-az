@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 6:9",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Və dedi: Get, bu qövmə de: Eşidə-eşidən ⟨eşidin⟩, amma anlamayın; baxa-baxan ⟨görün⟩, amma bilməyin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "get"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "və de"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "qövmə"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "eşidin"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "eşidə-eşidən"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "amma"
+    },
+    {
+      "surface": "תבינו",
+      "gloss": "anlamayın"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "və görün"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "baxa-baxan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "amma"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "bilməyin"
+    }
+  ],
+  "timestamp": "2026-09-01T12:49:23.745443029Z",
+  "model": "glm-5.3"
+}

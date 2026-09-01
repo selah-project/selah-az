@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 29:9",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "Gecikin və təəccüblənin, özünüzü alaldın və ⟨kor⟩ olun; sərxoş oldular, amma şərabdan yox; sarsıldılar, amma şəkərdən yox.",
+  "tokens": [
+    {
+      "surface": "התמהמהו",
+      "gloss": "Gecikin"
+    },
+    {
+      "surface": "ותמהו",
+      "gloss": "və təəccüblənin"
+    },
+    {
+      "surface": "השתעשעו",
+      "gloss": "özünüzü alaldın"
+    },
+    {
+      "surface": "ושעו",
+      "gloss": "⟨kor⟩ olun"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "sərxoş oldular"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma yox"
+    },
+    {
+      "surface": "יין",
+      "gloss": "şərabdan"
+    },
+    {
+      "surface": "נעו",
+      "gloss": "sarsıldılar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma yox"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "şəkərdən"
+    }
+  ],
+  "timestamp": "2026-09-01T13:00:39.457897904Z",
+  "model": "glm-5.3"
+}

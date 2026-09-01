@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 6:25",
+  "book": "job",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Nə qüvvətlidir düzlüyün sözləri, amma sizdən gələn təkzib nəyi təkzib edir?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "נמרצו",
+      "gloss": "qüvvətlidir"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "sözləri"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "düzlüyün"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "amma nə"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "təkzib edir"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "təkzib"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "sizdən"
+    }
+  ],
+  "timestamp": "2026-09-01T16:05:37.917353951Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 41:4",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 41,
+  "translation": "Kim bunu edib tamamlayıb, nəsilləri başlanğıcdan çağıran? Mən, Yahve — birinci, və ⟨את⟩ axırıncılarla — mən oyam.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "edib"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "tamamlayıb"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "çağıran"
+    },
+    {
+      "surface": "הדרות",
+      "gloss": "nəsilləri"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "başlanğıcdan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "birinci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "axırıncılarla"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "axırıncılarla"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "oyam"
+    }
+  ],
+  "timestamp": "2026-09-01T13:08:26.754724583Z",
+  "model": "glm-5.3"
+}

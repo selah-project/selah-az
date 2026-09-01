@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 1:7",
+  "book": "amos",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və mən Azzanın divarına od göndərəcəyəm, və o, onun qalalarını yeyəcək.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "və göndərəcəyəm"
+    },
+    {
+      "surface": "אש",
+      "gloss": "od"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "divarına"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azzanın"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "və yeyəcək"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "onun qalalarını"
+    }
+  ],
+  "timestamp": "2026-09-01T14:40:20.124828060Z",
+  "model": "glm-5.3"
+}

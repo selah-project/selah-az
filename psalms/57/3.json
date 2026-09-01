@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 57,
+  "translation": "Ən Uca Elohimə səslənəcəyəm, ⟨o⟩ Elə ki, mənim ⟨üçün⟩ tamamlayandır.",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "səslənəcəyəm"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimə"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Ən Uca"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "⟨o⟩ Elə"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "tamamlayandır"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mənim ⟨üçün⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T15:19:46.235769649Z",
+  "model": "glm-5.3"
+}

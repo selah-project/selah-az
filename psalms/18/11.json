@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Və kəruv üstündə minib uçdu, küləyin qanadları üstündə süzülürdü.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "minib"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "kəruv"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "uçdu"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "süzülürdü"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "qanadları"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "küləyin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:06:29.098087541Z",
+  "model": "glm-5.3"
+}

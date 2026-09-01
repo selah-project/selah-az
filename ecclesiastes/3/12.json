@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Bilirəm ki, onlarda ⟨there is⟩ heç bir xeyir yoxdur, ancaq sevinmək və xeyir etmək, ömrü boyunca.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "bilirəm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "xeyir"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onlarda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ancaq"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "sevinmək"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "və etmək"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "xeyir"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "ömrü boyunca"
+    }
+  ],
+  "timestamp": "2026-09-01T16:29:08.866134407Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "O, Yisrayələ tənə etdikdə, onu Yehonatan, Şimeanın oğlu, Davidin qardaşı vurdu.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "tənə etdikdə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrayələ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayə"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "onu vurdu"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Şimea"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "qardaşı"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-09-01T17:06:14.680620705Z",
+  "model": "glm-5.3"
+}

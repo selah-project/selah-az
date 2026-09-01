@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Həm qulun onlarla öyüd alır; onları saxlamaqda böyük mükafat var.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Həm"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "qulun"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "öyüd alır"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onlarla"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "onları saxlamaqda"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "mükafat"
+    },
+    {
+      "surface": "רב",
+      "gloss": "böyük"
+    }
+  ],
+  "timestamp": "2026-09-01T15:06:02.584190052Z",
+  "model": "glm-5.3"
+}

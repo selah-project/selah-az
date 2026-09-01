@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 11:30",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Və Axiya üstündəki yeni salmanı tutdu və onu on iki parçaya yırtıb böldü.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "Və tutdu"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Axiya"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "salmayı"
+    },
+    {
+      "surface": "החדשה",
+      "gloss": "yeni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üstündəki"
+    },
+    {
+      "surface": "ויקרעה",
+      "gloss": "və onu yırtıb böldü"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "on iki"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "קרעים",
+      "gloss": "parçaya"
+    }
+  ],
+  "timestamp": "2026-09-01T12:20:25.107067839Z",
+  "model": "glm-5.3"
+}

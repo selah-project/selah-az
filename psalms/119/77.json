@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 77,
+  "ref": "psalms 119:77",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Rəhmlərin mənə gəlsin, ki yaşayım, çünki Tövrən mənim zövqümdür.",
+  "tokens": [
+    {
+      "surface": "יבאוני",
+      "gloss": "gəlsin mənə"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "Rəhmlərin"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "və yaşayım"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tövrən"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "zövqümdür"
+    }
+  ],
+  "timestamp": "2026-09-01T15:41:22.300903652Z",
+  "model": "glm-5.3"
+}

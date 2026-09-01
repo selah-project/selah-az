@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Müqəddəslərin müqəddəsində onu yeyəcəksən; hər erkək ⟨את⟩ onu yeyəcək; müqəddəs olacaq sənə.",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "müqəddəsində"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "müqəddəslərin"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "onu yeyəcəksən"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "erkək"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yeyəcək"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:39:25.251588332Z",
+  "model": "glm-5.3"
+}

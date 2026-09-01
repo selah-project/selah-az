@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 29:4",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "Yaaqov onlara dedi: Qardaşlarım, haradansınız? Onlar dedilər: Harandan ⟨bizik⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaqov"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "Qardaşlarım"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "haradan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "dedilər"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "Harandan"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "bizik"
+    }
+  ],
+  "timestamp": "2026-09-01T09:54:39.370269926Z",
+  "model": "glm-5.3"
+}

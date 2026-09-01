@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 22:20",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Məgər sənə üç dəfə yazmadımmı — məsləhətlər və biliyə dair?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "məgər ... deyilmi"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "yazmadımmı"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "üç dəfə"
+    },
+    {
+      "surface": "במועצת",
+      "gloss": "məsləhətlər"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "və biliyə dair"
+    }
+  ],
+  "timestamp": "2026-09-01T15:56:50.732225719Z",
+  "model": "glm-5.3"
+}

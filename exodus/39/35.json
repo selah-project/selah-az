@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 39,
+  "translation": "⟨את⟩ şəhadət sandığını, ⟨את⟩ dirəklərini və ⟨את⟩ kapporetu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şəhadət sandığını"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "sandığını"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "şəhadət"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "dirəklərini"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "dirəklərini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "kapporetu"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kapporetu"
+    }
+  ],
+  "timestamp": "2026-09-01T10:21:59.422746289Z",
+  "model": "glm-5.3"
+}

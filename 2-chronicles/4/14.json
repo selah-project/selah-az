@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "və dayaqları da düzəltdi, və çənləri də dayaqların üstündə ⟨düzəltdi⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dayaqları"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "dayaqları"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "düzəltdi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "çənləri"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "çənləri"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "düzəltdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "dayaqların"
+    }
+  ],
+  "timestamp": "2026-09-01T17:46:47.559872809Z",
+  "model": "glm-5.3"
+}

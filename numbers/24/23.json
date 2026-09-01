@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 24:23",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Və məşəlini qaldırdı və dedi: Vay! El ⟨bunları⟩ təyin etdiyi zaman kim yaşayacaq?",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "qaldırdı"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "məşəlini"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "Vay!"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "yaşayacaq"
+    },
+    {
+      "surface": "משמו",
+      "gloss": "təyin etdiyi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-01T10:41:27.688501854Z",
+  "model": "glm-5.3"
+}

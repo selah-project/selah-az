@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 3:19",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Mən isə bilirəm ki, Mitsrayim padşahı sizi ⟨את⟩ güclü əl olmayınca getməyə buraxmayacaq.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Mən isə"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "bilirəm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "buraxmayacaq"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "sizi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşahı"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "getməyə"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "olmayınca"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "əl"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "güclü"
+    }
+  ],
+  "timestamp": "2026-09-01T10:05:58.395758302Z",
+  "model": "glm-5.3"
+}

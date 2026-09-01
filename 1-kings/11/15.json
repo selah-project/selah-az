@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 11:15",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Və oldu: David Edom ⟨את⟩ ilə olarkən, ordu başçısı Yoav öldürülənləri dəfn etmək üçün qalxdıqda, o, Edomda bütün kişiləri vurdu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "və oldu"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "olarkən"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ilə"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "qalxdıqda"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "שר",
+      "gloss": "başçısı"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ordunun"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "dəfn etmək üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öldürülənləri"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "öldürülənləri"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "vurdu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "kişiləri"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "Edomda"
+    }
+  ],
+  "timestamp": "2026-09-01T12:18:42.266513875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 4:14",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Çünki o, bağlıların evindən çıxıb padşah oldu; çünki öz padşahlığında da yoxsul ⟨olaraq⟩ doğulmuşdu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "evindən"
+    },
+    {
+      "surface": "הסורים",
+      "gloss": "bağlıların"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "çıxdı"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "padşah ⟨olmağa⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "גם",
+      "gloss": "da"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "öz padşahlığında"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "doğulmuşdu"
+    },
+    {
+      "surface": "רש",
+      "gloss": "yoxsul"
+    }
+  ],
+  "timestamp": "2026-09-01T16:29:41.388705030Z",
+  "model": "glm-5.3"
+}

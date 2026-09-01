@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 129,
+  "translation": "Və ötüb-keçənlər demədi: «Yahvenin xeyir-duası sizin üstünüzdə olsun, sizə Yahvenin adı ilə xeyir-dua verdik».",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "və... yox"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "demiədilər"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "ötüb-keçənlər"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "xeyir-duası"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "sizin üstünüzdə"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "xeyir-dua verdik"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "adı ilə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T17:43:19.484405516Z",
+  "model": "glm-5.3"
+}

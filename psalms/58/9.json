@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 58,
+  "translation": "İlbiz kimi əriyə-əriyə yox olacaq; qadının ⟨düşəni⟩ kimi — günəşi heç görməyəcəklər.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "שבלול",
+      "gloss": "ilbiz"
+    },
+    {
+      "surface": "תמס",
+      "gloss": "əriyib"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "gedəcək"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "düşən"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "qadının"
+    },
+    {
+      "surface": "בל",
+      "gloss": "heç"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "görməyəcəklər"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "günəşi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:18:46.116418123Z",
+  "model": "glm-5.3"
+}

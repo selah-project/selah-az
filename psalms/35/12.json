@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "Mənə yamanlığı yaxşılığın əvəzinə qaytarırlar, canım üçün itki ⟨var⟩.",
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "mənə qaytarırlar"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "yamanlığı"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "əvəzinə"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "yaxşılığın"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "itki"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "canım üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T15:10:56.782469463Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 15:18",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "O gün Yahve Avramla ⟨את⟩ əhd kəsdi və dedi: “Nəslinə bu torpağı verdim — Misir çayından böyük çaya, Fərat çayına qədər.”",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "o gün"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o (gün)"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "kəsdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "əhd"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "demək üçün"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "nəslinə"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "verdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu torpağı"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "torpağı"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "מנהר",
+      "gloss": "çayından"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim (Misir)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "çayına"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "çay"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Fərat (Perat)"
+    }
+  ],
+  "timestamp": "2026-09-01T09:49:44.941918058Z",
+  "model": "glm-5.3"
+}

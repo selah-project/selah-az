@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 20:42",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Və ona dedi: Belə deyir Yahve: Əlindən ⟨את⟩ hərim etdiyim adamı buraxdığın üçün, canın onun canının yerinə, xalqın onun xalqının yerinə olacaq.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "כה",
+      "gloss": "belə"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יען",
+      "gloss": "...duğın üçün"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "buraxdığın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adamı"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "hərim etdiyim"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "əlindən"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "canın"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "yerinə"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "onun canı"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "xalqın"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "yerinə"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "onun xalqı"
+    }
+  ],
+  "timestamp": "2026-09-01T12:23:48.469540510Z",
+  "model": "glm-5.3"
+}

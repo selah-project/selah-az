@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 109,
+  "translation": "Atalarının günahı Yahvenin yanında yad edilsin, anasının günahı silinməsin.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "yad edilsin"
+    },
+    {
+      "surface": "עון",
+      "gloss": "günahı"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "atalarının"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanında"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "və günahı"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "anasının"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-mə"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "silinməsin"
+    }
+  ],
+  "timestamp": "2026-09-01T17:42:34.349688865Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 104:15",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 104,
+  "translation": "və şərab ölümlü insanın ürəyini şad edir, üzü yağdan parlaq etmək üçün; çörək isə ölümlü insanın ürəyini möhkəmlədir.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "və şərab"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "şad edir"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ürəyini"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ölümlü insanın"
+    },
+    {
+      "surface": "להצהיל",
+      "gloss": "parlaq etmək üçün"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "üzü"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "yağdan"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "çörək isə"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ürəyini"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ölümlü insanın"
+    },
+    {
+      "surface": "יסעד",
+      "gloss": "möhkəmlədir"
+    }
+  ],
+  "timestamp": "2026-09-01T15:34:41.523731687Z",
+  "model": "glm-5.3"
+}

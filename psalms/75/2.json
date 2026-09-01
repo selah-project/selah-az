@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 75,
+  "translation": "Sənə şükr edirik, Elohim, sənə şükr edirik, ⟨çünki⟩ Adın yaxındır; möcüzələrini danışırlar.",
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "şükr edirik"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Sənə"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "şükr edirik"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "yaxındır"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Adın"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "danışırlar"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "möcüzələrini"
+    }
+  ],
+  "timestamp": "2026-09-01T15:25:46.993749782Z",
+  "model": "glm-5.3"
+}

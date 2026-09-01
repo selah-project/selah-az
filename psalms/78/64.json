@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 78:64",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 78,
+  "translation": "Kahinləri qılıncla düşdülər və dul qadınları ağlamadılar.",
+  "tokens": [
+    {
+      "surface": "כהניו",
+      "gloss": "kahinləri"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "qılıncla"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "düşdülər"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "və dul qadınları"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "ağlamadılar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:26:39.443364246Z",
+  "model": "glm-5.3"
+}

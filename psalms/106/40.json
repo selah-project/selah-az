@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 106,
+  "translation": "Və Yahvenin qəzəbi öz xalqına alovlandı, və öz mirasından ⟨את⟩ iyrənildi.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "alovlandı"
+    },
+    {
+      "surface": "אף",
+      "gloss": "qəzəbi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "öz xalqına"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "və iyrənildi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öz mirasından"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "öz mirasından"
+    }
+  ],
+  "timestamp": "2026-09-01T15:35:39.651109510Z",
+  "model": "glm-5.3"
+}

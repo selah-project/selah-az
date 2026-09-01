@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 64:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 64,
+  "translation": "Haqsızlıqları axtarırlar; ⟨deyirlər⟩: axtarışı tamamladıq; hər adamın daxili və ürəyi dərindir.",
+  "tokens": [
+    {
+      "surface": "יחפשו",
+      "gloss": "axtarırlar"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "haqsızlıqları"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "tamamladıq"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "hiylə"
+    },
+    {
+      "surface": "מחפש",
+      "gloss": "axtarış"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "və daxili"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamın"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "və ürək"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "dərindir"
+    }
+  ],
+  "timestamp": "2026-09-01T15:21:37.185800387Z",
+  "model": "glm-5.3"
+}

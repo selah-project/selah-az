@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 14:19",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Kahin günah qurbanını ⟨את⟩ edəcək və təmizlənəni onun murdarlığından ötrü kəffarə edəcək; sonradan bütöv yandırma qurbanını ⟨את⟩ kəsəcək.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "edəcək"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "günah qurbanını"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "günah qurbanı"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "kəffarə edəcək"
+    },
+    {
+      "surface": "על",
+      "gloss": "ötrü"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "təmizlənəni"
+    },
+    {
+      "surface": "מטמאתו",
+      "gloss": "murdarlığından"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "sonradan"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "kəsəcək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütöv yandırma qurbanını"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "bütöv yandırma qurbanı"
+    }
+  ],
+  "timestamp": "2026-09-01T10:26:20.986916648Z",
+  "model": "glm-5.3"
+}

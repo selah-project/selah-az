@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 33:9",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "Sən isə, əgər şər adamı⟨nı⟩ öz yolundan ondan qayıtmaq üçün xəbərdar etdin, o isə öz yolundan qayıtmadısa — o, öz günahında öləcək, sən isə canını xilas etdin.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "sən isə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "הזהרת",
+      "gloss": "xəbərdar etdin"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "şər adam"
+    },
+    {
+      "surface": "מדרכו",
+      "gloss": "öz yolundan"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "qayıtmaq"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və... -mə"
+    },
+    {
+      "surface": "שב",
+      "gloss": "qayıtdı"
+    },
+    {
+      "surface": "מדרכו",
+      "gloss": "öz yolundan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "בעונו",
+      "gloss": "öz günahında"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "öləcək"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "sən isə"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "canını"
+    },
+    {
+      "surface": "הצלת",
+      "gloss": "xilas etdin"
+    }
+  ],
+  "timestamp": "2026-09-01T14:22:49.155971863Z",
+  "model": "glm-5.3"
+}

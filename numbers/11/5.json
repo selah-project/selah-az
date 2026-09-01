@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 11:5",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Balığı xatırlayırıq — onu Mitsrayimda pulsuz yeyirdik — ⟨את⟩ qovunları, ⟨את⟩ yemişləri, ⟨את⟩ şüyüdləri, ⟨את⟩ soğanı və ⟨את⟩ sarımsağı.",
+  "tokens": [
+    {
+      "surface": "זכרנו",
+      "gloss": "xatırlayırıq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balığı"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "balığı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "yeyirdik"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayimda"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "pulsuz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qovunları"
+    },
+    {
+      "surface": "הקשאים",
+      "gloss": "qovunları"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yemişləri"
+    },
+    {
+      "surface": "האבטחים",
+      "gloss": "yemişləri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "şüyüdləri"
+    },
+    {
+      "surface": "החציר",
+      "gloss": "şüyüdləri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "soğanı"
+    },
+    {
+      "surface": "הבצלים",
+      "gloss": "soğanı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sarımsağı"
+    },
+    {
+      "surface": "השומים",
+      "gloss": "sarımsağı"
+    }
+  ],
+  "timestamp": "2026-09-01T10:36:34.647904622Z",
+  "model": "glm-5.3"
+}

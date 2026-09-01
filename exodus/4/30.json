@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Aharon Yahvenin Moşeyə danışdığı bütün sözləri danışdı ⟨את⟩, və nişanları xalqın gözləri önündə etdi.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "danışdı"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün sözləri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sözləri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "danışdı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "etdi"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "nişanları"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "gözləri önündə"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqın"
+    }
+  ],
+  "timestamp": "2026-09-01T10:05:25.619179436Z",
+  "model": "glm-5.3"
+}

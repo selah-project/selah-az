@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 63:6",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 63,
+  "translation": "Və xalqları qəzəblə ayağım altında əzdim, onları hiddətimlə sərxoş etdim və onların ⟨qan⟩-ını yerə tökdüm.",
+  "tokens": [
+    {
+      "surface": "ואבוס",
+      "gloss": "və ayağım altında əzdim"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "xalqları"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "qəzəblə"
+    },
+    {
+      "surface": "ואשכרם",
+      "gloss": "onları sərxoş etdim"
+    },
+    {
+      "surface": "בחמתי",
+      "gloss": "hiddətimlə"
+    },
+    {
+      "surface": "ואוריד",
+      "gloss": "və tökdüm"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "yerə"
+    },
+    {
+      "surface": "נצחם",
+      "gloss": "onların ⟨qan⟩-ı (şirəsi)"
+    }
+  ],
+  "timestamp": "2026-09-01T13:18:42.362864852Z",
+  "model": "glm-5.3"
+}

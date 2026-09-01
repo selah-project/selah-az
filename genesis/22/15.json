@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 22:15",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Yahvenin mələyi göylərdən ikinci dəfə Avrahamı çağırdı.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "çağırdı"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mələyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamı"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ikinci dəfə"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göylərdən"
+    }
+  ],
+  "timestamp": "2026-09-01T09:52:10.685004478Z",
+  "model": "glm-5.3"
+}

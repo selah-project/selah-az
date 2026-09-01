@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və Moşe Paro-nun yanından çıxdı və Yahve-yə yalvardı.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "və çıxdı"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "yanından"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "və yalvardı"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-yə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T10:07:16.679710715Z",
+  "model": "glm-5.3"
+}

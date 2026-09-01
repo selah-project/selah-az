@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 15:9",
+  "book": "job",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Nə bilirsən ki, biz bilmirik? Nə anlayırsan ki, o bizimlə ⟨yoxdur⟩?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "bilirsən"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ki … yox"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "bilirik"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "anlayırsan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "bizimlə"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-09-01T16:08:38.629942473Z",
+  "model": "glm-5.3"
+}

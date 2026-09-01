@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 19:17",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Yahveyə borc verən kasıba xeyirxahlıq edir, və onun əvəzini ona ödəyir.",
+  "tokens": [
+    {
+      "surface": "מלוה",
+      "gloss": "borc verən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "xeyirxahlıq edir"
+    },
+    {
+      "surface": "דל",
+      "gloss": "kasıba"
+    },
+    {
+      "surface": "וגמלו",
+      "gloss": "və onun əvəzini"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ödəyir"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-09-01T15:56:44.081257909Z",
+  "model": "glm-5.3"
+}

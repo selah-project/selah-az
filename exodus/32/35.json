@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Yahve ⟨את⟩ xalqı vurdu, çünki ⟨את⟩ buzağını düzəltmişdilər — Aharonun düzəltdiyi buzağı.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "və vurdu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqı"
+    },
+    {
+      "surface": "על",
+      "gloss": "çünki ... görə"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "düzəltmişdilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buzağını"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "buzağını"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "düzəltdiyi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonun"
+    }
+  ],
+  "timestamp": "2026-09-01T10:19:12.110569556Z",
+  "model": "glm-5.3"
+}

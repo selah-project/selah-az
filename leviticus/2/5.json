@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 2:5",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və əgər təqdimən tavada ⟨hazırlanan⟩ minxa olsa, o, yağla qarışdırılmış sollatdən, matsa olacaq.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minxa (qurban)"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstdə"
+    },
+    {
+      "surface": "המחבת",
+      "gloss": "tavada"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "təqdimən"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "sollat (incə un)"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "qarışdırılmış"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "yağla"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "matsa (mayasız)"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T10:22:24.363044472Z",
+  "model": "glm-5.3"
+}

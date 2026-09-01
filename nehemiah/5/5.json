@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 5:5",
+  "book": "nehemiah",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Və indi qardaşlarımızın əti kimi bizim ətimiz ⟨var⟩, onların oğulları kimi bizim oğullarımız; və bax, biz oğullarımızı ⟨את⟩ və qızlarımızı ⟨את⟩ qulluğa tabe edirik, və qızlarımızdan ⟨bəziləri⟩ artıq tabe edilmişdir, və əlimizin qüdrəti yoxdur; çünki tarlalarımız və üzümlüklərimiz başqalarınındır.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "və indi"
+    },
+    {
+      "surface": "כבשר",
+      "gloss": "əti kimi"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "qardaşlarımızın"
+    },
+    {
+      "surface": "בשרנו",
+      "gloss": "bizim ətimiz"
+    },
+    {
+      "surface": "כבניהם",
+      "gloss": "oğulları kimi"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "bizim oğullarımız"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "və bax"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "biz"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "tabe edirik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oğullarımızı"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "oğullarımızı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "qızlarımızı"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "qızlarımızı"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "qulluğa"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "və ⟨bəziləri⟩ var"
+    },
+    {
+      "surface": "מבנתינו",
+      "gloss": "qızlarımızdan"
+    },
+    {
+      "surface": "נכבשות",
+      "gloss": "tabe edilmişdir"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "və yoxdur"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "qüdrətə"
+    },
+    {
+      "surface": "ידנו",
+      "gloss": "əlimizin"
+    },
+    {
+      "surface": "ושדתינו",
+      "gloss": "çünki tarlalarımız"
+    },
+    {
+      "surface": "וכרמינו",
+      "gloss": "və üzümlüklərimiz"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "başqalarınındır"
+    }
+  ],
+  "timestamp": "2026-09-01T16:56:22.108724773Z",
+  "model": "glm-5.3"
+}

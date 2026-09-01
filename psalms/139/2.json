@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 139,
+  "translation": "Sən oturmamı və qalxma mı bilirsən, düşüncəmi uzaqdan ⟨ayırd edirsən⟩.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sən"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "bilirsən"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "oturmamı"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "və qalxma mı"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "⟨ayırd edirsən⟩"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "düşüncəmi"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "uzaqdan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:44:36.503160013Z",
+  "model": "glm-5.3"
+}

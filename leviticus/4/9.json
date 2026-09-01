@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 4:9",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "və ⟨את⟩ iki böyrəyi və ⟨את⟩ onların üstündəki yağı, hansı ki bel üstündədir, və ⟨את⟩ qara ciyərin üstündəki lifi böyrəklərlə birlikdə çıxaracaq",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "iki böyrəyi"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iki"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "böyrəyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "yağı"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "yağı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hansı ki"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "onların üstündəki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "bel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "lifi"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "lifi"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündəki"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "qara ciyərin"
+    },
+    {
+      "surface": "על",
+      "gloss": "ilə birlikdə"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "böyrəklərlə"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "çıxaracaq"
+    }
+  ],
+  "timestamp": "2026-09-01T10:23:10.683362998Z",
+  "model": "glm-5.3"
+}

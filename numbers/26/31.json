@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 26:31",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "və Aşrielə görə Aşrielli ailəsi, və Şexemə görə Şexemli ailəsi.",
+  "tokens": [
+    {
+      "surface": "ואשריאל",
+      "gloss": "və Aşrielə görə"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ailəsi"
+    },
+    {
+      "surface": "האשראלי",
+      "gloss": "Aşrielli"
+    },
+    {
+      "surface": "ושכם",
+      "gloss": "və Şexemə görə"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ailəsi"
+    },
+    {
+      "surface": "השכמי",
+      "gloss": "Şexemli"
+    }
+  ],
+  "timestamp": "2026-09-01T10:42:23.474103755Z",
+  "model": "glm-5.3"
+}

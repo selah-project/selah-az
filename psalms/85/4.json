@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 85,
+  "translation": "Bütün qəzəbini yığışdırdın, öz hirsinin coşqusundan geri döndün.",
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "yığışdırdın"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "qəzəbini"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "geri döndün"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "coşqusundan"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "öz hirsinin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:10.253931429Z",
+  "model": "glm-5.3"
+}

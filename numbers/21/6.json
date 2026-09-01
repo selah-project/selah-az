@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 21:6",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Və Yahve xalqın içinə ⟨את⟩ o yandırıcı ilanları göndərdi, və onlar xalqı sancdılar, və İsraildən çox xalq öldü.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "və göndərdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "xalqın içinə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "o yandırıcı ilanları"
+    },
+    {
+      "surface": "הנחשים",
+      "gloss": "o ilanlar"
+    },
+    {
+      "surface": "השרפים",
+      "gloss": "yandırıcı ilanlar"
+    },
+    {
+      "surface": "וינשכו",
+      "gloss": "və sancdılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqı"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "və öldü"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "רב",
+      "gloss": "çox"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "İsraildən"
+    }
+  ],
+  "timestamp": "2026-09-01T10:40:31.875076555Z",
+  "model": "glm-5.3"
+}

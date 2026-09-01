@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 74:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 74,
+  "translation": "Nə üçün əlini, sağ əlini geri çəkirsən? ⟨Onu⟩ kucağından çıxart, sona yetir ⟨onları⟩.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "nə üçün"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "çəkirsən"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "əlini"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "sağ əlini"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "içindən"
+    },
+    {
+      "surface": "חוקך",
+      "gloss": "kucağının"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "sona yetir"
+    }
+  ],
+  "timestamp": "2026-09-01T15:25:23.525299773Z",
+  "model": "glm-5.3"
+}

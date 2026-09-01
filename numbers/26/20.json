@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 26:20",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Yehudanın oğulları ailələrinə görə ⟨belə idi⟩: Şeladan Şelanilər ailəsi, Peresdən Peresilər ailəsi, Zerahdan Zerahilər ailəsi.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "və ⟨belə idi⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudanın"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ailələrinə görə"
+    },
+    {
+      "surface": "לשלה",
+      "gloss": "Şeladan"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ailəsi"
+    },
+    {
+      "surface": "השלני",
+      "gloss": "Şelanilər"
+    },
+    {
+      "surface": "לפרץ",
+      "gloss": "Peresdən"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ailəsi"
+    },
+    {
+      "surface": "הפרצי",
+      "gloss": "Peresilər"
+    },
+    {
+      "surface": "לזרח",
+      "gloss": "Zerahdan"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ailəsi"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "Zerahilər"
+    }
+  ],
+  "timestamp": "2026-09-01T17:29:07.609174263Z",
+  "model": "glm-5.3"
+}

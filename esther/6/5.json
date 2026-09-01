@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 6:5",
+  "book": "esther",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Və kralın nökərləri ona dedilər: Bax, Haman təpədə dayanıb. Kral isə dedi: Gəlsin.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "dedilər"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "nökərləri"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "dayanıb"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "təpədə"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "gəlsin"
+    }
+  ],
+  "timestamp": "2026-09-01T16:35:08.441737761Z",
+  "model": "glm-5.3"
+}

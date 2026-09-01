@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 8:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Onu Elohimdən az bir şey aşağı etdin, izzət və əzəmətlə onu tacladın.",
+  "tokens": [
+    {
+      "surface": "ותחסרהו",
+      "gloss": "onu aşağı etdin"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "az bir şey"
+    },
+    {
+      "surface": "מאלהים",
+      "gloss": "Elohimdən"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "izzət və"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "əzəmətlə"
+    },
+    {
+      "surface": "תעטרהו",
+      "gloss": "onu tacladın"
+    }
+  ],
+  "timestamp": "2026-09-01T15:03:30.383820544Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 69:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 69,
+  "translation": "Paltarım üçün dərivər libasını özümə ⟨aldım⟩, və onlara məsəl ⟨oldum⟩.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "⟨aldım⟩"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "paltarım üçün"
+    },
+    {
+      "surface": "שק",
+      "gloss": "dərivər libası"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "və ⟨oldum⟩"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "məsəl"
+    }
+  ],
+  "timestamp": "2026-09-01T17:42:57.243057757Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 8:5",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və sən ürəyinlə biləcəksən ki, necə ki bir adam ⟨את⟩ oğlunu tərbiyə edir, Yahve, sənin Elohimin səni tərbiyə edir.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "və biləcəksən"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ilə birlikdə"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ürəyinlə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "necə ki"
+    },
+    {
+      "surface": "ייסר",
+      "gloss": "tərbiyə edir"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir adam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oğlunu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlunu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sənin Elohimin"
+    },
+    {
+      "surface": "מיסרך",
+      "gloss": "səni tərbiyə edir"
+    }
+  ],
+  "timestamp": "2026-09-01T10:48:53.683348309Z",
+  "model": "glm-5.3"
+}

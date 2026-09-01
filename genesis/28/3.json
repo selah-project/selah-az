@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "Və El Şadday səni mübarəkləsin, səni barandırsın və çoxaltsın, sən xalqlar cəmiyyəti olasan.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "və El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Şadday"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "mübarəkləsin"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ səni",
+      "marks": "səni"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "səni barandırsın"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "səni çoxaltsın"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "olasan"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "cəmiyyəti"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "xalqlar"
+    }
+  ],
+  "timestamp": "2026-09-01T09:55:09.200668761Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 100,
+  "translation": "Bilin ki, Yahve — O, Elohimdir; O, bizi yaratdı, biz isə ⟨özümüzü yaratmadıq⟩; biz Onun xalqıyıq, otlağının sürüsü.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "bilin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "O"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "O"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "bizi yaratdı"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "biz"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "Onun xalqı"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "və sürü"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "otlağının"
+    }
+  ],
+  "timestamp": "2026-09-01T15:34:25.015389550Z",
+  "model": "glm-5.3"
+}

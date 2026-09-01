@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 109,
+  "translation": "Və bilsinlər ki, ⟨bu⟩ sənin əlindir; sən, Yahve, onu etdin.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Və bilsinlər"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "sənin əlindir"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "⟨bu⟩"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "onu etdin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:37:29.811124482Z",
+  "model": "glm-5.3"
+}

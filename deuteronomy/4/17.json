@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 4:17",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "hər bir heyvanın surəti — hansı ki ⟨⟨yerin⟩⟩ üstündədir, hər bir qanadlı quşun surəti — hansı ki göylərdə uçur.",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "surəti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər bir"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "heyvanın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hansı ki"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerdə"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "surəti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər bir"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "quşun"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "qanadlı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hansı ki"
+    },
+    {
+      "surface": "תעוף",
+      "gloss": "uçur"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "göylərdə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:48:18.486920080Z",
+  "model": "glm-5.3"
+}

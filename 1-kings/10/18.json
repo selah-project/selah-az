@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 10:18",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Padşah isə böyük bir fil dişindən taxt düzəltdi və onu saflaşdırılmış qızılla örtdü.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "və düzəltdi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "taxt"
+    },
+    {
+      "surface": "שן",
+      "gloss": "fil dişi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "və onu örtdü"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "qızıl"
+    },
+    {
+      "surface": "מופז",
+      "gloss": "saflaşdırılmış"
+    }
+  ],
+  "timestamp": "2026-09-01T12:17:02.667500642Z",
+  "model": "glm-5.3"
+}

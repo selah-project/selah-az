@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 71:23",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 71,
+  "translation": "Dodaqlarım sənə zəmilər oxuyanda sevincdən nəriləyəcək, və canım — onu sən fidyə ilə azad etdin.",
+  "tokens": [
+    {
+      "surface": "תרננה",
+      "gloss": "nəriləyəcək"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "Dodaqlarım"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-da"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "zəmilər oxuyanda"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "və canım"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onu"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "fidyə ilə azad etdin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:22:44.082945939Z",
+  "model": "glm-5.3"
+}

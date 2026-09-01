@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 89,
+  "translation": "Düşmən ondan tələb etməyəcək və haqsızlığın oğlu onu əzməyəcək.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "tələb etməyəcək"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "düşmən"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "və ... oğlu"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "haqsızlığın"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "onu əzməyəcək"
+    }
+  ],
+  "timestamp": "2026-09-01T15:30:28.387148714Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Sevmək vaxtı, nifrət etmək vaxtı; müharibə vaxtı, sülh vaxtı.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "vaxtı"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "sevmək"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "və... vaxtı"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "nifrət etmək"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vaxtı"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "müharibə"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "və... vaxtı"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sülh"
+    }
+  ],
+  "timestamp": "2026-09-01T16:28:52.441404377Z",
+  "model": "glm-5.3"
+}

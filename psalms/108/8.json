@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 108:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 108,
+  "translation": "Elohim öz müqəddəsliyində danışdı: sevinəcəyəm, Şekemi böləcəyəm, və Suxot vadisini ölçəcəyəm.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "danışdı"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "öz müqəddəsliyində"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "sevinəcəyəm"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "böləcəyəm"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Şekemi"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "və vadisini"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Suxot"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "ölçəcəyəm"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:02.287377803Z",
+  "model": "glm-5.3"
+}

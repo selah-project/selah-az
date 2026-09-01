@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 23:32",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Şabat, tam istirahət şabatıdır sizin üçün; canlarınızı əzəcəksiniz; ayın doqquzunda, axşam çağı, axşamdan axşamadək Şabatınızı saxlayacağınız.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Şabat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "tam istirahət şabatıdır"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin üçün"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "əzəcəksiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "canlarınızı"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "canlarınızı"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "doqquzunda"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ayın"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "axşam çağı"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "axşamdan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "adək"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "axşamadək"
+    },
+    {
+      "surface": "תשבתו",
+      "gloss": "saxlayacağınız"
+    },
+    {
+      "surface": "שבתכם",
+      "gloss": "Şabatınızı"
+    }
+  ],
+  "timestamp": "2026-09-01T10:30:52.567251890Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Yük — Həzin dərəsinin. Nə olub sənə indi, ki hamınız damlara qalxdınız?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "yük"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "dərə"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "Həzin"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "qalxdınız"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "hamın"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "damlara"
+    }
+  ],
+  "timestamp": "2026-09-01T12:56:00.270343976Z",
+  "model": "glm-5.3"
+}

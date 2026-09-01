@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 24:10",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Və qul ağasının dəvələrindən on dəvə götürdü və getdi, və ağasının bütün malı əlində idi; və qalxıb Aram-Naharayimə, Naxorun şəhərinə getdi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "götürdü"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "qul"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "on"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "dəvə"
+    },
+    {
+      "surface": "מגמלי",
+      "gloss": "dəvələrindən"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ağasının"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "və getdi"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "malı"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ağasının"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "əlində idi"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "və qalxıb"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "getdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharayim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şəhərinə"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Naxor"
+    }
+  ],
+  "timestamp": "2026-09-01T09:52:15.942822548Z",
+  "model": "glm-5.3"
+}

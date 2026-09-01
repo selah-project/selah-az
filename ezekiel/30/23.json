@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 30:23",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Və ⟨את⟩ Mitsrayimi millətlər arasında səpələyəcəyəm və onları ölkələrə sovuracağam.",
+  "tokens": [
+    {
+      "surface": "והפצותי",
+      "gloss": "Və səpələyəcəyəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayimi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimi"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "millətlər arasında"
+    },
+    {
+      "surface": "וזריתם",
+      "gloss": "və onları sovuracağam"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "ölkələrə"
+    }
+  ],
+  "timestamp": "2026-09-01T14:20:49.422548772Z",
+  "model": "glm-5.3"
+}

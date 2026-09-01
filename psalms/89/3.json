@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 89,
+  "translation": "Çünki dedim: Əbədi hesed ⟨qurulacaq⟩; göylərdə sənin sadiqliyini səbatlandıracaqsan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "dedim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "qurulacaq"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "göylərdə"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "səbatlandıracaqsan"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "sənin sadiqliyini"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onlarda"
+    }
+  ],
+  "timestamp": "2026-09-01T15:30:04.774027175Z",
+  "model": "glm-5.3"
+}

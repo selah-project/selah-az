@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 3:5",
+  "book": "amos",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Quş yer üzərindəki tələyə düşərmi, ⟨onun⟩ üçün hiylə yoxdursa? Tələ torpaqdan qalxarmı, və tutmadan tutarmı?",
+  "tokens": [
+    {
+      "surface": "התפל",
+      "gloss": "düşərmi"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "quş"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərindəki"
+    },
+    {
+      "surface": "פח",
+      "gloss": "tələyə"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "ומוקש",
+      "gloss": "və hiylə"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "לה",
+      "gloss": "onun üçün"
+    },
+    {
+      "surface": "היעלה",
+      "gloss": "qalxarmı"
+    },
+    {
+      "surface": "פח",
+      "gloss": "tələ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "torpaq"
+    },
+    {
+      "surface": "ולכוד",
+      "gloss": "və tutmaq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ילכוד",
+      "gloss": "tutar"
+    }
+  ],
+  "timestamp": "2026-09-01T14:40:21.500096078Z",
+  "model": "glm-5.3"
+}

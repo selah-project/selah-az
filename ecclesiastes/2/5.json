@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Özümə bağlar və fərdəslər düzəltdim, onların içində hər meyvənin ağaclarını əkdim.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "düzəltdim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "özümə"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "bağlar"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "və fərdəslər"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "və əkdim"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onların içində"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ağaclarnı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "meyvə"
+    }
+  ],
+  "timestamp": "2026-09-01T16:29:45.395507976Z",
+  "model": "glm-5.3"
+}

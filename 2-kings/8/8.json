@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 8:8",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Padşah Həzaelə dedi: «Əlinə hədiyyə götür və Elohim adamının qarşısına get, Yahvedən ⟨את⟩ onun vasitəsilə soruş ⟨deyərək⟩: Bu xəstəlikdən sağalmışam mı?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Və dedi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "Həzael"
+    },
+    {
+      "surface": "קח",
+      "gloss": "götür"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "əlinə"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "hədiyyə"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "və get"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "qarşısına"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "və soruşacaqsan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahvedən soruşmağı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מאותו",
+      "gloss": "⟨את⟩ onun vasitəsilə"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "האחיה",
+      "gloss": "sağalmışam mı"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "xəstəlikdən"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-09-01T12:35:03.648326193Z",
+  "model": "glm-5.3"
+}

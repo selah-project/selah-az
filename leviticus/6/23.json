@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 6:23",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Və hər günah qurbanı ki, onun qanından biri öddaşına, müqəddəs yerdə kəffarə üçün gətirilsə, yeyilməz; odda yandırılar.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "və hər"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "günah qurbanı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יובא",
+      "gloss": "gətirilsə"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "onun qanından"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadır"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "öddaşı"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "kəffarə üçün"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "müqəddəs yerdə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yeyilməz"
+    },
+    {
+      "surface": "באש",
+      "gloss": "odda"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "yandırılar"
+    }
+  ],
+  "timestamp": "2026-09-01T10:23:04.403461441Z",
+  "model": "glm-5.3"
+}

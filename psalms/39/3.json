@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 39,
+  "translation": "Dilim bağlı qaldı, sükutla; hətta yaxşı sözdan da susdum, və ağrım coşdu.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "dilim bağlı qaldı"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "sükutla"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "susdum"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "yaxşı sözdan"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "və ağrım"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "coşdu"
+    }
+  ],
+  "timestamp": "2026-09-01T15:14:11.205541057Z",
+  "model": "glm-5.3"
+}

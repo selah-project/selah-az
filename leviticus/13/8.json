@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 13:8",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Və kahin görəcək və bax, kəpək dəridə yayılıbsa, kahin onu murdar elan edəcək — o, tsaraatdır.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "və görəcək"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "və bax"
+    },
+    {
+      "surface": "פשתה",
+      "gloss": "yayılmışsa"
+    },
+    {
+      "surface": "המספחת",
+      "gloss": "kəpək"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "dəridə"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "və murdar elan edəcək onu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsaraatdır"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-09-01T10:26:10.350603064Z",
+  "model": "glm-5.3"
+}

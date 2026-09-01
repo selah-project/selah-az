@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Buna görə haqsızlar məhkəmədə qalxmazlar, günahkarlar isə salehlər ⟨in⟩ məclisində ⟨olmazlar⟩.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "buna görə (üstdə)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "buna görə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "qalxmazlar"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "haqsızlar"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "məhkəmədə"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "günahkarlar isə"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "məclisində"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "salehlər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:00:23.781227316Z",
+  "model": "glm-5.3"
+}

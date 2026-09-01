@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 35:19",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "Yalançı düşmənlərim mənim haqqımda sevinməsin, əbəs yerə nifrət edənlərim göz qıcsındırmasın.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "sevinməsin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənim haqqımda"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "düşmənlərim"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yalançı"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "nifrət edənlərim"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "əbəs yerə"
+    },
+    {
+      "surface": "יקרצו",
+      "gloss": "göz qıcsındırsın"
+    },
+    {
+      "surface": "עין",
+      "gloss": "göz"
+    }
+  ],
+  "timestamp": "2026-09-01T15:11:24.629588534Z",
+  "model": "glm-5.3"
+}

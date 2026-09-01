@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Padishah geri qayıdıb Yardənə çatdı; Yehuda isə padishahı qarşılamağa, padishahı Yardəndən ⟨o tayına⟩ keçirməyə Gilqala gəldi.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "geri qayıdıb"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padishah"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "çatdı"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardənə"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "Yehuda isə"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gəldi"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "Gilqala"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "getməyə"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "qarşılamağa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padishahı"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "keçirməyə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "padishahı"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padishahı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardəni"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardəni"
+    }
+  ],
+  "timestamp": "2026-09-01T12:04:02.077814685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 8:25",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və ⟨את⟩ piyi, ⟨את⟩ quyruq piyini, ⟨את⟩ qarın üstündəki bütün piyi, ⟨את⟩ ciyər diləcini, ⟨את⟩ iki böyrəyi və ⟨את⟩ onların piyini, və ⟨את⟩ sağ baldırı götürdü.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "və götürdü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "piyi"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "piyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "quyruq piyini"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "quyruq piyini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "bütün piyi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "piyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündəki"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "qarın"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "ciyər diləcini"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "diləcini"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ciyər"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "iki böyrəyi"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iki"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "böyrəyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "onların piyini"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "onların piyini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "sağ baldırı"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "baldırı"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "sağ"
+    }
+  ],
+  "timestamp": "2026-09-01T10:25:24.471251812Z",
+  "model": "glm-5.3"
+}

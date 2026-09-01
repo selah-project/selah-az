@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 14:20",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Və Mitsrayim düşərgəsi ilə İsrail düşərgəsi arasında girdi; və ⟨orada⟩ bulud ⟨və⟩ qaranlıq oldu, və gecəni işıqlandırdı ⟨את⟩; və biri digərinə bütün gecə yaxınlaşmadı.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "girdi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "düşərgəsi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ilə...arasında"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "düşərgəsi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "bulud"
+    },
+    {
+      "surface": "והחשך",
+      "gloss": "və qaranlıq"
+    },
+    {
+      "surface": "ויאר",
+      "gloss": "işıqlandırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gecəni"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "gecəni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "yaxınlaşmadı"
+    },
+    {
+      "surface": "זה",
+      "gloss": "biri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "digərinə"
+    },
+    {
+      "surface": "זה",
+      "gloss": "digəri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "gecə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:10:00.526928371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 144,
+  "translation": "Yahve, göylərini əy və ⟨en⟩; dağlara toxun və onlar tüstülənsinlər.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הט",
+      "gloss": "əy"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "göylərini"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "və ⟨en⟩"
+    },
+    {
+      "surface": "גע",
+      "gloss": "toxun"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "dağlara"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "və onlar tüstülənsinlər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:27.859990611Z",
+  "model": "glm-5.3"
+}

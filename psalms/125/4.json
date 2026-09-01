@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 125,
+  "translation": "Yahve, yaxşılara xeyir et, ürəklərində düz olanlara.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "xeyir et"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "yaxşılara"
+    },
+    {
+      "surface": "ולישרים",
+      "gloss": "düz olanlara"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "ürəklərində"
+    }
+  ],
+  "timestamp": "2026-09-01T15:43:07.502497474Z",
+  "model": "glm-5.3"
+}

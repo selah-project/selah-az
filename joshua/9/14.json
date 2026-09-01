@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Və adamlar onların azuqəsindən götürdülər, amma Yahvenin ⟨את⟩ ağzını soruşmadılar.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "götürdülər"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "adamlar"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "onların azuqəsindən"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahvenin ağzını"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzını"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "amma"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "soruşmadılar"
+    }
+  ],
+  "timestamp": "2026-09-01T11:04:07.856126242Z",
+  "model": "glm-5.3"
+}

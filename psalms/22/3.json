@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Elohimim mənim, gündüz çağırıram, cavab vermirsən; və gecə, və mənə sükut ⟨yoxdur⟩.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim mənim"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "çağırıram"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "gündüz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və cavab vermirsən"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "⟨əvəzində⟩"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "və gecə"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ⟨yoxdur⟩"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "sükut"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:07:09.720790662Z",
+  "model": "glm-5.3"
+}

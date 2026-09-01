@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 18:25",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Uzaq olsun Səndən bu sözə görə ⟨etmək⟩ — salehi şərlə birlikdə öldürmək, və saleh şər kimi ⟨olsun⟩; uzaq olsun Səndən! Bütün yerin Haşəti məhkəmət etməzmi — yox, ⟨etməz⟩?",
+  "tokens": [
+    {
+      "surface": "חללה",
+      "gloss": "uzaq olsun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Səndən"
+    },
+    {
+      "surface": "מעשת",
+      "gloss": "etmək"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sözə görə"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "öldürmək"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "saleh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "şər"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "və ⟨olsun⟩"
+    },
+    {
+      "surface": "כצדיק",
+      "gloss": "saleh kimi"
+    },
+    {
+      "surface": "כרשע",
+      "gloss": "şər kimi"
+    },
+    {
+      "surface": "חללה",
+      "gloss": "uzaq olsun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Səndən"
+    },
+    {
+      "surface": "השפט",
+      "gloss": "Haşət"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer(in)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "etməz"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "məhkəmət"
+    }
+  ],
+  "timestamp": "2026-09-01T09:50:45.513622078Z",
+  "model": "glm-5.3"
+}

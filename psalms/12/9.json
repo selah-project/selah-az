@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Hər tərəfdə şər əhli gəzir, insan oğulları arasında alçalıq yüksəldilir.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "hər tərəfdə"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "şər əhli"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "gəzir"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "yüksəldilir"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "alçalıq"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:03:04.591905274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 25:27",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "o, satışının illərini ⟨את⟩ hesablasın və artığını ⟨את⟩ ona satdığı adama geri qaytarsın və öz mülkünə qayıtsın.",
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "hesablasın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "satışının illəri"
+    },
+    {
+      "surface": "שני",
+      "gloss": "illərini"
+    },
+    {
+      "surface": "ממכרו",
+      "gloss": "satışının"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "qaytarsın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "artıq"
+    },
+    {
+      "surface": "העדף",
+      "gloss": "artığını"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "adamaya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "satdı"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "qayıtsın"
+    },
+    {
+      "surface": "לאחזתו",
+      "gloss": "öz mülkünə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:31:15.789631780Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 22:25",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Əgər bir kişi tarlada nişanlı qızla ⟨את⟩ rastlaşsa və o kişi onu güclə tutub onunla yatsa, onunla yatan o kişi təkbaşına ölsün.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Əgər"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "tarlada"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "rastlaşsa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "kişi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nişanlı qız"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "qız"
+    },
+    {
+      "surface": "המארשה",
+      "gloss": "nişanlı"
+    },
+    {
+      "surface": "והחזיק",
+      "gloss": "güclə tutsa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "onu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "kişi"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "yatsa"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ölsün"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "kişi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "yatdı"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "təkbaşına"
+    }
+  ],
+  "timestamp": "2026-09-01T10:53:59.983789923Z",
+  "model": "glm-5.3"
+}

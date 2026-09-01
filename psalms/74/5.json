@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 74:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 74,
+  "translation": "Tanınırdı, ⟨sanki⟩ yuxarı ⟨çəkən⟩ ⟨kimi⟩ — sıx ağaclığa ağac baltaları ⟨vururdular⟩.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "tanınırdı"
+    },
+    {
+      "surface": "כמביא",
+      "gloss": "⟨sanki⟩ yuxarı çəkən ⟨kimi⟩"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "yuxarı"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "sıx ağaclığa"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ağac"
+    },
+    {
+      "surface": "קרדמות",
+      "gloss": "baltalar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:25:13.224449682Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 26:10",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "və indi, bax, gətirdim ⟨את⟩ torpağın bəhrəsinin ilk məhsulunu ki, mənə vermisən, sən, Yahve; və onu Yahvenin, Elohiminin üzünə qoyacaqsan, və Yahvenin, Elohiminin üzündə səcdə edəcəksən.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "və indi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "הבאתי",
+      "gloss": "gətirdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilk məhsulu"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ilk"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "bəhrəsinin"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "torpağın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "vermisən"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "והנחתו",
+      "gloss": "və qoyacaqsan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "üzünə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiminin"
+    },
+    {
+      "surface": "והשתחוית",
+      "gloss": "və səcdə edəcəksən"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "üzündə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiminin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:54:12.831717684Z",
+  "model": "glm-5.3"
+}

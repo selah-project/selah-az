@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 62,
+  "translation": "Bir dəfə danışdı Elohim, iki dəfə bunu eşitdim: ki, qüdrət Elohimə məxsusdur.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Bir dəfə"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "danışdı"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "iki dəfə"
+    },
+    {
+      "surface": "זו",
+      "gloss": "bunu"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "eşitdim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עז",
+      "gloss": "qüdrət"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimə"
+    }
+  ],
+  "timestamp": "2026-09-01T17:42:38.046190023Z",
+  "model": "glm-5.3"
+}

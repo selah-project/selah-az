@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 12:9",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Çünki siz hələ indiyə qədər istirahət yerinə və mirasa, - onu sizə Yahve Elohiniz verir, - çatmamışsınız.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "çatmamışsınız"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ə qədər"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "המנוחה",
+      "gloss": "istirahət yerinə"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və"
+    },
+    {
+      "surface": "הנחלה",
+      "gloss": "mirasa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-ı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiniz"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verir"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sizə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:51:25.668088507Z",
+  "model": "glm-5.3"
+}

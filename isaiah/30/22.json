@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 30:22",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Gümüş bəzəməli oyma bütlərinin üztəbəqini ⟨את⟩ və qızıl tökmə bütlərinin örtüyünü ⟨את⟩ murdar sayacaqsan; onları xəstəlik ⟨kimi⟩ savacaqsan: «Çıx!» — deyəcəksən ona.",
+  "tokens": [
+    {
+      "surface": "וטמאתם",
+      "gloss": "murdar sayacaqsan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "üztəbəqi"
+    },
+    {
+      "surface": "צפוי",
+      "gloss": "üztəbəq"
+    },
+    {
+      "surface": "פסילי",
+      "gloss": "oyma bütlərinin"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "örtük"
+    },
+    {
+      "surface": "אפדת",
+      "gloss": "örtük"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "tökmə bütlərinin"
+    },
+    {
+      "surface": "זהבך",
+      "gloss": "qızıl"
+    },
+    {
+      "surface": "תזרם",
+      "gloss": "savacaqsan"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "⟨kimi⟩"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "xəstəlik"
+    },
+    {
+      "surface": "צא",
+      "gloss": "çıx"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "deyəcəksən"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-09-01T13:01:29.739799320Z",
+  "model": "glm-5.3"
+}

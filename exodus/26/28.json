@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 26:28",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "və ortadakı qıfıl lövhələrin ortasından bir ucdan o biri ucadək keçəcək.",
+  "tokens": [
+    {
+      "surface": "והבריח",
+      "gloss": "və qıfıl"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "ortadakı"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ortasından"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "lövhələrin"
+    },
+    {
+      "surface": "מברח",
+      "gloss": "keçəcək"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "uc"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "uc"
+    }
+  ],
+  "timestamp": "2026-09-01T10:16:19.331272504Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "və günəş batanda təmizlənər, və ondan sonra müqəddəs şeylərdən yeyər, çünki o, onun çörəyidir",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "və batanda"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "günəş"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "və təmizlənər"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "və ondan sonra"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yeyər"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "müqəddəs şeylər"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "onun çörəyi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-09-01T10:28:56.686445429Z",
+  "model": "glm-5.3"
+}

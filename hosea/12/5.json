@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 12:5",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "O, mələklə güləşdi və üstün gəldi; ağladı və ona yalvardı; Beyt-El-də Onu tapdı, və orada bizimlə danışdı.",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "güləşdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mələk"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "üstün gəldi"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "ağladı"
+    },
+    {
+      "surface": "ויתחנן",
+      "gloss": "yalvardı"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "Onu tapdı"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "və orada"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "danışdı"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "bizimlə"
+    }
+  ],
+  "timestamp": "2026-09-01T14:36:23.114259688Z",
+  "model": "glm-5.3"
+}

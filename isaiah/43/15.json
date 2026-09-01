@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 43:15",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 43,
+  "translation": "Mən Yahve, sizin Müqəddəsiniz, İsraili yaradan, sizin şahınız.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "קדושכם",
+      "gloss": "Müqəddəsiniz"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "yaradan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsraili"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "şahınız"
+    }
+  ],
+  "timestamp": "2026-09-01T13:07:31.234722474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 119:23",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Həmçinin sərlər əyləşib mənim haqqımda danışırdılar; sənin qulun isə qanunlarında dərin düşünürdü.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "həmçinin"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "əyləşib"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "sərlər"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mənim haqqımda"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "danışırdılar"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sənin qulun"
+    },
+    {
+      "surface": "ישיח",
+      "gloss": "dərin düşünürdü"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "qanunlarında"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:49.576953259Z",
+  "model": "glm-5.3"
+}

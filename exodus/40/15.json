@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 40:15",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "və onları məsh edəcəksən, necə ki atalarını məsh etdin, və onlar Mənə kahinlik edəcəklər, və onların məshi onlara əbədi kahinlik olmaq üçün olacaq, nəsilləri boyunca.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "məsh edəcəksən"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onları"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "necə ki"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "məsh etdin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atalarını"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "atalarını"
+    },
+    {
+      "surface": "וכהנו",
+      "gloss": "kahinlik edəcəklər"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Mənə"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "להית",
+      "gloss": "olmaq üçün"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "onların məshi"
+    },
+    {
+      "surface": "לכהנת",
+      "gloss": "kahinlik"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "nəsilləri boyunca"
+    }
+  ],
+  "timestamp": "2026-09-01T10:22:08.594608239Z",
+  "model": "glm-5.3"
+}

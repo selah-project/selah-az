@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zephaniah 1:12",
+  "book": "zephaniah",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və olacaq o vaxt Yeruşalımı çıraqlarla ⟨את⟩ axtaracağam və şərabın çöküntüsündə donub qalmış adamların — ürəklərində 'Yahve yaxşılıq etməz, pislik də etməz' deyənlərin üstünə gələcəyəm.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "və olacaq"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "o vaxt"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "(vaxt)"
+    },
+    {
+      "surface": "אחפש",
+      "gloss": "axtaracağam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeruşalımı"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalımı"
+    },
+    {
+      "surface": "בנרות",
+      "gloss": "çıraqlarla"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "üstünə gələcəyəm"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "adamların"
+    },
+    {
+      "surface": "הקפאים",
+      "gloss": "donub qalmış"
+    },
+    {
+      "surface": "על",
+      "gloss": "-də"
+    },
+    {
+      "surface": "שמריהם",
+      "gloss": "çöküntüsündə"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "deyənlərin"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "ürəklərində"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ייטיב",
+      "gloss": "yaxşılıq etməz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və etməz"
+    },
+    {
+      "surface": "ירע",
+      "gloss": "pislik"
+    }
+  ],
+  "timestamp": "2026-09-01T14:52:47.164205289Z",
+  "model": "glm-5.3"
+}

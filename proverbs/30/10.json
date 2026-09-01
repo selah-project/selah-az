@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 30:10",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Qulunu Adonayına dilətmə, yoxsa səni lənətləyər və günahkar sayilarsan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תלשן",
+      "gloss": "dilətə (qısqırtma)"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "qulunu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...-a doğru"
+    },
+    {
+      "surface": "אדנו",
+      "gloss": "Adonayına"
+    },
+    {
+      "surface": "פן",
+      "gloss": "yoxsa"
+    },
+    {
+      "surface": "יקללך",
+      "gloss": "səni lənətləyər"
+    },
+    {
+      "surface": "ואשמת",
+      "gloss": "və günahkar sayılarsan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:59:50.033850060Z",
+  "model": "glm-5.3"
+}

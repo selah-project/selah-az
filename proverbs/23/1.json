@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 23:1",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Yemək üçün hökmdarla oturduqda, ayırd edib anla ⟨את⟩ qarşında olanı.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nə vaxt ki"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "oturursan"
+    },
+    {
+      "surface": "ללחום",
+      "gloss": "yemək üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ilə"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "hökmdar"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ayırd edərək"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "anla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qarşında olanı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olan"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "qarşında"
+    }
+  ],
+  "timestamp": "2026-09-01T15:58:24.758328069Z",
+  "model": "glm-5.3"
+}

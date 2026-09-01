@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 31:31",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "Bax, günlər gəlir — Yahvenin nətidir — ⟨את⟩ İsrail evi və ⟨את⟩ Yehuda evi ilə yeni bir əhd kəsəcəyəm.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günlər"
+    },
+    {
+      "surface": "באים",
+      "gloss": "gəlir"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nətidir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וכרתי",
+      "gloss": "və kəsəcəyəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsrail evi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "Yehuda evi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "əhd"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "yeni"
+    }
+  ],
+  "timestamp": "2026-09-01T13:42:22.349858265Z",
+  "model": "glm-5.3"
+}

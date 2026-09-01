@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Bütün sürünən uçuşanlar ki, dörd ⟨üstdə⟩ gəzir — iyrəncdir sizin üçün.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "sürünən"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "uçuşan"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "gəzən"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstdə"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "dörd"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "iyrənc"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:24:48.551511350Z",
+  "model": "glm-5.3"
+}

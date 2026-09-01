@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 5:6",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Və ⟨o⟩ məktubu İsrail padşahına gətirdi ⟨deyərək⟩: «Və indi, bu məktub sənin yanına gəldikdə, bax, mən sənə qulum Naamanı ⟨את⟩ göndərdim, və ⟨sən⟩ onu cüzamından sağalt». ⟨Onu⟩",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "gətirdi"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "məktubu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşahı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "və indi"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "gəldikdə"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "məktub"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sənin yanına"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "mən göndərdim"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qulum Naamanı"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "Naaman"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "qulum"
+    },
+    {
+      "surface": "ואספתו",
+      "gloss": "və onu sağalt"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "cüzamından"
+    }
+  ],
+  "timestamp": "2026-09-01T12:32:12.681148403Z",
+  "model": "glm-5.3"
+}

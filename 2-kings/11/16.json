@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 11:16",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Ona ⟨yer⟩ açdılar və o, atların girişi yolu ilə kimi evinə girdi; orada öldürüldü.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "açdılar"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "⟨yer⟩ əllər"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "girdi"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yolu ilə"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "girişi"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "atların"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "ותומת",
+      "gloss": "öldürüldü"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    }
+  ],
+  "timestamp": "2026-09-01T12:35:57.828682554Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 1:10",
+  "book": "job",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Məgər sən onun üçün, evi üçün və ətrafında olan hər şeyi üçün has çəkmədinmi? Əllərinin əməlini mübarək etdin, mal-qarası isə yerə yayıldı.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "məgər... -mı"
+    },
+    {
+      "surface": "את",
+      "gloss": "sən"
+    },
+    {
+      "surface": "שכת",
+      "gloss": "has çəkmədin"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "onun üçün"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "və ... üçün"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "evi"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "və ... üçün"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər şeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onun"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ətrafında"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "əməlini"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "əllərinin"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "mübarək etdin"
+    },
+    {
+      "surface": "ומקנהו",
+      "gloss": "və mal-qarası"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "yayıldı"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerə"
+    }
+  ],
+  "timestamp": "2026-09-01T16:03:03.859065073Z",
+  "model": "glm-5.3"
+}

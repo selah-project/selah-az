@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "Evler tikin ⟨və⟩ ⟨orada⟩ yaşayın, bağlar əkin ⟨və⟩ onların ⟨את⟩ məhsulunu yeyin.",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "tikin"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "evler"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "⟨və⟩ yaşayın"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "⟨və⟩ əkin"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "bağlar"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "⟨və⟩ yeyin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "məhsulunu"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "məhsulunu"
+    }
+  ],
+  "timestamp": "2026-09-01T13:40:22.319045825Z",
+  "model": "glm-5.3"
+}

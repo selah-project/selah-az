@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 27:13",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Onun paltarını götür, çünki o, yad adam üçün zəmanət durub; yad qadın üçün isə ondan girov al.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "götür"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "onun paltarını"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "zəmanət durub"
+    },
+    {
+      "surface": "זר",
+      "gloss": "yad adam"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "və ... üçün"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "yad qadın"
+    },
+    {
+      "surface": "חבלהו",
+      "gloss": "ondan girov al"
+    }
+  ],
+  "timestamp": "2026-09-01T15:59:27.983237764Z",
+  "model": "glm-5.3"
+}

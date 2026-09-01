@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "Çörək yemədiniz, şərab və sərxoşedici içki içmədiniz — bilsiniz deyə ki, mən Yahve, sizin Elohim-inizəm.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "çörək"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "yemədiniz"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "və şərab"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "və sərxoşedici içki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "içmədiniz"
+    },
+    {
+      "surface": "למען",
+      "gloss": "bilsiniz deyə"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "tanıyasınız"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "sizin Elohim-iniz"
+    }
+  ],
+  "timestamp": "2026-09-01T10:56:19.973082200Z",
+  "model": "glm-5.3"
+}

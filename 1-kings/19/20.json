@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 19:20",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Və o, tərk etdi ⟨את⟩ öküzləri və Eliyahunun arxasınca qaçdı və dedi: Nə olar, atanı və anamı öpüm, sonra sənin ardınca gedim. O isə ona dedi: Get, geri dön, çünki mən sənə nə etdim?",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "və tərk etdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öküzləri"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "öküzləri"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "və qaçdı"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "arxasınca"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahunun"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אשקה",
+      "gloss": "öpüm"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nə olar"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "atanı"
+    },
+    {
+      "surface": "ולאמי",
+      "gloss": "və anamı"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "gedim"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "sənin ardınca"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "לך",
+      "gloss": "get"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "geri dön"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "etdim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:25:37.617401149Z",
+  "model": "glm-5.3"
+}

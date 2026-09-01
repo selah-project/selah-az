@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 27:9",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Əgər onun qızı yoxdursa, onun irsini qardaşlarına verəcəksiniz.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Əgər"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onun"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qızı"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "verəcəksiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onun irsini"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "onun irsini"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "qardaşlarına"
+    }
+  ],
+  "timestamp": "2026-09-01T10:42:43.590306901Z",
+  "model": "glm-5.3"
+}

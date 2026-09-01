@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 26:50",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Bunlar Naftalinin ailələridir, ailələrinə görə, və onların sayılanları beş min qırx dörd yüz ⟨kiçik min⟩ — beş və qırx min, dörd yüz.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Bunlar"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ailələri"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftalinin"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ailələrinə görə"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "və onların sayılanları"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "beş"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "və qırx"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "min"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "və dörd"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    }
+  ],
+  "timestamp": "2026-09-01T10:42:22.280117501Z",
+  "model": "glm-5.3"
+}

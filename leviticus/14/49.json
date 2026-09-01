@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "leviticus 14:49",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Evi təmizləmək üçün iki quş, sidr ağacı, qırmızı rəng (şanı təlavət) və züfət götürəcək.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "götürəcək"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "təmizləmək üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "evi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iki"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "quş"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "və ağacı"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "sidr"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "və qırmızı rəng"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "təlavət"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "və züfət"
+    }
+  ],
+  "timestamp": "2026-09-01T10:25:43.770735744Z",
+  "model": "glm-5.3"
+}

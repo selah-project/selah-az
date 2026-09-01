@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Qışqırdılar, amma qurtaran ⟨yox idi⟩; Yahveyə ⟨yalvardılar⟩, amma ⟨O⟩ onlara cavab vermədi.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "qışqırdılar"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "amma ⟨yox idi⟩"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "qurtaran"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨yalvardılar⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma ⟨O⟩"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "onlara cavab vermədi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:06:41.822328123Z",
+  "model": "glm-5.3"
+}

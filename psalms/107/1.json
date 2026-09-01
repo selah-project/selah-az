@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 107,
+  "translation": "Yahve-yə şükür edin, çünki O yaxşıdır, çünki Onun hesedi əbədidir.",
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "şükür edin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve-yə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşıdır"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədidir"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Onun hesedi"
+    }
+  ],
+  "timestamp": "2026-09-01T17:42:43.655476069Z",
+  "model": "glm-5.3"
+}

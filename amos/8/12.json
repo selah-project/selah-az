@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 8:12",
+  "book": "amos",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və dənizdən dənizə sarsılacaqlar, şimaldan şərqə qədər Yahvenin sözünü axtarmaq üçün gəzəcəklər ⟨את⟩, amma tapmayacaqlar.",
+  "tokens": [
+    {
+      "surface": "ונעו",
+      "gloss": "sarsılacaqlar"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dənizdən"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dənizə"
+    },
+    {
+      "surface": "ומצפון",
+      "gloss": "şimaldan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "şərqə"
+    },
+    {
+      "surface": "ישוטטו",
+      "gloss": "gəzəcəklər"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "axtarmaq üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahvenin sözünü"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sözünü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "tapmayacaqlar"
+    }
+  ],
+  "timestamp": "2026-09-01T14:43:41.835686829Z",
+  "model": "glm-5.3"
+}

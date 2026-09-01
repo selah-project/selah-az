@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Qüdrətim sırğaya bənzər qurudu, dilim çənələrimə yapışdı, ölümün tozuna məni qoyursan.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "qurudu"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "sırğaya bənzər"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "qüdrətim"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "dilim"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "yapışdı"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "çənələrimə"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "tozuna"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölümün"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "məni qoyursan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:06:55.326165406Z",
+  "model": "glm-5.3"
+}

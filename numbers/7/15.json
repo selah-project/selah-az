@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 7:15",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "bir öküz, malquanısının biri ⟨oğul⟩, bir qoç, bir quzu, bir yaşında oğul, bütöv yandırma qurbanı üçün.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "öküz"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨oğul⟩"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "mal-qara"
+    },
+    {
+      "surface": "איל",
+      "gloss": "qoç"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "quzu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "bir yaşında"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "bütöv yandırma qurbanı üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:33:51.983000057Z",
+  "model": "glm-5.3"
+}

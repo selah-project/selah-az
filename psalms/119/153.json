@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 153,
+  "ref": "psalms 119:153",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Əzabımı gör və məni qurtar, çünki Tövrəni unutmadım.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "gör"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "əzabımı"
+    },
+    {
+      "surface": "וחלצני",
+      "gloss": "və məni qurtar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tövrəni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "unutmadım"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:16.986196128Z",
+  "model": "glm-5.3"
+}

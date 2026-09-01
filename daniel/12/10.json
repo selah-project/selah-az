@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 12:10",
+  "book": "daniel",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Çoxları aydınlanacaq, ağaracaq və təmizlənəcək; günahkarlar isə günah işlədəcəklər və heç bir günahkar anlamayacaq, ancaq anlayışlılar anlayacaqlar.",
+  "tokens": [
+    {
+      "surface": "יתבררו",
+      "gloss": "aydınlanacaq"
+    },
+    {
+      "surface": "ויתלבנו",
+      "gloss": "və ağaracaq"
+    },
+    {
+      "surface": "ויצרפו",
+      "gloss": "və təmizlənəcək"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "çoxları"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "günah işlədəcəklər"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "günahkarlar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və... yox"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "anlamayacaq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heç bir"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "günahkar"
+    },
+    {
+      "surface": "והמשכלים",
+      "gloss": "ancaq anlayışlılar"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "anlayacaqlar"
+    }
+  ],
+  "timestamp": "2026-09-01T16:46:48.217128499Z",
+  "model": "glm-5.3"
+}

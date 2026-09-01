@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 2:12",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və mən müdrikliyə, dəliliyə və ağılsızlığa baxmağa yönəldim; çünki ⟨insan⟩ nədir — padşahdan sonra gələn, ⟨את⟩ onsuz da edilmiş şeyi edə bilər?",
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "yönəldim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "baxmağa"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "müdrikliyə"
+    },
+    {
+      "surface": "והוללות",
+      "gloss": "dəliliyə"
+    },
+    {
+      "surface": "וסכלות",
+      "gloss": "ağılsızlığa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nədir"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "שיבוא",
+      "gloss": "gələn"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sonra"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşahdan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onsuz da edilmiş şeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "onsuz da"
+    },
+    {
+      "surface": "עשוהו",
+      "gloss": "edilmiş"
+    }
+  ],
+  "timestamp": "2026-09-01T16:29:27.755096711Z",
+  "model": "glm-5.3"
+}

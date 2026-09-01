@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 115,
+  "translation": "Göylər Yahvenindir, amma yeri insan oğullarına verib.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "göylər"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "göylər"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvenindir"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "amma yeri"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verib"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oğullarına"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:34.425012782Z",
+  "model": "glm-5.3"
+}

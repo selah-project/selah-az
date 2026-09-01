@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 3:24",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və insanı qovdu, və Ədən bağının şərqinə kərubimleri ⟨את⟩ və özünü fırladan alovlu qılıncı ⟨את⟩ sakin etdi, həyat ağacının yolunu ⟨את⟩ qorumaq üçün.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "və qovdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "insanı"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insanı"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "sakin etdi"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "şərqinə"
+    },
+    {
+      "surface": "לגן",
+      "gloss": "bağının"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Ədən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kərubimleri"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "kərubimleri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qılıncı"
+    },
+    {
+      "surface": "להט",
+      "gloss": "alovlu"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "qılıncı"
+    },
+    {
+      "surface": "המתהפכת",
+      "gloss": "özünü fırladan"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "qorumaq üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yolu"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yolunu"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ağacının"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "həyat"
+    }
+  ],
+  "timestamp": "2026-09-01T09:46:29.880679753Z",
+  "model": "glm-5.3"
+}

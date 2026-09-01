@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 44:2",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 44,
+  "translation": "Və mənim camımı, gümüş camını, kiçiyin çantasının ağzına qoy, onun taxılın gümüşü ⟨ilə birgə⟩; və Yosefin dediyi sözə görə etdi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "camım"
+    },
+    {
+      "surface": "גביעי",
+      "gloss": "camımı"
+    },
+    {
+      "surface": "גביע",
+      "gloss": "cam"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "qoy"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ağzına"
+    },
+    {
+      "surface": "אמתחת",
+      "gloss": "çantasının"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "kiçiyin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "taxılın gümüşü"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüşü"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "onun taxılının"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "və etdi"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sözə görə"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ki⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dediyi"
+    }
+  ],
+  "timestamp": "2026-09-01T10:01:47.065697356Z",
+  "model": "glm-5.3"
+}

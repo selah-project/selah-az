@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 23:15",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Və Balaq'a dedi: Burada, öz yandırma qurbanının yanında dur, mən isə orada qarşılaşmağa gedəcəyəm.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balaq"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "dur"
+    },
+    {
+      "surface": "כה",
+      "gloss": "burada"
+    },
+    {
+      "surface": "על",
+      "gloss": "yanında"
+    },
+    {
+      "surface": "עלתך",
+      "gloss": "sənin yandırma qurbanın"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "mən isə"
+    },
+    {
+      "surface": "אקרה",
+      "gloss": "qarşılaşacağam"
+    },
+    {
+      "surface": "כה",
+      "gloss": "orada"
+    }
+  ],
+  "timestamp": "2026-09-01T10:41:25.128696070Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 145,
+  "translation": "Nəsil nəsilə Sənin əməllərini tərifləyəcək, və qüdrətlərini bildirəcəklər.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Nəsil"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "nəsilə"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "tərifləyəcək"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "əməllərini"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "qüdrətlərini"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "bildirəcəklər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:47:02.801421788Z",
+  "model": "glm-5.3"
+}

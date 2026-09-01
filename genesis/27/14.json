@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 27:14",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "O getdi, götürdü və anasına gətirdi; anası atasının sevdiyi kimi ləzzətli yeməklər hazırladı.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "o getdi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "götürdü"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "gətirdi"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "anasına"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "hazırladı"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "anası"
+    },
+    {
+      "surface": "מטעמים",
+      "gloss": "ləzzətli yeməklər"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "sevdiyi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atasının"
+    }
+  ],
+  "timestamp": "2026-09-01T09:54:29.239257640Z",
+  "model": "glm-5.3"
+}

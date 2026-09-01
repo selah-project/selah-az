@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 3:21",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Çılpaq təpələr üstündə səs eşidilir — Yisrael oğullarının ağlaması, yalvarışları; çünki ⟨onlar⟩ öz yollarını əydilər, Yahve Elohim'lərini unutdular.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "səs"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "çılpaq təpələr"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "eşidilir"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "ağlaması"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "yalvarışları"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "העוו",
+      "gloss": "əydilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öz yollarını"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "yollarını"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "unutdular"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve Elohim'lərini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim'lərini"
+    }
+  ],
+  "timestamp": "2026-09-01T13:23:06.160002889Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Siz isə bar verin və çoxalın, yerdə sürüləyin və orada çoxalın.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "siz isə"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "bar verin"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "və çoxalın"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "sürüləyin"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerdə"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "və çoxalın"
+    },
+    {
+      "surface": "בה",
+      "gloss": "orada"
+    }
+  ],
+  "timestamp": "2026-09-01T09:47:12.596217304Z",
+  "model": "glm-5.3"
+}

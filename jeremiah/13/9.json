@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Belə buyurur Yahve: elə məhv edəcəyəm ⟨את⟩ Yəhudanın qüdrətini və ⟨את⟩ Yeruşalayimin böyük qüdrətini.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "belə"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "buyurur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "elə"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "məhv edəcəyəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yəhudanın qüdrətini"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "qüdrətini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yəhudanın"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "Yeruşalayimin böyük qüdrətini"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "qüdrətini"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayimin"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "böyük"
+    }
+  ],
+  "timestamp": "2026-09-01T13:31:05.542797029Z",
+  "model": "glm-5.3"
+}

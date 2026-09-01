@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 4:19",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Külək onu ⟨את⟩ qanadlarında bağladı və qurbanlarından utanacaqlar.",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "bağladı"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Külək"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ onu",
+      "marks": "qanadlarında"
+    },
+    {
+      "surface": "בכנפיה",
+      "gloss": "qanadlarında"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "və utanacaqlar"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "qurbanlarından"
+    }
+  ],
+  "timestamp": "2026-09-01T14:33:14.162530608Z",
+  "model": "glm-5.3"
+}

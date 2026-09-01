@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 22:10",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Yahvenin andı ikisinin arasında olacaq — ⟨o⟩ yoldaşının malına əlini uzatmamışdırsa; və ⟨malın⟩ sahibi ⟨andı⟩ qəbul edəcək, və o ödəməyəcək.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "andı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ikisinin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "uzatmamışdırsa"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "uzatmamışdırsa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "əlini"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "malına"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "yoldaşının"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "qəbul edəcək"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "sahibi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... yox"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ödəməyəcək"
+    }
+  ],
+  "timestamp": "2026-09-01T10:13:35.432105103Z",
+  "model": "glm-5.3"
+}

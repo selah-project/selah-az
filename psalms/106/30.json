@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 106,
+  "translation": "Və Pinxas durdu və şəfaat etdi, və taun dayandı.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "durdu"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinxas"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "şəfaat etdi"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "dayandı"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "taun"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:35.413382381Z",
+  "model": "glm-5.3"
+}

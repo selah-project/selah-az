@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "Tora — bizə Moşe buyurdu; bu, Yaaqov icmalının irsidir.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurdu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizə"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "irs"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "icmalının"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaqov"
+    }
+  ],
+  "timestamp": "2026-09-01T10:59:09.832060883Z",
+  "model": "glm-5.3"
+}

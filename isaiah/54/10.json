@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 54:10",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 54,
+  "translation": "Çünki dağlar çəkiləcək və təpələr titrəyəcək, amma Mənim hesedim səndən ⟨את⟩ çəkilməyəcək və şalom peyim sarsılmayacaq — sənə rəhm edən Yahve deyir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "dağlar"
+    },
+    {
+      "surface": "ימושו",
+      "gloss": "çəkiləcək"
+    },
+    {
+      "surface": "והגבעות",
+      "gloss": "və təpələr"
+    },
+    {
+      "surface": "תמוטנה",
+      "gloss": "titrəyəcək"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "amma Mənim hesedim"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ səndən",
+      "marks": "sən"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ימוש",
+      "gloss": "çəkilməyəcək"
+    },
+    {
+      "surface": "וברית",
+      "gloss": "və ... peyim"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "şalom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "sarsılmayacaq"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "מרחמך",
+      "gloss": "sənə rəhm edən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T13:14:23.504274564Z",
+  "model": "glm-5.3"
+}

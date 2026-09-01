@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 119:47",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Və əmrlərində zövq alacağam, çünki onları sevmişəm.",
+  "tokens": [
+    {
+      "surface": "ואשתעשע",
+      "gloss": "və zövq alacağam"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "əmrlərində"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨çünki onları⟩"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "sevmişəm"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:50.450046622Z",
+  "model": "glm-5.3"
+}

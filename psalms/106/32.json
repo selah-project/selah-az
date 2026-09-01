@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 106:32",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 106,
+  "translation": "Meriva sularında Onu qəzəbləndirdilər, və onların ucbatından Moşenin ⟨başına⟩ pis gəldi.",
+  "tokens": [
+    {
+      "surface": "ויקציפו",
+      "gloss": "qəzəbləndirdilər"
+    },
+    {
+      "surface": "על",
+      "gloss": "-da"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sularında"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meriva"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "pis gəldi"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moşeyə"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "onların ucbatından"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:35.413783582Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 12:12",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Və sayılmış ⟨את⟩ gümüşü Yahve evindəki işi görənlərin, təyin olunmuş nəzarətçilərin əlinə verirdilər; onu ağac ustalarına, Yahve evində işləyən bina ustalarına xərcləyirdilər.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "verirdilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sayılmış gümüşü"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "gümüşü"
+    },
+    {
+      "surface": "המתכן",
+      "gloss": "sayılmış"
+    },
+    {
+      "surface": "על",
+      "gloss": "əlinə"
+    },
+    {
+      "surface": "יד",
+      "gloss": "əl"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "görənlərin"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "işi"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "təyin olunmuş nəzarətçilər"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evindəki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויוציאהו",
+      "gloss": "xərcləyirdilər"
+    },
+    {
+      "surface": "לחרשי",
+      "gloss": "ustalarına"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ağac"
+    },
+    {
+      "surface": "ולבנים",
+      "gloss": "bina ustalarına"
+    },
+    {
+      "surface": "העשים",
+      "gloss": "işləyən"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evində"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T12:38:00.291076857Z",
+  "model": "glm-5.3"
+}

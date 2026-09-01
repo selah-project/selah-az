@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Beş parçanı ayrıca birləşdirəcəksən və altı parçanı ayrıca, ⟨את⟩ altıncı parçanı çadırın ünvanı qarşısında qatlayacaqsan.",
+  "tokens": [
+    {
+      "surface": "וְחִבַּרְתָּ",
+      "gloss": "birləşdirəcəksən"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "beş parça"
+    },
+    {
+      "surface": "חֲמֵשׁ",
+      "gloss": "beş"
+    },
+    {
+      "surface": "הַיְרִיעֹת",
+      "gloss": "parçaları"
+    },
+    {
+      "surface": "לְבָד",
+      "gloss": "ayrıca"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "və ⟨את⟩",
+      "marks": "altı parça"
+    },
+    {
+      "surface": "שֵׁשׁ",
+      "gloss": "altı"
+    },
+    {
+      "surface": "הַיְרִיעֹת",
+      "gloss": "parçaları"
+    },
+    {
+      "surface": "לְבָד",
+      "gloss": "ayrıca"
+    },
+    {
+      "surface": "וְכָפַלְתָּ",
+      "gloss": "qatlayacaqsan"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "altıncı parça"
+    },
+    {
+      "surface": "הַיְרִיעָה",
+      "gloss": "parçanı"
+    },
+    {
+      "surface": "הַשִּׁשִּׁית",
+      "gloss": "altıncı"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "qarşısında"
+    },
+    {
+      "surface": "מוּל",
+      "gloss": "üz qarşısında"
+    },
+    {
+      "surface": "פְּנֵי",
+      "gloss": "üzü"
+    },
+    {
+      "surface": "הָאֹהֶל",
+      "gloss": "çadırın"
+    }
+  ],
+  "timestamp": "2026-09-01T17:56:05.876152265Z",
+  "model": "glm-5.3"
+}

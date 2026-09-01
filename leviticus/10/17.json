@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 10:17",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Niyə günah qurbanını müqəddəs yerdə yemədiniz? Çünki o, qüdsül-qüdüs⟨dir⟩ və onu ⟨את⟩ sizə verib ki, camaatın günahını daşıyayasınız, onlar üçün Yahvenin önündə kəffarə edəsiniz.",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "Niyə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yemədiniz (inkar)"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "yemədiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "günah qurbanını"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "günah qurbanını"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "yerdə"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qüds"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "qüdsül-qüdüs"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "və onu ⟨את⟩",
+      "marks": "verib (işarələnən obyekt: o)"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verib"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizə"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "daşıyayasınız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "camaatın günahını"
+    },
+    {
+      "surface": "עון",
+      "gloss": "günahını"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "camaatın"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "kəffarə edəsiniz"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "onlar üçün"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önündə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:25:32.586943167Z",
+  "model": "glm-5.3"
+}

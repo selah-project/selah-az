@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 1:15",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və Yahvenin mələyi Eliyahuyla danışdı: Onunla en, ondan qorxma. Və ⟨o⟩ qalxdı və ⟨את⟩ onunla padşahın yanına endi.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "danışdı"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mələyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "רד",
+      "gloss": "en"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ onunla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "qorxma"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "qalxdı"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "endi"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ onunla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşahın"
+    }
+  ],
+  "timestamp": "2026-09-01T12:29:28.684506166Z",
+  "model": "glm-5.3"
+}

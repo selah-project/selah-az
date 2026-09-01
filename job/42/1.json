@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 42:1",
+  "book": "job",
+  "lang": "az",
+  "chapter": 42,
+  "translation": "İyyov Yahveyə ⟨את⟩ cavab verdi və dedi:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "cavab verdi"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "İyyov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveyə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    }
+  ],
+  "timestamp": "2026-09-01T16:20:42.302538340Z",
+  "model": "glm-5.3"
+}

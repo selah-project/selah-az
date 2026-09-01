@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "habakkuk 1:5",
+  "book": "habakkuk",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Xalqlara baxın və görün və heyrətlənib heyrətlənin, çünki sizin günlərinizdə ⟨bir⟩ əməl işlənir — inanmazsınız, o danışıldıqda ⟨belə⟩.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "baxın"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "xalqlara"
+    },
+    {
+      "surface": "והביטו",
+      "gloss": "və görün"
+    },
+    {
+      "surface": "והתמהו",
+      "gloss": "və heyrətlənib"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "heyrətlənin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "əməl"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "işlənir"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "sizin günlərinizdə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inanmazsınız ⟨yox⟩"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "inanmazsınız"
+    },
+    {
+      "surface": "כי",
+      "gloss": "o"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "danışıldıqda"
+    }
+  ],
+  "timestamp": "2026-09-01T14:50:30.433788304Z",
+  "model": "glm-5.3"
+}

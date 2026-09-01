@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 4:20",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və Moşe ⟨את⟩ arısını və ⟨את⟩ oğullarını götürdü, onları eşşəyə mindirdi və Mitsrayim ölkəsinə qayıtdı; və Moşe ⟨את⟩ Elohimin əsasını əlində götürdü.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "götürdü"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arısını"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "arısını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oğullarını"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "וירכבם",
+      "gloss": "mindirdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstə"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "eşşəyə"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "qayıtdı"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ölkəsinə"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "götürdü"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əsasını"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "əsasını"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "əlində"
+    }
+  ],
+  "timestamp": "2026-09-01T10:05:20.145966152Z",
+  "model": "glm-5.3"
+}

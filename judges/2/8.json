@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 2:8",
+  "book": "judges",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və Yehoşua, Nunun oğlu, Yahvenin qulu, yüz on yaşında oğul olaraq öldü.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "öldü"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nunun"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "qulu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "on"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "yaşında"
+    }
+  ],
+  "timestamp": "2026-09-01T11:15:04.353771352Z",
+  "model": "glm-5.3"
+}

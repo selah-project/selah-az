@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 118:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 118,
+  "translation": "Yahveyə şükür edin, çünki O yaxşıdır, çünki Onun hesedi ⟨sonsuzdur⟩.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "şükür edin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşıdır"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuz"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Onun hesedi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:01.907198998Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 52,
+  "translation": "Sən bütün udduran sözləri sevirsən, ey hiyləgər dil!",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "sən sevirsən"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözləri"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "udduran"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ey dil"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "hiyləgər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:18:49.904682677Z",
+  "model": "glm-5.3"
+}

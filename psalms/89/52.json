@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 89:52",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 89,
+  "translation": "⟨O şey ki⟩ düşmənlərin onunla təhqir etdilər səni, ey Yahve; ⟨o ki⟩ Məsihinin izlərini təhqir etdilər.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "⟨O şey ki⟩"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "təhqir etdilər"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "düşmənlərin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ey Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨o ki⟩"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "təhqir etdilər"
+    },
+    {
+      "surface": "עקבות",
+      "gloss": "izlərini"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Məsihinin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:31:43.027312255Z",
+  "model": "glm-5.3"
+}

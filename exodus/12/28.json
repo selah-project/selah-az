@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 12:28",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "İsrail oğulları gedib etdilər; Yahvenin Moşeyə ⟨את⟩ və Ahrona əmr etdiyi kimi, beləcə etdilər.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "gedib"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "etdilər"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…-dığı kimi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "əmr etdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşeyə"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "və Ahron"
+    },
+    {
+      "surface": "כן",
+      "gloss": "beləcə"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "etdilər"
+    }
+  ],
+  "timestamp": "2026-09-01T10:09:29.858692089Z",
+  "model": "glm-5.3"
+}

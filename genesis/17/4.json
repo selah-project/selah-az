@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Mən - bax, mənim əhdim ⟨את⟩ səninlədir və sən çoxlu millətlərin atası olacaqsan.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mənim əhdim"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "səninlə"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "və olacaqsan"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "atası"
+    },
+    {
+      "surface": "המון",
+      "gloss": "çoxlu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "millətlərin"
+    }
+  ],
+  "timestamp": "2026-09-01T09:50:59.478140441Z",
+  "model": "glm-5.3"
+}

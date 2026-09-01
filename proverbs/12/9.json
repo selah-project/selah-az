@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 12:9",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Yaxşıdır alçaq tutulan və ⟨onun⟩ xidmətçisi olan, özünü ağırladan və çörəkdən məhrum olandan.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "yaxşıdır"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "alçaq tutulan"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "və xidmətçisi olan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onun"
+    },
+    {
+      "surface": "ממתכבד",
+      "gloss": "özünü ağırladan olandan"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "və məhrum olan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "çörəkdən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:51:43.018299913Z",
+  "model": "glm-5.3"
+}

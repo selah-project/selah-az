@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 18:9",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Və ⟨o⟩ dedi: Nə günah etmişəm ki, sən qulunu Ahavın əlinə öldürtmək üçün verirsən?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Və dedi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "günah etmişəm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verirsən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qulunu"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "qulunu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "əlinə"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahavın"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "öldürtmək üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T12:23:12.815182763Z",
+  "model": "glm-5.3"
+}

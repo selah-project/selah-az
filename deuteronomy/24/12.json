@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Və əgər o, kasıb bir adamdırsa, onun girovu ilə yatma.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kasıb"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "yatma"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "onun girovu ilə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:53:50.563247459Z",
+  "model": "glm-5.3"
+}

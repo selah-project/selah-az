@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 109,
+  "translation": "Çünki o, hesed etməyi xatırlamadı, amma kasıb adamı və ehtiyaclını, qəlbi qırığı qovaladı — öldürmək ⟨üçün⟩.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "xatırlamadı"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "etməyi"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "amma qovaladı"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kasıb"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "və ehtiyaclı"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "və qəlbi qırıq"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "qəlb"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "öldürmək ⟨üçün⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T17:42:55.092717473Z",
+  "model": "glm-5.3"
+}

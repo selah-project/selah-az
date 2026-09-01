@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 16:12",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Beləliklə Zimri ⟨את⟩ Başaşın bütün evini məhv etdi — Yahvenin sözü ilə,nun peyğəmbərin əli ilə Başaşa qarşı danışdığı kimi.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "məhv etdi"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bşaşın bütün evini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evini"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Bşaşın"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sözü ilə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "danışdığı"
+    },
+    {
+      "surface": "אל",
+      "gloss": "qarşı"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Bşaşa"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "əli ilə"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yahunun"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "peyğəmbərin"
+    }
+  ],
+  "timestamp": "2026-09-01T12:21:27.357505647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 105:41",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 105,
+  "translation": "Qayanı açdı və sular axıb çıxdı; quru yerlərdə çay kimi axdılar.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "açdı"
+    },
+    {
+      "surface": "צור",
+      "gloss": "qayanı"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "və axıb çıxdı"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sular"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "axdılar"
+    },
+    {
+      "surface": "בציות",
+      "gloss": "quru yerlərdə"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "çay kimi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:35:31.883107040Z",
+  "model": "glm-5.3"
+}

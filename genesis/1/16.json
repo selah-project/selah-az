@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və Elohim iki böyük işıqları — ⟨את⟩ gündüzə hökmranlıq etmək üçün böyük işığı, ⟨את⟩ gecəyə hökmranlıq etmək üçün kiçik işığı və ⟨את⟩ ulduzları etdi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "və etdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iki böyük işıqları"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iki"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "işıqları"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "böyük işığı"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "işığı"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "hökmranlıq etmək üçün"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gündüzə"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "kiçik işığı"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "işığı"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "kiçik"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "hökmranlıq etmək üçün"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "gecəyə"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "ulduzları"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "ulduzları"
+    }
+  ],
+  "timestamp": "2026-09-01T17:55:46.012838917Z",
+  "model": "glm-5.3"
+}

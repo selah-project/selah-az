@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 14:11",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Pis adamların evi yox ediləcək, düzlərin çadırı isə çiçək açacaq.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "pis adamların"
+    },
+    {
+      "surface": "ישמד",
+      "gloss": "yox ediləcək"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "çadırı isə"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "düzlərin"
+    },
+    {
+      "surface": "יפריח",
+      "gloss": "çiçək açacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:51:56.000935149Z",
+  "model": "glm-5.3"
+}

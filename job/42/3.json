@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 42:3",
+  "book": "job",
+  "lang": "az",
+  "chapter": 42,
+  "translation": "Kimdir bu, biliksiz məsləhəti gizlədən? Buna görə mən anlamadığımı danışdım — mənim üçün ağlagəlməz şeylər, mən onları bilmirdim.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "gizlədən"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "məsləhəti"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "biliksiz"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "bilik"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "buna görə"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "danışdım"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və … -mə"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "anlamadığımı"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "ağlagəlməz şeylər"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mənim üçün"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və … bilmirdim"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "mən bilirdim"
+    }
+  ],
+  "timestamp": "2026-09-01T16:20:42.302869694Z",
+  "model": "glm-5.3"
+}

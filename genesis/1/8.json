@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və Elohim sərtləşmiş görünüşə Göylər adını verdi, və axşam oldu, və səhər oldu — ikinci gün.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "və ad verdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "sərtləşmiş görünüşə"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "Göylər"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "və oldu"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "axşam"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "və oldu"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "səhər"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ikinci"
+    }
+  ],
+  "timestamp": "2026-09-01T09:45:39.434445308Z",
+  "model": "glm-5.3"
+}

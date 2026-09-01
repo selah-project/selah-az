@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Çünki yüksəkdə yaşayanları alçaldır, ucalmış şəhəri ⟨o⟩ aşağı salır; onu yerə qədər alçaldır, onu toza qədər çatdırır.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "השח",
+      "gloss": "alçaldır"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "yaşayanları"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "yüksəkdə"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "şəhər"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "ucalmış"
+    },
+    {
+      "surface": "ישפילנה",
+      "gloss": "onu aşağı salır"
+    },
+    {
+      "surface": "ישפילה",
+      "gloss": "alçaldır"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerə"
+    },
+    {
+      "surface": "יגיענה",
+      "gloss": "onu çatdırır"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "toza"
+    }
+  ],
+  "timestamp": "2026-09-01T12:57:13.006116356Z",
+  "model": "glm-5.3"
+}

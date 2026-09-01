@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "Yahve öz xalqına qüvvə verəcək, Yahve öz xalqını ⟨את⟩ sülh ilə xeyirdua edəcək.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עז",
+      "gloss": "qüvvə"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "öz xalqına"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "verəcək"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "xeyirdua edəcək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öz xalqını"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "öz xalqını"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "sülh ilə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:08:06.875428183Z",
+  "model": "glm-5.3"
+}

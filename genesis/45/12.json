@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 45:12",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 45,
+  "translation": "Və baxın, gözləriniz görür və qardaşım Binyaminin gözləri ⟨görür⟩ ki, sizinlə danışan mənim ağzımdır.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "və baxın"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "gözləriniz"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "görür"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "və gözləri"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "qardaşımın"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binyaminin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağız"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "danışan"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "sizinlə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:02:03.148408851Z",
+  "model": "glm-5.3"
+}

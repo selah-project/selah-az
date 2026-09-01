@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 3:12",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Yehoşafat dedi: Onunla Yahvenin sözü var. Yisraein padşahı, Yehoşafat və Edomun padşahı ona endilər.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoşafat"
+    },
+    {
+      "surface": "יש",
+      "gloss": "var"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "söz"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sözü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "endilər"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "onun yanına"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşahı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraein"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "və Yehoşafat"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "və padşahı"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomun"
+    }
+  ],
+  "timestamp": "2026-09-01T12:28:32.032982053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 25:19",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Düşmənlərimi gör, çünki çoxaldılar, və zorla nifrətlə məndən nifrət etdilər.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "gör"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "düşmənlərimi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "çoxaldılar"
+    },
+    {
+      "surface": "ושנאת",
+      "gloss": "və nifrətlə"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "zorla"
+    },
+    {
+      "surface": "שנאוני",
+      "gloss": "məndən nifrət etdilər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:08:31.516581164Z",
+  "model": "glm-5.3"
+}

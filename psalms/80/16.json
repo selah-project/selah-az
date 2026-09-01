@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 80:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 80,
+  "translation": "və sağ əlinin əkdiyi ⟨yandırılmış⟩ kol üzərinə, və özün üçün möhkəmləndirdiyin budaq üzərinə ⟨olmuşdur⟩.",
+  "tokens": [
+    {
+      "surface": "וכנה",
+      "gloss": "və yandırılmış"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נטעה",
+      "gloss": "əkdiyi"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "sağ əlinin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "və üzərinə"
+    },
+    {
+      "surface": "בן",
+      "gloss": "budaq"
+    },
+    {
+      "surface": "אמצתה",
+      "gloss": "möhkəmləndirdiyin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "özün üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T15:27:45.011057529Z",
+  "model": "glm-5.3"
+}

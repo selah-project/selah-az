@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 2:2",
+  "book": "micah",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Tarlaları arzulayırlar və qarət edirlər, evləri alıb aparırlar; kişini və evini, insanı və mülkünü əzirlər.",
+  "tokens": [
+    {
+      "surface": "וחמדו",
+      "gloss": "arzulayırlar"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "tarlaları"
+    },
+    {
+      "surface": "וגזלו",
+      "gloss": "qarət edirlər"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "evləri"
+    },
+    {
+      "surface": "ונשאו",
+      "gloss": "alıb aparırlar"
+    },
+    {
+      "surface": "ועשקו",
+      "gloss": "əzirlər"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "kişini"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "və evini"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "insanı"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "və mülkünü"
+    }
+  ],
+  "timestamp": "2026-09-01T14:47:24.677921640Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 17:1",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Yehudanın günahı dəmir qələmlə, shamir dırnağı ilə yazılmışdır, onların ürək lövhəsinə və sizin məzbahlarınızın buynuzlarına həkk olunmuşdur.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "günah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudanın"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "yazılmışdır"
+    },
+    {
+      "surface": "בעט",
+      "gloss": "qələmlə"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "dəmir"
+    },
+    {
+      "surface": "בצפרן",
+      "gloss": "dırnağı ilə"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "shamir"
+    },
+    {
+      "surface": "חרושה",
+      "gloss": "həkk olunmuşdur"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "lövhə"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "onların ürək"
+    },
+    {
+      "surface": "ולקרנות",
+      "gloss": "və buynuzlarına"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "sizin məzbahlarınızın"
+    }
+  ],
+  "timestamp": "2026-09-01T13:32:02.384375690Z",
+  "model": "glm-5.3"
+}

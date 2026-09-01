@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 14:41",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Və ⟨את⟩ evi içəridən ətraf boyu qırxacaqlar, və qırxdıqları suvu ⟨את⟩ şəhərin xaricinə, murdar yerə tökəcəklər.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "evi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "יקצע",
+      "gloss": "qırxacaqlar"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "içəridən"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ətraf boyu"
+    },
+    {
+      "surface": "ושפכו",
+      "gloss": "və tökəcəklər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suvu"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "suvu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הקצו",
+      "gloss": "qırxdıqları"
+    },
+    {
+      "surface": "אל",
+      "gloss": "‑a"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "xaricinə"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "şəhərin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "‑a"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "yerə"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "murdar"
+    }
+  ],
+  "timestamp": "2026-09-01T10:26:33.203323070Z",
+  "model": "glm-5.3"
+}

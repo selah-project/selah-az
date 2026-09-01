@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 107,
+  "translation": "Çünki O, tunc qapılarını sındırdı və dəmir sürgülərini doğradı.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "sındırdı"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "qapılarını"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tunc"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "və sürgülərini"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "dəmir"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "doğradı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:55.293454658Z",
+  "model": "glm-5.3"
+}

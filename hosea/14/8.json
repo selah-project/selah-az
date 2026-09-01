@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 14:8",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Onun kölgəsində oturanlar qayıdacaqlar, dəni dirildəcəklər, üzüm kimi çiçək açacaqlar; onun şöhrəti Livanon şərabı kimidir.",
+  "tokens": [
+    {
+      "surface": "ישבו",
+      "gloss": "qayıdacaqlar"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "oturanlar"
+    },
+    {
+      "surface": "בצלו",
+      "gloss": "onun kölgəsində"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "dirildəcəklər"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "dəni"
+    },
+    {
+      "surface": "ויפרחו",
+      "gloss": "çiçək açacaqlar"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "üzüm kimi"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "onun şöhrəti"
+    },
+    {
+      "surface": "כיין",
+      "gloss": "şərabı kimi"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Livanon"
+    }
+  ],
+  "timestamp": "2026-09-01T14:37:15.593746665Z",
+  "model": "glm-5.3"
+}

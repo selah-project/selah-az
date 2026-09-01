@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 20:27",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Və ⟨hər hansı⟩ kişi və ya qadın — əgər onlarda ov (nekromant) və ya yiddoni (falcı) olarsa, mütləq ölüm ilə öldürüləcəklər; daşla onları daşqalaq edəcəklər, onların qanı özlərinin üstündədir.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Və kişi"
+    },
+    {
+      "surface": "או",
+      "gloss": "və ya"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "qadın"
+    },
+    {
+      "surface": "כי",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olarsa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onlarda"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "ov (nekromant)"
+    },
+    {
+      "surface": "או",
+      "gloss": "və ya"
+    },
+    {
+      "surface": "ידעני",
+      "gloss": "yiddoni (falcı)"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölüm"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "öldürüləcəklər"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "daşla"
+    },
+    {
+      "surface": "ירגמו",
+      "gloss": "daşqalaq edəcəklər"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "onların qanı"
+    },
+    {
+      "surface": "בם",
+      "gloss": "özlərinin üstündədir"
+    }
+  ],
+  "timestamp": "2026-09-01T17:57:14.820369887Z",
+  "model": "glm-5.3"
+}

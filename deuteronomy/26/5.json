@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 26:5",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Və cavab verəcəksən və Yahve sənin Elohiminin önündə deyəcəksən: «Arami köçər idi atam, və Mitsrayimə endi, orada az sayda adamla qonaq oldu, və orada böyük, qüvvətli və çoxsaylı bir xalq oldu.",
+  "tokens": [
+    {
+      "surface": "וענית",
+      "gloss": "cavab verəcəksən"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "deyəcəksən"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önündə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sənin Elohimin"
+    },
+    {
+      "surface": "ארמי",
+      "gloss": "Arami"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "köçər idi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atam"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "endi"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrayimə"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "qonaq oldu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "adam sayında"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "az"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "xalqa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "qüvvətli"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "və çoxsaylı"
+    }
+  ],
+  "timestamp": "2026-09-01T10:54:25.803933Z",
+  "model": "glm-5.3"
+}

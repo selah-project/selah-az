@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 73:13",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 73,
+  "translation": "Əlbəttə, boş yerə təmizlədim ürəyimi və paklıqda yudum əllərimi.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Əlbəttə"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "boş yerə"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "təmizlədim"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ürəyimi"
+    },
+    {
+      "surface": "ו ארחץ",
+      "gloss": "və yudum"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "paklıqda"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "əllərimi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:24:45.396720603Z",
+  "model": "glm-5.3"
+}

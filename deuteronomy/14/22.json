@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Ondalayacaqsan — həqiqətən ondalayacaqsan ⟨את⟩ bütün toxumunun məhsulunu, tarladan çıxanı, il il ⟨ilhə il⟩.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "ondalayacaqsan"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "həqiqətən ondalayacaqsan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün toxumunun məhsulunu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "məhsulunu"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "toxumunun"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "çıxanı"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tarladan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "il"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ilhə il"
+    }
+  ],
+  "timestamp": "2026-09-01T17:30:16.712521308Z",
+  "model": "glm-5.3"
+}

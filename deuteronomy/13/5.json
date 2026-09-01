@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 13:5",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Yahve Elohiminizin ardınca gedin, ⟨את⟩ Ondan qorxun və ⟨את⟩ Onun əmrlərini qoruyun, Onun səsinə qulaq asın, ⟨את⟩ Ona xidmət edin və Ona yapışın.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "ardınca"
+    },
+    {
+      "surface": "י הוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiminizin"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "gedin"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ Ondan",
+      "marks": "Ondan (Yahve)"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "qorxun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Onun əmrlərini"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "Onun əmrlərini"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "qoruyun"
+    },
+    {
+      "surface": "ובקלו",
+      "gloss": "və Onun səsinə"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "qulaq asın"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ Ona",
+      "marks": "Ona (Yahve)"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "xidmət edin"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "və Ona"
+    },
+    {
+      "surface": "תדבקון",
+      "gloss": "yapışın"
+    }
+  ],
+  "timestamp": "2026-09-01T10:51:36.821387071Z",
+  "model": "glm-5.3"
+}

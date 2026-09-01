@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 30:15",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "O isə ona dedi: Azdırmi sənə ki ərimi ⟨את⟩ götürmüsən, həm də oğlumun ⟨את⟩ dudaalarını götürəsən? Və Rahel dedi: Buna görə bu gecə o səninlə yatacaq, oğlunun dudaaları müqabilində.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "azdırmi"
+    },
+    {
+      "surface": "קחתך",
+      "gloss": "götürmüsən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ərimi"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "ərimi"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "həm də götürəsən"
+    },
+    {
+      "surface": "גם",
+      "gloss": "həm də"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dudaalarını"
+    },
+    {
+      "surface": "דודאי",
+      "gloss": "dudaalarını"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğlumun"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahel"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "buna görə"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "yatacaq"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "səninlə"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "bu gecə"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "müqabilində"
+    },
+    {
+      "surface": "דודאי",
+      "gloss": "dudaaları"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "oğlunun"
+    }
+  ],
+  "timestamp": "2026-09-01T09:55:20.205444416Z",
+  "model": "glm-5.3"
+}

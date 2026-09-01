@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "judges 9:42",
+  "book": "judges",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Və ⟨ertəsi gün⟩ oldu, xalq ⟨sahəyə⟩ çıxdı və Avimelexə ⟨bunu⟩ xəbər verdilər.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Və … oldu"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ertəsi gün"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "çıxdı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "⟨sahəyə⟩"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "xəbər verdilər"
+    },
+    {
+      "surface": "לאבימלך",
+      "gloss": "Avimelexə"
+    }
+  ],
+  "timestamp": "2026-09-01T17:32:05.923714596Z",
+  "model": "glm-5.3"
+}

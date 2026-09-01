@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 105,
+  "translation": "Yahveyə şükür edin, Onun Adı ilə çağırın, xalqlar ⟨içində⟩ Onun əməllərini bildirin.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "şükür edin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "çağırın"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "Onun Adı ilə"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "bildirin"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "xalqlar ⟨içində⟩"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "Onun əməllərini"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:27.090660823Z",
+  "model": "glm-5.3"
+}

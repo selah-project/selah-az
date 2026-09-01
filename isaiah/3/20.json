@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 3:20",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "baş-bindələri, ayaq zəncirlərini, kəmərləri, can evlərini (ətir qutularını) və ovsunları",
+  "tokens": [
+    {
+      "surface": "הפארים",
+      "gloss": "baş-bindələri"
+    },
+    {
+      "surface": "והצעדות",
+      "gloss": "ayaq zəncirlərini"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "kəmərləri"
+    },
+    {
+      "surface": "ובתי",
+      "gloss": "evlərini"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "can"
+    },
+    {
+      "surface": "והלחשים",
+      "gloss": "ovsunları"
+    }
+  ],
+  "timestamp": "2026-09-01T12:47:40.740809889Z",
+  "model": "glm-5.3"
+}

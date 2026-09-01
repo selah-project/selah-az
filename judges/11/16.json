@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 11:16",
+  "book": "judges",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "çünki onlar Mitsrayimdən qalxanda, İsraillər səhrada getdilər Qamışlı dənizinə qədər, və Qadeşə gəldilər.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "בעלותם",
+      "gloss": "onlar qalxanda"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayimdən"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "və getdilər"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsraillər"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "səhrada"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dənizinə"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Qamışlı"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "və gəldilər"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "Qadeşə"
+    }
+  ],
+  "timestamp": "2026-09-01T11:24:14.211647572Z",
+  "model": "glm-5.3"
+}

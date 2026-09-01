@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 50:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 50,
+  "translation": "Və göylər onun ədalətini elan etdilər, çünki Elohim ⟨Özü⟩ hakimdir. Selah.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "və elan etdilər"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "göylər"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "onun ədalətini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "hakim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨Özü⟩"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T15:16:14.019205930Z",
+  "model": "glm-5.3"
+}

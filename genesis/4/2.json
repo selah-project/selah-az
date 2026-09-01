@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və o, ⟨את⟩ qardaşını — ⟨את⟩ Heveli — doğmağa davam etdi. Hevel qoyun çobanı ⟨idi⟩, Qayin isə torpağı becərən ⟨idi⟩.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "və o, davam etdi"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "doğmağa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qardaşını"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "qardaşını"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Heveli"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "və oldu ki"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "çobanı"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "qoyun"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "və Qayin"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨idi⟩"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "becərən"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "torpağı"
+    }
+  ],
+  "timestamp": "2026-09-01T09:46:34.590759648Z",
+  "model": "glm-5.3"
+}

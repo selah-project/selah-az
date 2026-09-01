@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 91,
+  "translation": "Çünki O səni quşçunun torundan, məhvedici qəzəbdən qurtaracaq.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "O"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "səni qurtaracaq"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "torundan"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "quşçunun"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "qəzəbdən"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "məhvedici"
+    }
+  ],
+  "timestamp": "2026-09-01T15:33:09.217694878Z",
+  "model": "glm-5.3"
+}

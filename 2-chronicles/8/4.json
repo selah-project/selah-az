@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 8:4",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Səhrada Tadmoru və Hamatda tikdiyi bütün anbar şəhərlərini tikdi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "tikdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tadmoru"
+    },
+    {
+      "surface": "תדמר",
+      "gloss": "Tadmoru"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "səhrada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "bütün anbar şəhərlərini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "şəhərlərini"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "anbar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "tikdiyi"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "Hamatda"
+    }
+  ],
+  "timestamp": "2026-09-01T17:15:45.510320802Z",
+  "model": "glm-5.3"
+}

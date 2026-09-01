@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 20:16",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Və bir qadın ki, hər hansı heyvana yaxınlaşsa ⟨את⟩ onu çütləşmək üçün — və ⟨את⟩ qadını və ⟨את⟩ heyvanı öldürəcəksiniz; ölüm ilə öldürüləcəklər, qanları onların üzərinədir.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "Və qadın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "yaxınlaşsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər hansı"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "heyvan"
+    },
+    {
+      "surface": "לרבעה",
+      "gloss": "çütləşmək üçün"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "onu (qadını)"
+    },
+    {
+      "surface": "והרגת",
+      "gloss": "və öldürəcəksiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qadını"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "qadın"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "heyvanı"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "heyvan"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölüm"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "öldürüləcəklər"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "qanları"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onların üzərinə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:30:07.586157892Z",
+  "model": "glm-5.3"
+}

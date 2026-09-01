@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 3:11",
+  "book": "2-samuel",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və o, artıq Avnerə bir kəlmə cavab verə bilmədi, çünki ondan qorxurdu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "və … olmadı"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "bilmədi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "artıq"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "cavab verməyə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avnerə (bir kəlmə)"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avnerə"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bir kəlmə"
+    },
+    {
+      "surface": "מיראתו",
+      "gloss": "çünki ondan qorxurdu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu"
+    }
+  ],
+  "timestamp": "2026-09-01T11:50:45.640563321Z",
+  "model": "glm-5.3"
+}

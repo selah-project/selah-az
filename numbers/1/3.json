@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 1:3",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "İsraildə orduga çıxan hər kəsi, iyirmi yaşından yuxarı ⟨את⟩ onları öz dəstələrinə görə sayacaqsınız; sən və Aharon.",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "oğlundan"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iyirmi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yaşından"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "və yuxarı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər kəsi"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "çıxan"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "orduga"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "İsraildə"
+    },
+    {
+      "surface": "תפקדו",
+      "gloss": "sayacaqsınız"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onları",
+      "marks": "onları (orduga çıxanlar)"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "öz dəstələrinə görə"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "və Aharon"
+    }
+  ],
+  "timestamp": "2026-09-01T10:32:39.450128807Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Safsız ⟨insan⟩ ilə saflaşırsan, əyri ilə ⟨sən⟩ dolanbac olursan.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "safsız ⟨insan⟩"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "saflaşırsan"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "və ilə"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "əyri"
+    },
+    {
+      "surface": "תתפתל",
+      "gloss": "dolanbac olursan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:07:09.699944949Z",
+  "model": "glm-5.3"
+}

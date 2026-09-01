@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və insan ⟨əyildi⟩, kişi alçaldı — onlara ⟨lətf⟩ göstərmə!",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "və əyildi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "alçaldı"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kişi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və etmə"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "göstərmə"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    }
+  ],
+  "timestamp": "2026-09-01T12:44:39.785211034Z",
+  "model": "glm-5.3"
+}

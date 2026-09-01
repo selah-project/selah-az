@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Başınızın kənarını dairəvi kəsməyəcəksiniz, və saqqalınızın ⟨את⟩ kənarını korlamayacaqsınız.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "kəsməyəcəksiniz"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "kənarını"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "başınızın"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "korlamayacaqsınız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kənarını"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "kənarını"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "saqqalının"
+    }
+  ],
+  "timestamp": "2026-09-01T10:28:58.641532157Z",
+  "model": "glm-5.3"
+}

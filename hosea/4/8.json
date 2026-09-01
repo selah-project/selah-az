@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 4:8",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Xalqımın günahını ⟨onlar⟩ yeyirlər və onların günahkarlığına canlarını yüksəldirlər.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "günahını"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqımın"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "yeyirlər"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və ... doğru"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "günahkarlıqlarına"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "yüksəldirlər"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "canlarını"
+    }
+  ],
+  "timestamp": "2026-09-01T14:34:23.471020628Z",
+  "model": "glm-5.3"
+}

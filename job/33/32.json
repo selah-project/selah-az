@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 33:32",
+  "book": "job",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "Əgər sözlərin varsa, mənə cavab ver, danış, çünki səni saleh görmək istəyirəm.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Əgər"
+    },
+    {
+      "surface": "יש",
+      "gloss": "varsa"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "sözlər"
+    },
+    {
+      "surface": "השיבני",
+      "gloss": "mənə cavab ver"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "danış"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "istəyirəm"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "səni saleh görmək"
+    }
+  ],
+  "timestamp": "2026-09-01T16:16:18.714302324Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 15:1",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Yeddi ilin sonunda sən şəmittə (borcun bağışlanması) edəcəksən.",
+  "tokens": [
+    {
+      "surface": "מקץ",
+      "gloss": "sonunda"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yeddi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "il"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "edəcəksən"
+    },
+    {
+      "surface": "שמטה",
+      "gloss": "şəmittə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:51:26.980686532Z",
+  "model": "glm-5.3"
+}

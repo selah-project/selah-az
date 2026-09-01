@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 16:17",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "İsrail oğulları belə etdi və çox yığan da, az yığan da ⟨⟨yığdı⟩⟩.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "belə etdi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "belə"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "וילקטו",
+      "gloss": "və yığdı"
+    },
+    {
+      "surface": "המרבה",
+      "gloss": "çox yığan"
+    },
+    {
+      "surface": "והממעיט",
+      "gloss": "az yığan"
+    }
+  ],
+  "timestamp": "2026-09-01T10:10:24.192567023Z",
+  "model": "glm-5.3"
+}

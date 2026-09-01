@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 49,
+  "translation": "Qorxma, çünki bir adam varlananda, çünki onun evinin izzəti çoxalanda ⟨⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "qorxma"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "⟨qorxma⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "varlananda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "çoxalanda"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "izzəti"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "onun evinin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:16:14.831943522Z",
+  "model": "glm-5.3"
+}

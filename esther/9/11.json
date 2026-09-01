@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 9:11",
+  "book": "esther",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Həmin gün Şuşan qalasında öldürülənlərin sayı padşahın hüzuruna gəldi",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "həmin gün... -da"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gəldi"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "sayı"
+    },
+    {
+      "surface": "ההרוגים",
+      "gloss": "öldürülənlərin"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "Şuşanda"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "qalası"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hüzuruna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşahın"
+    }
+  ],
+  "timestamp": "2026-09-01T16:36:48.262774821Z",
+  "model": "glm-5.3"
+}

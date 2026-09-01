@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 127,
+  "translation": "Boş yerə sizin üçün — tez durub ⟨və⟩ gec oturanlar, kədərin çörəyini yeyənlər; beləliklə, O, sevimlisinə yuxu verir.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "boş yerə"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin üçün"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "tez duranlar"
+    },
+    {
+      "surface": "קום",
+      "gloss": "qalxıb"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "gec"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "oturanlar"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "yeyənlər"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "çörək"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "kədərin"
+    },
+    {
+      "surface": "כן",
+      "gloss": "beləliklə"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "verir"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "sevimlisinə"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "yuxu"
+    }
+  ],
+  "timestamp": "2026-09-01T15:43:33.100901430Z",
+  "model": "glm-5.3"
+}

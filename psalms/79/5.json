@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 79,
+  "translation": "Nə vaxtadək, Yahve? Sonsuzadək mi qəzəblənəcəksən? Qısqanclığın od kimi alışacaq?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "nə vaxtadək"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "qəzəblənəcəksən"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "sonsuzadək"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "alışacaq"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "od"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "qısqanclığın"
+    }
+  ],
+  "timestamp": "2026-09-01T15:28:28.028217379Z",
+  "model": "glm-5.3"
+}

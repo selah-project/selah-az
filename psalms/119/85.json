@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Kibirlilər mənim üçün çuxurlar qazdılar — ⟨bunlar⟩ Törənə görə deyil.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "qazdılar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənim üçün"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "kibirlilər"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "çuxurlar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "deyil"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "Törənə görə"
+    }
+  ],
+  "timestamp": "2026-09-01T17:43:31.573621449Z",
+  "model": "glm-5.3"
+}

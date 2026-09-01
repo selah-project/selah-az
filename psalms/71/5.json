@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 71,
+  "translation": "Çünki sən mənim ümidimsən, Adonay Yahve, sən mənim etibarimsan gəncliyimdən.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "ümidimsən"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "etibarimsan"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "gəncliyimdən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:22:11.095242486Z",
+  "model": "glm-5.3"
+}

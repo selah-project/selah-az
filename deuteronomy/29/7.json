@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 29:7",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "Və biz onların torpağını ⟨את⟩ götürdükdə, onu Reuvenililərə, Qadililərə və Mənəşşe qəbiləsinin yarısına miras olaraq verdik.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "və biz götürdükdə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onların torpağını"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "onların torpağını"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "və verdik"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "miras olaraq"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "Reuvenililərə"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "və Qadililərə"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "və yarısına"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "qəbiləsinin"
+    },
+    {
+      "surface": "המנשי",
+      "gloss": "Mənəşşe"
+    }
+  ],
+  "timestamp": "2026-09-01T10:56:19.974034635Z",
+  "model": "glm-5.3"
+}

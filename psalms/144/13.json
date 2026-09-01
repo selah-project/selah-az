@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 144:13",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 144,
+  "translation": "Taxıllarımız doludur, növdən növə ⟨məhsul⟩ çıxarır; sürülərimiz minlərlə, on minlərlə ⟨bala⟩ doğur küçələrimizdə.",
+  "tokens": [
+    {
+      "surface": "מזוינו",
+      "gloss": "taxıllarımız"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "doludur"
+    },
+    {
+      "surface": "מפיקים",
+      "gloss": "çıxarır"
+    },
+    {
+      "surface": "מזן",
+      "gloss": "növdən"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨məhsul⟩"
+    },
+    {
+      "surface": "זן",
+      "gloss": "növə"
+    },
+    {
+      "surface": "צאוננו",
+      "gloss": "sürülmiziz"
+    },
+    {
+      "surface": "מאליפות",
+      "gloss": "minlərlə"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "on minlərlə"
+    },
+    {
+      "surface": "בחוצותינו",
+      "gloss": "küçələrimizdə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:04.843678878Z",
+  "model": "glm-5.3"
+}

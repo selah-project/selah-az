@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 58:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 58,
+  "translation": "Su kimi əriyib yox olsunlar, ⟨kimi⟩ öz yollarına axsınlar; oxa yol açdıqca, kimi kəsilib bitsinlər.",
+  "tokens": [
+    {
+      "surface": "ימאסו",
+      "gloss": "yox olsunlar"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "su kimi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "axsınlar"
+    },
+    {
+      "surface": "למו",
+      "gloss": "öz yollarına"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "oxa yol açdıqca"
+    },
+    {
+      "surface": "חצו",
+      "gloss": "ox"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "יתמללו",
+      "gloss": "kəsilib bitsinlər"
+    }
+  ],
+  "timestamp": "2026-09-01T17:42:33.958588960Z",
+  "model": "glm-5.3"
+}

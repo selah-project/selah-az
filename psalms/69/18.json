@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 69:18",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 69,
+  "translation": "Üzünü qulundan gizlətmə, çünki mən sıxıntıdayam; tələs, mənə cavab ver.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "və gizlətmə"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "üzünü... gizlətmə"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "üzünü"
+    },
+    {
+      "surface": "מעבדך",
+      "gloss": "qulundan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "צר",
+      "gloss": "sıxıntı"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə (mənim üçün)"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "tələs"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "mənə cavab ver"
+    }
+  ],
+  "timestamp": "2026-09-01T15:23:43.339307660Z",
+  "model": "glm-5.3"
+}

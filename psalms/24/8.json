@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Kimdir bu izzət Kralı? Yahve — qüvvətli və qəhrəman, Yahve — döyüş qəhrəmanı.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kimdir"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Kralı"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "izzət"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "qüvvətli"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "və qəhrəman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "qəhrəman"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "döyüş"
+    }
+  ],
+  "timestamp": "2026-09-01T15:08:59.860224128Z",
+  "model": "glm-5.3"
+}

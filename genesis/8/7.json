@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və qarğanı ⟨את⟩ göndərdi; o çıxıb-gedir və qayıdırdı, sular yerdən quruyana qədər.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Və göndərdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qarğanı"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "qarğanı"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "çıxıb-gedir"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "gedirdi"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "və qayıdırdı"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "quruyana"
+    },
+    {
+      "surface": "המים",
+      "gloss": "sular"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "yerdən"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-09-01T09:47:34.364819077Z",
+  "model": "glm-5.3"
+}

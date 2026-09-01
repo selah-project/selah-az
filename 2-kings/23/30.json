@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 23:30",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Və onun qulları onu ölmüş halda Migiddodan ⟨minik arabasına qoydular⟩, onu Yeruşalayima gətirdilər və öz məzarında dəfn etdilər; yer xalqı Yoşiyahunun oğlu Yehoaxazı götürdü ⟨את⟩, onu məsh etdilər ⟨את⟩ və atasının yerinə onu kral etdilər ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וירכבהו",
+      "gloss": "onu minik arabasına qoydular"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "onun qulları"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ölmüş halda"
+    },
+    {
+      "surface": "ממגדו",
+      "gloss": "Migiddodan"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "onu gətirdilər"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayima"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "onu dəfn etdilər"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "öz məzarında"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "götürdü"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalqı"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoaxazı"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoaxazı"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoşiyahunun"
+    },
+    {
+      "surface": "וימשחו",
+      "gloss": "məsh etdilər"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "kral etdilər"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "yerinə"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atasının"
+    }
+  ],
+  "timestamp": "2026-09-01T12:44:04.491961141Z",
+  "model": "glm-5.3"
+}

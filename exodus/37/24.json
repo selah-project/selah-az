@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Bir talent təmiz qızıldan onu, ⟨את⟩, və bütün alətlərini, ⟨את⟩, etdi.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "bir talent"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "qızıl"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "təmiz"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etdi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bütün alətlərini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "alətlərini"
+    }
+  ],
+  "timestamp": "2026-09-01T10:20:36.432367137Z",
+  "model": "glm-5.3"
+}

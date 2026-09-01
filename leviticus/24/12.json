@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 24:12",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Onu nəzarət altında saxladılar, Yahvenin ağzı ilə onlara bəyan edilsin deyə.",
+  "tokens": [
+    {
+      "surface": "ויניחהו",
+      "gloss": "saxladılar"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "nəzarət altında"
+    },
+    {
+      "surface": "לפרש",
+      "gloss": "bəyan edilsin deyə"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "על",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:30:36.206187318Z",
+  "model": "glm-5.3"
+}

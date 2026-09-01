@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 41,
+  "translation": "Birlikdə mənim haqqımda pıçıldayırlar — məni nifrət edənlərin hamısı; mənim əleyhimə mənə pislik qururlar.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "Birlikdə"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mənim haqqımda"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "pıçıldayırlar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamısı"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "məni nifrət edənlərin"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mənim əleyhimə"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "qururlar"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pislik"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:13:55.745134541Z",
+  "model": "glm-5.3"
+}

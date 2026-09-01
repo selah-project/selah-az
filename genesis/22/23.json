@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 22:23",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Betuel isə ⟨את⟩ Rivkanı doğdu. Bu səkkizi Milka Nahora, Avrahamın qardaşına doğdu.",
+  "tokens": [
+    {
+      "surface": "ובתואל",
+      "gloss": "Betuel isə"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "doğdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivkanı"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "səkkiz"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bunlar"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "doğdu"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "Milka"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "Nahora"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "qardaşı"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    }
+  ],
+  "timestamp": "2026-09-01T09:51:34.339753682Z",
+  "model": "glm-5.3"
+}

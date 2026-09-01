@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 3:6",
+  "book": "joshua",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Yehoşua kahinlərə dedi: Dəstəmadarlığın sandığını götürün və xalqın önünə keçin. Kahinlər dəstəmadarlığın sandığını götürdülər və xalqın önündə getdilər.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kahinlər"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "götürün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dəstəmadarlığın sandığı"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandıq"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "dəstəmadarlığın"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "keçin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünə"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqın"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "götürdülər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dəstəmadarlığın sandığı"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandıq"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "dəstəmadarlığın"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "getdilər"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önündə"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqın"
+    }
+  ],
+  "timestamp": "2026-09-01T11:02:42.458095292Z",
+  "model": "glm-5.3"
+}

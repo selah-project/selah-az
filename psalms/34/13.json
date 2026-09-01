@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 34:13",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 34,
+  "translation": "Kimdir ⟨o⟩ adam ki, can istəyir, günləri sevir, ⟨ki⟩ yaxşını görsün?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kimdir"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "istəyir"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "can"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "sevir"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günləri"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "görmək üçün"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşını"
+    }
+  ],
+  "timestamp": "2026-09-01T15:11:14.855639422Z",
+  "model": "glm-5.3"
+}

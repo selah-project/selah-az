@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 3:1",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Şelomo Yahvenin ⟨את⟩ evini Yeruşalayimdə, Moriya dağında — atası Davuda görünən ⟨yerdə⟩ — Davudun Arnanın, yevusinin tərək yerində hazırladığı yerdə tikməyə başladı.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "başladı"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "tikməyə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "evini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yeruşalayimdə"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "dağında"
+    },
+    {
+      "surface": "המוריה",
+      "gloss": "Moriya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yerdə ki"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "görünən"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Davuda"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "atası"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "hazırladığı"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "yerdə"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davudun"
+    },
+    {
+      "surface": "בגרן",
+      "gloss": "tərək yerində"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnanın"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "yevusinin"
+    }
+  ],
+  "timestamp": "2026-09-01T17:14:10.821584069Z",
+  "model": "glm-5.3"
+}

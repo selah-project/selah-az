@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 132,
+  "translation": "Yahve üçün məkan tapana qədər, Yaqovun Abiri (Qüdrətlisi) üçün məskənlər tapana qədər.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "tapana"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "məkan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve üçün"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "məskənlər"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "Abir üçün"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqov"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:21.509908906Z",
+  "model": "glm-5.3"
+}

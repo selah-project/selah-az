@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 4:9",
+  "book": "job",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Eloahın nəfəsindən məhv olurlar, öfkesinin ⟨ruahından⟩ tükənirlər.",
+  "tokens": [
+    {
+      "surface": "מנשמת",
+      "gloss": "nəfəsindən"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloahın"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "məhv olurlar"
+    },
+    {
+      "surface": "ומרוח",
+      "gloss": "⟨ruahından⟩"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "öfkesinin"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "tükənirlər"
+    }
+  ],
+  "timestamp": "2026-09-01T16:02:15.396090221Z",
+  "model": "glm-5.3"
+}

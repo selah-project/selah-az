@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 35:8",
+  "book": "job",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "Şərin sənin kimi bir insana ⟨təsir edir⟩, salehliyin isə insan oğluna.",
+  "tokens": [
+    {
+      "surface": "לאיש",
+      "gloss": "insana"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "sənin kimi"
+    },
+    {
+      "surface": "רשעך",
+      "gloss": "şərin"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "və oğluna"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "salehliyin"
+    }
+  ],
+  "timestamp": "2026-09-01T16:17:47.692633732Z",
+  "model": "glm-5.3"
+}

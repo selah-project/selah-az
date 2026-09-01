@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Və ⟨את⟩ səsinin sözlərini eşitdim; ⟨את⟩ səsinin sözlərini eşitdiyim zaman isə mən üzüüstə dərin yuxuya düşdüm və üzlərim yerə ⟨doğru idi⟩.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "və eşitdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "səs"
+    },
+    {
+      "surface": "קול",
+      "gloss": "səsi"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "sözlərini"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "və eşitdiyim zaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "səs"
+    },
+    {
+      "surface": "קול",
+      "gloss": "səsi"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "sözlərini"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "isə mən"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "oldum"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "dərin yuxuya düşdüm"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzüüstə"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzüm"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "və üzlərim"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yerə"
+    }
+  ],
+  "timestamp": "2026-09-01T16:45:13.402169579Z",
+  "model": "glm-5.3"
+}

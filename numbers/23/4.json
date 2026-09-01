@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 23:4",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Və Elohim Bilamla qarşılaşdı; o, Ona dedi: ⟨את⟩ yeddi qurbangahı düzəltdim və hər qurbangahda bir öküz və bir qoç qurban kəsdim.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "qarşılaşdı"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-la"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yeddi qurbangahı"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "yeddi"
+    },
+    {
+      "surface": "המזבחת",
+      "gloss": "qurbangahı"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "düzəltdim"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "qurban kəsdim"
+    },
+    {
+      "surface": "פר",
+      "gloss": "öküz"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "və qoç"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "qurbangahda"
+    }
+  ],
+  "timestamp": "2026-09-01T10:41:29.669212821Z",
+  "model": "glm-5.3"
+}

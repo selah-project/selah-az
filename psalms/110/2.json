@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 110:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 110,
+  "translation": "Qüdrətinin əsasını Yahve Siondan göndərəcək; düşmənlərinin ortasında hökm sür.",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "əsasını"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "qüdrətinin"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "göndərəcək"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Siondan"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "hökm sür"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ortasında"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "düşmənlərinin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:23.202617905Z",
+  "model": "glm-5.3"
+}

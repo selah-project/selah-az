@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və Ram ⟨את⟩ Amminadabı doğuldatdı, Amminadab isə ⟨את⟩ Nahşonu doğuldatdı — Yehuda oğullarının sərkərdəsi.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "və Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "doğuldatdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amminadabı"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Amminadabı"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "və Amminadab"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "doğuldatdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahşonu"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nahşonu"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "sərkərdəsi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-01T17:00:28.186682866Z",
+  "model": "glm-5.3"
+}

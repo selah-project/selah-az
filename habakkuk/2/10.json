@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "habakkuk 2:10",
+  "book": "habakkuk",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Evin üçün utanc qərar verdin, bir çox xalqları kəsərək, və canına qarşı günah etdin.",
+  "tokens": [
+    {
+      "surface": "יעצת",
+      "gloss": "qərar verdin"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "utanc"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "evin üçün"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "kəsərək"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "xalqları"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "bir çox"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "və günah etdin"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "canına"
+    }
+  ],
+  "timestamp": "2026-09-01T14:48:49.659238248Z",
+  "model": "glm-5.3"
+}

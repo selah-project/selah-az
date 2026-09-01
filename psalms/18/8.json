@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 18:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Və ⟨yer⟩ titrədi və sarsıldı, dağların təməlləri hərəkətə gəldi və sarsıldı, çünki Ona qəzəb tutdu.",
+  "tokens": [
+    {
+      "surface": "ותגעş",
+      "gloss": "və titrədi"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "və sarsıldı"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "ומוסדי",
+      "gloss": "və … təməlləri"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dağların"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "hərəkətə gəldi"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "və sarsıldı"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "qəzəb tutdu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Ona"
+    }
+  ],
+  "timestamp": "2026-09-01T15:06:51.844695702Z",
+  "model": "glm-5.3"
+}

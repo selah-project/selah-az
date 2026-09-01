@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 97,
+  "translation": "Ey Yahve-ni sevənlər, şəri nifrət edin; ⟨o⟩ öz hesedlilərinin nəfəşlərini qoruyur, onları şər əllərindən qurtarır.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "sevənlər"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "nifrət edin"
+    },
+    {
+      "surface": "רע",
+      "gloss": "şər"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "qoruyur"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "nəfəşlərini"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "öz hesedlilərinin"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "əllərindən"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "şər"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "onları qurtarır"
+    }
+  ],
+  "timestamp": "2026-09-01T15:34:55.812328577Z",
+  "model": "glm-5.3"
+}

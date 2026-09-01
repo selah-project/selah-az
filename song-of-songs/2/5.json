@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 2:5",
+  "book": "song-of-songs",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Məni aşişotlarla sətləyin, məni almalarla dincəldin, çünki mən sevgidən xəstəyəm.",
+  "tokens": [
+    {
+      "surface": "סמכוני",
+      "gloss": "məni sətləyin"
+    },
+    {
+      "surface": "באשישות",
+      "gloss": "aşişotlarla"
+    },
+    {
+      "surface": "רפדוני",
+      "gloss": "məni dincəldin"
+    },
+    {
+      "surface": "בתפוחים",
+      "gloss": "almalarla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "חולת",
+      "gloss": "xəstəyəm"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "sevgidən"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    }
+  ],
+  "timestamp": "2026-09-01T16:21:41.228650346Z",
+  "model": "glm-5.3"
+}

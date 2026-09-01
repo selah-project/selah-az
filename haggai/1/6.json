@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "haggai 1:6",
+  "book": "haggai",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Çox əkdiniz, az gətirdiniz; yemək ⟨var⟩, amma toxluğa çatmaq yoxdur; içmək ⟨var⟩, amma sərxoşluğa çatmaq yoxdur; geyinmək ⟨var⟩, amma onu qızdırmaq yoxdur; və muzd alan, muzdunu deşik kisəyə qazanır.",
+  "tokens": [
+    {
+      "surface": "זרעתם",
+      "gloss": "əkdiniz"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "çox"
+    },
+    {
+      "surface": "והבא",
+      "gloss": "və gətirdiniz"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "az"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "yemək"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "amma yoxdur"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "toxluğa"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "içmək"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "amma yoxdur"
+    },
+    {
+      "surface": "לשכרה",
+      "gloss": "sərxoşluğa"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "geyinmək"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "amma yoxdur"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "qızdırmağa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onu"
+    },
+    {
+      "surface": "והמשתכר",
+      "gloss": "və muzd alan"
+    },
+    {
+      "surface": "משתכר",
+      "gloss": "muzd qazanır"
+    },
+    {
+      "surface": "אל",
+      "gloss": "üçün"
+    },
+    {
+      "surface": "צרור",
+      "gloss": "kisəyə"
+    },
+    {
+      "surface": "נקוב",
+      "gloss": "deşik"
+    }
+  ],
+  "timestamp": "2026-09-01T14:53:23.243390029Z",
+  "model": "glm-5.3"
+}

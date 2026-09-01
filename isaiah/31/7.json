@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 31:7",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "Çünki o gün hər kəs öz gümüş bütlərini və öz qızıl bütlərini — ki onları sizin üçün günah ⟨olaraq⟩ əlləriniz etdi — rədd edəcək.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "o gün"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "həmin"
+    },
+    {
+      "surface": "ימאסון",
+      "gloss": "rədd edəcək"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər kəs"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "bütlərini"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "öz gümüş"
+    },
+    {
+      "surface": "ואלילי",
+      "gloss": "və bütlərini"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "öz qızıl"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "etdi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin üçün"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "əlləriniz"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "günah ⟨olaraq⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T13:01:08.437493838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 29:35",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "Yenə hamilə oldu və oğul doğdu, və dedi: Bu dəfə Yahve'ni ⟨את⟩ tərifləyəcəyəm; ona görə onun adını Yehuda qoydu, və doğmaqdan dayandı.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "hamilə oldu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yenə"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "doğdu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "bu dəfə"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "tərifləyəcəyəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "üçün"
+    },
+    {
+      "surface": "כן",
+      "gloss": "buna"
+    },
+    {
+      "surface": "קראה",
+      "gloss": "ad qoydu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "onun adı"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "dayandı"
+    },
+    {
+      "surface": "מלדת",
+      "gloss": "doğmaqdan"
+    }
+  ],
+  "timestamp": "2026-09-01T09:54:19.188445973Z",
+  "model": "glm-5.3"
+}

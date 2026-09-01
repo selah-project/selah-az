@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 15:1",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Yük — Moav haqqında: çünki gecə ⟨⟩ Ar-Moav viran edildi, məhv oldu; çünki gecə Kir-Moav viran edildi, məhv oldu.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "yük"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "gecə"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "viran edildi"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "məhv oldu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "gecə"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "viran edildi"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "Kir"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "məhv oldu"
+    }
+  ],
+  "timestamp": "2026-09-01T12:54:14.503574328Z",
+  "model": "glm-5.3"
+}

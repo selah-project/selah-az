@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Bir çoxu deyir: «Kim bizə yaxşılığı göstərəcək?» Üzünün nurunu bizim üstümüzə qaldır, Yahve!",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Bir çoxu"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kim"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "bizə göstərəcək"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşılığı"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "qaldır"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "bizim üstümüzə"
+    },
+    {
+      "surface": "אור",
+      "gloss": "nurunu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "üzünün"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T15:01:49.271404897Z",
+  "model": "glm-5.3"
+}

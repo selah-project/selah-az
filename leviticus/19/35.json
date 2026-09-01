@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Ədalətsizlik etməyin məhkəmədə, uzunluq ölçüsündə, çəkidə və maye ölçüsündə.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "...mə"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "etməyin"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ədalətsizlik"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "məhkəmədə"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "uzunluq ölçüsündə"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "çəkidə"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "və maye ölçüsündə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:28:56.586345678Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 71,
+  "translation": "Ağzım Sənin mədhinlə, bütün gün Sənin izzətinlə dolsun.",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "dolsun"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzım"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "mədhinlə"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "izzətinlə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:22:11.095807199Z",
+  "model": "glm-5.3"
+}

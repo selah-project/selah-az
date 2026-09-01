@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 34,
+  "translation": "Yahvenin müqəddəsləri, ⟨את⟩ Yahvedən qorxun, çünki Onu qorxanlara çatışmazlıq yoxdur.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "qorxun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "Onun müqəddəsləri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "çatışmazlıq"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "Onu qorxanlara"
+    }
+  ],
+  "timestamp": "2026-09-01T15:10:55.147812462Z",
+  "model": "glm-5.3"
+}

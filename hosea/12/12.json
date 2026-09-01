@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 12:12",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Əgər Giladda fanilik varsa — əlbəttə, puç oldular; Gilqalda öküzlər kəsdilər, hətta mizbeəhləri tarla qarışları üstündəki daş yığınları kimidir.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giladda"
+    },
+    {
+      "surface": "און",
+      "gloss": "fanilik"
+    },
+    {
+      "surface": "אך",
+      "gloss": "əlbəttə"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "puç"
+    },
+    {
+      "surface": "היו",
+      "gloss": "oldular"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "Gilqalda"
+    },
+    {
+      "surface": "שורים",
+      "gloss": "öküzlər"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "kəsdilər"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hətta"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "mizbeəhləri"
+    },
+    {
+      "surface": "כגלים",
+      "gloss": "daş yığınları kimi"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündəki"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "qarışları"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "tarla"
+    }
+  ],
+  "timestamp": "2026-09-01T14:36:21.149776304Z",
+  "model": "glm-5.3"
+}

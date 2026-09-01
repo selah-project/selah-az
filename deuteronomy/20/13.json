@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 20:13",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Və Yahve, sənin Elohimin, onu əlinə verəcək, sən də ⟨את⟩ bütün erkəklərini qılıncın ağzı ilə vuracaqsan.",
+  "tokens": [
+    {
+      "surface": "ונתנה",
+      "gloss": "və verəcək"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sənin Elohimin"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "əlinə"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "və vuracaqsan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün erkəklərini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "זכורה",
+      "gloss": "erkəklərini"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ağzı ilə"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "qılıncın"
+    }
+  ],
+  "timestamp": "2026-09-01T10:52:46.146654477Z",
+  "model": "glm-5.3"
+}

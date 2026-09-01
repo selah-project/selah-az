@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 13:8",
+  "book": "nehemiah",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "və bu mənə çox ağır gəldi, və Toviya evinin bütün əşyasını ⟨את⟩ otaqdan bayıra atdım.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "və ağır gəldi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çox"
+    },
+    {
+      "surface": "ואשליכה",
+      "gloss": "və atdım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün əşya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "əşyası"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "Toviya"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "bayıra"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "הלשכה",
+      "gloss": "otaqdan"
+    }
+  ],
+  "timestamp": "2026-09-01T16:59:49.780430255Z",
+  "model": "glm-5.3"
+}

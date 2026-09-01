@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 7:5",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Şəfəq vaxtı qalxdılar, Aram düşərgəsinə girmək üçün, və Aram düşərgəsinin uc kənarınadək gəldilər, və bax — orada heç bir adam yox idi.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "qalxdılar"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "şəfəq vaxtı"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "girmək üçün"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "düşərgəsi"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "gəldilər"
+    },
+    {
+      "surface": "עד",
+      "gloss": "adək"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "uc kənarına"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "düşərgəsinin"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "və bax"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yox idi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "איש",
+      "gloss": "heç bir adam"
+    }
+  ],
+  "timestamp": "2026-09-01T12:32:23.325087020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 50:13",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 50,
+  "translation": "Büllərin ətini yeyirəmmi, keçilərin qanını içirəmmi?",
+  "tokens": [
+    {
+      "surface": "האוכל",
+      "gloss": "yeyirəmmi"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ətini"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "büllərin"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "qanını"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "keçilərin"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "içirəmmi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:16:35.536112347Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 26:15",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "əgər hökmlərimi rədd etsəniz, əgər canınız mənim qanunlarımı iyrənclə saysa, bütün əmrlərimi ⟨את⟩ etməmək üçün, əhdimi ⟨את⟩ pozaraq —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "hökmlərimi"
+    },
+    {
+      "surface": "תמאסו",
+      "gloss": "rədd etsəniz"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qanunlarım"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "qanunlarımı"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "iyrənclə saysa"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "canınız"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "etməmək üçün"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "etmək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün əmrlərim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "əmrlərimi"
+    },
+    {
+      "surface": "להפרכם",
+      "gloss": "pozaraq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əhdim"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "əhdimi"
+    }
+  ],
+  "timestamp": "2026-09-01T10:31:28.881725933Z",
+  "model": "glm-5.3"
+}

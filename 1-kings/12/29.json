@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Və ⟨את⟩ birini Bet-Elə qoydu, ⟨את⟩ birini isə Dana qoydu.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "qoydu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "birini"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "birini"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "Bet-Elə"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "birini"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "birini"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "qoydu"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Danda"
+    }
+  ],
+  "timestamp": "2026-09-01T12:19:45.685519329Z",
+  "model": "glm-5.3"
+}

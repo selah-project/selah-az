@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 103,
+  "translation": "Yahve salehliklər edir və bütün ezilənlər üçün mühakimələr ⟨edir⟩.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "edir"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "salehliklər"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "və mühakimələr"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "ezilənlər üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T15:33:56.238143495Z",
+  "model": "glm-5.3"
+}

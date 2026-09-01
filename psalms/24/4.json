@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Əlləri təmiz olan və ürəyi pak olan, hanı ⟨o kəs ki⟩ nəfsini boşa qaldırmayan və aldatma ilə and içməyən.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "təmiz olan"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "əlləri"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "və pak"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ürəyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hanı ⟨o kəs ki⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "qaldırmayan"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "boşa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nəfsini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "and içməyən"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "aldatma ilə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:09:14.824028982Z",
+  "model": "glm-5.3"
+}

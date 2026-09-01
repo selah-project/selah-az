@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 80,
+  "translation": "Ey səbalar Elohimi, qayıt ⟨zəhmət olmasa⟩, göydən nəzər sal və gör, və bu üzüm kolunu yoxla.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "səbalar"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "qayıt"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨zəhmət olmasa⟩"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "nəzər sal"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "göydən"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "və gör"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "və yoxla"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "üzüm kolunu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-09-01T15:27:45.010926635Z",
+  "model": "glm-5.3"
+}

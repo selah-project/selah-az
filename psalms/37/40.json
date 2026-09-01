@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 37:40",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Yahve onlara kömək edir və onları qurtarır; ⟨O⟩ onları şərlilərdən qurtarır və onları xilas edir, çünki onlar ⟨O⟩nda sığınıblar.",
+  "tokens": [
+    {
+      "surface": "ויעזרם",
+      "gloss": "və onlara kömək edir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויפלטם",
+      "gloss": "və onları qurtarır"
+    },
+    {
+      "surface": "יפלטם",
+      "gloss": "onları qurtarır"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "şərlilərdən"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "və onları xilas edir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "sığınıblar"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨O⟩nda"
+    }
+  ],
+  "timestamp": "2026-09-01T15:12:44.542290561Z",
+  "model": "glm-5.3"
+}

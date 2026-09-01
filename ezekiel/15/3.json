@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 15:3",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Ondan istənilən işi görmək üçün odun götürülürmü? Yoxsa ondan üstünə hər hansı əşya asmaq üçün dikəcək götürürlərmi?",
+  "tokens": [
+    {
+      "surface": "היקח",
+      "gloss": "götürülürmü"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "odun"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "görmək üçün"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "işi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoxsa"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "götürürlərmi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "יתד",
+      "gloss": "dikəcək"
+    },
+    {
+      "surface": "לתלות",
+      "gloss": "asmaq üçün"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər hansı"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "əşya"
+    }
+  ],
+  "timestamp": "2026-09-01T14:07:18.503584138Z",
+  "model": "glm-5.3"
+}

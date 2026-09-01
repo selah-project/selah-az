@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Kimdir bu, izzət Kralı? Yahve Şəbakim — Odur izzət Kralı. Sela.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kimdir"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Odur"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Kralı"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "izzət"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Şəbakim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Odur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Kral"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "izzət"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-01T15:07:53.346321460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 17:26",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Məhz ⟨bu⟩ günün özündə Avraham sünnət edildi, və Yişmael, onun oğlu ⟨sünnət edildi⟩.",
+  "tokens": [
+    {
+      "surface": "בעצם",
+      "gloss": "özündə"
+    },
+    {
+      "surface": "היום",
+      "gloss": "günün"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "נמול",
+      "gloss": "sünnət edildi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "və Yişmael"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "onun oğlu"
+    }
+  ],
+  "timestamp": "2026-09-01T09:49:49.168659571Z",
+  "model": "glm-5.3"
+}

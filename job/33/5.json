@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 33:5",
+  "book": "job",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "Əgər bacarırsansa, mənə cavab ver, sözünü mənim qarşımda düz, dur ⟨qarşımda⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Əgər"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "bacarırsansa"
+    },
+    {
+      "surface": "השיבני",
+      "gloss": "mənə cavab ver"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "düzsözünü"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "qarşımda"
+    },
+    {
+      "surface": "התיצבה",
+      "gloss": "dur"
+    }
+  ],
+  "timestamp": "2026-09-01T16:16:11.231704634Z",
+  "model": "glm-5.3"
+}

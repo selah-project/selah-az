@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 114,
+  "translation": "Yisrael Mitsrayimdan çıxanda, Yaqovun evi dildən başqa bir xalqın yanından ⟨gələndə⟩ —",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "çıxanda"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayimdan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqovun"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "xalqın yanından"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "dildən başqa bir"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:08.812968195Z",
+  "model": "glm-5.3"
+}

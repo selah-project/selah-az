@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 116,
+  "translation": "Ah, Yahve! Çünki mən qulunum, mən qulunum, qadın qulunun oğluyam; əsarətimi açdın.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Ah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "qulunum"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "qulunum"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "qadın qulunun"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "açdın"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "əsarətimi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:03.743176140Z",
+  "model": "glm-5.3"
+}

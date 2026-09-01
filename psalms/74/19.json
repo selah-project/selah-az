@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 74:19",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 74,
+  "translation": "Göyərcəyinin canını vəhşi heyvana təhvil vermə; kasıblarının ⟨canını⟩ əbədi unutma.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "——"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "vermə (təhvil)"
+    },
+    {
+      "surface": "לחית",
+      "gloss": "vəhşi heyvana"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "canını"
+    },
+    {
+      "surface": "תורך",
+      "gloss": "göyərcəyinin"
+    },
+    {
+      "surface": "חית",
+      "gloss": "——"
+    },
+    {
+      "surface": "ענייך",
+      "gloss": "kasıblarının"
+    },
+    {
+      "surface": "אל",
+      "gloss": "——"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "unutma"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "əbədi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:25:37.051190749Z",
+  "model": "glm-5.3"
+}

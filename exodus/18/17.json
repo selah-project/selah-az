@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Və Moşenin qayınatası ona dedi: yaxşı deyil ⟨o⟩ iş ki, sən onu edirsən.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "qayınata"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşenin"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşı"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨o⟩ iş"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "edin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:12:22.450510408Z",
+  "model": "glm-5.3"
+}

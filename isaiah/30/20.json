@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 30:20",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Və Adonay sizə sıxıntı çörəyi və zülm suyu verəcək, amma sənin müəllimin artıq gizlənməyəcək və gözlərin müəllimini ⟨את⟩ görəcək.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "verəcək"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizə"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "çörəyi"
+    },
+    {
+      "surface": "צר",
+      "gloss": "sıxıntı"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "və suyu"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "zülm"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma… -məyəcək"
+    },
+    {
+      "surface": "יכנף",
+      "gloss": "gizlənməyəcək"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "artıq"
+    },
+    {
+      "surface": "מוריך",
+      "gloss": "sənin müəllimin"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "və"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "gözlərin"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "görəcək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sənin müəllimini"
+    },
+    {
+      "surface": "מוריך",
+      "gloss": "sənin müəllimini"
+    }
+  ],
+  "timestamp": "2026-09-01T13:02:18.626575894Z",
+  "model": "glm-5.3"
+}

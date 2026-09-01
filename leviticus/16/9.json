@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 16:9",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Və Aharon ⟨את⟩ keçini yaxınlaşdıracaq — üstünə Yahve üçün qur'a çıxmış keçini — və onu günah qurbanı edəcək.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "yaxınlaşdıracaq"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keçi"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "keçi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "çıxmış"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "qur'a"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve üçün"
+    },
+    {
+      "surface": "ועשהו",
+      "gloss": "və onu edəcək"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "günah qurbanı"
+    }
+  ],
+  "timestamp": "2026-09-01T10:27:47.460829309Z",
+  "model": "glm-5.3"
+}

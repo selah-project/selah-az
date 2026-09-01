@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 21:2",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Sarah hamilə qaldı və Avrahama oğul doğdu, qocalığına, təyin edilmiş vaxtda ki, Elohim onunla danışmışdı.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "hamilə qaldı"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "və doğdu"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avrahama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "לזקניו",
+      "gloss": "qocalığına"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "təyin edilmiş vaxtda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "danışmışdı"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim onunla"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T09:51:43.207006673Z",
+  "model": "glm-5.3"
+}

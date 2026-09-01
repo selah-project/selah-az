@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 119:70",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Ürəkləri yağ kimi ⟨körləşib⟩; mən isə Tövrənindən ləzzət alıram.",
+  "tokens": [
+    {
+      "surface": "טפש",
+      "gloss": "⟨körləşib⟩"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "yağ kimi"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ürəkləri"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən isə"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tövrənindən"
+    },
+    {
+      "surface": "שעשעתי",
+      "gloss": "ləzzət alıram"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:44.701581002Z",
+  "model": "glm-5.3"
+}

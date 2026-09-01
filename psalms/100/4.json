@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 100,
+  "translation": "Şükrə girin Onun qapılarından, tərifə Onun həyətlərinə girin; Ona şükür edin, Onun adını mübarək edin.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "girin"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "Onun qapılarından"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "şükrə"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "Onun həyətlərinə"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "tərifə"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "şükür edin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "mübarək edin"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Onun adını"
+    }
+  ],
+  "timestamp": "2026-09-01T15:34:25.015508778Z",
+  "model": "glm-5.3"
+}

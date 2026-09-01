@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 102,
+  "translation": "Sən isə, ya Yahve, əbədi oturursan, və xatirən nəsldən-nəslə ⟨qədər⟩.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Sən isə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "oturursan"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "və xatirən"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "nəsldən"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nəslə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:34:13.586083375Z",
+  "model": "glm-5.3"
+}

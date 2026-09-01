@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 29:10",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "Buna görə bax, Mən sənə və sənin Yeorlarına ⟨qarşı⟩ gəlirəm, və Mitsrayim torpağını viran quru çöl edəcəyəm — Miqdoldan Sveneyə qədər və Kuş sərhədinədək.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Buna görə"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "bax, Mən... gəlirəm"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və... qarşı"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "sənin Yeorların"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "və edəcəyəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim torpağını"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "torpağını"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לחרבות",
+      "gloss": "viran"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "quru"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "çöl"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "Miqdoldan"
+    },
+    {
+      "surface": "סונה",
+      "gloss": "Sveneyə"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "və qədər"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "sərhədinə"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuş"
+    }
+  ],
+  "timestamp": "2026-09-01T14:20:23.771348539Z",
+  "model": "glm-5.3"
+}

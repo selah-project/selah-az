@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 51,
+  "translation": "Məni qanlardan qurtar, ey Elohim, qurtuluşumun Elohimi, dilin Sənin ədalətini sevinc ilə oxuyacaq.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "məni qurtar"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "qanlardan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ey Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "qurtuluşumun"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "sevinc ilə oxuyacaq"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "dilin"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "Sənin ədalətini"
+    }
+  ],
+  "timestamp": "2026-09-01T15:18:28.163938828Z",
+  "model": "glm-5.3"
+}

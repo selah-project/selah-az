@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 6:10",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Və bütün evin üstünə beş qarış hündürlüyündə yan otaqlar tikdi, və evi sədər ağacları ilə bağladı.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "tikdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yan otaqları"
+    },
+    {
+      "surface": "היצוע",
+      "gloss": "yan otaqlar"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "evin"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "beş"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "qarış"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "hündürlüyündə"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "bağladı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "evi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "ağacları ilə"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "sədər"
+    }
+  ],
+  "timestamp": "2026-09-01T12:12:47.671182920Z",
+  "model": "glm-5.3"
+}

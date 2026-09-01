@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 6:3",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Əgər bir insan yüz övlad atasa və çox il yaşasa, illərinin günləri çox olsa da, canı yaxşılıqdan doymasa və ona dəfn də nəsib olmasa, dedim: düşər (ölü doğulan) ondan yaxşıdır.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "יוליד",
+      "gloss": "atalasa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "insan"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "və il"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "çox"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "yaşasa"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "və çox"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "olsa"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "günləri"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "illərinin"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "canı"
+    },
+    {
+      "surface": "לא",
+      "gloss": "olmaz"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "doymasa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "yaxşılıq"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "həm də"
+    },
+    {
+      "surface": "קבורה",
+      "gloss": "dəfn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nəsib olmasa"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "olmuş"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "dedim"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşıdır"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "הנפל",
+      "gloss": "düşər (ölü doğulan)"
+    }
+  ],
+  "timestamp": "2026-09-01T16:32:40.502567060Z",
+  "model": "glm-5.3"
+}

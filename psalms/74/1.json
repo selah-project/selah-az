@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 74,
+  "translation": "İdrak şeiri, Asafa aiddir. Nə üçün, ya Elohim, bizə əbədi üz döndərdin? Otladığın sürünün üzərinə qəzəbin tüstüsü qalxır.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "İdrak şeiri"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafa aiddir"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nə üçün"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "üz döndərdin"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "tüstüsü qalxır"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "qəzəbin"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "sürünün"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "otladığın"
+    }
+  ],
+  "timestamp": "2026-09-01T15:25:48.159982134Z",
+  "model": "glm-5.3"
+}

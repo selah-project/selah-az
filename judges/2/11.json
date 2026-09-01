@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 2:11",
+  "book": "judges",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "İsrail oğulları Yahvenin gözündə ⟨את⟩ şəri etdilər və ⟨את⟩ Baallara qulluq etdilər.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "etdilər"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şəri"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "şəri"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "gözündə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "qulluq etdilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baallara"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baallara"
+    }
+  ],
+  "timestamp": "2026-09-01T11:14:54.012095114Z",
+  "model": "glm-5.3"
+}

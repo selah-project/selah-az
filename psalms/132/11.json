@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 132,
+  "translation": "Yahve Davuda əməl ilə and içdi, bundan geri dönməyəcək: «Bətninin məhsulundan sənin üçün taxtına ⟨oturacaq⟩ qoyacağam.»",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "and içdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davuda"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "əməl ilə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "geri dönməyəcək"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "bundan"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "məhsulundan"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "bətninin"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "qoyacağam"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "taxtına"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənin üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:11.397328186Z",
+  "model": "glm-5.3"
+}

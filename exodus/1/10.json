@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 1:10",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Gəlin, ona qarşı ağıllı davranaq, yox olsa çoxalacaq, və ⟨olur⟩ ki, müharibə ⟨baş verəndə⟩ o da bizim düşmənlərimizə qoşulacaq və bizimlə vuruşacaq və ölkədən qalxıb çıxacaq.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "gəlin"
+    },
+    {
+      "surface": "נתחכמה",
+      "gloss": "ağıllı davranaq"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "פן",
+      "gloss": "yox olsa"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "çoxalacaq"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "və ⟨olur⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תקראנה",
+      "gloss": "⟨baş verəndə⟩"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "müharibə"
+    },
+    {
+      "surface": "ונוסף",
+      "gloss": "qoşulacaq"
+    },
+    {
+      "surface": "גם",
+      "gloss": "da"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "על",
+      "gloss": "−ə"
+    },
+    {
+      "surface": "שנאינו",
+      "gloss": "düşmənlərimizə"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "və vuruşacaq"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "bizimlə"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "və qalxacaq"
+    },
+    {
+      "surface": "מן",
+      "gloss": "−dan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ölkədən"
+    }
+  ],
+  "timestamp": "2026-09-01T10:03:53.524271563Z",
+  "model": "glm-5.3"
+}

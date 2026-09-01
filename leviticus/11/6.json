@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 11:6",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Və ⟨את⟩ dovşanı — çünki o, gələ gətirir, amma dırnağı yarıq etməyib — o, sizin üçün murdardır.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dovşanı"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "dovşanı"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "gələ gətirir"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "gələ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "amma dırnağı"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "הפריסה",
+      "gloss": "yarıq etməyib"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "murdardır"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:24:49.144738479Z",
+  "model": "glm-5.3"
+}

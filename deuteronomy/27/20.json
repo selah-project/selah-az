@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 27:20",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Lənətlənmişdir atasının arvadı ilə yatan, çünki atasının ətəyini açmışdır; və bütün xalq deyəcək: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Lənətlənmişdir"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "yatan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "arvadı"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atasının"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "açmışdır"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "ətəyini"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atasının"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "və deyəcək"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-09-01T10:55:25.019335002Z",
+  "model": "glm-5.3"
+}

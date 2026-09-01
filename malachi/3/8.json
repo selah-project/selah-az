@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "malachi 3:8",
+  "book": "malachi",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "İnsan Elohimi aldatar mı? Yenə də siz Məni aldadırsınız. Və siz dediniz: «Nə ilə Səni aldadırıq?» Onluq və qaldırmaqurbanı ⟨ilə⟩.",
+  "tokens": [
+    {
+      "surface": "היקבע",
+      "gloss": "aldatar mı"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yenə də"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "aldadırsınız"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ni",
+      "marks": "Məni"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "dediniz"
+    },
+    {
+      "surface": "במה",
+      "gloss": "nə ilə"
+    },
+    {
+      "surface": "קבענוך",
+      "gloss": "aldadırıq"
+    },
+    {
+      "surface": "המעשר",
+      "gloss": "onluq"
+    },
+    {
+      "surface": "והתרומה",
+      "gloss": "qaldırmaqurbanı ⟨ilə⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T15:00:54.744085403Z",
+  "model": "glm-5.3"
+}

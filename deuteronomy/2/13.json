@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "İndi qalxın və özünüz üçün ⟨את⟩ Zered vadisini keçin. Və ⟨את⟩ Zered vadisini keçdik.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "indi"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "qalxın"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "və keçin"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "özünüz üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zered vadisi"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "vadi"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zered"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "və keçdik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zered vadisi"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "vadi"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zered"
+    }
+  ],
+  "timestamp": "2026-09-01T10:45:48.938523062Z",
+  "model": "glm-5.3"
+}

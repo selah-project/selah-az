@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 3:4",
+  "book": "amos",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Şir meşədə nərilləyərmi, əgər yırtıcısı olmasın? Gənc şir öz yuvasından səs verərmi, əgər tutmamış olsun?",
+  "tokens": [
+    {
+      "surface": "הישאג",
+      "gloss": "nərilləyərmi"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "Şir"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "meşədə"
+    },
+    {
+      "surface": "וטרף",
+      "gloss": "və yırtıcı"
+    },
+    {
+      "surface": "אין",
+      "gloss": "olmasın"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onun üçün (olmasın)"
+    },
+    {
+      "surface": "היתן",
+      "gloss": "verərmi"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "Gənc şir"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "öz səsini"
+    },
+    {
+      "surface": "ממענתו",
+      "gloss": "öz yuvasından"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "əgər ... məsənin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "-mə"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "tutmamış olsun"
+    }
+  ],
+  "timestamp": "2026-09-01T14:39:58.525048742Z",
+  "model": "glm-5.3"
+}

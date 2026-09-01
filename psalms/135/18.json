@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 135,
+  "translation": "Onları edənlər onlar kimi olacaqlar, onlara etibar edən hər kəs ⟨belədir⟩.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "onlar kimi"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "olacaqlar"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "onları edənlər"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər kəs"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "etibar edən"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onlara"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:45.947398591Z",
+  "model": "glm-5.3"
+}

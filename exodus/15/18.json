@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 15:18",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Yahve əbədi olaraq, həmişəlik hökm sürəcək.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "hökm sürəcək"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "əbədi olaraq"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "və həmişəlik"
+    }
+  ],
+  "timestamp": "2026-09-01T10:09:46.519377930Z",
+  "model": "glm-5.3"
+}

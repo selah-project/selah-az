@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 38,
+  "translation": "Məni tərk etmə, Yahve, Elohimim, məndən uzaqlaşma.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "tərk etmə (qadağan)"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "məni tərk etmə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "qadağan"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "uzaclaşma"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "məndən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:12:50.930555860Z",
+  "model": "glm-5.3"
+}

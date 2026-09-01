@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 1:1",
+  "book": "daniel",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Yehoyaqimin, Yehuda kralının, səltənətinin üçüncü ilində Bavel kralı Nevuxadnessar Yeruşalayimə gəldi və onu mühasirəyə aldı.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "ilində"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "üçüncü"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "səltənətinin"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyaqim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gəldi"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nevuxadnessar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "və mühasirəyə aldı"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "onu"
+    }
+  ],
+  "timestamp": "2026-09-01T16:39:21.744043623Z",
+  "model": "glm-5.3"
+}

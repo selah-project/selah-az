@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 97,
+  "translation": "Göylər ⟨onun⟩ ədalətini bildirdi və bütün xalqlar ⟨onun⟩ izzətini gördü.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "bildirdi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göylər"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "ədalətini"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "və gördü"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "izzətini"
+    }
+  ],
+  "timestamp": "2026-09-01T15:33:03.086747835Z",
+  "model": "glm-5.3"
+}

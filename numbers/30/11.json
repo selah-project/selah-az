@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 30:11",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Əgər ərinin evində nəzir edibsə və ya canına and ilə öhdəlik bağlayıbsa —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evində"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "ərinin"
+    },
+    {
+      "surface": "נדרה",
+      "gloss": "nəzir edibsə"
+    },
+    {
+      "surface": "או",
+      "gloss": "və ya"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "bağlayıbsa"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "öhdəlik"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "canına"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "and ilə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:43:47.387947197Z",
+  "model": "glm-5.3"
+}

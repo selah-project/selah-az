@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 45:24",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 45,
+  "translation": "Və qardaşlarını ⟨את⟩ yola saldı, və ⟨onlar⟩ getdilər; və onlara dedi: Yolda qəzəblənməyin.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Və yola saldı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qardaşlarını"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "qardaşlarını"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "və getdilər"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תרגזו",
+      "gloss": "qəzəblənməyin"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolda"
+    }
+  ],
+  "timestamp": "2026-09-01T17:26:08.885538096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 32:10",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "İndi isə məni ⟨burax⟩ mənə rahat ol, qəzəbim onların üzərində qızınsın və onları məhv edim, və səni ⟨את⟩ böyük bir xalq edim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "indi isə"
+    },
+    {
+      "surface": "הניחה",
+      "gloss": "burax"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "qızınsın"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "qəzəbim"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onların üzərində"
+    },
+    {
+      "surface": "ואכלם",
+      "gloss": "və onları məhv edim"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "və edim"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ səni",
+      "marks": "böyük bir xalq"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "böyük"
+    }
+  ],
+  "timestamp": "2026-09-01T10:19:23.212211808Z",
+  "model": "glm-5.3"
+}

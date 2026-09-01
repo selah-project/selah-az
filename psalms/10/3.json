@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Çünki paxıl ürəyinin istəyi ilə öyünür, qazanc sevdalısı ⟨özünü⟩ xeyir-dua edir, Yahveni xor görür.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "öyünür"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "paxıl"
+    },
+    {
+      "surface": "על",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "istəyi"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ürəyinin"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "qazanc sevdalısı"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "xeyir-dua edir"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "xor görür"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveni"
+    }
+  ],
+  "timestamp": "2026-09-01T15:04:57.850896334Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 6:24",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "və Yahve bizə əmr etdi ⟨את⟩ bütün bu qanunları etməyə, Yahve Elohimimizdən qorxmaq üçün ⟨את⟩, bizim üçün həmişə, bütün günlər xeyrimizə, bizi bu gün olduğu kimi diri saxlamaq üçün.",
+  "tokens": [
+    {
+      "surface": "ויצונו",
+      "gloss": "və bizə əmr etdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "etməyə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün bu qanunları"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "qanunları"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "qorxmaq üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve Elohimimizdən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimizdən"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "xeyrimizə"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizim üçün"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "günlər"
+    },
+    {
+      "surface": "לחיתנו",
+      "gloss": "bizi diri saxlamaq üçün"
+    },
+    {
+      "surface": "כהיום",
+      "gloss": "bu gün olduğu kimi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-09-01T10:47:30.725918689Z",
+  "model": "glm-5.3"
+}

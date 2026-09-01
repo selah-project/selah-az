@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-kings 18:31",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Hizqiyağa qulaq asmayın, çünki Aşşur padşahı belə deyir: Mənimlə ⟨את⟩ barışıq edin, yanıma çıxın; hər kəs öz üzüm kəndindən yesin, hər kəs öz əncir ağacından, hər kəs öz quyusunun suyundan içsin.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "-mayın"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "qulaq asmayın"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizqiya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "כה",
+      "gloss": "belə"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşahı"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşşur"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "edin"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "mənimlə ⟨את⟩"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "barışıq"
+    },
+    {
+      "surface": "וצאו",
+      "gloss": "çıxın"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "yanıma"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "yesin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər kəs"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "öz üzüm kəndi"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "hər kəs"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "öz əncir ağacı"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "içsin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər kəs"
+    },
+    {
+      "surface": "מי",
+      "gloss": "suyunu"
+    },
+    {
+      "surface": "בורו",
+      "gloss": "öz quyusu"
+    }
+  ],
+  "timestamp": "2026-09-01T12:41:30.503327204Z",
+  "model": "glm-5.3"
+}

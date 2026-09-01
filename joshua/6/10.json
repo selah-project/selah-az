@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 6:10",
+  "book": "joshua",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Yehoşua ⟨את⟩ xalqa əmr etdi, dedi: Qışmayın, səsinizi eşitdirməyin, ağzınızdan bir kəlmə çıxmasın — o günə qədər ki, sizə deyərəm: Qışın! — o zaman qışacaqsınız.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "xalqa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "əmr etdi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "qışmayın"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "תשמיעו",
+      "gloss": "eşitdirməyin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "səsinizi"
+    },
+    {
+      "surface": "קולכם",
+      "gloss": "səsinizi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "çıxmasın"
+    },
+    {
+      "surface": "מפיכם",
+      "gloss": "ağzınızdan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bir kəlmə"
+    },
+    {
+      "surface": "עד",
+      "gloss": "o günə qədər"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "sizə deyərəm"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "sizə"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "qışın"
+    },
+    {
+      "surface": "והריעתם",
+      "gloss": "qışacaqsınız"
+    }
+  ],
+  "timestamp": "2026-09-01T11:02:15.293360728Z",
+  "model": "glm-5.3"
+}

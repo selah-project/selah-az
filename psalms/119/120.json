@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Sənin qorxundan ürpərdi ətim, və məhkəmələrindən qorxdum.",
+  "tokens": [
+    {
+      "surface": "סמר",
+      "gloss": "ürpərdi"
+    },
+    {
+      "surface": "מפחדך",
+      "gloss": "sənin qorxundan"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ətim"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "və məhkəmələrindən"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "qorxdum"
+    }
+  ],
+  "timestamp": "2026-09-01T15:41:04.077229192Z",
+  "model": "glm-5.3"
+}

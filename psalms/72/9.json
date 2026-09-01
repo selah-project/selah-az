@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 72:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 72,
+  "translation": "Onun önündə səhra sakinləri diz çökəcəklər, onun düşmənləri isə tozu yalayacaqlar.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "onun önündə"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "diz çökəcəklər"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "səhra sakinləri"
+    },
+    {
+      "surface": "ואיביו",
+      "gloss": "onun düşmənləri isə"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "tozu"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "yalayacaqlar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:22:53.039717371Z",
+  "model": "glm-5.3"
+}

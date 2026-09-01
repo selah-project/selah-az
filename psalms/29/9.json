@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "Yahvenin səsi diş maralları doğaldır ⟨və⟩ meşələri çılpaqlaşdırır; Onun məbədində hamısı deyir: Kavod!",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "səsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "doğaldır"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "diş maralları"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "çılpaqlaşdırır"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "meşələri"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "Onun məbədində"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "hamısı"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "Kavod"
+    }
+  ],
+  "timestamp": "2026-09-01T15:08:06.874944632Z",
+  "model": "glm-5.3"
+}

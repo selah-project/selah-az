@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-chronicles 29:24",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "kohenlər onları şiştirdilər və onların qanını ⟨את⟩ mizbəhlə günahlandıraraq bütün İsrailin üstünə kəffarə etdilər; çünki «bütün İsrail üçün, — padşah dedi, — yandırma qurbanı və günah qurbanıdır».",
+  "tokens": [
+    {
+      "surface": "וישחטום",
+      "gloss": "onları şiştirdilər"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohenlər"
+    },
+    {
+      "surface": "ויחטאו",
+      "gloss": "günahlandırdılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qanını"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "onların qanını"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "mizbəhə"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "kəffarə etmək üçün"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bütün ... üçün"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "yandırma qurbanı"
+    },
+    {
+      "surface": "והחטאת",
+      "gloss": "və günah qurbanı"
+    }
+  ],
+  "timestamp": "2026-09-01T17:21:59.910866447Z",
+  "model": "glm-5.3"
+}

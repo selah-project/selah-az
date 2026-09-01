@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 26:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Mən isə təmizliyimlə gəzəcəyəm; məni azad et və mənə mərhəmət göstər.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "mən isə"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "təmizliyimlə"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "gəzəcəyəm"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "məni azad et"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "və mənə mərhəmət göstər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:08:18.296524128Z",
+  "model": "glm-5.3"
+}

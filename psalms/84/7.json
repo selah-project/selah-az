@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 84:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 84,
+  "translation": "Ağlama vadisindən keçənlər orada bulaq düzəldirlər; hətta bərəkətlər erkən yağışla örtülür.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "keçənlər"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "vadisində"
+    },
+    {
+      "surface": "הבכא",
+      "gloss": "ağlama"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "bulaq"
+    },
+    {
+      "surface": "ישיתוהו",
+      "gloss": "düzəldirlər"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hətta"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "bərəkətlər"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "örtülür"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "erkən yağışla"
+    }
+  ],
+  "timestamp": "2026-09-01T15:30:47.191604057Z",
+  "model": "glm-5.3"
+}

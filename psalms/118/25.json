@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 118,
+  "translation": "Ah, Yahve! Xilas et, nə olar; ah, Yahve! Uğur ver, nə olar.",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "ah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "xilas et"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nə olar"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "ah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "uğur ver"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nə olar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:41.666811176Z",
+  "model": "glm-5.3"
+}

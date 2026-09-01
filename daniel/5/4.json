@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 5:4",
+  "book": "daniel",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Şərab içdilər və qızıl, gümüş, mis, dəmir, ağac və daş tanrılarına tərif dedilər.",
+  "tokens": [
+    {
+      "surface": "אשתיו",
+      "gloss": "içdilər"
+    },
+    {
+      "surface": "חמרא",
+      "gloss": "şərab"
+    },
+    {
+      "surface": "ושבחו",
+      "gloss": "və tərif dedilər"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "tanrılarına"
+    },
+    {
+      "surface": "דהבא",
+      "gloss": "qızıl"
+    },
+    {
+      "surface": "וכספא",
+      "gloss": "və gümüş"
+    },
+    {
+      "surface": "נחשא",
+      "gloss": "mis"
+    },
+    {
+      "surface": "پرזלא",
+      "gloss": "dəmir"
+    },
+    {
+      "surface": "אעא",
+      "gloss": "ağac"
+    },
+    {
+      "surface": "ואבנא",
+      "gloss": "və daş"
+    }
+  ],
+  "timestamp": "2026-09-01T17:45:56.537811864Z",
+  "model": "glm-5.3"
+}

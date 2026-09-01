@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 12:3",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "və göndərib onu çağırdılar; Yarovam və bütün İsrail məclisi gəldi və Rəhavamla danışaraq dedilər:",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "göndərib"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "çağırdılar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onu"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "gəldi"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "məclisi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "danışdılar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rəhavamla"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dedilər"
+    }
+  ],
+  "timestamp": "2026-09-01T12:20:19.143665638Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 85:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 85,
+  "translation": "Ədalət onun önündə gedəcək və onun addımlarını yol ⟨olaraq⟩ qoyacaq.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "ədalət"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "onun önündə"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "gedəcək"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "və qoyacaq"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "yol"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "onun addımlarını"
+    }
+  ],
+  "timestamp": "2026-09-01T15:28:58.617534417Z",
+  "model": "glm-5.3"
+}

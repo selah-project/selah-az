@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 78,
+  "translation": "Yehuda qəbiləsini ⟨את⟩ seçdi, sevdiji Tsiyon dağını ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "seçdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda qəbiləsini"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "qəbiləsini"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiyon dağını"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dağ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onu ki"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "sevdi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:26:27.843270384Z",
+  "model": "glm-5.3"
+}

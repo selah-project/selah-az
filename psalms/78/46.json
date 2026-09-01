@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 78:46",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 78,
+  "translation": "Məhsullarını tırtıla verdi, əməklərinin bəhrəsini çəyərtkəyə verdi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "לחסיל",
+      "gloss": "tırtıla"
+    },
+    {
+      "surface": "יבולם",
+      "gloss": "məhsullarını"
+    },
+    {
+      "surface": "ויגיעם",
+      "gloss": "əməklərinin bəhrəsini"
+    },
+    {
+      "surface": "לארבה",
+      "gloss": "çəyərtkəyə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:26:40.788635696Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Və Avraham yerin xalqının önündə səcdə etdi.",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "səcdə etdi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önündə"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalqının"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    }
+  ],
+  "timestamp": "2026-09-01T09:51:22.870165465Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Və Yahvenin sözünə ürəyini yönəltməyən ⟨isə⟩ qullarını və mal-qarasını sahədə qoyub getdi.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "və o ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…-mə"
+    },
+    {
+      "surface": "שם",
+      "gloss": "qoymadı"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ürəyini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…-a"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sözünə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "qoyub getdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qullarını"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "qullarını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "mal-qarasını"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "mal-qarasını"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sahədə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:07:56.723077260Z",
+  "model": "glm-5.3"
+}

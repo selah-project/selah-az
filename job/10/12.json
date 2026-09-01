@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 10:12",
+  "book": "job",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Həyat və hesed göstərdin mənə ⟨görə⟩, və ziyarətin qoruyur ruhumu.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "Həyat"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "və hesed"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "göstərdin"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "⟨görə⟩ mənə"
+    },
+    {
+      "surface": "ופקדתך",
+      "gloss": "və ziyarətin"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "qoruyur"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruhumu"
+    }
+  ],
+  "timestamp": "2026-09-01T16:06:32.546897444Z",
+  "model": "glm-5.3"
+}

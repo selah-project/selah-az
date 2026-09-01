@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 96,
+  "ref": "psalms 119:96",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Hər tamamın sonunu gördüm; ⟨lakin⟩ əmrin son dərəcə genişdir.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "tamamın"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "gördüm"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "sonunu"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "genişdir"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "əmrin"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "son dərəcə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:27.943468599Z",
+  "model": "glm-5.3"
+}

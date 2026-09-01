@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Tarşış qızı, ⟨öz⟩ torpağından Nil kimi keç — artıq kamar yoxdur.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "keç"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "torpağından"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "Nil kimi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qızı"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarşış"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "kamar"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "artıq"
+    }
+  ],
+  "timestamp": "2026-09-01T12:57:02.872281460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 11:1",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Yalan tərəziləri Yahve üçün iyrənclikdir, tam daş isə ⟨onun⟩ xoşuna gedir.",
+  "tokens": [
+    {
+      "surface": "מאזני",
+      "gloss": "tərəziləri"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "yalan"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "iyrənclikdir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "və daş"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "tam"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "xoşuna gedir"
+    }
+  ],
+  "timestamp": "2026-09-01T15:52:40.629203471Z",
+  "model": "glm-5.3"
+}

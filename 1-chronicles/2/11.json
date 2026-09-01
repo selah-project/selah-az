@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və Nahşon ⟨את⟩ Salmanı doğuldatdı, Salma isə ⟨את⟩ Boazı doğuldatdı.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "və Nahşon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "doğuldatdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salmanı"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "Salmanı"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "və Salma"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "doğuldatdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boazı"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boazı"
+    }
+  ],
+  "timestamp": "2026-09-01T17:00:28.186851337Z",
+  "model": "glm-5.3"
+}

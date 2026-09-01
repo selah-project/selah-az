@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "genesis 42:37",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 42,
+  "translation": "Reuven isə atasına dedi: «İki oğlumu ⟨את⟩ öldür, əgər onu sənin yanına gətirməsəm; onu mənim əlimə ver, mən də onu sənə qaytararam.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": " dedi"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "אל",
+      "gloss": "{karşı}"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atasına"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "belə demək üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iki oğlumu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğlumu"
+    },
+    {
+      "surface": "תמית",
+      "gloss": "öldür"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "אביאנו",
+      "gloss": "onu gətirməsəm"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sənin yanına"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "ver"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu"
+    },
+    {
+      "surface": "על",
+      "gloss": "{ərzindən}"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "əlimə"
+    },
+    {
+      "surface": "ו אני",
+      "gloss": "mən də"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "onu qaytararam"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sənə"
+    }
+  ],
+  "timestamp": "2026-09-01T17:55:31.566208363Z",
+  "model": "glm-5.3"
+}

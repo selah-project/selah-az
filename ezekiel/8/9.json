@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 8:9",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və mənə dedi: Gedin gör ⟨את⟩ iyrənc pis şeyləri ki, onlar burada edirlər.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Və dedi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Gedin"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "gör"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyrənc pis şeyləri"
+    },
+    {
+      "surface": "התועבות",
+      "gloss": "iyrənc şeyləri"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "pis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הם",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "edirlər"
+    },
+    {
+      "surface": "פה",
+      "gloss": "burada"
+    }
+  ],
+  "timestamp": "2026-09-01T14:03:11.353242376Z",
+  "model": "glm-5.3"
+}

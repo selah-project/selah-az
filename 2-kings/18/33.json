@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 18:33",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Millətlərin tanrıları, hər biri ⟨את⟩ öz ölkəsini Aşşur kralının əlindən heç qurtardımı?",
+  "tokens": [
+    {
+      "surface": "ההצל",
+      "gloss": "heç"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "qurtardımı"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "tanrıları"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "millətlərin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər biri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öz ölkəsini"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "öz ölkəsini"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "əlindən"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralının"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşşur"
+    }
+  ],
+  "timestamp": "2026-09-01T12:39:53.743097099Z",
+  "model": "glm-5.3"
+}

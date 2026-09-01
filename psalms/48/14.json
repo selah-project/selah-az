@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 48:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 48,
+  "translation": "Ürəyinizi ⟨onun⟩ sədlərinə qoyun, saraylarını nəzərdən keçirin, ⟨bunu⟩ sonrakı nəslə danışasınız deyə.",
+  "tokens": [
+    {
+      "surface": "שיתו",
+      "gloss": "qoyun"
+    },
+    {
+      "surface": "לבכם",
+      "gloss": "ürəyinizi"
+    },
+    {
+      "surface": "לחילה",
+      "gloss": "sədlərinə"
+    },
+    {
+      "surface": "פסגו",
+      "gloss": "nəzərdən keçirin"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "saraylarını"
+    },
+    {
+      "surface": "למען",
+      "gloss": "deyə"
+    },
+    {
+      "surface": "תספרו",
+      "gloss": "danışasınız"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "nəslə"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "sonrakı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:15:28.252090250Z",
+  "model": "glm-5.3"
+}

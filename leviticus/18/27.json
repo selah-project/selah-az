@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 18:27",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Çünki sizdən əvvəl olan torpağın adamları bütün bu iyrəncliklərin ⟨את⟩ hamısını etdilər, və torpaq murdarlandı.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün bu iyrəncliklərin hamısını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamısını"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "iyrəncliklərin"
+    },
+    {
+      "surface": "האל",
+      "gloss": "bu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "etdilər"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "adamları"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "torpağın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olan"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "sizdən əvvəl"
+    },
+    {
+      "surface": "ותטמא",
+      "gloss": "və murdarlandı"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "torpaq"
+    }
+  ],
+  "timestamp": "2026-09-01T10:27:53.335796905Z",
+  "model": "glm-5.3"
+}

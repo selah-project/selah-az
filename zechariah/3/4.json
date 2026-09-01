@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 3:4",
+  "book": "zechariah",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və ⟨mələk⟩ cavab verdi və önündə dayananlara dedi, deyərək: çıxarın murdar paltarları onun üstündən. Və ona dedi: bax, mən günahını səndən uzaqlaşdırdım və səni ⟨את⟩ təmiz paltarlara geyindirirəm.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "cavab verdi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "dayananlara"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "önündə"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "çıxarın"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "paltarları"
+    },
+    {
+      "surface": "הצאים",
+      "gloss": "murdar"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "onun üstündən"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "העברתי",
+      "gloss": "uzaqlaşdırdım"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "səndən"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "günahını"
+    },
+    {
+      "surface": "והלבש",
+      "gloss": "və geyindirirəm"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ səni",
+      "marks": "səni (geyindirilən)"
+    },
+    {
+      "surface": "מחלצות",
+      "gloss": "təmiz paltarlara"
+    }
+  ],
+  "timestamp": "2026-09-01T14:55:52.913736235Z",
+  "model": "glm-5.3"
+}

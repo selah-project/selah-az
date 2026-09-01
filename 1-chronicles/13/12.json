@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Və David o gün Elohimdən ⟨את⟩ qorxdu, deyərək: Necə gətirim yanıma Elohimin sandığını ⟨את⟩?",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "qorxdu"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimdən"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimdən"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "o gün"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "היך",
+      "gloss": "Necə"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "gətirim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "yanıma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandığını"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandığını"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimin"
+    }
+  ],
+  "timestamp": "2026-09-01T17:05:09.624748230Z",
+  "model": "glm-5.3"
+}

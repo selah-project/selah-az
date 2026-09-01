@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 58,
+  "translation": "Bəlkəs, ürəkdə əməllər işlədirsiniz; yerdə əllərinizin zorluğunu çəkirsiniz.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Bəlkəs"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "ürəkdə"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "əməllər"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "işlədirsiniz"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerdə"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "zorluğunu"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "əllərinizin"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "çəkirsiniz"
+    }
+  ],
+  "timestamp": "2026-09-01T15:19:22.375208794Z",
+  "model": "glm-5.3"
+}

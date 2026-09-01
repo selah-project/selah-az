@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 31:8",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "Və Aşşur yıxılacaq — qılıncla, insanın ⟨qılıncı⟩ deyil; və qılınc onu yeyəcək — insanın deyil; və o, qılınc üzündən qaçacaq, və onun cavanları əriyib itəcək.",
+  "tokens": [
+    {
+      "surface": "ונפל",
+      "gloss": "və yıxılacaq"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşşur"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "qılıncla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "deyil"
+    },
+    {
+      "surface": "איש",
+      "gloss": "insanın"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "və qılınc"
+    },
+    {
+      "surface": "לא",
+      "gloss": "deyil"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insanın"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "onu yeyəcək"
+    },
+    {
+      "surface": "ונס",
+      "gloss": "və qaçacaq"
+    },
+    {
+      "surface": "לו",
+      "gloss": "o"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "üzündən"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "qılınc"
+    },
+    {
+      "surface": "ובחוריו",
+      "gloss": "və onun cavanları"
+    },
+    {
+      "surface": "למס",
+      "gloss": "əriyib itəcək"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "olacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T13:01:08.437681447Z",
+  "model": "glm-5.3"
+}

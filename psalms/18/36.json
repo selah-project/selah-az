@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 18:36",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Sən mənə qurtuluşunun qalxanını verdin, sağ əlin məni dəstəklədi və Sənin alçaqlığın məni böyütdün.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "verdin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "qalxan"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "qurtuluşunun"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "sağ əlin"
+    },
+    {
+      "surface": "תסעדני",
+      "gloss": "məni dəstəklədi"
+    },
+    {
+      "surface": "וענותך",
+      "gloss": "Sənin alçaqlığın"
+    },
+    {
+      "surface": "תרבני",
+      "gloss": "məni böyütdü"
+    }
+  ],
+  "timestamp": "2026-09-01T18:01:42.937339817Z",
+  "model": "glm-5.3"
+}

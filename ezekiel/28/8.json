@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 28:8",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "Çuxura səni endirəcəklər, və öldürülənlərin ölümləri ilə öləcəksən, dənizlərin ürəyində.",
+  "tokens": [
+    {
+      "surface": "לשחת",
+      "gloss": "çuxura"
+    },
+    {
+      "surface": "יורדוך",
+      "gloss": "səni endirəcəklər"
+    },
+    {
+      "surface": "ומתה",
+      "gloss": "və öləcəksən"
+    },
+    {
+      "surface": "ממותי",
+      "gloss": "ölümləri ilə"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "öldürülənlərin"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "ürəyində"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dənizlərin"
+    }
+  ],
+  "timestamp": "2026-09-01T14:18:42.596960438Z",
+  "model": "glm-5.3"
+}

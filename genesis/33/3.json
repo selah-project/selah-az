@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 33:3",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "Və özü onların önündən keçdi, və qardaşına yaxınlaşana qədər yeddi dəfə yerə səcdə etdi.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "və özü"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "keçdi"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "onların önündən"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "səcdə etdi"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yerə"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yeddi"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "dəfə"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "גשתו",
+      "gloss": "yaxınlaşana"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "qardaşına"
+    }
+  ],
+  "timestamp": "2026-09-01T09:57:00.936681769Z",
+  "model": "glm-5.3"
+}

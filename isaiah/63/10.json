@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 63:10",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 63,
+  "translation": "Onlar isə üsyan etdilər və Onun müqəddəs ⟨את⟩ ruhunu kədərləndirdilər; ⟨o⟩ onların özünə düşmənə çevrildi, özü onlarla vuruşdu.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "onlar isə"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "üsyan etdilər"
+    },
+    {
+      "surface": "ועצבו",
+      "gloss": "və kədərləndirdilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Onun müqəddəs ruhunu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhunu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "çevrildi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onların"
+    },
+    {
+      "surface": "לאויב",
+      "gloss": "düşmənə"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "özü"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "vuruşdu"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onlarla"
+    }
+  ],
+  "timestamp": "2026-09-01T13:16:46.084461429Z",
+  "model": "glm-5.3"
+}

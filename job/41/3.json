@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 41:3",
+  "book": "job",
+  "lang": "az",
+  "chapter": 41,
+  "translation": "Kim məni qabaqladı ki, mən ⟨ona⟩ qaytaram? Bütün göylərin altında ⟨olan hər şey⟩ mənindir.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "הקדימני",
+      "gloss": "məni qabaqladı"
+    },
+    {
+      "surface": "ואשלם",
+      "gloss": "və qaytararam"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göylərin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənindir"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-09-01T16:20:15.734504600Z",
+  "model": "glm-5.3"
+}

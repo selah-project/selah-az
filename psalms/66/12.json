@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 66:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 66,
+  "translation": "İnsanları başımızın üstündə minidin; oda girdik və suya — və bizi doyumlu yerə çıxartdın.",
+  "tokens": [
+    {
+      "surface": "הרכבת",
+      "gloss": "minidin"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "insanları"
+    },
+    {
+      "surface": "לראשנו",
+      "gloss": "başımızın üstündə"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "girdik"
+    },
+    {
+      "surface": "באש",
+      "gloss": "oda"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "və suya"
+    },
+    {
+      "surface": "וותוציאנו",
+      "gloss": "və çıxartdın bizi"
+    },
+    {
+      "surface": "לרויה",
+      "gloss": "doyumlu yerə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:20:19.008411942Z",
+  "model": "glm-5.3"
+}

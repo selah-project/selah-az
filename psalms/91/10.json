@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 91,
+  "translation": "Sənə pislik yetişməyəcək, və müsibət çadırına yaxınlaşmayacaq.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "yetişməyəcək"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pislik"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "və müsibət"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "yaxınlaşmayacaq"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "çadırına"
+    }
+  ],
+  "timestamp": "2026-09-01T15:31:22.015627674Z",
+  "model": "glm-5.3"
+}

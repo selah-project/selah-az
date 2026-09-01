@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 8:3",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və sular yerin üstündən geri qayıtdı, gedib-qayıdarkən; və sular yüz əlli günün sonunda azaldı.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "geri qayıtdı"
+    },
+    {
+      "surface": "המים",
+      "gloss": "sular"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "üstündən"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "gedib"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "qayıdarkən"
+    },
+    {
+      "surface": "ויחסרו",
+      "gloss": "azaldı"
+    },
+    {
+      "surface": "המים",
+      "gloss": "sular"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "sonunda"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "əlli"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "və yüz"
+    },
+    {
+      "surface": "יום",
+      "gloss": "günün"
+    }
+  ],
+  "timestamp": "2026-09-01T09:47:53.671299057Z",
+  "model": "glm-5.3"
+}

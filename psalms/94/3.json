@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 94:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 94,
+  "translation": "Nə qədər, Yahve, pislik edənlər, nə qədər pislik edənlər sevinəcəklər?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "nə qədər"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "nə vaxta qədər"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "pislik edənlər"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nə qədər"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "nə vaxta qədər"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "pislik edənlər"
+    },
+    {
+      "surface": "יעלozu",
+      "gloss": "sevinəcəklər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:32:19.419666493Z",
+  "model": "glm-5.3"
+}

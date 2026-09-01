@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Yas çəkdi, solub qıc olub torpaq; zəiflədi, solub qıc olub dünyə; zəiflədi torpağın xalqının ucalığı.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "Yas çəkdi"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "solub qıcıb"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "torpaq"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "zəiflədi"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "solub qıcıb"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dünyə"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "zəiflədi"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ucalığı"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalqının"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "torpağın"
+    }
+  ],
+  "timestamp": "2026-09-01T12:58:35.205982341Z",
+  "model": "glm-5.3"
+}

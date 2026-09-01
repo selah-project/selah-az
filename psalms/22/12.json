@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Uzaq olma məndən, çünki sıxıntı yaxındır, çünki kömək edən ⟨yoxdur⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "olma"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "uzaq"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "məndən"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "sıxıntı"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "yaxındır"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "kömək edən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:06:12.483355337Z",
+  "model": "glm-5.3"
+}

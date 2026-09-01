@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Onların piyi ⟨onları⟩ bağladı, onların ağzı lovğalıqla danışır.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "onların piyi"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "bağladı"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "onların ağzı"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "danışır"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "lovğalıqla"
+    }
+  ],
+  "timestamp": "2026-09-01T15:03:43.470205787Z",
+  "model": "glm-5.3"
+}

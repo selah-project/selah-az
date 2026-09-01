@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 10:13",
+  "book": "judges",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Və siz Məni tərk etdiniz və başqa elohlara qulluq etdiniz; buna görə artıq ⟨את⟩ sizə qurtuluş verməyəcəyəm.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "və siz"
+    },
+    {
+      "surface": "עזבתם",
+      "gloss": "tərk etdiniz"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ Məni",
+      "marks": "Məni"
+    },
+    {
+      "surface": "ותעבדו",
+      "gloss": "və qulluq etdiniz"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohlara"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "başqa"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "buna görə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "artıq yox"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "artıq verməyəcəyəm"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "qurtuluş"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizə"
+    }
+  ],
+  "timestamp": "2026-09-01T11:19:46.637117306Z",
+  "model": "glm-5.3"
+}

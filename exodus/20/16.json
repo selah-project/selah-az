@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Yoldaşına qarşı yalan şahidlik etməyəcəksan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "şahidlik etməyəcaksan"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "cavab vermək \/ şahidlik etmək"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "yoldaşına qarşı"
+    },
+    {
+      "surface": "עד",
+      "gloss": "şahid"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yalan"
+    }
+  ],
+  "timestamp": "2026-09-01T10:10:19.443820893Z",
+  "model": "glm-5.3"
+}

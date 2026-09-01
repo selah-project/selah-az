@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 17:2",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Ağıllı qul utanc verən oğul üzərində hökmranlıq edəcək və qardaşlar arasında mülk böləcək.",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "qul"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ağıllı"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "hökmranlıq edəcək"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "oğul üzərində"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "utanc verən"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "və arasında"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "qardaşlar"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "böləcək"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "mülk"
+    }
+  ],
+  "timestamp": "2026-09-01T15:54:55.107188230Z",
+  "model": "glm-5.3"
+}

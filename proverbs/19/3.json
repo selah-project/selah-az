@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 19:3",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Adamın dəlisilyaşlığı onun yolunu əyiridir, və ürəyi Yahveyə qarşı qəzəblənir.",
+  "tokens": [
+    {
+      "surface": "אולת",
+      "gloss": "dəlisilyaşlığı"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adamın"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "əyiridir"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "onun yolunu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "qarşı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יזעף",
+      "gloss": "qəzəblənir"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ürəyi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:56:41.123104261Z",
+  "model": "glm-5.3"
+}

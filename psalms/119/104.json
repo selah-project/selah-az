@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 104,
+  "ref": "psalms 119:104",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Sənin əmrlərindən anlayış qazanıram; buna görə hər bir yalan yolundan nifrət edirəm.",
+  "tokens": [
+    {
+      "surface": "מפקודיך",
+      "gloss": "Sənin əmrlərindən"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "anlayış qazanıram"
+    },
+    {
+      "surface": "על",
+      "gloss": "buna görə ... -a görə"
+    },
+    {
+      "surface": "כן",
+      "gloss": "buna görə"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "nifrət edirəm"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər bir"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "yolundan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yalan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:02.170008154Z",
+  "model": "glm-5.3"
+}

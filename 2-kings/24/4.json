@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 24:4",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "həm də tökdüyü günahsız qana görə — çünki o, Yeruşalayı günahsız qanla doldurmuşdu — Yahve bağışlamağa razı olmadı.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "həm də"
+    },
+    {
+      "surface": "דם",
+      "gloss": "qan"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "günahsız"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tökdüyü"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "töküb"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "doldurmuşdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeruşalımı"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalımı"
+    },
+    {
+      "surface": "דם",
+      "gloss": "qanla"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "günahsız"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və razı olmadı"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "razı olmadı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לסלח",
+      "gloss": "bağışlamağa"
+    }
+  ],
+  "timestamp": "2026-09-01T12:46:52.613376726Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 9:13",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Yahve İsraildan başı və quyruğu, xurma yarpağını və qamışı bir gündə kəsəcək.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "kəsəcək"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "İsraildan"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "baş"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "və quyruq"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "xurma yarpağı"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "və qamış"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    }
+  ],
+  "timestamp": "2026-09-01T12:51:04.819480993Z",
+  "model": "glm-5.3"
+}

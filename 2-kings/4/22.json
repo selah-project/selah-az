@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 4:22",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "O öz ərinə səsləndi və dedi: Mənə nə olar, bir oğlan qulardan və bir dişi eşşək göndər, mən Elohim adamının yanına qədər qaçım və qayıdam.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "səsləndi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "əri"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "göndər"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nə olar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "oğlan qular"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "və bir"
+    },
+    {
+      "surface": "האתנות",
+      "gloss": "dişi eşşək"
+    },
+    {
+      "surface": "וארוצה",
+      "gloss": "qaçım"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואשובה",
+      "gloss": "qayıdam"
+    }
+  ],
+  "timestamp": "2026-09-01T12:29:40.563417360Z",
+  "model": "glm-5.3"
+}

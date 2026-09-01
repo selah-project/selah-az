@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 8:6",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və Yahve, sənin Elohiminin ⟨את⟩ əmrlərini qoruyacaqsan, onun yollarında gəzmək üçün və ondan qorxmaq üçün.",
+  "tokens": [
+    {
+      "surface": "וושמרת",
+      "gloss": "və qoruyacaqsan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əmrlərini"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "əmrlərini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sənin Elohiminin"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "gəzmək üçün"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "onun yollarında"
+    },
+    {
+      "surface": "וליראה",
+      "gloss": "və qorxmaq üçün"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu"
+    }
+  ],
+  "timestamp": "2026-09-01T10:48:53.683748323Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 3:8",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və gördüm ki, geri dönmüş İsrail zina etdiyi bütün səbəblərə görə mən onu qovdum və ona boşanma sənədini verdim; amma onun xain bacısı Yehuda qorxmadı, hətta o da gedib zinalıq etdi.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "və gördüm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki, çünki"
+    },
+    {
+      "surface": "על",
+      "gloss": "görə"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "səbəblərə"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נאפה",
+      "gloss": "zina etdiyi"
+    },
+    {
+      "surface": "משבה",
+      "gloss": "geri dönmüş"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "שלחתיה",
+      "gloss": "onu qovdum"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "və verdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boşanma sənədini"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "sənədini"
+    },
+    {
+      "surface": "כריתתיה",
+      "gloss": "boşanma"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma ... yox"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "qorxmadı"
+    },
+    {
+      "surface": "בגדה",
+      "gloss": "xain"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "bacısı"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "və getdi"
+    },
+    {
+      "surface": "ותזן",
+      "gloss": "zinalıq etdi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hətta ... də"
+    },
+    {
+      "surface": "היא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-09-01T13:22:04.632225396Z",
+  "model": "glm-5.3"
+}

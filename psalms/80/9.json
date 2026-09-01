@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 80,
+  "translation": "Bir gəfəni Mitsrayimdan çıxartdın, xalqları qovdun və onu əkdin.",
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "bir gəfəni"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayimdan"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "çıxartdın"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "qovdun"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "xalqları"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "və onu əkdin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:27:13.873597305Z",
+  "model": "glm-5.3"
+}

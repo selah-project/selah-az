@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 12:11",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Torpağını işləyən çörəklə doyar, amma boş şeylərin dalınca gedən ürəkdən məhrumdur.",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "işləyən"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "torpağını"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "doyar"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "çörəklə"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "amma dalınca gedən"
+    },
+    {
+      "surface": "ריקים",
+      "gloss": "boş şeylərin"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "məhrumdur"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ürəkdən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:51:43.018721997Z",
+  "model": "glm-5.3"
+}

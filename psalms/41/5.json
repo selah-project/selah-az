@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 41,
+  "translation": "Mən dedim: Yahve, mənə lütf et, canımı sağalt, çünki Sənə qarşı günah etdim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "dedim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "mənə lütf et"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "sağalt"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "günah etdim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Sənə qarşı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:13:55.744504241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Elə bir nəsil var ki, atasını lənətləyir və ⟨את⟩ anasını xeyir-dua verməz.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "nəsil"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atasını"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "lənətləyir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anasını"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "anasını"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "xeyir-dua verməz"
+    }
+  ],
+  "timestamp": "2026-09-01T15:59:50.034067004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 16:25",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Çünki Yahve böyükdür və çox tərifəlayiqdir, bütün tanrıların üstündə ⟨o⟩ qorxuludur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "böyükdür"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "və tərifəlayiqdir"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çox"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "və qorxuludur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tanrıların"
+    }
+  ],
+  "timestamp": "2026-09-01T17:04:56.454385168Z",
+  "model": "glm-5.3"
+}

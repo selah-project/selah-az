@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 3:5",
+  "book": "lamentations",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Əleyhimə tikdi ⟨və⟩ məni ⟨acı⟩ ⟨zəhər⟩ və əziyyətlə doladı.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "tikdi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "əleyhimə"
+    },
+    {
+      "surface": "ויקף",
+      "gloss": "⟨və⟩ doladı"
+    },
+    {
+      "surface": "ראş",
+      "gloss": "⟨zəhər⟩"
+    },
+    {
+      "surface": "ותלאה",
+      "gloss": "əziyyət"
+    }
+  ],
+  "timestamp": "2026-09-01T16:25:42.456355828Z",
+  "model": "glm-5.3"
+}

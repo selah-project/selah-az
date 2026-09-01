@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Həqiqətən, siz ⟨o⟩ xalqsınız, və sizinlə birlikdə hikmət ölü ⟨olacaq⟩.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "həqiqətən"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ki⟩"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "və sizinlə birlikdə"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ölü"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmət"
+    }
+  ],
+  "timestamp": "2026-09-01T16:08:00.860489776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Qüvvəniz boş yerə tükənəcək, və torpağınız ⟨את⟩ məhsulunu verməyəcək, və ölkənin ağacı meyvəsini verməyəcək.",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "tükənəcək"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "boş yerə"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "qüvvəniz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... yox"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "verməyəcək"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "torpağınız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "məhsulunu"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "məhsulunu"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "və ağacı"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ölkənin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "verməyəcək"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "meyvəsini"
+    }
+  ],
+  "timestamp": "2026-09-01T10:31:47.925039068Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 37:35",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Şəri gördüm ⟨mən⟩ — amansız ⟨idi⟩, özünü yerli ağac kimi yarıb-yayırdı, yarpaqlı-göyərtli.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "gördüm"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "şəri"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "amansız"
+    },
+    {
+      "surface": "ומתערה",
+      "gloss": "özünü yarıb-yayırdı"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "yerli ağac kimi"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "yarpaqlı-göyərtli"
+    }
+  ],
+  "timestamp": "2026-09-01T17:41:51.114291132Z",
+  "model": "glm-5.3"
+}

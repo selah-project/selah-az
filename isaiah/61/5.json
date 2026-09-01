@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 61:5",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 61,
+  "translation": "Və xariclər dayanacaq və qoyunlarınızı otardacaq, və yad övladları sizin əkinçiləriniz və bağbanlarınız olacaq.",
+  "tokens": [
+    {
+      "surface": "ועמדו",
+      "gloss": "dayanacaq"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "xariclər"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "otardacaq"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "qoyunlarınızı"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "övladları"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "yad"
+    },
+    {
+      "surface": "אכריכם",
+      "gloss": "əkinçiləriniz"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "bağbanlarınız"
+    }
+  ],
+  "timestamp": "2026-09-01T13:17:53.553877829Z",
+  "model": "glm-5.3"
+}

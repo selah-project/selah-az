@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Novax getdi və ⟨את⟩ Kenatı və onun qızlarını ələ keçirdi və onu öz adı ilə Novax adlandırdı.",
+  "tokens": [
+    {
+      "surface": "וונבח",
+      "gloss": "və Novax"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "getdi"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "və ələ keçirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenatı"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "Kenat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "onun qızlarını"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "onun qızlarını (kəndlərini)"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "və adlandırdı"
+    },
+    {
+      "surface": "לה",
+      "gloss": "onu"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "Novax"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "öz adı ilə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:43:23.869275423Z",
+  "model": "glm-5.3"
+}

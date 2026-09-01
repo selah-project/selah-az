@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 127,
+  "translation": "Oxlar qüdrətli adamın əlində olduğu kimi, gəncliyin oğulları da ⟨belədir⟩.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "oxlar kimi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "əlində"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "qüdrətli adamın"
+    },
+    {
+      "surface": "כן",
+      "gloss": "beləcə"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "gəncliyin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:43:33.101173414Z",
+  "model": "glm-5.3"
+}

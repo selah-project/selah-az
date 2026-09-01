@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 3:22",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və Yahvenin əli orada mənim üstümə ⟨idi⟩, və mənə dedi: Qalx, çıx dərəyə, və orada ⟨את⟩ səninlə danışacağam.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "idi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mənim üstümə"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "יד",
+      "gloss": "əli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "קום",
+      "gloss": "qalx"
+    },
+    {
+      "surface": "צא",
+      "gloss": "çıx"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a doğru"
+    },
+    {
+      "surface": "הבקעה",
+      "gloss": "dərəyə"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "və orada"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "danışacağam"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ səninlə"
+    }
+  ],
+  "timestamp": "2026-09-01T14:01:33.184531183Z",
+  "model": "glm-5.3"
+}

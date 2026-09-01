@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 7:7",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Hamısı təndir kimi qızışdı və ⟨את⟩ hakimlərini yedilər; bütün kralları düşdü, aralarında mənə çağıran ⟨yoxdur⟩.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "hamısı"
+    },
+    {
+      "surface": "יחמו",
+      "gloss": "qızışdı"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "təndir kimi"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "və yedilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hakimlərini"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "hakimlərini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "kralları"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "düşdü"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "çağıran"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "aralarında"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənə"
+    }
+  ],
+  "timestamp": "2026-09-01T14:37:47.213997238Z",
+  "model": "glm-5.3"
+}

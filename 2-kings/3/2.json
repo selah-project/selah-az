@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 3:2",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və Yahvenin gözündə pisliyi etdi, yalnız atası kimi və anası kimi ⟨yox⟩; və atasının etdiyi Baal sütununu ⟨את⟩ yığışdırdı.",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "Və etdi"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "pisliyi"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "gözündə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "רק",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨yox⟩"
+    },
+    {
+      "surface": "כאביו",
+      "gloss": "atası kimi"
+    },
+    {
+      "surface": "וכאמו",
+      "gloss": "və anası kimi"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "və yığışdırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baal sütununu"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "sütunu"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etdiyi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atasının"
+    }
+  ],
+  "timestamp": "2026-09-01T12:29:24.934755194Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 8:1",
+  "book": "amos",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Belə göstərdi mənə Adonay Yahve, və bax — bir yay məhsulu səbəti.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "belə"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "göstərdi mənə"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "və bax"
+    },
+    {
+      "surface": "כלוב",
+      "gloss": "səbət"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "yay məhsulu"
+    }
+  ],
+  "timestamp": "2026-09-01T14:42:16.817555537Z",
+  "model": "glm-5.3"
+}

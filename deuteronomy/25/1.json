@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 25:1",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "⟨Əgər⟩ insanlar arasında mübahisə olsa və məhkəməyə gəlsinlər, onları mühakimə etsinlər: haqlını haqlı, haqsızı haqsız elan etsinlər — ⟨את⟩ haqlını haqlı, ⟨את⟩ haqsızı haqsız.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "⟨əgər⟩"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olsa"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "mübahisə"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "insanlar"
+    },
+    {
+      "surface": "ונגשו",
+      "gloss": "gəlsinlər"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "məhkəmə"
+    },
+    {
+      "surface": "ושפטום",
+      "gloss": "mühakimə etsinlər"
+    },
+    {
+      "surface": "והצדיקו",
+      "gloss": "haqlı elan etsinlər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haqlını"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "haqlı"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "haqsız elan etsinlər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haqsızı"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "haqsız"
+    }
+  ],
+  "timestamp": "2026-09-01T10:54:08.312499580Z",
+  "model": "glm-5.3"
+}

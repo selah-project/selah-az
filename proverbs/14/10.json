@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 14:10",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Ürək öz canının acılığını bilir, öz sevincinə isə yad ⟨adam⟩ qarışmaz.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "ürək"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "bilir"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "acılığını"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "öz canının"
+    },
+    {
+      "surface": "ובשמחתו",
+      "gloss": "öz sevincinə isə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...maz"
+    },
+    {
+      "surface": "יתערב",
+      "gloss": "qarış-"
+    },
+    {
+      "surface": "זר",
+      "gloss": "yad"
+    }
+  ],
+  "timestamp": "2026-09-01T15:51:56.000768844Z",
+  "model": "glm-5.3"
+}

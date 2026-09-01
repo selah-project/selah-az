@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 12:6",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Kahinlər özlərinə götürsünlər, hər biri öz tanışından ⟨את⟩; onlar evin çatını ⟨את⟩ möhkəmləndirsinlər, hər yerdə ki, orada çat tapılar.",
+  "tokens": [
+    {
+      "surface": "יקחו",
+      "gloss": "götürsünlər"
+    },
+    {
+      "surface": "להם",
+      "gloss": "özlərinə"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kahinlər"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər biri"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩-dan",
+      "marks": "öz tanışından"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "öz tanışından"
+    },
+    {
+      "surface": "והם",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "יחזקו",
+      "gloss": "möhkəmləndirsinlər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "evin çatını"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "çatını"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "evin"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hər ⟨yerə⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "tapılar"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "çat"
+    }
+  ],
+  "timestamp": "2026-09-01T12:37:11.924290772Z",
+  "model": "glm-5.3"
+}

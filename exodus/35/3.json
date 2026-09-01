@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "Şabbat günü bütün sığınacaqlarınızda od yandırmayacaqsınız.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "yandırmayacaqsınız"
+    },
+    {
+      "surface": "אש",
+      "gloss": "od"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "sığınacaqlarınızda"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "günündə"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Şabbatın"
+    }
+  ],
+  "timestamp": "2026-09-01T10:20:21.381097979Z",
+  "model": "glm-5.3"
+}

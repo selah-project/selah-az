@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 91,
+  "translation": "Əlləri üstündə daşıyacaqlar səni, bəlkə ayağın daşa dəyməsin deyə.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "əlləri"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "daşıyacaqlar səni"
+    },
+    {
+      "surface": "פן",
+      "gloss": "bəlkə...deyə"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "dəyməsin"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "daşa"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ayağın"
+    }
+  ],
+  "timestamp": "2026-09-01T15:31:22.015877098Z",
+  "model": "glm-5.3"
+}

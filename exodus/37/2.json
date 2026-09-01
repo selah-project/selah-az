@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 37:2",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Onu içdən və xaricdən təmiz qızılla örtdü və ona ətrafına qızıl haşiyə düzəltdi.",
+  "tokens": [
+    {
+      "surface": "ויצפהו",
+      "gloss": "onu örtdü"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "qızılla"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "təmiz"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "içdən"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "və xaricdən"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "düzəltdi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "זר",
+      "gloss": "haşiyə"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "qızıl"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ətrafına"
+    }
+  ],
+  "timestamp": "2026-09-01T10:20:50.078248510Z",
+  "model": "glm-5.3"
+}

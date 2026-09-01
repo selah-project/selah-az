@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 15:30",
+  "book": "job",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Qaranlıqdan yayınmayacaq, onun cücərtisini alov qurudacaq, və onun ağzının ⟨nəfəsi⟩ ilə ⟨o⟩ yox olacaq.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "yayınacaq"
+    },
+    {
+      "surface": "מני",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "qaranlıq"
+    },
+    {
+      "surface": "ינקתו",
+      "gloss": "onun cücərtisi"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "qurudacaq"
+    },
+    {
+      "surface": "שלהבת",
+      "gloss": "alov"
+    },
+    {
+      "surface": "ויסור",
+      "gloss": "və yox olacaq"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "nəfəsi ilə"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "onun ağzının"
+    }
+  ],
+  "timestamp": "2026-09-01T16:10:02.971283040Z",
+  "model": "glm-5.3"
+}

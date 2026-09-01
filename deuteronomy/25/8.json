@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 25:8",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Və şəhərinin qocaları onu çağırsınlar və onunla danışsınlar; o isə dayanıb desin: istəmirəm, onu götürmək istəmirəm.",
+  "tokens": [
+    {
+      "surface": "וקראו",
+      "gloss": "və çağırsınlar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onu"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "qocaları"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "şəhərinin"
+    },
+    {
+      "surface": "ודברו",
+      "gloss": "və danışsınlar"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "dayanıb"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "və desin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "istəmirəm"
+    },
+    {
+      "surface": "לקחתה",
+      "gloss": "onu götürmək"
+    }
+  ],
+  "timestamp": "2026-09-01T17:31:10.230193413Z",
+  "model": "glm-5.3"
+}

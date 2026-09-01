@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 60,
+  "translation": "Mənimdir Gilad, mənimdir Menaşşe, Efrayim ⟨is⟩ başımın qalası, Yehuda ⟨is⟩ mənim qanunqoyanım.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "mənimdir"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "və mənimdir"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menaşşe"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "və Efrayim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "qala"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "başımın"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "qanunqoyanım"
+    }
+  ],
+  "timestamp": "2026-09-01T15:20:16.265955637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 16:21",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "«Bu icmanın içindən ayrılın, mən onları ⟨את⟩ bir anda yox edim.»",
+  "tokens": [
+    {
+      "surface": "הבדלו",
+      "gloss": "ayrılın"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "içindən"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "icmanın"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ו אכלה",
+      "gloss": "mən yox edim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "bir anda"
+    }
+  ],
+  "timestamp": "2026-09-01T10:38:26.848955982Z",
+  "model": "glm-5.3"
+}

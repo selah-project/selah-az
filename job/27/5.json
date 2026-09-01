@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 27:5",
+  "book": "job",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Mənə uzaq olsun ki, sizə haqq verim; ölənədək təmizliyimi özümdən çəkib götürməyəcəyəm.",
+  "tokens": [
+    {
+      "surface": "חלילה",
+      "gloss": "mənə uzaq olsun"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "haqq verim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "sizi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ölənədək"
+    },
+    {
+      "surface": "אגוע",
+      "gloss": "ölənədək (nəfəsimi verənədək)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "çəkib götürməyəcəyəm"
+    },
+    {
+      "surface": "תמתי",
+      "gloss": "təmizliyimi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "özümdən"
+    }
+  ],
+  "timestamp": "2026-09-01T16:12:35.170931327Z",
+  "model": "glm-5.3"
+}

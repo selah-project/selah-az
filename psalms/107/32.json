@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 107,
+  "translation": "Xalqın məclisində onu ucaltsınlar və qocaların məclisində onu mədh etsinlər.",
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "və onu ucaltsınlar"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "məclisində"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalqın"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "və yığıncağında"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "qocaların"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "onu mədh etsinlər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:58.723795485Z",
+  "model": "glm-5.3"
+}

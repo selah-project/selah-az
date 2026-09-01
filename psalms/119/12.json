@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Sən mübarəksən, ya Yahve; mənə qanunlarını öyrət.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "mübarək"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "mənə öyrət"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "qanunlarını"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:46.824563123Z",
+  "model": "glm-5.3"
+}

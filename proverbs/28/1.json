@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 28:1",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "Pis ⟨adam⟩ qaçır, təqib edən yoxdur; salehlər isə gənc şir kimi etibar edirlər.",
+  "tokens": [
+    {
+      "surface": "נסו",
+      "gloss": "qaçır"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "təqib edən"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "pis ⟨adam⟩"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "salehlər isə"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "gənc şir kimi"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "etibar edirlər"
+    }
+  ],
+  "timestamp": "2026-09-01T16:01:00.563196129Z",
+  "model": "glm-5.3"
+}

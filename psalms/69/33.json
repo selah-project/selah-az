@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 69:33",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 69,
+  "translation": "Məzlumlar ⟨bu⟩ görəcək, sevinəcək; Elohim axtaranlar — ürəyiniz yaşasın.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "görəcək"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "məzlumlar"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "sevinəcək"
+    },
+    {
+      "surface": "דרשי",
+      "gloss": "axtaranlar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "yaşasın"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ürəyiniz"
+    }
+  ],
+  "timestamp": "2026-09-01T15:22:33.172858927Z",
+  "model": "glm-5.3"
+}

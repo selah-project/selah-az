@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 3:16",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və dedi: \"Yahve belə deyir: Bu dərəyə xəndəklər-xəndəklər qazın.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "כה",
+      "gloss": "belə"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qazın"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "bu dərəyə"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "xəndəklər"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "xəndəklər"
+    }
+  ],
+  "timestamp": "2026-09-01T12:28:45.359210235Z",
+  "model": "glm-5.3"
+}

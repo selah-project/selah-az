@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Yadda saxla rəhmlərini, Yahve, və hesedlərini, çünki əzəldəndirlər ⟨onlar⟩.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Yadda saxla"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "rəhmlərini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "və hesedlərini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "əzəldən"
+    },
+    {
+      "surface": "המה",
+      "gloss": "onlardır"
+    }
+  ],
+  "timestamp": "2026-09-01T15:08:44.997573307Z",
+  "model": "glm-5.3"
+}

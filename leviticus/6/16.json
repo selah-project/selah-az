@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Və kahinin hər unumu tam olacaq; yeyilməyəcək.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "və hər"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "unumu"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kahinin"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "tam"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yeyilməyəcək"
+    }
+  ],
+  "timestamp": "2026-09-01T10:24:03.983360898Z",
+  "model": "glm-5.3"
+}

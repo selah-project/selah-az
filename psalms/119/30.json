@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "İman yolunu seçdim, məhkəmələrini ⟨özümə⟩ uyğunlaşdırdım.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "yolunu"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "iman"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "seçdim"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "məhkəmələrini"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "uyğunlaşdırdım"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:52.307815694Z",
+  "model": "glm-5.3"
+}

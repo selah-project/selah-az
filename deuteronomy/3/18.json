@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 3:18",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "O zamanda sizə ⟨את⟩ əmr etdim, dedim: Yahve, Elohiminiz sizə ⟨את⟩ bu torpağı onu var etmək üçün verir; silahlanmış ⟨kimi⟩ qardaşlarınızın, İsrail oğullarının, bütün igid oğulların önündən keçin.",
+  "tokens": [
+    {
+      "surface": "ואצו",
+      "gloss": "əmr etdim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizə"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "o zamanda"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dedim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiminiz"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verir"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu torpağı"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "torpağı"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "onu var etmək üçün"
+    },
+    {
+      "surface": "חלוצים",
+      "gloss": "silahlanmış"
+    },
+    {
+      "surface": "תעברו",
+      "gloss": "keçin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önündən"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "qardaşlarınızın"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "igid"
+    }
+  ],
+  "timestamp": "2026-09-01T10:47:07.234482002Z",
+  "model": "glm-5.3"
+}

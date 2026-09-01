@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 3:7",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və onlar onun gözləməsini gözləsinlər ⟨את⟩, və bütün cəmiyyətin gözləməsini ⟨את⟩ görüş çadırının qarşısında, məskənin xidmətini görmək üçün ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "və … gözləsinlər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onun gözləməsini"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "onun gözləməsini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "gözləməsini"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "gözləməsini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "cəmiyyətin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "qarşısında"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadırının"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "görüş"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "görmək üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xidmətini"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "xidmətini"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "məskənin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:33:18.006649097Z",
+  "model": "glm-5.3"
+}

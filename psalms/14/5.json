@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Orada qorxdular böyük qorxu, çünki Elohim saleh ⟨insanların⟩ nəslindədir.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Orada"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "qorxdular"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "qorxu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "nəslində"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "saleh"
+    }
+  ],
+  "timestamp": "2026-09-01T15:04:04.704238513Z",
+  "model": "glm-5.3"
+}

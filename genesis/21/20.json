@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Və Elohim oğlanın ⟨את⟩ ilə ⟨idi⟩, və o böyüdü, və səhrada yaşadı, və oxçu kimi yetişdi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "idi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ilə"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "oğlanın"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "böyüdü"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "yaşadı"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "səhrada"
+    },
+    {
+      "surface": "והי",
+      "gloss": "⟨oldu⟩"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "yetişdi"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "oxçu"
+    }
+  ],
+  "timestamp": "2026-09-01T17:26:08.760460671Z",
+  "model": "glm-5.3"
+}

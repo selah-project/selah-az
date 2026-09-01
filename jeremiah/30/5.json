@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 30:5",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Çünki belə deyir Yahve: Titrəmə səsi eşitdik — qorxu ⟨var⟩, sülam yoxdur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "כה",
+      "gloss": "belə"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "קול",
+      "gloss": "səsi"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "titrəmə"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "eşitdik"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "qorxu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sülam"
+    }
+  ],
+  "timestamp": "2026-09-01T13:41:37.077300960Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "⟨Məgər⟩ El məhkəməni əyir mi? Yoxsa Şadday salehliyi əyir mi?",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "əyir mi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "məhkəməni"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "yoxsa"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Şadday"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "əyir mi"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "salehliyi"
+    }
+  ],
+  "timestamp": "2026-09-01T16:05:25.770073074Z",
+  "model": "glm-5.3"
+}

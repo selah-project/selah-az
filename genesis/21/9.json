@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Sara Hagarın — Mitsrayimlinin — Avrahama doğduğu oğlanı ⟨את⟩ oynayar-gülərkən gördü.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "gördü"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oğlanı"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlanı"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagarın"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "Mitsrayimlinin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "doğduğu"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avrahama"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "oynayar-gülərkən"
+    }
+  ],
+  "timestamp": "2026-09-01T09:51:27.911340817Z",
+  "model": "glm-5.3"
+}

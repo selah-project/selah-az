@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 101,
+  "translation": "Gözlərim ölkənin sadiq adamlarına ⟨olacaq⟩ ki, mənimlə otursunlar; tam yol ilə gedən — o, mənə xidmət edəcək.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "gözlərim"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "sadiq adamlarına"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ölkənin"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "otursunlar"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "mənimlə"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "gedən"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yol ilə"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "tam"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "mənə xidmət edəcək"
+    }
+  ],
+  "timestamp": "2026-09-01T15:35:05.743024868Z",
+  "model": "glm-5.3"
+}

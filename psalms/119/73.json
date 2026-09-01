@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 73,
+  "ref": "psalms 119:73",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Yod. Əllərin məni yaratdı və məni qurdu; mənə anlama ver ki, sənin əmrlərinizi öyrənim.",
+  "tokens": [
+    {
+      "surface": "ידיך",
+      "gloss": "əllərin"
+    },
+    {
+      "surface": "עשוני",
+      "gloss": "məni yaratdı"
+    },
+    {
+      "surface": "ויכוננוני",
+      "gloss": "və məni qurdu"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "mənə anlama ver"
+    },
+    {
+      "surface": "ואלמדה",
+      "gloss": "ki, öyrənim"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "sənin əmrlərin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:23.921189150Z",
+  "model": "glm-5.3"
+}

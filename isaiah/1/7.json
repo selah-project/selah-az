@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Torpağınız viranədir, şəhərləriniz odla yandırılıb; torpağınızı sizin gözünüz önündə yadlar yeyir və o, yadların devirməsi kimi viranədir.",
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "torpağınız"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "viranədir"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "şəhərləriniz"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "yandırılıb"
+    },
+    {
+      "surface": "אש",
+      "gloss": "odla"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "torpağınızı"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "gözünüz önündə"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "yadlar"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "yeyir"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "torpağınızı"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "viranədir"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "devirməsi kimi"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "yadların"
+    }
+  ],
+  "timestamp": "2026-09-01T12:46:06.286997122Z",
+  "model": "glm-5.3"
+}

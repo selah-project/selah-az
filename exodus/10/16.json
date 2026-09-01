@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 10:16",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Və Paro Moşeni və Əhəronu çağırmağa tələsdi və dedi: Yahveyə, sizin Elohiminizə və sizə qarşı günah etdim.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "tələsdi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "çağırmağa"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moşeni"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "və Əhəronu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "günah etdim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "sizin Elohiminizə"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "və sizə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:07:42.766394196Z",
+  "model": "glm-5.3"
+}

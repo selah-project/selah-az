@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 119:46",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Və şahidlərindən danışacağam padşahların qarşısında və utandırılmayacağam.",
+  "tokens": [
+    {
+      "surface": "ואדברה",
+      "gloss": "və danışacağam"
+    },
+    {
+      "surface": "בעדתיך",
+      "gloss": "şahidlərindən"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "qarşısında"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "padşahların"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və… yox"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "utandırılmayacağam"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:50.449857895Z",
+  "model": "glm-5.3"
+}

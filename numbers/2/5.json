@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 2:5",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Onun yanında düşərgə salanlar İssaskar qəbiləsidir, İssaskar oğullarının ağası isə Netanel, Tzuar oğludur.",
+  "tokens": [
+    {
+      "surface": "והחנים",
+      "gloss": "düşərgə salanlar"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun yanında"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "qəbiləsi"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "İssaskar"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "ağası"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "İssaskar"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Netanel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Tzuar"
+    }
+  ],
+  "timestamp": "2026-09-01T10:32:37.861843679Z",
+  "model": "glm-5.3"
+}

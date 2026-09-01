@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 16:7",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Və Yahvenin mələyi onu sular gözəyinin yanında, səhrada, Şur yolundakı gözəyin yanında tapdı.",
+  "tokens": [
+    {
+      "surface": "וימצאה",
+      "gloss": "və onu tapdı"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mələyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "על",
+      "gloss": "yanında"
+    },
+    {
+      "surface": "עין",
+      "gloss": "gözəyi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "sular"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "səhrada"
+    },
+    {
+      "surface": "על",
+      "gloss": "yanında"
+    },
+    {
+      "surface": "העין",
+      "gloss": "gözəyin"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolunda"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Şur"
+    }
+  ],
+  "timestamp": "2026-09-01T09:50:38.959004791Z",
+  "model": "glm-5.3"
+}

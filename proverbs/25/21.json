@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 25:21",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Əgər səni sevən⟨sənin⟩ düşmənin ac olarsa, ona çörək yedizdir; və susuzsa, ona su içir.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "ac"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "sənə nifrət edən"
+    },
+    {
+      "surface": "האכלהו",
+      "gloss": "ona yedizdir"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "çörək"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "susuz"
+    },
+    {
+      "surface": "השקהו",
+      "gloss": "ona içir"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    }
+  ],
+  "timestamp": "2026-09-01T15:57:51.339331904Z",
+  "model": "glm-5.3"
+}

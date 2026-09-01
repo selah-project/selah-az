@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 37:28",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Çünki Yahve mühakiməni sevir və ⟨את⟩ öz sadiqlərini tərk etməz; onlar əbədə qədər qorunurlar, lakin pislərin nəsli kəsiləcək.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "sevir"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mühakiməni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və etməz"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "tərk etməz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öz sadiqlərini"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "öz sadiqlərini"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədə qədər"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "qorunurlar"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "lakin nəsli"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "pislərin"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "kəsiləcək"
+    }
+  ],
+  "timestamp": "2026-09-01T15:13:08.011613735Z",
+  "model": "glm-5.3"
+}

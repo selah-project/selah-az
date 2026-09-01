@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Hər biri çubuğunu atdı və onlar əjdəhalara çevrildilər; Ahronun çubuğu isə onların çubuqlarını uddu.",
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "atdı"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər biri"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "çubuğunu"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "və oldular"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "əjdəhalara"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "uddu"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "çubuğu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahronun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onların çubuqlarını"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "onların çubuqlarını"
+    }
+  ],
+  "timestamp": "2026-09-01T10:05:09.877049659Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 89:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 89,
+  "translation": "Müqəddəslərin məclisində çox qorxulu El, və ətrafındakıların hamısı üzərində qorxuludur.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נערץ",
+      "gloss": "qorxulu"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "məclisində"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "müqəddəslərin"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "çox"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "və qorxuludur"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərində"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamısı"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "ətrafındakıların"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:45.506034165Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 52:10",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 52,
+  "translation": "və Babil kralı Sidqiyanın oğullarını ⟨את⟩ onun gözlərinin önündə kəsdi; həm də Yəhudanın bütün sərkərdələrini ⟨את⟩ Riblada kəsdi.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "kəsdi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oğullarını"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Sidqiyanın"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "gözlərinin önündə"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "həm də"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün sərkərdələrini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "sərkərdələrini"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yəhudanın"
+    },
+    {
+      "surface": "שחט",
+      "gloss": "kəsdi"
+    },
+    {
+      "surface": "ברבלתה",
+      "gloss": "Riblada"
+    }
+  ],
+  "timestamp": "2026-09-01T13:58:49.735663281Z",
+  "model": "glm-5.3"
+}

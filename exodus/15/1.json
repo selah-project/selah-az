@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 15:1",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Onda Moşe və İsrailin oğulları Yahveyə ⟨את⟩ bu nəğməni oxudular və dedilər, deyə: Yahveyə oxuyacağam, çünki o, ucalmış ucaldı; atı və onun süvarisini dənizə atdı.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Onda"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "oxudular"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "və oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu nəğməni"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "bu nəğməni"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "və dedilər"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyə"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "oxuyacağam"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "ucalmış"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "ucaldı"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "atı"
+    },
+    {
+      "surface": "ורכבו",
+      "gloss": "və onun süvarisini"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "atdı"
+    },
+    {
+      "surface": "בים",
+      "gloss": "dənizə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:10:01.206568583Z",
+  "model": "glm-5.3"
+}

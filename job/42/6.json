@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "az",
+  "chapter": 42,
+  "translation": "Buna görə ⟨özümü⟩ rədd edirəm və toz və kül üzərində peşman oluram.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "buna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "görə"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "rədd edirəm"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "və peşman oluram"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərində"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "toz"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "və kül"
+    }
+  ],
+  "timestamp": "2026-09-01T16:22:20.545826358Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "O, onların qəlblərini bir yerdə formalaşdırır, onların bütün əməllərinə diqqətlə baxır.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "formalaşdırır"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bir yerdə"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "onların qəlblərini"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "diqqətlə baxır"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə doğru"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "onların əməllərinə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:11:20.895679594Z",
+  "model": "glm-5.3"
+}

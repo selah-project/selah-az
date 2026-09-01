@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "Çünki onlar Yahvenin əməllərinə və əllərinin işinə anlamırlar; ⟨o⟩ onları yıxacaq və onları tikməyəcək.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "anlayırlar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "əməllərinə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "işinə"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "əllərinin"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "onları yıxacaq"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və... yox"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "onları tikməyəcək"
+    }
+  ],
+  "timestamp": "2026-09-01T15:09:16.512605329Z",
+  "model": "glm-5.3"
+}

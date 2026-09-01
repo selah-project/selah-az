@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 28:21",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "Üzə tanımaq ⟨⟨yaxşı⟩⟩ deyil, və çörək qırıntısı üçün bir kişi üsyan edəcək.",
+  "tokens": [
+    {
+      "surface": "הכר",
+      "gloss": "tanımaq"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "üz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "deyil"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşı"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "və ... üçün"
+    },
+    {
+      "surface": "פת",
+      "gloss": "qırıntı"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "çörək"
+    },
+    {
+      "surface": "יפשע",
+      "gloss": "üsyan edəcək"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "kişi"
+    }
+  ],
+  "timestamp": "2026-09-01T16:00:35.598546838Z",
+  "model": "glm-5.3"
+}

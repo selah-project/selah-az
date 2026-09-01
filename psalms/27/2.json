@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Şər edənlər mənə yaxınlaşdılar ⟨את⟩ ətimi yemək üçün — sıxıntı verənlərim və düşmənlərim ⟨mənə⟩; onlar səndələdilər və yıxıldılar.",
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "yaxınlaşdılar"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "şər edənlər"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "yemək üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ətimi"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ətimi"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "sıxıntı verənlərim"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "və düşmənlərim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨mənə⟩"
+    },
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "səndələdilər"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "və yıxıldılar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:10:02.211562567Z",
+  "model": "glm-5.3"
+}

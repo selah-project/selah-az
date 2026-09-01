@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "və ⟨את⟩ Patrusimləri və ⟨את⟩ Kasluximləri — oradan Peliştim çıxdı — və ⟨את⟩ Kaptorimləri.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Patrusimləri"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "Patrusimləri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kasluximləri"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "Kasluximləri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "çıxdı"
+    },
+    {
+      "surface": "משם",
+      "gloss": "oradan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peliştim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kaptorimləri"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "Kaptorimləri"
+    }
+  ],
+  "timestamp": "2026-09-01T17:00:13.640006101Z",
+  "model": "glm-5.3"
+}

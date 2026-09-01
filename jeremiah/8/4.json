@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 8:4",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və sən onlara deyəcəksən: belə deyir Yahve: düşən adam yenidən qalxmazmı? geri dönən yenidən dönməzmi?",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "deyəcəksən"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "כה",
+      "gloss": "belə"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "היפלו",
+      "gloss": "düşən adam... qalxmazmı"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "qalxmaz"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "geri dönən"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "yenidən dönməzmi"
+    }
+  ],
+  "timestamp": "2026-09-01T13:28:12.722127050Z",
+  "model": "glm-5.3"
+}

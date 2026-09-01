@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 20:37",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Və ⟨o⟩ başqa bir kişi tapdı və dedi: «Vur məni, ⟨xahiş edirəm⟩.» Və kişi onu vurdu — vuraraq yaraladı.",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "tapdı"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kişi"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "başqa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "הכיני",
+      "gloss": "vur"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨xahiş edirəm⟩"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "və onu vurdu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "kişi"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "vuraraq"
+    },
+    {
+      "surface": "ופצע",
+      "gloss": "yaraladı"
+    }
+  ],
+  "timestamp": "2026-09-01T12:25:33.648260900Z",
+  "model": "glm-5.3"
+}

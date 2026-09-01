@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 92,
+  "translation": "Sənin hesed-ini səhər ⟨elan etməyə⟩, və sənin sadiqliyini gecələr ⟨elan etməyə⟩.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "elan etməyə"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "səhər"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "sənin hesed-ini"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "və sənin sadiqliyini"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "gecələr"
+    }
+  ],
+  "timestamp": "2026-09-01T15:32:53.911040134Z",
+  "model": "glm-5.3"
+}

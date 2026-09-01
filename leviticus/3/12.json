@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 3:12",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və qurbanı keçi olsa, onu Yahvenin hüzuruna təqdim etsin.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Və əgər"
+    },
+    {
+      "surface": "עז",
+      "gloss": "keçi"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "qurbanı"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "təqdim etsin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hüzuruna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:22:23.655073531Z",
+  "model": "glm-5.3"
+}

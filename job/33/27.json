@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 33:27",
+  "book": "job",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "O, insanların üstündən ⟨baxır⟩ və deyir: 'Mən günah etdim, düz olanı əyridim və bu, mənə fayda vermədi.'",
+  "tokens": [
+    {
+      "surface": "ישר",
+      "gloss": "⟨baxır⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündən"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "insanların"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və deyir"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "günah etdim"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "düz olanı"
+    },
+    {
+      "surface": "העויתי",
+      "gloss": "əyridim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... olmaz"
+    },
+    {
+      "surface": "שוה",
+      "gloss": "fayda verdi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    }
+  ],
+  "timestamp": "2026-09-01T16:16:30.770682462Z",
+  "model": "glm-5.3"
+}

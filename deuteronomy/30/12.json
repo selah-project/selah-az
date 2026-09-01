@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 30:12",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "O göylərdə deyil ki, ⟨sən⟩ deyəsən: kim bizim üçün göylərə qalxacaq və onu bizim üçün götürəcək və onu ⟨את⟩ bizə eşitdirəcək ki, biz onu edək?",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "deyil"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "göylərdə"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyəsən"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "qalxacaq"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizim üçün"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "göylərə"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "və götürəcək"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizim üçün"
+    },
+    {
+      "surface": "וישמענו",
+      "gloss": "və eşitdirəcək"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "onu (əmri)"
+    },
+    {
+      "surface": "ונעשנה",
+      "gloss": "ki, biz onu edək"
+    }
+  ],
+  "timestamp": "2026-09-01T17:31:07.841768950Z",
+  "model": "glm-5.3"
+}

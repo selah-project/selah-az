@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 2:6",
+  "book": "micah",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Təbliğ etməyin, — deyirlər, — təbliğ edirlər; bunlara təbliğ etməyəcəklər — rüsvayçılıq geri çəkilməyəcək.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "yox (qadağa)"
+    },
+    {
+      "surface": "תטפו",
+      "gloss": "təbliğ etməyin"
+    },
+    {
+      "surface": "יטיפון",
+      "gloss": "təbliğ edirlər"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יטפו",
+      "gloss": "təbliğ edəcəklər"
+    },
+    {
+      "surface": "לאלה",
+      "gloss": "bunlara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יסג",
+      "gloss": "geri çəkiləcək"
+    },
+    {
+      "surface": "כלמות",
+      "gloss": "rüsvayçılıq"
+    }
+  ],
+  "timestamp": "2026-09-01T14:46:29.015457583Z",
+  "model": "glm-5.3"
+}

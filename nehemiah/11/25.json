@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 11:25",
+  "book": "nehemiah",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Və ⟨onların⟩ tarlaları ilə birlikdə kəndlərdə Yehuda oğullarından bəziləri yaşayırdılar: Kiryat-Arba ⟨büyük şəhər⟩ və onun kəndlərində, Divonda və onun kəndlərində, Yekavtselda və onun kəndlərində.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "və ... -də"
+    },
+    {
+      "surface": "החצרים",
+      "gloss": "kəndlərində"
+    },
+    {
+      "surface": "בשדתם",
+      "gloss": "onların tarlaları ilə"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "oğullarından"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "yaşayırdılar"
+    },
+    {
+      "surface": "בקרית",
+      "gloss": "-də Kiryat"
+    },
+    {
+      "surface": "הארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "və onun kəndlərində"
+    },
+    {
+      "surface": "ובדיבן",
+      "gloss": "və Divonda"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "və onun kəndlərində"
+    },
+    {
+      "surface": "וביקבצאל",
+      "gloss": "və Yekavtselda"
+    },
+    {
+      "surface": "וחצריה",
+      "gloss": "və onun kəndlərində"
+    }
+  ],
+  "timestamp": "2026-09-01T16:58:02.901828735Z",
+  "model": "glm-5.3"
+}

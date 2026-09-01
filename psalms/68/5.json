@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 68:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 68,
+  "translation": "Elohimə oxuyun, adına çalın ⟨onu⟩ alqışlayın; səhralarda sürtləyən ⟨o lanə⟩ üçün yol düzəldin; Onun adı Yahdır, Onun önündə sevinin.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "oxuyun"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimə"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "çalın"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "adına"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "yol düzəldin"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "sürtləyənə"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "səhralarda"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "Yahdadır"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "adı"
+    },
+    {
+      "surface": "ועלזו",
+      "gloss": "və sevinin"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "Onun önündə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:22:07.946024194Z",
+  "model": "glm-5.3"
+}

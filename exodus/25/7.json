@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 25:7",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "şoham daşları, və efod və xoşen üçün təyin olunmuş daşlar;",
+  "tokens": [
+    {
+      "surface": "אבני",
+      "gloss": "daşları"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "şoham"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "və daşları"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "təyin olunmuş (qəlibə yerləşdirilmiş)"
+    },
+    {
+      "surface": "לאפד",
+      "gloss": "efod üçün"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "və xoşen üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:16:11.896094249Z",
+  "model": "glm-5.3"
+}

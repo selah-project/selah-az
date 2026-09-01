@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 21:17",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Ehtiyac içindəki adam şadlığı sevir, şərab və yağ sevən zəngin olmayacaq.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "ehtiyac içindəki"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "sevir"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "şadlığı"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "sevən"
+    },
+    {
+      "surface": "יין",
+      "gloss": "şərab"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "və yağ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...mayacaq (inkar)"
+    },
+    {
+      "surface": "יעשיר",
+      "gloss": "zəngin ol"
+    }
+  ],
+  "timestamp": "2026-09-01T15:56:35.875705889Z",
+  "model": "glm-5.3"
+}

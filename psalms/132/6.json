@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 132:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 132,
+  "translation": "Bax, onu Efratada eşitdik, onu Yaarın (meşənin) tarlalarında tapdıq.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bax"
+    },
+    {
+      "surface": "שמענוה",
+      "gloss": "onu eşitdik"
+    },
+    {
+      "surface": "באפרתה",
+      "gloss": "Efratada"
+    },
+    {
+      "surface": "מצאנוה",
+      "gloss": "onu tapdıq"
+    },
+    {
+      "surface": "בשדי",
+      "gloss": "tarlalarında"
+    },
+    {
+      "surface": "יער",
+      "gloss": "Yaarın"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:21.510146456Z",
+  "model": "glm-5.3"
+}

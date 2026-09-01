@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Dirijora, Gittit üzərində — Dawidin məzmuru.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Dirijora"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərində"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Gittit"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "məzmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidin (üçün)"
+    }
+  ],
+  "timestamp": "2026-09-01T15:02:45.418747690Z",
+  "model": "glm-5.3"
+}

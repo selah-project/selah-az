@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 18:10",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Oğlunun qızının və ya qızının qızının çılpaqlığını açma; onların çılpaqlığını açma, çünki onlar sənin çılpaqlığındır ⟨sandırlar⟩.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "çılpaqlığı"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qızının"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "oğlunun"
+    },
+    {
+      "surface": "או",
+      "gloss": "və ya"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qızının"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "qızının"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "açma"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "onların çılpaqlığını"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "sənin çılpaqlığındır"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "onlar"
+    }
+  ],
+  "timestamp": "2026-09-01T10:27:32.587185781Z",
+  "model": "glm-5.3"
+}

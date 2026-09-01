@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 34:19",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 34,
+  "translation": "Qırılmış ürəklilərə Yahve yaxındır və əzilmiş ruhu olanları ⟨את⟩ xilas edir.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "yaxındır"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "qırılmış ... -lərə"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ürək"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "əzilmiş ruhu olanları"
+    },
+    {
+      "surface": "דכאי",
+      "gloss": "əzilmiş"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruh"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "xilas edir"
+    }
+  ],
+  "timestamp": "2026-09-01T15:10:53.932571723Z",
+  "model": "glm-5.3"
+}

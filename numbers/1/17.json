@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Moşe və Aharon adları ilə müəyyən edilmiş bu adamları götürdülər — ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "götürdülər"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "və Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu adamları"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "adamları"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "müəyyən edilmiş"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "adları ilə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:32:36.213897582Z",
+  "model": "glm-5.3"
+}

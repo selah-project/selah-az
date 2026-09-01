@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Sözün sonu, hər şey eşidildi: ⟨את⟩ Elohim-dən qorx və ⟨את⟩ əmrlərini qoru, çünki bu, bütün insandır.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "sonu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sözün"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "hər şey"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "eşidildi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "qorx"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "və ⟨את⟩",
+      "marks": "əmrlərini"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "əmrlərini"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "qoru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insan"
+    }
+  ],
+  "timestamp": "2026-09-01T16:33:04.643226525Z",
+  "model": "glm-5.3"
+}

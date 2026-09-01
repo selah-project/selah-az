@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 44,
+  "translation": "Və atamız dedi: Qayıdın, bizə az bir ərzaq alın.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "atamız"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "qayıdın"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "ərzaq alın"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizə"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "az"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ərzaq"
+    }
+  ],
+  "timestamp": "2026-09-01T10:02:36.420640935Z",
+  "model": "glm-5.3"
+}

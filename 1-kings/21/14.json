@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 21:14",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Və İzebelə göndərdilər, deyərək: «Navot daşqalaq edildi və öldü.»",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "və göndərdilər"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "İzebel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "סקל",
+      "gloss": "daşqalaq edildi"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navot"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "və öldü"
+    }
+  ],
+  "timestamp": "2026-09-01T12:24:27.597072400Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 6:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Ah çəkməkdən tükəndim; bütün gecə yatağımı üzdürürəm, göz yaşımcla döşəyimi əridirəm.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "tükəndim"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "Ah çəkməyimdən"
+    },
+    {
+      "surface": "אשחה",
+      "gloss": "üzdürürəm"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "gecə"
+    },
+    {
+      "surface": "מטתי",
+      "gloss": "yatağımı"
+    },
+    {
+      "surface": "בדמעתי",
+      "gloss": "göz yaşımcla"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "döşəyimi"
+    },
+    {
+      "surface": "אמסה",
+      "gloss": "əridirəm"
+    }
+  ],
+  "timestamp": "2026-09-01T15:01:12.423980144Z",
+  "model": "glm-5.3"
+}

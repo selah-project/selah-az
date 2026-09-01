@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 141,
+  "translation": "Əqli məni hesed ilə vursun, və məni qınasın; ⟨bu⟩ baş yağıdır — başım onu rədd etməsin, çünki hələ duam onların şər ⟨işləri haqqındadır⟩.",
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "məni vursun"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "əqli"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "və məni qınasın"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "yağı"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "baş"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יני",
+      "gloss": "rədd etsin"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "başım"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hələ"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "və duam"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "onların şər işlərində"
+    }
+  ],
+  "timestamp": "2026-09-01T15:45:03.572223025Z",
+  "model": "glm-5.3"
+}

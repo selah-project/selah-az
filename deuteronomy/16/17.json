@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 16:17",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Hər kəs ⟨öz⟩ əlinin hədiyyəsinə görə, Yahve sənin Elohiminin sənə verdiyi bərəkətə görə ⟨verəcək⟩.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "hər kəs"
+    },
+    {
+      "surface": "כמתנת",
+      "gloss": "hədiyyəsinə görə"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "əlinin"
+    },
+    {
+      "surface": "כברכת",
+      "gloss": "bərəkətinə görə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sənin Elohimin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verdiyi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:51:05.655151324Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Yolları hər vaxt ⟨möhkəmdir⟩; məhkəmələrin uca ⟨onun gözündən⟩ uzaqdır; bütün düşmənləri barəsində ⟨onlara⟩ tənə ilə üfləyir.",
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "möhkəmdir"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "yolları"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vaxt"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "uca"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "məhkəmələrin"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "onun gözündən uzaq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "düşmənləri"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "üfləyir"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onlara"
+    }
+  ],
+  "timestamp": "2026-09-01T15:05:27.842026140Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 30:15",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Və qəzəbimi Sin üzərinə tökəcəyəm — Mitsrayimin qalası — və ⟨את⟩ Nonun izdihamını kəsəcəyəm.",
+  "tokens": [
+    {
+      "surface": "ושפכתי",
+      "gloss": "tökəcəyəm"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "qəzəbimi"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "סין",
+      "gloss": "Sin"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "qalası"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimin"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "kəsəcəyəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nonun izdihamını"
+    },
+    {
+      "surface": "המון",
+      "gloss": "izdihamını"
+    },
+    {
+      "surface": "נא",
+      "gloss": "Nonun"
+    }
+  ],
+  "timestamp": "2026-09-01T14:19:58.285472018Z",
+  "model": "glm-5.3"
+}

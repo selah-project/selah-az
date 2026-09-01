@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 3:6",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "O gün padşah Yehoram Şomrondan çıxdı və bütün İsraili səfərbər ⟨etdi⟩.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "çıxdı"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "o gündə"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "həmin"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "Şomrondan"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "səfərbər etdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün İsrail"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    }
+  ],
+  "timestamp": "2026-09-01T12:29:04.893495881Z",
+  "model": "glm-5.3"
+}

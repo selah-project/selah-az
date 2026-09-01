@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 11:2",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Yisrail oğullarına danışın ⟨deyin ki⟩: bu ⟨diri⟩ məxluqatdır ki, yeyəcəksiniz — bütün yer üzündəki heyvanlardan.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "danışın"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ilə⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrail"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyin ki"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "⟨diri⟩ məxluqat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yeyəcəksiniz"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bütün ... -dan"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "heyvan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzündəki"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-09-01T17:57:05.118443232Z",
+  "model": "glm-5.3"
+}

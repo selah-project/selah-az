@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 15:3",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Və onların üzərinə dörd nəsil təyin edəcəyəm, — deir Yahve — ⟨את⟩ qılınçı öldürmək üçün, ⟨את⟩ itləri sürükləmək üçün, ⟨את⟩ göyün quşlarını və ⟨את⟩ yerin heyvanlarını yemək və məhv etmək üçün.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "təyin edəcəyəm"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "onların üzərinə"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "dörd"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "nəsil"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "deir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qılınçı"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "qılınç"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "öldürmək üçün"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "itləri"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "itləri"
+    },
+    {
+      "surface": "לסחב",
+      "gloss": "sürükləmək üçün"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "göyün quşlarını"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "quşlarını"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göyün"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yerin heyvanlarını"
+    },
+    {
+      "surface": "בהמת",
+      "gloss": "heyvanlarını"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "yemək üçün"
+    },
+    {
+      "surface": "ולהשחית",
+      "gloss": "və məhv etmək üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T13:31:53.990172773Z",
+  "model": "glm-5.3"
+}

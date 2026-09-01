@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Üzünü mənə çevir və mənə lütf et, çünki tənha və acizəm.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "üzünü çevir"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "və mənə lütf et"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "tənha"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "və aciz"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:08:28.419164451Z",
+  "model": "glm-5.3"
+}

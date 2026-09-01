@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 101:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 101,
+  "translation": "Mükəmməl yolda ağıllı davranacağam; nə vaxt yanıma gələcəksən? Ürəyimin tamlığı ilə evimin ortasında gəzəcəyəm.",
+  "tokens": [
+    {
+      "surface": "אשכילה",
+      "gloss": "ağıllı davranacağam"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolda"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "mükəmməl"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "nə vaxt"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "gələcəksən"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "yanıma"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "gəzəcəyəm"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "tamlıqla"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ürəyimin"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ortasında"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "evimin"
+    }
+  ],
+  "timestamp": "2026-09-01T18:01:53.016163586Z",
+  "model": "glm-5.3"
+}

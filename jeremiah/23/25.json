@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 23:25",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Eşitdim ⟨את⟩ nə dedilər peyğəmbərlər, ⟨onlar⟩ ki Adımda peyğəmbərlik edirlər yalan, deyərək: Yuxu gördüm, yuxu gördüm.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "Eşitdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nə dedilər peyğəmbərlər"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "dedilər"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "peyğəmbərlər"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "peyğəmbərlik edirlər"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "Adımda"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yalan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "Yuxu gördüm"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "yuxu gördüm"
+    }
+  ],
+  "timestamp": "2026-09-01T17:37:48.630845476Z",
+  "model": "glm-5.3"
+}

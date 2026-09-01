@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 138,
+  "translation": "Əgər sıxıntı içində getsəm, məni dirildərsən; düşmənlərimin qəzəbinə qarşı əlini uzadarsan, sağ əlin məni xilas edir.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "getsəm"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "içində"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "sıxıntı"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "dirildərsən"
+    },
+    {
+      "surface": "על",
+      "gloss": "qarşı"
+    },
+    {
+      "surface": "אף",
+      "gloss": "qəzəbinə"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "düşmənlərimin"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "uzadarsan"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "əlini"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "xilas edir"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "sağ əlin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:44:56.770519444Z",
+  "model": "glm-5.3"
+}

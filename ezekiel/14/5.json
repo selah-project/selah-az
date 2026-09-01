@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 14:5",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Elə ki, ürəklərində ⟨את⟩ Yisrael evini yaxalayım — onlar hamısı bütləri ilə məndən uzaq düşüblər.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Elə ki"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "yaxalayım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael evini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "ürəklərində"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "uzaq düşüblər"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "məndən"
+    },
+    {
+      "surface": "בגלוליהם",
+      "gloss": "bütləri ilə"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "hamısı"
+    }
+  ],
+  "timestamp": "2026-09-01T14:10:28.512842927Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 83,
+  "translation": "Sənin xalqına qarşı gizli hiylə qururlar və sənin sığındırdıqlarına qarşı məsləhət edirlər.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "qarşı"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "xalqına"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "hiylə qururlar"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "gizli (məşvərət)"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "məsləhət edirlər"
+    },
+    {
+      "surface": "על",
+      "gloss": "qarşı"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "sənin sığındırdıqlarına"
+    }
+  ],
+  "timestamp": "2026-09-01T15:28:09.663150219Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 26:27",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Əgər bununla da Mənə qulaq asmayacaqsınızsa, Mənimlə qarşıdurmada yeriyəcəksinizsə —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "bunla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...-mə"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "qulaq asmayacaqsınız"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Mənə"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "və yeriyəcəksiniz"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Mənimlə"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "qarşıdurmada"
+    }
+  ],
+  "timestamp": "2026-09-01T10:31:58.684257185Z",
+  "model": "glm-5.3"
+}

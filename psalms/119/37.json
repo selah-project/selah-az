@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 119:37",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Gözlərimi boş şeyi görməkdən ⟨uzaqlaşdır⟩, öz yolunda məni dirilt.",
+  "tokens": [
+    {
+      "surface": "העבר",
+      "gloss": "⟨uzaqlaşdır⟩"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözlərimi"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "görməkdən"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "boş şeyi"
+    },
+    {
+      "surface": "בדרכך",
+      "gloss": "öz yolunda"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "məni dirilt"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:16.868815613Z",
+  "model": "glm-5.3"
+}

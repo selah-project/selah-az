@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 6:7",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Və onu ağzıma toxundurdu və dedi: Bax, bu dodaqlarına toxundu — eyibin sovuşdu və günahın örtüldü.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "və toxundurdu"
+    },
+    {
+      "surface": "על",
+      "gloss": "-na"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağızıma"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "toxundu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "על",
+      "gloss": "-na"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "dodaqlarına"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "sovuşdu"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "eyibin"
+    },
+    {
+      "surface": "וחטאתך",
+      "gloss": "və günahın"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "örtüldü"
+    }
+  ],
+  "timestamp": "2026-09-01T12:50:10.634057618Z",
+  "model": "glm-5.3"
+}

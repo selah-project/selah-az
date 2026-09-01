@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 22:13",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Və əgər bir adam öz yoldaşından ⟨bir şey⟩ istəsə, o isə sınıb qalsın və ya ölsə — sahibi onunla olmayanda — tam ödəyə ödəsin.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "istsə"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir adam"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "öz yoldaşı"
+    },
+    {
+      "surface": "ונשבר",
+      "gloss": "və sınıb qalsın"
+    },
+    {
+      "surface": "או",
+      "gloss": "və ya"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ölsə"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "sahibi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "olmayanda"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ödəyə ödəsin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:14:18.477050210Z",
+  "model": "glm-5.3"
+}

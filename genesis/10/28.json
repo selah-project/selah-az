@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "və ⟨את⟩ Ovalı, və ⟨את⟩ Avimaeli, və ⟨את⟩ Şevanı ⟨doğdu⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ovalı"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "Oval"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Avimaeli"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Avimael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Şevanı"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Şeva"
+    }
+  ],
+  "timestamp": "2026-09-01T17:25:55.178797810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "obadiah 1:14",
+  "book": "obadiah",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və onun qaçqınlarını ⟨את⟩ kəsmək üçün keçiddə dayanma, və onun sağ qalanlarını sıxıntı günündə təslim etmə.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "dayanma"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "dayanma"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "הפרק",
+      "gloss": "keçiddə"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "kəsmək üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onun qaçqınlarını"
+    },
+    {
+      "surface": "פליטיו",
+      "gloss": "onun qaçqınlarını"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "etmə"
+    },
+    {
+      "surface": "תסגר",
+      "gloss": "təslim etmə"
+    },
+    {
+      "surface": "שרידיו",
+      "gloss": "onun sağ qalanlarını"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "günündə"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "sıxıntı"
+    }
+  ],
+  "timestamp": "2026-09-01T14:44:10.734408229Z",
+  "model": "glm-5.3"
+}

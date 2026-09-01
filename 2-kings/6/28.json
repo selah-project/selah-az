@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 6:28",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Kral ona dedi: Sənə nə olub? Qadın cavab verdi: Bu qadın mənə dedi: ⟨את⟩ oğlunu ver, bu gün onu yeyək, sabah isə ⟨את⟩ oğlumu yeyək.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "qadın"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "תני",
+      "gloss": "ver"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oğlunu"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "oğlunu"
+    },
+    {
+      "surface": "ונאכלנו",
+      "gloss": "və onu yeyək"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bu gün"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oğlumu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğlumu"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "yeyək"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "sabah"
+    }
+  ],
+  "timestamp": "2026-09-01T12:30:29.203196973Z",
+  "model": "glm-5.3"
+}

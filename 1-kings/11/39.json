@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Və Davidin nəslini bunun üçün alçaldacağam, amma bütün günlər üçün yox.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "alçaldacağam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nəslini"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "nəslini"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "למען",
+      "gloss": "üçün"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bunun"
+    },
+    {
+      "surface": "אך",
+      "gloss": "amma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "günlər"
+    }
+  ],
+  "timestamp": "2026-09-01T12:19:17.088113413Z",
+  "model": "glm-5.3"
+}

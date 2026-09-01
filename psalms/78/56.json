@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 78,
+  "translation": "Və onlar sınadılar və ⟨את⟩ Elohim Elyon-a qarşı üsyan etdilər, və onun şəhadətlərini qorumadılar.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "sınadılar"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "üsyan etdilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim Elyon-a"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "və onun şəhadətlərini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "qorumadılar"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "qorumadılar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:26:45.259057507Z",
+  "model": "glm-5.3"
+}

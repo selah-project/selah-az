@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 1:13",
+  "book": "zechariah",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və Yahve ⟨את⟩ mənim içimdə danışan mələyə cavab verdi — yaxşı sözlərlə, təsəlli verən sözlərlə.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "və cavab verdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mələyə"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "mələyə"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "danışan"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mənim içimdə"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "sözlərlə"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "yaxşı"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "sözlərlə"
+    },
+    {
+      "surface": "נחמים",
+      "gloss": "təsəlli verən"
+    }
+  ],
+  "timestamp": "2026-09-01T14:54:50.573690319Z",
+  "model": "glm-5.3"
+}

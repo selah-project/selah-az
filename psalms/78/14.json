@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 78,
+  "translation": "Və onları gündüz buludla, bütün gecəni isə odun işığı ilə doğru yola saldı.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "və doğru yola saldı"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "buludla"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "gündüz"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "gecəni"
+    },
+    {
+      "surface": "באור",
+      "gloss": "işığı ilə"
+    },
+    {
+      "surface": "אש",
+      "gloss": "odun"
+    }
+  ],
+  "timestamp": "2026-09-01T15:26:02.607374955Z",
+  "model": "glm-5.3"
+}

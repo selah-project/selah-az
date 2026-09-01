@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Qonağı incidə və əzmə; çünki siz Mitsrayim torpağında qonaqlar idiniz.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "qonağı (yad kişini)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תונה",
+      "gloss": "incidə"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "תלחצנו",
+      "gloss": "əzmə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "qonaqlar"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "idiniz"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "torpağında"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T10:15:20.779141378Z",
+  "model": "glm-5.3"
+}

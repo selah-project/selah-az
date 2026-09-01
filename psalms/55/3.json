@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 55:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 55,
+  "translation": "Mənə diqqət ver və mənə cavab ver, şikayətim içində azığım, səsimi ucaldırıram.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "diqqət ver"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "və cavab ver mənə"
+    },
+    {
+      "surface": "אריד",
+      "gloss": "azığım"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "şikayətim içində"
+    },
+    {
+      "surface": "ואהימה",
+      "gloss": "səsimi ucaldırıram"
+    }
+  ],
+  "timestamp": "2026-09-01T15:19:00.518438165Z",
+  "model": "glm-5.3"
+}

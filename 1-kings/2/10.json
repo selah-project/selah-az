@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və Davud ataları ilə yatdı və Davud şəhərində dəfn olundu.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "vatdı"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "atarı"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "və dəfn olundu"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "şəhərində"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    }
+  ],
+  "timestamp": "2026-09-01T12:09:22.279585345Z",
+  "model": "glm-5.3"
+}

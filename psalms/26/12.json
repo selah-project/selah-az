@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 26:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Ayağım düz yerdə dayanıb; məclislərdə mən Yahveni mübarək edəcəyəm.",
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "ayağım"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "dayanıb"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "düz yerdə"
+    },
+    {
+      "surface": "במקהלים",
+      "gloss": "məclislərdə"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "mən ... mübarək edəcəyəm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveni"
+    }
+  ],
+  "timestamp": "2026-09-01T15:08:18.296680096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 3:23",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Padşah dedi: Biri deyir — bu, mənim diri oğlum ⟨idi⟩, sənin oğlun isə ölü; digəri isə deyir: Yox, əksinə — sənin oğlun ölü ⟨idi⟩, mənim oğlum isə diri.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mənim oğlum"
+    },
+    {
+      "surface": "החי",
+      "gloss": "diri"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "sənin oğlun"
+    },
+    {
+      "surface": "המת",
+      "gloss": "ölü"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "bu isə"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "כי",
+      "gloss": "əksinə"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "sənin oğlun"
+    },
+    {
+      "surface": "המת",
+      "gloss": "ölü"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "mənim oğlum"
+    },
+    {
+      "surface": "החי",
+      "gloss": "diri"
+    }
+  ],
+  "timestamp": "2026-09-01T12:09:53.011397754Z",
+  "model": "glm-5.3"
+}

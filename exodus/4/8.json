@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 4:8",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və olacaq ki, əgər sənə inanmasalar və ilk nişanın səsinə qulaq asmasalar, sonrakı nişanın səsinə inanacaqlar.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "və olacaq ki,"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "inanmasalar"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "qulaq asmasalar"
+    },
+    {
+      "surface": "לקol",
+      "gloss": "səninə"
+    },
+    {
+      "surface": "האת",
+      "gloss": "nişanın"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ilk"
+    },
+    {
+      "surface": "והאמינו",
+      "gloss": "inanacaqlar"
+    },
+    {
+      "surface": "לקol",
+      "gloss": "səninə"
+    },
+    {
+      "surface": "האת",
+      "gloss": "nişanın"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "sonrakı"
+    }
+  ],
+  "timestamp": "2026-09-01T10:05:04.480239472Z",
+  "model": "glm-5.3"
+}

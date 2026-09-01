@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 74:22",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 74,
+  "translation": "Qalx, ya Elohim, davanı davanı sənin öz davanı apar; xatırla təhqirini sənin təhqirini — nalayiq adamdan, bütün gün.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "qalx"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "davani apar"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "sənin öz davanı"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "xatırla"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "sənin təhqirini"
+    },
+    {
+      "surface": "מני",
+      "gloss": "—dan"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nalayiq adamdan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gün"
+    }
+  ],
+  "timestamp": "2026-09-01T15:24:45.651063359Z",
+  "model": "glm-5.3"
+}

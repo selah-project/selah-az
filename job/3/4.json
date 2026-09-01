@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 3:4",
+  "book": "job",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Həmin gün qaranlıq olsun; Eloah onu yuxarıdan axtarmasın, və işıq onun üzərinə parlamasın.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "o gün"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "həmin"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "qaranlıq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yox (əmr inkarı)"
+    },
+    {
+      "surface": "ידרשהו",
+      "gloss": "onu axtarmasın"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "yuxarıdan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "תופע",
+      "gloss": "parlamasın"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üzərinə"
+    },
+    {
+      "surface": "נהרה",
+      "gloss": "işıq (səhər işığı)"
+    }
+  ],
+  "timestamp": "2026-09-01T16:02:47.995353778Z",
+  "model": "glm-5.3"
+}

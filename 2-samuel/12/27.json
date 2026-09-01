@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 12:27",
+  "book": "2-samuel",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Və Yoav elçilər Davudun yanına göndərdi və dedi: Rabbada döyüşdüm, həm ⟨את⟩ sular şəhərini tutdum.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "göndərdi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "elçilər"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "נלחמתי",
+      "gloss": "döyüşdüm"
+    },
+    {
+      "surface": "ברבה",
+      "gloss": "Rabbada"
+    },
+    {
+      "surface": "גם",
+      "gloss": "həm"
+    },
+    {
+      "surface": "לכדתי",
+      "gloss": "tutdum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sular şəhərini"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şəhər"
+    },
+    {
+      "surface": "המים",
+      "gloss": "sular"
+    }
+  ],
+  "timestamp": "2026-09-01T11:57:38.457786392Z",
+  "model": "glm-5.3"
+}

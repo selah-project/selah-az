@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 21:23",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Yalnız pərdənin yanına girməsin və qurbangaha yaxınlaşmasın, çünki onda qüsur var; mənim müqəddəs yerlərimi murdar etməsin, çünki mən onları müqəddəşləndirən Yahveyəm.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "pərdənin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "girməsin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və ...-a"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "qurbangaha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "yaxınlaşmasın"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "מום",
+      "gloss": "qüsur"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "murdar etməsin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "müqəddəs yerlərimi"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "müqəddəs yerlərimi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "onları müqəddəşləndirən"
+    }
+  ],
+  "timestamp": "2026-09-01T10:29:18.271163919Z",
+  "model": "glm-5.3"
+}

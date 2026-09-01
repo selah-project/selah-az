@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 132:17",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 132,
+  "translation": "Orada Davud üçün buynuz bitirəcəyəm, Məsihim üçün çıraq hazırlamışam.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Orada"
+    },
+    {
+      "surface": "אצמיח",
+      "gloss": "bitirəcəyəm"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "buynuz"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davud üçün"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "hazırlamışam"
+    },
+    {
+      "surface": "נר",
+      "gloss": "çıraq"
+    },
+    {
+      "surface": "למשיחי",
+      "gloss": "Məsihim üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T15:41:49.003099474Z",
+  "model": "glm-5.3"
+}

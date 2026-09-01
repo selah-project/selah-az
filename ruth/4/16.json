@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Naomi ⟨את⟩ uşağı götürdü, onu qucağına qoydu və ona dayə oldu.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "götürdü"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uşağı"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "uşağı"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "qoydu"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "qucağına"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "dayə"
+    }
+  ],
+  "timestamp": "2026-09-01T16:23:20.326906232Z",
+  "model": "glm-5.3"
+}

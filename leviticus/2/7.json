@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və əgər təqdimən qazanda ⟨hazırlanan⟩ minxa olsa, sollatdən yağla ⟨hazırlansın⟩.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minxa (qurban)"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "qazanda"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "təqdimən"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "sollat (incə un)"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "yağla"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "hazırlansın"
+    }
+  ],
+  "timestamp": "2026-09-01T10:22:24.363392869Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 107,
+  "translation": "və ölkələrdən onları topladı — şərqdən və qərbdən, şimaldan və dənizdən.",
+  "tokens": [
+    {
+      "surface": "ומארצות",
+      "gloss": "və ölkələrdən"
+    },
+    {
+      "surface": "קבצם",
+      "gloss": "onları topladı"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "şərqdən"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "və qərbdən"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "şimaldan"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "və dənizdən"
+    }
+  ],
+  "timestamp": "2026-09-01T17:43:00.585844565Z",
+  "model": "glm-5.3"
+}

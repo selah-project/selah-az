@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 17:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Pis əməl sahiblərinin üzündən — bu, məni talan edənlərdir; düşmənlərim can üstündə məni mühasirəyə alırlar.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "üzündən"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "pis əməl sahibləri"
+    },
+    {
+      "surface": "זו",
+      "gloss": "bu"
+    },
+    {
+      "surface": "שדוני",
+      "gloss": "məni talan edənlər"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "düşmənlərim"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "can üstündə"
+    },
+    {
+      "surface": "יקיפו",
+      "gloss": "mühasirəyə alırlar"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "məni"
+    }
+  ],
+  "timestamp": "2026-09-01T15:03:43.469959716Z",
+  "model": "glm-5.3"
+}

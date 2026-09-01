@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 21:15",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Çünki qılınclardan qaçdılar — süzülmüş qılıncdan, çəkilmiş yaydan və ağır müharibədən.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "üzündən"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "qılınclardan"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "qaçdılar"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "üzündən"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "qılınc"
+    },
+    {
+      "surface": "נטושה",
+      "gloss": "süzülmüş"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "və üzündən"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "yay"
+    },
+    {
+      "surface": "דרוכה",
+      "gloss": "çəkilmiş"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "və üzündən"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ağır"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "müharibə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:53:43.991402397Z",
+  "model": "glm-5.3"
+}

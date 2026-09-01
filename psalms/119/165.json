@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 165,
+  "ref": "psalms 119:165",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Böyük şalom ⟨var⟩ Tora-nı sevənlər üçün, və onlar üçün sədd yoxdur.",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "şalom"
+    },
+    {
+      "surface": "רב",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "sevənlər üçün"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tora-nı (sənin Tora-n)"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "və yoxdur"
+    },
+    {
+      "surface": "למו",
+      "gloss": "onlar üçün"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "sədd"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:27.090757726Z",
+  "model": "glm-5.3"
+}

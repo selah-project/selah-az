@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 151,
+  "ref": "psalms 119:151",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Yaxınsan Sən, ya Yahve, və bütün əmrlərin ⟨səndir⟩ əqd.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "yaxınsan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "əmrlərin"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "əqd"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:05.386868636Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Sonra bir qız doğdu və adını Dina qoydu.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "sonra"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "doğdu"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qız"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "və qoydu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adını"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "adını"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    }
+  ],
+  "timestamp": "2026-09-01T09:54:10.904975252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 92,
+  "translation": "Nə qədər böyükdür sənin əməllərin, Yahve; çox dərindir sənin düşüncələrin!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "nə qədər"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "büyükdür"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "sənin əməllərin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çox"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "dərindir"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "sənin düşüncələrin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:32:53.725424166Z",
+  "model": "glm-5.3"
+}

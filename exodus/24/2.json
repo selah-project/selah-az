@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Moşe tək Yahvenin yanına yaxınlaşacaq, onlar yaxınlaşmayacaqlar; xalq isə onunla qalxmayacaq.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "yaxınlaşacaq"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "tək"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "והם",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "yaxınlaşacaqlar"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "xalq isə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "qalxmayacaq"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "onunla"
+    }
+  ],
+  "timestamp": "2026-09-01T10:14:54.542067654Z",
+  "model": "glm-5.3"
+}

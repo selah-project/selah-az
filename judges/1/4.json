@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 1:4",
+  "book": "judges",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Yehuda qalxdı, Yahve ⟨את⟩ kənanlını və perizlini onların əlinə verdi; onları Bezekdə vurub öldürdülər — on min kişi.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "qalxdı"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kənanlını"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kənanlını"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "və perizlini"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "onların əlinə"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "vurub öldürdülər"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "Bezekdə"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "on"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "min"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kişi"
+    }
+  ],
+  "timestamp": "2026-09-01T11:15:43.948948286Z",
+  "model": "glm-5.3"
+}

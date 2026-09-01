@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 3:19",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Üz tərinlə çörək yeyəcəksən, torpağa qayıdana qədər, çünki ondan götürülmüsən; çünki sən tozsan və toza qayıdacaqsan.",
+  "tokens": [
+    {
+      "surface": "בזעת",
+      "gloss": "tərinlə"
+    },
+    {
+      "surface": "אפיך",
+      "gloss": "üz"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yeyəcəksən"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "çörək"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "שובך",
+      "gloss": "qayıdana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "torpağa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "götürülmüsən"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "toz"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və ...a"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "toza"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "qayıdacaqsan"
+    }
+  ],
+  "timestamp": "2026-09-01T09:46:41.861075366Z",
+  "model": "glm-5.3"
+}

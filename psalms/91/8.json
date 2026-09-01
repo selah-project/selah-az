@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 91,
+  "translation": "Yalnız öz gözlərinlə baxacaqsan, şər işləyənlərin cəzasını görəcəksən.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "öz gözlərinlə"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "baxacaqsan"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "cəzasını"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "şər işləyənlərin"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "görəcəksən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:32:49.720459541Z",
+  "model": "glm-5.3"
+}

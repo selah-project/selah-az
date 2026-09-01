@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jonah 1:16",
+  "book": "jonah",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Adamlar Yahveyə qarşı böyük bir qorxu qorxdular və Yahveyə qurban kəsdilər və andlar içdilər.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "qorxdular"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "adamlar"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "qorxu"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveyə qarşı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "qurban kəsdilər"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "qurban"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "וידרו",
+      "gloss": "andlar içdilər"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "andlar"
+    }
+  ],
+  "timestamp": "2026-09-01T14:45:23.647778488Z",
+  "model": "glm-5.3"
+}

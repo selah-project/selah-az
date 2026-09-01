@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 13:1",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "⟨את⟩ bütün sözü, hansı ki mən ⟨את⟩ sizə əmr edirəm, ⟨את⟩ ⟨onu⟩ qoruyub yerinə yetirəsiniz; ona əlavə etməyin və ondan azaltmayın.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün söz"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "söz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hansı ki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mən"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "əmr edirəm"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizə"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨onu⟩",
+      "marks": "qoruyub yerinə yetirəsiniz"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "qoruyub yerinə yetirəsiniz"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yerinə yetirmək üçün"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "əlavə etməyin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "תגרע",
+      "gloss": "azaltmayın"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    }
+  ],
+  "timestamp": "2026-09-01T10:51:19.316340961Z",
+  "model": "glm-5.3"
+}

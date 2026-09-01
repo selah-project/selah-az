@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 22:17",
+  "book": "2-samuel",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Yuxarıdan göndərdi, ⟨məni⟩ götürdü; ⟨məni⟩ çox sulardan çıxartdı.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "göndərdi"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "yuxarıdan"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "götürdü"
+    },
+    {
+      "surface": "ימשני",
+      "gloss": "çıxartdı"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "sulardan"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "çox"
+    }
+  ],
+  "timestamp": "2026-09-01T12:06:42.664260933Z",
+  "model": "glm-5.3"
+}

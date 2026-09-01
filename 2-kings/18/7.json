@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 18:7",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Və Yahve onunla ⟨idi⟩; hər yerdə ki o çıxırdı, uğur qazanırdı; və o, Aşşur kralına qarşı üsyan etdi və ona xidmət etmədi.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "⟨idi⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "çıxırdı"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "uğur qazanırdı"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "üsyan etdi"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "kralına qarşı"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşşur"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... etmədi"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "xidmət etmədi"
+    }
+  ],
+  "timestamp": "2026-09-01T12:39:04.743001271Z",
+  "model": "glm-5.3"
+}

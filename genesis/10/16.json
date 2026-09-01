@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "və ⟨את⟩ yevusililəri, və ⟨את⟩ emorililəri, və ⟨את⟩ girqaşililəri.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yevusililəri"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "yevusililəri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "emorililəri"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emorililəri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "girqaşililəri"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "girqaşililəri"
+    }
+  ],
+  "timestamp": "2026-09-01T09:48:31.967586079Z",
+  "model": "glm-5.3"
+}

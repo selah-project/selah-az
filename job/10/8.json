@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 10:8",
+  "book": "job",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Sənin əllərin məni formalaşdırdı və məni bütövlüklə, hər tərəfdən yaratdı, ⟨sonra⟩ məni uddun.",
+  "tokens": [
+    {
+      "surface": "ידיך",
+      "gloss": "sənin əllərin"
+    },
+    {
+      "surface": "עצבוני",
+      "gloss": "məni formalaşdırdı"
+    },
+    {
+      "surface": "ויעשוני",
+      "gloss": "və məni yaratdı"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bütövlüklə"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "hər tərəfdən"
+    },
+    {
+      "surface": "ותבלעני",
+      "gloss": "və məni uddun"
+    }
+  ],
+  "timestamp": "2026-09-01T16:06:40.767028159Z",
+  "model": "glm-5.3"
+}

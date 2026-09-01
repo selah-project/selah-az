@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 6:3",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Şərabdan və səkərdən ayrı dursun; şərabın sirkəsini və səkərin sirkəsini içməsin; üzüm şirəsinin heç birindən içməsin; təzə və quru üzüm yeməsin.",
+  "tokens": [
+    {
+      "surface": "מיין",
+      "gloss": "şərabdan"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "və səkərdən"
+    },
+    {
+      "surface": "יזיר",
+      "gloss": "ayı dursun"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "sirkəsini"
+    },
+    {
+      "surface": "יין",
+      "gloss": "şərabın"
+    },
+    {
+      "surface": "וחמץ",
+      "gloss": "və sirkəsini"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "səkərin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "içməsin"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "və heç bir"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "şirəsindən"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "üzümün"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "içməsin"
+    },
+    {
+      "surface": "וענבים",
+      "gloss": "və üzüm"
+    },
+    {
+      "surface": "לחים",
+      "gloss": "təzə"
+    },
+    {
+      "surface": "ויבשים",
+      "gloss": "və quru"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yeməsin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:35:05.600464414Z",
+  "model": "glm-5.3"
+}

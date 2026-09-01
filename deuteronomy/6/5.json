@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Yahve ⟨את⟩ Elohimini bütün qəlbinlə, bütün canınla və bütün qüvvənlə sevməlisən.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "sevməlisən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimini"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "qəlbinlə"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "canınla"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "qüvvənlə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:47:29.447492154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "Çünki ⟨o⟩ dedi və oldu; ⟨o⟩ buyurdu və dayandı.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "və oldu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurdu"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "və dayandı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:10:24.899446932Z",
+  "model": "glm-5.3"
+}

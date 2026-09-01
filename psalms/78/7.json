@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 78:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 78,
+  "translation": "Və Elohimə etinad qoysunlar, Elin əməllərini unutmasınlar və Onun əmrlərini qorusunlar.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "qoysunlar"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "כסלם",
+      "gloss": "etinadlarını"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və... olmasın"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "unutmasınlar"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "əməllərini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elin"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "və Onun əmrlərini"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "qorusunlar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:26:25.647304163Z",
+  "model": "glm-5.3"
+}

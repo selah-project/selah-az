@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 119:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Sənə düz qəlblə şükür edəcəyəm, sənin ədalətinin hökmlərini öyrəndikdə.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Sənə şükür edəcəyəm"
+    },
+    {
+      "surface": "בישר",
+      "gloss": "düz olaraq"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "qəlblə"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "öyrəndikdə"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hökmlərini"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ədalətinin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:20.944310491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Ad yaxşı yağdan yaxşıdır, və ölüm günü doğulduğu gündən ⟨yaxşıdır⟩.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "yaxşıdır"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ad"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "yağdan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşı"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "və gün"
+    },
+    {
+      "surface": "המות",
+      "gloss": "ölüm"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "gündən"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "doğulduğu"
+    }
+  ],
+  "timestamp": "2026-09-01T16:32:11.476635657Z",
+  "model": "glm-5.3"
+}

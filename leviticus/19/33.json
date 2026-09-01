@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Və əgər ⟨את⟩ səninlə ⟨birlikdə⟩ yaşasa ger torpağınızda, onu ⟨את⟩ incitməyin.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "yaşasa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ səninlə"
+    },
+    {
+      "surface": "גר",
+      "gloss": "ger"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "torpağınızda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...mə"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "incitməyin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩onu",
+      "marks": "onu (ger)"
+    }
+  ],
+  "timestamp": "2026-09-01T10:28:56.585857587Z",
+  "model": "glm-5.3"
+}

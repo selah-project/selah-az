@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 119:51",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Qürmurlar məni son dərəcə məsxərəyə qoydular, ⟨amma⟩ Tövrəndən yayınmadım.",
+  "tokens": [
+    {
+      "surface": "זדים",
+      "gloss": "Qürmurlar"
+    },
+    {
+      "surface": "הליצני",
+      "gloss": "məni məsxərəyə qoydular"
+    },
+    {
+      "surface": "עד",
+      "gloss": "son dərəcə (qədər)"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "son dərəcə"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "Tövrəndən"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "yayınmadım"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:48.065750748Z",
+  "model": "glm-5.3"
+}

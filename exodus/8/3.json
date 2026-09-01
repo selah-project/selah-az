@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 8:3",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Sehrbazlar da örtülü sənətləri ilə belə etdilər və qurbağaları Mitsrayim torpağının üstünə qaldırdılar.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "etdilər"
+    },
+    {
+      "surface": "כן",
+      "gloss": "belə"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "sehrbazlar"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "örtülü sənətləri ilə"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "və qaldırdılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbağaları"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "qurbağaları"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "torpağının"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T10:07:12.675771393Z",
+  "model": "glm-5.3"
+}

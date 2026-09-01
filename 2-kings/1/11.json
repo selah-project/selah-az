@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 1:11",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və ⟨o⟩ geri döndü və ona başqa bir əlli başçısı və onun əllisini göndərdi; və ⟨o⟩ cavab verdi və ona dedi: Ey Elohim adamı, padşah belə dedi: Tələsik en aşağı.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "geri döndü"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "göndərdi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "שר",
+      "gloss": "başçısı"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "əlli"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "başqa"
+    },
+    {
+      "surface": "וחמשיו",
+      "gloss": "və onun əllisi"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "cavab verdi"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כה",
+      "gloss": "belə"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "tələsik"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "en aşağı"
+    }
+  ],
+  "timestamp": "2026-09-01T12:28:35.829814518Z",
+  "model": "glm-5.3"
+}

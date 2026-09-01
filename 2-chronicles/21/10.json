@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 21:10",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Edom Yehudanın əlindən bu günədək üsyan etdi. O vaxt Livna da onun əlindən üsyan etdi, çünki o, atalarının Elohimi Yahveni ⟨את⟩ tərk etmişdi.",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "üsyan etdi"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "altından"
+    },
+    {
+      "surface": "יד",
+      "gloss": "əli"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dək"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bu günə"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "אז",
+      "gloss": "o vaxt"
+    },
+    {
+      "surface": "תפשע",
+      "gloss": "üsyan etdi"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livna"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "vaxtında"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "o"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "altından"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "əli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "tərk etmişdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "atarının"
+    }
+  ],
+  "timestamp": "2026-09-01T17:18:37.040255900Z",
+  "model": "glm-5.3"
+}

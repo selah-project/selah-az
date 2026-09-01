@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Yalnız canı ilə birlikdə — qanı ilə — əti yeməyin.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "əti"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "canı ilə"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "qanı ilə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yeməyin"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yeməyin"
+    }
+  ],
+  "timestamp": "2026-09-01T09:47:50.201759774Z",
+  "model": "glm-5.3"
+}

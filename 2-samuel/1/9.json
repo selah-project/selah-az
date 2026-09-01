@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 1:9",
+  "book": "2-samuel",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və mənə dedi: «Dur, lütfən, üstümə və məni öldür, çünki məni baş dönməsi tutub, çünki canım hələ tam məndədir.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "dur"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lütfən"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üstümə"
+    },
+    {
+      "surface": "ומתתני",
+      "gloss": "və məni öldür"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אחזני",
+      "gloss": "məni tutub"
+    },
+    {
+      "surface": "השבץ",
+      "gloss": "baş dönməsi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tam"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hələ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "בי",
+      "gloss": "məndə"
+    }
+  ],
+  "timestamp": "2026-09-01T11:50:51.512373198Z",
+  "model": "glm-5.3"
+}

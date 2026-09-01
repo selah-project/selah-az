@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 119:67",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Əzilməmişdim, mən azmışdım; indi isə sözünü qoruyub saxlamışam.",
+  "tokens": [
+    {
+      "surface": "טרם",
+      "gloss": "əzilməmişdim"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "əzilirdim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "azmışdım"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "indi isə"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "sözünü"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "qoruyub saxlamışam"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:32.251494587Z",
+  "model": "glm-5.3"
+}

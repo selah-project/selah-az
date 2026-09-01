@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 51,
+  "translation": "Mənə qurtuluşunun sevincini qaytar və nəcib bir ruh məni dəstəkləsin.",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "qaytar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "sevincini"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "qurtuluşunun"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "və ruh"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "nəcib"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "məni dəstəkləsin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:18:28.163647775Z",
+  "model": "glm-5.3"
+}

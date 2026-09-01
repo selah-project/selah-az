@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 20:7",
+  "book": "joshua",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Və ⟨את⟩ Qedəşi Qalileydə, Naftali dağlığında, ⟨את⟩ Şekemi Efrayim dağlığında və ⟨את⟩ Qiryat-Arbanı — o, Xevrondur — Yehuda dağlığında müqəddəs ayırdılar.",
+  "tokens": [
+    {
+      "surface": "ויקדשו",
+      "gloss": "müqəddəs ayırdılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qedəşi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Qedəş"
+    },
+    {
+      "surface": "בגליל",
+      "gloss": "Qalileydə"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "dağlığında"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "Şekemi"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Şekem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "dağlığında"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "Qiryat-Arbanı"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Qiryat-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "היא",
+      "gloss": "o"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Xevrondur"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "dağlığında"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-01T11:12:58.486900303Z",
+  "model": "glm-5.3"
+}

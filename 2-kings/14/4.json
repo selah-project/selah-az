@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 14:4",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Yalnız bamalar aradan qaldırılmadı; xalq hələ də bamalarda qurban kəsir və buxur verirdi.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "bamalar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "aradan qaldırılmadı"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hələ də"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "qurban kəsir"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "və buxur verir"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "bamalarda"
+    }
+  ],
+  "timestamp": "2026-09-01T12:36:48.122956329Z",
+  "model": "glm-5.3"
+}

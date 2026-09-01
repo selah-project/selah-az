@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 28:1",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "Sən isə öz yanına ⟨את⟩ Aharonu, qardaşını, və ⟨את⟩ oğullarını onunla ⟨את⟩ birlikdə, Yisrael oğullarının arasından, Mənə kahin olmaları üçün yaxınlaşdır — Aharon, Nadav ve Avihu, Elazar ve Itamar, Aharonun oğulları.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "sən isə"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "yaxınlaşdır"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "öz yanına"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharonu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "qardaşını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oğullarını"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onunla"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "arasından"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לכהנו",
+      "gloss": "kahin olmaları üçün"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Mənə"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadav"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "ve Avihu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "ve Itamar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonun"
+    }
+  ],
+  "timestamp": "2026-09-01T10:17:32.654940001Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 15:8",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Çünki əlini ⟨את⟩ ona açmağa açacaqsan və ona borc verməyə verəcəksən — çatışmazlığının qədərincə, hansı ki ona çatışır.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "açmağa"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "açacaqsan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əlini"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "əlini"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "והעבט",
+      "gloss": "və borc verməyə"
+    },
+    {
+      "surface": "תעביטנו",
+      "gloss": "ona verəcəksən"
+    },
+    {
+      "surface": "די",
+      "gloss": "qədərincə"
+    },
+    {
+      "surface": "מחסרו",
+      "gloss": "çatışmazlığının"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hansı ki"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "çatışır"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-09-01T10:51:10.284458501Z",
+  "model": "glm-5.3"
+}

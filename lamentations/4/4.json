@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 4:4",
+  "book": "lamentations",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Əmən uşağın dili susuzluqdan damağına yapışdı; körpələr çörək istədi, amma onlara bölüb verən ⟨yoxdur⟩.",
+  "tokens": [
+    {
+      "surface": "דבק",
+      "gloss": "yapışdı"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "əmən uşağın"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨üçün⟩"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "damağına"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "susuzluqdan"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "körpələr"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "istədi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "çörək"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "bölüb verən"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    }
+  ],
+  "timestamp": "2026-09-01T16:27:06.953273171Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 24:4",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Moşe Yahvenin bütün sözlərini ⟨את⟩ yazdı; səhər tezdən durdu və dağın altında qurbangah düzəltdi, İsrailin on iki qövmü üçün on iki sütun.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "yazdı"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün sözləri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözlərini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "וישכם",
+      "gloss": "tezdən durdu"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "səhər"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "düzəltdi"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "qurbangah"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "dağın"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "on iki"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(sütun)"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "sütun"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "üçün"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "on iki"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "qövmü"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:14:54.542423245Z",
+  "model": "glm-5.3"
+}

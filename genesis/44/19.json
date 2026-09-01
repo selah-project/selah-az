@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 44,
+  "translation": "Adonayım ⟨את⟩ qullarından soruşdu, deyərək: Sizin atanız və ya qardaşınız varmı?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonayım"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "soruşdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qullarından"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "qullarından"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "היש",
+      "gloss": "varmı"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin"
+    },
+    {
+      "surface": "אב",
+      "gloss": "atanız"
+    },
+    {
+      "surface": "או",
+      "gloss": "və ya"
+    },
+    {
+      "surface": "אח",
+      "gloss": "qardaşınız"
+    }
+  ],
+  "timestamp": "2026-09-01T10:01:33.091666100Z",
+  "model": "glm-5.3"
+}

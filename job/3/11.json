@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 3:11",
+  "book": "job",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Niyə rəhmdən ölmədim? Qarından çıxdım və can verəydim ⟨deyil⟩?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "niyə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "rəhmdən"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ölmədim"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "qarından"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "çıxdım"
+    },
+    {
+      "surface": "ואגוע",
+      "gloss": "və can verəydim"
+    }
+  ],
+  "timestamp": "2026-09-01T16:02:23.757041588Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 29:25",
+  "book": "job",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "Onların yolunu seçirdim və baş {{olaraq}} otururdum, və ⟨kimi⟩ {{bir}} padşah {{kimi}} dəstə ⟨içində⟩ sığınurdum, {{eləcə də}} yaslıları ⟨kimi}} o, təsəlli verərdim.",
+  "tokens": [
+    {
+      "surface": "אבחר",
+      "gloss": "seçirdim"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "onların yolunu"
+    },
+    {
+      "surface": "ואשב",
+      "gloss": "və otururdum"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "baş"
+    },
+    {
+      "surface": "ואשכון",
+      "gloss": "və sığınurdum"
+    },
+    {
+      "surface": "כמלך",
+      "gloss": "padşah kimi"
+    },
+    {
+      "surface": "בגדוד",
+      "gloss": "dəstə ⟨içində⟩"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "⟨kimi⟩"
+    },
+    {
+      "surface": "אבלים",
+      "gloss": "yaslıları"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "təsəlli verərdim"
+    }
+  ],
+  "timestamp": "2026-09-01T16:14:23.133212508Z",
+  "model": "glm-5.3"
+}

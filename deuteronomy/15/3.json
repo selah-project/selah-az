@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 15:3",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "⟨את⟩ xaricini sən tələb edə bilərsən, amma sənin qardaşınla olanı əlin bağışlasın.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xaricini"
+    },
+    {
+      "surface": "הנכרי",
+      "gloss": "xaricini"
+    },
+    {
+      "surface": "תגש",
+      "gloss": "tələb edə bilərsən"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "amma ki"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ilə"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "qardaşınla"
+    },
+    {
+      "surface": "תשמט",
+      "gloss": "bağışlasın"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "əlin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:51:26.981308101Z",
+  "model": "glm-5.3"
+}

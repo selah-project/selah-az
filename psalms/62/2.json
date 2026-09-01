@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 62,
+  "translation": "Yalnız Elohimə qarşı ⟨sükut edir⟩ canım; Ondandır nicatım.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elohimə qarşı"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "sükut edir"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "Ondan"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "nicatım"
+    }
+  ],
+  "timestamp": "2026-09-01T15:20:46.046152117Z",
+  "model": "glm-5.3"
+}

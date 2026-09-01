@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 3:7",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və dedim: Bütün bunları etdikdən sonra: Mənə qayıt — amma o qayıtmadı. Və onun xain bacısı Yehuda ⟨bunu⟩ gördü.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "və dedim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sonra"
+    },
+    {
+      "surface": "עשותה",
+      "gloss": "etdikdən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün bunları"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bunları"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "qayıt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma ... yox"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "qayıtmadı"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "və gördü"
+    },
+    {
+      "surface": "בגודה",
+      "gloss": "xain"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "bacısı"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-01T13:22:04.632061744Z",
+  "model": "glm-5.3"
+}

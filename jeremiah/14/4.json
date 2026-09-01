@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 14:4",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Torpaq çatladığına görə, çünki yerə yağış yağmamışdı, əkinçilər utandılar, başlarını örtülər.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "görə"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "torpaq"
+    },
+    {
+      "surface": "חתה",
+      "gloss": "çatladığına"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yağmamışdı"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "yağış"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerə"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "utandılar"
+    },
+    {
+      "surface": "אכרים",
+      "gloss": "əkinçilər"
+    },
+    {
+      "surface": "חפו",
+      "gloss": "örtülər"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "başlarını"
+    }
+  ],
+  "timestamp": "2026-09-01T13:31:39.608655157Z",
+  "model": "glm-5.3"
+}

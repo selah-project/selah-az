@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 11:6",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Qılınc onun şəhərlərində qılınclanacaq və onun qapı cırdalıqlarını yeyib qurtaracaq, öz məşvərətlərindən dolayı onları yeyəcək.",
+  "tokens": [
+    {
+      "surface": "וחלה",
+      "gloss": "qılınclanacaq"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "qılınc"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "onun şəhərlərində"
+    },
+    {
+      "surface": "וכלתה",
+      "gloss": "yeyib qurtaracaq"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "onun cırdalıqlarını"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "yeyəcək"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "özlərinin məşvərətlərindən"
+    }
+  ],
+  "timestamp": "2026-09-01T14:37:20.589725983Z",
+  "model": "glm-5.3"
+}

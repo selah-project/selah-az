@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 2:13",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "və onun ordusu və onların sayılmışları doqquz min beş yüz əlli üç min — ⟨yəni⟩ doqquz əlli min üç yüz",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "və onun ordusu"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "və onların sayılmışları"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "doqquz"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "və əlli"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "min"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "və üç"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    }
+  ],
+  "timestamp": "2026-09-01T10:32:45.985642810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 51,
+  "translation": "Xor başçısına ⟨məzmun⟩. Davudun məzmunu.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "xor başçısına"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "məzmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davudun"
+    }
+  ],
+  "timestamp": "2026-09-01T15:18:58.811351088Z",
+  "model": "glm-5.3"
+}

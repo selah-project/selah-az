@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 11:22",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Bunlardan ⟨את⟩ bunları yeyə bilərsiniz: növünə görə ⟨את⟩ çəgəyi, növünə görə ⟨את⟩ solamı, növünə görə ⟨את⟩ hargołu və növünə görə ⟨את⟩ çəyirtkəni.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bunları"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bunları"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "bunlardan"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yeyə bilərsiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çəgəyi"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "çəgəyi"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "növünə görə"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "solamı"
+    },
+    {
+      "surface": "הסלעם",
+      "gloss": "solamı"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "növünə görə"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "hargołu"
+    },
+    {
+      "surface": "החרגל",
+      "gloss": "hargołu"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "növünə görə"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "çəyirtkəni"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "çəyirtkəni"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "növünə görə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:24:25.666320574Z",
+  "model": "glm-5.3"
+}

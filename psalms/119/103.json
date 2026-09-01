@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 103,
+  "ref": "psalms 119:103",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Nə qədər şirindir damağıma Sənin sözün — baldan da şirin ağızıma!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "nə qədər"
+    },
+    {
+      "surface": "נמלצו",
+      "gloss": "şirindir"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "damağıma"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "Sənin sözün"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "baldan"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ağızıma"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:02.169813979Z",
+  "model": "glm-5.3"
+}

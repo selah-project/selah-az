@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Şəba melikəsi ⟨את⟩ Şlomonun bütün hikmətini və tikdiyi evi gördü.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "gördü"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "melikəsi"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Şəba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün hikmətini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "hikmətini"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şlomonun"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "və evi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "tikdiyi"
+    }
+  ],
+  "timestamp": "2026-09-01T12:16:49.468512476Z",
+  "model": "glm-5.3"
+}

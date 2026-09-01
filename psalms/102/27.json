@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 102:27",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 102,
+  "translation": "Onlar məhv olacaq, amma sən qalacaqsan; onların hamısı paltar kimi köhnəyəcək, libas kimi onları dəyişəcəksən və onlar dəyişiləcəklər.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "məhv olacaq"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "amma sən"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "qalacaqsan"
+    },
+    {
+      "surface": "וכלם",
+      "gloss": "onların hamısı"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "paltar kimi"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "köhnəyəcək"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "libas kimi"
+    },
+    {
+      "surface": "תחליפם",
+      "gloss": "onları dəyişəcəksən"
+    },
+    {
+      "surface": "ויחלפו",
+      "gloss": "dəyişiləcəklər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:34:35.902032358Z",
+  "model": "glm-5.3"
+}

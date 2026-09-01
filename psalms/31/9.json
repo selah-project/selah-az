@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 31:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "Məni düşmənin əlinə möhürləmədin, ayaqlarımı geniş yerdə durdurusan.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "və ... yox"
+    },
+    {
+      "surface": "הסגרתני",
+      "gloss": "məni möhürlədin"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "əlinə"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "düşmən"
+    },
+    {
+      "surface": "העמדת",
+      "gloss": "durdurdun"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "geniş yerdə"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ayaqlarım"
+    }
+  ],
+  "timestamp": "2026-09-01T15:08:29.303304386Z",
+  "model": "glm-5.3"
+}

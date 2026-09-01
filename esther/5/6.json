@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 5:6",
+  "book": "esther",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Və padşah şərab ziyafətində Esterə dedi: Xahişin nədir, və sənə veriləcək? İstəyin nədir? Padşahlığın yarısınadək ⟨o⟩ yerinə yetiriləcək.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Esterə"
+    },
+    {
+      "surface": "במשתה",
+      "gloss": "ziyafətində"
+    },
+    {
+      "surface": "היין",
+      "gloss": "şərab"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "שאלתך",
+      "gloss": "xahişin"
+    },
+    {
+      "surface": "וינתן",
+      "gloss": "və veriləcək"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "və nə"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "istəyin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-adək"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "yarısı"
+    },
+    {
+      "surface": "המלכות",
+      "gloss": "padşahlığın"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "və yerinə yetiriləcək"
+    }
+  ],
+  "timestamp": "2026-09-01T16:34:56.049872490Z",
+  "model": "glm-5.3"
+}

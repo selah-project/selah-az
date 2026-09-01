@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 12:13",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "De ki, xahiş edirəm: sən mənim bacımsan; ta ki, sənin sayəyində mənə yaxşı olsun və canım sənin üzündən sağ qalsın.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "de"
+    },
+    {
+      "surface": "נא",
+      "gloss": "xahiş edirəm"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "bacımsan"
+    },
+    {
+      "surface": "את",
+      "gloss": "sən"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ta ki"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "yaxşı olsun"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "בעבורך",
+      "gloss": "sənin sayəyində"
+    },
+    {
+      "surface": "וחיתה",
+      "gloss": "və sağ qalsın"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "בגללך",
+      "gloss": "sənin üzündən"
+    }
+  ],
+  "timestamp": "2026-09-01T09:48:47.250687603Z",
+  "model": "glm-5.3"
+}

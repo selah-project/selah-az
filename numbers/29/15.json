@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 29:15",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "və hər bir qoyun üçün bir onuncu hissə — on dörd qoyun üçün.",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "və bir onuncu hissə"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "onuncu hissə"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "bir qoyun üçün"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "hər biri"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "on dörd üçün"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "((on dördün hissəsi))"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "qoyunlar"
+    }
+  ],
+  "timestamp": "2026-09-01T10:43:01.623573689Z",
+  "model": "glm-5.3"
+}

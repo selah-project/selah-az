@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 20:5",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Və nə üçün bizi Mitsrayimdan yuxarı çıxartdınız, ⟨את⟩ bizi ⟨⟨ora⟩⟩ gətirmək üçün — ⟨ora⟩ bu pis yer? ⟨O⟩ toxum yeri deyil, əncir, üzüm və nar ⟨yoxdur⟩, və içməyə su yoxdur.",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "və nə üçün"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "yıxarı çıxartdınız"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayimdan"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "gətirmək üçün"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ bizi",
+      "marks": "bizi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ora⟩"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "yer"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "pis"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "deyil"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "yer"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "toxum"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "və əncir"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "və üzüm"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "və nar"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "və su"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "içməyə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:40:17.521503468Z",
+  "model": "glm-5.3"
+}

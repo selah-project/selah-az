@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 75:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 75,
+  "translation": "Bütün şər əməllilərin buynuzlarını qıracağam, salehin buynuzları isə ucaldılacaq.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "buynuzlarını"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "şər əməllilərin"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "qıracağam"
+    },
+    {
+      "surface": "תרוממנה",
+      "gloss": "ucaldılacaq"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "buynuzları"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "salehin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:24:31.001784064Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Yehoşua Amaleki və ⟨את⟩ onun xalqını qılıncağın ağzı ilə zəif saldı.",
+  "tokens": [
+    {
+      "surface": "ויחלש",
+      "gloss": "zəif saldı"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "onun xalqı"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "onun xalqı"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ağzı ilə"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "qılınc"
+    }
+  ],
+  "timestamp": "2026-09-01T10:10:28.366751389Z",
+  "model": "glm-5.3"
+}

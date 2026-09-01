@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 49,
+  "translation": "Qardaşı ⟨heç kim⟩ fidyə verib xilas edə bilməz, insan Elohimə onun fidyəsini verə bilməz.",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "Qardaşı"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bilməz"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "fidyə verib xilas edə"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "bilməz"
+    },
+    {
+      "surface": "איש",
+      "gloss": "insan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "verə bilməz"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohə"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "onun fidyəsi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:15:51.024048032Z",
+  "model": "glm-5.3"
+}

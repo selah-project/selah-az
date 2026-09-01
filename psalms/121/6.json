@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 121,
+  "translation": "Gündüz günəş səni vurmaz, ay da gecə ⟨səni vurmaz⟩.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "gündüz"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "günəş"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "səni vurmaz"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "ay da"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "gecə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:41:48.857085672Z",
+  "model": "glm-5.3"
+}

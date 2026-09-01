@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 150,
+  "ref": "psalms 119:150",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Yaxınlaşdılar pərakəndə işlərə qovalananlar; Törəndən uzaqlaşdılar.",
+  "tokens": [
+    {
+      "surface": "קרבו",
+      "gloss": "yaxınlaşdılar"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "qovalananlar"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "pərakəndə işlərə (şər planlara)"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "Törəndən"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "uzaqlaşdılar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:05.386742701Z",
+  "model": "glm-5.3"
+}

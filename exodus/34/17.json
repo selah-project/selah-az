@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 34,
+  "translation": "Ərimiş ⟨את⟩ bütlər özünə qoymayacaqsan. Ərimiş Elohim şəkli — məsdəkə — özün üçün düzəltməyəcəksən.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "məsdəkə (ərimiş)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "düzəltməyəcəksan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "özünə"
+    }
+  ],
+  "timestamp": "2026-09-01T17:56:46.279895243Z",
+  "model": "glm-5.3"
+}

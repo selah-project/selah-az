@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 2:21",
+  "book": "joshua",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "O dedi: «Sözünüzlə dediyiniz kimi ⟨olsun⟩.» Və onları yola saldı, və ⟨onlar⟩ getdilər; və o, al qırmızı kəndiri pəncərəyə bağladı.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "O dedi"
+    },
+    {
+      "surface": "כדבריכם",
+      "gloss": "sözünüzlə"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨olsun⟩"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "onları yola saldı"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "getdilər"
+    },
+    {
+      "surface": "ותקשר",
+      "gloss": "bağladı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al qırmızı kəndiri"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "al qırmızı kəndiri"
+    },
+    {
+      "surface": "השני",
+      "gloss": "al qırmızı"
+    },
+    {
+      "surface": "בחלון",
+      "gloss": "pəncərəyə"
+    }
+  ],
+  "timestamp": "2026-09-01T11:02:28.609998509Z",
+  "model": "glm-5.3"
+}

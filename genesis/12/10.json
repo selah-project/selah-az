@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 12:10",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Və torpaqda qıtlıq oldu, və Avram orada ⟨qonaq⟩ olmaq üçün Mitsrayimə endi, çünki qıtlıq torpaqda ağır idi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Və... oldu"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "qıtlıq"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "torpaqda"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "endi"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrayimə"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "⟨qonaq⟩ olmaq üçün"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ağır"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "qıtlıq"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "torpaqda"
+    }
+  ],
+  "timestamp": "2026-09-01T09:49:02.493567376Z",
+  "model": "glm-5.3"
+}

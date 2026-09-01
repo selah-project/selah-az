@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 35:25",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "Qəlblərində deməyin: «Həah, canımız ⟨qurtardı»!› Onu udduq deməyin.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "deməyin"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "desinlər"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "qəlblərində"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Həah"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "canımız"
+    },
+    {
+      "surface": "אל",
+      "gloss": "deməyin"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "desinlər"
+    },
+    {
+      "surface": "בלענוהו",
+      "gloss": "onu udduq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:11:44.262255720Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 60:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 60,
+  "translation": "Elohim ⟨ilə⟩ qəhrəmanlıq edəcəyik, və ⟨O⟩ düşmənlərimizi ayaq altına alacaq.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim ⟨ilə⟩"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "edəcəyik"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "qəhrəmanlıq"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "və ⟨O⟩"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "ayaq altına alacaq"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "düşmənlərimizi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:19:46.623739346Z",
+  "model": "glm-5.3"
+}

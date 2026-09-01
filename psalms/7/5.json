@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Əgər mən sülh içində olanla pislik etmisəmsə ⟨və⟩ haqsız yerə düşmənimi qurtarmışamsa ⟨belə olsun⟩ —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "etmisəmsə"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "sülh içində olanla"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pislik"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "⟨və⟩ qurtarmışamsa"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "düşmənimi"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "haqsız yerə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:01:51.066452500Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Və xalq Moşeyə fəryad etdi, və Moşe Yahveyə dua etdi, və od söndü.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "və fəryad etdi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-yə"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "və dua etdi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-yə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "və söndü"
+    },
+    {
+      "surface": "האש",
+      "gloss": "od"
+    }
+  ],
+  "timestamp": "2026-09-01T10:36:40.075615697Z",
+  "model": "glm-5.3"
+}

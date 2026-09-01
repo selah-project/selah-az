@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 6:12",
+  "book": "esther",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Mordoxay padşahın qapısına qayıtdı, Həman isə evinə tələsdi, yas tutaraq və başı örtülü.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "qayıtdı"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordoxay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "שער",
+      "gloss": "qapısına"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşahın"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "Həman isə"
+    },
+    {
+      "surface": "נדחף",
+      "gloss": "tələsdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-inə"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "evinə"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "yas tutaraq"
+    },
+    {
+      "surface": "וחפוי",
+      "gloss": "örtülü"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "başı"
+    }
+  ],
+  "timestamp": "2026-09-01T16:37:03.296571831Z",
+  "model": "glm-5.3"
+}

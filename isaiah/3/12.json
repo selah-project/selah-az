@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 3:12",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Xalqım — onu vergiyonanlar ⟨uşaqlardır⟩, və qadınlar ona hökm edir. Xalqım! Səni bəxeyişləyənlər səni azdırır və yolunun cığırlarını uddular.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "xalqım"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "vergiyonanları"
+    },
+    {
+      "surface": "מעולל",
+      "gloss": "⟨uşaqlardır⟩"
+    },
+    {
+      "surface": "ונשים",
+      "gloss": "və qadınlar"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "hökm edir"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqım"
+    },
+    {
+      "surface": "מאשריך",
+      "gloss": "səni bəxeyişləyənlər"
+    },
+    {
+      "surface": "מתעים",
+      "gloss": "azdırır"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "və yolunun"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "cığırlarını"
+    },
+    {
+      "surface": "בלעו",
+      "gloss": "uddular"
+    }
+  ],
+  "timestamp": "2026-09-01T12:46:15.640815415Z",
+  "model": "glm-5.3"
+}

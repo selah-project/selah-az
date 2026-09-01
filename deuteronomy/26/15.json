@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 26:15",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Müqəddəs məskənindən, göylərdən aşağı bax və ⟨את⟩ xalqını ⟨İsraeli⟩ mübarək et, ⟨את⟩ İsraeli, və ⟨את⟩ torpağı, atalarımıza and içdiyin kimi bizə verdiyin torpağı — süd və bal axan torpağı.",
+  "tokens": [
+    {
+      "surface": "השקיפה",
+      "gloss": "aşağı bax"
+    },
+    {
+      "surface": "ממעון",
+      "gloss": "məskənindən"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "müqəddəs ⟨sənin⟩"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göylər"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "və mübarək et"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqın"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "xalqın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "torpaq"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "torpaq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "verdin"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizə"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "and içdin"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "atalarımıza"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "torpaq"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "axan"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "süd"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "və bal"
+    }
+  ],
+  "timestamp": "2026-09-01T10:55:02.353371232Z",
+  "model": "glm-5.3"
+}

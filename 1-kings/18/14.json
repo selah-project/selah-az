@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 18:14",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "və indi sən deyirsən: «Gedib ağana bildir: Bax, Eliya buradadır» — və ⟨o⟩ məni öldürəcək.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "və indi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deyirsən"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gedib"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bildir"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "ağana"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliya"
+    },
+    {
+      "surface": "והרגני",
+      "gloss": "və məni öldürəcək"
+    }
+  ],
+  "timestamp": "2026-09-01T12:23:34.385218232Z",
+  "model": "glm-5.3"
+}

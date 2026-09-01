@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 63:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 63,
+  "translation": "Onlar isə canımı məhv etmək üçün axtarırlar, yerin ən dərinliklərinə girəcəklər.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "Onlar isə"
+    },
+    {
+      "surface": "לשואה",
+      "gloss": "məhv etmək üçün"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "axtarırlar"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "girəcəklər"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "ən dərinliklərinə"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:20:15.525591522Z",
+  "model": "glm-5.3"
+}

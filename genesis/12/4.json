@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 12:4",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Və Avram Yahvenin ona dediyi kimi getdi; və Lot ⟨את⟩ onunla getdi; və Avram Xarandan çıxanda ⟨o⟩ yetmiş beş yaşında idi ⟨oğlu⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "və getdi"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dediyi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "və getdi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onunla"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ואברם",
+      "gloss": "və Avram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨oğlu⟩ yaşı"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "beş"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "il"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "və yetmiş"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "il"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "çıxanda"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "Xarandan"
+    }
+  ],
+  "timestamp": "2026-09-01T09:49:06.619297663Z",
+  "model": "glm-5.3"
+}

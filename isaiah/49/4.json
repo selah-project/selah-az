@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 49:4",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 49,
+  "translation": "Mən isə dedim: Boş yerə əziyyət çəkdim, xəyala və puca gücümü tükəndirdim; amma hökmüm ⟨את⟩ Yahve yanındadır, əməlim ⟨את⟩ Elohimim yanındadır.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Mən isə"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "dedim"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "Boş yerə"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "əziyyət çəkdim"
+    },
+    {
+      "surface": "לתהו",
+      "gloss": "xəyala"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "və puca"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "gücümü"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "tükəndirdim"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "amma"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hökmüm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ופעלתי",
+      "gloss": "əməlim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    }
+  ],
+  "timestamp": "2026-09-01T13:11:10.408641418Z",
+  "model": "glm-5.3"
+}

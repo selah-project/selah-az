@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 14:8",
+  "book": "2-samuel",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Və padşah qadına dedi: Get evinə, və mən sənin haqqında əmr verəcəyəm.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "qadın"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "get"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "evinə"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "və mən"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "əmr verəcəyəm"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sənin haqqında"
+    }
+  ],
+  "timestamp": "2026-09-01T11:58:37.126000495Z",
+  "model": "glm-5.3"
+}

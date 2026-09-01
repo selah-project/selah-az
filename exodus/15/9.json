@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 15:9",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Düşmən dedi: Qovacağam, yetişəcəyəm, qəniməti bölüşdürəcəyəm, canım ⟨onlarla⟩ dolacaq, qılıncımı çəkəcəyəm, əlim onları məhv edəcək.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "düşmən"
+    },
+    {
+      "surface": "ארדף",
+      "gloss": "qovacağam"
+    },
+    {
+      "surface": "אשיג",
+      "gloss": "yetişəcəyəm"
+    },
+    {
+      "surface": "אחלק",
+      "gloss": "bölüşdürəcəyəm"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "qəniməti"
+    },
+    {
+      "surface": "תמלאמו",
+      "gloss": "dolacaq"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "אריק",
+      "gloss": "çəkəcəyəm"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "qılıncımı"
+    },
+    {
+      "surface": "תורישמו",
+      "gloss": "məhv edəcək"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "əlim"
+    }
+  ],
+  "timestamp": "2026-09-01T10:08:26.725338466Z",
+  "model": "glm-5.3"
+}

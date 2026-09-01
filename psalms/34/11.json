@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 34,
+  "translation": "Şir balaları yoxsullaşar və ac qalar, Yahvani axtaranlar isə heç bir yaxşılıqdan məhrum qalmazlar.",
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "şir balaları"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "yoxsullaşar"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "və ac qalar"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "axtaranlar isə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "məhrum qalmazlar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heç bir"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşılıqdan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:10:55.147953414Z",
+  "model": "glm-5.3"
+}

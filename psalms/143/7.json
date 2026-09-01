@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 143:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 143,
+  "translation": "Tələs, mənə cavab ver, ya Yahve, ruhum tükənir; Üzünü məndən gizlətmə, yoxsa çuxura enənlərlə ⟨bir olaram⟩.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "Tələs"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "mənə cavab ver"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "tükənir"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruhum"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "gizlətmə"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "Üzünü"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "məndən"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "⟨bir olaram⟩"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "enənlər"
+    },
+    {
+      "surface": "בור",
+      "gloss": "çuxura"
+    }
+  ],
+  "timestamp": "2026-09-01T15:45:40.459109638Z",
+  "model": "glm-5.3"
+}

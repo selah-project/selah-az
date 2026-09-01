@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 75,
+  "translation": "Çünki Elohim hakimdir: bunu alçaldır, bunu da yüksəldir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "hakimdir"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bunu"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "alçaldır"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "bunu da"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "yüksəldir"
+    }
+  ],
+  "timestamp": "2026-09-01T15:25:33.331068595Z",
+  "model": "glm-5.3"
+}

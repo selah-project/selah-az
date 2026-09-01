@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 17:2",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Tərk edilmiş Ərər şəhərləri; sürülər üçün ⟨olacaqlar⟩ və yatacaqlar, və qorxudan ⟨olmayacaq⟩.",
+  "tokens": [
+    {
+      "surface": "עזבות",
+      "gloss": "tərk edilmiş"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "şəhərləri"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "Ərər"
+    },
+    {
+      "surface": "לעדרים",
+      "gloss": "sürülmər üçün"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "olacaqlar"
+    },
+    {
+      "surface": "ורבצו",
+      "gloss": "və yatacaqlar"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "və yoxdur ⟨olmayacaq⟩"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "qorxudan"
+    }
+  ],
+  "timestamp": "2026-09-01T12:55:22.302853695Z",
+  "model": "glm-5.3"
+}

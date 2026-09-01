@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 13:24",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "və o, yola düşəndə bir şirlə qarşılaşdı və şir onu öldürdü; cəsədi yolda atılmış qaldı, eşşək onun yanında dayanırdı və şir də cəsədin yanında dayanırdı",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "və yola düşdü"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "onu tapdı"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "şir"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolda"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "onu öldürdü"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "və ⟨oldu⟩"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "onun cəsədi"
+    },
+    {
+      "surface": "משלכת",
+      "gloss": "atılmış"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolda"
+    },
+    {
+      "surface": "והחמור",
+      "gloss": "və eşşək"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "dayanırdı"
+    },
+    {
+      "surface": "אצלה",
+      "gloss": "onun yanında"
+    },
+    {
+      "surface": "והאריה",
+      "gloss": "və şir"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "dayanırdı"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "yanında"
+    },
+    {
+      "surface": "הנבלה",
+      "gloss": "cəsədin"
+    }
+  ],
+  "timestamp": "2026-09-01T12:19:23.952504808Z",
+  "model": "glm-5.3"
+}

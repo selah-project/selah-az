@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 11:10",
+  "book": "zechariah",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Və mən çubuğumu götürdüm — ⟨את⟩ Noam ⟨את⟩ — və ⟨את⟩ onu qırdım, bütün xalqlarla kəsdiyim ⟨את⟩ əhdimi ləğv etmək üçün.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "və götürdüm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çubuğumu"
+    },
+    {
+      "surface": "מקלי",
+      "gloss": "çubuğumu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noam"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "Noam"
+    },
+    {
+      "surface": "ואגדע",
+      "gloss": "və qırdım"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu"
+    },
+    {
+      "surface": "להפיר",
+      "gloss": "ləğv etmək üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əhdimi"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "əhdimi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "kəsdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün xalqlarla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "xalqları"
+    }
+  ],
+  "timestamp": "2026-09-01T14:58:06.096541729Z",
+  "model": "glm-5.3"
+}

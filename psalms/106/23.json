@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 106:23",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 106,
+  "translation": "Və dedi onları məhv etməyi ⟨niyyətində idi⟩, əgər olmasaydı Moşe, Onun seçilmişi, yarığın içində Onun hüzurunda dayanan, qəzəbini geri qaytaran məhv etməkdən —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Və dedi"
+    },
+    {
+      "surface": "להשמידם",
+      "gloss": "onları məhv etməyi"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "əgər olmasaydı"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "בחירו",
+      "gloss": "Onun seçilmişi"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "dayanan"
+    },
+    {
+      "surface": "בפרץ",
+      "gloss": "yarığın içində"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "Onun hüzurunda"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "geri qayturan"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "qəzəbini"
+    },
+    {
+      "surface": "מהשחית",
+      "gloss": "məhv etməkdən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:04.792102999Z",
+  "model": "glm-5.3"
+}

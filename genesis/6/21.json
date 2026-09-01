@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 6:21",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Və sən özün üçün bütün yeyilən yeməkdən götür və öz yanına topla; və ⟨o,⟩ sənə və onlara yemək olacaq.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "və sən"
+    },
+    {
+      "surface": "קח",
+      "gloss": "götür"
+    },
+    {
+      "surface": "לך",
+      "gloss": "özün üçün"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bütün...-dən"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "yemək"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yeyilən"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "və topla"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "öz yanına"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "və olacaq"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "ולהם",
+      "gloss": "və onlara"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "yemək olaraq"
+    }
+  ],
+  "timestamp": "2026-09-01T09:46:51.623157083Z",
+  "model": "glm-5.3"
+}

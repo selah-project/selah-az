@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 31:20",
+  "book": "job",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "əgər onun belləri məni alqışlamayıbsa, və qoyunlarımın yunundan qızmayıbsa —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ברכוני",
+      "gloss": "məni alqışlamayıbsa"
+    },
+    {
+      "surface": "חלצו",
+      "gloss": "onun belləri"
+    },
+    {
+      "surface": "ומגז",
+      "gloss": "və yunundan"
+    },
+    {
+      "surface": "כבשי",
+      "gloss": "qoyunlarımın"
+    },
+    {
+      "surface": "יתחמם",
+      "gloss": "qızmayıbsa"
+    }
+  ],
+  "timestamp": "2026-09-01T16:15:50.555377563Z",
+  "model": "glm-5.3"
+}

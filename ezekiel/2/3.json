@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 2:3",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və mənə dedi: insan oğlu, mən səni göndərirəm ⟨את⟩ səni Yişrael oğullarına, mənə qarşı üsyan etmiş üsyankar millətlərə; onlar və ataları bu günün özünə qədər mənə qarşı üsyan çıxdılar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "שולח",
+      "gloss": "göndərirəm"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ səni",
+      "marks": "sən"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yişrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "millətlərə"
+    },
+    {
+      "surface": "המורדים",
+      "gloss": "üsyan etmiş"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "üsyan etdilər"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mənə qarşı"
+    },
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "ואבותם",
+      "gloss": "və ataları"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "üsyan çıxdılar"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mənə qarşı"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "özünə"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bu günün"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-09-01T14:01:11.088933802Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 16:8",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Yahveyə şükür edin, Onun adı ilə çağırın, millətlər arasında Onun əməllərini bildirin!",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "şükür edin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "çağırın"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "Onun adı ilə"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "bildirin"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "millətlər arasında"
+    },
+    {
+      "surface": "עלילתיו",
+      "gloss": "Onun əməllərini"
+    }
+  ],
+  "timestamp": "2026-09-01T17:05:10.548264675Z",
+  "model": "glm-5.3"
+}

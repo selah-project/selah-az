@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 103,
+  "translation": "Şərq qərbdən nə qədər uzaqdırsa, ⟨o qədər⟩ uzaqlaşdırdı ⟨את⟩ üsyankarlıqlarımızı bizdən.",
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "nə qədər uzaq"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "şərq"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "qərbdən"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "uzaqlaşdırdı"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "bizdən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "üsyankarlıqlarımızı"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "üsyankarlıqlarımızı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:33:56.206510112Z",
+  "model": "glm-5.3"
+}

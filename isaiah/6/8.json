@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Və Adonayın ⟨את⟩ səsini eşitdim, deyən: ⟨את⟩ Kimi göndərim, kim bizim üçün gedəcək? Və dedim: Bax, burdayam — məni göndə.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "və eşitdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "səsi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "səsini"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayın"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deyən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kimi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "göndərim"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "və kim"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "gedəcək"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizim üçün"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "və dedim"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "bax, burdayam"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "məni göndə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:50:10.634242783Z",
+  "model": "glm-5.3"
+}

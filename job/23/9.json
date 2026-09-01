@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 23:9",
+  "book": "job",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Sol tərəfdə ⟨o⟩ işləyəndə, amma mən onu tutub görə bilmirəm; sağ tərəfdə özünü gizlədir ⟨o⟩, amma mən onu görmürəm.",
+  "tokens": [
+    {
+      "surface": "שמאול",
+      "gloss": "sol tərəfdə"
+    },
+    {
+      "surface": "בעשתו",
+      "gloss": "⟨o⟩ işləyəndə"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma … bilmirəm"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "onunututubgörə"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "özünü gizlədir"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "sağ tərəfdə"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "onugörmürəm"
+    }
+  ],
+  "timestamp": "2026-09-01T16:12:01.553447672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "Mən sənə sözlə ⟨cavab verəcəyəm⟩ və ⟨את⟩ dostların səninlə ⟨birlikdə⟩.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "sənə cavab verəcəyəm"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "sözlə"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "dostların"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "dostların"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "səninlə"
+    }
+  ],
+  "timestamp": "2026-09-01T16:16:58.522851647Z",
+  "model": "glm-5.3"
+}

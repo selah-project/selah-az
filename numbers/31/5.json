@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 31:5",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "İsrailin minliklərindən hər qəbilə üçün bir min nəfər təhvil verildi — on iki min səfərbər edilmiş döyüşçü.",
+  "tokens": [
+    {
+      "surface": "וימסרו",
+      "gloss": "təhvil verildi"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "minliklərindən"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "bir min"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "hər qəbilə üçün"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iki"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "on"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "min"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "səfərbər edilmiş"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "döyüşçü"
+    }
+  ],
+  "timestamp": "2026-09-01T10:44:31.581765237Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 32:12",
+  "book": "job",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Sizə qulaq asdım və bax, İyyovu təkzib edən yoxdur, onun sözlərinə sizdən cavab verən ⟨yoxdur⟩.",
+  "tokens": [
+    {
+      "surface": "ועדיכם",
+      "gloss": "sizə qədər"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "qulaq asdım (dərk etdim)"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "və bax"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "İyyova"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "təkzib edən"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "cavab verən"
+    },
+    {
+      "surface": "אמריו",
+      "gloss": "onun sözlərinə"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "sizdən"
+    }
+  ],
+  "timestamp": "2026-09-01T16:15:03.397422554Z",
+  "model": "glm-5.3"
+}

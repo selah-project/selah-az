@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 19:13",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Haradadır Chamathın kralı, Arpadın kralı və Sefarvayim şəhərinin kralı, Hena və Ivah?",
+  "tokens": [
+    {
+      "surface": "איו",
+      "gloss": "haradadır"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamathın"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "və kralı"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "Arpadın"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "və kralı"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "şəhərinin"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "Sefarvayim"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "Hena"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "və Ivah"
+    }
+  ],
+  "timestamp": "2026-09-01T12:41:18.512442875Z",
+  "model": "glm-5.3"
+}

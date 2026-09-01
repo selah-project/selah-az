@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 140,
+  "translation": "Bilirəm ki, Yahve məzlumun ⟨mühakiməsini⟩ edəcək, yoxsulların haqqını ⟨icra edəcək⟩.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Biliram"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "edəcək"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "דין",
+      "gloss": "mühakimə"
+    },
+    {
+      "surface": "עני",
+      "gloss": "məzlumun"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "haqq"
+    },
+    {
+      "surface": "אבינים",
+      "gloss": "yoxsulların"
+    }
+  ],
+  "timestamp": "2026-09-01T15:44:07.681336339Z",
+  "model": "glm-5.3"
+}

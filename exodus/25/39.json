@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 25:39",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Bir kikkar təmiz qızıldan onu ⟨onu⟩ düzəldəcək, ⟨את⟩ bütün bu alətləri ⟨ilə birlikdə⟩.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "bir kikkar"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "qızıl"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "təmiz"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "düzəldəcək"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "onu (mənərəyi)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün bu alətləri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "alətləri"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-09-01T17:27:22.014658651Z",
+  "model": "glm-5.3"
+}

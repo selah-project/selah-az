@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Və Paro dönüb evinə girdi və ürəyini buna da ⟨qoymadı⟩.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "və dönüb"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "girdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "evinə"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və … olmadı"
+    },
+    {
+      "surface": "שת",
+      "gloss": "qoymadı"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ürəyini"
+    },
+    {
+      "surface": "גם",
+      "gloss": "da"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "buna"
+    }
+  ],
+  "timestamp": "2026-09-01T10:04:52.463187502Z",
+  "model": "glm-5.3"
+}

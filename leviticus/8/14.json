@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 8:14",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və ⟨את⟩ günah buğağını yaxınlaşdırdı, və Aharon və oğulları ⟨את⟩ əllərini günah buğağının başı üstünə qoydular.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "yaxınlaşdırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "günah buğağını"
+    },
+    {
+      "surface": "פר",
+      "gloss": "buğağını"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "günah (qurbanının)"
+    },
+    {
+      "surface": "ויסמך",
+      "gloss": "qoydular"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "və oğulları"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əllərini"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "əllərini"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "başının"
+    },
+    {
+      "surface": "פר",
+      "gloss": "buğağının"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "günah (qurbanının)"
+    }
+  ],
+  "timestamp": "2026-09-01T10:25:17.070786901Z",
+  "model": "glm-5.3"
+}

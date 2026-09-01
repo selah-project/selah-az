@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Hikmət sahibinin ağzının sözləri lütfdür, amma_avamın dodaqları onu ⟨özünü⟩ udar.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "sözləri"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzının"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "hikmət sahibinin"
+    },
+    {
+      "surface": "חן",
+      "gloss": "lütf"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "dodaqları"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "avamın"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "udar"
+    }
+  ],
+  "timestamp": "2026-09-01T16:31:15.112370689Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 28:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "Davuda məxsusdur. Sənə, ey Yahve, səslənirəm; qayam, məndən kar çıxma, yoxsa ⟨əgər⟩ məndən sussan, çuxura enənlərlə bərabər sayılarım.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davuda məxsusdur"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Sənə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "səslənirəm"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "qayam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "kar çıxma"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "məndən"
+    },
+    {
+      "surface": "פן",
+      "gloss": "yoxsa"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "sussan"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "məndən"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "bərabər sayılarım"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "enənlərlə"
+    },
+    {
+      "surface": "בור",
+      "gloss": "çuxura"
+    }
+  ],
+  "timestamp": "2026-09-01T15:09:36.870736911Z",
+  "model": "glm-5.3"
+}

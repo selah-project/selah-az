@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Əgər onu əzsən — ⟨əlbəttə⟩, əgər o Mənə fəryad edərsə, fəryadını mütləq eşidəcəyəm.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "əzsən"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "əzsən (təkrar)"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki\/əlbəttə"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "fəryad"
+    },
+    {
+      "surface": "יצעע",
+      "gloss": "fəryad edərsə"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Mənə"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eşidəcəyəm"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "mütləq eşidəcəyəm"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "fəryadını"
+    }
+  ],
+  "timestamp": "2026-09-01T10:13:25.573531359Z",
+  "model": "glm-5.3"
+}

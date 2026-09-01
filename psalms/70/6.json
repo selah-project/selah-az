@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 70,
+  "translation": "Mən isə kasıb və ehtiyacıyam; Elohim, mənə tələs; mənim köməyim və qurtaranımsan ⟨sən⟩, Yahve, gecikmə.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "mən isə"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kasıb"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "və ehtiyac içində"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "tələs"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "mənim köməyim"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "və qurtaranım"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sənsan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "etmə"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "gecik"
+    }
+  ],
+  "timestamp": "2026-09-01T15:22:17.935777256Z",
+  "model": "glm-5.3"
+}

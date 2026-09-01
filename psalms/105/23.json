@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 105,
+  "translation": "İsrael Mitsrayimə gəldi və Yaqov Cham torpağında qonaq oldu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "və gəldi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrael"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimə"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "və Yaqov"
+    },
+    {
+      "surface": "גר",
+      "gloss": "qonaq oldu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "torpağında"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    }
+  ],
+  "timestamp": "2026-09-01T15:35:38.205739167Z",
+  "model": "glm-5.3"
+}

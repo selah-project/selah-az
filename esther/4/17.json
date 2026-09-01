@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "esther 4:17",
+  "book": "esther",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və Mordehay ⟨ötür⟩ getdi və Ester ona əmr etdiyi hər şeyi ⟨yerinə⟩ yetirdi.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "ötür getdi"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehay"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "yerinə yetirdi"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "hər şeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "əmr etdiyi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    }
+  ],
+  "timestamp": "2026-09-01T16:32:50.325869863Z",
+  "model": "glm-5.3"
+}

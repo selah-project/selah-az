@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 28:25",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "Və ⟨את⟩ iki zəncirin iki ucunu iki məşbə üzərinə qoyacaqsan, və efodun çiyni üstünə, onun üzlüyü ilə üzbəüz qoyacaqsan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iki ucunu"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iki"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ucunu"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iki"
+    },
+    {
+      "surface": "העבתת",
+      "gloss": "qövs zəncirin"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "qoyacaqsan"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iki"
+    },
+    {
+      "surface": "המשבצות",
+      "gloss": "məşbə"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "və qoyacaqsan"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "כתפות",
+      "gloss": "çiyni"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "מול",
+      "gloss": "üzbəüz"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "onun üzlüyü"
+    }
+  ],
+  "timestamp": "2026-09-01T10:18:04.748532348Z",
+  "model": "glm-5.3"
+}

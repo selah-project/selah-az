@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 43:7",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 43,
+  "translation": "Adımla çağırılan hər kəs — izzətim üçün mən onu yaratdım, onu formalaşdırdım, bəli, onu düzəltdim.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "הנקרא",
+      "gloss": "çağırılan"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "adımla"
+    },
+    {
+      "surface": "ולכבודי",
+      "gloss": "və izzətim üçün"
+    },
+    {
+      "surface": "בראתיו",
+      "gloss": "onu yaratdım"
+    },
+    {
+      "surface": "יצרתיו",
+      "gloss": "onu formalaşdırdım"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bəli"
+    },
+    {
+      "surface": "עשיתיו",
+      "gloss": "onu düzəltdim"
+    }
+  ],
+  "timestamp": "2026-09-01T13:06:51.118722995Z",
+  "model": "glm-5.3"
+}

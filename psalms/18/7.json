@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 18:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Sıxıntıda mən Yahve-ni çağırdım və Elohim-imə yalvardım; mənim səsimi eşitdi məbədindən, və qışqırığım Onun üzü qarşısında Onun qulaqlarına girdi.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "sıxıntıda"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənim ⟨üçün⟩"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "çağırdım"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve-ni"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və … -ə"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-imə"
+    },
+    {
+      "surface": "אשוע",
+      "gloss": "yalvardım"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "eşitdi"
+    },
+    {
+      "surface": "מהיכלו",
+      "gloss": "məbədindən"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "səsimi"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "və qışqırığım"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "Onun üzü qarşısında"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "girdi"
+    },
+    {
+      "surface": "באזניו",
+      "gloss": "Onun qulaqlarına"
+    }
+  ],
+  "timestamp": "2026-09-01T15:06:51.844538057Z",
+  "model": "glm-5.3"
+}

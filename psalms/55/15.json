@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 55:15",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 55,
+  "translation": "⟨O⟩ ki, birlikdə sirli məsləhəti şirinləşdirərdik, Elohimin evində izdiham ⟨içində⟩ gəzərdik.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "⟨o⟩ ki"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "birlikdə"
+    },
+    {
+      "surface": "נמתיק",
+      "gloss": "şirinləşdirərdik"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "sirli məsləhət"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "evində"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נהלך",
+      "gloss": "gəzərdik"
+    },
+    {
+      "surface": "ברגש",
+      "gloss": "izdiham ⟨içində⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T15:18:36.334635136Z",
+  "model": "glm-5.3"
+}

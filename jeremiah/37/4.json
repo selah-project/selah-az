@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 37:4",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "(Və Yirmeyahu xalqın arasında girib çıxırdı, çünki ⟨את⟩ onu həbs evinə salmamışdılar.)",
+  "tokens": [
+    {
+      "surface": "וירמיהו",
+      "gloss": "Və Yirmeyahu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "girib"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "çıxırdı"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqın"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "çünki ... yox"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "salmamışdılar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evinə"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "həbs"
+    }
+  ],
+  "timestamp": "2026-09-01T13:48:29.543938200Z",
+  "model": "glm-5.3"
+}

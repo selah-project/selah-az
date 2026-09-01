@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 17:9",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "və onu Yahve üçün qurban etmək üzrə görüş çadırının girişinə gətirməyən ⟨o⟩ adam öz xalqının arasından kəsiləcək.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "və ... üzrə"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "girişinə"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadırının"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "görüş"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "gətirməyən"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "etmək"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu (qurban)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve üçün"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "və kəsiləcək"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "öz xalqının arasından"
+    }
+  ],
+  "timestamp": "2026-09-01T10:28:35.257741762Z",
+  "model": "glm-5.3"
+}

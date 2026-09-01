@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 136:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 136,
+  "translation": "Güclü əllə və uzadılmış qolla; çünki onun hesedi əbədidir.",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "əllə"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "güclü"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "və qolla"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "uzadılmış"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədidir"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "onun hesedi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:43:54.062172162Z",
+  "model": "glm-5.3"
+}

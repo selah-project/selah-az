@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 138:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 138,
+  "translation": "Müqəddəs məbədinə tərəf səcdə edəcəyəm və ⟨את⟩ Adını şükranla yad edəcəyəm — hesedinin (sədaqətli sevgi) və sadiq olduğun üçün, çünki Adının bütünündən ötrü sözünü ucaltdın.",
+  "tokens": [
+    {
+      "surface": "אשתחוה",
+      "gloss": "səcdə edəcəyəm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tərəf"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "məbədinə"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "ואודה",
+      "gloss": "və şükranla yad edəcəyəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adını"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Adını"
+    },
+    {
+      "surface": "על",
+      "gloss": "üçün"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "və"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "sadiq olduğun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "ucaltdın"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündən ötrü"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Adının"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "sözünü"
+    }
+  ],
+  "timestamp": "2026-09-01T15:45:37.610167277Z",
+  "model": "glm-5.3"
+}

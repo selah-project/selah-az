@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 89,
+  "translation": "Onu yoldan ötən hamı qarət etdi; qonşuları üçün rüsvayçılıq oldu.",
+  "tokens": [
+    {
+      "surface": "שסהו",
+      "gloss": "onu qarət etdilər"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamı"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "ötən"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yoldan"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "rüsvayçılıq"
+    },
+    {
+      "surface": "לשכניו",
+      "gloss": "qonşuları üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T17:42:45.674243596Z",
+  "model": "glm-5.3"
+}

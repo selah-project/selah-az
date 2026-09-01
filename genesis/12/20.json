@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 12:20",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Paro onun haqqında adamlara əmr verdi, və onlar onu ⟨את⟩, və ⟨את⟩ arvadını, və ⟨את⟩ bütün malını yola saldılar.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "əmr verdi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun haqqında"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "adamlara"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "və yola saldılar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "arvadını"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "arvadını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bütün malını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onun"
+    }
+  ],
+  "timestamp": "2026-09-01T09:48:51.603797538Z",
+  "model": "glm-5.3"
+}

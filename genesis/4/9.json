@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 4:9",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Yahve Qayinə dedi: «Qardaşın Hevel haradadır?» O isə dedi: «Bilmirəm; məgər mən qardaşımın gözətçisiyəm?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Qayin"
+    },
+    {
+      "surface": "אי",
+      "gloss": "haradadır"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "qardaşın"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-mə"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "bilirəm"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "gözətçisi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "qardaşımın"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mən"
+    }
+  ],
+  "timestamp": "2026-09-01T09:46:04.039416350Z",
+  "model": "glm-5.3"
+}

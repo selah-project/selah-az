@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 108,
+  "translation": "Moav mənim yuyunma qazanımdır; Edom üzərinə ayaqqabımı atacağam; Pələşt üzərində qışqıracağam.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "qazan"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "mənim yuyunma(m)"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "atacağam"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "ayaqqabımı"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üzərində"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pələşt"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "qışqıracağam"
+    }
+  ],
+  "timestamp": "2026-09-01T15:37:26.594801044Z",
+  "model": "glm-5.3"
+}

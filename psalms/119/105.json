@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Sözün ayağım üçün çıraqdır və yoluma işıq.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "çıraq"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "ayağım üçün"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "sözün"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "və işıq"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "yoluma"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:00.688811379Z",
+  "model": "glm-5.3"
+}

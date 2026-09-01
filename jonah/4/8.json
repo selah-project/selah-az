@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 4:8",
+  "book": "jonah",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və günəş doğan zaman Elohim keşyeyləmi bir şərq küləyi təyin etdi, və günəş Yonanın başına vurdu, və o huşsuz düşdü, və öz canının ölməsini istədi, və dedi: Mənim ölməyim yaşamayımdan yaxşıdır.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "və oldu"
+    },
+    {
+      "surface": "כזרח",
+      "gloss": "doğan zaman"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "günəş"
+    },
+    {
+      "surface": "וימן",
+      "gloss": "təyin etdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "külək"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "şərq"
+    },
+    {
+      "surface": "חרישית",
+      "gloss": "keşyeyləmi"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "vurdu"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "günəş"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "başına"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonanın"
+    },
+    {
+      "surface": "ויתעלף",
+      "gloss": "huşsuz düşdü"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "istədi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öz canının"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "canının"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ölməsini"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşıdır"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "ölməyim"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "yaşamayımdan"
+    }
+  ],
+  "timestamp": "2026-09-01T14:46:46.121747114Z",
+  "model": "glm-5.3"
+}

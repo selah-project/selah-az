@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 49:25",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 49,
+  "translation": "Çünki belə deyir Yahve: hətta qüvvətlinin əsiri götürüləcək, və zorakının qəniməti qurtulacaq; və səninlə çənəşənlə ⟨את⟩ mən mübahisə edəcəyəm, və oğullarını ⟨את⟩ mən xilas edəcəyəm.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "כה",
+      "gloss": "belə"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hətta"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "əsiri"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "qüvvətlinin"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "götürüləcək"
+    },
+    {
+      "surface": "ומלקוח",
+      "gloss": "və qəniməti"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "zorakının"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "qurtulacaq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "səninlə çənəşənlə"
+    },
+    {
+      "surface": "יריבך",
+      "gloss": "səninlə çənəşənlə"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mən"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "mübahisə edəcəyəm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oğullarını"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mən"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "xilas edəcəyəm"
+    }
+  ],
+  "timestamp": "2026-09-01T13:12:46.443398560Z",
+  "model": "glm-5.3"
+}

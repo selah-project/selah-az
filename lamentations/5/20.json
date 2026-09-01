@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 5:20",
+  "book": "lamentations",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Niyə bizi əbədi unutursan, bizi çox günlərin uzunluğu boyunca tərk edirsən?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Niyə"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "תשכחנו",
+      "gloss": "unutursan bizi"
+    },
+    {
+      "surface": "תעזבנו",
+      "gloss": "tərk edirsən bizi"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "uzunluğu boyunca"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günlərin"
+    }
+  ],
+  "timestamp": "2026-09-01T16:28:25.148803081Z",
+  "model": "glm-5.3"
+}

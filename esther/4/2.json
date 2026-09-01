@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 4:2",
+  "book": "esther",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və padşahın qapısının önünə qədər gəldi, çünki kütlük geyinmiş şəxs üçün padşahın qapisindan ⟨keçmək⟩ ⟨yox idi⟩.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "və gəldi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünə"
+    },
+    {
+      "surface": "שער",
+      "gloss": "qapısının"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşahın"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yox idi"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "girmək ⟨üçün⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "שער",
+      "gloss": "qapısı"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşahın"
+    },
+    {
+      "surface": "בלבוש",
+      "gloss": "geyinmiş"
+    },
+    {
+      "surface": "שק",
+      "gloss": "kütlük"
+    }
+  ],
+  "timestamp": "2026-09-01T16:35:10.682848376Z",
+  "model": "glm-5.3"
+}

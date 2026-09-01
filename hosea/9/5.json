@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Nə edəcəksiniz təyin olunmuş günün ⟨günündə⟩ və Yahvenin bayramının günündə?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "edəcəksiniz"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "təyin olunmuş vaxt"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "və gün"
+    },
+    {
+      "surface": "חג",
+      "gloss": "bayram"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T14:38:16.283206206Z",
+  "model": "glm-5.3"
+}

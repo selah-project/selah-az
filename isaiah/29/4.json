@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 29:4",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "Və sən alçaldılacaqsan, yerdən danışacaqsan və tozdan sözünü aşağı ⟨söyləyəcəksən⟩; sənin səsin yerdən çıxan ⟨ovçu ruhu kimi⟩, sözün tozdan cıldayacaq.",
+  "tokens": [
+    {
+      "surface": "ושפלת",
+      "gloss": "alçaldılacaqsan"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yerdən"
+    },
+    {
+      "surface": "תדברי",
+      "gloss": "danışacaqsan"
+    },
+    {
+      "surface": "ומעפר",
+      "gloss": "tozdan"
+    },
+    {
+      "surface": "תשח",
+      "gloss": "aşağı söylə"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "sözünü"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "və olacaq"
+    },
+    {
+      "surface": "כאוב",
+      "gloss": "⟨ovçu ruhu kimi⟩"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yerdən"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "sənin səsin"
+    },
+    {
+      "surface": "ומעפר",
+      "gloss": "tozdan"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "sözün"
+    },
+    {
+      "surface": "תצפצף",
+      "gloss": "cıldayacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T13:00:52.048236439Z",
+  "model": "glm-5.3"
+}

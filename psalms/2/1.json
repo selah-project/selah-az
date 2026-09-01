@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Niyə qövmlər qürcümləndi və xalqlar boş şeylər düşünür?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "niyə"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "qürcümləndi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "qövmlər"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "və xalqlar"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "düşünür"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "boş şeylər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:01:49.099740742Z",
+  "model": "glm-5.3"
+}

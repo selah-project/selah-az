@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 66:9",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 66,
+  "translation": "Məgər mən ⟨doğuma⟩ gətirib də doğurtmaram? — deyir Yahve; məgər mən doğurtan olduğum halda ⟨bağını⟩ qapayıram? — deyir sənin Elohim-in.",
+  "tokens": [
+    {
+      "surface": "האני",
+      "gloss": "məgər mən"
+    },
+    {
+      "surface": "אשביר",
+      "gloss": "doğuma gətirib"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "də... olmaz"
+    },
+    {
+      "surface": "אוליד",
+      "gloss": "doğurtmaram"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "məgər"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "המוליד",
+      "gloss": "doğurtan"
+    },
+    {
+      "surface": "ועצרתי",
+      "gloss": "qapayıram"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sənin Elohim-in"
+    }
+  ],
+  "timestamp": "2026-09-01T13:19:42.808022211Z",
+  "model": "glm-5.3"
+}

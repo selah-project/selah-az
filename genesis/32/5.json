@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 32:5",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Və onlara əmr etdi, deyərək: Belə deyin ağam Esava: Belə dedi qulun Yaqov: Lavan ilə qonaq oldum və bu vaxta qədər qaldım.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "əmr etdi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "כה",
+      "gloss": "belə"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "deyin"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "ağama"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Esava"
+    },
+    {
+      "surface": "כה",
+      "gloss": "belə"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "qulun"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqov"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "qonaq oldum"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "və qaldım"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "indi"
+    }
+  ],
+  "timestamp": "2026-09-01T09:57:01.584389128Z",
+  "model": "glm-5.3"
+}

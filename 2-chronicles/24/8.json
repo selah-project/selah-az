@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 24:8",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Və padşah ⟨əmr etdi⟩, və bir sandıq düzəltdilər və onu Yahve evinin qapısında, bayırda qoydular.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "əmr etdi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "və düzəltdilər"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandıq"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "onu qoydular"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "qapısında"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evinin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "bayırda"
+    }
+  ],
+  "timestamp": "2026-09-01T17:19:16.711645409Z",
+  "model": "glm-5.3"
+}

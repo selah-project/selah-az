@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Yahve Elohimimiz bizimlə ⟨את⟩ əqdi Horebdə kəsdi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimiz"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "kəsdi"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "bizimlə"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "əqdi"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "Horebdə"
+    }
+  ],
+  "timestamp": "2026-09-01T17:57:35.862298119Z",
+  "model": "glm-5.3"
+}

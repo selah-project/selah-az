@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 60:10",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 60,
+  "translation": "Və yad övladları sənin divarlarını tikəcək, onların padşahları sənə xidmət edəcək; çünki qəzəbində səni vurdum, razılığımda sənə rəhm etdim.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "və tikəcək"
+    },
+    {
+      "surface": "בני",
+      "gloss": "övladları"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "yad"
+    },
+    {
+      "surface": "חמתיך",
+      "gloss": "sənin divarlarını"
+    },
+    {
+      "surface": "ומלכיהם",
+      "gloss": "onların padşahları"
+    },
+    {
+      "surface": "ישרתונך",
+      "gloss": "sənə xidmət edəcək"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "בקצפי",
+      "gloss": "qəzəbində"
+    },
+    {
+      "surface": "הכיתיך",
+      "gloss": "səni vurdum"
+    },
+    {
+      "surface": "וברצוני",
+      "gloss": "razılığımda"
+    },
+    {
+      "surface": "רחמתיך",
+      "gloss": "sənə rəhm etdim"
+    }
+  ],
+  "timestamp": "2026-09-01T13:16:37.050261915Z",
+  "model": "glm-5.3"
+}

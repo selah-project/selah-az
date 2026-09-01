@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 79,
+  "translation": "Qəzəbini Səni tanımayan millətlərin üstünə tök, Adınla çağırmayan səltənətlərin üstünə.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "tök"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "qəzəbini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "millətlərin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "Səni tanımayan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "və üstünə"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "səltənətlərin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "Adınla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "çağırmayan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:28:28.028439562Z",
+  "model": "glm-5.3"
+}

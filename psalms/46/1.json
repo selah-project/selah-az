@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 46,
+  "translation": "Xor rəhbərinə, Qorah oğullarına, aləmotlar üzərində, mahnı.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Xor rəhbərinə"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oğullarına"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qorah"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərində"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "aləmotlar"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "mahnı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:16:56.274207723Z",
+  "model": "glm-5.3"
+}

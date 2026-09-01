@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 113,
+  "translation": "Günəşin doğuşundan batışına qədər təriflənir Yahvenin adı.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "doğuşundan"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "günəşin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "batışına"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "təriflənir"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:37:53.029324702Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 11:10",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Moşe xalqın öz ailələri boyunca, hər kəs çadırının ağzında ağladığını eşitdi və Yahvenin qəzəbi çox alovlandı və Moşenin gözlərində ⟨bu⟩ pis idi.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "eşitdi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqın"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqın"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "ağladığını"
+    },
+    {
+      "surface": "למשפחתיו",
+      "gloss": "ailələri boyunca"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər kəs"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "ağzında"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "çadırının"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "alovlandı"
+    },
+    {
+      "surface": "אף",
+      "gloss": "qəzəbi (burnu)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çox"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "gözlərində"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşenin"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pis"
+    }
+  ],
+  "timestamp": "2026-09-01T10:37:24.884567477Z",
+  "model": "glm-5.3"
+}

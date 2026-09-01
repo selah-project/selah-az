@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 12:3",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "İnsan pərakəndəliklə möhkəmlənməz, salehlərin kökü isə heç tərpənməz.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "möhkəmlənməz"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "pərakəndəliklə"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "kökü isə"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "salehlərin"
+    },
+    {
+      "surface": "בל",
+      "gloss": "heç vaxt"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "tərpənməz"
+    }
+  ],
+  "timestamp": "2026-09-01T15:52:38.937493788Z",
+  "model": "glm-5.3"
+}

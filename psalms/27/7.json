@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 27:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Ey Yahve, səsimi eşit; mən çağırıram — mənə lütf et və mənə cavab ver.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "eşit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Ey Yahve"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "səsimi"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mən çağırıram"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "mənə lütf et"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "mənə cavab ver"
+    }
+  ],
+  "timestamp": "2026-09-01T15:09:28.046710148Z",
+  "model": "glm-5.3"
+}

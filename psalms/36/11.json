@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 36:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 36,
+  "translation": "Səni tanıyanlara hesedini uzat, ürəyi düz olanlara isə sənin ədalətini.",
+  "tokens": [
+    {
+      "surface": "משך",
+      "gloss": "uzat"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedini"
+    },
+    {
+      "surface": "לידעיך",
+      "gloss": "səni tanıyanlara"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "sənin ədalətini"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "düz olanlara"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ürəyi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:10:47.780365980Z",
+  "model": "glm-5.3"
+}

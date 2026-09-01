@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 1:9",
+  "book": "ezra",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və bunlar saylarıdır: qızıl aqartallar otuz, gümüş aqartallar min, bıçaqlar doqquz və iyirmi.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "və bunlar"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "saylarıdır"
+    },
+    {
+      "surface": "אגרטלי",
+      "gloss": "aqartallar"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "qızıl"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "otuz"
+    },
+    {
+      "surface": "אגרטלי",
+      "gloss": "aqartallar"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "min"
+    },
+    {
+      "surface": "מחלפים",
+      "gloss": "bıçaqlar"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "doqquz"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "və iyirmi"
+    }
+  ],
+  "timestamp": "2026-09-01T16:47:15.474383593Z",
+  "model": "glm-5.3"
+}

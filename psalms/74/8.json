@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 74:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 74,
+  "translation": "Ürəklərində dedilər: «Onları birlikdə məhv edək»; Elin bütün görüş yerlərini ölkədə yandırdılar.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "dedilər"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "ürəklərində"
+    },
+    {
+      "surface": "נינם",
+      "gloss": "onları məhv edək"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "birlikdə"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "yandırdılar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "görüş yerlərini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elin"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ölkədə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:25:13.225128107Z",
+  "model": "glm-5.3"
+}

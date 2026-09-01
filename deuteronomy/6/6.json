@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Və bu sözlər ki mən bu gün sənə əmr edirəm, qəlbinin üstündə ⟨olacaq⟩.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "⟨olacaq⟩"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sözlər"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mən"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "əmr edirəm"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bu gün"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "qəlbin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:47:29.447691218Z",
+  "model": "glm-5.3"
+}

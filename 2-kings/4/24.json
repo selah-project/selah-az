@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 4:24",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "O dişi eşşəyi yəhərlədi və öz oğlan quluna dedi: Yürüt və get; mənə minməyi dayandırma, yalnız sənə desəm.",
+  "tokens": [
+    {
+      "surface": "ותחבש",
+      "gloss": "yəhərlədi"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "dişi eşşəyi"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "oğlan qulu"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "yürüt"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "və get"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ima"
+    },
+    {
+      "surface": "תעצר",
+      "gloss": "dayandırma"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənim üçün"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "minməyi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "אם",
+      "gloss": "-sa"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "desəm"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:29:40.563717423Z",
+  "model": "glm-5.3"
+}

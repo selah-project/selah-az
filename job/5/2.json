@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 5:2",
+  "book": "job",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Çünki qəzəb axmağı öldürür, və qısqanclıq sadlövhü öldədir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "axmağı"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "öldürür"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "qəzəb"
+    },
+    {
+      "surface": "ופתה",
+      "gloss": "və sadlövhü"
+    },
+    {
+      "surface": "תמית",
+      "gloss": "öldədir"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "qısqanclıq"
+    }
+  ],
+  "timestamp": "2026-09-01T16:05:54.894971896Z",
+  "model": "glm-5.3"
+}

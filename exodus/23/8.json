@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 23:8",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Rüşvət götürmə, çünki rüşvət görənləri kor edir və salehlərin sözlərini təhrif edir.",
+  "tokens": [
+    {
+      "surface": "ושחד",
+      "gloss": "rüşvət"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "götürmə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "rüşvət"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "kor edir"
+    },
+    {
+      "surface": "פקחים",
+      "gloss": "görənləri"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "təhrif edir"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözlərini"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "salehlərin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:13:44.231759491Z",
+  "model": "glm-5.3"
+}

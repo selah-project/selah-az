@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 32:4",
+  "book": "job",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Elihu isə İyyova ⟨את⟩ sözlərlə qarşı söz üçün gözlədi, çünki onlar günlərdə ondan yaşlı idilər.",
+  "tokens": [
+    {
+      "surface": "ואליהו",
+      "gloss": "Elihu isə"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "gözlədi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İyyov"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "İyyova"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "sözlərlə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "yaşlı"
+    },
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "günlərdə"
+    }
+  ],
+  "timestamp": "2026-09-01T16:15:57.430388287Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 5:9",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Və sənin içində edəcəyəm ⟨את⟩ nəyi ki, etməmişəm, və ⟨את⟩ nəyi ki, bir daha onun kimisini etməyəcəyəm, bütün ikrahlarının yüzündən.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "və edəcəyəm"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sənin içində"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nəyi ki, etməmişəm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nəyi ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nə"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "etməmişəm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "nəyi ki, bir daha onun kimisini etməyəcəyəm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nəyi ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "etməyəcəyəm"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "onun kimisini"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bir daha"
+    },
+    {
+      "surface": "יען",
+      "gloss": "yüzündən"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "ikrahlarının"
+    }
+  ],
+  "timestamp": "2026-09-01T17:38:51.869182293Z",
+  "model": "glm-5.3"
+}

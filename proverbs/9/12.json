@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 9:12",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Əgər müdrik olsan, özün üçün müdrik olacaqsan; və əgər istehza etsən, təkbaşına ⟨bunu⟩ daşıyacaqsan.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "müdrik olsan"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "müdrik olacaqsan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "özün üçün"
+    },
+    {
+      "surface": "ולצת",
+      "gloss": "və istehza etsən"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "təkbaşına"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "daşıyacaqsan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:49:36.056810115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 1:19",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Hər qazanc qazananın yolları belədir: ⟨את⟩ sahibinin canını aparır.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "belədir"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "yolları"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "qazanc qazananın"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "qazanc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sahibinin canını"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "canını"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "sahibinin"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "aparır"
+    }
+  ],
+  "timestamp": "2026-09-01T15:47:10.874795213Z",
+  "model": "glm-5.3"
+}

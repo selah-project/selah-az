@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 31:24",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "Köynək (sadin) düzəltdi və sattı, kəmər isə Kənanlıya verdi.",
+  "tokens": [
+    {
+      "surface": "סדין",
+      "gloss": "köynək (sadin)"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "düzəltdi"
+    },
+    {
+      "surface": "ותמכר",
+      "gloss": "və sattı"
+    },
+    {
+      "surface": "וחגור",
+      "gloss": "kəmər isə"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "לכנעני",
+      "gloss": "Kənanlıya"
+    }
+  ],
+  "timestamp": "2026-09-01T16:01:36.116255960Z",
+  "model": "glm-5.3"
+}

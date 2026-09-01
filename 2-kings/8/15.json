@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 8:15",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və səhərisi gün o, örtüyü götürdü, suda islatdı və onun üzünə yaydı, və o öldü; və Chazael onun yerinə kral oldu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "və oldu"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "səhərisi gün"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "götürdü"
+    },
+    {
+      "surface": "המכבר",
+      "gloss": "örtük"
+    },
+    {
+      "surface": "ויטבל",
+      "gloss": "islatdı"
+    },
+    {
+      "surface": "במים",
+      "gloss": "suda"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "yaydı"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "onun üzü"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "öldü"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "kral oldu"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "Chazael"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "onun yerinə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:33:12.012560809Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 17:20",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Və torumu onun üstünə səpəcəyəm və o, şəbəkimdə tutulacaq, və onu Bavelə gətirəcəyəm və onunla ⟨את⟩ orada mühakimə edəcəyəm — xəyanətinə görə ki, Mənə qarşı xəyanət etdi.",
+  "tokens": [
+    {
+      "surface": "ופרשתי",
+      "gloss": "və səpəcəyəm"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üstünə"
+    },
+    {
+      "surface": "רשתי",
+      "gloss": "torumu"
+    },
+    {
+      "surface": "ונתפש",
+      "gloss": "və tutulacaq"
+    },
+    {
+      "surface": "במצודתי",
+      "gloss": "şəbəkimdə"
+    },
+    {
+      "surface": "והביאותיהו",
+      "gloss": "və onu gətirəcəyəm"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Bavelə"
+    },
+    {
+      "surface": "ונשפטתי",
+      "gloss": "və mühakimə edəcəyəm"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onunla",
+      "marks": "o (Sedeqiya)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "xəyanətinə görə"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "xəyanət etdi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Mənə qarşı"
+    }
+  ],
+  "timestamp": "2026-09-01T14:08:56.504406744Z",
+  "model": "glm-5.3"
+}

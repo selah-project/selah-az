@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 18:14",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Və bax, ⟨o⟩ oğul dünyaya gətirdi, ⟨o⟩ atasının etdiyi ⟨את⟩ bütün günahları görür, qorxur və beləsini etmir.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "və bax"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "oğul dünyaya gətirdi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "və görür"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün günahları"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "günahları"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atasının"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etdiyi"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "qorxur"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "edir"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "beləsini"
+    }
+  ],
+  "timestamp": "2026-09-01T14:11:36.717671196Z",
+  "model": "glm-5.3"
+}

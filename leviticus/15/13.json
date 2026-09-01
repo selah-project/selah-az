@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 15:13",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Və axıtdan ⟨qurtaran⟩ zibii axıtından təmizlənəndə, özü üçün təmizliyinin yeddi gününü sayacaq, paltarlarını yuyacaq, bədənini canlı suda yuyacaq və təmiz olacaq.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "və... -da"
+    },
+    {
+      "surface": "יטהר",
+      "gloss": "təmizlənəndə"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "axıtdan ⟨qurtaran⟩"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "axıtından"
+    },
+    {
+      "surface": "וספר",
+      "gloss": "sayacaq"
+    },
+    {
+      "surface": "לו",
+      "gloss": "özü üçün"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "yeddi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günü"
+    },
+    {
+      "surface": "לטהרתו",
+      "gloss": "təmizliyinin"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "yuyacaq"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "paltarlarını"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "yuyacaq"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "bədənini"
+    },
+    {
+      "surface": "במים",
+      "gloss": "suda"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "canlı"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "təmiz olacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T10:28:07.072101147Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "isaiah 37:35",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Və bu şəhəri qorumuş olacağam, onu xilas etmək üçün — Mənim üzdüm üçün və qulum Davudun üzdü üçün.",
+  "tokens": [
+    {
+      "surface": "וגנותי",
+      "gloss": "və qorumuş olacağam"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzdü"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨bu⟩ şəhəri"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "להושיעה",
+      "gloss": "onu xilas etmək üçün"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "Mənim üzdüm üçün"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "və … üzdü üçün"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davudun"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "qulum"
+    }
+  ],
+  "timestamp": "2026-09-01T17:36:32.178016210Z",
+  "model": "glm-5.3"
+}

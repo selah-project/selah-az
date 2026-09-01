@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "«Və ⟨את⟩ bunları quşlardan iyrənc sayın, yeyilməzlər, iyrəncdirlər: ⟨את⟩ qrğu, ⟨את⟩ pərəs quşu və ⟨את⟩ əzniyahı.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bunları"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bunları"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "iyrənc sayın"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "quşlardan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yeyilməzlər üçün: yox"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "yeyilməzlər"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "iyrəncdirlər: iyrənc"
+    },
+    {
+      "surface": "הם",
+      "gloss": "onlar(dır)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qrğunu"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "qrğu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pərəsi"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "pərəs quşu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "əzniyanı"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "əzniya"
+    }
+  ],
+  "timestamp": "2026-09-01T10:24:15.880045838Z",
+  "model": "glm-5.3"
+}

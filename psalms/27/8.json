@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Sənə dedi qəlbim: Üzümü axtarın; Üzünü, ey Yahve, ⟨את⟩ axtaracağam.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Sənə"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "qəlbim"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "axtarın"
+    },
+    {
+      "surface": "פני",
+      "gloss": "Üzümü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Üzünü"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "Üzünü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ey Yahve"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "axtaracağam"
+    }
+  ],
+  "timestamp": "2026-09-01T15:09:28.046835733Z",
+  "model": "glm-5.3"
+}

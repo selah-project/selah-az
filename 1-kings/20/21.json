@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Və Yisraelin kralı çıxdı və atları və döyüş arabalarını vurdu ⟨את⟩, və Aramı böyük bir vuruşla vurdu.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "çıxdı"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraelin"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "vurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atları"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "atları"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "döyüş arabalarını"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "döyüş arabalarını"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "və vurdu"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "Aramı"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "vuruşla"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "böyük"
+    }
+  ],
+  "timestamp": "2026-09-01T12:24:23.954644690Z",
+  "model": "glm-5.3"
+}

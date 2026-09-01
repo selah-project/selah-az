@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "⟨את⟩ kiçik bayquşu, ⟨את⟩ böyük bayquşu və ağ bayquşu",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiçik bayquşu"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "kiçik bayquş"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "böyük bayquşu"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "böyük bayquş"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "və ağ bayquş"
+    }
+  ],
+  "timestamp": "2026-09-01T17:29:47.748835449Z",
+  "model": "glm-5.3"
+}

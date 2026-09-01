@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 10:3",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Kərvümlər evin sağ tərəfində dayanmışdılar — adam girəndə; və bulud ⟨içəri⟩ həyəti doldurdu.",
+  "tokens": [
+    {
+      "surface": "והכרבים",
+      "gloss": "kərvümlər"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "dayanmışdılar"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "sağ tərəfində"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "evin"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "girəndə"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "və bulud"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "doldurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "içəri həyəti"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "həyəti"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "içəri"
+    }
+  ],
+  "timestamp": "2026-09-01T14:06:19.690379535Z",
+  "model": "glm-5.3"
+}

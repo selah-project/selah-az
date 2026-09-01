@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 91,
+  "translation": "Məni çağıracaq və Mən ona cavab verəcəyəm; sıxıntıda Mən onunla olacağam, onu xilas edəcəyəm və onu şərəfləndirəcəyəm.",
+  "tokens": [
+    {
+      "surface": "יקראני",
+      "gloss": "Məni çağıracaq"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "və ona cavab verəcəyəm"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "sıxıntıda"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "onu xilas edəcəyəm"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "və onu şərəfləndirəcəyəm"
+    }
+  ],
+  "timestamp": "2026-09-01T15:32:23.882208620Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "Çünki Yahve ⟨את⟩ Yaqovu fidyə ilə azad etdi və onu özündən güclü ⟨bir əlin⟩ əlindən qurtardı.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "fidyə ilə azad etdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaqovu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqovu"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "qurtardı"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "əlindən"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "güclü"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "özündən"
+    }
+  ],
+  "timestamp": "2026-09-01T13:39:38.290338486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 4:20",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Yehuda və İsrail çox idi, dənizin kənarındakı qum kimi çoxluqca; yeyir, içir və sevinirdilər.",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "və İsrail"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "çox"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "qum kimi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "kənarında"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dənizin"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "çoxluqca"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "yeyir"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "içir"
+    },
+    {
+      "surface": "ושמחים",
+      "gloss": "və sevinir"
+    }
+  ],
+  "timestamp": "2026-09-01T12:11:58.453549147Z",
+  "model": "glm-5.3"
+}

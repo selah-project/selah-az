@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Hikmət sahibinin ürəyi onun sağ tərəfindədir, axmağın ürəyi isə sol tərəfindədir.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "ürəyi"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "hikmət sahibinin"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "onun sağ tərəfində"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "və ürəyi"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "axmağın"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "sol tərəfində"
+    }
+  ],
+  "timestamp": "2026-09-01T16:31:51.842667333Z",
+  "model": "glm-5.3"
+}

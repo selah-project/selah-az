@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Yahve ona dedi: Əlindəki bu nədir? O dedi: ⟨Bir⟩ çomaq.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "bu nə(dir)"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "əlindəki"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "çomaq"
+    }
+  ],
+  "timestamp": "2026-09-01T10:05:31.936668539Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 20:20",
+  "book": "judges",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "İsrail adamları Binyaminlə müharibəyə çıxdılar və İsrail adamları ⟨את⟩ onlarla Givə qarşısında döyüş üçün səra düzəltdilər.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "çıxdılar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "müharibəyə"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "səra düzəltdilər"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onlarla"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "döyüş"
+    },
+    {
+      "surface": "אל",
+      "gloss": "qarşısında"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "Givə"
+    }
+  ],
+  "timestamp": "2026-09-01T11:29:36.116396126Z",
+  "model": "glm-5.3"
+}

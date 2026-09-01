@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Və işıq şirindir, və gözlər üçün yaxşıdır ⟨את⟩ günəşi görmək.",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "və şirindir"
+    },
+    {
+      "surface": "האור",
+      "gloss": "işıq"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "və yaxşıdır"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "gözlər üçün"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "görmək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "günəşi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "günəşi"
+    }
+  ],
+  "timestamp": "2026-09-01T16:33:11.296942982Z",
+  "model": "glm-5.3"
+}

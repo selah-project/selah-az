@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "Və başına baş sarığını qoyacaqsan, və ⟨את⟩ müqəddəs tacı baş sarığının üstünə qoyacaqsan.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "qoyacaqsan"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "baş sarığını"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "başına"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "qoyacaqsan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "müqəddəs tacı"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "tacı"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "baş sarığının"
+    }
+  ],
+  "timestamp": "2026-09-01T10:17:51.612369964Z",
+  "model": "glm-5.3"
+}

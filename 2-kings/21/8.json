@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 21:8",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Və atalarına verdiyim torpaqdan İsrailin ayağını bir daha sarsıtmayacağam; yalnız onlar qullarım Moşenin ⟨את⟩ onlara əmr etdiyi hər şeyə və bütün Tövrəyə görə əməl etməyi saxlasınlar.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "və... -mayacağam"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "bir daha"
+    },
+    {
+      "surface": "להניד",
+      "gloss": "sarsıtmaq"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ayağını"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "torpaq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "verdiyim"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "atalarına"
+    },
+    {
+      "surface": "רק",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "saxlasınlar"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "etməyi"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "hər şeyə"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צויתים",
+      "gloss": "əmr etdiyim"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "və"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tövrəyə"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "əmr etdi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onlara"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "qullarım"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşenin"
+    }
+  ],
+  "timestamp": "2026-09-01T12:43:07.404581150Z",
+  "model": "glm-5.3"
+}

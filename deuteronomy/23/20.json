@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Qardaşına faiz qoymayacaqsan — gümüşün faizi, yeməyin faizi, faiz qoyulan hər şeyin faizi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "faiz qoymayacaqsan"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "qardaşına"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "faizi"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüşün"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "faizi"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yeməyin"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "faizi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "şeyin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "faiz qoyulan"
+    }
+  ],
+  "timestamp": "2026-09-01T10:54:24.376204815Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 107,
+  "translation": "Qaranlıqda və ölüm kölgəsində oturanlar, dərdə və dəmirə bağlı əsirlər —",
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "oturanlar"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "qaranlıqda"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "və ölüm kölgəsində"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "əsirlər"
+    },
+    {
+      "surface": "עני",
+      "gloss": "dərdə"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "və dəmirə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:35:27.489283203Z",
+  "model": "glm-5.3"
+}

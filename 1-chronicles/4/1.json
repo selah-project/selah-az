@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Yehudanın oğulları: Perets, Chetsron, Karmi, Chur və Shoval.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudanın"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Chetsron"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "və Karmi"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "və Chur"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "və Shoval"
+    }
+  ],
+  "timestamp": "2026-09-01T17:01:52.168495199Z",
+  "model": "glm-5.3"
+}

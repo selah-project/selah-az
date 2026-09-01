@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 96:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 96,
+  "translation": "İzzət və əzəmət üzündədir, qüdrət və gözəllik məbədindədir.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "izzət"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "və əzəmət"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "üzündədir"
+    },
+    {
+      "surface": "עז",
+      "gloss": "qüdrət"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "və gözəllik"
+    },
+    {
+      "surface": "במקדשו",
+      "gloss": "məbədindədir"
+    }
+  ],
+  "timestamp": "2026-09-01T15:31:54.570021206Z",
+  "model": "glm-5.3"
+}

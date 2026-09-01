@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 8:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Balaca uşaqların və süd əmən körpələrin ağzından sən ⟨öz⟩ qüvvətini bünövrələdin — düşmənlərinə qarşı, düşməni və intiqamçını susdurmaq üçün.",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "ağzından"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "balaca uşaqların"
+    },
+    {
+      "surface": "וינקים",
+      "gloss": "və süd əmən körpələrin"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "bünövrələdin"
+    },
+    {
+      "surface": "עז",
+      "gloss": "qüvvət"
+    },
+    {
+      "surface": "למען",
+      "gloss": "qarşı (üçün)"
+    },
+    {
+      "surface": "צורריך",
+      "gloss": "düşmənlərinə"
+    },
+    {
+      "surface": "להשבית",
+      "gloss": "susdurmaq üçün"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "düşməni"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "və intiqamçını"
+    }
+  ],
+  "timestamp": "2026-09-01T15:02:45.419185841Z",
+  "model": "glm-5.3"
+}

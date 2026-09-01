@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Qardaşlarınıza deyin: Ammi (Mənim xalqım), və bacılarınıza: Ruhama (Rəhm olunmuş).",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "deyin"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "qardaşlarınıza"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ammi (Mənim xalqım)"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "və bacılarınıza"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruhama (Rəhm olunmuş)"
+    }
+  ],
+  "timestamp": "2026-09-01T14:35:06.894225930Z",
+  "model": "glm-5.3"
+}

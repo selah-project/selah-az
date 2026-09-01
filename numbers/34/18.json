@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 34:18",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 34,
+  "translation": "Və hər qəbilədən bir başçı, bir başçı götürəsiniz ki, torpağı ⟨את⟩ miras olaraq alsınlar.",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "və bir başçı"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "başçı"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "qəbilədən"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "götürəsiniz"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "miras almaq üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "torpağı"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "torpağı"
+    }
+  ],
+  "timestamp": "2026-09-01T10:45:00.553371833Z",
+  "model": "glm-5.3"
+}

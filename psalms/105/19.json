@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 105:19",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 105,
+  "translation": "Qədər ki, onun sözü gəldi — Yahvenin kəlamı onu saflaşdırdı.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "qədər ki"
+    },
+    {
+      "surface": "עת",
+      "gloss": "⟨vaxtı⟩"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gəldi"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "onun sözü"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "kəlamı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "צרפתהו",
+      "gloss": "onu saflaşdırdı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:25.373618053Z",
+  "model": "glm-5.3"
+}

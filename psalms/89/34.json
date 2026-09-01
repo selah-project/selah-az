@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 89:34",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 89,
+  "translation": "Amma hesedimi ondan qoparmayacağam və sadiqliyimdə yalan deməyəcəyəm.",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "hesedimi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "אפיר",
+      "gloss": "qoparmayacağam"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "אשקר",
+      "gloss": "yalan deməyəcəyəm"
+    },
+    {
+      "surface": "באמונתי",
+      "gloss": "sadiqliyimdə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:53.478555923Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 42:4",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 42,
+  "translation": "Və otaqların önündə daxili tərəfə doğru on qulac enində keçid ⟨var idi⟩, bir qulaclik yolla, və onların qapıları şimala ⟨açıq idi⟩.",
+  "tokens": [
+    {
+      "surface": "ולפני",
+      "gloss": "və önündə"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "otaqların"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "keçid"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "on"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "qulac"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "enində"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə doğru"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "daxili tərəf"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yol"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "qulac"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "bir"
+    },
+    {
+      "surface": "ופתחיהם",
+      "gloss": "və onların qapıları"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "şimala"
+    }
+  ],
+  "timestamp": "2026-09-01T14:28:13.573163817Z",
+  "model": "glm-5.3"
+}

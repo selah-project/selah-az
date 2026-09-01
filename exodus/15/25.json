@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 15:25",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "O, Yahveyə fəryad etdi, və Yahve ona bir ağac göstərdi; onu sulara atdı, və sular şirin oldu. Orada ona ⟨bir⟩ hökm və məhkəmə qoydu, və orada onu sınadı.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "fəryad etdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויורהו",
+      "gloss": "ona göstərdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ağac"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "atdı"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "המים",
+      "gloss": "sular"
+    },
+    {
+      "surface": "וימתקו",
+      "gloss": "şirin oldu"
+    },
+    {
+      "surface": "המים",
+      "gloss": "sular"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "שם",
+      "gloss": "qoydu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "חק",
+      "gloss": "hökm"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "və məhkəmə"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "və orada"
+    },
+    {
+      "surface": "נסהו",
+      "gloss": "onu sınadı"
+    }
+  ],
+  "timestamp": "2026-09-01T10:08:47.127236632Z",
+  "model": "glm-5.3"
+}

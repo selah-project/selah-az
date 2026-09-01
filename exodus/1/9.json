@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və öz xalqına dedi: Bax, İsrail oğullarının xalqı çoxdur və ondan qüvvətlidir.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−ə"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "öz xalqına"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalqı"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "רב",
+      "gloss": "çoxdur"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "və qüvvətli"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    }
+  ],
+  "timestamp": "2026-09-01T10:03:53.523986028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 13:7",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Və onlara şir ⟨kimi⟩ oldum, yol üstündə bəbir ⟨kimi⟩ onları gözləyəcəm.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "Və oldum"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "⟨kimi⟩"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "şir"
+    },
+    {
+      "surface": "כנמר",
+      "gloss": "bəbir ⟨kimi⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yol"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "onları gözləyəcəm"
+    }
+  ],
+  "timestamp": "2026-09-01T14:37:18.193825536Z",
+  "model": "glm-5.3"
+}

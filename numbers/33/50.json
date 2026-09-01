@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 33:50",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "və Yahve Moav çöllərində, Yarden üzərində, Yerixonun qarşısında Moşeyə danışdı, deyə:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "və danışdı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "çöllərində"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərində"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yeriho qarşısında"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:45:03.458072386Z",
+  "model": "glm-5.3"
+}

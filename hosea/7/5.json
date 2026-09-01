@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 7:5",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Bizim kralımızın günü — şahlar şərabın hərarəti ilə xəstələşdilər; ⟨o⟩ əlini ⟨את⟩ istehzaçılarla uzatdı.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "günü"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "bizim kralımızın"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "xəstələşdilər"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "şahlar"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "hərarəti"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "şərabın"
+    },
+    {
+      "surface": "משך",
+      "gloss": "uzatdı"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "əlini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "istehzaçılarla"
+    },
+    {
+      "surface": "לצצים",
+      "gloss": "istehzaçılarla"
+    }
+  ],
+  "timestamp": "2026-09-01T14:37:47.213553081Z",
+  "model": "glm-5.3"
+}

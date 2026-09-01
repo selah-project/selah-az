@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 6:2",
+  "book": "micah",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Eşidin, ey dağlar, Yahvenin ⟨את⟩ mübahisəsini, və ey yerin möhkəm təməlləri, çünki Yahvenin xalqı ilə mübahisəsi var, və İsraillə o, özünü müdafiə edəcək.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Eşidin"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ey dağlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahvenin mübahisəsini"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "mübahisəsini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "והאתנים",
+      "gloss": "və ey möhkəm ⟨təməllər⟩"
+    },
+    {
+      "surface": "מסדי",
+      "gloss": "təməlləri"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "mübahisəsi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "xalqı"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "və ilə"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "יתוכח",
+      "gloss": "özünü müdafiə edəcək"
+    }
+  ],
+  "timestamp": "2026-09-01T14:49:26.264667109Z",
+  "model": "glm-5.3"
+}

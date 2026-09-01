@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 18:25",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Və Yahve mənə salehliyimə görə, əllərimin təmizliyinə görə — onun gözlərinin qarşısında — qaytardı.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "qaytardı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "salehliyimə görə"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "təmizliyinə görə"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "əllərimin"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "qarşısında"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "onun gözlərinin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:07:09.699571477Z",
+  "model": "glm-5.3"
+}

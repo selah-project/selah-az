@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 96:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 96,
+  "translation": "Millətlər içində izzətini danışın, bütün xalqlar içində möcüzələrini.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "danışın"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "millətlər içində"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "izzətini"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "xalqlar içində"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "möcüzələrini"
+    }
+  ],
+  "timestamp": "2026-09-01T15:32:19.049291231Z",
+  "model": "glm-5.3"
+}

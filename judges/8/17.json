@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 8:17",
+  "book": "judges",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və ⟨את⟩ Penuel qalasını dağıtdı, və şəhərin adamlarını öldürdü.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Penuel qalasını"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "qala"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "dağıtdı"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "və öldürdü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şəhərin adamlarını"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "adamlarını"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şəhərin"
+    }
+  ],
+  "timestamp": "2026-09-01T11:21:05.496543571Z",
+  "model": "glm-5.3"
+}

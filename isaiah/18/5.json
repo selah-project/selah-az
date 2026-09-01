@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 18:5",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Çünki biçindən əvvəl, çiçək tamamlanandan və tumurcuq yetişən giləmeyvəyə çevriləndə, ⟨o⟩ zoğları budama bıçaqları ilə kəsəcək, və ⟨את⟩ sallaq budaqları götürüb kəsəcək.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "əvvəl"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "biçin"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "tamamlanandan"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "çiçək"
+    },
+    {
+      "surface": "ובסר",
+      "gloss": "və yetişən giləmeyvə"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "çevriləndə"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨olacaq⟩"
+    },
+    {
+      "surface": "נצה",
+      "gloss": "tumurcuq"
+    },
+    {
+      "surface": "וכרת",
+      "gloss": "və kəsəcək"
+    },
+    {
+      "surface": "הזלזלים",
+      "gloss": "zoğları"
+    },
+    {
+      "surface": "במזמרות",
+      "gloss": "budama bıçaqları ilə"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sallaq budaqları"
+    },
+    {
+      "surface": "הנטישות",
+      "gloss": "sallaq budaqları"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "götürüb"
+    },
+    {
+      "surface": "התז",
+      "gloss": "kəsəcək"
+    }
+  ],
+  "timestamp": "2026-09-01T12:54:42.570138392Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 37:1",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Və oldu: kral Hizqiya ⟨bunu⟩ eşidəndə paltarlarını yırtdı, küncə büzüldü və daba örtündü, Yahvenin evinə girdi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "və oldu"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "eşidəndə"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizqiya"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "yırtdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paltarlarını"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "paltarlarını"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "örtündü"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "daba"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "girdi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evinə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T17:35:46.085582899Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 10:10",
+  "book": "job",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Məgər süd kimi tökmədin məni və pendir kimi qatılaşdırmadın məni?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Məgər"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "süd kimi"
+    },
+    {
+      "surface": "תתיכני",
+      "gloss": "tökmədin məni"
+    },
+    {
+      "surface": "וכגבנה",
+      "gloss": "və pendir kimi"
+    },
+    {
+      "surface": "תקפיאני",
+      "gloss": "qatılaşdırmadın məni"
+    }
+  ],
+  "timestamp": "2026-09-01T16:06:32.546584530Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 12:9",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Və kahinlər razı oldular — xalqın yanından ⟨את⟩ gümüşü almamaq və ⟨את⟩ evin çatlaqlarını möhkəmləndirməmək üçün.",
+  "tokens": [
+    {
+      "surface": "ויאתו",
+      "gloss": "razı oldular"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kahinlər"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "olmamaq üçün"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "almaq"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ yanından"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqın"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "və olmamaq üçün"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "möhkəmləndirmək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "evin çatlaqlarını"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "çatlaqlarını"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "evin"
+    }
+  ],
+  "timestamp": "2026-09-01T12:38:00.290253220Z",
+  "model": "glm-5.3"
+}

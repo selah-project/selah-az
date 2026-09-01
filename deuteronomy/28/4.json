@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 28:4",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "Mübarəkdir bətninin məhsulu, torpağının məhsulu, mal-qaranın məhsulu — iri buynuzlularının bala doğumu və qoyunlarının doğulmuşları.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "mübarəkdir"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "məhsulu"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "bətninin"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "və məhsulu"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "torpağının"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "və məhsulu"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "mal-qaranın"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "bala doğumu"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "iri buynuzlularının"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "və doğulmuşları"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "qoyunlarının"
+    }
+  ],
+  "timestamp": "2026-09-01T10:56:28.172874601Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 113:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 113,
+  "translation": "Kim ⟨dir⟩ Yahve Elohimimiz kimi — özünü yüksəldib oturan ⟨O⟩?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kim"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "Yahve kimi"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimiz"
+    },
+    {
+      "surface": "המגביהי",
+      "gloss": "özünü yüksəldib oturan"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "oturan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:37:21.519417893Z",
+  "model": "glm-5.3"
+}

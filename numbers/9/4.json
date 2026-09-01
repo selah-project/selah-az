@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Moşe İsrail oğullarına danışdı Pesahı ⟨hazırlasınlar⟩ deyə.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "danışdı"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarına"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "hazırlasınlar deyə"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesahı"
+    }
+  ],
+  "timestamp": "2026-09-01T10:36:35.884879665Z",
+  "model": "glm-5.3"
+}

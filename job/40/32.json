@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 40:32",
+  "book": "job",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "Əlini ona qoy; müharibəni xatırla — ⟨bunu⟩ artıq etməyəcəksən.",
+  "tokens": [
+    {
+      "surface": "שים",
+      "gloss": "qoy"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üstünə"
+    },
+    {
+      "surface": "כפך",
+      "gloss": "əlini"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "xatırla"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "müharibəni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "artıq etməyəcəksən"
+    }
+  ],
+  "timestamp": "2026-09-01T16:19:50.548005198Z",
+  "model": "glm-5.3"
+}

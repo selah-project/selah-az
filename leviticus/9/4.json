@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 9:4",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "və Yahvenin hüzurunda kəsmək üçün salam qurbanı olaraq bir öküz və bir qoç, yağla qarışdırılmış un qurbanı ⟨götürün⟩; çünki bu gün Yahve sizə görünəcək.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "və bir öküz"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "və bir qoç"
+    },
+    {
+      "surface": "לשלמים",
+      "gloss": "salam qurbanı olaraq"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "kəsmək üçün"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hüzurunda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "və un qurbanı"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "qarışdırılmış"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "yağla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bu gün"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "görünəcək"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "sizə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:25:06.304994713Z",
+  "model": "glm-5.3"
+}

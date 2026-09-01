@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 14:11",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Və ⟨onlar⟩ ⟨את⟩ Sedomin və Amoranın bütün malını və ⟨את⟩ onların bütün azuqəsini götürüb getdilər.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "və götürdülər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün mal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "רכש",
+      "gloss": "mal"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedomin"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "və Amoranın"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "bütün azuqə"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "azuqəsini"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "getdilər"
+    }
+  ],
+  "timestamp": "2026-09-01T09:48:57.061853402Z",
+  "model": "glm-5.3"
+}

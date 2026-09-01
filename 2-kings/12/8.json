@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 12:8",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Kral Yehoash kahin Yehoyadayı və kahinləri çağırdı və onlara dedi: Niyə evin çatını ⟨את⟩ möhkəmləndirmirsiniz? İndi isə tanışlarınızdan ⟨את⟩ artıq gümüş götürməyin, çünki onu evin çatına ⟨verəcəksiniz⟩.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "çağırdı"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoash"
+    },
+    {
+      "surface": "ליהוידע",
+      "gloss": "Yehoyodaya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "ולכהנים",
+      "gloss": "və kahinlərə"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "niyə"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "siz ⟨deyilsiniz⟩"
+    },
+    {
+      "surface": "מחזקים",
+      "gloss": "möhkəmləndirən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "evin çatını"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "çatını"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "evin"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "indi isə"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨-məyin⟩"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "götürməyin"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩-dan",
+      "marks": "öz tanışlarınızdan"
+    },
+    {
+      "surface": "מכריכם",
+      "gloss": "tanışlarınızdan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לבדק",
+      "gloss": "çatına"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "evin"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "onu verin"
+    }
+  ],
+  "timestamp": "2026-09-01T12:37:11.924611370Z",
+  "model": "glm-5.3"
+}

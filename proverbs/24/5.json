@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Müdrik kişi gücdə ⟨güclüdür⟩, və bilik sahibi qüvvəti möhkəmləndirir.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "kişi"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "müdrik"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "gücdə"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "və kişi"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "bilik"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "möhkəmləndirir"
+    },
+    {
+      "surface": "כח",
+      "gloss": "qüvvəti"
+    }
+  ],
+  "timestamp": "2026-09-01T15:57:45.372534409Z",
+  "model": "glm-5.3"
+}

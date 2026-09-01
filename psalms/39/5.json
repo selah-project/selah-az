@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 39:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 39,
+  "translation": "Bildir mənə, Yahve, sonumu və günlərimin ölçüsünü — nədir ⟨o⟩; bilim nə qədər ⟨ömrü başa çatmış⟩ ⟨mən⟩.",
+  "tokens": [
+    {
+      "surface": "הודיעני",
+      "gloss": "bildir mənə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "קצי",
+      "gloss": "sonumu"
+    },
+    {
+      "surface": "ומדת",
+      "gloss": "və ölçüsünü"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "günlərimin"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "היא",
+      "gloss": "o⟨dur⟩"
+    },
+    {
+      "surface": "אדעה",
+      "gloss": "bilim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə qədər"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "ömrü başa çatmış"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:14:41.163691703Z",
+  "model": "glm-5.3"
+}

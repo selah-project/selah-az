@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Və Yahve Şelomoya qarşı bir əleyhdar qaldırdı — ⟨את⟩ Hadad Ədomini; o, Ədomda padşah nəslindən idi.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "qaldırdı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "əleyhdar"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Şelomoya qarşı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadad Ədomini"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "Ədomi"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "nəslindən"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşahın"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "Ədomda"
+    }
+  ],
+  "timestamp": "2026-09-01T12:18:42.266338210Z",
+  "model": "glm-5.3"
+}

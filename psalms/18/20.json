@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 18:20",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Və çıxartdı məni geniş yerə, qurtaracaq məni, çünki O, məndən razı qaldı.",
+  "tokens": [
+    {
+      "surface": "ויוציאני",
+      "gloss": "və çıxartdı məni"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "geniş yerə"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "qurtaracaq məni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "razı qaldı"
+    },
+    {
+      "surface": "בי",
+      "gloss": "məndən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:06:51.602833653Z",
+  "model": "glm-5.3"
+}

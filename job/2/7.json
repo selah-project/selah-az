@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 2:7",
+  "book": "job",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və HaŞətan Yahvenin üzü⟨ndən⟩ ⟨את⟩ çıxdı və ⟨את⟩ Əyyubu dabanından təpəsinə qədər pis çibanla vurdu.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Və ... çıxdı"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "HaŞətan"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "üzündən (çıxdığı yer)"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "və ... vurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Əyyubu"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Əyyubu"
+    },
+    {
+      "surface": "בשחין",
+      "gloss": "çibanla"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pis"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "dabanından"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "ayağının"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "təpəsinə"
+    }
+  ],
+  "timestamp": "2026-09-01T16:02:57.178979934Z",
+  "model": "glm-5.3"
+}

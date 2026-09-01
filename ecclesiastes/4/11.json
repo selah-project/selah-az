@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Həm də əgər ikisi uzansalar, onlara isti ⟨olacaq⟩; təkə isə necə isinəcək?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "həm də"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "uzansalar"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ikisi"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "və isti"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "təkə isə"
+    },
+    {
+      "surface": "איך",
+      "gloss": "necə"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "isinəcək"
+    }
+  ],
+  "timestamp": "2026-09-01T16:29:03.000183497Z",
+  "model": "glm-5.3"
+}

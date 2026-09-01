@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Yahve, Adonayımız, Adın bütün yerdə nə qədər ucadır! O ki, izzətini göylərin üzərinə qoyursan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonayımız"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə qədər"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "ucadır"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Adın"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerdə"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "O ki"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "qoyursan"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "izzətini"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göylərin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:02:45.419038952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 86,
+  "ref": "psalms 119:86",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Bütün əmrlərin sadiqlikdir; yalanla məni təqib etdilər — mənə kömək et.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "əmrlərin"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "sadiqlikdir"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yalanla"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "məni təqib etdilər"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "mənə kömək et"
+    }
+  ],
+  "timestamp": "2026-09-01T17:43:31.574268511Z",
+  "model": "glm-5.3"
+}

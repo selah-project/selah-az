@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 73,
+  "translation": "Buna görə lovğalıq onların boğnumdu, zorla örtülür onları paltar ⟨kimi⟩.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "buna görə"
+    },
+    {
+      "surface": "ענקתמו",
+      "gloss": "boğnumdu"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "lovğalıq"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "örtülür"
+    },
+    {
+      "surface": "שית",
+      "gloss": "paltar"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "zor"
+    },
+    {
+      "surface": "למו",
+      "gloss": "onları"
+    }
+  ],
+  "timestamp": "2026-09-01T15:24:27.751868722Z",
+  "model": "glm-5.3"
+}

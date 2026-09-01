@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Hər sürünən canlı şey sizin üçün yem olacaq; yaşıl ota ⟨את⟩ hamısını sizə verdim kimi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "sürünən"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "חי",
+      "gloss": "canlı"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin üçün"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "yem"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "kimi yaşıl"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ot"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "verdim"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hamısını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamısını"
+    }
+  ],
+  "timestamp": "2026-09-01T09:47:50.201634329Z",
+  "model": "glm-5.3"
+}

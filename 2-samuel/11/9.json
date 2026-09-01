@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Və Uriya yatdı hökmdar evinin girişində, ⟨את⟩ ağasının bütün qulları ⟨ilə⟩, və öz evinə enmədi.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "yatdı"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "girişində"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hökmdarın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ağasının bütün qulları"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "qulları"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ağasının"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və enmədi yox"
+    },
+    {
+      "surface": "ירד",
+      "gloss": ""
+    },
+    {
+      "surface": "אל",
+      "gloss": "öncə"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "öz evinə"
+    }
+  ],
+  "timestamp": "2026-09-01T11:57:14.065071486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 129:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 129,
+  "translation": "Arxamın üstündə şum sürdülər şumçular, onların şum cərgələrini uzatdılar.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "Arxamın"
+    },
+    {
+      "surface": "חרשו",
+      "gloss": "şum sürdülər"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "şumçular"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "uzatdılar"
+    },
+    {
+      "surface": "למענותם",
+      "gloss": "onların şum cərgələrini"
+    }
+  ],
+  "timestamp": "2026-09-01T15:43:29.480040073Z",
+  "model": "glm-5.3"
+}

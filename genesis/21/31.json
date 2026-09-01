@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 21:31",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Buna görə o yerə Beer-Şeva adı verildi, çünki orada ikisi and içdi.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "buna görə"
+    },
+    {
+      "surface": "כן",
+      "gloss": "görə"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ad verildi"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "o yerə"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "həmin"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Şeva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "and içdi"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ikisi"
+    }
+  ],
+  "timestamp": "2026-09-01T09:51:37.963734220Z",
+  "model": "glm-5.3"
+}

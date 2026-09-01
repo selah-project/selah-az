@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 16:8",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Altı gün matsa yeyəcəksən, yeddinci gün isə Yahve Elohim-in üçün məclis ⟨dir⟩; heç bir iş görməyəcəksən.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Altı"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yeyəcəksən"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "matsa"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "yeddinci gündə"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "yeddinci"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "məclis"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve üçün"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-in"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "görməyəcəksən"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "iş"
+    }
+  ],
+  "timestamp": "2026-09-01T10:50:52.571932293Z",
+  "model": "glm-5.3"
+}

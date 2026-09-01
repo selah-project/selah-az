@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 105:32",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 105,
+  "translation": "Yağışlarına dolu verdi, ölkələrində alovlanan od.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "גשמיהם",
+      "gloss": "yağışlarına"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "dolu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "od"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "alovlanan"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "ölkələrində"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:26.479464231Z",
+  "model": "glm-5.3"
+}

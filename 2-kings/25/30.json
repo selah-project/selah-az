@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 25:30",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Və onun payı — daimi pay — padşahdan ⟨את⟩ ona verilirdi, hər gün öz gününün payı, ömrünün bütün günləri.",
+  "tokens": [
+    {
+      "surface": "וארחתו",
+      "gloss": "və onun payı"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "pay"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daimi"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "verilirdi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ (padşahdan — mənbə qeydi ilə birlikdə)"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sözü (məbləği)"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "öz günündə"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "günləri"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "ömrünün"
+    }
+  ],
+  "timestamp": "2026-09-01T12:44:18.731597421Z",
+  "model": "glm-5.3"
+}

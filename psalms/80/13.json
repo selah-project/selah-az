@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 80,
+  "translation": "Nə üçün onun hasarlarını dağıtdın, ki yoldan ötən hamı onu darıdar?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "nə üçün"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "dağıtdın"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "onun hasarlarını"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "və onu darıdar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamı"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "ötən"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yoldan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:27:45.010562383Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Köhnəni, çox köhnəlmiş olanı yeyəcəksiniz və yeninin ⟨üzündən⟩ köhnəni çölə çıxardacaqsınız.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "yeyəcəksiniz"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "köhnəni"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "çox köhnəlmiş olanı"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "köhnəni"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "üzündən"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "yeninin"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "çölə çıxardacaqsınız"
+    }
+  ],
+  "timestamp": "2026-09-01T17:28:24.399215259Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 102,
+  "translation": "Bütün gün düşmənlərim məni təhqir etdilər; mənimbarəmdə dəlilik edənlər ⟨mənimlə⟩ and içdilər.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Bütün"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "məni təhqir etdilər"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "düşmənlərim"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "mənimbarəmdə dəlilik edənlər"
+    },
+    {
+      "surface": "בי",
+      "gloss": "⟨mənimlə⟩"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "and içdilər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:33:41.899181119Z",
+  "model": "glm-5.3"
+}

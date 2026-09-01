@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 40:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "Və ağzıma qoydu yeni mahnı, Elohimimizə tərif; çoxları görəcək və qorxacaq və Yahveyə etibar edəcəklər.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "qoydu"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ağızma"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "mahnı"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "yeni"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "tərif"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "Elohimimizə"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "görəcək"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "çoxları"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "qorxacaq"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "etibar edəcəklər"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahveyə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:13:51.389639227Z",
+  "model": "glm-5.3"
+}

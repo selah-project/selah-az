@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 88,
+  "translation": "Məni ən aşağı çuxurda, qaranlıqlarda, dərinliklərdə qoydun.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "qoydun məni"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "çuxurda"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "ən aşağı"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "qaranlıqlarda"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "dərinliklərdə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:30:08.529472932Z",
+  "model": "glm-5.3"
+}

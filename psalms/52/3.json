@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 52:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 52,
+  "translation": "Nə üçün şərlə öyünürsən, ey qüdrətli? Elin hesedi bütün gün ⟨durur⟩.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Nə üçün"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "öyünürsən"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "şərlə"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "ey qüdrətli"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gün ⟨durur⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T15:19:24.338860327Z",
+  "model": "glm-5.3"
+}

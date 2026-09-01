@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 17:10",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Qalxın bu camaatın arasından, ki ⟨את⟩ onları bir anda yeyib bitirim. Və onlar üzü üstə yıxıldılar.",
+  "tokens": [
+    {
+      "surface": "הרמו",
+      "gloss": "Qalxın"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "arasından"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "camaatın"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "yeyib bitirim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onları",
+      "marks": "באכלה yəni 'yeyib bitirim' əmrinin obyekti"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "bir anda"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "yıxıldılar"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzü üstə"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "üzləri"
+    }
+  ],
+  "timestamp": "2026-09-01T10:39:23.728593354Z",
+  "model": "glm-5.3"
+}

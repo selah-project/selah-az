@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Avraham ⟨yeni⟩ ⟨əlavə olundu⟩ ⟨və⟩ arvad aldı, adı Keturah idi.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "⟨əlavə olundu⟩"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "⟨və⟩ aldı"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "arvad"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "adı"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Keturah"
+    }
+  ],
+  "timestamp": "2026-09-01T09:53:26.593661809Z",
+  "model": "glm-5.3"
+}

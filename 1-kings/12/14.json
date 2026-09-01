@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 12:14",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Və onlara gənclərin məsləhəti ilə danışdı, deyərək: Atam sizin boyunduruğunuzu ağırlaşdırdı, mən isə boyunduruğunuzun üstünə artıracağam; atam sizi qamçılarla cəzalandırdı, mən isə sizi əqrəblərlə cəzalandıracağam.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Və danışdı"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "כעצת",
+      "gloss": "məsləhəti ilə"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "gənclərin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Atam"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "ağırlaşdırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boyunduruğunuzu"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "boyunduruğunuzu"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mən isə"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "artıracağam"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "boyunduruğunuzun"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atam"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "cəzalandırdı"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "qamçılarla"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mən isə"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "cəzalandıracağam"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "əqrəblərlə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:20:03.197306312Z",
+  "model": "glm-5.3"
+}

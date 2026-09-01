@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 45,
+  "translation": "Sən ədaləti sevdin və şərə nifrət etdin; ona görə səni məsh etdi Elohim, sənin Elohimin, sevinc yağı ilə, yoldaşlarından ⟨üstün⟩.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "sevdin"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ədaləti"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "və nifrət etdin"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "şərə"
+    },
+    {
+      "surface": "על",
+      "gloss": "ona görə"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨görə⟩"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "səni məsh etdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sənin Elohimin"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "yağı"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "sevinc"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "yoldaşlarından ⟨üstün⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T15:17:06.252424650Z",
+  "model": "glm-5.3"
+}

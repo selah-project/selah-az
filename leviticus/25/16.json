@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 25:16",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "İllərin çoxluğuna görə onun satın almasının qiymətini artırın, illərin azlığına görə onun satın almasının qiymətini azaldın; çünki məhsul sayını o sizə satır.",
+  "tokens": [
+    {
+      "surface": "לפי",
+      "gloss": "-na görə"
+    },
+    {
+      "surface": "רב",
+      "gloss": "çoxluğu"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "illərin"
+    },
+    {
+      "surface": "תרבה",
+      "gloss": "artırın"
+    },
+    {
+      "surface": "מקנתו",
+      "gloss": "onun satın alması"
+    },
+    {
+      "surface": "ולפי",
+      "gloss": "və... -na görə"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "azlığı"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "illərin"
+    },
+    {
+      "surface": "תמעיט",
+      "gloss": "azaldın"
+    },
+    {
+      "surface": "מקנתו",
+      "gloss": "onun satın alması"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "sayını"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "məhsul"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "satır"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sizə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:30:41.515945109Z",
+  "model": "glm-5.3"
+}

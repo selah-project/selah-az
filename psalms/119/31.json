@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 119:31",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Şəhadətlərinə yapışdım, Yahve, məni utandırma.",
+  "tokens": [
+    {
+      "surface": "דבקתי",
+      "gloss": "yapışdım"
+    },
+    {
+      "surface": "ב עדותיך",
+      "gloss": "şəhadətlərinə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "məni utandırma"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:52.307932059Z",
+  "model": "glm-5.3"
+}

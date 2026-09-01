@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 19:12",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Hardadır indi sənin müdriklərin? Qoy sənə bildirsinlər, qoy bilsinlər Yahve Sevaot Mitsrayım ⟨haqqında⟩ nə məsləhət görüb!",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "hardadır"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "חכמיך",
+      "gloss": "sənin müdriklərin"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "qoy bildirsinlər"
+    },
+    {
+      "surface": "נא",
+      "gloss": "qoy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "qoy bilsinlər"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "məsləhət görüb"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sevaot"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨haqqında⟩"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayım"
+    }
+  ],
+  "timestamp": "2026-09-01T12:54:03.301589449Z",
+  "model": "glm-5.3"
+}

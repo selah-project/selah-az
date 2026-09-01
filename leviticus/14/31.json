@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 14:31",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "⟨את⟩ Nə ki əlinin çatırdığı: ⟨את⟩ birini günah qurbanı, ⟨את⟩ birini isə yandırma qurbanı olaraq təqdimenin üstünə edəcək, və koh təmizlənənin yerinə Yahvenin üzü qarşısında kəffarə edəcək.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nə ki əlinin çatırdığı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nə ki"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "çatır"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "onu əli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "birini"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "birini"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "günah qurbanı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "birini"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "birini"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "yandırma qurbanı"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "təqdimenin"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "və kəffarə edəcək"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "koh"
+    },
+    {
+      "surface": "על",
+      "gloss": "yerinə"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "təmizlənənin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "üzü qarşısında"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T10:26:01.525846544Z",
+  "model": "glm-5.3"
+}

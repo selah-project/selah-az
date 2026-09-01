@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 33:5",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "İsrail oğulları Raamsesdən yola düşdülər və Sukkotda düşərgə saldılar.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "yola düşdülər"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "מרעמסס",
+      "gloss": "Raamsesdən"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "düşərgə saldılar"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "Sukkotda"
+    }
+  ],
+  "timestamp": "2026-09-01T17:29:15.027569392Z",
+  "model": "glm-5.3"
+}

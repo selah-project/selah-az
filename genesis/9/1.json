@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Elohim ⟨את⟩ Nohu və ⟨את⟩ oğullarını xeyirdua etdi, onlara dedi: Meyvə verin, çoxalın, ⟨את⟩ yeri doldurun.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "xeyirdua etdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nohu"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Nohu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oğullarını"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "meyvə verin"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "çoxalın"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "doldurun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yeri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeri"
+    }
+  ],
+  "timestamp": "2026-09-01T09:47:50.201214199Z",
+  "model": "glm-5.3"
+}

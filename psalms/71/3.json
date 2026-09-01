@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 71:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 71,
+  "translation": "Mənim üçün həmişə sığıınacaq qaya ol, xilas etmək üçün əmr buyurmusan, çünki sən mənim qayam və qalamsan.",
+  "tokens": [
+    {
+      "surface": "היה",
+      "gloss": "ol"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənim üçün"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "qaya"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "sığıınacaq"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "⟨girmək üçün⟩"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "həmişə"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "əmr buyurmusan"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "xilas etmək üçün"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "qayam"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "qalamsan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:23:18.793759644Z",
+  "model": "glm-5.3"
+}

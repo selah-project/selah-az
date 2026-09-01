@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Pis salehi gözləyir və onu öldürməyi axtarır.",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "gözləyir"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "pis"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "salehi"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "axtarır"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "onu öldürməyi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:12:40.301856592Z",
+  "model": "glm-5.3"
+}

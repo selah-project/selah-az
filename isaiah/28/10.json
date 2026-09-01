@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "Çünki əmr üstündə əmr, əmr üstündə əmr; xətt üstündə xətt, xətt üstündə xətt; bir az burada, bir az orada.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "צו",
+      "gloss": "əmr"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "üstündə əmr"
+    },
+    {
+      "surface": "צו",
+      "gloss": "əmr"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "üstündə əmr"
+    },
+    {
+      "surface": "קו",
+      "gloss": "xətt"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "üstündə xətt"
+    },
+    {
+      "surface": "קו",
+      "gloss": "xətt"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "üstündə xətt"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "bir az"
+    },
+    {
+      "surface": "שם",
+      "gloss": "burada"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "bir az"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    }
+  ],
+  "timestamp": "2026-09-01T12:58:19.448956566Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 36:25",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 36,
+  "translation": "Və Məskənin ikinci tərəfi üçün, şimal tərəfində, iyirmi taxta düzəltdi.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "və ... tərəfi üçün"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Məskənin"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ikinci"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "tərəfində"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "şimal"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "düzəltdi"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iyirmi"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "taxta"
+    }
+  ],
+  "timestamp": "2026-09-01T10:20:30.551533790Z",
+  "model": "glm-5.3"
+}

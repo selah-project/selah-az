@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 18:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Burun dəliklərindən tüstü qalxdı, ağzından od yandırıb yedi, kömürlər ondan alovlandı.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "qalxdı"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "tüstü"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "burun dəliklərindən"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "və od"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "ağzından"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yandırıb yedi"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "kömürlər"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "alovlandı"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:06:29.097618309Z",
+  "model": "glm-5.3"
+}

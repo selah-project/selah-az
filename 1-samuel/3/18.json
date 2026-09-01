@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 3:18",
+  "book": "1-samuel",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və Şemueldən ona ⟨את⟩ bütün sözləri bildirdi və ondan heç bir şey gizlətmədi. Və ⟨Eli⟩ dedi: Yahve ⟨odur⟩; gözündə xeyirli olanı etsin.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "bildirdi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün sözləri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sözləri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və gizlətmədi"
+    },
+    {
+      "surface": "כחד",
+      "gloss": " Gizlətmədi."
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨odur⟩"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "xeyirli olanı"
+    },
+    {
+      "surface": "בעינו",
+      "gloss": "gözündə"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "etsin"
+    }
+  ],
+  "timestamp": "2026-09-01T11:31:58.511403544Z",
+  "model": "glm-5.3"
+}

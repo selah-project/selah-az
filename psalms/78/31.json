@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 78:31",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 78,
+  "translation": "Elohimin qəzəbi onların üstünə qalxdı və kökəlmişlərini öldürdü, İsrailin gənclərini diz çökdürdü.",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "qəzəbi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "qalxdı"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onların üstünə"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "öldürdü"
+    },
+    {
+      "surface": "במשמניהם",
+      "gloss": "kökəlmişlərini"
+    },
+    {
+      "surface": "ובחורי",
+      "gloss": "gənclərini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailin"
+    },
+    {
+      "surface": "הכריע",
+      "gloss": "diz çökdürdü"
+    }
+  ],
+  "timestamp": "2026-09-01T15:26:54.642029509Z",
+  "model": "glm-5.3"
+}

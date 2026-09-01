@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 4:31",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Xalq inandı və eşitdilər ki, Yahve Yisrael oğullarını ⟨את⟩ bağışladı ⟨ziyarət etdi⟩, və dərdlərini ⟨את⟩ gördü; və baş əydilər və səcdə etdilər.",
+  "tokens": [
+    {
+      "surface": "ויאמן",
+      "gloss": "inandı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "eşitdilər"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ziyarət etdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael oğullarını"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "və ki"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "gördü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dərdlərini"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "dərdlərini"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "baş əydilər"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "səcdə etdilər"
+    }
+  ],
+  "timestamp": "2026-09-01T10:05:25.619328839Z",
+  "model": "glm-5.3"
+}

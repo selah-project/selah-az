@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 34,
+  "translation": "Şərdən üz çevir, yaxşılıq et, salamatlıq axtar və onu qovala.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "üz çevir"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "şərdən"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "et"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşılıq"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "axtar"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salamatlıq"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "onu qovala"
+    }
+  ],
+  "timestamp": "2026-09-01T15:11:14.855994036Z",
+  "model": "glm-5.3"
+}

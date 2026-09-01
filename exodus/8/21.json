@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Paro Moşeni və Aharonu çağırdı və dedi: Gedin, öz Elohinizə bu torpaqda ⟨qurban⟩ kəsin.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "çağırdı"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşeni"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "və Aharonu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Gedin"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "kəsin"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "öz Elohinizə"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "bu torpaqda"
+    }
+  ],
+  "timestamp": "2026-09-01T10:06:52.399141536Z",
+  "model": "glm-5.3"
+}

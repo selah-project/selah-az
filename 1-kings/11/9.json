@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 11:9",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Yahve Şlomoya qəzəbləndi, çünki qəlbi İsrailin Elohimi Yahvedən — Ondan ki, ona iki dəfə görünmüşdü — meyl etmişdi.",
+  "tokens": [
+    {
+      "surface": "ויתאנף",
+      "gloss": "qəzəbləndi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "Şlomoya ⟨qarşı⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "meyl etdi"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "qəlbi onun"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvedən"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailin"
+    },
+    {
+      "surface": "הנראה",
+      "gloss": "O ki, görünən"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "iki dəfə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:18:29.364679843Z",
+  "model": "glm-5.3"
+}

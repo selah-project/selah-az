@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 119:48",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Əllərimi əmrlərinə doğru qaldıracağam — çünki onları sevmişəm — və qanunlarında dərin düşünəcəyəm.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "qaldıracağam"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "əllərimi (ovuclarımı)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "doğru"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "əmrlərinə"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨çünki onları⟩"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "sevmişəm"
+    },
+    {
+      "surface": "ואשיחה",
+      "gloss": "və dərin düşünəcəyəm"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "qanunlarında"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:50.450202031Z",
+  "model": "glm-5.3"
+}

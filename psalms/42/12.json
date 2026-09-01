@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 42:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 42,
+  "translation": "Niyə yığılırsan, ey canım, və niyə mənim ⟨içimdə⟩ küylənirsən? Elohimə ümid et, çünki hələ Onu tərifləyəcəyəm — üzümün xilası və Elohimim ⟨O⟩.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Niyə"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "yığılırsan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "niyə"
+    },
+    {
+      "surface": "תהמי",
+      "gloss": "küylənirsən"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨içimdə⟩"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "ümid et"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hələ"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "Onu tərifləyəcəyəm"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "xilası"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzümün"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "və Elohimim"
+    }
+  ],
+  "timestamp": "2026-09-01T15:14:16.242344759Z",
+  "model": "glm-5.3"
+}

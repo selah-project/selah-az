@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 14:3",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Kahin düşərgədən kənara çıxacaq və kahin baxacaq, və bax, cüzam zərbəti cüzamlıdan ⟨bərpa olub⟩ sağalacaq.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "çıxacaq"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kənara"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "−a doğru"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "düşərgədən kənar"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "və baxacaq"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "və bax"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "sağalacaq"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "zərbət"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "cüzam"
+    },
+    {
+      "surface": "מן",
+      "gloss": "−dan"
+    },
+    {
+      "surface": "הצרוע",
+      "gloss": "cüzamlı"
+    }
+  ],
+  "timestamp": "2026-09-01T17:28:21.837789034Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Şabbat ⟨o⟩, Şabbaton, sizin üçün — və canlarınızı ⟨את⟩ yuxu edəcəksiniz; əbədi qanun.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Şabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "Şabbaton (tam istirahət)"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨o⟩dur"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin üçün"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "və yuxu edəcəksiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "canlarınızı"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "canlarınızı"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "qanun"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "əbədi"
+    }
+  ],
+  "timestamp": "2026-09-01T10:28:31.313253432Z",
+  "model": "glm-5.3"
+}

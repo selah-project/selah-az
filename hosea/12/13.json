@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 12:13",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Və Yaakov Aram sahəsinə qaçdı, və Yisrael qadın uğrunda qul kimi işlədi, və qadın uğrunda ⟨qoyun⟩ qoruyub saxladı.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "və qaçdı"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "sahəsinə"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "və qul kimi işlədi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "באשה",
+      "gloss": "qadın uğrunda"
+    },
+    {
+      "surface": "ובאשה",
+      "gloss": "və qadın uğrunda"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "qoruyub saxladı"
+    }
+  ],
+  "timestamp": "2026-09-01T14:35:45.045331281Z",
+  "model": "glm-5.3"
+}

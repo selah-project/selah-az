@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 37:4",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Qardaşları gördülər ki, atası onları hamısından çox ⟨onu⟩ sevir, və onu söydülər, ona salam belə verə bilmirdilər.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "gördülər"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "qardaşları"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "sevmə obyekti — Yusifi"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "sevir"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "atası"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "hamısından çox"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "qardaşları"
+    },
+    {
+      "surface": "וישנאו",
+      "gloss": "söydülər"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu (Yusifi)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və... bilmirdilər"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "qadir deyildilər"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "danışmağa"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "salam"
+    }
+  ],
+  "timestamp": "2026-09-01T09:58:35.788194456Z",
+  "model": "glm-5.3"
+}

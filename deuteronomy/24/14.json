@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 24:14",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Yoxsul və ehtiyac içində olan muzdlu işçini — qardaşlarından və ya öz torpağında, şəhər darvazalarında olan müsafirindən — əzmə.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "əzmə"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "muzdlu işçini"
+    },
+    {
+      "surface": "עני",
+      "gloss": "yoxsul"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "və ehtiyac içində olan"
+    },
+    {
+      "surface": "מאחיך",
+      "gloss": "qardaşlarından"
+    },
+    {
+      "surface": "או",
+      "gloss": "və ya"
+    },
+    {
+      "surface": "מגרך",
+      "gloss": "müsafirindən"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olan"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "torpağında"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "darvazalarında"
+    }
+  ],
+  "timestamp": "2026-09-01T10:54:16.535241105Z",
+  "model": "glm-5.3"
+}

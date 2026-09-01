@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 10:2",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "İndi isə bu məktub sizə çatdıqda — və ⟨את⟩ sizinlə ağalarınızın oğulları, və ⟨את⟩ sizinlə döyüş arabaları və atlar, möhkəmləndirilmiş şəhər və silah-sursat ⟨var⟩ —",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "indi isə"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "çatdıqda"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "məktub"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "sizə"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "və ⟨את⟩ sizinlə",
+      "marks": "ağalarınızın oğulları"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "ağalarınızın"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "və ⟨את⟩ sizinlə",
+      "marks": "döyüş arabaları və atlar"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "döyüş arabaları"
+    },
+    {
+      "surface": "והסוסים",
+      "gloss": "və atlar"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "və şəhər"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "möhkəmləndirilmiş"
+    },
+    {
+      "surface": "והנשק",
+      "gloss": "və silah-sursat"
+    }
+  ],
+  "timestamp": "2026-09-01T12:33:55.803274503Z",
+  "model": "glm-5.3"
+}

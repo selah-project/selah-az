@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Sən isə, ey Yahve, uzaq olma; ey mənim qüvvəm, köməyimə tələs.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "sən isə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "olma"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "uzaq"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "mənim qüvvəm"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "köməyimə"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "tələs"
+    }
+  ],
+  "timestamp": "2026-09-01T15:07:04.561780022Z",
+  "model": "glm-5.3"
+}

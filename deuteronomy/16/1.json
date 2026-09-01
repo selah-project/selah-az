@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 16:1",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Abib ayını qoru və Yahve, Elohiminə ⟨את⟩ Pesahı edərsən, çünki Abib ayında Yahve, Elohimin səni Mitsrayimdan gecə çıxartdı.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "qoru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abib ayını"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ayı"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Abib"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "və edərsən"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve üçün"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiminə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ayında"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Abib"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "çıxartdı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayimdan"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "gecə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:51:05.177582659Z",
+  "model": "glm-5.3"
+}

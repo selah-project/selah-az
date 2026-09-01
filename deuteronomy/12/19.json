@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Özünü qoru ki, Levini tərk etməyəsən ⟨את⟩ bütün günlerin boyunca öz torpağında.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "qoru özünü"
+    },
+    {
+      "surface": "לך",
+      "gloss": "özünü"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ki... yox"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "tərk edəsən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Levini"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "günlərin"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərində"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "öz torpağının"
+    }
+  ],
+  "timestamp": "2026-09-01T10:50:44.923790444Z",
+  "model": "glm-5.3"
+}

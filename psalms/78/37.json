@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 78,
+  "translation": "Ürəkləri Onunla ⟨o⟩ düzgün deyildi və Onun əhdinə sadiq olmadılar.",
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "və ürəkləri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "düzgün ⟨deyildi⟩"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "Onunla"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "sadiq olmadılar"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "Onun əhdinə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:26:19.252321672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 18:5",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "⟨את⟩ qanunlarımı və ⟨את⟩ hökmlərimi saxlayın — hansılar ki, insan ⟨את⟩ onları edər və onlarla yaşayar; mən Yahveyəm.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "saxlayın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qanunlarımı"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "qanunlarımı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "hökmlərimi"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hökmlərimi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hansılar ki"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "edər"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "האדם (insan)"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "və yaşayar"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onlarla"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T10:27:37.493856363Z",
+  "model": "glm-5.3"
+}

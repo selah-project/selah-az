@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 35:28",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "Və dilim sənin ədalətini mütilə danışacaq, bütün gün sənin tərifini.",
+  "tokens": [
+    {
+      "surface": "ולשוני",
+      "gloss": "və dilim"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "mütilə danışacaq"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "sənin ədalətini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "sənin tərifini"
+    }
+  ],
+  "timestamp": "2026-09-01T15:11:44.262957264Z",
+  "model": "glm-5.3"
+}

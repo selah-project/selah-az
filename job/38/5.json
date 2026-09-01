@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 38:5",
+  "book": "job",
+  "lang": "az",
+  "chapter": 38,
+  "translation": "Kim qoydu onun ölçülərini — sən bilirsənmi? Və ya kim onun üzərinə çəki xətti çəkdi?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "שם",
+      "gloss": "qoydu"
+    },
+    {
+      "surface": "ממדיה",
+      "gloss": "onun ölçülərini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-mi (sual hissəcisi)"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "sən bilirsən"
+    },
+    {
+      "surface": "או",
+      "gloss": "və ya"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "çəkdi"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "onun üzərinə"
+    },
+    {
+      "surface": "קו",
+      "gloss": "çəki xətti"
+    }
+  ],
+  "timestamp": "2026-09-01T16:18:31.263933499Z",
+  "model": "glm-5.3"
+}

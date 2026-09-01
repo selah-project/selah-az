@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 50:9",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 50,
+  "translation": "Onunla həm döyüş arabaları, həm süvarilər qalxdı, və düşərgə çox ağır ⟨idi⟩.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "qalxdı"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "גם",
+      "gloss": "həm"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "döyüş arabaları"
+    },
+    {
+      "surface": "גם",
+      "gloss": "həm"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "süvarilər"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "və oldu"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "düşərgə"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ağır"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çox"
+    }
+  ],
+  "timestamp": "2026-09-01T10:04:09.076155051Z",
+  "model": "glm-5.3"
+}

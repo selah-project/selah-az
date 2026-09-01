@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 74:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 74,
+  "translation": "Ayaqlarını əbədi viranələrə tərəf qaldır — düşmənin məbəddə etdiyi bütün pisliyə ⟨bax⟩!",
+  "tokens": [
+    {
+      "surface": "הרימה",
+      "gloss": "qaldır"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "ayaqlarını"
+    },
+    {
+      "surface": "למשאות",
+      "gloss": "viranələrə tərəf"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "pisliyə"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "düşmənin"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "məbəddə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:25:48.160446757Z",
+  "model": "glm-5.3"
+}

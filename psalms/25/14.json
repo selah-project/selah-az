@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 25:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Yahvenin sirri Ona qorxanlarladır və Onun əhdi onlara bildirilmək üçündür.",
+  "tokens": [
+    {
+      "surface": "סוד",
+      "gloss": "sirri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "Ona qorxanlarladır"
+    },
+    {
+      "surface": "ובריתו",
+      "gloss": "və Onun əhdi"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "onlara bildirilmək üçündür"
+    }
+  ],
+  "timestamp": "2026-09-01T15:08:28.418819546Z",
+  "model": "glm-5.3"
+}

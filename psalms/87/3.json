@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 87,
+  "translation": "Sənin barəndə ağır ⟨sözlər⟩ deyilir, Elohim şəhəri. Selah.",
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "ağır ⟨sözlər⟩"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "deyilir"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sənin barəndə"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şəhəri"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T15:30:30.509192753Z",
+  "model": "glm-5.3"
+}

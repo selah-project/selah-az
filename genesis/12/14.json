@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 12:14",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Və Avram Mitsrayimə girdiyi zaman Mitsrayimlilər ⟨את⟩ qadını gördülər, çünki o çox gözəl idi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "və ⟨oldu⟩"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "girdiyi zaman"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrayimə"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "gördülər"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "Mitsrayimlilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qadını"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "qadını"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "gözəl"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çox"
+    }
+  ],
+  "timestamp": "2026-09-01T09:48:47.251919355Z",
+  "model": "glm-5.3"
+}

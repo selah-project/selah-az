@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 118:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 118,
+  "translation": "Məni arılar kimi əhatə etdilər, kaktusların odu kimi söndülər; Yahvenin adı ilə mən onları kəsəcəyəm.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "məni əhatə etdilər"
+    },
+    {
+      "surface": "כדבורים",
+      "gloss": "arılar kimi"
+    },
+    {
+      "surface": "דעכו",
+      "gloss": "söndülər"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "odu kimi"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "kaktusların"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "adı ilə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨həqiqətən⟩"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "onları kəsəcəyəm"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:55.448745254Z",
+  "model": "glm-5.3"
+}

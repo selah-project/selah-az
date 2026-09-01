@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 121,
+  "translation": "Yahve ⟨sənin⟩ qoruyucundur, Yahve sənin kölgəndir sağ əlinin üstündə.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "qoruyucundur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "kölgəndir"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "יד",
+      "gloss": "əlinin"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "sağ"
+    }
+  ],
+  "timestamp": "2026-09-01T15:41:48.856739230Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 140,
+  "translation": "Dillərini ilan kimi itiləyiblər; gürzə zəhəri dodaqlarının altındadır. Selah.",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "itiləyiblər"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "dillərini"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ilan"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "zəhəri"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "gürzə"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "dodaqlarının"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T15:45:07.797694178Z",
+  "model": "glm-5.3"
+}

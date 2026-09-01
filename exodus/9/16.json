@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 9:16",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "amma məhz bunun üçün səni ayaqda saxladım — gücümü ⟨את⟩ sənə göstərmək üçün, və Adımın bütün yerdə elan edilməsi üçün.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "amma məhz"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "bunun üçün"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "העמדתיך",
+      "gloss": "səni ayaqda saxladım"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "-mək üçün"
+    },
+    {
+      "surface": "הראתך",
+      "gloss": "sənə göstərmək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gücümü"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "gücüm"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "və ... üçün"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "elan etmək"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Adımın"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerdə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:07:19.067766882Z",
+  "model": "glm-5.3"
+}

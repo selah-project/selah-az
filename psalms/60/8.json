@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 60:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 60,
+  "translation": "Elohim öz müqəddəsliyində danışdı: sevinəcəyim, Şekemi böləcəyim, Sukkot vadisini ölçəcəyim.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "danışdı"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "öz müqəddəsliyində"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "sevinəcəyim"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "böləcəyim"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Şekemi"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "vadisini"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "ölçəcəyim"
+    }
+  ],
+  "timestamp": "2026-09-01T15:20:43.800354320Z",
+  "model": "glm-5.3"
+}

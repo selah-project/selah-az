@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 73,
+  "translation": "Ölüm ağrılarında yoxdurlar ⟨onlar⟩, insan ⟨əziyyəti⟩ ilə döyülmürlər onlar.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "ağrıda"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ölüm ağrısı"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "yoxdurlar"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "döyülmürlər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:24:27.751656876Z",
+  "model": "glm-5.3"
+}

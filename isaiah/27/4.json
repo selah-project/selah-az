@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 27:4",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Qəzəb məndə yoxdur; kim mənə döyüşdə tikan, kolluq verər? Ona hücum edərəm, birlikdə yandıraram.",
+  "tokens": [
+    {
+      "surface": "חמה",
+      "gloss": "Qəzəb"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "לי",
+      "gloss": "məndə"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יתנני",
+      "gloss": "mənə … verər"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "tikan"
+    },
+    {
+      "surface": "שית",
+      "gloss": "kolluq"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "döyüşdə"
+    },
+    {
+      "surface": "אפשעה",
+      "gloss": "hücum edərəm"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "אציתנה",
+      "gloss": "yandıraram"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "birlikdə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:58:46.694142341Z",
+  "model": "glm-5.3"
+}

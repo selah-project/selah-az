@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 16:5",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Və hesed ilə ⟨bir⟩ taxt qurulacaq, və Davidin çadırında ona haqqınlıqla oturacaq ⟨bir kəs⟩ — hakimlik edən, məhkəmə axtaran və ədalətə tələsən.",
+  "tokens": [
+    {
+      "surface": "והוכן",
+      "gloss": "qurulacaq"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "hesed ilə"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "taxt"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "oturacaq"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "haqqınlıqla"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "çadırında"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "hakimlik edən"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "axtaran"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "məhkəmə"
+    },
+    {
+      "surface": "ומהר",
+      "gloss": "tələsən"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ədalət"
+    }
+  ],
+  "timestamp": "2026-09-01T12:55:10.865466605Z",
+  "model": "glm-5.3"
+}

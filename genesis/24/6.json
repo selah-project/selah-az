@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Avraham ona dedi: Özünü qoru, oğlumu ⟨את⟩ oraya qaytarmayırsan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "özünü qoru"
+    },
+    {
+      "surface": "לך",
+      "gloss": "özünü"
+    },
+    {
+      "surface": "פן",
+      "gloss": "-masın deyə"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "qaytarmayırsan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oğlumu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğlumu"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "oraya"
+    }
+  ],
+  "timestamp": "2026-09-01T09:52:46.102750675Z",
+  "model": "glm-5.3"
+}

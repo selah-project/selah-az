@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 18:6",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Və Yahve'yə yapışdı, onun ardınca dönmedi, və onun əmrlərini qoruydu — hansılar ki Yahve ⟨את⟩ Moşe'yə buyurdu.",
+  "tokens": [
+    {
+      "surface": "וידבק",
+      "gloss": "yapışdı"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahve'"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...dönmedi (inkar)"
+    },
+    {
+      "surface": "סר",
+      "gloss": "dönmedi"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "onun ardınca"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "qoruydu"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "onun əmrlərini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hansılar ki"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurdu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe'"
+    }
+  ],
+  "timestamp": "2026-09-01T12:39:04.742848655Z",
+  "model": "glm-5.3"
+}

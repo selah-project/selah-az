@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 4:6",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və ⟨belə⟩ oldu: qablar dolanda o, oğluna dedi: «Mənə ⟨bir⟩ qab daha gətir». O isə ona dedi: «Daha qab yoxdur». Və yağ dayandı.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "və ⟨belə⟩ oldu"
+    },
+    {
+      "surface": "כמלאת",
+      "gloss": "dolanda"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "qablar"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "o dedi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "gətir"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "daha"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "qab"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o dedi"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "daha"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "qab"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "dayandı"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "yağ"
+    }
+  ],
+  "timestamp": "2026-09-01T12:31:41.244779705Z",
+  "model": "glm-5.3"
+}

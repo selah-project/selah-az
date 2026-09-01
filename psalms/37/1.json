@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 37:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Davuda məxsus ⟨psalm⟩. Pis işləyənlərə görə qəzəblənmə, haqsızlıq edənlərə qısqanclıq etmə.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davuda məxsus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "qəzəblənmə"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "qəzəblənmə"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "pis işləyənlərə"
+    },
+    {
+      "surface": "אל",
+      "gloss": "etmə"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "qısqanclıq et"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "edənlərə"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "haqsızlıq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:12:15.815134007Z",
+  "model": "glm-5.3"
+}

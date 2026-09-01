@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "Esav dedi: «Mənim çoxluğum var, qardaşım; sənin olan sənə olsun.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "יש",
+      "gloss": "var"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənim"
+    },
+    {
+      "surface": "רב",
+      "gloss": "çoxluq"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "qardaşım"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənin"
+    }
+  ],
+  "timestamp": "2026-09-01T09:56:22.756382103Z",
+  "model": "glm-5.3"
+}

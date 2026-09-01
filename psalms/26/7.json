@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 26:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Təşəkkür səsinin eşidilməsi üçün və bütün möcüzələrini danışmaq üçün.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "eşidilməsi üçün"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "səsinin"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "təşəkkür"
+    },
+    {
+      "surface": "ולספר",
+      "gloss": "danışmaq üçün"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "möcüzələrini"
+    }
+  ],
+  "timestamp": "2026-09-01T15:08:39.243935366Z",
+  "model": "glm-5.3"
+}

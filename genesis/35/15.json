@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 35:15",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "Və Yaakov o yerin adını çağırdı — ⟨את⟩ adını o yerin, hara ki Elohim ⟨o⟩ ⟨את⟩ onunla orada danışmışdı — Bet-El.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "çağırdı"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adı"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ad"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "o yerin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hara ki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "danışmışdı"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onunla"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-01T09:57:51.976548181Z",
+  "model": "glm-5.3"
+}

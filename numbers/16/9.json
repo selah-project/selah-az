@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 16:9",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Sizin üçün azdırmı ki, İsrailin Elohimi sizi İsrailin ümmətindən ayırdı, sizi özünə yaxınlaşdırmaq üçün, Yahvenin məskəninin qulluğunu etmək üçün və ümmətin qarşısında durub onlara xidmət etmək üçün?",
+  "tokens": [
+    {
+      "surface": "המעט",
+      "gloss": "azdırmı"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "sizin üçün"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "ayırdı"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "sizi (İsrailin ümmətindən)"
+    },
+    {
+      "surface": "מעדת",
+      "gloss": "ümmətindən"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailin"
+    },
+    {
+      "surface": "להקריב",
+      "gloss": "yaxınlaşdırmaq üçün"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "sizi (özünə)"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "özünə"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "etmək üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qulluğunu"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "qulluğunu"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "məskəninin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "ולעמד",
+      "gloss": "və durmaq üçün"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "qarşısında"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ümmətin"
+    },
+    {
+      "surface": "לשרתם",
+      "gloss": "onlara xidmət etmək"
+    }
+  ],
+  "timestamp": "2026-09-01T10:38:51.796669981Z",
+  "model": "glm-5.3"
+}

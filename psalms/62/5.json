@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 62:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 62,
+  "translation": "Yalnız onu ucalığından devirmək üçün məşvərət edirlər, yalandan xoşlanırlar; ağzı ilə xeyir-dua verir, ürəyində isə lənət oxuyur. Sela.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "משאתו",
+      "gloss": "ucalığından"
+    },
+    {
+      "surface": "יעצו",
+      "gloss": "məşvərət edirlər"
+    },
+    {
+      "surface": "להדיח",
+      "gloss": "devirmək üçün"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "xoşlanırlar"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "yalandan"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "ağız ilə"
+    },
+    {
+      "surface": "יברכו",
+      "gloss": "xeyir-dua verir"
+    },
+    {
+      "surface": "ובקרבם",
+      "gloss": "ürəyində isə"
+    },
+    {
+      "surface": "יקללו",
+      "gloss": "lənət oxuyur"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-01T15:20:50.523774105Z",
+  "model": "glm-5.3"
+}

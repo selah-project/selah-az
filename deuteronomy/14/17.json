@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "və ⟨את⟩ qağayı, ⟨את⟩ kərkəsi və ⟨את⟩ qarabatağı —",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "və qağayı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kərkəsi"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "kərkəsi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qarabatağı"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "qarabatağı"
+    }
+  ],
+  "timestamp": "2026-09-01T10:50:13.052664441Z",
+  "model": "glm-5.3"
+}

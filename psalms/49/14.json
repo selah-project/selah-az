@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 49:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 49,
+  "translation": "Bu onların yoludur, ⟨bu⟩ onların üçün ağılsızlıqdır; onlardan sonra ⟨gələnlər⟩ onların ağızları ilə xoşlanacaqlar. Selah.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "onların yolu"
+    },
+    {
+      "surface": "כסל",
+      "gloss": "ağılsızlıq"
+    },
+    {
+      "surface": "למו",
+      "gloss": "onların üçün"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "onlardan sonra ⟨gələnlər⟩"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "onların ağızları ilə"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "xoşlanacaqlar"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T15:16:35.322267036Z",
+  "model": "glm-5.3"
+}

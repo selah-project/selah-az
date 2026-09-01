@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 40:5",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "Və qızıl buxur altarını ⟨את⟩ şəhadət sandığının önünə qoyacaqsan, və məskənin girişinə pərdəni ⟨את⟩ asacaqsan.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "qoyacaqsan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qızıl buxur altarı"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "qızıl"
+    },
+    {
+      "surface": "לקטרת",
+      "gloss": "buxur üçün"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünə"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandığı"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "şəhadət"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "və asacaqsan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pərdə"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "pərdə"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "girişin"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "məskənin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:22:06.132953747Z",
+  "model": "glm-5.3"
+}

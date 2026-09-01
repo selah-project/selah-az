@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 14:2",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Düzgünlüyü ilə gəzən Yahvedən qorxur, yollarında əyri olan isə Onu xorlayır.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "gəzən"
+    },
+    {
+      "surface": "בישרו",
+      "gloss": "düzgünlüyü ilə"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "qorxur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ונלוז",
+      "gloss": "əyri olan isə"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "yollarında"
+    },
+    {
+      "surface": "בוזהו",
+      "gloss": "Onu xorlayır"
+    }
+  ],
+  "timestamp": "2026-09-01T15:53:14.116098230Z",
+  "model": "glm-5.3"
+}

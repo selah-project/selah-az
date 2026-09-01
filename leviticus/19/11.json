@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 19:11",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Oğurluq etməyəcəksiniz, yalan danışıb inkar etməyəcəksiniz, və öz yoldaşına qarşı yalan söyleməyəcəksiniz.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תגנבו",
+      "gloss": "oğurlayacaqsınız"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "תכחשו",
+      "gloss": "inkar edəcəksiniz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "תשקרו",
+      "gloss": "yalan söyleyəcəksiniz"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "öz yoldaşına"
+    }
+  ],
+  "timestamp": "2026-09-01T10:28:08.140958203Z",
+  "model": "glm-5.3"
+}

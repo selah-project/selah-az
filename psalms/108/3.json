@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 108,
+  "translation": "Oyan, nəvalə və kinnor! Mən şəfəqi oyadacağam.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Oyan"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nəvalə"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "kinnor"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "oyadacağam"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "şəfəqi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:10.979363471Z",
+  "model": "glm-5.3"
+}

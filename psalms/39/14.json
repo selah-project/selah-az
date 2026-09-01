@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 39:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 39,
+  "translation": "Baxışını məndən çevir ki, şənlənim, getməzdən əvvəl, ⟨yox olmazdan əvvəl⟩.",
+  "tokens": [
+    {
+      "surface": "השע",
+      "gloss": "baxışını çevir"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "məndən"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "ki, şənlənim"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "əvvəl"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "getməzdən"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "yox olmazdan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:12:42.319595621Z",
+  "model": "glm-5.3"
+}

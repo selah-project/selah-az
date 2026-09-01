@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 71:19",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 71,
+  "translation": "Və sənin ədalətin, Elohim, ucalığa qədər ⟨çatır⟩; ⟨sən⟩ böyük işlər gördün; Elohim, kim sənə bənzər?",
+  "tokens": [
+    {
+      "surface": "וצדקתך",
+      "gloss": "və ədalətin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ucalıq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨sən ki⟩"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "gördün"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "böyük işlər"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "sənə bənzər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:23:42.789561223Z",
+  "model": "glm-5.3"
+}

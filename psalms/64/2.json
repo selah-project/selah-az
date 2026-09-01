@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 64,
+  "translation": "Eşit, Elohim, səsimi şikayətimdə; düşmənin qorxusundan canımı qoru.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Eşit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "səsimi"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "şikayətimdə"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "qorxusundan"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "düşmənin"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "qoru"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "canımı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:21:08.996870601Z",
+  "model": "glm-5.3"
+}

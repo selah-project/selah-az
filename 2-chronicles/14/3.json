@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 14:3",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Yəhudaya onların atalarının Elohimi Yahveni ⟨את⟩ axtarmağı və Tövrəti və əmri yerinə yetirməyi buyurdu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "buyurdu"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yəhudaya"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "axtarmağı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveni"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "onların atalarının"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "və yerinə yetirməyi"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tövrəti"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "və əmri"
+    }
+  ],
+  "timestamp": "2026-09-01T17:17:16.103047473Z",
+  "model": "glm-5.3"
+}

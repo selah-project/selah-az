@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Salehin ağzı hikmət danışır və dili ədalətdən söz açır.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "ağzı"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "salehin"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "danışır"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmət"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "söz açır"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ədalətdən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:12:40.301573363Z",
+  "model": "glm-5.3"
+}

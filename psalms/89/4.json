@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 89,
+  "translation": "Seçdiyimlə ⟨⟨את⟩ əhdi⟩ kəsdim, qulum Davuda and içdim.",
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "kəsdim"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "əhd"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "seçdiyimlə"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "and içdim"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davuda"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "qulum"
+    }
+  ],
+  "timestamp": "2026-09-01T15:30:04.774134460Z",
+  "model": "glm-5.3"
+}

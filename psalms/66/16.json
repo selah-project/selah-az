@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 66:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 66,
+  "translation": "Gəlin, eşidin, bütün Elohimdən qorxanlar, və mən canıma nə etdiyini danışacağam.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Gəlin"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "eşidin"
+    },
+    {
+      "surface": "ואספרה",
+      "gloss": "və danışacağam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "qorxanlar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimdən"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nə"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etdiyini"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "canıma"
+    }
+  ],
+  "timestamp": "2026-09-01T15:20:49.065879029Z",
+  "model": "glm-5.3"
+}

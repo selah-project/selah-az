@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Sən ürəyimə sevinc qoydun — onların buğdası və şərabları çoxaldığı vaxtdan ⟨çox⟩.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "qoydun"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "sevinc"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "ürəyimə"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "vaxtdan"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "onların buğdası"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "və şərabları"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "çoxaldı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:01:49.271584684Z",
+  "model": "glm-5.3"
+}

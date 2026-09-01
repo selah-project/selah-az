@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 146,
+  "translation": "Yahve qonaqları qoruyur, yetimi və dul qadını saxlayır, amma şər yolunu əyri edir.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "qoruyur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qonaqları"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "qonaqları"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "yetimi"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "və dul qadını"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "saxlayır"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "amma ⟨yolunu⟩"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "şər ⟨yolunu⟩"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "əyri edir"
+    }
+  ],
+  "timestamp": "2026-09-01T15:45:56.174384275Z",
+  "model": "glm-5.3"
+}

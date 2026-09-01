@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zephaniah 1:9",
+  "book": "zephaniah",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və o gün eşik üstünə tullanan hər kəsin, ağalarının evini zorakılıqla və hiylə ilə dolduranların üstünə ⟨gələcəyəm⟩.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "üstünə gələcəyəm"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "הדולג",
+      "gloss": "tullanan"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "המפתן",
+      "gloss": "eşik"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "o gün"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "(gün)"
+    },
+    {
+      "surface": "הממלאים",
+      "gloss": "dolduranların"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evini"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "ağalarının"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "zorakılıqla"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "və hiylə ilə"
+    }
+  ],
+  "timestamp": "2026-09-01T14:52:47.163564233Z",
+  "model": "glm-5.3"
+}

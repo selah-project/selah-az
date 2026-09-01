@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 73,
+  "translation": "Elə ki, Elohimin müqəddəslərinə gəldim, onların sonunu anladım.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "elə ki"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "gəldim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "müqəddəslərinə"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "anladım"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "onların sonunu"
+    }
+  ],
+  "timestamp": "2026-09-01T15:24:32.458104392Z",
+  "model": "glm-5.3"
+}

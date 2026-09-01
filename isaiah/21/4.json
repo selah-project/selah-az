@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Ürəyim azğıllaşır, dəhşət məni qorxudur; ⟨את⟩ istədiyim şəfqi ⟨o⟩ mənə titrəyə çevirdi.",
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "azğıllaşır"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ürəyim"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "dəhşət"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "məni qorxudur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "istədiyim şəfqi"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "şəfq"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "istədiyim"
+    },
+    {
+      "surface": "שם",
+      "gloss": "çevirdi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "titrəyə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:55:30.059707321Z",
+  "model": "glm-5.3"
+}

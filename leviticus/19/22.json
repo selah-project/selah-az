@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 19:22",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Kahin onun üçün günah qurbanı qoçu ilə Yahvenin önündə bağışlanma qazanacaq — etdiyi günahına görə; və etdiyi günahından ona bağışlanacaq.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "bağışlanma qazanacaq"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üçün"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "באיל",
+      "gloss": "qoç ilə"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "günah qurbanı"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önündə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "-a görə"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "günahına"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "etdiyi"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "günah"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "bağışlanacaq"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "günahından"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "etdiyi"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "günah"
+    }
+  ],
+  "timestamp": "2026-09-01T10:28:58.154188672Z",
+  "model": "glm-5.3"
+}

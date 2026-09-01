@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 111:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 111,
+  "translation": "Böyükdür Yahvenin əməlləri, onları araşdıranlar üçün ⟨onlar⟩ bütün istəyənlər üçün axtarılırdır.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "Böyükdür"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "əməlləri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "דרושים",
+      "gloss": "araşdırılırdır"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "חפציהם",
+      "gloss": "onları istəyənlər üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:16.026666493Z",
+  "model": "glm-5.3"
+}

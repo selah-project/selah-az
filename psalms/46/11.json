@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 46,
+  "translation": "Durun ⟨susun⟩ və bilin ki, Mən Elohiməm; millətlər içində ucaldılır, yer üzündə ucaldılır.",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "⟨susun⟩"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "bilin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohiməm"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "ucaldılır"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "millətlər içində"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "ucaldılır"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yer üzündə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:16:02.123792293Z",
+  "model": "glm-5.3"
+}

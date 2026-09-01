@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 9:3",
+  "book": "daniel",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Və üzbəüz döndərdim ⟨את⟩ üzümü Adonay, ha-Elohim tərəfə — dua və yalvarış axtarmaq üçün, oruc ilə, sac paltarı və kül ilə.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "və üzbəüz döndərdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "üzümü"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzümü"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tərəfə"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ha-Elohim"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "axtarmaq üçün"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "dua"
+    },
+    {
+      "surface": "ותחנונים",
+      "gloss": "və yalvarış"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "oruc ilə"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "və sac paltarı"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "və kül"
+    }
+  ],
+  "timestamp": "2026-09-01T18:03:00.317256284Z",
+  "model": "glm-5.3"
+}

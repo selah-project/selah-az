@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 11:12",
+  "book": "zechariah",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Və onlara dedim: Gözlərinizdə yaxşıdırsa, əcrimi verin; yoxsa, çəkin. Və onlar əcrimi çəkdilər — otuz ⟨את⟩ gümüş.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "və dedim"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşı"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "gözlərinizdə"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "verin"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "əcrimi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "çəkin"
+    },
+    {
+      "surface": "וישקלו",
+      "gloss": "və çəkdilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əcrimi"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "əcrimi"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "otuz"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    }
+  ],
+  "timestamp": "2026-09-01T14:58:06.096860371Z",
+  "model": "glm-5.3"
+}

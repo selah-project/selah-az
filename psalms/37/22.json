@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 37:22",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Çünki Onun bərəkətlədikləri torpağı varis olacaq, Onun lənətlədikləri isə kəsiləcək.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "מברכיו",
+      "gloss": "Onun bərəkətlədikləri"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "varis olacaq"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "torpağı"
+    },
+    {
+      "surface": "ומקלליו",
+      "gloss": "Onun lənətlədikləri isə"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "kəsiləcək"
+    }
+  ],
+  "timestamp": "2026-09-01T15:13:01.757802358Z",
+  "model": "glm-5.3"
+}

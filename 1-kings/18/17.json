@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 18:17",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Və Ahab Eliyanı ⟨את⟩ görəndə oldu ki, Ahab ona dedi: Sənmisən, sən — Yisraelin sıxıntıya salanı?",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "və oldu"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "görəndə"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyanı"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "sənmisən"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "sıxıntıya salan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraelin"
+    }
+  ],
+  "timestamp": "2026-09-01T12:23:50.807101909Z",
+  "model": "glm-5.3"
+}

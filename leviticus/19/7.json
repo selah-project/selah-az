@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Və əgər üçüncü gün həqiqətən yeyilərsə, o, iyrənc şeydir; qəbul olunmayacaq.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "həqiqətən yeyilərsə"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yeyilərsə"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "günü"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "üçüncü"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "iyrənc şey"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "qəbul olunmayacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T10:28:39.237868846Z",
+  "model": "glm-5.3"
+}

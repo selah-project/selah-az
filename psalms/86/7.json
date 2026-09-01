@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 86,
+  "translation": "Sıxıntım günündə sənə səslənəcəyəm, çünki məni cavablandıracaqsan.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "günündə"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "sıxıntımın"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "sənə səslənəcəyəm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "məni cavablandıracaqsan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:30:14.148472112Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 5:20",
+  "book": "job",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Qıtlıqda səni ölümdən fidyə ilə qurtaracaq, müharibədə isə qılıncın əllərindən ⟨qurtaracaq⟩.",
+  "tokens": [
+    {
+      "surface": "ברעב",
+      "gloss": "Qıtlıqda"
+    },
+    {
+      "surface": "פדך",
+      "gloss": "səni fidyə ilə qurtaracaq"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ölümdən"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "müharibədə isə"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "əllərindən"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "qılıncın"
+    }
+  ],
+  "timestamp": "2026-09-01T16:05:55.200294555Z",
+  "model": "glm-5.3"
+}

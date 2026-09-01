@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 11:22",
+  "book": "judges",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Və əmorililərin bütün sərhədini irsə aldılar — Ərnonadan Yabboqa qədər, və çöldən Yardənə qədər.",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "irsə aldılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün sərhədi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "sərhədi"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "əmorililərin"
+    },
+    {
+      "surface": "מארנון",
+      "gloss": "Ərnonadan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "היבק",
+      "gloss": "Yabboq"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "çöldən"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "çöl"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardən"
+    }
+  ],
+  "timestamp": "2026-09-01T11:23:26.617776272Z",
+  "model": "glm-5.3"
+}

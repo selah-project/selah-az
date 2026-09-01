@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 2:12",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "İndi isə onun ayıbını sevgilərinin gözləri önündə aşkar edəcəyəm, və heç bir kişi onu əlimdən qurtarmayacaq.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "indi isə"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "aşkar edəcəyəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayıbını"
+    },
+    {
+      "surface": "נבלתה",
+      "gloss": "ayıbını"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "gözləri önündə"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "sevgilərinin"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "heç bir kişi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יצילנה",
+      "gloss": "qurtaracaq onu"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "əlimdən"
+    }
+  ],
+  "timestamp": "2026-09-01T14:34:27.722578892Z",
+  "model": "glm-5.3"
+}

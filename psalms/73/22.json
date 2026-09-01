@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 73,
+  "translation": "Mən isə heyvan kimi cahil idim, bilmirdim; Sənin yanında heyvan oldum.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "mən isə"
+    },
+    {
+      "surface": "בער",
+      "gloss": "heyvan kimi cahil"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və bilmirdim"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "(yox)"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "heyvan"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "oldum"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "Sənin yanında"
+    }
+  ],
+  "timestamp": "2026-09-01T15:24:20.846551691Z",
+  "model": "glm-5.3"
+}

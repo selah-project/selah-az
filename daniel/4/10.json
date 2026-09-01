@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 4:10",
+  "book": "daniel",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Başımın görüntülərində, yatağım üstündə ⟨baxırdım⟩, və bax, bir Nəzarətçi və bir Müqəddəs göydən endi.",
+  "tokens": [
+    {
+      "surface": "חזה",
+      "gloss": "görürdüm"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "idim"
+    },
+    {
+      "surface": "בחזוי",
+      "gloss": "görüntülərində"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "başımın"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "yatağım"
+    },
+    {
+      "surface": "ואלו",
+      "gloss": "və bax"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Nəzarətçi"
+    },
+    {
+      "surface": "וקדיש",
+      "gloss": "və Müqəddəs"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "göy"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "endi"
+    }
+  ],
+  "timestamp": "2026-09-01T16:40:46.405220325Z",
+  "model": "glm-5.3"
+}

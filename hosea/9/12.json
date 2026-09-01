@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 9:12",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Çünki oğullarını böyütsələr belə, mən onları ⟨את⟩ uşaqlarından məhrum edəcəyəm, adamdan ⟨qeyd olunaraq⟩; həqiqətən, vay onların halına — mən onlardan üz döndərdikdə.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "אם",
+      "gloss": "belə olsa da"
+    },
+    {
+      "surface": "יגדלו",
+      "gloss": "böyütsələr"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oğullarını"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "ושכלתים",
+      "gloss": "uşaqlarından məhrum edəcəyəm"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "adamdan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "həqiqətən"
+    },
+    {
+      "surface": "גם",
+      "gloss": "həm də"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "vay"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onların halına"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "üz döndərdikdə"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "onlardan"
+    }
+  ],
+  "timestamp": "2026-09-01T14:36:23.828752506Z",
+  "model": "glm-5.3"
+}

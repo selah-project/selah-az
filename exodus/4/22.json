@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 4:22",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Paroya deyəcəksən: Belə deyir Yahve: İsrail Mənim oğlum, Mənim bəkərimdir.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "və deyəcəksən"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "כה",
+      "gloss": "belə"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğlum"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "bəkərim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    }
+  ],
+  "timestamp": "2026-09-01T10:05:09.416837851Z",
+  "model": "glm-5.3"
+}

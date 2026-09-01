@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 11:3",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "deyənlər ki: yaxın deyil — evlər tikək; bu ⟨şəhər⟩ qazandır və biz ətik.",
+  "tokens": [
+    {
+      "surface": "האמרים",
+      "gloss": "deyənlər"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "בקרוב",
+      "gloss": "yaxın"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "tikək"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "evlər"
+    },
+    {
+      "surface": "היא",
+      "gloss": "o"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "qazan"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "biz"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ət"
+    }
+  ],
+  "timestamp": "2026-09-01T14:06:37.825379645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 4:1",
+  "book": "lamentations",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Necə ⟨qaraldı⟩ qızıl, necə dəyişildi ⟨ən təmiz⟩ qızıl! Müqəddəs daşlar bütün küçələrin başında ⟨töküldü⟩.",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "Necə"
+    },
+    {
+      "surface": "יועם",
+      "gloss": "qaraldı"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "qızıl"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "dəyişildi"
+    },
+    {
+      "surface": "הכתם",
+      "gloss": "⟨ən təmiz qızıl⟩"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "⟨ən təmiz⟩"
+    },
+    {
+      "surface": "תשתפכנה",
+      "gloss": "töküldü"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "daşları"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "başında"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "küçələrin"
+    }
+  ],
+  "timestamp": "2026-09-01T16:27:06.952429974Z",
+  "model": "glm-5.3"
+}

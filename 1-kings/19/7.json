@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 19:7",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Və Yahvenin mələyi ikinci dəfə qayıtdı və ona toxundu və dedi: Qalx, yemək ye, çünki yol səndən ⟨çox⟩ böyükdür.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "qayıtdı"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mələyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ikinci dəfə"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "toxundu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "קום",
+      "gloss": "qalx"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yemək ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "רב",
+      "gloss": "böyükdür"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "səndən"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "yol"
+    }
+  ],
+  "timestamp": "2026-09-01T12:24:15.423772763Z",
+  "model": "glm-5.3"
+}

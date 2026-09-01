@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 3:2",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və mən onu özümə on beş gümüş ⟨şekel⟩, bir xomer arpa və bir letex arpa qarşılığında aldım.",
+  "tokens": [
+    {
+      "surface": "ואכרה",
+      "gloss": "aldım"
+    },
+    {
+      "surface": "לי",
+      "gloss": "özümə"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "on beşin 'beş'"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "'on'"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "וחמר",
+      "gloss": "və bir xomer"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "arpa"
+    },
+    {
+      "surface": "ולתך",
+      "gloss": "və bir letex"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "arpa"
+    }
+  ],
+  "timestamp": "2026-09-01T14:35:07.647793908Z",
+  "model": "glm-5.3"
+}

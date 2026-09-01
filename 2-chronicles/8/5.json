@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 8:5",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "O, yuxarı Beyt-Horonu və aşağı Beyt-Horonu tikdi — müdafiə şəhərləri, divarlar, qapılar və barlar ⟨ilə⟩.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "tikdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beyt-Horonu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt-"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "-Horon"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "yuxarı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "Beyt-Horonu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt-"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "-Horon"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "aşağı"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "şəhərləri"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "müdafiə"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "divarlar"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "qapılar"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "və barlar"
+    }
+  ],
+  "timestamp": "2026-09-01T17:16:23.190755752Z",
+  "model": "glm-5.3"
+}

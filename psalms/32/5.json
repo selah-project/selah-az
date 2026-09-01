@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 32:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Günahımı sənə bildirdim, günahkarlığımı gizlətmədim. Dedim: üsyanlarımı Yahve-yə etiraf edəcəyəm — və sən, sən mənim günahımın günahkarlığını daşıyıb uzaqlaşdırdın. Sela.",
+  "tokens": [
+    {
+      "surface": "חטאתי",
+      "gloss": "günahımı"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "sənə bildirəcəyəm"
+    },
+    {
+      "surface": "ועוני",
+      "gloss": "və günahkarlığımı"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "gizlətmədim"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "dedim"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "etiraf edəcəyəm"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨haqqında⟩"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "üsyanlarımı"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve-yə"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "və sən"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "daşıyıb uzaqlaşdırdın"
+    },
+    {
+      "surface": "עון",
+      "gloss": "günahkarlığını"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "günahımın"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-01T17:41:51.433223443Z",
+  "model": "glm-5.3"
+}

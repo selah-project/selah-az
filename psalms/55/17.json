@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 55,
+  "translation": "Mən isə Elohime çağıraram, və Yahve məni xilas edər.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mən isə"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "çağıraram"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "və Yahve"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "məni xilas edər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:18:39.954116506Z",
+  "model": "glm-5.3"
+}

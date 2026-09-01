@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 9:2",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Ora gələndə orada Yehoşafat oğlu, Nimşi nəvəsi Yehunu gör, getsən, onu qardaşlarının arasından qaldır və onu ⟨את⟩ otaq içində otağa apar.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "gələndə"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ora"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "gör"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehunu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoşafat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nəvəsi"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "Nimşi"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "getsən"
+    },
+    {
+      "surface": "והקמתו",
+      "gloss": "onu qaldır"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "arasından"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "qardaşlarının"
+    },
+    {
+      "surface": "והביאת",
+      "gloss": "və apar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu (Yehu)"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "otaq"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "otaq içində"
+    }
+  ],
+  "timestamp": "2026-09-01T12:32:46.231059776Z",
+  "model": "glm-5.3"
+}

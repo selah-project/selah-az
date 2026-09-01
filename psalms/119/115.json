@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 115,
+  "ref": "psalms 119:115",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Şər işləyənlər, məndən uzaqlaşın, ki mənim Elohimimin əmrlərini qoruyum.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "uzaqlaşın"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "məndən"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "şər işləyənlər"
+    },
+    {
+      "surface": "ואצרה",
+      "gloss": "ki qoruyum"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "əmrlərini"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimimin"
+    }
+  ],
+  "timestamp": "2026-09-01T17:43:13.343036416Z",
+  "model": "glm-5.3"
+}

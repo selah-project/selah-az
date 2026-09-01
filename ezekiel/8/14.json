@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 8:14",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və məni Yahve evinin şimal tərəfə olan qapısının girişinə gətirdi; və bax, orada Tammuz ⟨את⟩ ağlayan qadınlar otururlar.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "və gətirdi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ məni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "girişinə"
+    },
+    {
+      "surface": "שער",
+      "gloss": "qapısının"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tərəfə"
+    },
+    {
+      "surface": "הצפונה",
+      "gloss": "şimal"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "və bax"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "qadınlar"
+    },
+    {
+      "surface": "ישבות",
+      "gloss": "otururlar"
+    },
+    {
+      "surface": "מבכות",
+      "gloss": "ağlayan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tammuz"
+    },
+    {
+      "surface": "התמוז",
+      "gloss": "Tammuz"
+    }
+  ],
+  "timestamp": "2026-09-01T14:05:30.000345871Z",
+  "model": "glm-5.3"
+}

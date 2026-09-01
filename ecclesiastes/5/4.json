@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Adamamaq yaxşıdır, nə adayıb ödəməməkdən.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "yaxşıdır"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "deyil"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "adamamaq"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "adayıb"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ödəməməkdən"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-01T16:30:16.194360140Z",
+  "model": "glm-5.3"
+}

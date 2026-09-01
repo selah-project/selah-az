@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Və Mitsrayimi Mitsrayimə qarşı savaşdıracağam, və hər kəs öz qardaşı ilə, hər kəs öz yaxını ilə vuruşacaq, şəhər şəhərə qarşı, padşahlıq padşahlığa qarşı.",
+  "tokens": [
+    {
+      "surface": "וסכסכתי",
+      "gloss": "və savaşdıracağam"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimi"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayimə qarşı"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "və vuruşacaq"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər kəs"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "öz qardaşı ilə"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "və hər kəs"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "öz yaxını ilə"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şəhər"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "şəhərə qarşı"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "padşahlıq"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "padşahlığa qarşı"
+    }
+  ],
+  "timestamp": "2026-09-01T12:55:54.426779345Z",
+  "model": "glm-5.3"
+}

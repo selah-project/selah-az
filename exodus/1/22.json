@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 1:22",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və Paro bütün xalqına əmr edib dedi: hər doğulğan oğlanı çaya atın, hər qızı isə sağ saxlayın.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "əmr etdi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "xalqına"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "oğlan"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "doğulğan"
+    },
+    {
+      "surface": "היארה",
+      "gloss": "çaya"
+    },
+    {
+      "surface": "תשליכהו",
+      "gloss": "atın onu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "qız"
+    },
+    {
+      "surface": "תחיון",
+      "gloss": "sağ saxlayın"
+    }
+  ],
+  "timestamp": "2026-09-01T10:03:12.595032741Z",
+  "model": "glm-5.3"
+}

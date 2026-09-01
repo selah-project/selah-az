@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 4:16",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Çünki şər etməsələr, yatıb-yatmırlar; kimisə yıxmasalar, onlardan yuxu əskilir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "yatıb-yatmırlar"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "şər etsələr"
+    },
+    {
+      "surface": "ונגזלה",
+      "gloss": "əskilir"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "onlardan yuxu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יכשולו",
+      "gloss": "yıxmasalar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:48:43.035392058Z",
+  "model": "glm-5.3"
+}

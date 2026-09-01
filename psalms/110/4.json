@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 110,
+  "translation": "Yahve and içdi və ⟨pixmir⟩: «Sən əbədi kahinsən, Malki-Tsedek tərzinə görə».",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "and içdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "⟨pixmir⟩"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "על",
+      "gloss": "əsasən"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "tərzinə"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Tsedek"
+    }
+  ],
+  "timestamp": "2026-09-01T18:21:05.166075604Z",
+  "model": "glm-5.3"
+}

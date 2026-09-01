@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 11:23",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Haqlıların arzusu yalnız xeyirdir, şərlərin ümidi isə qəzəbdir.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "arzusu"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "haqlıların"
+    },
+    {
+      "surface": "אך",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "xeyir"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "ümidi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "şərlərin"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "qəzəb"
+    }
+  ],
+  "timestamp": "2026-09-01T15:52:11.707948410Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-kings 18:38",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Və Yahvenin odu düşdü və ⟨את⟩ yandırma qurbanını, ⟨את⟩ oducları, ⟨את⟩ daşları və ⟨את⟩ tozu yandırdı, və ⟨את⟩ xəndəkdəki suyu yaladı.",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "və düşdü"
+    },
+    {
+      "surface": "אש",
+      "gloss": "odu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "və yandırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yandırma qurbanını"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yandırma qurbanı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oducları"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "oduclar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "daşları"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "daşlar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tozu"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "toz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "suyu"
+    },
+    {
+      "surface": "המים",
+      "gloss": "su"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בתעלה",
+      "gloss": "xəndəkdə"
+    },
+    {
+      "surface": "לחכה",
+      "gloss": "yaladı"
+    }
+  ],
+  "timestamp": "2026-09-01T17:34:51.078189686Z",
+  "model": "glm-5.3"
+}

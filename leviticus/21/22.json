@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Öz Elohiminin çörəyindən — müqəddəslərin müqəddəsindən və müqəddəslərdən — yeyə bilər.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "çörəyi"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "öz Elohiminin"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "müqəddəslərin"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "müqəddəslərindən"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "və ...-dən"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "müqəddəslərdən"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yeyər"
+    }
+  ],
+  "timestamp": "2026-09-01T10:29:18.270962480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 1:35",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Onların sayılmışları Menaşşe qəbiləsinə görə otuz iki min iki yüz idi.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "onların sayılmışları"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "qəbiləsinə göre"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menaşşe"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iki"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "və otuz"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "min"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "və iki yüz"
+    }
+  ],
+  "timestamp": "2026-09-01T10:32:25.609661390Z",
+  "model": "glm-5.3"
+}

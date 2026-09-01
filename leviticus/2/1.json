@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 2:1",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Nəfəs ⟨⟨bir kimsə⟩⟩ Yahveyə minxə qurbanı yaxınlaşdırdıqda, onun qurbanı soldə unundan olacaq və üstünə yağ tökəcək və üstünə ləvona qoyacaq.",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "nəfəs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨bir kimsə⟩ yaxınlaşdırdıqda"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "yaxınlaşdıranda"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "qurban"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minxə"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "soldə unu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "onun qurbanı"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "və tökəcək"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "yağ"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "və qoyacaq"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ləvona"
+    }
+  ],
+  "timestamp": "2026-09-01T10:22:45.489758720Z",
+  "model": "glm-5.3"
+}

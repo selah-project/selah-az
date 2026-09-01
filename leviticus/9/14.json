@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 9:14",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Və ⟨את⟩ daxili hissələrini və ⟨את⟩ ayaqlarını yudu, və onları yandırma qurbanının üstündə altarda yandırdı.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "yudu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daxili hissələrini"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "daxili hissələrini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ayaqlarını"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "ayaqlarını"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "yandırdı"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yandırma qurbanının"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "altarda"
+    }
+  ],
+  "timestamp": "2026-09-01T10:24:22.248235872Z",
+  "model": "glm-5.3"
+}

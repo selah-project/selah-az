@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 30:9",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Və Yahve, Elohimin, səni əlinin bütün işində, bətninin bəhrəsində, heyvanının bəhrəsində və torpağının bəhrəsində xeyir üçün artıracaq, çünki Yahve atalarının üstündə sevindiyi kimi, xeyir üçün sənin üstündə sevinməyə qayıdacaq.",
+  "tokens": [
+    {
+      "surface": "והותירך",
+      "gloss": "səni artıracaq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "işində"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "əlinin"
+    },
+    {
+      "surface": "בפרי",
+      "gloss": "bəhrəsində"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "bətninin"
+    },
+    {
+      "surface": "ובפרי",
+      "gloss": "və bəhrəsində"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "heyvanının"
+    },
+    {
+      "surface": "ובפרי",
+      "gloss": "və bəhrəsində"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "torpağının"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "xeyir üçün"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "qayıdacaq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לשוש",
+      "gloss": "sevinməyə"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sənin üstündə"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "xeyir üçün"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sevindiyi"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "atalarının"
+    }
+  ],
+  "timestamp": "2026-09-01T17:31:20.114553602Z",
+  "model": "glm-5.3"
+}

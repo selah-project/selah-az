@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 100,
+  "translation": "Çünki Yahve yaxşıdır, onun hesedi əbədidir və nəsildən-nəslə ⟨onun⟩ sadiqliyi ⟨qalır⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşıdır"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "onun hesedi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "və (qədər)"
+    },
+    {
+      "surface": "דר",
+      "gloss": "nəsildən"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nəslə"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "onun sadiqliyi"
+    }
+  ],
+  "timestamp": "2026-09-01T18:01:41.463371626Z",
+  "model": "glm-5.3"
+}

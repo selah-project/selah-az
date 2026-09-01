@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 81:13",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 81,
+  "translation": "Və onu ürəklərinin inadına buraxdım, öz məsləhətlərində gəzərlər.",
+  "tokens": [
+    {
+      "surface": "ואשלחהו",
+      "gloss": "Və onu buraxdım"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "inadına"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ürəklərinin"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "gəzərlər"
+    },
+    {
+      "surface": "במועצותיהם",
+      "gloss": "öz məsləhətlərində"
+    }
+  ],
+  "timestamp": "2026-09-01T15:27:48.213802717Z",
+  "model": "glm-5.3"
+}

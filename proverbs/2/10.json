@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 2:10",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Çünki hikmət ürəyinə girəcək, və bilik canına xoş olacaq.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "girəcək"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmət"
+    },
+    {
+      "surface": "בלבך",
+      "gloss": "ürəyinə"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "və bilik"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "canına"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "xoş olacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:47:47.782145098Z",
+  "model": "glm-5.3"
+}

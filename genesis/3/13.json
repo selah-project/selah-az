@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 3:13",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və Yahve Elohim qadına dedi: Nə etdin bu? Qadın dedi: İlan məni aldadan yoldan çıxartdı və mən yedim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "qadına"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "etdin"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "qadın"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ilan"
+    },
+    {
+      "surface": "השיאני",
+      "gloss": "məni aldadan yoldan çıxartdı"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "və yedim"
+    }
+  ],
+  "timestamp": "2026-09-01T09:46:30.335364611Z",
+  "model": "glm-5.3"
+}

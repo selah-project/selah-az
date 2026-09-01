@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 1:3",
+  "book": "ruth",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və Elimelex, Noominin əri öldü; və ⟨o⟩ qaldı ⟨qalaraq⟩ — özü və iki oğlu.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "öldü"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Elimelex"
+    },
+    {
+      "surface": "איש",
+      "gloss": "əri"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Noominin"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "qaldı"
+    },
+    {
+      "surface": "היא",
+      "gloss": "özü"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "və iki"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "oğlu"
+    }
+  ],
+  "timestamp": "2026-09-01T16:25:00.570360945Z",
+  "model": "glm-5.3"
+}

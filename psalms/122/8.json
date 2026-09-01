@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 122,
+  "translation": "Qardaşlarım və yoldaşlarım xatirinə deyəcəyəm: sənin içində selam olsun.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "xatirinə"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "qardaşlarım"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "və yoldaşlarım"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "deyəcəyəm"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨zəhmət olmasa⟩"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "selam"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sənin içində"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:17.782587572Z",
+  "model": "glm-5.3"
+}

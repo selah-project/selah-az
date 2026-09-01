@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 119:13",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Dodaklarımla Sənin ağzının bütün məşərtlərini danışdım.",
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "dodaklarımla"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "danışdım"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "məşərtlərini"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "Sənin ağzının"
+    }
+  ],
+  "timestamp": "2026-09-01T18:01:58.016829089Z",
+  "model": "glm-5.3"
+}

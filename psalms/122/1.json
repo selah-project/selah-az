@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 122,
+  "translation": "Məqamat nəğməsi, Davuda aiddir. \"Yahvenin evinə gedək\" — mənə deyənlərə sevinəndim.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "nəğməsi"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "Məqamat"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davuda aiddir"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "sevinəndim"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "deyənlərə"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evinə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "gedək"
+    }
+  ],
+  "timestamp": "2026-09-01T18:02:18.904409590Z",
+  "model": "glm-5.3"
+}

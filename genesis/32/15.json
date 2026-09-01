@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 32:15",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "İki yüz keçi və iyirmi təkə, iki yüz qoyun və iyirmi qoç —",
+  "tokens": [
+    {
+      "surface": "עזים",
+      "gloss": "keçi"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "iki yüz"
+    },
+    {
+      "surface": "ותישים",
+      "gloss": "və təkə"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iyirmi"
+    },
+    {
+      "surface": "רחלים",
+      "gloss": "qoyun"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "iki yüz"
+    },
+    {
+      "surface": "ואילים",
+      "gloss": "və qoç"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iyirmi"
+    }
+  ],
+  "timestamp": "2026-09-01T09:55:55.720521844Z",
+  "model": "glm-5.3"
+}

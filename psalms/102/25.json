@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 102,
+  "translation": "Dedim: Ellim, məni günlərimin yarısında yuxarı götürmə — nəsillər nəsillər boyunca ⟨sənin⟩ illərin ⟨qalır⟩.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "dedim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Ellim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "götürmə (inkar)"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "məni yuxarı götürmə"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "yarısında"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "günlərimin"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "nəsillər"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "nəsillər boyunca"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "illərin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:34:35.901694159Z",
+  "model": "glm-5.3"
+}

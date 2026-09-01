@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 8:17",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və sən ürəyində deyəcəksən: «Mənim qüvvəm və əlimin gücü mənə bu ⟨את⟩ sərvəti qazandırdı.»",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "deyəcəksən"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "ürəyində"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "qüvvəm"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "gücü"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "əlimin"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qazandırdı"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sərvəti"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "sərvəti"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-09-01T17:29:53.262767939Z",
+  "model": "glm-5.3"
+}

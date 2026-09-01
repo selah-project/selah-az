@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 72:15",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 72,
+  "translation": "Və o, yaşayacaq, və ona Şevanın qızılından veriləcək, və onun üçün daim dua ediləcək, bütün gün onu mübarək edəcəklər.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "və o yaşayacaq"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "və veriləcək"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "qızılından"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Şevanın"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "və dua ediləcək"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "onun üçün"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "יברכנהו",
+      "gloss": "onu mübarək edəcəklər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:24:16.071965708Z",
+  "model": "glm-5.3"
+}

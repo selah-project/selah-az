@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "⟨את⟩ Yahve, Elohim-ini qorxacaqsan, və ⟨את⟩-ona qulluq edəcəksən, və Adı ilə and içəcəksən.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ini"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "qorxacaqsan"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "və ⟨את⟩-ona",
+      "marks": "qulluq etmək (O)"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "qulluq edəcəksən"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "və Adı ilə"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "and içəcəksən"
+    }
+  ],
+  "timestamp": "2026-09-01T10:47:44.841042752Z",
+  "model": "glm-5.3"
+}

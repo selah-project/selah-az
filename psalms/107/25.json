@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 107:25",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 107,
+  "translation": "Və dedi, və fırtına küləyini qaldırdı, və onun dalğaları ucaldı.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "ויעמיד",
+      "gloss": "qaldırdı (dayandırdı)"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "küləyi"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "fırtına"
+    },
+    {
+      "surface": "ותרומם",
+      "gloss": "və ucaldı"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "onun dalğaları"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:56.272665189Z",
+  "model": "glm-5.3"
+}

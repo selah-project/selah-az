@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Tamamilə boşalacaq torpaq, tamamilə talan olunacaq, çünki Yahve bu sözü ⟨את⟩ danışdı.",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "Tamamilə boşalacaq"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "boşalacaq"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "torpaq"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "və tamamilə talan olunacaq"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "talan olunacaq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "danışdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu sözü"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sözü"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-09-01T12:58:35.205847466Z",
+  "model": "glm-5.3"
+}

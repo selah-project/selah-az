@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "O dedi: Bağçada ⟨את⟩ sənin səsini eşitdim və qorxdum, çünki çılpağam, və gizləndim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "səsini"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "sənin səsini"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "eşitdim"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "bağçada"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "və qorxdum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "çılpaq"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mən"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "və gizləndim"
+    }
+  ],
+  "timestamp": "2026-09-01T09:45:57.523296007Z",
+  "model": "glm-5.3"
+}

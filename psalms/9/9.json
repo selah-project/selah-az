@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Və ⟨o⟩ dünyanı ədalətlə mühakimə edəcək, xalqları düzlüklə hökm edəcək.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "və ⟨o⟩"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "mühakimə edəcək"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dünyanı"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ədalətlə"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "hökm edəcək"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "xalqları"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "düzlüklə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:03:47.379189999Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 28:4",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "Tövrəni tərk edənlər pisi tərifləyir; Tövrəni qoruyanlar isə onlarla mübahisə edirlər.",
+  "tokens": [
+    {
+      "surface": "עזבי",
+      "gloss": "tərk edənlər"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Tövrəni"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "tərifləyirlər"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "pisi"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "qoruyanlar isə"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Tövrəni"
+    },
+    {
+      "surface": "יתגרו",
+      "gloss": "mübahisə edirlər"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onlarla"
+    }
+  ],
+  "timestamp": "2026-09-01T16:01:00.563742611Z",
+  "model": "glm-5.3"
+}

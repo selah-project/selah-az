@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 78:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 78,
+  "translation": "Bunun üçün sonrakı nəsil bilsin, doğulacaq övladlar qalxıb öz övladlarına danışsınlar.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "bunun üçün"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bilsinlər"
+    },
+    {
+      "surface": "דור",
+      "gloss": "nəsil"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "sonrakı"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "övladlar"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "doğulacaq"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "qalxıb"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "və danışsınlar"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "öz övladlarına"
+    }
+  ],
+  "timestamp": "2026-09-01T15:26:25.647119278Z",
+  "model": "glm-5.3"
+}

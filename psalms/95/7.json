@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 95:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 95,
+  "translation": "Çünki O bizim Elohimimizdir, biz isə Onun otlağının xalqıyıq, Onun əlinin sürüsüyik. Bu gün, əgər Onun səsini eşitsəniz —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "O"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimizdir"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "biz isə"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalqıyıq"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "Onun otlağının"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "sürüsüyik"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "Onun əlinin"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Bu gün"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "Onun səsini"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "eşitsəniz"
+    }
+  ],
+  "timestamp": "2026-09-01T15:32:50.712125696Z",
+  "model": "glm-5.3"
+}

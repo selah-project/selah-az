@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 133,
+  "translation": "Məqam mahnısı, Davuda. Bax, nə qədər yaxşı və nə qədər xoşdur qardaşların ⟨bir yerdə⟩ oturması, hətta birlikdə.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "mahnısı"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "məqam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davuda"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə qədər"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşı"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "və nə qədər"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "xoşdur"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "oturması"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "qardaşların"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hətta"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "birlikdə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:43:10.023004039Z",
+  "model": "glm-5.3"
+}

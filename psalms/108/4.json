@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 108:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 108,
+  "translation": "Sənə şükür edəcəyəm xalqlar içində, Yahve, və Sənə mədh oxuyacağam ümmətlər içində.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Sənə şükür edəcəyəm"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "xalqlar içində"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואזמרך",
+      "gloss": "Sənə mədh oxuyacağam"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ümmətlər içində"
+    },
+    {
+      "surface": "אמים",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:10.979517205Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 14:18",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Və onu ⟨את⟩ dəfn etdilər və bütün İsrail ona yas tutdu — Yahvenin sözünə görə, ki ⟨onu⟩ qulu Ahiyya peyğəmbərin əli ilə danışdı.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "dəfn etdilər"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "yas tutdu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sözünə görə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "danışdı"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "əli ilə"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "qulu"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "Ahiyya"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "peyğəmbərin"
+    }
+  ],
+  "timestamp": "2026-09-01T12:21:42.073426262Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 22:29",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Çünki səltənət Yahvenindir, ⟨və⟩ O, xalqlar üzərində hökmdardır.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvenindir"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "səltənət"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "hökmdardır"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "xalqlar üzərində"
+    }
+  ],
+  "timestamp": "2026-09-01T15:07:05.669990497Z",
+  "model": "glm-5.3"
+}

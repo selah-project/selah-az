@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 8:20",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Ədalət yolunda ⟨insanları⟩ gəzdirirəm, hökm cığırlarının ortasında ⟨gəzdirirəm⟩.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "yolunda"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ədalət"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "gəzdirirəm"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ortasında"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "cığırlarının"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hökm"
+    }
+  ],
+  "timestamp": "2026-09-01T15:50:47.700151240Z",
+  "model": "glm-5.3"
+}

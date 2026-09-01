@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 7:6",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Və Noach altı yüz ilin oğlu ⟨idi⟩, tufan suları yerin üzərində ⟨olanda⟩.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "və Noach"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "שש",
+      "gloss": "altı"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ilin"
+    },
+    {
+      "surface": "והמבול",
+      "gloss": "və tufan"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨idi⟩ \/ olanda"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suları"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərində"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    }
+  ],
+  "timestamp": "2026-09-01T09:47:16.221777890Z",
+  "model": "glm-5.3"
+}

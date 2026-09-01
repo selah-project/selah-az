@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Ağlamağa vaxt, gülməyə vaxt; yas tutmağa vaxt, rəqs etməyə vaxt.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "vaxt"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "ağlamağa"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "və vaxt"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "gülməyə"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vaxt"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "yas tutmağa"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "və vaxt"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "rəqs etməyə"
+    }
+  ],
+  "timestamp": "2026-09-01T16:29:14.704405720Z",
+  "model": "glm-5.3"
+}

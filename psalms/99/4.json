@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 99:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 99,
+  "translation": "Və şahın qüdrəti ədaləti sevir; sən düzlüyü bərqərar etdin, ədaləti və salehliyi Yaqovda sən etdin.",
+  "tokens": [
+    {
+      "surface": "ועז",
+      "gloss": "Və qüdrəti"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "şahın"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ədaləti"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "sevir"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "bərqərar etdin"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "düzlüyü"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ədaləti"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "və salehliyi"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "Yaqovda"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "etdin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:34:25.557432599Z",
+  "model": "glm-5.3"
+}

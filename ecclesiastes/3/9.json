@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "⟨O⟩ işi görənin nə faydasıdır ⟨ondan⟩ ki, o əziyyət çəkdir?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "fayda"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "işi görən"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "⟨ondan⟩ ki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "əziyyət çəkdir"
+    }
+  ],
+  "timestamp": "2026-09-01T18:02:48.889461775Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və ⟨buxar⟩ yerindən qalxıb ⟨את⟩ bütün torpağın üzünü suvarırdı.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "və buxar"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "qalxırdı"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "suvarırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün torpağın üzünü"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzünü"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "torpağın"
+    }
+  ],
+  "timestamp": "2026-09-01T09:45:54.121229474Z",
+  "model": "glm-5.3"
+}

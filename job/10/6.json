@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 10:6",
+  "book": "job",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Çünki mənim günahımı axtarırsan və mənim təqsirimin ardınca gedirsən?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "axtarırsan"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "mənim günahımı"
+    },
+    {
+      "surface": "ולחטאתי",
+      "gloss": "və mənim təqsirimin"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "ardınca gedirsən"
+    }
+  ],
+  "timestamp": "2026-09-01T16:06:40.766760785Z",
+  "model": "glm-5.3"
+}

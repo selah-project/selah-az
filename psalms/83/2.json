@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 83,
+  "translation": "Elohim, sənə sükut yaraşmaz, susma, sükuta qərq olma, El.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yaraşmaz"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "sükut"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "אל",
+      "gloss": "susma"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "⟨susma⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və ⟨yox⟩"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "sükuta qərq olma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-01T15:28:09.662901354Z",
+  "model": "glm-5.3"
+}

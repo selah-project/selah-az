@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 22:2",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Və ⟨o⟩ Yahvenin gözündə düz olanı etdi və atası Davudun bütün yolunda getdi, sağa və sola dönmədi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "və etdi"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "düz olanı"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "gözündə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "və getdi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yolunda"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atası"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və... yox"
+    },
+    {
+      "surface": "סר",
+      "gloss": "dönmədi"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "sağa"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "və sola"
+    }
+  ],
+  "timestamp": "2026-09-01T12:43:29.661108194Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Çünki ⟨את⟩ hər bir əməli Elohim mühakiməyə gətirəcək, hər gizli şey üzərinə, istər yaxşı, istər pis.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hər bir əməli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "əməli"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "gətirəcək"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "mühakiməyə"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "gizli şey"
+    },
+    {
+      "surface": "אם",
+      "gloss": "istər"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşı"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "istər də"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pis"
+    }
+  ],
+  "timestamp": "2026-09-01T16:33:04.643475950Z",
+  "model": "glm-5.3"
+}

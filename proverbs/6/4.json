@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Gözlərinə yuxu vermə, göz qapaqlarına motorsanma ⟨vermə⟩",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "gow: yox (qadağan)"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "vermə"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yuxu"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "gözlərinə"
+    },
+    {
+      "surface": "ותנומה",
+      "gloss": "motorsanma"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "göz qapaqlarına"
+    }
+  ],
+  "timestamp": "2026-09-01T15:49:20.596247572Z",
+  "model": "glm-5.3"
+}

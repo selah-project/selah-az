@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 18:21",
+  "book": "judges",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Dönüb yürüdülər və ⟨את⟩ uşaqları, ⟨את⟩ mal-qaranı və ⟨את⟩ ağır yükü özlərinin önünə qoydular.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "dönüb"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "yürüdülər"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "qoydular"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uşaqları"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "uşaqları"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mal-qaranı"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "mal-qaranı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ağır yükü"
+    },
+    {
+      "surface": "הכבודה",
+      "gloss": "ağır yükü"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "özlərinin önünə"
+    }
+  ],
+  "timestamp": "2026-09-01T11:27:28.229830970Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 13:4",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Və mən Yahve, sənin Elohimin, Mitsrayim yerindən; və məndən başqa Elohim tanımayacaqsan, və qurtaran yoxdur — məndən başqa.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Və mən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sənin Elohimin"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yerindən"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואלהים",
+      "gloss": "və Elohim"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "məndən başqa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "tanımayacaqsan"
+    },
+    {
+      "surface": "ומושיע",
+      "gloss": "və qurtaran"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "başqa"
+    }
+  ],
+  "timestamp": "2026-09-01T14:38:27.123496010Z",
+  "model": "glm-5.3"
+}

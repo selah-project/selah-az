@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 38:14",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 38,
+  "translation": "Tərəflərdən birinin pərdələri on beş qulac ⟨idi⟩; onların sütunları üç, ayaqları üç ⟨idi⟩.",
+  "tokens": [
+    {
+      "surface": "קלעים",
+      "gloss": "pərdələri"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "on beş (beş)"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "on beş (-on)"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "qulac"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tərəflərdən birinin ⟨tərəfinə⟩"
+    },
+    {
+      "surface": "הכתף",
+      "gloss": "tərəflərdən birinin (çiyin\/tərəf)"
+    },
+    {
+      "surface": "עמודיהם",
+      "gloss": "onların sütunları"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "üç"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "və onların ayaqları"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "üç"
+    }
+  ],
+  "timestamp": "2026-09-01T10:21:03.112289915Z",
+  "model": "glm-5.3"
+}

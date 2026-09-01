@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Eli mənim, Eli mənim, nə üçün məni tərk etdin? Nəcatımdan uzaqsan, səslənimim sözlərindən ⟨uzaq⟩.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "Eli mənim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Eli mənim"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nə üçün"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "məni tərk etdin"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "uzaqsan"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "nəcatımdan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözlərindən"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "səslənimim"
+    }
+  ],
+  "timestamp": "2026-09-01T15:07:09.720651318Z",
+  "model": "glm-5.3"
+}

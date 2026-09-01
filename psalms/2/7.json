@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Yahvenin qanununu bəyan edəcəyəm: mənə dedi: «Sən mənim oğlumsan, mən bu gün səni doğdum».",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "bəyan edəcəyəm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "haqqında"
+    },
+    {
+      "surface": "חק",
+      "gloss": "qanununu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mənim oğlumsan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bu gün"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "səni doğdum"
+    }
+  ],
+  "timestamp": "2026-09-01T15:01:50.421367586Z",
+  "model": "glm-5.3"
+}

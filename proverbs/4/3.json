@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Çünki mən atama oğul idim, anamın gözü qarşısında zərif və təkcə ⟨oğul⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "idim"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "atama"
+    },
+    {
+      "surface": "רך",
+      "gloss": "zərif"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "və təkcı"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "gözü qarşısında"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "anamın"
+    }
+  ],
+  "timestamp": "2026-09-01T15:49:01.859013903Z",
+  "model": "glm-5.3"
+}

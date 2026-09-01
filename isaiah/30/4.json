@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 30:4",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Çünki sərkərdələri Zoanda ⟨idi⟩, elçiləri isə Hanesə çatdı.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨idi⟩"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "Zoanda"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "sərkərdələri"
+    },
+    {
+      "surface": "ומלאכיו",
+      "gloss": "elçiləri"
+    },
+    {
+      "surface": "חנס",
+      "gloss": "Hanesə"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "çatdı"
+    }
+  ],
+  "timestamp": "2026-09-01T13:01:41.383894813Z",
+  "model": "glm-5.3"
+}

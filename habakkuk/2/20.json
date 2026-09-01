@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "habakkuk 2:20",
+  "book": "habakkuk",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Yahve isə öz müqəddəs məbədindədir — üzlərinin önünde bütün yer sus-sın.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahve isə"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "məbədində"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "öz müqəddəs"
+    },
+    {
+      "surface": "הס",
+      "gloss": "sus-sın"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "üzlərinin önünde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-09-01T14:50:06.116251923Z",
+  "model": "glm-5.3"
+}

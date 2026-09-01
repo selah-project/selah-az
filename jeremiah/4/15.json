@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 4:15",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Çünki Dan səmtindən bir səs xəbər verir, Efrayim dağından fəsadı elan edir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "קול",
+      "gloss": "səs"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "xəbər verir"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Dan səmtindən"
+    },
+    {
+      "surface": "ומשמיע",
+      "gloss": "elan edir"
+    },
+    {
+      "surface": "און",
+      "gloss": "fəsadı"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "dağından"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T13:22:46.461205539Z",
+  "model": "glm-5.3"
+}

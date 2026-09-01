@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 91,
+  "translation": "Gecənin qorxusundan qorxmazsan, gündüz uçan oxdan ⟨da qorxmazsan⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "qorxmazsan"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "qorxusundan"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "gecənin"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "oxdan"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "uçan"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "gündüz"
+    }
+  ],
+  "timestamp": "2026-09-01T15:32:49.719050935Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 18:26",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Siz isə ⟨את⟩ qanunlarımı və ⟨את⟩ hökmlərimi saxlayın və bütün bu iyrənc işlərin heç birini etməyin — ⟨həm⟩ doğma ⟨özölü⟩, ⟨həm⟩ aranızda yaşayan müsafir ⟨onları etməsin⟩.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "saxlayın"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qanunlarımı"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "qanunlarımı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "hökmlərimi"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hökmlərimi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və etməyin"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "etməyin"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "heç birini"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "iyrənc işlərin"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "doğma ⟨özölü⟩"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "⟨həm⟩ müsafir"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "yaşayan"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "aranızda"
+    }
+  ],
+  "timestamp": "2026-09-01T17:56:56.508485177Z",
+  "model": "glm-5.3"
+}

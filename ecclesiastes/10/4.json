@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Əgər hökmdarın ruhu sənin üstünə qalxsa, öz yerini tərk etmə, çünki mülayimlik böyük günahları dindirir.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhu"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "hökmdarın"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "qalxsa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sənin üstünə"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "öz yerini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tərk etmə"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "tərk etmə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "mülayimlik"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "dindirir"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "günahları"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "böyük"
+    }
+  ],
+  "timestamp": "2026-09-01T16:31:51.842985068Z",
+  "model": "glm-5.3"
+}

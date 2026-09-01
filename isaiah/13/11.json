@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 13:11",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Mən dünyanın şərinə, zalımların isə günahına baş çəkəcəyim; kübarların təkəbbürünü sona yetirəcək və zorbazların lovğalığını alçaldacağam.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "baş çəkəcəyim"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ın üstünə"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dünyanın"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "şərinə"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "isə ... üstünə"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "zalımların"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "günahına"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "sona yetirəcəyəm"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "təkəbbürünü"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "kübarların"
+    },
+    {
+      "surface": "וגאות",
+      "gloss": "lovğalığını"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "zorbazların"
+    },
+    {
+      "surface": "אשפיל",
+      "gloss": "alçaldacağam"
+    }
+  ],
+  "timestamp": "2026-09-01T12:50:54.293776568Z",
+  "model": "glm-5.3"
+}

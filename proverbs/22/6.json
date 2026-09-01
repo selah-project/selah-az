@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 22:6",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Gənci onun yolunun ağızına görə tərbiyə et; hətta qocalanda da ondan dönməz.",
+  "tokens": [
+    {
+      "surface": "חנך",
+      "gloss": "tərbiyə et"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "gənci"
+    },
+    {
+      "surface": "על",
+      "gloss": "görə"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağızına"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "onun yolunun"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hətta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "יזקין",
+      "gloss": "qocalanda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dönməz... yox"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "dönməz"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ondan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:57:11.322020611Z",
+  "model": "glm-5.3"
+}

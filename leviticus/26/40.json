@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 26:40",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Və öz günahlarını ⟨את⟩ və atalarının günahını ⟨את⟩ etiraf edəcəklər — Mənə qarşı xəyanətlərində xəyanət etdikləri üçün, və həmçinin Mənimlə qarşı_durmada_addım atdıqları üçün.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "etiraf edəcəklər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öz günahlarını"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "öz günahlarını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "atalarının günahını"
+    },
+    {
+      "surface": "עון",
+      "gloss": "günahını"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "atalarının"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "xəyanətlərində"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "...dıqları üçün"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "xəyanət etdikləri"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Mənə qarşı"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "və həmçinin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "...dıqları üçün"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "addım atdıqları"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Mənimlə"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "qarşı_durmada"
+    }
+  ],
+  "timestamp": "2026-09-01T10:31:52.041745128Z",
+  "model": "glm-5.3"
+}

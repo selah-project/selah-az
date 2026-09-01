@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 136:13",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 136,
+  "translation": "Qamış dənizini iki hissəyə bölənə — çünki onun hesedi əbədidir.",
+  "tokens": [
+    {
+      "surface": "לגזר",
+      "gloss": "bölənə"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dənizini"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Qamış (Sup)"
+    },
+    {
+      "surface": "לגזרים",
+      "gloss": "iki hissəyə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədidir"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "onun hesedi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:43:50.465521820Z",
+  "model": "glm-5.3"
+}

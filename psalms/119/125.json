@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 125,
+  "ref": "psalms 119:125",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Mən qulunam; mənə anlamaq ver, ki Sənin şahadətlərini bilim.",
+  "tokens": [
+    {
+      "surface": "עבדך",
+      "gloss": "qulun"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "mənə anlamaq ver"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "ki bilim"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "şahadətlərini"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:36.998583286Z",
+  "model": "glm-5.3"
+}

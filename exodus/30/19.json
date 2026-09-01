@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 30:19",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Və Aharon və oğulları ondan yuyacaqlar ⟨את⟩ əllərini və ⟨את⟩ ayaqlarını.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "Və yuyacaqlar"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "və oğulları"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əllərini"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "əllərini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ayaqlarını"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "ayaqlarını"
+    }
+  ],
+  "timestamp": "2026-09-01T10:18:12.358911503Z",
+  "model": "glm-5.3"
+}

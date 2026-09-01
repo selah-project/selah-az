@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Həqiqətən, Yahve, Aşşurun padşahları ⟨את⟩ xalqları və ⟨את⟩ onların torpağını viran etdilər.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Həqiqətən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "viran etdilər"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "padşahları"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşşurun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqları"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "xalqları"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "onların torpağını"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "onların torpağını"
+    }
+  ],
+  "timestamp": "2026-09-01T12:41:55.783725235Z",
+  "model": "glm-5.3"
+}

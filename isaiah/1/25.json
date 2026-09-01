@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 1:25",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və əlimi sənin üstünə qaytaracağam və cürufunu ⟨butanın tək⟩ əridəcəyəm və bütün qalayını aradan götürəcəyəm.",
+  "tokens": [
+    {
+      "surface": "ואשיבה",
+      "gloss": "qaytaracağam"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "əlim"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sənin üstünə"
+    },
+    {
+      "surface": "ואצרף",
+      "gloss": "əridəcəyəm"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "⟨butanın tək⟩"
+    },
+    {
+      "surface": "סיגיך",
+      "gloss": "cürufun"
+    },
+    {
+      "surface": "ואסירה",
+      "gloss": "aradan götürəcəyəm"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "בדיליך",
+      "gloss": "qalayın"
+    }
+  ],
+  "timestamp": "2026-09-01T12:45:33.917711545Z",
+  "model": "glm-5.3"
+}

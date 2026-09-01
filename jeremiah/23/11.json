@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 23:11",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Çünki həm peyğəmbər, həm kahan çirklənib; həm Evimdə tapdım onların şərini — Yahvenin bəyanıdır.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "גם",
+      "gloss": "həm"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "peyğəmbər"
+    },
+    {
+      "surface": "גם",
+      "gloss": "həm"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kahan"
+    },
+    {
+      "surface": "חנפו",
+      "gloss": "çirklənib"
+    },
+    {
+      "surface": "גם",
+      "gloss": "həm"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "Evimdə"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "tapdım"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "onların şərini"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "bəyanıdır"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T13:36:27.571571083Z",
+  "model": "glm-5.3"
+}

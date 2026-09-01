@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 27:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Üzünü məndən gizlətmə, qulunu qəzəblə uzaqlaşdırma; sən mənim köməyim olmusan. Məni buraxma və məni tərk etmə, mənim qurtuluşumun Elohimi!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "gizlətmə"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "gizlətmə"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "üzünü"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "məndən"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uzaqlaşdırma"
+    },
+    {
+      "surface": "תט",
+      "gloss": "uzaqlaşdırma"
+    },
+    {
+      "surface": "באף",
+      "gloss": "qəzəblə"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "qulunu"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "mənim köməyim"
+    },
+    {
+      "surface": "היית",
+      "gloss": "olmusan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "buraxma"
+    },
+    {
+      "surface": "תטשני",
+      "gloss": "məni buraxma"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və tərk etmə"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "məni tərk etmə"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "qurtuluşumun"
+    }
+  ],
+  "timestamp": "2026-09-01T17:41:39.382112490Z",
+  "model": "glm-5.3"
+}

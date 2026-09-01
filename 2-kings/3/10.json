@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 3:10",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Yisraelin padşahı dedi: Ah! Çünki Yahve bu üç padşahı çağırdı ki, ⟨את⟩ onları Moavın əlinə versin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşahı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraelin"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Ah!"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "çağırdı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "bu üç"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "padşahı"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bunları"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "vermək üçün"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "əlinə"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moavın"
+    }
+  ],
+  "timestamp": "2026-09-01T12:28:32.032576519Z",
+  "model": "glm-5.3"
+}

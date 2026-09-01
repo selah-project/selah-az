@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 5:13",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Efrayim ⟨את⟩ xəstəliyini gördü, Yehuda isə ⟨את⟩ yarasını; Efrayim Aşşura getdi və Yarev adlı məlkə elçi göndərdi, lakin o sizə şəfa verə bilməz və yaranızı sizdən sağalmaz.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "gördü"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xəstəliyini"
+    },
+    {
+      "surface": "חליו",
+      "gloss": "xəstəliyini"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yarasını"
+    },
+    {
+      "surface": "מזרו",
+      "gloss": "yarasını"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "getdi"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşşur"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "elçi göndərdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "məlkə"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "Yarev"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lakin... bilməz"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "bilməz"
+    },
+    {
+      "surface": "לרפא",
+      "gloss": "şəfa verə"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizə"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və... sağalmaz"
+    },
+    {
+      "surface": "יגהה",
+      "gloss": "sağalmaz"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "sizdən"
+    },
+    {
+      "surface": "מזור",
+      "gloss": "yaranızı"
+    }
+  ],
+  "timestamp": "2026-09-01T14:33:28.415820731Z",
+  "model": "glm-5.3"
+}

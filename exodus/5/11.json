@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 5:11",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Siz özünüz gedin, tapdığınız yerdən özünüzə saman götürün, çünki işinizdən heç bir şey azaldılmır.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "gedin"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "götürün"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "özünüzə"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "saman"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "tapdığınız yerdən"
+    },
+    {
+      "surface": "תמצאו",
+      "gloss": "taparsınız"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yox"
+    },
+    {
+      "surface": "נגרע",
+      "gloss": "azaldılır"
+    },
+    {
+      "surface": "מעבדתכם",
+      "gloss": "işinizdən"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "heç bir şey"
+    }
+  ],
+  "timestamp": "2026-09-01T10:05:28.926543646Z",
+  "model": "glm-5.3"
+}

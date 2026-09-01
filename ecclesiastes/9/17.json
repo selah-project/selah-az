@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 9:17",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Hikmətlilərin sözləri sakitlikdə eşidilir, axmaqlar içərisində hökmdarın qışqırığından ⟨daha çox⟩.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "sözləri"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "hikmətlilərin"
+    },
+    {
+      "surface": "בנחת",
+      "gloss": "sakitlikdə"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "eşidilir"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "qışqırığından"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "hökmdarın"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "axmaqlar içərisində"
+    }
+  ],
+  "timestamp": "2026-09-01T16:30:52.249264151Z",
+  "model": "glm-5.3"
+}

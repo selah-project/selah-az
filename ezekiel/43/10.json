@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 43:10",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 43,
+  "translation": "Sən, adam oğlu, ⟨את⟩ evi İsrail evinə ⟨את⟩ bu evi göstər, və günahlarından utansınlar, və ölçsünlər ⟨את⟩ onun planını.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "göstər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "evi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu evi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "bu evi"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "və utansınlar"
+    },
+    {
+      "surface": "מעונותיהם",
+      "gloss": "günahlarından"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "və ölçsünlər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onun planını"
+    },
+    {
+      "surface": "תכנית",
+      "gloss": "onun planını"
+    }
+  ],
+  "timestamp": "2026-09-01T14:29:09.251632891Z",
+  "model": "glm-5.3"
+}

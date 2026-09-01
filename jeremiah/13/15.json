@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 13:15",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Eşidin və qulaq asın, lovğalanmayın, çünki Yahve danışdı.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "eşidin"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "və qulaq asın"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yox ⟨-ma⟩"
+    },
+    {
+      "surface": "תגבהו",
+      "gloss": "lovğalanmayın"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "danışdı"
+    }
+  ],
+  "timestamp": "2026-09-01T13:31:38.414031390Z",
+  "model": "glm-5.3"
+}

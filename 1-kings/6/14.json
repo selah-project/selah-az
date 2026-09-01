@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Şelomo evi ⟨את⟩ tikdi və onu bitirdi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "tikdi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "evi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "וכלהו",
+      "gloss": "onu bitirdi"
+    }
+  ],
+  "timestamp": "2026-09-01T12:14:08.053669200Z",
+  "model": "glm-5.3"
+}

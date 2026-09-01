@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 20:10",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Daş ⟨və⟩ daş, eyfa ⟨və⟩ eyfa — ikisi də Yahve üçün iyrəncdir.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "Daş"
+    },
+    {
+      "surface": "vvאבן",
+      "gloss": "⟨və⟩ daş"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "eyfa"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "⟨və⟩ eyfa"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "iyrəncdir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "גם",
+      "gloss": "də"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ikisi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:55:21.493668849Z",
+  "model": "glm-5.3"
+}

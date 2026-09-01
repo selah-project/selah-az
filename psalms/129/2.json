@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 129,
+  "translation": "Çox sıxışdırdılar məni gəncliyimdən, amma mənə qalib gələ bilmədilər.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Çox"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "sıxışdırdılar məni"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "gəncliyimdən"
+    },
+    {
+      "surface": "גם",
+      "gloss": "amma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bilmədilər"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "qalib gələ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:43:29.479877818Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 16:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Ölçü kəndirləri mənə xoş yerlərdə düşdü; bəli, gözəl bir mirasdır mənim üstümə ⟨olan⟩.",
+  "tokens": [
+    {
+      "surface": "חבלים",
+      "gloss": "ölçü kəndirləri"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "düşdü"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "בנעמים",
+      "gloss": "xoş yerlərdə"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bəli"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "miras"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "gözəl"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mənim üstümə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:04:36.303798065Z",
+  "model": "glm-5.3"
+}

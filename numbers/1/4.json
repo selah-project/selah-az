@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və ⟨את⟩ sizinlə birlikdə hər qəbilədən bir kişi olsun, hər biri atalarının evinin başı olan ⟨o⟩.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "və ⟨את⟩ sizinlə"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kişi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "(hər) biri"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "qəbilədən"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər biri"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "başı"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "evinin"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "atalarının"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o⟩ özü"
+    }
+  ],
+  "timestamp": "2026-09-01T10:32:39.450251808Z",
+  "model": "glm-5.3"
+}

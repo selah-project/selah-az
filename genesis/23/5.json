@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Xet oğulları Avrahamı ⟨את⟩ cavablandırıb ona dedilər:",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "cavablandırıb dedilər"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Xet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahamı"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-09-01T09:52:16.307061347Z",
+  "model": "glm-5.3"
+}

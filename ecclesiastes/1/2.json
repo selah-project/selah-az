@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Dəbdəbələrin dəbdəbəsi, — dedi Kohelet, — dəbdəbələrin dəbdəbəsi, hamısı dəbdəbədir.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "Dəbdəbə"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "dəbdəbələrin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Dəbdəbə"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "dəbdəbələrin"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "hamısı"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "dəbdəbədir"
+    }
+  ],
+  "timestamp": "2026-09-01T16:29:40.764505260Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Və Aharon ⟨את⟩ özünə aid günah qurbanı buğasını təqdim edəcək və özü üçün və öz evi üçün kəffarə edəcək.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "təqdim edəcək"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buğanı"
+    },
+    {
+      "surface": "פר",
+      "gloss": "buğa"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "günah qurbanının"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "özünə aid"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "kəffarə edəcək"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "özü üçün"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "və … üçün"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "öz evi"
+    }
+  ],
+  "timestamp": "2026-09-01T10:28:07.863860670Z",
+  "model": "glm-5.3"
+}

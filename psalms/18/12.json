@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Qaranlığı gizlənc yeri etdi, ətrafında onun sığınağı ⟨var idi⟩ — suların qaranlığı, buludların qalın buludları.",
+  "tokens": [
+    {
+      "surface": "ישת",
+      "gloss": "etdi"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "qaranlığı"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "gizlənc yeri"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "ətrafında onun"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "sığınağı"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "qaranlığı"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suların"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "qalın buludları"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "buludların"
+    }
+  ],
+  "timestamp": "2026-09-01T15:06:29.098224232Z",
+  "model": "glm-5.3"
+}

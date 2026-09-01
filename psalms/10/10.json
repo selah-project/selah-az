@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Əzib çökür və əyilir, bədbəxtlər onun qüdrəti altına düşürlər.",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "əzib"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "çökür"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "və düşürlər"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "onun qüdrəti altına"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "bədbəxtlər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:03:34.708388869Z",
+  "model": "glm-5.3"
+}

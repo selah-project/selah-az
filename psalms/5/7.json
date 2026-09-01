@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 5:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Yalan danışanları məhv edəcəksən; qan adamını və hiyləgəri Yahve iyrənir.",
+  "tokens": [
+    {
+      "surface": "תאבד",
+      "gloss": "məhv edəcəksən"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "danışanları"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "yalan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamını"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "qan"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "və hiyləgəri"
+    },
+    {
+      "surface": "יתעב",
+      "gloss": "iyrənir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T15:01:04.891588029Z",
+  "model": "glm-5.3"
+}

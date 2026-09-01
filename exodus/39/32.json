@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 39:32",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 39,
+  "translation": "Və məclis çadırı olan məskənin bütün işi tamamlandı; İsrail oğulları Yahvenin Moşeyə əmr etdiyi hər şeyi etdilər — beləcə etdilər.",
+  "tokens": [
+    {
+      "surface": "ותכל",
+      "gloss": "tamamlandı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "işi"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "məskənin"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadırı"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "məclis"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "etdilər"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "hər şeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "əmr etdiyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşeyə"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşeyə"
+    },
+    {
+      "surface": "כן",
+      "gloss": "beləcə"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "etdilər"
+    }
+  ],
+  "timestamp": "2026-09-01T10:22:17.526974950Z",
+  "model": "glm-5.3"
+}

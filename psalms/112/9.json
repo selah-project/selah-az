@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 112:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 112,
+  "translation": "Səpələyib kasıblara verir; onun selliyi əbədi durur; onun buynuzu izzətlə yüksələcək.",
+  "tokens": [
+    {
+      "surface": "פזר",
+      "gloss": "Səpələyib"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verir"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "kasıblara"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "onun selliyi"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "durur"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "onun buynuzu"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "yüksələcək"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "izzətlə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:37:14.190001243Z",
+  "model": "glm-5.3"
+}

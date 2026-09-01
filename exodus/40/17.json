@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 40:17",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "Və ⟨oldu⟩ birinci ayda, ikinci ildə, ayın birinci günündə məskən quruldu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "və ⟨oldu⟩"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ayda"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "birinci"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ildə"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ikinci"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "birinci günündə"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ayın"
+    },
+    {
+      "surface": "הוקם",
+      "gloss": "quruldu"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "məskən"
+    }
+  ],
+  "timestamp": "2026-09-01T10:22:24.586979396Z",
+  "model": "glm-5.3"
+}

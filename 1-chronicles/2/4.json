@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və Tamar, onun gəlini, ona ⟨את⟩ Peretsi və ⟨את⟩ Zerağı doğdu. Yehudanın bütün oğulları beş ⟨idi⟩.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "Və Tamar"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "onun gəlini"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "doğdu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peretsi"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Peretsi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zerağı"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zerağı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudanın"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "beş"
+    }
+  ],
+  "timestamp": "2026-09-01T17:00:45.778036818Z",
+  "model": "glm-5.3"
+}

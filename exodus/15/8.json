@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 15:8",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Və burun dəliyinin nəfəsi ilə sular yığıldı, axıntılar təpə kimi durdular, dərinliklər dənizin ürəyində dondular.",
+  "tokens": [
+    {
+      "surface": "וברוח",
+      "gloss": "və nəfəsi ilə"
+    },
+    {
+      "surface": "אפיך",
+      "gloss": "burun dəliyinin"
+    },
+    {
+      "surface": "נערמו",
+      "gloss": "yığıldı"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sular"
+    },
+    {
+      "surface": "נצבו",
+      "gloss": "durdular"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "נד",
+      "gloss": "təpə"
+    },
+    {
+      "surface": "נזלim",
+      "gloss": "axıntılar"
+    },
+    {
+      "surface": "קפאו",
+      "gloss": "dondular"
+    },
+    {
+      "surface": "תהמת",
+      "gloss": "dərinliklər"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "ürəyində"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dənizin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:08:51.876149764Z",
+  "model": "glm-5.3"
+}

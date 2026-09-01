@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 19:20",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Məsləhət dinlə və tərbiyə qəbul et, ki axırıtcanda müdrik olasan.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "dinlə"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "məsləhət"
+    },
+    {
+      "surface": "וקבל",
+      "gloss": "və … qəbul et"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tərbiyə"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תחכם",
+      "gloss": "müdrik olasan"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "axırıtcanda"
+    }
+  ],
+  "timestamp": "2026-09-01T15:56:44.081814030Z",
+  "model": "glm-5.3"
+}

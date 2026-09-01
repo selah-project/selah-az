@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 39:24",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 39,
+  "translation": "Murdarlıqlarına və üsyankarlıqlarına görə onlarla belə davrandım, və üzümü onlardan gizlətdim.",
+  "tokens": [
+    {
+      "surface": "כטמאתם",
+      "gloss": "murdarlıqlarına görə"
+    },
+    {
+      "surface": "וכפשעיהם",
+      "gloss": "və üsyankarlıqlarına görə"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "onlara etdim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onlarla"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "və gizlətdim"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzümü"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "onlardan"
+    }
+  ],
+  "timestamp": "2026-09-01T14:27:00.980311956Z",
+  "model": "glm-5.3"
+}

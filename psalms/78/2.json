@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 78,
+  "translation": "Ağzımı məsəl ilə açacağam, əzəldən ⟨olan⟩ bulmacalar (hidoţ) pıçıldayıb axıtacağam.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "açacağam"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "məsəl ilə"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzımı"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "pıçıldayıb axıtacağam"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "bulmacalar"
+    },
+    {
+      "surface": "מני",
+      "gloss": "—"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "əzəldən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:26:14.735534605Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "İnsan özünə tanrılar düzəldərmi, halbuki onlar tanrı deyillər?",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "düzəldərmi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "özünə"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tanrılar"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "halbuki onlar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tanrı deyillər"
+    }
+  ],
+  "timestamp": "2026-09-01T13:30:50.218638080Z",
+  "model": "glm-5.3"
+}

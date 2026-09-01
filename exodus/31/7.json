@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 31:7",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "⟨את⟩ görüş çadırını, ⟨את⟩ şəhadət sandığını, üstündəki ⟨את⟩ kəffarət örtüyünü və çadırın bütün avadanlığını ⟨את⟩ —",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "görüş çadırı"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadır"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "görüş (mövlədi)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "şəhadət sandığı"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sandıq"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "şəhadət üçün"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kəffarət örtüyü"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kəffarət örtüyü"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üstündə"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bütün"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "avadanlıq"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "çadırın"
+    }
+  ],
+  "timestamp": "2026-09-01T17:56:27.399078786Z",
+  "model": "glm-5.3"
+}

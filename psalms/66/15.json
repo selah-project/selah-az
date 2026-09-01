@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 66:15",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 66,
+  "translation": "Yağlı yandırma qurbanları sənə qaldıracağam, qoçunların buxuru ⟨ilə⟩; öküzlər dişi keçilərlə ⟨birlikdə⟩ hazırlayacağam. Sela.",
+  "tokens": [
+    {
+      "surface": "עלות",
+      "gloss": "yandırma qurbanları"
+    },
+    {
+      "surface": "מחים",
+      "gloss": "yağlı"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "qaldıracağam"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨ilə⟩ birlikdə"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "buxuru"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "qoçunların"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "hazırlayacağam"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "öküzlər"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨ilə⟩ birlikdə"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "dişi keçilərlə"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-01T15:20:49.065746319Z",
+  "model": "glm-5.3"
+}

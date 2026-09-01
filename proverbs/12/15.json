@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 12:15",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Ağılsızın yolu öz gözündə düzdür, məsləhətə qulaq asan isə ağıllıdır.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "yolu"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "ağılsızın"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "düzdür"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "öz gözündə"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "və eşidən"
+    },
+    {
+      "surface": "לעצה",
+      "gloss": "məsləhətə"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ağıllıdır"
+    }
+  ],
+  "timestamp": "2026-09-01T15:52:50.174750304Z",
+  "model": "glm-5.3"
+}

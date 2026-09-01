@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "exodus 12:46",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Bir evdə yeyiləcək; evdən ətdən bir şey çölə çıxarmayasan və sümüyü onda qırmayacaqsınız.",
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "bir evdə"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yeyiləcək"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "çıxarmayasan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "evdən"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ətdən"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "çölə"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "və sümük"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "qırmayacaqsınız"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onda"
+    }
+  ],
+  "timestamp": "2026-09-01T10:09:02.898165593Z",
+  "model": "glm-5.3"
+}

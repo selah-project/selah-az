@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Keçim, icazə ver, və görüm ⟨את⟩ yaxşı torpağı ki, o İordanın o tayındadır, bu yaxşı dağı və Livanonu.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "keçim"
+    },
+    {
+      "surface": "נא",
+      "gloss": "icazə ver"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "və görüm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yaxşı torpağı"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "torpağı"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "yaxşı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "o tayında"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "İordanın"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "dağı"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "yaxşı"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "və Livanon"
+    }
+  ],
+  "timestamp": "2026-09-01T10:46:56.693855249Z",
+  "model": "glm-5.3"
+}

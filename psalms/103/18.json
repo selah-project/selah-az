@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 103:18",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 103,
+  "translation": "Onun əhdini saxlayanlara və Onun əmrlərini — onları yerinə yetirmək üçün — xatırlayanlara ⟨-dir bu salehlik⟩.",
+  "tokens": [
+    {
+      "surface": "לשמרי",
+      "gloss": "saxlayanlara"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "Onun əhdini"
+    },
+    {
+      "surface": "ולזכרי",
+      "gloss": "və xatırlayanlara"
+    },
+    {
+      "surface": "פקדיו",
+      "gloss": "Onun əmrlərini"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "onları yerinə yetirmək üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T15:34:05.480849168Z",
+  "model": "glm-5.3"
+}

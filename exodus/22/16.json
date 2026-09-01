@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 22:16",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Əgər atası onu ona verməkdə tam imtina etsə, bakirələrin cehizi qədər gümüş çəksin.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "imtina"
+    },
+    {
+      "surface": "ימאן",
+      "gloss": "etsə"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "atası"
+    },
+    {
+      "surface": "לתתה",
+      "gloss": "verməkdə"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "çəksin"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "cehizi qədər"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "bakirələrin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:14:18.477635388Z",
+  "model": "glm-5.3"
+}

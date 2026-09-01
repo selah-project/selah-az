@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "haggai 1:4",
+  "book": "haggai",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Sizin üçünmü, ey siz, üstü örtülü evlərdə oturmağın vaxtı, bu ev isə xaraba qalsın?",
+  "tokens": [
+    {
+      "surface": "העת",
+      "gloss": "vaxtı"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin üçünmü"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ey siz"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "oturmağın"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "evlərdə"
+    },
+    {
+      "surface": "ספונים",
+      "gloss": "üstü örtülü"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "bu ev isə"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨bu⟩"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "xaraba"
+    }
+  ],
+  "timestamp": "2026-09-01T14:53:47.999476459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 145,
+  "translation": "Bütün əməllərin səni yad edəcək, ey Yahve, və sənin hesedlilərin səni xeyir-dua ilə alqışlayacaq.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "səni yad edəcək"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Bütün"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "əməllərin"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "və sənin hesedlilərin"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "səni alqışlayacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:17.324296645Z",
+  "model": "glm-5.3"
+}

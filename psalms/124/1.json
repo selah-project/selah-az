@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 124,
+  "translation": "Məqamlar mahnısı, Davuda aid. Yahve bizim üçün olmasaydı — indi İsrail desin ⟨nə⟩:",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Mahnısı"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "məqamların"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davuda aid"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "olmasaydı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "⟨idi⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizim üçün"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "desin"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨nə⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:53.092835676Z",
+  "model": "glm-5.3"
+}

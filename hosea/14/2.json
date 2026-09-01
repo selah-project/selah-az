@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 14:2",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Qayıt, ya İsrail, Yahve sənin Elohiminə, çünki günahınla səntillədin!",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Qayıt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya İsrail"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sənin Elohimin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "כשלת",
+      "gloss": "səntillədin"
+    },
+    {
+      "surface": "בעונך",
+      "gloss": "günahınla"
+    }
+  ],
+  "timestamp": "2026-09-01T14:38:02.759849601Z",
+  "model": "glm-5.3"
+}

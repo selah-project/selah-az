@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 42:7",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 42,
+  "translation": "Yosef qardaşlarını ⟨את⟩ gördü və onları tanıdı, amma onlara özünü yad kimi göstərdi və onlarla ⟨את⟩ sərt danışdı və onlara dedi: Hansı yerdən gəlmisiniz? Onlar dedilər: Qənan torpağından, yemək almağa.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "gördü"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qardaşlarını"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "qardaşlarını"
+    },
+    {
+      "surface": "ויכרם",
+      "gloss": "onları tanıdı"
+    },
+    {
+      "surface": "ויתנכר",
+      "gloss": "özünü yad kimi göstərdi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "danışdı"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onlarla"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "sərt"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "hansı yerdən"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "gəlmisiniz"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "dedilər"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "torpağından"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Qənan"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "almağa"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yemək"
+    }
+  ],
+  "timestamp": "2026-09-01T10:00:42.504414253Z",
+  "model": "glm-5.3"
+}

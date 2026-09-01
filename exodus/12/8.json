@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Və əti bu gecə yeyəcəklər — odda bişmiş, mayasız çörəklə; acı otlar üzərində yeyəcəklər onu.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "və yeyəcəklər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əti"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "əti"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "gecə"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "bişmiş"
+    },
+    {
+      "surface": "אש",
+      "gloss": "odda"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "və mayasız çörəklə"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərində"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "acı otlar"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "yeyəcəklər onu"
+    }
+  ],
+  "timestamp": "2026-09-01T10:08:06.899117872Z",
+  "model": "glm-5.3"
+}

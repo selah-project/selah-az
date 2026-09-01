@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 76,
+  "translation": "Mahirə, nəğmə alətləri ilə; Asafın məzmuru, nəğmə.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Mahirə"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "nəğmə alətləri ilə"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "məzmuru"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafın"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nəğmə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:25:27.243906599Z",
+  "model": "glm-5.3"
+}

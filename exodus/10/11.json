@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 10:11",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Xeyr, elə deyil; kişilər ⟨siz⟩ gedin, Yahveyə ibadət edin, çünki ⟨את⟩ bunu siz istəyirsiniz. Və Paronun üzü qarşısından onları qovdular ⟨onları⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "xeyr"
+    },
+    {
+      "surface": "כן",
+      "gloss": "elə"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "gedin"
+    },
+    {
+      "surface": "נא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "kişilər"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "ibadət edin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveyə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ bunu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "istəyirsiniz"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "qovdu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "qarşısından ⟨את⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzü"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paronun"
+    }
+  ],
+  "timestamp": "2026-09-01T10:07:36.049877966Z",
+  "model": "glm-5.3"
+}

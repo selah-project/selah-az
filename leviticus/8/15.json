@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 8:15",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və kəsdi; və Moşe ⟨את⟩ qanı götürdü və barmağı ilə qurbangahın buynuzlarına, ətrafına qoydu və ⟨את⟩ qurbangahı günahdan təmizlədi; ⟨את⟩ qanı isə qurbangahın bünövrəsinə tökdü və onu müqəddəsləşdirdi, üzərində kəffarə etmək üçün.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "kəsdi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "götürdü"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qanı"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "qanı"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "qoydu"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "buynuzlarına"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "qurbangahın"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ətrafına"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "barmağı ilə"
+    },
+    {
+      "surface": "ויחטא",
+      "gloss": "günahdan təmizlədi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbangahı"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "qurbangahı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qanı"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "qanı"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "tökdü"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə doğru"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "bünövrəsinə"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "qurbangahın"
+    },
+    {
+      "surface": "ויקדשהו",
+      "gloss": "müqəddəsləşdirdi"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "kəffarə etmək üçün"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "üzərində"
+    }
+  ],
+  "timestamp": "2026-09-01T10:25:17.070965919Z",
+  "model": "glm-5.3"
+}

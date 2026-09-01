@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 32:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "At kimi, dəvə kimi olmayın ki, ⟨onların⟩ anlayışı yoxdur; dizgin və xəltək ilə — onun bəzək-düzəni — ⟨onları⟩ saxlamaq üçün, yoxsa sənə yaxınlaşmazlar.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "olmayın"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "⟨olmayın⟩"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "at kimi"
+    },
+    {
+      "surface": "כפרד",
+      "gloss": "dəvə kimi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "anlayışı"
+    },
+    {
+      "surface": "במתג",
+      "gloss": "dizgin ilə"
+    },
+    {
+      "surface": "ורסן",
+      "gloss": "və xəltək"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "onun bəzək-düzəni"
+    },
+    {
+      "surface": "לבלום",
+      "gloss": "saxlamaq üçün"
+    },
+    {
+      "surface": "בל",
+      "gloss": "yoxsa"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "yaxınlaşmazlar"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sənə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:10:30.359029178Z",
+  "model": "glm-5.3"
+}

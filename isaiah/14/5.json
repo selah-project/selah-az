@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 14:5",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Yahve şər əhlindən ⟨çomağı⟩ qırdı, hökmdarların əsdası.",
+  "tokens": [
+    {
+      "surface": "שָׁבַ֥ר",
+      "gloss": "qırdı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "çomağı"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "şər əhlindən"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "əsda"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "hökmdarların"
+    }
+  ],
+  "timestamp": "2026-09-01T12:51:50.040874355Z",
+  "model": "glm-5.3"
+}

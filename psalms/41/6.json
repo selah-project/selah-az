@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 41,
+  "translation": "Düşmənlərim mənim haqqımda pis ⟨söz⟩ danışırlar: Nə vaxt öləcək, adı məhv olacaq?",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "Düşmənlərim"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "danışırlar"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pis ⟨söz⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənim haqqımda"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "Nə vaxt"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "öləcək"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "və məhv olacaq"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "adı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:13:55.744721396Z",
+  "model": "glm-5.3"
+}

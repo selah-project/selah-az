@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 22:14",
+  "book": "2-samuel",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Yahve göylərdən gürlədi, və Elyon öz səsini verdi.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "gürlədi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "göylər"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "və Elyon"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "öz səsini"
+    }
+  ],
+  "timestamp": "2026-09-01T12:06:52.102218557Z",
+  "model": "glm-5.3"
+}

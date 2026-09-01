@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 16:10",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Kəhanət ⟨var⟩ padşahın dodaqlarında; məhkəmədə onun ağzı xəyanət etməz.",
+  "tokens": [
+    {
+      "surface": "קסם",
+      "gloss": "kəhanət"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerində"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "dodaqlarında"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşahın"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "məhkəmədə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ימעל",
+      "gloss": "xəyanət etməz"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "onun ağzı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:53:46.955579885Z",
+  "model": "glm-5.3"
+}

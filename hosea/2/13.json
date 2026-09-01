@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 2:13",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və bütün sevincinə son qoyacağam — bayramına, yeni ayına və şabbatına, və bütün təyin olunmuş vaxtlarına.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "son qoyacağam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "משושה",
+      "gloss": "sevincinə"
+    },
+    {
+      "surface": "חגה",
+      "gloss": "bayramına"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "yeni ayına"
+    },
+    {
+      "surface": "ושבתה",
+      "gloss": "və şabbatına"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "מועדה",
+      "gloss": "təyin olunmuş vaxtlarına"
+    }
+  ],
+  "timestamp": "2026-09-01T14:34:15.047748497Z",
+  "model": "glm-5.3"
+}

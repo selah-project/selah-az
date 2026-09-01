@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 7:2",
+  "book": "micah",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Mömin yox olub yerdən, insamlar arasında düz yoxdur; hamısı qan üçün pusquya düşür; hər biri ⟨את⟩ qardaşını torla ovlayır.",
+  "tokens": [
+    {
+      "surface": "אבד",
+      "gloss": "yox olub"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "Mömin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "və düz"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "insamlar arasında"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "hamısı"
+    },
+    {
+      "surface": "לדמים",
+      "gloss": "qan üçün"
+    },
+    {
+      "surface": "יארבו",
+      "gloss": "pusquya düşür"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər biri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qardaşını"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "qardaşını"
+    },
+    {
+      "surface": "יצודו",
+      "gloss": "ovlayır"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "torla"
+    }
+  ],
+  "timestamp": "2026-09-01T14:49:05.023077846Z",
+  "model": "glm-5.3"
+}

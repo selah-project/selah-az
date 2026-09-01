@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Daşları atmaq vaxtı, daşları toplamaq vaxtı; qucaqlamaq vaxtı, qucaqlamaqdan uzaq olmaq vaxtı.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "vaxtı"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "atmaq"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "daşları"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "və... vaxtı"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "toplamaq"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "daşları"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vaxtı"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "qucaqlamaq"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "və... vaxtı"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "uzaq olmaq"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "qucaqlamaqdan"
+    }
+  ],
+  "timestamp": "2026-09-01T16:28:52.440747882Z",
+  "model": "glm-5.3"
+}

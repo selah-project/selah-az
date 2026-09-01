@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 21:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Onları sənin üzünün vaxtında, ya Yahve, öz qəzəbində udacaq və od onları yeyəcək — onları ocaq kimi ⟨qoyacaqsan⟩ ⟨od⟩ ⟨ilə⟩.",
+  "tokens": [
+    {
+      "surface": "תשיתמו",
+      "gloss": "onları ⟨qoyacaqsan⟩"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "ocaq kimi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "⟨od⟩ ⟨ilə⟩"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "vaxtında"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sənin üzünün"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "öz qəzəbində"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "onları udacaq"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "və onları yeyəcək"
+    },
+    {
+      "surface": "אש",
+      "gloss": "od"
+    }
+  ],
+  "timestamp": "2026-09-01T15:06:03.536188640Z",
+  "model": "glm-5.3"
+}

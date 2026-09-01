@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 81,
+  "translation": "Eşit, ey xalqım, və mən sənə ⟨qarşı⟩ şahidlik edəcəyəm: ya Yisraəl, əgər mənə qulaq assan!",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Eşit"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ey xalqım"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "və şahidlik edəcəyəm"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sənə ⟨qarşı⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraəl"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "qulaq assan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:27:07.075218049Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 29:15",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "çünki siz bilirsiniz — ⟨את⟩ Mitsrayim ölkəsində necə yaşadığımızı, və ⟨את⟩ keçdiyiniz o xalqların içindən necə keçdiyimizi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "bilirsiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim ölkəsində yaşadığımızı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "yaşadıq"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ölkəsində"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "xalqların içindən keçdiyimizi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "keçdik"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "içindən"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "xalqların"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "keçdiniz"
+    }
+  ],
+  "timestamp": "2026-09-01T10:56:42.553071416Z",
+  "model": "glm-5.3"
+}

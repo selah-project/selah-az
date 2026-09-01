@@ -1,0 +1,142 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 4:16",
+  "book": "esther",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "«Get, Şuşanda tapılan bütün Yəhudiləri ⟨את⟩ topla və mənim üçün oruc tutun; yeməyin və içməyin — üç gün, gecə və gündüz. Mən də, xidməçi qızlarım da eyni şəkildə oruc tutacağam. Ondan sonra qanuna uyğun olmayaraq kralın yanına girişəcəyəm; və məhv olsam — məhv olaram.»",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "get"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "topla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün Yəhudiləri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yəhudiləri"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "tapılan"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "Şuşanda"
+    },
+    {
+      "surface": "וצומו",
+      "gloss": "və oruc tutun"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mənim üçün"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yeməyin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "תשתו",
+      "gloss": "içməyin"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "üç"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "gecə"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "və gündüz"
+    },
+    {
+      "surface": "גם",
+      "gloss": "də"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "ונערתי",
+      "gloss": "və xidməçi qızlarım"
+    },
+    {
+      "surface": "אצום",
+      "gloss": "oruc tutacağam"
+    },
+    {
+      "surface": "כן",
+      "gloss": "eyni şəkildə"
+    },
+    {
+      "surface": "ובכן",
+      "gloss": "ondan sonra"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "girişəcəyəm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki, o"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "כדת",
+      "gloss": "qanuna uyğun"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "və nə vaxt ki"
+    },
+    {
+      "surface": "אבדתי",
+      "gloss": "məhv olsam"
+    },
+    {
+      "surface": "אבדתי",
+      "gloss": "məhv olaram"
+    }
+  ],
+  "timestamp": "2026-09-01T16:34:20.944704380Z",
+  "model": "glm-5.3"
+}

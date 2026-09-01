@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 7:6",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Kahenlərdən hər kişi onu yeyə bilər; müqəddəs yerdə yeyiləcək; o, müqəddəslərin müqəddəsidir.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "kişi"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "kahenlərdən"
+    },
+    {
+      "surface": "יֹאכלנו",
+      "gloss": "onu yeyə bilər"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "yerdə"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "ייאכל",
+      "gloss": "yeyiləcək"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "müqəddəsi"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "müqəddəslərin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o ⟨dir⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T10:23:19.410159460Z",
+  "model": "glm-5.3"
+}

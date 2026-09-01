@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 72:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 72,
+  "translation": "Onların canlarını hiylədən və zülmdən fidyə ilə qurtaracaq, və onların qanı onun gözündə qiymətli olacaq.",
+  "tokens": [
+    {
+      "surface": "מתוך",
+      "gloss": "hiylədən"
+    },
+    {
+      "surface": "ומחמס",
+      "gloss": "və zülmdən"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "fidyə ilə qurtaracaq"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "onların canlarını"
+    },
+    {
+      "surface": "וייקר",
+      "gloss": "və qiymətli"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "onların qanı"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "onun gözündə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:24:16.071803453Z",
+  "model": "glm-5.3"
+}

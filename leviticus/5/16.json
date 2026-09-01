@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 5:16",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Və müqəddəs şeydən ⟨את⟩ günah etdiyi şeyi əvəz ödəsin, üstünə beşdə birini artırsın və ⟨את⟩ onu kahinə versin; kohen onun üçün günah-qüsur ayğısı ilə kəffarə etsin və ona bağışlanacaq.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "günah etdiyi şey"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "günah etdiyi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "−dən"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "müqəddəs şey"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "əvəz ödəsin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "beşdə birini"
+    },
+    {
+      "surface": "חמישתו",
+      "gloss": "onun beşdə biri"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "artırsın"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "versin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kahinə"
+    },
+    {
+      "surface": "והכהן",
+      "gloss": "və kohen"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "kəffarə etsin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üçün"
+    },
+    {
+      "surface": "באיל",
+      "gloss": "ayğı ilə"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "günah-qüsur"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "bağışlanacaq"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-09-01T10:23:51.728094028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "lamentations 3:64",
+  "book": "lamentations",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Onlara əvəz verəcəksən, ey Yahve, öz əllərinin əməlinə görə.",
+  "tokens": [
+    {
+      "surface": "תשיב",
+      "gloss": "əvəz verəcəksən"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "əvəz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ey Yahve"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "əməlinə görə"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "onların əllərinin"
+    }
+  ],
+  "timestamp": "2026-09-01T16:25:46.930078307Z",
+  "model": "glm-5.3"
+}

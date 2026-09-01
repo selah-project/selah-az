@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 104:13",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 104,
+  "translation": "⟨O⟩ dağları öz üst otaqlarından suvarır; yer Sənin əməllərinin bəhrəsindən doyur.",
+  "tokens": [
+    {
+      "surface": "משקה",
+      "gloss": "suvarır"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dağları"
+    },
+    {
+      "surface": "מעליותיו",
+      "gloss": "öz üst otaqlarından"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "bəhrəsindən"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "Sənin əməllərinin"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "doyur"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-09-01T15:34:41.523247856Z",
+  "model": "glm-5.3"
+}

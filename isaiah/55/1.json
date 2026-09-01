@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 55:1",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 55,
+  "translation": "Hoy! Susuz olan hər kəs, suya gəlin, gümüşü olmayan gəlin, alın və yeyin; gəlin, gümüşsüz və qıymıtsız şərab və süd alın.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Hoy!"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər kəs"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "susuz olan"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "gəlin"
+    },
+    {
+      "surface": "למים",
+      "gloss": "suya"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "və o ki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüşü"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "gəlin"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "alın"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "və yeyin"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "və gəlin"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "alın"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "gümüşsüz"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "ובלוא",
+      "gloss": "və qıymıtsız"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "qıymıt"
+    },
+    {
+      "surface": "יין",
+      "gloss": "şərab"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "və süd"
+    }
+  ],
+  "timestamp": "2026-09-01T13:14:16.618393345Z",
+  "model": "glm-5.3"
+}

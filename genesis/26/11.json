@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 26:11",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Və Avimelex bütün xalqa ⟨את⟩ əmr edərək dedi: «Bu kişiyə və onun arvadına toxunan ölüm ilə öləcək.»",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "və əmr etdi"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelex"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün xalq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "toxunan"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "bu kişiyə"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ובאשתו",
+      "gloss": "və onun arvadına"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölüm ilə"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "öləcək"
+    }
+  ],
+  "timestamp": "2026-09-01T09:53:39.872698129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "psalms 78:55",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 78,
+  "translation": "Və ümmətləri onların üzündən qovdu, onları miras kəndiri ilə düşürdü və İsrail qəbilələrini onların çadırlarında sakin etdi.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "qovdu"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "onların üzündən"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ümmətləri"
+    },
+    {
+      "surface": "ויפילם",
+      "gloss": "onları düşürdü"
+    },
+    {
+      "surface": "בחבל",
+      "gloss": "kəndiri ilə"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "miras"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "sakin etdi"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "onların çadırlarında"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "qəbilələrini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    }
+  ],
+  "timestamp": "2026-09-01T15:26:45.258877930Z",
+  "model": "glm-5.3"
+}

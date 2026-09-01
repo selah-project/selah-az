@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Çox əzablar ⟨var⟩ şər üçün, amma Yahve-yə etibar edəni hesed əhatə edəcək.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "çox"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "əzablar"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "şər üçün"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "amma etibar edən"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahve-yə"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "əhatə edəcək"
+    }
+  ],
+  "timestamp": "2026-09-01T15:10:30.359390637Z",
+  "model": "glm-5.3"
+}

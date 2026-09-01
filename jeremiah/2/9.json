@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 2:9",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Buna görə hələ sizinlə ⟨את⟩ mübahisə edəcəyəm, — Yahve-nin nütuqu — və oğullarınızın oğulları ilə ⟨את⟩ mübahisə edəcəyəm.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "buna görə"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hələ"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "mübahisə edəcəyəm"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "sizinlə ⟨את⟩",
+      "marks": "siz"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nütuqu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "oğullarınızın oğulları"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "oğullarınızın"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "mübahisə edəcəyəm"
+    }
+  ],
+  "timestamp": "2026-09-01T13:19:57.989526509Z",
+  "model": "glm-5.3"
+}

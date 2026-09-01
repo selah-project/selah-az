@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 69:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 69,
+  "translation": "Utandırma onlarda sənə ümid edənləri mənim səbəbimdən, Adonay, Yahve Sevot; rüsvay etmə səni axtaranları mənim səbəbimdən, Elohey Yisrael.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "utandırma"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "(utananlar)"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mənim səbəbimdən"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "sənə ümid edənləri"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sevot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rüsvay etmə"
+    },
+    {
+      "surface": "יכלמו",
+      "gloss": "(rüsvay olanlar)"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mənim səbəbimdən"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "səni axtaranları"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohey"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T15:22:20.977813343Z",
+  "model": "glm-5.3"
+}

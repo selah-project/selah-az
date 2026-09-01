@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 154,
+  "ref": "psalms 119:154",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Mənim davaşımı çək və məni fidyə ver ⟨ilə xilas et⟩, sözünə görə məni dirilt.",
+  "tokens": [
+    {
+      "surface": "ריבה",
+      "gloss": "dava çək"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "mənim davaşımı"
+    },
+    {
+      "surface": "וגאלני",
+      "gloss": "və məni fidyə ver"
+    },
+    {
+      "surface": "לאמרתך",
+      "gloss": "sözünə görə"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "məni dirilt"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:16.986435005Z",
+  "model": "glm-5.3"
+}

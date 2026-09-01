@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 27:8",
+  "book": "1-samuel",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Davud və adamları yürüş edib Geşurililərə, Girzililərə və Amaleklilərə hücum etdilər; çünki bunlar əzəldən ⟨o⟩ torpağın sakinləri ⟨idilər⟩ — sən Şura gedən ⟨yolda⟩, Mitsrayim torpağına ⟨qədər⟩.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "yürüş etdi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "və adamları"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "hücum etdilər"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "Geşurililərə"
+    },
+    {
+      "surface": "והגרזי",
+      "gloss": "Girzililərə"
+    },
+    {
+      "surface": "והעמלקי",
+      "gloss": "Amaleklilərə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bunlar"
+    },
+    {
+      "surface": "ישבות",
+      "gloss": "sakinləri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "torpağın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "əzəldən"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "sən gedən"
+    },
+    {
+      "surface": "שורה",
+      "gloss": "Şura"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "⟨qədər⟩"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "torpağına"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T17:33:17.713691211Z",
+  "model": "glm-5.3"
+}

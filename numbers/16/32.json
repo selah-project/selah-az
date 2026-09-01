@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 16:32",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "və yer ⟨את⟩ ağzını açdı və ⟨את⟩ onları və ⟨את⟩ evlərini uddu, həm Qoraha məxsus bütün insanı, həm də ⟨את⟩ bütün əşyanı.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "və açdı"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ağzını"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ağzını"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "və uddu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onları"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "evlərini"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "evlərini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bütün insanı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insanı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לקרח",
+      "gloss": "Qoraha məxsus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bütün əşyanı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הרכוש",
+      "gloss": "əşyanı"
+    }
+  ],
+  "timestamp": "2026-09-01T10:39:24.869781632Z",
+  "model": "glm-5.3"
+}

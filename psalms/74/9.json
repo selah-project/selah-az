@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 74,
+  "translation": "Nişanələrimizi görmürük; artıq peyğəmbər yoxdur, və bizimlə ⟨את⟩ bir kimsə yoxdur ⟨ki⟩ bilir nə qədər.",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "nişanələrimizi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "görmürük"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "artıq"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "peyğəmbər"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "bizimlə"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nə qədər"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə qədər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:25:23.524850307Z",
+  "model": "glm-5.3"
+}

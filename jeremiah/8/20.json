@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Məhsul ⟨toplanması⟩ keçdi, yay qurtardı, biz isə xilas olmadıq.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "keçdi"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "məhsul"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "qurtardı"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "yay"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "biz isə"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "olmadıq"
+    },
+    {
+      "surface": "נושענו",
+      "gloss": "xilas"
+    }
+  ],
+  "timestamp": "2026-09-01T13:28:00.939095352Z",
+  "model": "glm-5.3"
+}

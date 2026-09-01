@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 28:41",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "Oğullar və qızlar doğacaqsan, amma ⟨onlar⟩ sənin olmayacaqlar, çünki əsirliyə gedəcəklər.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "oğullar"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "və qızlar"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "doğacaqsan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma... yox"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "olacaqlar"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "gedəcəklər"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "əsirliyə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:56:04.038034968Z",
+  "model": "glm-5.3"
+}

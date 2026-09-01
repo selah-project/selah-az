@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 11:6",
+  "book": "job",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "və sənə hikmətin sirrlərini bildirərdi, çünki tüşiya ikiqatdır; bil ki, Eloah günahından bir hissəni sənə bağışlayar.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "və bildirərdi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "sirrlərini"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmətin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "כפלים",
+      "gloss": "ikiqatdır"
+    },
+    {
+      "surface": "לתושיה",
+      "gloss": "tüşiya ⟨üçün⟩"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "bil"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ישה",
+      "gloss": "bağışlayar"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "günahından ⟨bir hissəsini⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T16:08:05.141144490Z",
+  "model": "glm-5.3"
+}

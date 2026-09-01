@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 109:26",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 109,
+  "translation": "Mənə kömək et, Yahve Elohimim; məni xilas et, hesedinə görə.",
+  "tokens": [
+    {
+      "surface": "עזרני",
+      "gloss": "Mənə kömək et"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "məni xilas et"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "hesedinə görə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:37:29.810983740Z",
+  "model": "glm-5.3"
+}

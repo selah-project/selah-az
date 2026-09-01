@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "və ⟨את⟩ balacam bayquşu, ⟨את⟩ su qaranğası və ⟨את⟩ böyük bayquşu",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "balacam bayquş"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "balacam bayquş"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "su qaranğası"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "su qaranğası"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "böyük bayquş"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "böyük bayquş"
+    }
+  ],
+  "timestamp": "2026-09-01T10:24:48.551051547Z",
+  "model": "glm-5.3"
+}

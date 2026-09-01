@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 105:33",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 105,
+  "translation": "Onların üzümlüklərini və əncir ağaclarını vurdu, sərhədlərindəki ağacları qırdı.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "vurdu"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "onların üzümlüklərini"
+    },
+    {
+      "surface": "ותאנתם",
+      "gloss": "və əncir ağaclarını"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "qırdı"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ağaclan"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "sərhədlərindəki"
+    }
+  ],
+  "timestamp": "2026-09-01T15:35:49.353317488Z",
+  "model": "glm-5.3"
+}

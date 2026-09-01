@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 17:6",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Və səni ⟨çox⟩ ⟨çox⟩ bolluğa çatdıracağam və səni millətlər edəcəyəm, və səndən padşahlar çıxacaq.",
+  "tokens": [
+    {
+      "surface": "והפרתי",
+      "gloss": "və bolluğa çatdıracağam"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ səni",
+      "marks": "səni"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "⟨çox⟩"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "⟨çox⟩"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "və səni edəcəyəm"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "millətlər"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "və padşahlar"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "səndən"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "çıxacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T09:50:39.682827556Z",
+  "model": "glm-5.3"
+}

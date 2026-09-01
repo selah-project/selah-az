@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 6:36",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Və tikdi ⟨את⟩ daxili həyəti — üç cərgə yonulmuş daş, və bir cərgə kəsilmiş sidr şüaları.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "və tikdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daxili həyəti"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "həyəti"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "daxili"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "üç"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "cərgə"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "yonulmuş daş"
+    },
+    {
+      "surface": "וטור",
+      "gloss": "və bir cərgə"
+    },
+    {
+      "surface": "כרתת",
+      "gloss": "kəsilmiş şüaları"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "sidr"
+    }
+  ],
+  "timestamp": "2026-09-01T12:13:05.519484295Z",
+  "model": "glm-5.3"
+}

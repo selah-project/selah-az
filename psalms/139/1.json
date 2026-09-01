@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 139:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 139,
+  "translation": "Xor başçısına. Davidin məzmuru. Yahve, məni araşdırdın və ⟨məni⟩ tanıdın.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Xor başçısına"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "məzmuru"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חקרתני",
+      "gloss": "məni araşdırdın"
+    },
+    {
+      "surface": "ותדע",
+      "gloss": "və tanıdın"
+    }
+  ],
+  "timestamp": "2026-09-01T15:44:36.502803373Z",
+  "model": "glm-5.3"
+}

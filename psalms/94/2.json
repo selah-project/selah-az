@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 94,
+  "translation": "Yüksəl, ⟨⟨ dünyanın ⟩⟩ yerin hakimi, qürurluların üstünə cəzanı qaytar.",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "yüksəl"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "hakimi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨ dünyanın ⟩ yerin"
+    },
+    {
+      "surface": "השב",
+      "gloss": "qaytar"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "cəzanı"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "qürurluların"
+    }
+  ],
+  "timestamp": "2026-09-01T15:32:19.419559138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Dəri xəstəliyi (tsaraat) bir adamda olsa, kahinə gətirilsin.",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "yara"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsaraat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-sa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olsa"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "adamda"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "gətirilsin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:25:40.770866001Z",
+  "model": "glm-5.3"
+}

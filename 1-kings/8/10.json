@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və kahinlərin müqəddəs yerdən çıxması ilə ⟨oldu⟩ ki, bulud Yahvenin ⟨את⟩ evini doldurdu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "və oldu"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "çıxması ilə"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kahinlərin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "müqəddəs yer"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "və bulud"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "doldurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahvenin evi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    }
+  ],
+  "timestamp": "2026-09-01T12:16:45.214314205Z",
+  "model": "glm-5.3"
+}

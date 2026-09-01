@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 89,
+  "translation": "Əgər onun oğulları Tövrətimi tərk etsələr və mənim hökmlərimdə gəzməsələr —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "tərk etsələr"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "onun oğulları"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Tövrətimi"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "və mənim hökmlərimdə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "gəzməsələr"
+    }
+  ],
+  "timestamp": "2026-09-01T15:30:17.676071110Z",
+  "model": "glm-5.3"
+}

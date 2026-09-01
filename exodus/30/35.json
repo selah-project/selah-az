@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 30:35",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "və ondan ⟨את⟩ qətir düzəldəcəksən — rokəx (qarışıq ətir), rokəx ustasının işi, duzlanmış, təmiz, müqəddəs.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "və düzəldəcəksən"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "qətir"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "qətir (tüstü ətri)"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "rokəx (qarışıq ətir)"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "iş"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "rokəx ustasının"
+    },
+    {
+      "surface": "ממלח",
+      "gloss": "duzlanmış"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "təmiz"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "müqəddəs"
+    }
+  ],
+  "timestamp": "2026-09-01T10:18:20.088294301Z",
+  "model": "glm-5.3"
+}

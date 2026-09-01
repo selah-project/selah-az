@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 18:29",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Padşah belə deyir: Hizqiya sizi aldatmasın, çünki o, ⟨את⟩ sizi onun əlindən qurtara bilməz.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "belə"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-masın"
+    },
+    {
+      "surface": "ישיא",
+      "gloss": "aldatmasın"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizi"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizqiya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "bilməz"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "qurtara"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizi (onun əlindən qurtara)"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "onun əlindən"
+    }
+  ],
+  "timestamp": "2026-09-01T12:41:30.502783025Z",
+  "model": "glm-5.3"
+}

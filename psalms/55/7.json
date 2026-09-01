@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 55:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 55,
+  "translation": "Və dedim: kim mənə göyərçin qanadı verərdi — uçardım və sakin olardım.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "və dedim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "verərdi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "qanad"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "göyərçin ⟨kimi⟩"
+    },
+    {
+      "surface": "אעופה",
+      "gloss": "uçardım"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "və sakin olardım"
+    }
+  ],
+  "timestamp": "2026-09-01T15:17:40.788587829Z",
+  "model": "glm-5.3"
+}

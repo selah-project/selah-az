@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 4:3",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və o dedi: get, özün üçün bayırdan, bütün qonşularından ⟨את⟩ boş qab-qacaq istə — az istəmə.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və o dedi"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "get"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "istə"
+    },
+    {
+      "surface": "לך",
+      "gloss": "özün üçün"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "qab-qacaq"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "bayır"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "bütün qonşularından"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "שכנכי",
+      "gloss": "qonşularından"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "qab-qacaq"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "boş"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-mə"
+    },
+    {
+      "surface": "תמעיטי",
+      "gloss": "az istə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:31:54.186972052Z",
+  "model": "glm-5.3"
+}

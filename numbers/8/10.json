@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 8:10",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və levililəri Yahvenin üzündə ⟨את⟩ gətirəcəksən, və İsrail oğulları əllərini ⟨את⟩ levililərin üstünə qoyacaqlar.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "gətirəcəksən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "levililəri"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levililəri"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "üzündə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "qoyacaqlar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əllərini"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "əllərini"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levililərin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:35:30.317800238Z",
+  "model": "glm-5.3"
+}

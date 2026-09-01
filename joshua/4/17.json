@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Yehoşua kahinlərə əmr edib dedi: Yərdəndən çıxın.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "əmr edib"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kahinlər"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kahinlər"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "çıxın"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dən"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yərdən"
+    }
+  ],
+  "timestamp": "2026-09-01T11:01:32.152338663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Yahve qorxusu təmizdir, əbədi qalır; Yahvenin hökmləri haqdır, hamısı birlikdə salehdir.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "qorxusu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "təmizdir"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "qalır"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hökmləri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "haqdır"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "salehdir"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "birlikdə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:06:02.583904867Z",
+  "model": "glm-5.3"
+}

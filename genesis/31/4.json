@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 31:4",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "və Yaqub elçi göndərdi və Rəhəli və Leanı öz qoyunlarının yanına, sahəyə çağırdı.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "və göndərdi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqub"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "və çağırdı"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Rəhəli"
+    },
+    {
+      "surface": "וללאה",
+      "gloss": "və Leanı"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sahəyə"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...nın yanına"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "öz qoyunlarının"
+    }
+  ],
+  "timestamp": "2026-09-01T09:56:05.343525950Z",
+  "model": "glm-5.3"
+}

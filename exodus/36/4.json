@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 36:4",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 36,
+  "translation": "Və müqəddəs ⟨işin⟩ bütün işini görən bütün müdriklər gəldilər, hər adam öz işindən, ki onlar ⟨o işi⟩ edirdilər.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "gəldilər"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "החכמים",
+      "gloss": "müdriklər"
+    },
+    {
+      "surface": "העשים",
+      "gloss": "görən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "müqəddəs işin bütün işi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "işini"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər adam"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər adam"
+    },
+    {
+      "surface": "ממלאכתו",
+      "gloss": "öz işindən"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "edirdilər"
+    }
+  ],
+  "timestamp": "2026-09-01T10:21:36.792433310Z",
+  "model": "glm-5.3"
+}

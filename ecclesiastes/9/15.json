@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Və orada ⟨⟨bir⟩ yoxsul, müdrik bir adam tapıldı, və o, hikməti ilə şəhəri ⟨את⟩ xilas etdi, amma heç bir insan o yoxsul adamı ⟨את⟩ xatırlamadı.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "və tapıldı"
+    },
+    {
+      "surface": "בה",
+      "gloss": "orada"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "yoxsul"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "müdrik"
+    },
+    {
+      "surface": "ומלט",
+      "gloss": "və xilas etdi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şəhəri"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şəhəri"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "hikməti ilə"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "və insan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "xeyr"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "xatırlamadı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adamı"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "yoxsul"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-09-01T16:31:21.517392654Z",
+  "model": "glm-5.3"
+}

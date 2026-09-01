@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və o, kaynanasının yanına girdi; o dedi: Sən kimsən, qızım? O da ona kişinin ona etdiyi ⟨את⟩ hər şeyi danışdı.",
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "girdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "kaynanasının"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o dedi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "את",
+      "gloss": "sən"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "qızım"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "o da danışdı"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hər şeyi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər şeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etdiyi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "kişi"
+    }
+  ],
+  "timestamp": "2026-09-01T16:23:59.555744956Z",
+  "model": "glm-5.3"
+}

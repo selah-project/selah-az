@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "exodus 12:43",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Və Yahve Moşeyə və Əhrənə dedi: Pesaxın qanunu budur — hər yad oğlan ondan yeməyəcək.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşeyə"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "və Əhrənə"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "qanunu"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesaxın"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlan"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "yad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yeməyəcək"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ondan"
+    }
+  ],
+  "timestamp": "2026-09-01T10:08:29.158159883Z",
+  "model": "glm-5.3"
+}

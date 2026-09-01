@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 21:14",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Və mirasımın qalığını tərk edəcəyəm və onları düşmənlərinin əlinə verəcəyəm, və bütün düşmənlərinə qənimət və talan olacaqlar.",
+  "tokens": [
+    {
+      "surface": "ונטשתי",
+      "gloss": "və tərk edəcəyəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qalığını"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "qalığını"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "mirasımın"
+    },
+    {
+      "surface": "ונתתים",
+      "gloss": "və verəcəyəm"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "əlinə"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "düşmənlərinin"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "və olacaqlar"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "qənimət"
+    },
+    {
+      "surface": "ולמשסה",
+      "gloss": "və talan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "düşmənlərinə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:43:40.728783697Z",
+  "model": "glm-5.3"
+}

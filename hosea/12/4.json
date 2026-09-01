@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Bətndə ⟨o⟩ ⟨את⟩ qardaşını dabanından tutdu, və gücü ilə Elohim ⟨את⟩ ilə mübarizə apardı.",
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "bətndə"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "dabanından tutdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qardaşını"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "qardaşını"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "və gücü ilə"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "mübarizə apardı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T14:37:13.754646199Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 5:5",
+  "book": "song-of-songs",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Qalxdım, mən, dostuma açmağa; əllərim mirra damlatdı, barmaqlarım isə kilidin kulplarının üstünə keçən mirra damlatdı.",
+  "tokens": [
+    {
+      "surface": "קמתי",
+      "gloss": "Qalxdım"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "açmağa"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "dostuma"
+    },
+    {
+      "surface": "וידי",
+      "gloss": "əllərim"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "damlatdı"
+    },
+    {
+      "surface": "מור",
+      "gloss": "mirra"
+    },
+    {
+      "surface": "וידי",
+      "gloss": "barmaqlarım",
+      "meta": "actual surface is ואצבעתי"
+    },
+    {
+      "surface": "מור",
+      "gloss": "mirra"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "keçən"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "כפות",
+      "gloss": "kulplarının"
+    },
+    {
+      "surface": "המנעול",
+      "gloss": "kilidin"
+    }
+  ],
+  "timestamp": "2026-09-01T16:22:34.010442612Z",
+  "model": "glm-5.3"
+}

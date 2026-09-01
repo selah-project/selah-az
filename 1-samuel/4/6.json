@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 4:6",
+  "book": "1-samuel",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Pliştim qışqırığın səsini eşidib dedilər: «İvrit düşərgəsindəki bu böyük qışqırıq səsi nədir?» Və Yahve sandığının düşərgəyə gəldiyini bildilər.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "eşidib"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pliştim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qışqırığın səsini"
+    },
+    {
+      "surface": "קול",
+      "gloss": "səsini"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "qışqırığın"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "dedilər"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nədir"
+    },
+    {
+      "surface": "קול",
+      "gloss": "səsi"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "qışqırıq"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "düşərgəsindəki"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "İvrit"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "bildilər"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandığının"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gəldiyini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "düşərgəyə"
+    }
+  ],
+  "timestamp": "2026-09-01T11:32:41.979031769Z",
+  "model": "glm-5.3"
+}

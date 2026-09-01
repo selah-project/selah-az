@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 5:5",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Və olacaq ki, bunlardan birində təqsirli olsa, onda günah etdiyi şeyi etiraf edəcək.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "və olacaq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יאשם",
+      "gloss": "təqsirli olacaq"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "birində"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "bunlardan"
+    },
+    {
+      "surface": "והתודה",
+      "gloss": "etiraf edəcək"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o şeyi ki"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "günah etdiyi"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-09-01T10:23:59.768850751Z",
+  "model": "glm-5.3"
+}

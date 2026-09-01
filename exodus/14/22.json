@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 14:22",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Yisrael oğulları dənizin ortasından quru yerdən keçdilər, və sular onlara sağ tərəflərindən və sol tərəflərindən divar ⟨oldu⟩.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "keçdilər \/ girdilər"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ortasından"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dənizin"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "quru yerdən"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "və sular"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "divar"
+    },
+    {
+      "surface": "מימינם",
+      "gloss": "sağ tərəflərindən"
+    },
+    {
+      "surface": "ומשמאלם",
+      "gloss": "sol tərəflərindən"
+    }
+  ],
+  "timestamp": "2026-09-01T10:08:38.354780068Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 24:18",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Onlar atalarının Elohimi Yahvenin evini tərk etdilər və ⟨את⟩ Aşerimlərə və ⟨את⟩ bütlərə xidmət etdilər; bu günahları üzündən Yehuda və Yeruşalayimin üstünə qəzəb gəldi.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "tərk etdilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "evini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohiminin"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "atalarının"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "xidmət etdilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aşerimlərə"
+    },
+    {
+      "surface": "האשרim",
+      "gloss": "Aşerimlərə"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "bütlərə"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "bütlərə"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "gəldi"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "qəzəb"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "və Yeruşalayimin"
+    },
+    {
+      "surface": "באשמתם",
+      "gloss": "günahları üzündən"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-09-01T17:20:45.143483029Z",
+  "model": "glm-5.3"
+}

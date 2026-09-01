@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 40:33",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "Və ⟨o⟩ həyəti məskənin və qurbangahın ətrafında qaldırdı, həyərin qapısının pərdəsini vurdu; beləliklə Moşe ⟨את⟩ işi bitirdi.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "və qaldırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "həyəti"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "həyəti"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ətrafında"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "məskənin"
+    },
+    {
+      "surface": "ולמזבח",
+      "gloss": "və qurbangahın"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "və vurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pərdəsini"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "pərdəsini"
+    },
+    {
+      "surface": "שער",
+      "gloss": "qapısının"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "həyərin"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "və bitirdi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "işi"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "işi"
+    }
+  ],
+  "timestamp": "2026-09-01T10:22:15.191047159Z",
+  "model": "glm-5.3"
+}

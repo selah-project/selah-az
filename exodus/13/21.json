@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 13:21",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Və Yahve gündüz onların qarşısında gedirdi — onları yola yönəltmək üçün bulud sütununda, gecə isə onlara işıq salmaq üçün od sütununda — gündüz və gecə getmək üçün ⟨onların⟩ önündə.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "və Yahve"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "gedirdi"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "onların qarşısında"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "gündüz"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "sütununda"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "bulud"
+    },
+    {
+      "surface": "לנחתם",
+      "gloss": "onları yönəltmək üçün"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "yola"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "və gecə"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "sütununda"
+    },
+    {
+      "surface": "אש",
+      "gloss": "od"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "işıq salmaq üçün"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "getmək üçün"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "gündüz"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "və gecə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:08:07.516191548Z",
+  "model": "glm-5.3"
+}

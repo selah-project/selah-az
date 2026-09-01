@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 15:21",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "və ⟨את⟩ Emorilini, və ⟨את⟩ Kənanilini, və ⟨את⟩ Girqaşilini, və ⟨את⟩ Yevusilini.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Emorilini"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorilini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kənanilini"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kənanilini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Girqaşilini"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Girqaşilini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yevusilini"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Yevusilini"
+    }
+  ],
+  "timestamp": "2026-09-01T09:49:23.202616501Z",
+  "model": "glm-5.3"
+}

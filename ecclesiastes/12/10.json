@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Kohelet xoş kəlmələr tapmağı axtardı, və yazılan ⟨sözlər⟩ düzgün oldu — həqiqət kəlmələri.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "axtardı"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "tapmağı"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kəlmələr"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "xoş"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "və yazılan"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "düzgün"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kəlmələr"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "həqiqət"
+    }
+  ],
+  "timestamp": "2026-09-01T16:33:23.372793345Z",
+  "model": "glm-5.3"
+}

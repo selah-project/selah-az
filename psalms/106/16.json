@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 106:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 106,
+  "translation": "Düşmənçilik etdilər Moşeyə düşərgədə və Əhrəona, Yahvenin müqəddəsinə.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "düşmənçilik etdilər"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moşeyə"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "düşərgədə"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Əhrəona"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "müqəddəsinə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:02.914586966Z",
+  "model": "glm-5.3"
+}

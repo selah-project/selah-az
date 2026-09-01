@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 42,
+  "translation": "Və onlara dedi: Xeyr, çünki ölkənin çılpaqlığını görməyə gəlmisiniz.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "xeyr"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "çılpaqlığını"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ölkənin"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "gəlmisiniz"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "görməyə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:00:21.182876724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və ikisindən də yaxşıdır ⟨o⟩, hələ olmayan, günəş altında edilən pis əməli görməyən ⟨kimsə⟩.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "və yaxşıdır"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "ikisindən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hələ olmayan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki o"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "hələ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "olmayan"
+    },
+    {
+      "surface": "היה",
+      "gloss": "olmuş"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "görməyən"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "görmədi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pis əməli"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "əməli"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "pis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "edilən"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "günəş"
+    }
+  ],
+  "timestamp": "2026-09-01T16:30:13.891518381Z",
+  "model": "glm-5.3"
+}

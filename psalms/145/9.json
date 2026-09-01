@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 145,
+  "translation": "Yahve hamıya yaxşıdır, və onun rəhmləri bütün əməllərinin üstündədir.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "yaxşıdır"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hamıya"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "və onun rəhmləri"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündədir"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "əməllərinin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:17.324036534Z",
+  "model": "glm-5.3"
+}

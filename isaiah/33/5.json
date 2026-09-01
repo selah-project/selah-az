@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 33:5",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "Yahve ucaldırıldı, çünki ⟨o⟩ ucalıqda yaşayır; Sionu mühakimə ⟨və⟩ ədalətlə doldurdu.",
+  "tokens": [
+    {
+      "surface": "נשגב",
+      "gloss": "ucaldırıldı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "yaşayır"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ucalıqda"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "doldurdu"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sionu"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mühakimə"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ədalət"
+    }
+  ],
+  "timestamp": "2026-09-01T13:00:11.256139206Z",
+  "model": "glm-5.3"
+}

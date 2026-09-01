@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 42:3",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 42,
+  "translation": "Əzilmiş qamışı o qırmayacaq, və sönmək üzrə olan kətani fitili o söndürməyəcək; həqiqət ⟨üzrə⟩ məhkəməni çıxaracaq.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "qamışı"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "əzilmiş"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ישבור",
+      "gloss": "qırmayacaq"
+    },
+    {
+      "surface": "ופשתה",
+      "gloss": "və kətani fitili"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "sönmək üzrə olan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יכבנה",
+      "gloss": "söndürməyəcək"
+    },
+    {
+      "surface": "לאמת",
+      "gloss": "həqiqət ⟨üzrə⟩"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "çıxaracaq"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "məhkəməni"
+    }
+  ],
+  "timestamp": "2026-09-01T13:08:36.650560114Z",
+  "model": "glm-5.3"
+}

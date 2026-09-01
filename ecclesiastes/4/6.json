@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Sükunətlə dolu bir ovuc, əziyyət və ⟨ruhun⟩ qəmindən ibarət iki ovucdan yaxşıdır.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "yaxşıdır"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "dolu"
+    },
+    {
+      "surface": "כף",
+      "gloss": "bir ovuc"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "sükunətlə"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "dolu"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "iki ovuc"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "əziyyət"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "qəmi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhun"
+    }
+  ],
+  "timestamp": "2026-09-01T16:30:01.534705280Z",
+  "model": "glm-5.3"
+}

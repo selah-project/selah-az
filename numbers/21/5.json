@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 21:5",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Və xalq Elohim ⟨əleyhinə⟩ və Moşe ⟨əleyhinə⟩ danışdı: «Niyə bizi Mitsrayimdan çıxartdın ki, səhrada ölək? Çünki çörək yoxdur və su yoxdur, və canımız bu yüngül çörəkdən iyrəşir.»",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "və danışdı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim ⟨əleyhinə⟩"
+    },
+    {
+      "surface": "ובמשה",
+      "gloss": "və Moşe ⟨əleyhinə⟩"
+    },
+    {
+      "surface": "למה",
+      "gloss": "niyə"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "bizi çıxartdın"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayimdan"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ölməyə"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "səhrada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "çörək"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "və yoxdur"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    },
+    {
+      "surface": "ונפשנו",
+      "gloss": "və canımız"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "iyrəşir"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "çörəkdən"
+    },
+    {
+      "surface": "הקלקל",
+      "gloss": "bu yüngül"
+    }
+  ],
+  "timestamp": "2026-09-01T10:40:31.874825105Z",
+  "model": "glm-5.3"
+}

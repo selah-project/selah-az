@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 147,
+  "ref": "psalms 119:147",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Şəfəqdən əvvəl qabaqladım ⟨və⟩ fəryad etdim; Sözənlərinə ümid etdim.",
+  "tokens": [
+    {
+      "surface": "קדמתי",
+      "gloss": "qabaqladım"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "şəfəqdən əvvəl"
+    },
+    {
+      "surface": "ואשועה",
+      "gloss": "⟨və⟩ fəryad etdim"
+    },
+    {
+      "surface": "לדבריך",
+      "gloss": "Sözənlərinə"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "ümid etdim"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:06.925398178Z",
+  "model": "glm-5.3"
+}

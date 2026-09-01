@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 27:29",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Hər hərim ki, insanlardan hərim edilər, fidyə verilməz; ölüm ilə öldürüləcəkdir.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "hərim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "hərim edilər"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insanlar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "fidyə verilməz"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölüm"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "öldürüləcəkdir"
+    }
+  ],
+  "timestamp": "2026-09-01T17:57:17.603269346Z",
+  "model": "glm-5.3"
+}

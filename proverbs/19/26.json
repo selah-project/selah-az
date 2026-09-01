@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 19:26",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Atanı talançılıq edən, ananı qovub qaçıran — oğul rüsvayçılıq və utanc gətirəndir.",
+  "tokens": [
+    {
+      "surface": "משדד",
+      "gloss": "talançılıq edən"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ata"
+    },
+    {
+      "surface": "יבריח",
+      "gloss": "qovub qaçıran"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "rüsvayçılıq gətirən"
+    },
+    {
+      "surface": "ומחפיר",
+      "gloss": "utanc gətirən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:56:36.157906768Z",
+  "model": "glm-5.3"
+}

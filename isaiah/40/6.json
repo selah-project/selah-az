@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 40:6",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "Səs deyir: Səslən! Və o dedi: Nə səslənim? Bütün ət ot ⟨kimidir⟩, və bütün hesedi (sadiq məhəbbəti) sahənin çiçəyi kimidir.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "səs"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "səslən"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "və o dedi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "səslənim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ət"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ot"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedi (sadiq məhəbbəti)"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "çiçəyi kimi"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sahənin"
+    }
+  ],
+  "timestamp": "2026-09-01T13:06:29.214815329Z",
+  "model": "glm-5.3"
+}

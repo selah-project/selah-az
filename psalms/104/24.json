@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 104:24",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 104,
+  "translation": "Nə qədər çoxdur əməllərin, Yahve! Hamısını hikmətlə etdin; yer sənin yaratdıqlarınla doludur.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "nə qədər"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "çoxdur"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "əməllərin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "hamısını"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "hikmətlə"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "etdin"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "doludur"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "yaratdıqlarınla"
+    }
+  ],
+  "timestamp": "2026-09-01T15:33:52.272487824Z",
+  "model": "glm-5.3"
+}

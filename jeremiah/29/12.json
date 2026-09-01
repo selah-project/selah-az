@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 29:12",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "Və mənə yalvaracaqsınız ⟨את⟩ məni, gələcəksiniz və mənə dua edəcəksiniz, və mən sizə qulaq asacağam.",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "yalvaracaqsınız"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ məni",
+      "marks": "mənə"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "gələcəksiniz"
+    },
+    {
+      "surface": "והתפללתם",
+      "gloss": "dua edəcəksiniz"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "ושמעתי",
+      "gloss": "qulaq asacağam"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "sizə"
+    }
+  ],
+  "timestamp": "2026-09-01T13:40:02.371423998Z",
+  "model": "glm-5.3"
+}

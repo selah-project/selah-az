@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 25:41",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "və sənin yanından çıxacaq — o və oğulları onunla birlikdə — və öz ailəsinə, və atalarının mülkünə qayıdacaq.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "çıxacaq"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "sənin yanından"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "və oğulları"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "onunla birlikdə"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "və qayıdacaq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "öz ailəsinə"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və ... -a"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "mülk"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "atalarının"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "qayıdacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T10:30:59.682350498Z",
+  "model": "glm-5.3"
+}

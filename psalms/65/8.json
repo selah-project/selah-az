@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 65,
+  "translation": "Dənizlərin uğultusunu, onların dalğalarının uğultusunu və xalqların küyünü susdurur.",
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "susdurur"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "uğultusunu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dənizlərin"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "uğultusunu"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "onların dalğalarının"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "və … küyünü"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "xalqların"
+    }
+  ],
+  "timestamp": "2026-09-01T15:21:30.742840281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 88:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 88,
+  "translation": "Mahnı, mizmor, Korach oğullarına aiddir, dirijora üçün, «Machalat Leannot» üzərinə, müəllimdir, Heyman ha-Ezrahi ⟨tərəfindən⟩.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Mahnı"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oğullarına aiddir"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "למנצח",
+      "gloss": "dirijora"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "«Machalat"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "Leannot»"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "müəllimdir"
+    },
+    {
+      "surface": "להימן",
+      "gloss": "Heyman"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "ha-Ezrahi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:57.267023206Z",
+  "model": "glm-5.3"
+}

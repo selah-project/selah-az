@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 12:11",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Müdriklərin kəlmələri mahovlar kimidir və yeridilmiş mismarlar kimidir — məclis ağalarının ⟨əlindən⟩; bir çobandan ⟨verilmişdir⟩.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "kəlmələri"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "müdriklərin"
+    },
+    {
+      "surface": "כדרבנות",
+      "gloss": "mahovlar kimidir"
+    },
+    {
+      "surface": "וכמשמרות",
+      "gloss": "və mismarlar kimidir"
+    },
+    {
+      "surface": "נטועים",
+      "gloss": "yeridilmiş"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "ağaları"
+    },
+    {
+      "surface": "אספות",
+      "gloss": "məclis"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "⟨verilmişdir⟩"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "çobandan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    }
+  ],
+  "timestamp": "2026-09-01T16:33:23.372961118Z",
+  "model": "glm-5.3"
+}

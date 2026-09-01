@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 12:10",
+  "book": "nehemiah",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "və Yeşua ⟨את⟩ Yoyakimi doğurdu, və Yoyakim ⟨את⟩ Elyaşivi doğurdu, və Elyaşiv ⟨את⟩ Yoyadanı.",
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "və Yeşua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoyakimi"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "Yoyakimi"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "və Yoyakim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyaşivi"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Elyaşivi"
+    },
+    {
+      "surface": "ואלישיב",
+      "gloss": "və Elyaşiv"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoyadanı"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "Yoyadanı"
+    }
+  ],
+  "timestamp": "2026-09-01T16:58:19.801322296Z",
+  "model": "glm-5.3"
+}

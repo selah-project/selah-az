@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 29:7",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "Saleh kasıbların haqqını bilər, şər isə biliyi anlamaz.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "bilər"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Saleh"
+    },
+    {
+      "surface": "דין",
+      "gloss": "haqqını"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "kasıbların"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "şər isə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "--"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "anlamaz"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "biliyi"
+    }
+  ],
+  "timestamp": "2026-09-01T16:00:11.271282481Z",
+  "model": "glm-5.3"
+}

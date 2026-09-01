@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 70,
+  "translation": "Xörəkçiyə, Davidə, xatırlatmaq üçün.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Xörəkçiyə"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidə"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "xatırlatmaq üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T15:22:43.713738292Z",
+  "model": "glm-5.3"
+}

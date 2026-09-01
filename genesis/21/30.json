@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 21:30",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Və dedi: «Çünki ⟨את⟩ yeddi qoyunu mənim əlimdən götürəsən deyə, ⟨bunlar⟩ mənə şahid olsunlar, çünki mən ⟨את⟩ bu quyunu qazmışam».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yeddi qoyun"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yeddi"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "qoyun"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "götürəsən"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "mənim əlimdən"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "deyə"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "şahid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "חפרתי",
+      "gloss": "qazmışam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu quyunu"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "quyu"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-09-01T09:51:37.963529777Z",
+  "model": "glm-5.3"
+}

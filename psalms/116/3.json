@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 116,
+  "translation": "Ölüm kəndirləri məni doladı, və Şeolin darlıqları məni tapdı; sıxıntı və kədər tapdım.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "məni doladı"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "kəndirləri"
+    },
+    {
+      "surface": "מות",
+      "gloss": "Ölüm"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "və darlıqları"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şeol"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "məni tapdı"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "sıxıntı"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "və kədər"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "tapdım"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:17.494589982Z",
+  "model": "glm-5.3"
+}

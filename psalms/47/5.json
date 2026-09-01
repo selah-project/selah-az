@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 47:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 47,
+  "translation": "Bizim üçün ⟨את⟩ irsimizi seçdi, ⟨את⟩ sevdiyi Yakovun ucaltığını. Selah.",
+  "tokens": [
+    {
+      "surface": "יבחר",
+      "gloss": "seçdi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizim üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "irsimizi"
+    },
+    {
+      "surface": "נחלתנו",
+      "gloss": "irsimizi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yakovun ucaltığını"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ucaltığını"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakovun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "sevdiyi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T15:16:21.938186206Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 140:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 140,
+  "translation": "Məni qoru, Yahve, pisdin əlindən, zorakı adamdan məni saxla — onlar mənimm addımlarımı sürüşdürmək üçün qəsd etdilər.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Məni qoru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "əlindən"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "pisdin"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "adamdan"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "zorakı"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "məni saxla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "qəsd etdilər"
+    },
+    {
+      "surface": "לדחות",
+      "gloss": "sürüşdürmək üçün"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "addımlarımı"
+    }
+  ],
+  "timestamp": "2026-09-01T18:02:20.185869100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "Və məskənin girişinin pərdəsini ⟨את⟩ vurdu.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Və vurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pərdəni"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "pərdəsini"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "girişinin"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "məskənin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:21:50.450442227Z",
+  "model": "glm-5.3"
+}

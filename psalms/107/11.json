@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 107,
+  "translation": "Çünki Elin sözlərinə qarşı üsyan etdilər və Elyonun məsləhətinə xor baxdılar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "üsyan etdilər"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "sözlərinə"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elin"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "və məsləhətinə"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyonun"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "xor baxdılar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:35:27.489475282Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 7:15",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "⟨את⟩ hər şeyi heçlik günlərimdə gördüm: öz salehliyində məhv olan saleh var, öz şərində ömrünü uzadan şər adam var.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hər şeyi"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "hər şeyi"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "gördüm"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "günlərimdə"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "heçlik"
+    },
+    {
+      "surface": "יש",
+      "gloss": "var"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "saleh"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "məhv olan"
+    },
+    {
+      "surface": "בצדקו",
+      "gloss": "öz salehliyində"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "və var"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "şər adam"
+    },
+    {
+      "surface": "מאריך",
+      "gloss": "ömrünü uzadan"
+    },
+    {
+      "surface": "ברעתו",
+      "gloss": "öz şərində"
+    }
+  ],
+  "timestamp": "2026-09-01T16:31:35.669579080Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 1:14",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və Elohim dedi: «İşıq cisimləri olsun göylərin səmasında, gündüzü gecədən ayırmaq üçün; və nişanələr, məqamlar, günlər və illər üçün olsunlar.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "מארת",
+      "gloss": "işıq cisimləri"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "səmasında"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göylərin"
+    },
+    {
+      "surface": "להבדיל",
+      "gloss": "ayırmaq üçün"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gündüzü"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "və arasında"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "gecədən"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "və olsunlar"
+    },
+    {
+      "surface": "לאתת",
+      "gloss": "nişanələr üçün"
+    },
+    {
+      "surface": "ולמועדים",
+      "gloss": "və məqamlar üçün"
+    },
+    {
+      "surface": "ולימים",
+      "gloss": "və günlər üçün"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "və illər"
+    }
+  ],
+  "timestamp": "2026-09-01T09:45:44.839325565Z",
+  "model": "glm-5.3"
+}

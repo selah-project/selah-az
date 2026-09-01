@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Nə olmuşsa, artıq ⟨o⟩dur; və nə olacaqsa, artıq olub; və Elohim ⟨את⟩ təqib olunanı axtarır.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Nə"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "olmuşsa"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "artıq"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o⟩dur"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "və nə"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "olacaqsa"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "artıq"
+    },
+    {
+      "surface": "היה",
+      "gloss": "olub"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "və Elohim"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "axtarır"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "təqib olunanı"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "təqib olunanı"
+    }
+  ],
+  "timestamp": "2026-09-01T16:29:34.493873029Z",
+  "model": "glm-5.3"
+}

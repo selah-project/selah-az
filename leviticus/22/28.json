@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Və şoru, ya quzunu — ⟨את⟩ onu və ⟨את⟩ balasını — bir gündə kəsməyəcəksiniz.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "və şoru"
+    },
+    {
+      "surface": "או",
+      "gloss": "ya"
+    },
+    {
+      "surface": "שה",
+      "gloss": "quzunu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "o (şor\/quzu)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ və",
+      "marks": "balasını"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "balasını"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "kəsməyəcəksiniz"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "bir gündə"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    }
+  ],
+  "timestamp": "2026-09-01T10:29:16.136347692Z",
+  "model": "glm-5.3"
+}

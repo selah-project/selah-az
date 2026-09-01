@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 51,
+  "translation": "Üsyankırlara yollarını öyrədəcəyəm və günahkarlar Sənə qayıdacaqlar.",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "öyrədəcəyəm"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "üsyankırlara"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "yollarını"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "və günahkarlar"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Sənə"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "qayıdacaqlar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:18:28.163785025Z",
+  "model": "glm-5.3"
+}

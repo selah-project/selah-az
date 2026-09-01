@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 28:16",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "Anlayışdan məhrum hökmdar çox zülmkar olar, qeyri-qanuni qazancdan nifrət edən isə ömrünü uzadar.",
+  "tokens": [
+    {
+      "surface": "נגיד",
+      "gloss": "hökmdar"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "məhrum"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "anlayışdan"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "və çox"
+    },
+    {
+      "surface": "מעשקות",
+      "gloss": "zülmkar"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "nifrət edən"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "qeyri-qanuni qazancdan"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "uzadar"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ömrünü"
+    }
+  ],
+  "timestamp": "2026-09-01T16:00:34.538258228Z",
+  "model": "glm-5.3"
+}

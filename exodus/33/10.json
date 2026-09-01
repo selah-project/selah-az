@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 33:10",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "Və bütün xalq görürdü ⟨את⟩ bulud sütununu çadırın qapısında durmuş, və bütün xalq qalxıb səcdə edirdi, hər kəs öz çadırının qapısında.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "və görürdü"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bulud sütununu"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "sütunu"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "bulud"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "durmuş"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "qapısında"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "çadırın"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "və qalxıb"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "səcdə edirdi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər kəs"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "qapısında"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "öz çadırının"
+    }
+  ],
+  "timestamp": "2026-09-01T17:26:58.158282827Z",
+  "model": "glm-5.3"
+}

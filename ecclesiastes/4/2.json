@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və mən artıq ölmüş ölüləri hələ sağ olan dirilərdən daha çox təriflədim.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "və təriflədim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ölüləri"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "ölüləri"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "artıq"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "ölmüş"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daha çox … dan"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "dirilərdən"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "sağ"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "hələ"
+    }
+  ],
+  "timestamp": "2026-09-01T16:30:13.891364089Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 10:8",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Və kərubimlərdə insan əlinin şəkli görünürdü, qanadlarının altında.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "görünürdü"
+    },
+    {
+      "surface": "לכרבים",
+      "gloss": "kərubimlərdə"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "şəkli"
+    },
+    {
+      "surface": "יד",
+      "gloss": "əlinin"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "qanadlarının"
+    }
+  ],
+  "timestamp": "2026-09-01T14:05:12.422106703Z",
+  "model": "glm-5.3"
+}

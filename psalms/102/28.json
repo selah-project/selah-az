@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 102,
+  "translation": "Amma sən eyni ⟨sən⟩, və illərin sona çatmayacaq.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "amma sən"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "eyni ⟨sən⟩"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "illərin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "sona çatmayacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:34:35.902140691Z",
+  "model": "glm-5.3"
+}

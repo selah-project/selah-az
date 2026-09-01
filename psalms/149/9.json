@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 149:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 149,
+  "translation": "Onların üstündə yazılmış hökmü icra ⟨etmək⟩ üçün; bu, Onun bütün hesedlilərinə izzətdir. Hallelu-Yah!",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "icra ⟨etmək⟩ üçün"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onların üstündə"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hökmü"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "yazılmış"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "izzət"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "bu, ...dir"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bütün ...-ə"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "Onun hesedliləri"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Hallelu (tərifləyin)"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-01T15:45:49.931242569Z",
+  "model": "glm-5.3"
+}

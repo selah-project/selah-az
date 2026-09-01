@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 12:8",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Bizim bu gün burada etdiyimiz kimi — hər kəs öz gözlərində doğru olan hər şeyi — etməyəcəksiniz.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "etməyəcəksiniz"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "(etməyəcəksiniz)"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "biz"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "etdiyimiz"
+    },
+    {
+      "surface": "פה",
+      "gloss": "burada"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bu gün"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər kəs"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər şeyi"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "doğu olan"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "öz gözlərində"
+    }
+  ],
+  "timestamp": "2026-09-01T10:50:35.812782181Z",
+  "model": "glm-5.3"
+}

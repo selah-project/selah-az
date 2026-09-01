@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "Və şərabçılar başçısı Yusifi yadına salmadı və onu unutdu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "və ... madı"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "yadına salmadı"
+    },
+    {
+      "surface": "שר",
+      "gloss": "başçısı"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "şərabçılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yusifi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusifi"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "onu unutdu"
+    }
+  ],
+  "timestamp": "2026-09-01T09:58:40.984940913Z",
+  "model": "glm-5.3"
+}

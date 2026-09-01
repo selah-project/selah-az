@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 22:18",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Heyvanla yatan hər kəs ⟨şübhəsiz⟩ ölüm ilə öldürüləcək.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hər kəs"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "yatan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "heyvan"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölüm"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "öldürüləcək"
+    }
+  ],
+  "timestamp": "2026-09-01T10:15:20.778812258Z",
+  "model": "glm-5.3"
+}

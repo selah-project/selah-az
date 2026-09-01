@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 147:13",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 147,
+  "translation": "Çünki o, sənin darvazalarının sürgülərini gücləndirir, öz övladlarını sənin içində xeyirdua verir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "gücləndirir"
+    },
+    {
+      "surface": "בריחי",
+      "gloss": "sürgülərini"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "darvazalarının"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "xeyirdua verir"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "övladlarını"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "sənin içində"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:30.331584046Z",
+  "model": "glm-5.3"
+}

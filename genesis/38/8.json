@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 38:8",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 38,
+  "translation": "Və Yehuda Onana dedi: qardaşının arvadının yanına gir, ona yevamlıq ⟨borcunu⟩ yerinə yetir və qardaşın üçün nəsil dirçəlt.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לאונן",
+      "gloss": "Onana"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yanına gir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ın yanına"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "arvadı"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "sənin qardaşının"
+    },
+    {
+      "surface": "ויבם",
+      "gloss": "yevamlıq et"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ona",
+      "marks": "ona"
+    },
+    {
+      "surface": "והקם",
+      "gloss": "və dirçəlt"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "nəsil"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "sənin qardaşın üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T09:58:58.283229336Z",
+  "model": "glm-5.3"
+}

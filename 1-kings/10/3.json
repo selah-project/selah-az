@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 10:3",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Şlomon ona ⟨את⟩ bütün sözlərini bildirdi; melikdən gizli qalan, ona bildirilməyən heç bir söz yox idi.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "bildirdi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şlomon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün sözlərini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "sözlərini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "היה",
+      "gloss": "idi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "söz"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "gizli qalan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "melikdən"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "bildirilən"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-09-01T12:16:49.468388986Z",
+  "model": "glm-5.3"
+}

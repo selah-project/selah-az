@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 58:8",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 58,
+  "translation": "O zaman işığın şəfq kimi yarılacaq, sağalmaın tez cücəyəcək, ədalətin öndən gedəcək, Yahvenin izzəti səni yığıcaq.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "O zaman"
+    },
+    {
+      "surface": "יבקע",
+      "gloss": "yarılacaq"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "şəfq kimi"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "işığın"
+    },
+    {
+      "surface": "וארכתך",
+      "gloss": "və sağalmaın"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "tez"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "cücəyəcək"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "və gedəcək"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "öndən"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ədalətin"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "izzəti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "יאספך",
+      "gloss": "səni yığıcaq"
+    }
+  ],
+  "timestamp": "2026-09-01T13:18:14.521420274Z",
+  "model": "glm-5.3"
+}

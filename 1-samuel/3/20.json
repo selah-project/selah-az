@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 3:20",
+  "book": "1-samuel",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və bütün Yisrael bilirdi, Dandan Be'er-Şevaya qədər ki, Şemuel Yahveyə peyğəmbər olaraq təsdiq olunmuşdur.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "bilirdi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Dandan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Be'er-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Şevaya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": " təsdiq olunmuşdur"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemuel"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "peyğəmbər olaraq"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    }
+  ],
+  "timestamp": "2026-09-01T11:31:58.511761998Z",
+  "model": "glm-5.3"
+}

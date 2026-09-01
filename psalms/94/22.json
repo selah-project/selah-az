@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 94,
+  "translation": "Və Yahve mənə qalaya, Elohimim sığınaq qayama ⟨oldu⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Və ... oldu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "qalaya"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "və Elohimim"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "sığınaq qayama"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "sığınağım"
+    }
+  ],
+  "timestamp": "2026-09-01T15:31:21.110668812Z",
+  "model": "glm-5.3"
+}

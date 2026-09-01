@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 7:25",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Onun qurbanı: bir gümüş dərin qab, çəkisi yüz otuz şəkel, bir gümüş çəngəl, yetmiş şəkel, müqəddəs şəkeli ilə, ikisi də yağla qarışdırılmış üyüdülmüş unla dolu, min üçün.",
+  "tokens": [
+    {
+      "surface": "קרבנו",
+      "gloss": "onun qurbanı"
+    },
+    {
+      "surface": "קערת",
+      "gloss": "dərin qab"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "bir"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "otuz"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "və yüz"
+    },
+    {
+      "surface": "משקלה",
+      "gloss": "çəkisi"
+    },
+    {
+      "surface": "מזרק",
+      "gloss": "çəngəl"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "yetmiş"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "şəkel"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "şəkeli ilə"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ikisi də"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "dolu"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "üyüdülmüş un"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "qarışdırılmış"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "yağla"
+    },
+    {
+      "surface": "למנחה",
+      "gloss": "min üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:33:55.721132148Z",
+  "model": "glm-5.3"
+}

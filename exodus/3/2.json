@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 3:2",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Yahvenin mələyi ona koldan alovlı odun içində göründü; və o baxdı — bax, kol odda yanırdı, lakin kol yeyilmirdi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "göründü"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mələyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "בלבת",
+      "gloss": "alovlu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "odun"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "içində"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "koldan"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "baxdı"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "kol"
+    },
+    {
+      "surface": "בער",
+      "gloss": "yanırdı"
+    },
+    {
+      "surface": "באש",
+      "gloss": "odda"
+    },
+    {
+      "surface": "והסנה",
+      "gloss": "kol"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "yox idi"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yeyilmirdi"
+    }
+  ],
+  "timestamp": "2026-09-01T10:04:39.800237681Z",
+  "model": "glm-5.3"
+}

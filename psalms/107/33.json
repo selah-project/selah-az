@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 107:33",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 107,
+  "translation": "Çayları səhraya çevirir, su mənbələrini susuz torpağa.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "çevirir"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "çayları"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "səhraya"
+    },
+    {
+      "surface": "ומצאי",
+      "gloss": "və mənbələrini"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    },
+    {
+      "surface": "לצמאון",
+      "gloss": "susuz torpağa"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:54.308945460Z",
+  "model": "glm-5.3"
+}

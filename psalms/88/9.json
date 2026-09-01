@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 88:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 88,
+  "translation": "Tanıdıqlarımı məndən uzaqlaşdırdın, məni onlar üçün iyrənc bir şey qoydun; bağlanmışam və çıxa ⟨bilmə⟩rəm.",
+  "tokens": [
+    {
+      "surface": "הרחקת",
+      "gloss": "uzaqlaşdırdın"
+    },
+    {
+      "surface": "מידעי",
+      "gloss": "tanıdıqlarımı"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "məndən"
+    },
+    {
+      "surface": "שתני",
+      "gloss": "məni qoydun"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "iyrənc bir şey"
+    },
+    {
+      "surface": "למו",
+      "gloss": "onlar üçün"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "bağlanmışam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "çıxaram"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:30.541715473Z",
+  "model": "glm-5.3"
+}

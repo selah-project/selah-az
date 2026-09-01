@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 105,
+  "translation": "Ona oxuyun, Ona çalıb oxuyun, bütün möcüzələri ⟨haqqında⟩ söylənin.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "oxuyun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "çalıb oxuyun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "söylənin"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "möcüzələri ⟨haqqında⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:27.090851994Z",
+  "model": "glm-5.3"
+}

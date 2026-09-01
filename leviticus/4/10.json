@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 4:10",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "şelamim qurbanının buğasından qaldırıldığı kimi; və kahin onları yandırma qurbangahının üstündə yandıracaq",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "qaldırıldığı"
+    },
+    {
+      "surface": "משור",
+      "gloss": "buğasından"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "qurbanının"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "şelamim"
+    },
+    {
+      "surface": "והקטירם",
+      "gloss": "və yandıracaq onları"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "qurbangahının"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yandırma"
+    }
+  ],
+  "timestamp": "2026-09-01T10:23:10.683575263Z",
+  "model": "glm-5.3"
+}

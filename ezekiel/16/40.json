@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezekiel 16:40",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Sənin üstünə bir məclis gətirəcəklər, səni ⟨את⟩ daşla dağacaq və qılınclarıyla səni doğrayacaqlar.",
+  "tokens": [
+    {
+      "surface": "והעלו",
+      "gloss": "və gətirəcəklər"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sənin üstünə"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "bir məclis"
+    },
+    {
+      "surface": "ורגמו",
+      "gloss": "və dağacaq"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ səni",
+      "marks": "səni daşla"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "daşla"
+    },
+    {
+      "surface": "ובתקוך",
+      "gloss": "və doğrayacaqlar səni"
+    },
+    {
+      "surface": "בחרבותם",
+      "gloss": "qılınclarıyla"
+    }
+  ],
+  "timestamp": "2026-09-01T14:08:48.396051905Z",
+  "model": "glm-5.3"
+}

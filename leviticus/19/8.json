@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Onu yeyən öz günahını daşıyacaq, çünki Yahvenin müqəddəsliyini ⟨את⟩ murdar etdi; və o nəfəs öz xalqının arasından kəsiləcək.",
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "onu yeyən"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "öz günahını"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "daşıyacaq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahvenin müqəddəsliyini"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "müqəddəsliyini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "murdar etdi"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "və kəsiləcək"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "o nəfəs"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "öz xalqının arasından"
+    }
+  ],
+  "timestamp": "2026-09-01T10:28:39.238039342Z",
+  "model": "glm-5.3"
+}

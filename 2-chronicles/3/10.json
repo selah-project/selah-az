@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 3:10",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və Müqəddəslər Müqəddəsində iki kəruv düzəltdi, oyma işi ilə, və onları ⟨את⟩ qızılla örtüdülər.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "düzəltdi"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "evində"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Müqəddəs"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "Müqəddəslər"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "kəruvlər"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iki"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "iş"
+    },
+    {
+      "surface": "צעצעים",
+      "gloss": "oyma"
+    },
+    {
+      "surface": "ויצפו",
+      "gloss": "örtüdülər"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onları (iki kəruvu)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "qızıl"
+    }
+  ],
+  "timestamp": "2026-09-01T17:13:30.047914319Z",
+  "model": "glm-5.3"
+}

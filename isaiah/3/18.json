@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "O gün Adonay ⟨את⟩ zınqırovlu ayaq bilərziklərinin bəzəyini, işləmə başörtəklərini və aypara bəzəklərini götürəcək.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "O gün"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "götürəcək"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bəzəyi"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "bəzəyi"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "zınqırovlu ayaq bilərziklərinin"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "işləmə başörtəklərini"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "aypara bəzəklərini"
+    }
+  ],
+  "timestamp": "2026-09-01T12:47:40.740595807Z",
+  "model": "glm-5.3"
+}

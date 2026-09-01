@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 27:31",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Əgər bir adam öz onda birindən nəsə geri almaq istəsə, onun beşdə birini üstünə əlavə etsin.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "geri almaq"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "istəsə"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir adam"
+    },
+    {
+      "surface": "ממעשרו",
+      "gloss": "öz onda birindən"
+    },
+    {
+      "surface": "חמשיתו",
+      "gloss": "onun beşdə biri"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "əlavə etsin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "üstünə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:31:53.545463090Z",
+  "model": "glm-5.3"
+}

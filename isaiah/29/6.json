@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 29:6",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "Yahve Sevaot tərəfindən ildırımla, zəlzələ ilə və böyük səslə, qasırğa və tufanla, yeyən odalovu ilə ziyarət olunacaq.",
+  "tokens": [
+    {
+      "surface": "מעם",
+      "gloss": "tərəfindən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sevaot"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "ziyarət olunacaq"
+    },
+    {
+      "surface": "ברעם",
+      "gloss": "ildırımla"
+    },
+    {
+      "surface": "וברעש",
+      "gloss": "zəlzələ ilə"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "və səslə"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "qasırğa"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "tufanla"
+    },
+    {
+      "surface": "ולהב",
+      "gloss": "və alov"
+    },
+    {
+      "surface": "אש",
+      "gloss": "od"
+    },
+    {
+      "surface": "אוכלה",
+      "gloss": "yeyən"
+    }
+  ],
+  "timestamp": "2026-09-01T13:01:46.364495121Z",
+  "model": "glm-5.3"
+}

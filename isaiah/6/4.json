@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 6:4",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Və qapı dirəkləri qışqıranın səsindən titrədi, və ev dumanla doldu.",
+  "tokens": [
+    {
+      "surface": "וינעו",
+      "gloss": "titrədi"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "qapı dirəkləri"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "qapının"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "səsindən"
+    },
+    {
+      "surface": "הקורא",
+      "gloss": "qışqıranın"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "və ev"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "doldu"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "dumanla"
+    }
+  ],
+  "timestamp": "2026-09-01T12:49:57.134841731Z",
+  "model": "glm-5.3"
+}

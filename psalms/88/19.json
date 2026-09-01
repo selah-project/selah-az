@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 88:19",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 88,
+  "translation": "Sevəni və dostu məndən uzaqlaşdırdın, mənim tanışlarım ⟨isə⟩ qaranlıq.",
+  "tokens": [
+    {
+      "surface": "הרחקת",
+      "gloss": "uzıqlaşdırdın"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "məndən"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "sevəni"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "və dostu"
+    },
+    {
+      "surface": "מידעי",
+      "gloss": "tanışlarım"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "qaranlıq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:14.179626188Z",
+  "model": "glm-5.3"
+}

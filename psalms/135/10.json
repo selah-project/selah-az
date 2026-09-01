@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 135,
+  "translation": "O, çox xalqları vurdu və güclü padşahları öldürdü —",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "ki o, vurdu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "xalqları"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "çox"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "və öldürdü"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "padşahları"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "güclü"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:15.822279255Z",
+  "model": "glm-5.3"
+}

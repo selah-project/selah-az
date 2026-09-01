@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 64:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 64,
+  "translation": "Gizli yerdə kamili vurmaq ⟨üçün⟩; ani ona ox atırlar və qorxmurlar.",
+  "tokens": [
+    {
+      "surface": "לירות",
+      "gloss": "vurmaq"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "gizli yerdə"
+    },
+    {
+      "surface": "תם",
+      "gloss": "kamil"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ירהו",
+      "gloss": "ox atırlar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "qorxurlar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:21:37.185402468Z",
+  "model": "glm-5.3"
+}

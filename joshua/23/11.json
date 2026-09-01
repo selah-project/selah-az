@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Və canlarınızın ⟨qorunmasına⟩ çox diqqətli olun — ⟨את⟩ Yahve, Elohiminizi sevməyə.",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "və diqqətli olun"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çox"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "canlarınızın"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "sevməyə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve Elohiminizi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiminizi"
+    }
+  ],
+  "timestamp": "2026-09-01T11:13:54.376327129Z",
+  "model": "glm-5.3"
+}

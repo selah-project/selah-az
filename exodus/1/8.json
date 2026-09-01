@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Mitsrayim üzərinə yeni bir padşah qalxdı — ⟨את⟩ Yosefi tanımayan.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "qalxdı"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "yeni"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim(in)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tanı(yırdı)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosefi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef(i)"
+    }
+  ],
+  "timestamp": "2026-09-01T10:03:42.563786309Z",
+  "model": "glm-5.3"
+}

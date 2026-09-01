@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Buğda və arpa torpağı, üzüm kolu və əncir və nar torpağı; zeytun yağı və bal torpağı;",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "torpağı"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "buğda"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "və arpa"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "və üzüm kolu"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "və əncir"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "və nar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "torpağı"
+    },
+    {
+      "surface": "זית",
+      "gloss": "zeytun"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "yağı"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "və bal"
+    }
+  ],
+  "timestamp": "2026-09-01T10:48:53.684087640Z",
+  "model": "glm-5.3"
+}

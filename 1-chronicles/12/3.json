@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 12:3",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Başları Axiyezer və Yoş, Şmaa Givatlinin oğulları; Yeziel və Pelet, Azmavetin oğulları; Beraxa və Yehu, Anatotlu.",
+  "tokens": [
+    {
+      "surface": "הראש",
+      "gloss": "Başları"
+    },
+    {
+      "surface": "אחיעזר",
+      "gloss": "Axiyezer"
+    },
+    {
+      "surface": "ויואש",
+      "gloss": "və Yoş"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "השמעה",
+      "gloss": "Şmaa"
+    },
+    {
+      "surface": "הגבעתי",
+      "gloss": "Givatli"
+    },
+    {
+      "surface": "ויזואל",
+      "gloss": "Yeziel"
+    },
+    {
+      "surface": "ופלט",
+      "gloss": "və Pelet"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Azmavetin"
+    },
+    {
+      "surface": "וברכה",
+      "gloss": "Beraxa"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "və Yehu"
+    },
+    {
+      "surface": "הענתתי",
+      "gloss": "Anatotlu"
+    }
+  ],
+  "timestamp": "2026-09-01T17:04:16.759305370Z",
+  "model": "glm-5.3"
+}

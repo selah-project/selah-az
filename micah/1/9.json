@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 1:9",
+  "book": "micah",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Çünki onun zərbələri ölümcüldür, çünki ⟨o⟩ Yehudaya qədər gəlib çatdı, xalqımın qapısına, Yeruşalayimə qədər toxundu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אנושה",
+      "gloss": "ölümcüldür"
+    },
+    {
+      "surface": "מכותיה",
+      "gloss": "onun zərbələri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "באה",
+      "gloss": "gəlib çatdı"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "toxundu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "שער",
+      "gloss": "qapısına"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqımın"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim"
+    }
+  ],
+  "timestamp": "2026-09-01T14:45:51.499773525Z",
+  "model": "glm-5.3"
+}

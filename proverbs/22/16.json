@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 22:16",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Kasıbı əzib özünə var-dövlət çoxaltan, zənginə verən — yalnız çatışmazlığa ⟨düşər⟩.",
+  "tokens": [
+    {
+      "surface": "עשק",
+      "gloss": "əzib"
+    },
+    {
+      "surface": "דל",
+      "gloss": "kasıbı"
+    },
+    {
+      "surface": "להרבות",
+      "gloss": "çoxaltmaq"
+    },
+    {
+      "surface": "לו",
+      "gloss": "özünə"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verən"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "zənginə"
+    },
+    {
+      "surface": "אך",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "çatışmazlığa"
+    }
+  ],
+  "timestamp": "2026-09-01T15:56:53.483250070Z",
+  "model": "glm-5.3"
+}

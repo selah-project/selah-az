@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 13:14",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "və Elohim sandığı Oved-Edomun evi ilə, onun evində üç ay qaldı; və Yahve Oved-Edomun evini və ⟨את⟩ onun olan hər şeyi bərəkətlədi.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "qaldı"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandığı"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edomun"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "onun evində"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "üç"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ay"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "bərəkətlədi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oved-Edomun evini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evini"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edomun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "onun olan hər şeyi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər şeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onun"
+    }
+  ],
+  "timestamp": "2026-09-01T17:04:29.778288825Z",
+  "model": "glm-5.3"
+}

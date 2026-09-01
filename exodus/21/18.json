@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 21:18",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Və əgər adamlar ⟨bir-birinə⟩ dava etsələr və bir adam ⟨את⟩ yoldaşını daşla və ya yumruqla vursa, lakin o ölməsə və yatağa düşsə —",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "יריבן",
+      "gloss": "dava etsələr"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "adamlar"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "vursa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir adam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yoldaşını"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "yoldaşını"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "daşla"
+    },
+    {
+      "surface": "או",
+      "gloss": "və ya"
+    },
+    {
+      "surface": "באגרף",
+      "gloss": "yumruqla"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lakin … yox"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ölməsə"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "düşsə"
+    },
+    {
+      "surface": "למשכב",
+      "gloss": "yatağa"
+    }
+  ],
+  "timestamp": "2026-09-01T10:15:32.582408192Z",
+  "model": "glm-5.3"
+}

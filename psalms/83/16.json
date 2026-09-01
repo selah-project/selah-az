@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 83,
+  "translation": "Eləcə də onları fırtınanla qov, qasırnanla onları dəhşətə sal.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "eləcə də"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "onları qov"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "fırtınanla"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "qasırnanla"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "onları dəhşətə sal"
+    }
+  ],
+  "timestamp": "2026-09-01T15:27:48.391416450Z",
+  "model": "glm-5.3"
+}

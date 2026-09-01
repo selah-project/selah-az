@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 2:19",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və dedilər: Bir Mitsrayimli bizi çobanların əlindən qurtardı, hətta bizim üçün bol-bol su çəkdi və ⟨את⟩ sürünü suvardı.",
+  "tokens": [
+    {
+      "surface": "ותאמרן",
+      "gloss": "və dedilər"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir kişi"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "Mitsrayimli"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "bizi qurtardı"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "əlindən"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "çobanların"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "hətta"
+    },
+    {
+      "surface": "דלה",
+      "gloss": "çəkdi"
+    },
+    {
+      "surface": "דלה",
+      "gloss": "bol-bol su çəmə"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizim üçün"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "və suvardı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sürünü"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "sürünü"
+    }
+  ],
+  "timestamp": "2026-09-01T10:03:35.600565555Z",
+  "model": "glm-5.3"
+}

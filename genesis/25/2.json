@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "O, ona ⟨את⟩ Zimranı, ⟨את⟩ Yokşanı, ⟨את⟩ Medanı, ⟨את⟩ Midyanı, ⟨את⟩ Yişbakı və ⟨את⟩ Şuahı doğdu.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "doğdu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zimranı"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Zimran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yokşanı"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Yokşan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Medanı"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Medan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Midyanı"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yişbakı"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "Yişbak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Şuahı"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "Şuah"
+    }
+  ],
+  "timestamp": "2026-09-01T09:53:26.593906414Z",
+  "model": "glm-5.3"
+}

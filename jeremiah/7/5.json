@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 7:5",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Çünki əgər yollarınızı həqiqətən yaxşı etsəniz ⟨את⟩ yollarınızı və ⟨את⟩ əməllərinizi, əgər hökm icra etsəniz insan ilə onun yoldaşı arasında ⟨isə⟩,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "həqiqətən yaxşı"
+    },
+    {
+      "surface": "תיטיבו",
+      "gloss": "etsəniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yollarınızı"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "yollarınızı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "əməllərinizi"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "əməllərinizi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "həqiqətən icra"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "etsəniz"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hökm"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "איש",
+      "gloss": "insan"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "və ... ilə"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "onun yoldaşı"
+    }
+  ],
+  "timestamp": "2026-09-01T13:24:40.119148522Z",
+  "model": "glm-5.3"
+}

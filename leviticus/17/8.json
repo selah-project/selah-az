@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 17:8",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Və onlara deyəcəksən: İsrail evindən hər hansı kişi və ya aralarında qonaq olan gərdən, hansı ki yandırma qurbanı və ya qurban qaldırarsa —",
+  "tokens": [
+    {
+      "surface": "ואלהם",
+      "gloss": "və onlara"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "deyəcəksən"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kişi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər hansı kişi"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "evindən"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "və... -dan"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "gər"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hansı ki"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "qonaq olan"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "aralarında"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hansı ki"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "qaldırarsa"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "yandırma qurbanı"
+    },
+    {
+      "surface": "או",
+      "gloss": "və ya"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "qurban"
+    }
+  ],
+  "timestamp": "2026-09-01T10:28:49.300548933Z",
+  "model": "glm-5.3"
+}

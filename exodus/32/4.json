@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 32:4",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Və o, onları onların əlindən götürdü, onu ⟨את⟩ xətkarlıq aləti ilə düzəltdi və onu əridilmiş buxov buzağı etdi; və dedilər: “Bunlardır sənin tanrıların, ey Yisrael, səni Mitsrayim torpağından çıxaranlar!”",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "götürdü"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "onların əlindən"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "düzəltdi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "xətkarlıq aləti ilə"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "etti"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "buzağı"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "əridilmiş buxov"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "dedilər"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bunlar"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sənin tanrıların"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kim(lər)"
+    },
+    {
+      "surface": "העלוך",
+      "gloss": "səni çıxaranlar"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "torpağından"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T17:56:17.870154194Z",
+  "model": "glm-5.3"
+}

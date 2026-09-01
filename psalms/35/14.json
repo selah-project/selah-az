@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "Dost kimi, mənə qardaş kimi davrandım; anasını yas saxlayan kimi qaranlıq kədərlə əyildim.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "dost kimi"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "qardaş kimi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "davrandım"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "yas saxlayan kimi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "anasını"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "qaranlıq kədərlə"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "əyildim"
+    }
+  ],
+  "timestamp": "2026-09-01T15:11:10.685471861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 105,
+  "translation": "Və aclığı yerin üstünə çağırdı, çörəyin bütün dəyənəyini qırdı.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "və çağırdı"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "aclığı"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "dəyənəyini"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "çörəyin"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "qırdı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:06.107021531Z",
+  "model": "glm-5.3"
+}

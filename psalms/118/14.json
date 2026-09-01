@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 118:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 118,
+  "translation": "Qüvvəm və nəğməm Yah ⟨dır⟩, və O mənə qurtuluş ⟨oldu⟩.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "qüvvəm"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "və nəğməm"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "və O ⟨oldu⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "qurtuluş"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:15.146431855Z",
+  "model": "glm-5.3"
+}

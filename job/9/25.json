@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 9:25",
+  "book": "job",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Günlərim qaçandan ⟨daha⟩ sürətlidir; onlar qaçıb getdilər, yaxşılıq görmədilər.",
+  "tokens": [
+    {
+      "surface": "וימי",
+      "gloss": "günlərim"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "sürətlidir"
+    },
+    {
+      "surface": "מני",
+      "gloss": "⟨daha⟩ … -dan"
+    },
+    {
+      "surface": "רץ",
+      "gloss": "qaçan"
+    },
+    {
+      "surface": "ברחו",
+      "gloss": "qaçıb getdilər"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-mə"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "gördilər"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "yaxşılıq"
+    }
+  ],
+  "timestamp": "2026-09-01T16:06:20.748833030Z",
+  "model": "glm-5.3"
+}

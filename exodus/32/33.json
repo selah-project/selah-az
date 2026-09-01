@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 32:33",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Yahve Moşeyə dedi: Kim Mənə qarşı günah etmişdisə, onu kitabımdan siləcəyəm.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "günah etmişdir"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Mənə qarşı"
+    },
+    {
+      "surface": "אמחנו",
+      "gloss": "onu siləcəyəm"
+    },
+    {
+      "surface": "מספרי",
+      "gloss": "kitabımdan"
+    }
+  ],
+  "timestamp": "2026-09-01T10:19:12.109976415Z",
+  "model": "glm-5.3"
+}

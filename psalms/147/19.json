@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 147:19",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 147,
+  "translation": "Öz sözünü Yaqova elan edir, qanunlarını və hökmlərini İsrailə.",
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "elan edir"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "Öz sözünü"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yaqova"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "qanunlarını"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "və hökmlərini"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "İsrailə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:35.422800783Z",
+  "model": "glm-5.3"
+}

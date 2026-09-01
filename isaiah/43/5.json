@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 43,
+  "translation": "Qorxma, çünki mən səninlə ⟨את⟩yam; şərqdən toxumunu gətirəcəyəm və qərbdən səni toplayacağam.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "qorxma (inkar)"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "qorxma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "səninlə ⟨את⟩",
+      "marks": "səninlə"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "şərqdən"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "gətirəcəyəm"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "toxumunu"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "və qərbdən"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "səni toplayacağam"
+    }
+  ],
+  "timestamp": "2026-09-01T13:06:51.118384656Z",
+  "model": "glm-5.3"
+}

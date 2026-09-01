@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və Yehoşua ⟨את⟩ xalqın nəzarətçilərinə əmr etdi, deyə:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "və əmr etdi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqın nəzarətçiləri"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "nəzarətçiləri"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqın"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyə"
+    }
+  ],
+  "timestamp": "2026-09-01T17:30:53.522686271Z",
+  "model": "glm-5.3"
+}

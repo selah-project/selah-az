@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 128:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 128,
+  "translation": "Zövcən evinin ucqar küncündə bəhrəli çətir kimi, oğulların isə zeytun fidanları kimi süfrənin ətrafında.",
+  "tokens": [
+    {
+      "surface": "אשתך",
+      "gloss": "zövcən"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "çətir kimi"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "bəhrəli"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "ucqar küncündə"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "evinin"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "oğulların"
+    },
+    {
+      "surface": "כשתלי",
+      "gloss": "fidanları kimi"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "zeytun"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ətrafında"
+    },
+    {
+      "surface": "לשלחנך",
+      "gloss": "süfrənin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:44.462795100Z",
+  "model": "glm-5.3"
+}

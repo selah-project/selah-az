@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və Şelomo məlik bütün Yisrael üzərində məlik idi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "və ⟨idi⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "məlik"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "məlik"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərində"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T12:10:29.498034877Z",
+  "model": "glm-5.3"
+}

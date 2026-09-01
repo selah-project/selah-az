@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 30:18",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Üç şey var ki, mənim üçün ⟨onlar⟩ möcüzədir, dördü isə bilmirəm.",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "üç şey"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨onlar⟩"
+    },
+    {
+      "surface": "נפלאו",
+      "gloss": "möcüzədir"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mənim üçün"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "dördü isə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ידעתים",
+      "gloss": "bilmirəm"
+    }
+  ],
+  "timestamp": "2026-09-01T16:00:47.928525649Z",
+  "model": "glm-5.3"
+}

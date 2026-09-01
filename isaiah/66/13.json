@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 66:13",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 66,
+  "translation": "Kişi ⟨kimi⟩, o ki anası onu təsəlli edir, belə də mən sizi təsəlli edəcəyəm, və Yeruşalayimdə təsəlli tapacaqsınız.",
+  "tokens": [
+    {
+      "surface": "כאיש",
+      "gloss": "kişi kimi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o ki"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "anası"
+    },
+    {
+      "surface": "תנחמנו",
+      "gloss": "onu təsəlli edir"
+    },
+    {
+      "surface": "כן",
+      "gloss": "belə də"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mən"
+    },
+    {
+      "surface": "אנחמכם",
+      "gloss": "sizi təsəlli edəcəyəm"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "və Yeruşalayimdə"
+    },
+    {
+      "surface": "תנחמו",
+      "gloss": "təsəlli tapacaqsınız"
+    }
+  ],
+  "timestamp": "2026-09-01T13:20:36.716073641Z",
+  "model": "glm-5.3"
+}

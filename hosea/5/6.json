@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 5:6",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Davarları və mal-qarası ilə Yahveni axtarmağa gedəcəklər, amma tapmayacaqlar; ⟨o⟩ onlardan çəkilmişdir.",
+  "tokens": [
+    {
+      "surface": "בצאנם",
+      "gloss": "davarları ilə"
+    },
+    {
+      "surface": "ובבקרם",
+      "gloss": "və mal-qarası ilə"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "gedəcəklər"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "axtarmağa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "tapmayacaqlar"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "çəkilmişdir"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "onlardan"
+    }
+  ],
+  "timestamp": "2026-09-01T14:34:26.733122424Z",
+  "model": "glm-5.3"
+}

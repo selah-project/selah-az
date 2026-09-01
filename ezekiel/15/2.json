@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 15:2",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "İnsan oğlu, çəyirdk ağacının odunu bütün digər ağaclardan nə ⟨dir⟩ — meşənin ağacları arasında olan çəyirdk zoğlu nə ⟨dir⟩?",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "dir"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "odunu"
+    },
+    {
+      "surface": "הגפן",
+      "gloss": "çəyirdk ağacının"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bütün ... dan"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ağaclardan"
+    },
+    {
+      "surface": "הזמורה",
+      "gloss": "çəyirdk zoğlu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki, olan"
+    },
+    {
+      "surface": "היה",
+      "gloss": "olan"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "ağacları arasında"
+    },
+    {
+      "surface": "היער",
+      "gloss": "meşənin"
+    }
+  ],
+  "timestamp": "2026-09-01T14:07:18.503389893Z",
+  "model": "glm-5.3"
+}

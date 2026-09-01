@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 119:50",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Bu ⟨⟨mənim⟩⟩ təsəllimdir sıxıntımda, çünki sənin sözün məni diriltdi.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Bu"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "təsəllimdir"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "sıxıntımda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "sənin sözün"
+    },
+    {
+      "surface": "חיתני",
+      "gloss": "məni diriltdi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:48.065635500Z",
+  "model": "glm-5.3"
+}

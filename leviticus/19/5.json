@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 19:5",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Və əgər Yahveyə şlamim qurbanı kəsirsinizsə, razılığınız üçün onu kəsin.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "kəsirsinizsə"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "qurban"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "şlamim (şlamim qurbanı)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "razılığınız üçün"
+    },
+    {
+      "surface": "תזבחהו",
+      "gloss": "onu kəsin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:28:39.237413583Z",
+  "model": "glm-5.3"
+}

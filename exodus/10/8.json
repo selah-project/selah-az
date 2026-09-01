@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 10:8",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Və Moşe ilə Aharonu Paronun yanına geri gətirdilər, və o, onlara dedi: «Gedin, Yahve Elohim-inizə xidmət edin; ⟨kimlər⟩ gedirlər?»",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "geri gətirdilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşeni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşeni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharonu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paronun"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Gedin"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "xidmət edin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve Elohim-inizə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-iniz"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "və kim"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "gedirlər"
+    }
+  ],
+  "timestamp": "2026-09-01T10:07:57.893545902Z",
+  "model": "glm-5.3"
+}

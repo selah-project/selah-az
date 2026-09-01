@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Altı il sən öz torpağını əkəcəksən və ⟨את⟩ məhsulunu yığacaqsan.",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "və altı"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "il"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "əkəcəksən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öz torpağını"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "öz torpağını"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "və yığacaqsan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "məhsulunu"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "məhsulunu"
+    }
+  ],
+  "timestamp": "2026-09-01T10:13:36.381395477Z",
+  "model": "glm-5.3"
+}

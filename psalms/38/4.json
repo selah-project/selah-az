@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 38,
+  "translation": "Ətimdə sağlamlıq yoxdur qəzəbindən ötrü, sümüklərimdə salamatlıq yoxdur günahımdan ötrü.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "sağlamlıq"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "ətimdə"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ötrü"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "qəzəbindən"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salamatlıq"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "sümüklərimdə"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ötrü"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "günahımdan"
+    }
+  ],
+  "timestamp": "2026-09-01T17:42:24.466666006Z",
+  "model": "glm-5.3"
+}

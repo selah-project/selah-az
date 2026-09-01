@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 136:24",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 136,
+  "translation": "və bizi düşmənlərimizdən qurtardı, çünki onun hesedi əbədidir.",
+  "tokens": [
+    {
+      "surface": "ויפרקנו",
+      "gloss": "və bizi qurtardı"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "düşmənlərimizdən"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədidir"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "onun hesedi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:43:54.480904839Z",
+  "model": "glm-5.3"
+}

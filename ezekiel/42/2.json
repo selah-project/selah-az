@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 42:2",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 42,
+  "translation": "Şimal qapısının qarşısında yüz qulac uzunluq ⟨var idi⟩, və eni əlli qulac ⟨idi⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "qarşısında"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzü"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "uzunluq"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "qulac"
+    },
+    {
+      "surface": "המאה",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "qapı"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "şimal"
+    },
+    {
+      "surface": "והרחב",
+      "gloss": "və en"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "əlli"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "qulac"
+    }
+  ],
+  "timestamp": "2026-09-01T14:28:13.572834488Z",
+  "model": "glm-5.3"
+}

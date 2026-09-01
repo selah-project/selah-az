@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Yahvenin sözləri təmiz sözlərdir — yer ocağında əridilmiş gümüş kimi, yeddi dəfə təmizlənmiş.",
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "sözləri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "sözlər"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "təmiz"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "əridilmiş"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "ocağında"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "təmizlənmiş"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "yeddi dəfə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:04:39.408028529Z",
+  "model": "glm-5.3"
+}

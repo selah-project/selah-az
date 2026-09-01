@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 41,
+  "translation": "Belial sözü ona tökülüb, və o ki, yatıb, bir daha qalxmayacaq.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "söz"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belial"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "tökülüb"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "və o ki"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "yatıb"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bir daha... yox"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "bir daha"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "qalxmayacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:13:32.559146125Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 104,
+  "translation": "İşığı örtü kimi bürüyən, göyü düşərgə paradası kimi açan.",
+  "tokens": [
+    {
+      "surface": "עטה",
+      "gloss": "bürüyən"
+    },
+    {
+      "surface": "אור",
+      "gloss": "işığı"
+    },
+    {
+      "surface": "כשלמה",
+      "gloss": "örtü kimi"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "açan"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "göyü"
+    },
+    {
+      "surface": "כיריעה",
+      "gloss": "düşərgə paradası kimi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:34:55.781221841Z",
+  "model": "glm-5.3"
+}

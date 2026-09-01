@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 142,
+  "ref": "psalms 119:142",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Sənin salehliyin əbədi salehlikdir ⟨və⟩ Sənin Toran həqiqətdir.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "Sənin salehliyin"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "salehlikdir"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "⟨və⟩ Sənin Toran"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "həqiqətdir"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:54.021690525Z",
+  "model": "glm-5.3"
+}

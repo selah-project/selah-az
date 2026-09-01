@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 48:21",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 48,
+  "translation": "Və Yisrael Yusifə dedi: Bax, mən ölürəm, amma Elohim sizinlə olacaq və ⟨את⟩ sizi atalarınızın torpağına qaytaracaq.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Və … dedi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusif"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bax"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mən"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ölürəm"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "sizinlə"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "qaytaracaq"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "אתכם burada əvəzlikdir (siz), nişan deyil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "torpağına"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "atalarınızın"
+    }
+  ],
+  "timestamp": "2026-09-01T10:03:28.264239520Z",
+  "model": "glm-5.3"
+}

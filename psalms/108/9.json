@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 108:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 108,
+  "translation": "Mənim üçün Gilad ⟨var⟩, Mənim üçün Menaşşe; Efrayim ⟨is⟩ başımın möhkəmliyi, Yehuda mənim qanunqoyucumdur.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "Mənim üçün"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Mənim üçün"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menaşşe"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "möhkəmlik"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "başımın"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "mənim qanunqoyucum"
+    }
+  ],
+  "timestamp": "2026-09-01T15:37:26.594563494Z",
+  "model": "glm-5.3"
+}

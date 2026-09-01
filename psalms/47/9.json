@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 47,
+  "translation": "Elohim millətlər üzərində padşahlıq edir, Elohim öz müqəddəs taxtında oturur.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "padşahlıq edir"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərində"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "millətlər"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "oturur"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərində"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "taxtında"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "öz müqəddəs"
+    }
+  ],
+  "timestamp": "2026-09-01T15:15:08.712569839Z",
+  "model": "glm-5.3"
+}

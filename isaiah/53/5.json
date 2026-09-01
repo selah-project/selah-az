@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 53:5",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 53,
+  "translation": "Və o, üsyanlarımızdan ⟨ötürü⟩ deşildi, təqsirlərimizdən ⟨ötürü⟩ əzildi; sülhumuzun cəzası onun üzərində ⟨idi⟩, və onun yarası ilə bizə şəfa ⟨verildi⟩.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "və o"
+    },
+    {
+      "surface": "מחלל",
+      "gloss": "deşildi"
+    },
+    {
+      "surface": "מפשענו",
+      "gloss": "üsyanlarımızdan ⟨ötürü⟩"
+    },
+    {
+      "surface": "מדכא",
+      "gloss": "əzildi"
+    },
+    {
+      "surface": "מעונתינו",
+      "gloss": "təqsirlərimizdən ⟨ötürü⟩"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "cəzası"
+    },
+    {
+      "surface": "שלומנו",
+      "gloss": "sülhumuzun"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üzərində"
+    },
+    {
+      "surface": "ובחברתו",
+      "gloss": "və onun yarası ilə"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "şəfa ⟨verildi⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizə"
+    }
+  ],
+  "timestamp": "2026-09-01T13:15:02.355821178Z",
+  "model": "glm-5.3"
+}

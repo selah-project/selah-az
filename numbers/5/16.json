@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "və kahin onu ⟨את⟩ yaxınlaşdırsın və onu Yahvenin hüzurunda durutsun",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "yaxınlaşdırsın"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "durutsun"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hüzurunda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T10:34:21.424346671Z",
+  "model": "glm-5.3"
+}

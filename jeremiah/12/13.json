@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 12:13",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Buğda əkdilər, amma tikənlər biçdilər; zəiflədilər, fayda görməzlər; məhsullarınızdan utanacaqsınız, Yahvenin qəzəbinin qəzəbindən.",
+  "tokens": [
+    {
+      "surface": "זרעו",
+      "gloss": "əkdilər"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "buğda"
+    },
+    {
+      "surface": "וקצים",
+      "gloss": "amma tikənlər"
+    },
+    {
+      "surface": "קצרו",
+      "gloss": "biçdilər"
+    },
+    {
+      "surface": "נחלו",
+      "gloss": "zəiflədilər"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יועלו",
+      "gloss": "fayda görməzlər"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "utanacaqlar"
+    },
+    {
+      "surface": "מתבואתיכם",
+      "gloss": "məhsullarınızdan"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "qəzəbinin"
+    },
+    {
+      "surface": "אף",
+      "gloss": "qəzəbindən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    }
+  ],
+  "timestamp": "2026-09-01T13:31:03.396342150Z",
+  "model": "glm-5.3"
+}

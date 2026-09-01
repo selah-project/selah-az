@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 140:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 140,
+  "translation": "Diləvi kişi yerdə möhkəmlənməsin; zor adamını şər ovlasın — ⟨devirmək üçün⟩.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "kişi"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "diləvi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "möhkəmlənsin"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerdə"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "zor"
+    },
+    {
+      "surface": "רע",
+      "gloss": "şər"
+    },
+    {
+      "surface": "יצודנו",
+      "gloss": "ovlasın"
+    },
+    {
+      "surface": "למדחפת",
+      "gloss": "devrilməyə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:44:34.830200878Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 9:11",
+  "book": "amos",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "O gün Davudun süqut etmiş çadırını qaldıracağam, onun yaralarını ⟨את⟩ hasarlayacağam, onun xarabalıqlarını qaldıracağam və onu əzəli günlər ⟨kimi⟩ yenidən quracağam.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "qaldıracağam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çadırını"
+    },
+    {
+      "surface": "סכת",
+      "gloss": "çadırını"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davudun"
+    },
+    {
+      "surface": "הנפלת",
+      "gloss": "süqut etmiş"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "və hasarlayacağam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yaralarını"
+    },
+    {
+      "surface": "פרציהן",
+      "gloss": "yaralarını"
+    },
+    {
+      "surface": "והרסתיו",
+      "gloss": "xarabalıqlarını"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "qaldıracağam"
+    },
+    {
+      "surface": "ובניתיה",
+      "gloss": "və yenidən quracağam"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "günlər ⟨kimi⟩"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "əzəli"
+    }
+  ],
+  "timestamp": "2026-09-01T14:43:00.469811686Z",
+  "model": "glm-5.3"
+}

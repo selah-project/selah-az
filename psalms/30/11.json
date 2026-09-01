@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Eşit, ey Yahve, və mənə lütf et; Yahve, mənim köməkçim ⟨ol⟩.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Eşit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "və mənə lütf et"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨ol⟩"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "köməkçim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənim ... mənə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:08:24.152786254Z",
+  "model": "glm-5.3"
+}

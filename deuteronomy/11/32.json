@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Və bu gün öününüzə qoyduğum ⟨את⟩ bütün qaydaları və ⟨את⟩ hökmləri yerinə yetirməyə riayət edəcəksiniz.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "riayət edəcəksiniz"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yerinə yetirməyə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün qaydaları"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "qaydaları"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hökmləri"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "hökmləri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mən"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "qoyuram"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "öününüzə"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bu gün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:49:59.934260029Z",
+  "model": "glm-5.3"
+}

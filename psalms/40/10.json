@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "Böyük məclisdə salehliyin müjdəsini verdim; bax, dodaqlarımı saxlamadım, Yahve, Sən bilirsən.",
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "müjdəsini verdim"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "salehliyin"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "məclisdə"
+    },
+    {
+      "surface": "רב",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "dodaqlarımı"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saxlamadım — yox"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "saxlamadım"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sən"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "bilirsən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:13:35.674693593Z",
+  "model": "glm-5.3"
+}

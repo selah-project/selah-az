@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Və ⟨את⟩ güldanlarını və ⟨את⟩ çənləri — qızıl olanı qızıl, gümüş olanı gümüş — baş cəllad götürdü.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "güldanlarını"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "güldanlarını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "çənləri"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "çənləri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "qızıl olanı qızıl"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "qızıl"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "və —"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş olanı gümüş"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "götürdü"
+    },
+    {
+      "surface": "רב",
+      "gloss": "baş"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "cəllad"
+    }
+  ],
+  "timestamp": "2026-09-01T12:44:58.340190340Z",
+  "model": "glm-5.3"
+}

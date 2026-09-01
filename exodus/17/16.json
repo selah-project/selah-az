@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 17:16",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "və dedi: Çünki əl Yahın taxtının üstündədir — Yahve üçün Amaləkə qarşı müharibə, nəsildən nəslə.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "יד",
+      "gloss": "əl"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündədir"
+    },
+    {
+      "surface": "כס",
+      "gloss": "taxtının"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "müharibə"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve üçün"
+    },
+    {
+      "surface": "בעמלק",
+      "gloss": "Amaləkə qarşı"
+    },
+    {
+      "surface": "מדר",
+      "gloss": "nəsildən"
+    },
+    {
+      "surface": "דר",
+      "gloss": "nəslə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:10:28.367487158Z",
+  "model": "glm-5.3"
+}

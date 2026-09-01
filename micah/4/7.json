@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "micah 4:7",
+  "book": "micah",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və Yağcam olanı qalıq edəcəyəm, ⟨və⟩ uzaq salınmışı güclü bir millət edəcəyəm; və Yahve onların üzərində, Sion dağında hökm sürəcək — şimdilikdən əbədiyyətə qədər.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Və … edəcəyəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yağcam olan"
+    },
+    {
+      "surface": "הצלעה",
+      "gloss": "yağcam olan"
+    },
+    {
+      "surface": "לשארית",
+      "gloss": "qalıq"
+    },
+    {
+      "surface": "והנהלאה",
+      "gloss": "uzaq salınmış"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "millət"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "güclü"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "və hökm sürəcək"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "onların üzərində"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "dağında"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "şimdilikdən"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "və … qədər"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "əbədiyyət"
+    }
+  ],
+  "timestamp": "2026-09-01T18:01:33.913378058Z",
+  "model": "glm-5.3"
+}

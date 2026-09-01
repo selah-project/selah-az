@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 1:2",
+  "book": "song-of-songs",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Qoy məni öpsün ağzının öpücikləri ilə, çünki sənin məhəbbətlərin şərabdan yaxşıdır.",
+  "tokens": [
+    {
+      "surface": "ישקני",
+      "gloss": "Qoy məni öpsün"
+    },
+    {
+      "surface": "מנשיקות",
+      "gloss": "öpücikləri ilə"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ağzının"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "yaxşıdır"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "sənin məhəbbətlərin"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "şərabdan"
+    }
+  ],
+  "timestamp": "2026-09-01T16:20:59.204746386Z",
+  "model": "glm-5.3"
+}

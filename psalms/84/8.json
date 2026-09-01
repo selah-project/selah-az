@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 84,
+  "translation": "Onlar qüvvətdən qüvvətə gedərlər, Elohimin üzünü görməyə ⟨çatırlar⟩, Sionda ⟨ona⟩ görünərlər.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "gedərlər"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "qüvvətdən"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "qüvvətə"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "görünərlər"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Sionda"
+    }
+  ],
+  "timestamp": "2026-09-01T15:30:47.191743053Z",
+  "model": "glm-5.3"
+}

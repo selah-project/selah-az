@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 81,
+  "translation": "Az qala düşmənlərini ram edərdim, əlimi onların sıxıntıverənlərinin üstünə çevirərdim.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "Az qala"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "düşmənlərini"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "ram edərdim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "onların sıxıntıverənlərinin"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "çevirərdim"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "əlimi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:27:48.214171858Z",
+  "model": "glm-5.3"
+}

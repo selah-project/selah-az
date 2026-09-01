@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Axmaq ⟨את⟩ əllərini qucaqlayır və ⟨את⟩ öz ətini yeyir.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "axmaq"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "qucaqlayır"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əllərini"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "əllərini"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "və ... yeyir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öz ətini"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "öz ətini"
+    }
+  ],
+  "timestamp": "2026-09-01T16:30:01.534467520Z",
+  "model": "glm-5.3"
+}

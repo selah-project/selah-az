@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Atana hörmət ⟨göstər⟩ və anana hörmət ⟨göstər⟩, ki Yahve Elohiminin sənə verdiyi torpaq üstündə günlərin uzun olsun.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "hörmət ⟨göstər⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atanı"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "atan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ananı"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "anan"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יארכון",
+      "gloss": "uzun olsun"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "günlərin"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "torpaq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verdiyi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:12:18.568308745Z",
+  "model": "glm-5.3"
+}

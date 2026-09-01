@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 9:6",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Əgər siz və oğullarınız arxamca dönməyiniz, mənim əmrlərimi, qanunlarımı — gözünüzün önünə qoyduqlarımı saxlamayacaqsınızsa, getsəniz və başqa tanrılara qulluq etsəniz və onlara səcdə etsəniz,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Əgər"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "dönüb"
+    },
+    {
+      "surface": "תשבון",
+      "gloss": "dönməyiniz"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "və oğullarınız"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "arxamca"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "saxlamayacaqsınızsa"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "gloss: saxlamaq"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "əmrlərimi"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "qanunlarımı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "qoyduqlarımı"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "gözünüzün önünə"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "getsəniz"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "qulluq etsəniz"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tanrılara"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "başqa"
+    },
+    {
+      "surface": "והשתחויתם",
+      "gloss": "səcdə etsəniz"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    }
+  ],
+  "timestamp": "2026-09-01T12:16:58.636312138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 12:14",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "İnsan ağzının meyvəsindən yaxşılıqla doyar, adam əllərinin əvəzi də ona qayıdar.",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "meyvəsindən"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzının"
+    },
+    {
+      "surface": "איש",
+      "gloss": "insan"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "doyar"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşılıqla"
+    },
+    {
+      "surface": "וגמול",
+      "gloss": "və əvəzi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "əllərinin"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "qayıdar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-09-01T15:52:50.174624370Z",
+  "model": "glm-5.3"
+}

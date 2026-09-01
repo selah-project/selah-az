@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Özünə oyulmuş surət və heç bir təsvir düzəltməyəcaksan — göylərdə yuxarıda olanın, yerdə aşağıda olanın və suların altında, yerin altında olanın.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "…-məyəcəksan"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "düzəltməyəcəksan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "özünə"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "oyulmuş surət"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "və heç bir"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "təsvir"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…-ın"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "göylərdə"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "yuxarıda olanın"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "və …-ın"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerdə"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "aşağıda olanın"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "və …-ın"
+    },
+    {
+      "surface": "במים",
+      "gloss": "suların"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "yerin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:12:03.854988233Z",
+  "model": "glm-5.3"
+}

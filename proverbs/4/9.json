@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 4:9",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "O, başına lütf çələngi verəcək, izzət tacını sənə təhvil verəcək.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "verəcək"
+    },
+    {
+      "surface": "לראשך",
+      "gloss": "başına"
+    },
+    {
+      "surface": "לוית",
+      "gloss": "çələng"
+    },
+    {
+      "surface": "חן",
+      "gloss": "lütf"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "tac"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "izzət"
+    },
+    {
+      "surface": "תמגנך",
+      "gloss": "sənə təhvil verəcək"
+    }
+  ],
+  "timestamp": "2026-09-01T15:48:20.146723235Z",
+  "model": "glm-5.3"
+}

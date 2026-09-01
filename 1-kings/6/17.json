@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 6:17",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Və ⟨ev⟩ qırx amma ⟨idi⟩ — o, onun önündəki heykaldır.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "qırx"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "amma ilə"
+    },
+    {
+      "surface": "היה",
+      "gloss": "idi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "heykəl"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önündə"
+    }
+  ],
+  "timestamp": "2026-09-01T17:59:16.349668247Z",
+  "model": "glm-5.3"
+}

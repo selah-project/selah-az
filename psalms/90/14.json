@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 90:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 90,
+  "translation": "Səhər ⟨vaxtı⟩ bizi hesedilən doydur ki, bütün günlərimiz boyu nəğmə deyək və sevinək.",
+  "tokens": [
+    {
+      "surface": "שבענו",
+      "gloss": "doydur bizi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "səhər"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "sənin hesedilə"
+    },
+    {
+      "surface": "ונרננה",
+      "gloss": "nəğmə deyək"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "sevinək"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "günlərimiz boyu"
+    }
+  ],
+  "timestamp": "2026-09-01T15:31:50.294441203Z",
+  "model": "glm-5.3"
+}

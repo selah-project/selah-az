@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 2:6",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Onun ordusu və sayılmışları dörd ⟨və⟩ əlli min, dörd yüz idi.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ordusu"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "sayılmışları"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "dörd"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "⟨və⟩ əlli"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "min"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "dörd"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    }
+  ],
+  "timestamp": "2026-09-01T10:32:37.862130890Z",
+  "model": "glm-5.3"
+}

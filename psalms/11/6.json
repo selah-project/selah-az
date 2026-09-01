@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Şər adamlarının üstünə torlar, od və kükürd yağdıracaq, qəzəb küləyi ⟨onların⟩ payı olacaq ⟨kuboklarının⟩.",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "yağdıracaq"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "şər adamlarının"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "torlar"
+    },
+    {
+      "surface": "אש",
+      "gloss": "od"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "və kükürd"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "və külək"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "qəzəb"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "payı"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "kuboklarının"
+    }
+  ],
+  "timestamp": "2026-09-01T15:03:52.073138392Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 2:11",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və onun dəstəsi və onun sayılmışları altı və qırx min və beş yüz idi.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "və onun dəstəsi"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "və onun sayılmışları"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "altı"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "və qırx"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "min"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "və beş"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    }
+  ],
+  "timestamp": "2026-09-01T10:32:40.493370369Z",
+  "model": "glm-5.3"
+}

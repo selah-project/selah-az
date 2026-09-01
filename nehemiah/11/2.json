@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 11:2",
+  "book": "nehemiah",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Və xalq, Yeruşalayimdə yaşamağa öz könüllü ilə təklif edən bütün adamları xeyir-dua ilə mübarək etdi.",
+  "tokens": [
+    {
+      "surface": "ויברכו",
+      "gloss": "mübarək etdi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "adamları"
+    },
+    {
+      "surface": "המתנדבים",
+      "gloss": "könüllü təklif edənlər"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "yaşamağa"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yeruşalayimdə"
+    }
+  ],
+  "timestamp": "2026-09-01T16:59:29.382209653Z",
+  "model": "glm-5.3"
+}

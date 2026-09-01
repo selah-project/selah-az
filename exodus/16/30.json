@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Beləliklə, xalq yeddinci gündə səkinə oturdu.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "səkinə oturdu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gündə"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "yeddinci"
+    }
+  ],
+  "timestamp": "2026-09-01T10:10:50.142682877Z",
+  "model": "glm-5.3"
+}

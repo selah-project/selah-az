@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 1:18",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "və gündüzə, gecəyə hökm etmək, işıqla qaranlığı ayırmaq üçün; və Elohim gördü ki, yaxşıdır.",
+  "tokens": [
+    {
+      "surface": "ולמשל",
+      "gloss": "hökm etmək üçün"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gündüzə"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "gecəyə"
+    },
+    {
+      "surface": "ולהבדיל",
+      "gloss": "ayırmaq üçün"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "האור",
+      "gloss": "işıqla"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "və arasında"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "qaranlığı"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "və gördü"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşıdır"
+    }
+  ],
+  "timestamp": "2026-09-01T09:46:01.996381872Z",
+  "model": "glm-5.3"
+}

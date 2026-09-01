@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "Və Yisrael oğulları şabbatı qoruyacaqlar, şabbatı nəsilləri boyunca yerinə yetirmək üçün — əbədi əhd kimi.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "qoruyacaqlar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şabbatı"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "şabbatı"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yerinə yetirmək üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şabbatı"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "şabbatı"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "nəsilləri boyunca"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "əhd"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "əbədi"
+    }
+  ],
+  "timestamp": "2026-09-01T10:18:30.370965181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 69:21",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 69,
+  "translation": "Təhqir ürəyimi qırdı, mən ⟨is⟩ xəstələndim; təsəlli verənə ümid etdim, amma yox idi; ağlaşanlara, amma tapmadım.",
+  "tokens": [
+    {
+      "surface": "חרפה",
+      "gloss": "təhqir"
+    },
+    {
+      "surface": "שברה",
+      "gloss": "qırdı"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ürəyimi"
+    },
+    {
+      "surface": "ואנושה",
+      "gloss": "xəstələndim"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "ümid etdim"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "təsəlli verənə"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "amma yox idi"
+    },
+    {
+      "surface": "ולמנחמים",
+      "gloss": "ağlaşanlara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "tapmadım"
+    }
+  ],
+  "timestamp": "2026-09-01T15:21:58.937483109Z",
+  "model": "glm-5.3"
+}

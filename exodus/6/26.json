@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 6:26",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Bu ⟨odur⟩ Aharon və Moşe, onlara Yahve demişdi: ⟨את⟩ İsrail oğullarını Mitsrayim torpağından dəstələri ilə çıxarın.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Bu ⟨odur⟩"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "və Moşe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onlara ki"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "demişdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "çıxarın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsrail oğullarını"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "torpağından"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "dəstələri"
+    }
+  ],
+  "timestamp": "2026-09-01T10:05:08.292345280Z",
+  "model": "glm-5.3"
+}

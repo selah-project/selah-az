@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 43,
+  "translation": "Və hədiyyəni Yusifin gələcəyi günorta vaxtına qədər hazırladılar, çünki eşitmişdilər ki, orada çörək yeyəcəklər.",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "hazırladılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hədiyyəni"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "hədiyyəni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "gələcəyi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusifin"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "günorta vaxtında"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "eşitmişdilər"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "yeyəcəklər"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "çörək"
+    }
+  ],
+  "timestamp": "2026-09-01T10:01:12.636286383Z",
+  "model": "glm-5.3"
+}

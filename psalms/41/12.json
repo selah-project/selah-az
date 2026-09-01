@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 41,
+  "translation": "Bununla bilirəm ki, Sən məndən razısan, çünki düşmənim mənim üstümdə zəfər çalmır.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "bununla"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "bilirəm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "razısan"
+    },
+    {
+      "surface": "בי",
+      "gloss": "məndən"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "zəfər çalmır"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "düşmənim"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mənim üstümdə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:13:32.559857517Z",
+  "model": "glm-5.3"
+}

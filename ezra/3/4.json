@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və tutdular ⟨את⟩ Sukkot bayramını, yazıldığı kimi, və qaldırdılar gündəlik yandırma qurbanını, sayca, hökmətə görə — hər günün işi öz günündə.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "və tutdular"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sukkot bayramını"
+    },
+    {
+      "surface": "חג",
+      "gloss": "bayram"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "yazıldığı kimi"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "və yandırma qurbanı"
+    },
+    {
+      "surface": "יום",
+      "gloss": "günün"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "günündə"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "sayca"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "hökmətə görə"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "işi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "günün"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "öz günündə"
+    }
+  ],
+  "timestamp": "2026-09-01T16:49:27.503085475Z",
+  "model": "glm-5.3"
+}

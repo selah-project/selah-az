@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 10:17",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Həyat yolunu tərbiyəni qoruyan tutur, tənbehi tərk edən isə azır.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "yolu"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "həyat"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "qoruyan"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tərbiyəni"
+    },
+    {
+      "surface": "ועוזב",
+      "gloss": "və tərk edən"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "tənbehi"
+    },
+    {
+      "surface": "מתעה",
+      "gloss": "azır"
+    }
+  ],
+  "timestamp": "2026-09-01T15:50:59.411650970Z",
+  "model": "glm-5.3"
+}

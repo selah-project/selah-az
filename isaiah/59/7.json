@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 59:7",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 59,
+  "translation": "Onların ayaqları şərə qaçır, təmiz qan tökməyə tələsirlər; onların düşüncələri fəsad düşüncələridir; talan və qırğıntı onların yollarındadır.",
+  "tokens": [
+    {
+      "surface": "רגליהם",
+      "gloss": "onların ayaqları"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "şərə"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "qaçır"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "və tələsirlər"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "tökməyə"
+    },
+    {
+      "surface": "דם",
+      "gloss": "qan"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "təmiz"
+    },
+    {
+      "surface": "מחשבותיהם",
+      "gloss": "onların düşüncələri"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "düşüncələr"
+    },
+    {
+      "surface": "און",
+      "gloss": "fəsadın"
+    },
+    {
+      "surface": "שד",
+      "gloss": "talan"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "və qırğıntı"
+    },
+    {
+      "surface": "במסלותם",
+      "gloss": "onların yollarında"
+    }
+  ],
+  "timestamp": "2026-09-01T13:18:33.844165068Z",
+  "model": "glm-5.3"
+}

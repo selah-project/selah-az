@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 48:4",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 48,
+  "translation": "Bildiyimdən ki, sən inadcılsan, və boynun dəmir və damar, alnın isə misdendir.",
+  "tokens": [
+    {
+      "surface": "מדעתי",
+      "gloss": "Bildiyimdən"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "inadcılsan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "וגיד",
+      "gloss": "və ... damar"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "dəmir"
+    },
+    {
+      "surface": "ערפך",
+      "gloss": "boynun"
+    },
+    {
+      "surface": "ומצחך",
+      "gloss": "və alnın"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "mis"
+    }
+  ],
+  "timestamp": "2026-09-01T13:10:46.890767356Z",
+  "model": "glm-5.3"
+}

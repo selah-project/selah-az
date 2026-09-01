@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 73:20",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 73,
+  "translation": "Oyadanın yuxusundakı kimi — Adonay, ⟨sən⟩ oyananda onların surətinə xor baxacaqsan.",
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "yuxusundakı kimi"
+    },
+    {
+      "surface": "מהקיץ",
+      "gloss": "oyadanın"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "oyananda"
+    },
+    {
+      "surface": "צלמם",
+      "gloss": "onların surətinə"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "xor baxacaqsan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:24:32.458573625Z",
+  "model": "glm-5.3"
+}

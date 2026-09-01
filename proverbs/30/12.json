@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 30:12",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Elə bir nəsil var ki, öz gözündə təmizdir, lakin öz murdarlığından yuyunmamışdır.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "nəsil"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "təmizdir"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "öz gözündə"
+    },
+    {
+      "surface": "ומצאתו",
+      "gloss": "və öz murdarlığından"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "yuyunmamışdır"
+    }
+  ],
+  "timestamp": "2026-09-01T15:59:50.034194335Z",
+  "model": "glm-5.3"
+}

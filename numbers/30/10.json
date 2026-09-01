@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 30:10",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Dul qadının və boşanmış qadının nəziri — canına bağladığı hər şey — onun üstündə qalacaq.",
+  "tokens": [
+    {
+      "surface": "ונדר",
+      "gloss": "nəziri"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "dul qadının"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "boşanmış qadının"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər şey"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "bağladığı"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "canına"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "qalacaq"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "onun üstündə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:43:47.387805268Z",
+  "model": "glm-5.3"
+}

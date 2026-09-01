@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 119:66",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Mənə mühakimə və biliyin yaxşılığını öyrət, çünki əmrlərinə iman gətirmişəm.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "yaxşılığını"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "mühakimə"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "və biliyin"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "mənə öyrət"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "əmrlərinə"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "iman gətirmişəm"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:32.251375358Z",
+  "model": "glm-5.3"
+}

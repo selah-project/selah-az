@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 14:16",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Səni görənlər sənə baxıb dik süzəcəklər, səni düşünüb deyəcəklər: Yer titrədən, padşahlıqları sarsıdan adam budurmuydu?",
+  "tokens": [
+    {
+      "surface": "ראיך",
+      "gloss": "səni görənlər"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "ישגיחו",
+      "gloss": "dik süzəcəklər"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "səni"
+    },
+    {
+      "surface": "יתבוננו",
+      "gloss": "düşünüb deyəcəklər"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "מרגיז",
+      "gloss": "titrədən"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "sarsıdan"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "padşahlıqları"
+    }
+  ],
+  "timestamp": "2026-09-01T12:51:50.945642434Z",
+  "model": "glm-5.3"
+}

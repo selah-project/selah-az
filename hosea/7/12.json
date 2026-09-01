@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 7:12",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Onlar getdikcə üstlərinə torumunu səpərəm, göylərin quşu kimi onları endirərəm, məclislərinin eşitdiyi kimi onları cəzalandıraram.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "kimi\/-dikcə"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "getdikcə"
+    },
+    {
+      "surface": "אפרוש",
+      "gloss": "səpərəm"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "üstlərinə"
+    },
+    {
+      "surface": "רשתי",
+      "gloss": "torumunu"
+    },
+    {
+      "surface": "כעוף",
+      "gloss": "quşu kimi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göylərin"
+    },
+    {
+      "surface": "אורידם",
+      "gloss": "onları endirərəm"
+    },
+    {
+      "surface": "איסרם",
+      "gloss": "onları cəzalandıraram"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "eşitdiyi kimi"
+    },
+    {
+      "surface": "לעדתם",
+      "gloss": "məclislərinin"
+    }
+  ],
+  "timestamp": "2026-09-01T14:36:00.906011869Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 92:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 92,
+  "translation": "Şər əhlı otlar kimi göyərəndə və bütün fəsad işləyənlər çiçək açanda — ⟨onlar⟩ əbədi olaraq məhv edilmək üçündürlər.",
+  "tokens": [
+    {
+      "surface": "בפרח",
+      "gloss": "göyərəndə"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "şər əhlı"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "otlar"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "çiçək açanda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "işləyənlər"
+    },
+    {
+      "surface": "און",
+      "gloss": "fəsad"
+    },
+    {
+      "surface": "להשמדם",
+      "gloss": "məhv edilmək üçündürlər"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "olaraq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:32:53.725928881Z",
+  "model": "glm-5.3"
+}

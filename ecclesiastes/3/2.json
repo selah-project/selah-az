@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Doğmağa vaxt, ölməyə vaxt; əkməyə vaxt, əkilmişi sökməyə vaxt.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "vaxt"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "doğmağa"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "və vaxt"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ölməyə"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vaxt"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "əkməyə"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "və vaxt"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "sökməyə"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "əkilmiş"
+    }
+  ],
+  "timestamp": "2026-09-01T16:29:14.704155108Z",
+  "model": "glm-5.3"
+}

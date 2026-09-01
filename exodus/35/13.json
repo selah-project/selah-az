@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 35:13",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "⟨את⟩ süfrəni, ⟨את⟩ dirəklərini, ⟨את⟩ bütün ləvazimatını və ⟨את⟩ üz çörəyi —",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "süfrəni"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "süfrəni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dirəklərini"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "dirəklərini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bütün"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ləvazimatını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "çörəyi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "çörəyi"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "üz (üz çörəyi)"
+    }
+  ],
+  "timestamp": "2026-09-01T10:19:56.446749092Z",
+  "model": "glm-5.3"
+}

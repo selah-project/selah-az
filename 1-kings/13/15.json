@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Ona dedi: «Gəl ⟨את⟩ mənimlə evə və çörək ye.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gəl"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mənimlə"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "evə"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ye"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "çörək"
+    }
+  ],
+  "timestamp": "2026-09-01T12:18:46.302904587Z",
+  "model": "glm-5.3"
+}

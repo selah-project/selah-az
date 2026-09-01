@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 46,
+  "translation": "Gəlin, Yahvenin əməllərinə baxın: o, yer üzündə xarabalıqlar qoydu.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "gəlin"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "baxın"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "əməllərinə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "qoydu"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "xarabalıqlar"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yer üzündə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:16:02.123385643Z",
+  "model": "glm-5.3"
+}

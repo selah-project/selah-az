@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 108:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 108,
+  "translation": "Ta ki sevimlilərin xilas olunsun; sağ əlinlə qurtar və məni cavabla ⟨Qurtar⟩.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ta ki"
+    },
+    {
+      "surface": "יחלצון",
+      "gloss": "xilas olunsun"
+    },
+    {
+      "surface": "ידידיך",
+      "gloss": "sevimlilərin"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "qurtar"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": " sağ əlinlə"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "və məni cavabla"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:02.287250332Z",
+  "model": "glm-5.3"
+}

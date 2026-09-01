@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 10:1",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Şəba melikəsi Şlomonun şöhrətini — Yahvenin adı ⟨üçün⟩ — eşidəndə, onu bilmacalarla sınamaq üçün gəldi.",
+  "tokens": [
+    {
+      "surface": "ומלכת",
+      "gloss": "və melikəsi"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Şəba"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "eşidəndə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şöhrətini"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "şöhrətini"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şlomonun"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "adı üçün"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "gəldi"
+    },
+    {
+      "surface": "לנסתו",
+      "gloss": "onu sınamaq üçün"
+    },
+    {
+      "surface": "בחידות",
+      "gloss": "bilmacalarla"
+    }
+  ],
+  "timestamp": "2026-09-01T12:16:49.467946854Z",
+  "model": "glm-5.3"
+}

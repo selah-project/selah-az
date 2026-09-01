@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 7:6",
+  "book": "esther",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Ester dedi: ⟨Bu⟩ sıxıntı və düşmən olan kişi — bu pis Hamandır. Və Haman padşahın və kraliçanın üzündən qorxuya düşdü.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kişi"
+    },
+    {
+      "surface": "צר",
+      "gloss": "sıxıntı"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "və düşmən"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "pis"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "və Haman"
+    },
+    {
+      "surface": "נבעת",
+      "gloss": "qorxuya düşdü"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "üzündən"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşahın"
+    },
+    {
+      "surface": "והמלכה",
+      "gloss": "və kraliçanın"
+    }
+  ],
+  "timestamp": "2026-09-01T16:38:41.375561777Z",
+  "model": "glm-5.3"
+}

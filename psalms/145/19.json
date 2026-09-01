@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 145:19",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 145,
+  "translation": "Ona qorxanların razılığını ⟨O,⟩ edəcək, onların fəryadını ⟨את⟩ eşidəcək və onları xilas edəcək.",
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "razılığını"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "Ona qorxanların"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "edəcək"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "onların fəryadını"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "onların fəryadını"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "eşidəcək"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "onları xilas edəcək"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:56.852286600Z",
+  "model": "glm-5.3"
+}

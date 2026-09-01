@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "O, Yisrailə tənə etdi və onu Yehonatan, Şiminin oğlu, Davudun qardaşı vurdu.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "tənə etdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrail"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrail"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "onu vurdu"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Şimi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "qardaşı"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    }
+  ],
+  "timestamp": "2026-09-01T12:02:55.971157360Z",
+  "model": "glm-5.3"
+}

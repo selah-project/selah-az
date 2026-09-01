@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 21:19",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "əgər o qalxıb çöldə öz əsasının üstündə gəzsə, vuran ⟨cəzadan⟩ azad olacaq; yalnız onun yatmaq ⟨vaxtını⟩ ödəyəcək və tam şəfa verəcək.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "qalxsa"
+    },
+    {
+      "surface": "והתהלך",
+      "gloss": "gəzsə"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "çöldə"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "משענתו",
+      "gloss": "öz əsasının"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "azad olacaq"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "vuran"
+    },
+    {
+      "surface": "רק",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "yatmağını"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ödəyəcək"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "şəfa"
+    },
+    {
+      "surface": "ירפא",
+      "gloss": "verəcək"
+    }
+  ],
+  "timestamp": "2026-09-01T10:15:32.582598246Z",
+  "model": "glm-5.3"
+}

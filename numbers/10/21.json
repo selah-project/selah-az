@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Qehatilər — müqəddəslik ⟨את⟩ daşıyanlar — yola düşdülər və ⟨onlar⟩ gələnədək məskəni qaldırdılar ⟨başqaları⟩.",
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "yola düşdülər"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "Qehatilər"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "daşıyanlar"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "müqəddəslik"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "qaldırdılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "məskəni"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "məskən"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ənədək"
+    },
+    {
+      "surface": "באם",
+      "gloss": "onların gəlişi"
+    }
+  ],
+  "timestamp": "2026-09-01T10:35:38.946143876Z",
+  "model": "glm-5.3"
+}

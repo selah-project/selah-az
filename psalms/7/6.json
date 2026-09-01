@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 7:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Düşmən canımı qovsun və yetişsin, həyatımı yerə tapdalasın və izzətimi toza salsın. Səlah.",
+  "tokens": [
+    {
+      "surface": "ירדף",
+      "gloss": "qovsun"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "düşmən"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "וישג",
+      "gloss": "və yetişsin"
+    },
+    {
+      "surface": "וירמס",
+      "gloss": "və tapdalasın"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "yerə"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "həyatımı"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "və izzətimi"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "toza"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "salsın"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Səlah"
+    }
+  ],
+  "timestamp": "2026-09-01T15:01:51.066722598Z",
+  "model": "glm-5.3"
+}

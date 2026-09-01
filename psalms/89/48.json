@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 89:48",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 89,
+  "translation": "Xatırla: mənim ömrüm nə ⟨qədər qısa⟩ — nə üçün boş yerə bütün insan oğullarını yaratdın?",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Xatırla"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "חלد",
+      "gloss": "ömrüm ⟨qədər qısa⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨üçün⟩"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "boş yerə"
+    },
+    {
+      "surface": "בראת",
+      "gloss": "yaratdın"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan ⟨oğullarını⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T15:30:29.405971971Z",
+  "model": "glm-5.3"
+}

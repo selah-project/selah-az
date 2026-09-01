@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Quşlardan birini canlı su üstündə saxsı qabda kəsəcək.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "kəsəcək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "quşlardan birini"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "quş"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "biri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "içində"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "qab"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "saxsı"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "canlı"
+    }
+  ],
+  "timestamp": "2026-09-01T10:25:43.771020999Z",
+  "model": "glm-5.3"
+}

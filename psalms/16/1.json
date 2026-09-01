@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Miktam, Davuda məxsus. Məni qoru, El, çünki sənə sığındım.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "Miktam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davuda məxsus"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "məni qoru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "sığındım"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sənə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:04:35.190772536Z",
+  "model": "glm-5.3"
+}

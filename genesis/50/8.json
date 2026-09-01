@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 50:8",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 50,
+  "translation": "Və Yosefin bütün evi, onun qardaşları və atasının evi ⟨qalxdı⟩; yalnız uşaqlarını, qoyunlarını və mal-qarasını Goşen torpağında qoydular.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefin"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "onun qardaşları"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "və evi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atasının"
+    },
+    {
+      "surface": "רק",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "uşaqları"
+    },
+    {
+      "surface": "וצאנם",
+      "gloss": "qoyunları"
+    },
+    {
+      "surface": "ובקרם",
+      "gloss": "mal-qarası"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "qoydular"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "torpağında"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Goşen"
+    }
+  ],
+  "timestamp": "2026-09-01T10:03:34.720546778Z",
+  "model": "glm-5.3"
+}

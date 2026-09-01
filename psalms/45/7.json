@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 45:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 45,
+  "translation": "Taxtın, ya Elohim, əbədi və sonsuzdur; düzlüyün çomağı ⟨dır⟩ sənin səltənətinin çomağı.",
+  "tokens": [
+    {
+      "surface": "כסאך",
+      "gloss": "taxtın"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "və sonsuz"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "çomağı"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "düzlüyün"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "çomağı"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "səltənətinin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:17:06.252300182Z",
+  "model": "glm-5.3"
+}

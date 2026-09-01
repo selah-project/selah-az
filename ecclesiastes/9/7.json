@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 9:7",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Get, çörəyini sevinc içində ye, və şərabını yaxşı ürəklə iç, çünki artıq Elohim ⟨את⟩ əməllərindən razı qaldı.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "get"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ye"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "sevinc içində"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "çörəyini"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "və iç"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "ürəklə"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşı"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "şərabını"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "artıq"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "razı qaldı"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əməllərindən"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "əməllərindən"
+    }
+  ],
+  "timestamp": "2026-09-01T17:45:09.032246842Z",
+  "model": "glm-5.3"
+}

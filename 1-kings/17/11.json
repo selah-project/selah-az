@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 17:11",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "O, götürməyə gedəndə, o, ona səsləndi və dedi: Mənə, zəhmət olmasa, əlində bir parça çörək götür.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "O, getdi"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "götürməyə"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "səsləndi"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "götür"
+    },
+    {
+      "surface": "נא",
+      "gloss": "zəhmət olmasa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "פת",
+      "gloss": "bir parça"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "çörək"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "əlində"
+    }
+  ],
+  "timestamp": "2026-09-01T12:22:17.711604662Z",
+  "model": "glm-5.3"
+}

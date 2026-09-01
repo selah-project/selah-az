@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 18:20",
+  "book": "judges",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Və kahinin ürəyi sevindi, ⟨את⟩ efodu, ⟨את⟩ terafimləri və ⟨את⟩ oyma bütü götürdü və xalqın içi ilə getdi.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "sevindi"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ürəyi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahinin"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "götürdü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efod"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "terafimlər"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafimlər"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oyma büt"
+    },
+    {
+      "surface": "הפסל",
+      "gloss": "oyma büt"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "getdi"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "içi ilə"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqın"
+    }
+  ],
+  "timestamp": "2026-09-01T11:27:29.207355771Z",
+  "model": "glm-5.3"
+}

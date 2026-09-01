@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 88,
+  "ref": "psalms 119:88",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Öz hesedinə görə məni dirilt, və mən Sənin ağzının şəhadətini saxlayacağam.",
+  "tokens": [
+    {
+      "surface": "כחסדך",
+      "gloss": "Öz hesedinə görə"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "məni dirilt"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "və saxlayacağam"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "şəhadətini"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "Sənin ağzının"
+    }
+  ],
+  "timestamp": "2026-09-01T17:43:22.387532982Z",
+  "model": "glm-5.3"
+}

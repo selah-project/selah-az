@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Dırnağı qoparan və dırnağını tam yarıb parçalayan, şıq qaytaran heyvanlardan ⟨את⟩ — onu yeyə bilərsiniz.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "dırnağı qoparan"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "dırnaq"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "və yarıq"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "yarıb parçalayan"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "dırnaqları"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "qaytaran"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "şıq"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "heyvanlarda"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yeyə bilərsiniz"
+    }
+  ],
+  "timestamp": "2026-09-01T10:24:56.282466968Z",
+  "model": "glm-5.3"
+}

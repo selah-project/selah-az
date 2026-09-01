@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Çoxları canıma deyirlər: «Ona Elohimdə qurtuluş yoxdur.» Sela.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Çoxları"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "deyirlər"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "canıma"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "qurtuluş"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimdə"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-01T15:01:48.084963745Z",
+  "model": "glm-5.3"
+}

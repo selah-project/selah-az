@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 17:20",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Yahve, sənin kimi ⟨yoxdur⟩, və səndən başqa Elohim yoxdur, qulaqlarımızla eşitdiyimiz hər şeyə ⟨görə⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "sənin kimi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "və yoxdur"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "səndən başqa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hər şeyə"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "eşitdiyimiz"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "qulaqlarımızla"
+    }
+  ],
+  "timestamp": "2026-09-01T17:06:40.534389012Z",
+  "model": "glm-5.3"
+}

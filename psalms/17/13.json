@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 17:13",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Qalx, Yahve, onun üzlə qarşısına çıx, onu diz çökdür; canımı şərdən ⟨qurtar⟩ — qılıncınla ⟨qurtar⟩.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "qalx"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "qarşısına çıx"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "onun üzü"
+    },
+    {
+      "surface": "הכריעהו",
+      "gloss": "onu diz çökdür"
+    },
+    {
+      "surface": "פלטה",
+      "gloss": "qurtar"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "מרשע",
+      "gloss": "şərdən"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "qılıncınla"
+    }
+  ],
+  "timestamp": "2026-09-01T15:03:42.666357824Z",
+  "model": "glm-5.3"
+}

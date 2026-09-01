@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 78:38",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 78,
+  "translation": "Və ⟨O⟩ rəhimlidir, günahı bağışlayır və məhv etmir, və qəzəbini çox dəfə geri qaytarır və bütün hirsini oyatmir.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "və ⟨O⟩"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "rəhimlidir"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "bağışlayır"
+    },
+    {
+      "surface": "עון",
+      "gloss": "günahı"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "ישחית",
+      "gloss": "məhv edir"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "və çox ⟨dəfə⟩"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "geri qaytarır"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "qəzəbini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "oyatmir"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "hirsini"
+    }
+  ],
+  "timestamp": "2026-09-01T15:26:19.252569210Z",
+  "model": "glm-5.3"
+}

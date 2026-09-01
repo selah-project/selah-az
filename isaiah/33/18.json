@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 33:18",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "Ürəyin dəhşəti düşünəcək: haradadır yazıçı? haradadır çəkən? haradadır qüllələri ⟨את⟩ sayan?",
+  "tokens": [
+    {
+      "surface": "לבך",
+      "gloss": "ürəyin"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "düşünəcək"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "dəhşəti"
+    },
+    {
+      "surface": "איה",
+      "gloss": "haradadır"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "yazıçı?"
+    },
+    {
+      "surface": "איה",
+      "gloss": "haradadır"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "çəkən?"
+    },
+    {
+      "surface": "איה",
+      "gloss": "haradadır"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "sayan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qüllələri"
+    },
+    {
+      "surface": "המגדלים",
+      "gloss": "qüllələri"
+    }
+  ],
+  "timestamp": "2026-09-01T13:00:55.014467015Z",
+  "model": "glm-5.3"
+}

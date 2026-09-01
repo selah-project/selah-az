@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Paltarın üzərində köhnəmədi, ayağın şişmədi — bu qırx il.",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "paltarın"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "köhnəmədi"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "üzərində"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "ayağın"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "şişmədi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "qırx"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "il"
+    }
+  ],
+  "timestamp": "2026-09-01T10:49:53.702866582Z",
+  "model": "glm-5.3"
+}

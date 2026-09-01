@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 10:9",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Tamlıqla gəzən təhlükəsiz gəzər, yollarını əyrildən ⟨isə⟩ məlum olunar.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "gəzən"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "tamlıqla"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "gəzər"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "təhlükəsiz"
+    },
+    {
+      "surface": "ומעקש",
+      "gloss": "və əyrildən"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "yollarını"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "məlum olunar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:50:52.039429606Z",
+  "model": "glm-5.3"
+}

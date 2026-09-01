@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Lo-Ruhamah-ı ⟨את⟩ süddən kəsdi, və hamilə qaldı və oğlan doğdu.",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "süddən kəsdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lo-Ruhamah-ı"
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Lo-Ruhamah"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "hamilə qaldı"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "doğdu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlan"
+    }
+  ],
+  "timestamp": "2026-09-01T14:34:43.287586819Z",
+  "model": "glm-5.3"
+}

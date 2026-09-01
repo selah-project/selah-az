@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Gülüş barədə dedim: ⟨o⟩ dəlidir; sevinc barədə ⟨ise⟩: bu nə edir?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "gülüş barədə"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "dedim"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "dəlidir"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "sevinc barədə"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "edir"
+    }
+  ],
+  "timestamp": "2026-09-01T17:45:23.274412172Z",
+  "model": "glm-5.3"
+}

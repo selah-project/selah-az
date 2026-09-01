@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 23:30",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Şərabın yanında gecələyənlərdə, qarışıq şərab axtarmağa gələnlərdə ⟨dir⟩.",
+  "tokens": [
+    {
+      "surface": "למאחרים",
+      "gloss": "gecələyənlərdə"
+    },
+    {
+      "surface": "על",
+      "gloss": "yanında"
+    },
+    {
+      "surface": "היין",
+      "gloss": "şərabın"
+    },
+    {
+      "surface": "לבאים",
+      "gloss": "gələnlərdə"
+    },
+    {
+      "surface": "לחקר",
+      "gloss": "axtarmağa"
+    },
+    {
+      "surface": "ממסך",
+      "gloss": "qarışıq şərab"
+    }
+  ],
+  "timestamp": "2026-09-01T15:58:19.572821627Z",
+  "model": "glm-5.3"
+}

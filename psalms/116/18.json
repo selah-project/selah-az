@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 116:18",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 116,
+  "translation": "Nəzirlərimi Yahveyə ödəyəcəyəm, İndi, bütün xalqının önündə.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "nəzirlərimi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "ödəyəcəyəm"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "önündə"
+    },
+    {
+      "surface": "נא",
+      "gloss": "İndi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bütün ... üçün"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "xalqının"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:38.087642487Z",
+  "model": "glm-5.3"
+}

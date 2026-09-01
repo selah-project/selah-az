@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 106,
+  "translation": "Atalarımız Mitsrayimdə möcüzələrini qavramadılar, ⟨את⟩ hesedlərinin çoxluğunu xatırlamadılar, Qamış dənizində, dənizin yanında üsyan etdilər.",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "atalarımız"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayimdə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "qavramadılar"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "möcüzələrini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "xatırlamadılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hesedlərinin çoxluğunu"
+    },
+    {
+      "surface": "רב",
+      "gloss": "çoxluğunu"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "hesedlərinin"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "üsyan etdilər"
+    },
+    {
+      "surface": "על",
+      "gloss": "yanında"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dənizin"
+    },
+    {
+      "surface": "בים",
+      "gloss": "dənizində"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Qamış"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:00.980510883Z",
+  "model": "glm-5.3"
+}

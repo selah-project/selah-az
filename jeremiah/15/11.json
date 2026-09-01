@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 15:11",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Yahve dedi: Xeyir üçün sənin azadlığını ⟨qorumadımmı⟩? Şər vaxtında və sıxıntı vaxtında sənin üçün ⟨את⟩ düşmənlə rastlaşmadımmı?",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨qorumadımmı⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "שרותך",
+      "gloss": "sənin azadlığını"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "xeyir üçün"
+    },
+    {
+      "surface": "אם",
+      "gloss": "rastlaşmadımmı"
+    },
+    {
+      "surface": "לוא",
+      "gloss": ""
+    },
+    {
+      "surface": "הפגעתי",
+      "gloss": "rastlaşdım"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sənin üçün"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "vaxtında"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "şər"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "və ... vaxtında"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "sıxıntı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "düşmən"
+    },
+    {
+      "surface": "האיב",
+      "gloss": "düşmən"
+    }
+  ],
+  "timestamp": "2026-09-01T13:30:02.004595464Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "genesis 24:50",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Lavan və Betuel cavab verdilər və dedilər: «Söz Yahvedən çıxıb; biz sənə pis və ya yaxşı danışa bilmərik.»",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "cavab verdi"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "ובתואל",
+      "gloss": "və Betuel"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "və dedilər"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Yahvedən"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "çıxıb"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "söz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "bacarmırıq"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "danışa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pis"
+    },
+    {
+      "surface": "או",
+      "gloss": "və ya"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşı"
+    }
+  ],
+  "timestamp": "2026-09-01T09:53:00.355994876Z",
+  "model": "glm-5.3"
+}

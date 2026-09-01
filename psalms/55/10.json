@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 55,
+  "translation": "Udit, ya Adonay, böl ⟨onların⟩ dillərini, çünki zor və dava gördüm şəhərdə.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "Udit"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ya Adonay"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "böl"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "dillərini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "gördüm"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "zor"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "və dava"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "şəhərdə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:17:58.508811523Z",
+  "model": "glm-5.3"
+}

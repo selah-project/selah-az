@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joel 1:16",
+  "book": "joel",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Məgər gözümüzün önündə yemək kəsilməyibmi? Elohimimizin evindən sevinc ⟨və⟩ şadlıq ⟨kəsilməyibmi⟩?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Məgər ... -mı"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "önündə"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "gözümüzün"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yemək"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "kəsilməyibmi"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "evindən"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimizin"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "sevinc"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "və şadlıq"
+    }
+  ],
+  "timestamp": "2026-09-01T14:39:16.932669032Z",
+  "model": "glm-5.3"
+}

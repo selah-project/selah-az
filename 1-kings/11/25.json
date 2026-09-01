@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 11:25",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Və ⟨o⟩ Şelomonun bütün günlərində İsrailə qarşı bir şətan oldu, HaDadın etdiyi pislikdən ⟨əlavə⟩; və İsraildən iyrəndi və Aram üzərində hökmranlıq etdi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Və … oldu"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "şətan (düşmən)"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "İsrailə qarşı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "günlərində"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomonun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "HaDadın etdiyi pisliyi"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "pislik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "HaDadın"
+    },
+    {
+      "surface": "ויקץ",
+      "gloss": "iyrəndi"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "İsraildən"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "hökmranlıq etdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərində"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-09-01T12:19:50.104203658Z",
+  "model": "glm-5.3"
+}

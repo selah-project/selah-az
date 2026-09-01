@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 109,
+  "translation": "Mənim sevgimə qarşı məni ittiham etdilər, mən isə dua ⟨idim⟩.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "qarşılığında"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "mənim sevgimə"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "məni ittiham etdilər"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "və mən"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "dua ⟨idim⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:13.602263388Z",
+  "model": "glm-5.3"
+}

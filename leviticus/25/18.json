@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 25:18",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Və Mənim qanunlarımı ⟨את⟩ yerinə yetirin, və Mənim hökmlərimi ⟨את⟩ qoruyub saxlayın, və ⟨את⟩ onları yerinə yetirin, və ölkənin üstündə arxayın yaşayın.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "və yerinə yetirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mənim qanunlarımı"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "Mənim qanunlarımı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "Mənim hökmlərimi"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "Mənim hökmlərimi"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "qoruyub saxlayın"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "və yerinə yetirin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onları"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "və yaşayın"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ölkənin"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "arxayın"
+    }
+  ],
+  "timestamp": "2026-09-01T10:31:01.034928612Z",
+  "model": "glm-5.3"
+}

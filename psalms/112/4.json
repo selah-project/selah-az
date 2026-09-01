@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 112,
+  "translation": "Qaranlıqda düz adamlar üçün işıq doğdu — lütfkar, rəhimli və saleh olan ⟨kimdir⟩.",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "doğdu"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "qaranlıqda"
+    },
+    {
+      "surface": "אור",
+      "gloss": "işıq"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "düz adamlar üçün"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "lütfkar"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "və rəhimli"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "və saleh"
+    }
+  ],
+  "timestamp": "2026-09-01T15:37:45.847110728Z",
+  "model": "glm-5.3"
+}

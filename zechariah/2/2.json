@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və mənim içimdə danışan mələyə dedim: bunlar nədir? Və mənə dedi: bunlar ⟨את⟩ Yehudanı, ⟨את⟩ İsraili və Yeruşalayımı səpələmiş buynuzlardır.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "dedim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "‑a"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "mələyə"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "danışan"
+    },
+    {
+      "surface": "בי",
+      "gloss": "içimdə"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bunlar"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bunlar"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "buynuzlar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "səpələdilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehudanı"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudanı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsraili"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsraili"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "və Yeruşalayımı"
+    }
+  ],
+  "timestamp": "2026-09-01T14:55:42.261577784Z",
+  "model": "glm-5.3"
+}

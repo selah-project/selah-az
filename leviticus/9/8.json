@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Və yaxınlaşdı Ahron qurbangaha və kəsdi ⟨את⟩ özünə məxsus günah buzağını.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "və yaxınlaşdı"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahron"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "qurbangah"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "və kəsdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "günah buzağını"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "buğa"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "günah qurbanı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona məxsus"
+    }
+  ],
+  "timestamp": "2026-09-01T10:24:48.324714094Z",
+  "model": "glm-5.3"
+}

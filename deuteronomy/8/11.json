@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 8:11",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Özünü qoru ki, mənim bu gün sənə əmr etdiyim onun əmrlərini, hökmlərini və qanunlarını görməyərək Yahve sənin Elohimini ⟨את⟩ unutmayasan.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "qoru"
+    },
+    {
+      "surface": "לך",
+      "gloss": "özünü"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ki… yox"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "unutmayasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve sənin Elohimini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sənin Elohimin"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "görməmək üçün"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "görmə"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "onun əmrlərini"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "və hökmlərini"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "və qanunlarını"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mən"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "sənə əmr edirəm"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bu gün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:48:59.506628946Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 2:2",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və mənim içimə ruah girdi, ⟨onun⟩ mənimlə danışdığı ⟨kimi⟩, və məni ayaqlarımın üstündə duruzdurdu, və mən eşitdim ⟨את⟩ mənimlə danışanı.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "və girdi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mənim içimə"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "⟨kimi⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "danışdığı"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənimlə"
+    },
+    {
+      "surface": "ותעמדני",
+      "gloss": "və məni duruzdurdu"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ayaqlarımın"
+    },
+    {
+      "surface": "ואשמע",
+      "gloss": "və mən eşitdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mənimlə danışanı"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "danışanı"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənimlə"
+    }
+  ],
+  "timestamp": "2026-09-01T14:01:11.088718673Z",
+  "model": "glm-5.3"
+}

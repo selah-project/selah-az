@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 30:13",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Və Lea dedi: Necə xoşbəxtəm, çünki qızlar məni xoşbəxt adlandıracaq; və onun adını Aşer qoydu.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "באשרי",
+      "gloss": "xoşbəxtliyimlə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אשרוני",
+      "gloss": "məni xoşbəxt adlandıracaq"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "qızlar"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "və qoydu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onun adını"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "onun adını"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Aşer"
+    }
+  ],
+  "timestamp": "2026-09-01T09:55:20.204981191Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 21:14",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Və əgər bir adam yoldaşının üstünə hiylə ilə onu öldürmək üçün qəsd edərsə, Mənim qurbangahımın yanından onu ölüm üçün apar.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "יזד",
+      "gloss": "qəsd edərsə"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir adam"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "yoldaşının"
+    },
+    {
+      "surface": "להרגו",
+      "gloss": "onu öldürmək üçün"
+    },
+    {
+      "surface": "בערמה",
+      "gloss": "hiylə ilə"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "yanından"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "Mənim qurbangahımın"
+    },
+    {
+      "surface": "תקחנו",
+      "gloss": "onu apar"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ölüm üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:14:18.042094242Z",
+  "model": "glm-5.3"
+}

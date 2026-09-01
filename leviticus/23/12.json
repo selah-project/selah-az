@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 23:12",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "⟨את⟩ omer dəstini dalğalandırdığınız gün kamil, bir yaşında quzunu Yahve üçün yandırma qurbanı ⟨kimi⟩ qəbul edəcəksiniz.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "və edəcəksiniz"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "הניפכם",
+      "gloss": "dalğalandırdığınız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omer dəstini"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "omer dəsti"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "quzu"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "kamil"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "bir yaşının"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "yandırma qurbanı"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:29:36.030551038Z",
+  "model": "glm-5.3"
+}

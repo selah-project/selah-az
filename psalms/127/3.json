@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 127,
+  "translation": "Bax, oğullar Yahvenin irsi ⟨qidir⟩; bətnin meyvəsi ⟨⟨is⟩⟩ mükafatdır.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "irsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oğullar"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "mükafat"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "meyvə"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "bətnin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:43:33.101050972Z",
+  "model": "glm-5.3"
+}

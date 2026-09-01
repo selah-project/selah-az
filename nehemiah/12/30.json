@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Kohanimlər və Levililər təmizləndilər, və ⟨את⟩ xalqı, ⟨את⟩ qapıları və ⟨את⟩ divarı təmizlədilər.",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "təmizləndilər"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "Kohanimlər"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "və Levililər"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "təmizlədilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qapıları"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "qapıları"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "divarı"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "divarı"
+    }
+  ],
+  "timestamp": "2026-09-01T16:59:13.704137629Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 46:4",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 46,
+  "translation": "Və qocalığına qədər Mən Oyam, və ağ saçına qədər Mən daşıyacağam; Mən yaratdım, və Mən daşıyacağam, Mən daşıyacağam və qurtaracağam.",
+  "tokens": [
+    {
+      "surface": "ועד",
+      "gloss": "və ... qədər"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "qocalığına"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "O"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "və ... qədər"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "ağ saçına"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "אסבל",
+      "gloss": "daşıyacağam"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "yaratdım"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "və Mən"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "daşıyacağam"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "və Mən"
+    },
+    {
+      "surface": "אסבל",
+      "gloss": "daşıyacağam"
+    },
+    {
+      "surface": "ואמלט",
+      "gloss": "və qurtaracağam"
+    }
+  ],
+  "timestamp": "2026-09-01T13:10:33.041390606Z",
+  "model": "glm-5.3"
+}

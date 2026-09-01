@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "Və İsrail oğulları ⟨את⟩ bəzəklərini Horev dağından ⟨etibarən⟩ soyundular.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "soyundular"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bəzəklərini"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "bəzəklərini"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "dağından"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "Horev"
+    }
+  ],
+  "timestamp": "2026-09-01T10:19:23.160968526Z",
+  "model": "glm-5.3"
+}

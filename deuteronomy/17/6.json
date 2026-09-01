@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 17:6",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "İki şahidin və ya üç şahidin ağzı ilə öləcək, ölümə məhkum olan; tək bir şahidin ağzı ilə ölməyəcək.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "-"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzı ilə"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iki"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "şahidin"
+    },
+    {
+      "surface": "או",
+      "gloss": "və ya"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "üç"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "şahidin"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "öləcək"
+    },
+    {
+      "surface": "המת",
+      "gloss": "ölümə məhkum olan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ölməyəcək"
+    },
+    {
+      "surface": "על",
+      "gloss": "-"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzı ilə"
+    },
+    {
+      "surface": "עד",
+      "gloss": "şahidin"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tək bir"
+    }
+  ],
+  "timestamp": "2026-09-01T10:52:46.519338267Z",
+  "model": "glm-5.3"
+}

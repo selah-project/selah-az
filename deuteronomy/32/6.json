@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 32:6",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Yahveyə beləmi yaraşdırırsınız, ey nadan və müdriksiz xalq? Məgər O, sənin atan deyilmi, səni qazanan O? Səni O yaratdı və səni bərqərar etdi.",
+  "tokens": [
+    {
+      "surface": "ה",
+      "gloss": "məgər"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "תגמלו",
+      "gloss": "yaraşdırırsınız"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "belə"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nadan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "müdriksiz"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "məgər... deyilmi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "O"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "sənin atan"
+    },
+    {
+      "surface": "קנך",
+      "gloss": "səni qazanan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "O"
+    },
+    {
+      "surface": "עשך",
+      "gloss": "yaratdı"
+    },
+    {
+      "surface": "ויכננך",
+      "gloss": "bərqərar etdi"
+    }
+  ],
+  "timestamp": "2026-09-01T10:58:35.906571162Z",
+  "model": "glm-5.3"
+}

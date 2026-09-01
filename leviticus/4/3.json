@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 4:3",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "⟨Əgər⟩ məsh olunmuş kohen günah etsə, xalqın günahına görə, öz günahına görə — hansını ki işlətdi — buğanın balası, qüsürsüz, Yahveyə günah qurbanı olaraq gətirsin.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "⟨Əgər⟩"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen (kahin)"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "məsh olunmuş"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "günah etsə"
+    },
+    {
+      "surface": "לאשמת",
+      "gloss": "günahına görə (töhmətinə)"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqın"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "gətirsin"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ə görə"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "öz günahına"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hansını ki"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "işlətdi"
+    },
+    {
+      "surface": "פר",
+      "gloss": "buğa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "balası"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "mal (qaramal)"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "qüsürsüz"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "günah qurbanı olaraq"
+    }
+  ],
+  "timestamp": "2026-09-01T10:22:56.099975072Z",
+  "model": "glm-5.3"
+}

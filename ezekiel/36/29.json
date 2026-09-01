@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezekiel 36:29",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 36,
+  "translation": "Və sizi bütün murdarlıqlarınızdan xilas edəcəyəm ⟨את⟩; dənə çağırış edəcəyəm və onu artıracağam ⟨את⟩, və sizin üstünüze aclıq verməyəcəyəm.",
+  "tokens": [
+    {
+      "surface": "והושעתי",
+      "gloss": "xilas edəcəyəm"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ siz",
+      "marks": "sizi (bütün murdarlıqlarınızdan)"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bütün ... -dan"
+    },
+    {
+      "surface": "טמאותיכם",
+      "gloss": "murdarlıqlarınız"
+    },
+    {
+      "surface": "וקראתי",
+      "gloss": "çağırış edəcəyəm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a doğru"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "dənə"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "artıracağam"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "dənəni (onu artıracağam)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "verəcəyəm"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sizin üstünüze"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "aclıq"
+    }
+  ],
+  "timestamp": "2026-09-01T18:01:21.534729195Z",
+  "model": "glm-5.3"
+}

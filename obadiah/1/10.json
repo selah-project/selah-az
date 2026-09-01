@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "obadiah 1:10",
+  "book": "obadiah",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Qardaşın Yaaquba ⟨qarşı⟩ zorakılığına görə utanc səni örtəcək və sən əbədi kəsiləcəksən.",
+  "tokens": [
+    {
+      "surface": "מחמס",
+      "gloss": "zorakılığına görə"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "qardaşın"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaqub"
+    },
+    {
+      "surface": "תכסך",
+      "gloss": "səni örtəcək"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "utanc"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "və kəsiləcəksən"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədi"
+    }
+  ],
+  "timestamp": "2026-09-01T14:44:20.694096252Z",
+  "model": "glm-5.3"
+}

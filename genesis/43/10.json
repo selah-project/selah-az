@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 43:10",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 43,
+  "translation": "Çünki əgər gecikməsəydik, indi ikinci dəfə qayıtmış olardıq.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "לולא",
+      "gloss": "əgər ... məsəydik"
+    },
+    {
+      "surface": "התמהמהנו",
+      "gloss": "gecikməsəydik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "həqiqətən"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "indi"
+    },
+    {
+      "surface": "שבנו",
+      "gloss": "qayıtmış olardıq"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ikinci dəfə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:01:23.639591947Z",
+  "model": "glm-5.3"
+}

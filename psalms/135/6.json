@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 135,
+  "translation": "Yahvenin istədiyi hər şeyi göylərdə və yerdə, dənizlərdə və bütün dərinliklərdə ⟨o⟩ etdi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hər şeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki, istədiyi"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "istədiyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etdi"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "göylərdə"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "və yerdə"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "dənizlərdə"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "dərinliklərdə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:43:18.822795447Z",
+  "model": "glm-5.3"
+}

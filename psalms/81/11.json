@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 81,
+  "translation": "Mən ⟨idim⟩ Yahve, sənin Elohimin — səni Mitsrayim torpağından çıxaran; ağzını gen aç, mən onu dolduracağam.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sənin Elohimin"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "səni çıxaran"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "torpağından"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "gen aç"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ağzını"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "və mən onu dolduracağam"
+    }
+  ],
+  "timestamp": "2026-09-01T15:27:07.075737641Z",
+  "model": "glm-5.3"
+}

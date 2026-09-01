@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 3:12",
+  "book": "joshua",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "İndi isə özünüz üçün İsrailin qəbilələrindən on iki adam götürün — hər qəbiləyə bir adam, bir adam bir qəbiləyə.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "İndi isə"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "götürün"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "özünüz üçün"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iki"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "on"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "משבטי",
+      "gloss": "qəbilələrindən"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "qəbiləyə"
+    }
+  ],
+  "timestamp": "2026-09-01T11:01:31.281392514Z",
+  "model": "glm-5.3"
+}

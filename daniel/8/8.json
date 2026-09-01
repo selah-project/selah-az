@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 8:8",
+  "book": "daniel",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və keçilər təkəsi çox böyükləndi; və ⟨o⟩ güclü ikən böyük buynuz sındırıldı, və onun yerinə görünən dörd ⟨buynuz⟩ göyün dörd küləyinə tərəf qalxdı.",
+  "tokens": [
+    {
+      "surface": "וצפיר",
+      "gloss": "və təkəsi"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "keçilərin"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "böyükləndi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çox dərəcədə"
+    },
+    {
+      "surface": "וכעצמו",
+      "gloss": "güclü ikən"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "sındırıldı"
+    },
+    {
+      "surface": "הקרן",
+      "gloss": "buynuz"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "ותעלנה",
+      "gloss": "və qalxdı"
+    },
+    {
+      "surface": "חזות",
+      "gloss": "görünən"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "dörd"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "onun yerinə"
+    },
+    {
+      "surface": "לארבע",
+      "gloss": "dördə"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "küləyinə"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göyün"
+    }
+  ],
+  "timestamp": "2026-09-01T16:44:29.769616826Z",
+  "model": "glm-5.3"
+}

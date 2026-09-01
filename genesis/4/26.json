@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 4:26",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Şetə də ⟨oğul⟩ doğuldu və o, adını Enoş adlandırdı. O zaman Yahvenin adı ilə çağırmağa başlandı.",
+  "tokens": [
+    {
+      "surface": "ולשת",
+      "gloss": "Şetə"
+    },
+    {
+      "surface": "גם",
+      "gloss": "də"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "doğuldu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "adlandırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adını"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "adını"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enoş"
+    },
+    {
+      "surface": "אז",
+      "gloss": "o zaman"
+    },
+    {
+      "surface": "הוחל",
+      "gloss": "başlandı"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "çağırmağa"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "adı ilə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    }
+  ],
+  "timestamp": "2026-09-01T09:45:35.521969376Z",
+  "model": "glm-5.3"
+}

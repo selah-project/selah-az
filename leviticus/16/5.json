@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 16:5",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Və ⟨את⟩ İsrail oğullarının icmasından günah qurbanı üçün iki keçi tekəsi və yandırma qurbanı üçün bir qoç götürəcək.",
+  "tokens": [
+    {
+      "surface": "ומאת",
+      "gloss": "⟨את⟩",
+      "marks": "İsrail oğullarının icması"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "icması"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "götürəcək"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iki"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "tekəsi"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "keçi"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "günah qurbanı üçün"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "və bir qoç"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "yandırma qurbanı üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:28:07.863622981Z",
+  "model": "glm-5.3"
+}

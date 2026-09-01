@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 6:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Bütün düşmənlərim xəcalət çəksinlər və böyük dəhşətə düşsünlər; geri dönsünlər, bir anlıq xəcalət çəksinlər.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "xəcalət çəksinlər"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "və dəhşətə düşsünlər"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "düşmənlərim"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "geri dönsünlər"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "xəcalət çəksinlər"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "bir anlıq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:00:22.383229411Z",
+  "model": "glm-5.3"
+}

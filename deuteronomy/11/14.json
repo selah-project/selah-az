@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 11:14",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "onda Mən torpağınıza yağışını onun vaxtında verəcəyəm — erkən yağışı (yoreh) və gec yağışı (malkoş) — və dənənizi, şirənizi və yağınızı toplayacaqsınız;",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "verəcəyəm"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "yağış"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "torpağınıza"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "onun vaxtında"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "erkən yağış (yoreh)"
+    },
+    {
+      "surface": "ומלקוש",
+      "gloss": "və gec yağış (malkoş)"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "və toplayacaqsınız"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "dənənizi"
+    },
+    {
+      "surface": "ותירשך",
+      "gloss": "şirənizi"
+    },
+    {
+      "surface": "ויצהרך",
+      "gloss": "yağınızı"
+    }
+  ],
+  "timestamp": "2026-09-01T10:49:44.541347596Z",
+  "model": "glm-5.3"
+}

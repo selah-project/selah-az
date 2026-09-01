@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 25:40",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Muzdlu işçi kimi, müsafir kimi səninlə olacaq; Yovel ilinə qədər səninlə işləyəcək.",
+  "tokens": [
+    {
+      "surface": "כשכיר",
+      "gloss": "mazdlu işçi kimi"
+    },
+    {
+      "surface": "כתושב",
+      "gloss": "müsafir kimi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "səninlə"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ilinə"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "Yovel"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "işləyəcək"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "səninlə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:30:53.001268974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 18:15",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Sara yalan dedi, deyərək: «Mən gülmədim» — çünki qorxmuşdu. O isə dedi: «Xeyr, doğrudan da güldün.»",
+  "tokens": [
+    {
+      "surface": "ותכחש",
+      "gloss": "yalan dedi"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "צחקתי",
+      "gloss": "gülmədim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "qorxmuşdu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "xeyr"
+    },
+    {
+      "surface": "כי",
+      "gloss": "doğrudan da"
+    },
+    {
+      "surface": "צחקת",
+      "gloss": "güldün"
+    }
+  ],
+  "timestamp": "2026-09-01T09:50:26.087096846Z",
+  "model": "glm-5.3"
+}

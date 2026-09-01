@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 144,
+  "ref": "psalms 119:144",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Sənin şəhadətlərinin salehliyi əbədidir; mənə anlama ver ⟨ki⟩ yaşayım.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "salehliyi"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "Sənin şəhadətlərinin"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədidir"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "mənə anlama ver"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "⟨ki⟩ yaşayım"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:54.021948121Z",
+  "model": "glm-5.3"
+}

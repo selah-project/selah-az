@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Düşmən tükəndi, xarabalıqlar əbədi ⟨qaldı⟩, ⟨onların⟩ şəhərlərini söküb atdın, onların xatirəsi onlarla birlikdə məhv oldu.",
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "düşmən"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "tükəndi"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "xarabalıqlar"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "və şəhərlərini"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "söküb atdın"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "məhv oldu"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "onların xatirəsi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "onlarla birlikdə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:03:52.715880071Z",
+  "model": "glm-5.3"
+}

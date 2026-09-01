@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 81,
+  "translation": "Qaldırın zəmrə, çalın təbil, şirin könor nəblə birlikdə.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "qaldırın"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "zəmrə"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "çalın"
+    },
+    {
+      "surface": "תף",
+      "gloss": "təbil"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "könor"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "şirin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "birlikdə"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nəblə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:27:43.338162176Z",
+  "model": "glm-5.3"
+}

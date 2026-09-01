@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 5:15",
+  "book": "lamentations",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Ürəyimizin sevinci sona çatdı, rəqsimiz matəmə çevrildi.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "sona çatdı"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "sevinci"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "Ürəyimizin"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "çevrildi"
+    },
+    {
+      "surface": "לאבל",
+      "gloss": "matəmə"
+    },
+    {
+      "surface": "מחלנו",
+      "gloss": "rəqsimiz"
+    }
+  ],
+  "timestamp": "2026-09-01T16:28:32.155307946Z",
+  "model": "glm-5.3"
+}

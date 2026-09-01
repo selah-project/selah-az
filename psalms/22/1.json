@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Xor rəhbərinə, «Şəfəq Gəziyi» üzərinə, Dəvudun məzmunu.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "xor rəhbərinə"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Gəzik"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "Şəfəq"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "məzmun"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dəvudun"
+    }
+  ],
+  "timestamp": "2026-09-01T15:07:09.720395049Z",
+  "model": "glm-5.3"
+}

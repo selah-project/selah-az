@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 42:23",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 42,
+  "translation": "Sizlərdən kim bunu eşidəcək? Kim qulaq asıb gələcəkdə ⟨bunu⟩ dinləyəcək?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "sizlərdən"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "eşidəcək"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bunu"
+    },
+    {
+      "surface": "יקשב",
+      "gloss": "qulaq asıb"
+    },
+    {
+      "surface": "ושמעו וישמע",
+      "gloss": "dinləyəcək"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "gələcəkdə"
+    }
+  ],
+  "timestamp": "2026-09-01T13:07:17.220764765Z",
+  "model": "glm-5.3"
+}

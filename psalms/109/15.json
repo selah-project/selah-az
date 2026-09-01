@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 109,
+  "translation": "Onlar Yahve qarşısında daima olsunlar, və O, onların yadigarını yerdən kəssin.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "olsunlar"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "qarşısında"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daima"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "və kəssin"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yerdən"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "onların yadigarı"
+    }
+  ],
+  "timestamp": "2026-09-01T17:42:55.092300208Z",
+  "model": "glm-5.3"
+}

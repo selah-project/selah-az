@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 2:6",
+  "book": "song-of-songs",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Onun sol ⟨əli⟩ başımın altındadır, sağ ⟨əli⟩ isə məni qucaqlayır.",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "onun solu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "başımın"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "və onun sağ"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "məni qucaqlayır"
+    }
+  ],
+  "timestamp": "2026-09-01T16:21:41.228861914Z",
+  "model": "glm-5.3"
+}

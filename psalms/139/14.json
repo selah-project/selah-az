@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 139:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 139,
+  "translation": "Səni tərifləyirəm, çünki qorxulu şəkildə fərqləndirilmişəm; əsərlərin heyranedicidir, və canım bunu çox yaxşı bilir.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Səni tərifləyirəm"
+    },
+    {
+      "surface": "על",
+      "gloss": "çünki ⟨buna görə⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "qorxulu şəkildə"
+    },
+    {
+      "surface": "נפליתי",
+      "gloss": "fərqləndirilmişəm"
+    },
+    {
+      "surface": "נפלאים",
+      "gloss": "heyranedicidir"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "əsərlərin"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "və canım"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "bilir"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çox yaxşı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:44:47.136360199Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 12:12",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Və ⟨bunlardan⟩ artıq, oğlum, öyüd al: çox kitab yazmağın sonu yoxdur və çox danışıq ətdə yorğunluqdur.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "və artıq"
+    },
+    {
+      "surface": "מהמה",
+      "gloss": "⟨bunlardan⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğlum"
+    },
+    {
+      "surface": "הזהר",
+      "gloss": "öyüd al"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "yazmağın"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "kitab"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "çox"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "sonu"
+    },
+    {
+      "surface": "ולהג",
+      "gloss": "və danışıq"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "çox"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "yorğunluqdur"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ətdə"
+    }
+  ],
+  "timestamp": "2026-09-01T16:33:23.373112337Z",
+  "model": "glm-5.3"
+}

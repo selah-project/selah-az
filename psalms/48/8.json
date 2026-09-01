@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 48,
+  "translation": "Şərq küləyi ilə Tarşiş gəmilərini sındırırsan.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "küləyi ilə"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "şərq"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "sındırırsan"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "gəmilərini"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarşiş"
+    }
+  ],
+  "timestamp": "2026-09-01T15:15:48.805740623Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 55:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 55,
+  "translation": "Sənsənsə ⟨elm⟩, mənim tayım, mənim yoldaşım və tanışım.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "sənsənsə"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "insan"
+    },
+    {
+      "surface": "כערכי",
+      "gloss": "mənim tayım kimi"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "mənim yoldaşım"
+    },
+    {
+      "surface": "ומידעי",
+      "gloss": "və tanışım"
+    }
+  ],
+  "timestamp": "2026-09-01T15:18:36.334482311Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 20:15",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Və Avimelex dedi: bax, torpağım önünddür; gözünə necə yaxşı gələrsə, otur.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelex"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "torpağım"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "önünddür"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "yaxşı"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "gözünə"
+    },
+    {
+      "surface": "שב",
+      "gloss": "otur"
+    }
+  ],
+  "timestamp": "2026-09-01T09:51:49.514796529Z",
+  "model": "glm-5.3"
+}

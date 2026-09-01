@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 27:14",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Və ⟨bir⟩ adam öz evini Yahveyə müqəddəs olaraq təqdis etsə, kohen onu yaxşı ilə pis arasında qiymətləndirsin; kohen onu necə qiymətləndirərsə, elə də ⟨o⟩ qərar tutsun.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Və ⟨bir⟩ adam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-sa"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "təqdis etsə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öz evini"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "öz evini"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "müqəddəs olaraq"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "והעריכו",
+      "gloss": "onu qiymətləndirsin"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşı"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pis"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "necə"
+    },
+    {
+      "surface": "יעריך",
+      "gloss": "qiymətləndirərsə"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "elə"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "qərar tutsun"
+    }
+  ],
+  "timestamp": "2026-09-01T10:32:24.162765113Z",
+  "model": "glm-5.3"
+}

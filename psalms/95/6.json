@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 95,
+  "translation": "Gəlin, səcdə edək və diz çökək, Yaradanımız Yahvenin hüzurunda dizimizi bükək.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Gəlin"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "səcdə edək"
+    },
+    {
+      "surface": "ונכרעה",
+      "gloss": "diz çökək"
+    },
+    {
+      "surface": "נברכה",
+      "gloss": "dizimizi bükək"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hüzurunda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "Yaradanımız"
+    }
+  ],
+  "timestamp": "2026-09-01T15:32:50.711985443Z",
+  "model": "glm-5.3"
+}

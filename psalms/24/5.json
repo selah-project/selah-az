@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "O, Yahvedən bərəkət, öz xilası Elohindən ədalət qazanacaq.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "qazanacaq"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "bərəkət"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "bərəkət"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ədalət"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "Elohindən"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "öz xilası"
+    }
+  ],
+  "timestamp": "2026-09-01T15:08:59.859744698Z",
+  "model": "glm-5.3"
+}

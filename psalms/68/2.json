@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 68,
+  "translation": "Qalxsın Elohim, səpələnsin düşmənləri, Ondan nifrət edənlər Onun üzü önündən qaçsınlar.",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "qalxsın"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "səpələnsin"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "düşmənləri"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "qaçsınlar"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "Ondan nifrət edənlər"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "Onun üzü önündən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:22:06.835465714Z",
+  "model": "glm-5.3"
+}

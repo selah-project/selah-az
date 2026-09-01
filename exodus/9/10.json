@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 9:10",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Onlar sobanın külünü götürdülər və Paronun önündə dayandılar və Moşe onu göyə doğru səpdi və insanlarda və heyvanlarda qabarcıqları partlayıb çıxan yaralar oldu.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "götürdülər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "külü"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "kül"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "sobanın"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "dayandılar"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önündə"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "səpdi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "külü"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "göyə doğru"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "yara"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "qabarcıqları"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "partlayıb çıxan"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "insanda"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "və heyvanda"
+    }
+  ],
+  "timestamp": "2026-09-01T10:07:06.667343237Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 26:4",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "onda yağışlarınızı vaxtında verəcəyəm və yer məhsulunu verəcək və tarlanın ağacı meyvəsini verəcək.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "verəcəyəm"
+    },
+    {
+      "surface": "גשמיכם",
+      "gloss": "yağışlarınızı"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "vaxtında"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "verəcək"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "məhsulunu"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "ağacı"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tarlanın"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "verəcək"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "meyvəsini"
+    }
+  ],
+  "timestamp": "2026-09-01T10:31:26.749388926Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 39:21",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 39,
+  "translation": "Və xoşeni onun üzüklərindən e fodun üzüklərinə göy fıtılla bağladılar ki, e fodun heyşebi üstündə olsun və xoşen e foddan sürüşüb ayrılmasın — Yahve Moşeyə əmr etdiyi kimi ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וירכסו",
+      "gloss": "bağladılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xoşen"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "xoşen"
+    },
+    {
+      "surface": "מטבעתיו",
+      "gloss": "onun üzüklərindən"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ın üzüklərinə"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "üzüklərinə"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "e fodun"
+    },
+    {
+      "surface": "בפתיל",
+      "gloss": "fıtılla"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "göy"
+    },
+    {
+      "surface": "להית",
+      "gloss": "olsun ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "heyşebi"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "e fodun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və... olmasın"
+    },
+    {
+      "surface": "יזח",
+      "gloss": "sürüşüb ayrılmasın"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "xoşen"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "e foddan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "əmr etdiyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşeyə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:21:54.458269948Z",
+  "model": "glm-5.3"
+}

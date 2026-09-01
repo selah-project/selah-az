@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 85,
+  "translation": "Əmət yerdən cücərəcək, ədalət isə göylərdən aşağı baxacaq.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "Əmət"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yerdən"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "cücərəcək"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "ədalət isə"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "göylərdən"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "aşağı baxacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:27.540969674Z",
+  "model": "glm-5.3"
+}

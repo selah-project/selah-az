@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 21:3",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Avraham öz oğlunun, ona doğulanın adını — Saranın ona doğduğu — İsxak adlandırdı.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "adlandırdı"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adını"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adını"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "öz oğlunun"
+    },
+    {
+      "surface": "הנולד",
+      "gloss": "doğulanın"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "doğduğu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Saranın"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "İsxak"
+    }
+  ],
+  "timestamp": "2026-09-01T09:51:43.207142874Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 13:7",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Və mən Perata getdim və qazdım və kəməri götürdüm — ⟨את⟩ kəməri onu gizlətdiyim yerdən; və bax, kəmər pozulmuşdu, heç bir işə yaramırdı.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "və getdim"
+    },
+    {
+      "surface": "פרתה",
+      "gloss": "Perata"
+    },
+    {
+      "surface": "ואחפר",
+      "gloss": "və qazdım"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "və götürdüm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kəməri"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "kəməri"
+    },
+    {
+      "surface": "מן",
+      "gloss": "yerdən"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "⟨o⟩ yer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "טמנתיו",
+      "gloss": "onu gizlətdiyim"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "orada"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "və bax"
+    },
+    {
+      "surface": "נשחת",
+      "gloss": "pozulmuşdu"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "kəmər"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "yaramırdı"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "heç bir işə"
+    }
+  ],
+  "timestamp": "2026-09-01T13:30:14.990471981Z",
+  "model": "glm-5.3"
+}

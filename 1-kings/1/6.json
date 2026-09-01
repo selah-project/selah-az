@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 1:6",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və atası onu bütün günlərində «Niyə belə etdin?» deyərək kədərləndirməmişdi; həm də o çox yaxşı simalı idi, və onu ⟨את⟩ Avşalomdan sonra anası doğdu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "və... yox"
+    },
+    {
+      "surface": "עצבו",
+      "gloss": "kədərləndirməmişdi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atası"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "bütün günlərində"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Niyə"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "belə"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "etdin"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "həm də"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşı"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "simalı"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çox"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu (doğulmuş uşağı)"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "doğdu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sonra"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avşalom"
+    }
+  ],
+  "timestamp": "2026-09-01T17:34:03.484285450Z",
+  "model": "glm-5.3"
+}

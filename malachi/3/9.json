@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "malachi 3:9",
+  "book": "malachi",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Lənətlə lənətlənirsiniz, və ⟨את⟩ məni siz aldadırsınız — ⟨bütün⟩ xalq ⟨onun hamısı⟩.",
+  "tokens": [
+    {
+      "surface": "במארה",
+      "gloss": "lənətlə"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "נארים",
+      "gloss": "lənətlənirsiniz"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩ məni",
+      "marks": "məni"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "aldadırsınız"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "⟨bütün⟩ xalq"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "⟨onun hamısı⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T15:01:45.530932264Z",
+  "model": "glm-5.3"
+}

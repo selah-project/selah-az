@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Mişkan üçün dirəkləri də düzəldəcəksən — ⟨את⟩ şit ağacından, ayaq üstə duran.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "və düzəldəcəksən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dirəkləri"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "dirəkləri"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Mişkan üçün"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ağacından"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "şit"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "ayaq üstə duran"
+    }
+  ],
+  "timestamp": "2026-09-01T10:16:38.096513648Z",
+  "model": "glm-5.3"
+}

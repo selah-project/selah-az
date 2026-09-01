@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 5:25",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Və ⟨את⟩ günah qurbanını Yahvenin qarşısına gətirəcək — qoyundan qüsursuz bir qoç, sənin qiymətləndirmənə görə, günah qurbanı olaraq, kahinə.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "günah qurbanını"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "günah qurbanını"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "gətirəcək"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvenin qarşısına"
+    },
+    {
+      "surface": "איל",
+      "gloss": "qoç"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "qüsursuz"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "qoyun"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "sənin qiymətləndirmənə görə"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "günah qurbanı olaraq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:22:57.509398549Z",
+  "model": "glm-5.3"
+}

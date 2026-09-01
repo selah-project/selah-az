@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Attai ⟨את⟩ Natanı doğdurdu, Natan isə ⟨את⟩ Zabadı doğdurdu.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "Attai"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "doğdurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Natanı"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natanı"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "Natan isə"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "doğdurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zabadı"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "Zabadı"
+    }
+  ],
+  "timestamp": "2026-09-01T17:00:25.619869523Z",
+  "model": "glm-5.3"
+}

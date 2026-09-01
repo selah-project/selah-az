@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 12:22",
+  "book": "job",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "O, dərinlikləri qaranlıqdan üzə çıxarır və ölüm kölgəsini işığa gətirir.",
+  "tokens": [
+    {
+      "surface": "מגלה",
+      "gloss": "üzə çıxarır"
+    },
+    {
+      "surface": "עמקות",
+      "gloss": "dərinlikləri"
+    },
+    {
+      "surface": "מני",
+      "gloss": "dan"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "qaranlıq"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "və gətirir"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "işığa"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "ölüm kölgəsini"
+    }
+  ],
+  "timestamp": "2026-09-01T16:07:32.486802500Z",
+  "model": "glm-5.3"
+}

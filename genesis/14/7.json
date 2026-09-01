@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 14:7",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "və geri qayıdıb En-Mişpata — o, Kadeşdir — gəldilər və ⟨את⟩ Amaleklinin bütün tarlasını, həmçinin Hatzetzon-Tamarda yaşayan ⟨את⟩ Amorilini döydülər.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "və qayıtdılar"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "və gəldilər"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "עין",
+      "gloss": "En-"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "Mişpata"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadeşdir"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "və döydülər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "tarlasını"
+    },
+    {
+      "surface": "העמלקי",
+      "gloss": "Amaleklinin"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "həmçinin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amorilini"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amorilini"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "yaşayan"
+    },
+    {
+      "surface": "בחצצן",
+      "gloss": "Hatzetzon-"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamarda"
+    }
+  ],
+  "timestamp": "2026-09-01T09:48:54.544239296Z",
+  "model": "glm-5.3"
+}

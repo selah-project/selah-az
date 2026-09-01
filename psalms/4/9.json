@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Sülhdə birlikdə uzanacağam və yatacağam, çünki sən, Yahve, tək ⟨sən⟩, əmin-amanlıqda məni sakin edirsən.",
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "sülhdə"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "birlikdə"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "uzanacağam"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "və yatacağam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "tək"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "əmin-amanlıqda"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "məni sakin edirsən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:00:08.759566802Z",
+  "model": "glm-5.3"
+}

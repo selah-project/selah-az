@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 7:11",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Va Efrayim ürəksiz aldanmış göyərçinə bənzədi: Mitsrayimə çağırdılar, Aşşura getdilər.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "va oldu"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "göyərçinə bənzədi"
+    },
+    {
+      "surface": "פותה",
+      "gloss": "aldanmış"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yox"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ürək"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimə"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "çağırdılar"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşşura"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "getdilər"
+    }
+  ],
+  "timestamp": "2026-09-01T14:36:00.905843467Z",
+  "model": "glm-5.3"
+}

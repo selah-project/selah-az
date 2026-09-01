@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 19:2",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Və Refidimdən yola düşdülər, və Sina çölünə gəldilər, və çöldə düşərgə saldılar; və orada Yisrael dağın qarşısında düşərgə saldı.",
+  "tokens": [
+    {
+      "surface": "ויסעu",
+      "gloss": "və yola düşdülər"
+    },
+    {
+      "surface": "מרפידים",
+      "gloss": "Refidimdən"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "və gəldilər"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "çölünə"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sina"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "və düşərgə saldılar"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "çöldə"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "və düşərgə saldı"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "qarşısında"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "dağın"
+    }
+  ],
+  "timestamp": "2026-09-01T10:11:34.298267645Z",
+  "model": "glm-5.3"
+}

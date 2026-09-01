@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 68,
+  "translation": "Elohim dağı ⟨odur⟩ — Bashan dağı; zirvələr dağı — Bashan dağı.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "dağı"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dağı"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dağı"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "zirvələr"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dağı"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:23:32.649774210Z",
+  "model": "glm-5.3"
+}

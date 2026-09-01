@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "⟨את⟩ əti və ⟨את⟩ dərini isə odda yandırdı, düşərgənin xaricində.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "əti"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "əti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dərini"
+    },
+    {
+      "surface": "העור",
+      "gloss": "dərini"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "yandırdı"
+    },
+    {
+      "surface": "באש",
+      "gloss": "odda"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "xaricində"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "düşərgənin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:24:19.781960998Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 45:3",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 45,
+  "translation": "Sən dedin: Vay mənə, əsla! Çünki Yahve kədərimin üstünə kədər qatdı; ahlarımdan tükəndim, amma rahatlıq tapmadım.",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "Sən dedin"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "Vay"
+    },
+    {
+      "surface": "נא",
+      "gloss": "əsla"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "qatdı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "kədər"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "מכאבי",
+      "gloss": "kədərimin"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "tükəndim"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "ahlarımdan"
+    },
+    {
+      "surface": "ומנוחה",
+      "gloss": "rahatlıq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "amma... yox"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "tapmadım"
+    }
+  ],
+  "timestamp": "2026-09-01T13:52:45.710857677Z",
+  "model": "glm-5.3"
+}

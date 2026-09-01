@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 9:8",
+  "book": "esther",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "və ⟨את⟩ Poratanı, və ⟨את⟩ Adalyanı, və ⟨את⟩ Aridatanı ⟨öldürdülər⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Poratanı"
+    },
+    {
+      "surface": "פורתא",
+      "gloss": "Porata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Adalyanı"
+    },
+    {
+      "surface": "אדליא",
+      "gloss": "Adalya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aridatanı"
+    },
+    {
+      "surface": "ארידתא",
+      "gloss": "Aridata"
+    }
+  ],
+  "timestamp": "2026-09-01T16:36:40.606605757Z",
+  "model": "glm-5.3"
+}

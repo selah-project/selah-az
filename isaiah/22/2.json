@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 22:2",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Hay Küyü dolu, səs-küylü şəhər, sevinc içində olan şəhər — öldürülənlərin qılıncla öldürülənlər deyil, döyüşdə ölənlər də deyil.",
+  "tokens": [
+    {
+      "surface": "תשאות",
+      "gloss": "hay-küy"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "dolu"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şəhər"
+    },
+    {
+      "surface": "הומיה",
+      "gloss": "səs-küylü"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "şəhər"
+    },
+    {
+      "surface": "עליזה",
+      "gloss": "sevincli"
+    },
+    {
+      "surface": "חלליך",
+      "gloss": "öldürülənlərin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "deyil"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "öldürülənlər"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "qılıncla"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və deyil"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ölənlər"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "döyüşdə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:56:00.270622596Z",
+  "model": "glm-5.3"
+}

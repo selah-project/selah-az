@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 43:4",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 43,
+  "translation": "Qardaşımızı ⟨את⟩ bizimlə göndərsən, enib sənə ⟨את⟩ ərzaq alaq.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "göndərsən"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "göndərsən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qardaşımızı"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "qardaşımızı"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ bizimlə",
+      "marks": "bizimlə"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "enib"
+    },
+    {
+      "surface": "ונשברה",
+      "gloss": "alaq"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ərzaq"
+    }
+  ],
+  "timestamp": "2026-09-01T10:00:55.733818254Z",
+  "model": "glm-5.3"
+}

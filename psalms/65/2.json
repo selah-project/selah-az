@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 65,
+  "translation": "Sənə sükut ⟨ilə⟩ tərifdir, ey Elohim, Tsiyonda, və Sənə nəzir ⟨yerinə yetirilər⟩.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Sənə"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "sükut"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "tərif"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Tsiyonda"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "və Sənə"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "⟨yerinə yetirilər⟩"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "nəzir"
+    }
+  ],
+  "timestamp": "2026-09-01T15:21:43.574075476Z",
+  "model": "glm-5.3"
+}

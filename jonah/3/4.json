@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 3:4",
+  "book": "jonah",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və Yona şəhərə girməyə başladı — bir günlük yol — və səsləndi və dedi: Hələ qırx gün ⟨keçəcək⟩ və Nineveh devriləcək.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "başladı"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "girməyə"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "şəhərə"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "yol"
+    },
+    {
+      "surface": "יום",
+      "gloss": "günlük"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "və səsləndi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "Hələ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "qırx"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "ונינוה",
+      "gloss": "və Nineveh"
+    },
+    {
+      "surface": "נהפכת",
+      "gloss": "devriləcək"
+    }
+  ],
+  "timestamp": "2026-09-01T14:45:19.232456248Z",
+  "model": "glm-5.3"
+}

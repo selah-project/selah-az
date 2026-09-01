@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 45:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 45,
+  "translation": "İnsan oğullarından daha gözəlsən; ləblərinə lütuf tökülüb; ona görə Elohim səni əbədi mübarəkələyib.",
+  "tokens": [
+    {
+      "surface": "יפיפית",
+      "gloss": "daha gözəlsən"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "oğullarından"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "הוצק",
+      "gloss": "tökülüb"
+    },
+    {
+      "surface": "חן",
+      "gloss": "lütuf"
+    },
+    {
+      "surface": "בשפתותיך",
+      "gloss": "ləblərinə"
+    },
+    {
+      "surface": "על",
+      "gloss": "ona görə"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨belə olduğundan⟩"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "mübarəkələyib səni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:17:16.403777893Z",
+  "model": "glm-5.3"
+}

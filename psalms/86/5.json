@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 86,
+  "translation": "Çünki sən, Adonay, yaxşı və bağışlayansan, səni çağıranların hamısına qarşı bol hesed ⟨sənfə⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşı"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "və bağışlayan"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "bol"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hamısına"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "səni çağıranların"
+    }
+  ],
+  "timestamp": "2026-09-01T15:30:14.148152771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 74,
+  "translation": "Nə vaxtadək, Elohim, düşmən ⟨təhqir edəcək⟩, rəqib Adını sonsuzedadək təhqir edəcək?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "nə vaxtadək"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "nə vaxtadək"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "təhqir edəcək"
+    },
+    {
+      "surface": "צר",
+      "gloss": "düşmən"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "təhqir edəcək"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "rəqib"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Adını"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "sonsuzedadək"
+    }
+  ],
+  "timestamp": "2026-09-01T15:25:23.525106018Z",
+  "model": "glm-5.3"
+}

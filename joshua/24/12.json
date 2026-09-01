@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 24:12",
+  "book": "joshua",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Mən qarşıları—nıza ⟨את⟩ arı göndərdim və ⟨o⟩ onları üzlərinizdən qovdu — Amorililərin iki kralını; nə qılıncınla, nə də yayınla.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "göndərdim"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "qarşılar—nıza (önünüzə)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arı"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "arı"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "qovdu"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ onları",
+      "marks": "onları"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "üzlərinizdən"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iki"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kralını"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amorililərin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nə... --la"
+    },
+    {
+      "surface": "בחרבך",
+      "gloss": "qılıncınla"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nə də"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "yayınla"
+    }
+  ],
+  "timestamp": "2026-09-01T11:14:14.602720172Z",
+  "model": "glm-5.3"
+}

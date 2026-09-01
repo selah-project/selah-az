@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 38:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 38,
+  "translation": "Taqaqlanmışam və çoxdan çox əzilmişəm; ürəyimin nəricesindən nərildədim.",
+  "tokens": [
+    {
+      "surface": "נפוגותי",
+      "gloss": "taqaqlanmışam"
+    },
+    {
+      "surface": "ונדכיתי",
+      "gloss": "və əzilmişəm"
+    },
+    {
+      "surface": "עד",
+      "gloss": "{...dək}"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çoxdan çox"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "nərildədim"
+    },
+    {
+      "surface": "מנהמת",
+      "gloss": "nəricesindən"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ürəyimin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:13:18.352665819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "2-kings 17:40",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Lakin eşitmədilər, əksinə, əvvəlki qaydaları üzrə ⟨onlar⟩ davam edirlər.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "lakin yox"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "eşitmədilər"
+    },
+    {
+      "surface": "כי",
+      "gloss": "əksinə"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "qaydaları üzrə"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "əvvəlki"
+    },
+    {
+      "surface": "הם",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "davam edirlər"
+    }
+  ],
+  "timestamp": "2026-09-01T12:38:39.577552795Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 72:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 72,
+  "translation": "Xalqın kasıblarını mühakimə etsin, ehtiyaclılara oğullarına xilas versin, və zalımi əzsinn.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "mühakimə etsin"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "kasıblarını"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalqın"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "xilas versin"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oğullarına"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "ehtiyaclının"
+    },
+    {
+      "surface": "וידכא",
+      "gloss": "və əzsinn"
+    },
+    {
+      "surface": "עושק",
+      "gloss": "zalimi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:23:54.313769950Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 23:4",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Əgər düşməninin öküzünə, yaxud onun eşşəyinə yol açsan — azmış ⟨olsa⟩ — mütləq ona qaytaracaqsan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "תפגע",
+      "gloss": "yol açsan"
+    },
+    {
+      "surface": "שור",
+      "gloss": "öküzünə"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "düşməninin"
+    },
+    {
+      "surface": "או",
+      "gloss": "yaxud"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "onun eşşəyinə"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "azmış"
+    },
+    {
+      "surface": "השב",
+      "gloss": "qaytar"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "qaytaracaqsan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-09-01T10:15:04.235631956Z",
+  "model": "glm-5.3"
+}

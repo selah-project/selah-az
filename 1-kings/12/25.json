@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 12:25",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Yarovam Şekemi Efrayim dağında ⟨את⟩ tikdi və orada yaşadı; oradan çıxıb Penueli ⟨את⟩ tikdi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "tikdi"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şekemi"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Şekemi"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "dağında"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "yaşadı"
+    },
+    {
+      "surface": "בה",
+      "gloss": "orada"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "çıxıb"
+    },
+    {
+      "surface": "משם",
+      "gloss": "oradan"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "tikdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penueli"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penueli"
+    }
+  ],
+  "timestamp": "2026-09-01T12:18:48.670432431Z",
+  "model": "glm-5.3"
+}

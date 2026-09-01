@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 35:1",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "Sevinəcək çöl və quraq torpaq, düzən çölü şadlanacaq və nərgiz kimi çiçək açacaq.",
+  "tokens": [
+    {
+      "surface": "יששום",
+      "gloss": "sevinəcək"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "çöl"
+    },
+    {
+      "surface": "וציה",
+      "gloss": "və quraq torpaq"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "şadlanacaq"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "düzən çölü"
+    },
+    {
+      "surface": "ותפרח",
+      "gloss": "və çiçək açacaq"
+    },
+    {
+      "surface": "כחבצלת",
+      "gloss": "nərgiz kimi"
+    }
+  ],
+  "timestamp": "2026-09-01T13:04:52.644222943Z",
+  "model": "glm-5.3"
+}

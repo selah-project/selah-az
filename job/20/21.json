@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 20:21",
+  "book": "job",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Onun yediyinə qalıq yoxdur; ona görə də onun yaxşılığı ⟨davam etməyəcək⟩.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "qalıq"
+    },
+    {
+      "surface": "לאכלו",
+      "gloss": "onun yediyinə"
+    },
+    {
+      "surface": "על",
+      "gloss": "ona"
+    },
+    {
+      "surface": "כן",
+      "gloss": "görə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "... deyil"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "⟨davam etməyəcək⟩"
+    },
+    {
+      "surface": "טובו",
+      "gloss": "onun yaxşılığı"
+    }
+  ],
+  "timestamp": "2026-09-01T16:10:40.782655567Z",
+  "model": "glm-5.3"
+}

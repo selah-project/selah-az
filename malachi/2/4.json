@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "malachi 2:4",
+  "book": "malachi",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və biləcəksiniz ki, mən sizə ⟨bu⟩ əmri göndərdim — Levilə ⟨belə ki,⟩ əhdimin onunla olmasına — deyir əsgərlərin Yahve-Səvaot.",
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "və biləcəksiniz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "göndərdim"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "sizə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əmr"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "əmr"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "olmasına"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "əhdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ilə"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "əsgərlərin (Səvaot)"
+    }
+  ],
+  "timestamp": "2026-09-01T15:00:02.350225624Z",
+  "model": "glm-5.3"
+}

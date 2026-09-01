@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 55:21",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 55,
+  "translation": "Öz sülhdə olanlarına qarşı əllərini uzatdı, öz əhdini pozub müqəddəsliyini ləkələdi.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "uzatdı"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "əllərini"
+    },
+    {
+      "surface": "בשלמיו",
+      "gloss": "öz sülhdə olanlarına qarşı"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "pozub müqəddəsliyini ləkələdi"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "öz əhdini"
+    }
+  ],
+  "timestamp": "2026-09-01T17:42:49.410914872Z",
+  "model": "glm-5.3"
+}

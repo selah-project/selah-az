@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Yahve Paronu ⟨את⟩ böyük zərbələrlə və ⟨את⟩ evini vurdu — Sarayın, Avramın arvadının sözü üzündən.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "vurdu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paronu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "zərbələrlə"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "evini"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "evini"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzündən"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sözü"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarayın"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "arvadının"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avramın"
+    }
+  ],
+  "timestamp": "2026-09-01T09:48:51.603152291Z",
+  "model": "glm-5.3"
+}

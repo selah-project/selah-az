@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 23:3",
+  "book": "2-samuel",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "İsrailin Elohimi dedi, İsrailin Qayası mənə danışdı: insan üzərində hökm edən ədalətli ⟨olmalıdır⟩, Elohim qorxusu ilə hökm edən.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "danışdı"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Qayası"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailin"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "hökm edən"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "insan üzərində"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ədalətli"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "hökm edən"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "qorxusu ilə"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T12:07:40.603251074Z",
+  "model": "glm-5.3"
+}

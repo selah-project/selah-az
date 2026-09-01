@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 18:10",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Və ⟨o⟩ zoraki bir oğul doğur, qan tökən; və bunlardan birinə — qardaşa ⟨qarşı⟩ — edir.",
+  "tokens": [
+    {
+      "surface": "והוליד",
+      "gloss": "və doğur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "פריץ",
+      "gloss": "zoraki"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "tökən"
+    },
+    {
+      "surface": "דם",
+      "gloss": "qan"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "və edir"
+    },
+    {
+      "surface": "אח",
+      "gloss": "qardaş"
+    },
+    {
+      "surface": "מאחד",
+      "gloss": "birinə"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "bunlardan"
+    }
+  ],
+  "timestamp": "2026-09-01T14:08:24.643265651Z",
+  "model": "glm-5.3"
+}

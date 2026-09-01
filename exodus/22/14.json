@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 22:14",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Əgər sahibi onunla olsa, ödəməsin; əgər kirayəçidirsə, kirayə haqqı ⟨baa⟩ gəlmişdir.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "sahibi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "onunla olsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ödəməsin"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ödəsin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "kirayəçi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gəlmişdir"
+    },
+    {
+      "surface": "בשכרו",
+      "gloss": "öz kirayə haqqı ilə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:14:18.477295862Z",
+  "model": "glm-5.3"
+}

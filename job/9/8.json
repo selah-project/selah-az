@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 9:8",
+  "book": "job",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Göyləri tək Özü açan, dənizin uca yerlərinin üzərində gəzən Odur.",
+  "tokens": [
+    {
+      "surface": "נטה",
+      "gloss": "açan"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "Göyləri"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "tək Özü"
+    },
+    {
+      "surface": "ודורך",
+      "gloss": "gəzən"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərində"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "uca yerlərinin"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dənizin"
+    }
+  ],
+  "timestamp": "2026-09-01T16:05:52.496357685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 10:13",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Şaul öldü — Yahveyə qarşı etdiyi xəyanətinə görə: Yahvenin sözünə görə, ki onu saxlamadı, həm də ovla soruşmaq üçün müraciət etdiyinə görə.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "öldü"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "במעלו",
+      "gloss": "xəyanətinə görə"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "xəyanət etdi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahveyə qarşı"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ə görə"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "söz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saxlamadı (neqasiya)"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "saxlamadı"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "həm də"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "soruşmaq"
+    },
+    {
+      "surface": "באוב",
+      "gloss": "ovla"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "axtarmaq üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T17:03:04.603229404Z",
+  "model": "glm-5.3"
+}

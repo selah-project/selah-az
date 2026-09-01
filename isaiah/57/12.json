@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 57,
+  "translation": "Mən ədalətini bildirəcəyəm və ⟨את⟩ əməllərini — və onlar sənə fayda verməyəcəklər.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "bildirəcəyəm"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ədalətini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "əməllərini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "— deyil"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "fayda verməyəcəklər"
+    }
+  ],
+  "timestamp": "2026-09-01T13:15:15.375323024Z",
+  "model": "glm-5.3"
+}

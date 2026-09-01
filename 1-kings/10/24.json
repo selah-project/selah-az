@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 10:24",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Və bütün yer ⟨את⟩ Şelomonun üzünü axtarırdı, ⟨את⟩ onun hikmətini eşitmək üçün — hikməti ki, Elohim onun ürəyinə qoymuşdu.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "axtarırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şelomonun üzünü"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzünü"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomonun"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "eşitmək üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onun hikmətini"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "hikmətini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "— ki"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "qoymuşdu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "onun ürəyinə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:15:36.376611993Z",
+  "model": "glm-5.3"
+}

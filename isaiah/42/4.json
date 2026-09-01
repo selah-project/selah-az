@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 42:4",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 42,
+  "translation": "O, zəifləməyəcək və sınıq ürəkli olmayacaq, ⟨ta ki⟩ yerdə məhkəməni qoyana qədər; və adaları onun Tövrəsi üçün ümidlə gözləyəcəklər.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יכהה",
+      "gloss": "zəifləməyəcək"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "sınıq ürəkli olmayacaq"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨ta ki⟩ ... qədər"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "qoyana qədər"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerdə"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "məhkəməni"
+    },
+    {
+      "surface": "ולתורתו",
+      "gloss": "və onun Tövrəsi üçün"
+    },
+    {
+      "surface": "איים",
+      "gloss": "adaları"
+    },
+    {
+      "surface": "ייחילו",
+      "gloss": "ümidlə gözləyəcəklər"
+    }
+  ],
+  "timestamp": "2026-09-01T13:08:36.650832657Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 78:26",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 78,
+  "translation": "Şərq küləyini göylərdə hərəkət etdirdi və öz qüdrəti ilə cənub küləyini sürdü.",
+  "tokens": [
+    {
+      "surface": "יסע",
+      "gloss": "hərəkət etdirdi"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "şərq küləyini"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "göylərdə"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "və sürdü"
+    },
+    {
+      "surface": "בעזו",
+      "gloss": "öz qüdrəti ilə"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "cənub küləyini"
+    }
+  ],
+  "timestamp": "2026-09-01T15:26:16.546862649Z",
+  "model": "glm-5.3"
+}

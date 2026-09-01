@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 1:35",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və onun arxasından qalxacaqsınız, və o gəlib taxtımda oturacaq, və o mənim yerimə hökmranlıq edəcək; və ⟨את⟩ ona İsrailin və Yehudanın üzərində nəgid olmağı əmr etmişəm.",
+  "tokens": [
+    {
+      "surface": "וַעֲלִיתֶם",
+      "gloss": "qalxacaqsınız"
+    },
+    {
+      "surface": "אַחֲרָיו",
+      "gloss": "onun arxasından"
+    },
+    {
+      "surface": "וּבָא",
+      "gloss": "gəlib"
+    },
+    {
+      "surface": "וְיָשַׁב",
+      "gloss": "oturacaq"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "üzərində"
+    },
+    {
+      "surface": "כִּסְאִי",
+      "gloss": "taxtımda"
+    },
+    {
+      "surface": "וְהוּא",
+      "gloss": "və o"
+    },
+    {
+      "surface": "יִמְלֹךְ",
+      "gloss": "hökmranlıq edəcək"
+    },
+    {
+      "surface": "תַּחְתַּי",
+      "gloss": "mənim yerimə"
+    },
+    {
+      "surface": "וְאֹתוֹ",
+      "gloss": "⟨את⟩",
+      "marks": "ona"
+    },
+    {
+      "surface": "צִוִּיתִי",
+      "gloss": "əmr etmişəm"
+    },
+    {
+      "surface": "לִהְיוֹת",
+      "gloss": "olmağı"
+    },
+    {
+      "surface": "נָגִיד",
+      "gloss": "nəgid"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "üzərində"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "İsrailin"
+    },
+    {
+      "surface": "וְעַל",
+      "gloss": "və ... üzərində"
+    },
+    {
+      "surface": "יְהוּדָה",
+      "gloss": "Yehudanın"
+    }
+  ],
+  "timestamp": "2026-09-01T17:59:27.299613109Z",
+  "model": "glm-5.3"
+}

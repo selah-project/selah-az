@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 34:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 34,
+  "translation": "Yahvenin mələyi Ona qorxu bəsləyənlərin ətrafına düşərgə salır və onları qurtarır.",
+  "tokens": [
+    {
+      "surface": "חנה",
+      "gloss": "düşərgə salır"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mələyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ətrafına"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "Ona qorxu bəsləyənlərin"
+    },
+    {
+      "surface": "ויחלצם",
+      "gloss": "və onları qurtarır"
+    }
+  ],
+  "timestamp": "2026-09-01T17:41:24.431989891Z",
+  "model": "glm-5.3"
+}

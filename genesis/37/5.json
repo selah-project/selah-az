@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Yosef bir xəyal gördi və onu qardaşlarına xəbər verdi, və onlar onu daha da çox sevməməyə ⟨başladılar⟩ ⟨את⟩ onu.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "xəyal gördi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "bir xəyal"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "xəbər verdi"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "qardaşlarına"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "əlavə etdilər"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "daha da"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "sevməməyə (nifrət etməyə)"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    }
+  ],
+  "timestamp": "2026-09-01T09:58:23.024496458Z",
+  "model": "glm-5.3"
+}

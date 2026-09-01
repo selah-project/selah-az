@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 8:1",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Ağızına şəfur qoy — qartal kimi Yahvenin evinin üstünə ⟨gəlir⟩, çünki mənim əhdimi pozdular və mənim Tövrəmə qarşı üsyan etdilər.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "qoy"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "ağızına"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "şəfur"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "qartal kimi"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evinin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יען",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "pozdular"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "əhdimi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "qarşı"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Tövrəmə"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "üsyan etdilər"
+    }
+  ],
+  "timestamp": "2026-09-01T14:37:09.705349655Z",
+  "model": "glm-5.3"
+}

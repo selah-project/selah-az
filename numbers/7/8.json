@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 7:8",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Və dörd arabani ⟨את⟩ və səkkiz inəyi ⟨את⟩ Merari oğullarına verdi, onların xidmətlərinin ölcüsünə görə, kahin Aharonun oğlu İtamarın əli altında.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "dörd arabani"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "dörd"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "arabani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "səkkiz inəyi"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "səkkiz"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "inəyi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oğullarına"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ölcüsünə görə"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "onların xidmətlərinin"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "əli altında"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "İtamarın"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonun"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:33:56.996666041Z",
+  "model": "glm-5.3"
+}

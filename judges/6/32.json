@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "judges 6:32",
+  "book": "judges",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Və ona o gün Yerubbaal adını qoydular, deyərək: «Baal onunla mübahisə etsin, çünki o, onun qurbangahını yıxdı ⟨את⟩.»",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "və ad qoydu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Yerubbaal"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "mübahisə etsin"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "yıxdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbangahını"
+    },
+    {
+      "surface": "מזבחו",
+      "gloss": "onun qurbangahını"
+    }
+  ],
+  "timestamp": "2026-09-01T11:19:09.832796672Z",
+  "model": "glm-5.3"
+}

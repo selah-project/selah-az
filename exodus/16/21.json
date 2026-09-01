@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 16:21",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Və onu səhər-səhər toplayırdılar, hər kəs öz yeməyi qədər; günəş qızanda isə ⟨o⟩ əriyib getdi.",
+  "tokens": [
+    {
+      "surface": "וילקטו",
+      "gloss": "toplayırdılar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "səhər"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "səhər"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər kəs"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "öz yeməyi"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "qızanda isə"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "günəş"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "əriyib getdi"
+    }
+  ],
+  "timestamp": "2026-09-01T10:10:39.250677529Z",
+  "model": "glm-5.3"
+}

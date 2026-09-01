@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 89:47",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 89,
+  "translation": "Nə vaxtadək, ya Yahve, ⟨özünü⟩ gizlədəcəksən ⟨əbədi⟩? Qəzəbin od kimi miyanacaq?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "nə vaxtadək"
+    },
+    {
+      "surface": "מה",
+      "gloss": "⟨nə qədər⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "⟨özünü⟩ gizlədəcəksən"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "⟨əbədi⟩"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "yanacaq"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "od"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "sənin qəzəbin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:30:29.405808808Z",
+  "model": "glm-5.3"
+}

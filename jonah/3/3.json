@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 3:3",
+  "book": "jonah",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və Yona qalxdı və Yahvenin sözünə görə Nineveyə getdi; və Nineveh Elohimə görə böyük ⟨bir⟩ şəhər idi — üç günlük yol ⟨çatan⟩.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Və … qalxdı"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "və getdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineveyə"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sözünə görə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "ונינוה",
+      "gloss": "və Nineveh"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "idi"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şəhər"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimə görə"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "yol"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "üç"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günlük"
+    }
+  ],
+  "timestamp": "2026-09-01T14:45:19.232291269Z",
+  "model": "glm-5.3"
+}

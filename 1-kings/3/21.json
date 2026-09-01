@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 3:21",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Səhər çağı oğlanımı əmizdirmək üçün qalxdım və bax, ölü ⟨idi⟩; səhər çağı ona baxdım və bax, doğduğum oğlum ⟨idi⟩ — o deyil ⟨idi⟩.",
+  "tokens": [
+    {
+      "surface": "ואקם",
+      "gloss": "qalxdım"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "səhər çağı"
+    },
+    {
+      "surface": "להיניק",
+      "gloss": "əmizdirmək üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oğlanım"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğlanım"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "və bax"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ölü"
+    },
+    {
+      "surface": "ואתבונן",
+      "gloss": "baxdım"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "səhər çağı"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "və bax"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "היה",
+      "gloss": "idi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğlum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "doğduğum"
+    }
+  ],
+  "timestamp": "2026-09-01T12:09:53.010846312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 2:33",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Yahve Elohimimiz onu bizim qarşımızda ⟨verdi⟩, və biz onu, oğullarını və bütün xalqını vurduq.",
+  "tokens": [
+    {
+      "surface": "ויתנהו",
+      "gloss": "onu verdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimiz"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "qarşımızda"
+    },
+    {
+      "surface": "ונך",
+      "gloss": "və vurmaq"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oğullarını"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bütün xalqını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "xalqını"
+    }
+  ],
+  "timestamp": "2026-09-01T10:46:14.924368362Z",
+  "model": "glm-5.3"
+}

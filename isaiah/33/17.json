@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 33:17",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "Gözülərin bir şahı onun gözəlliyində görəcək; uzaq bir ölkəni görəcəklər.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "şah"
+    },
+    {
+      "surface": "ביפיו",
+      "gloss": "onun gözəlliyində"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "görəcək"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "gözülərin"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "görəcəklər"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ölkəni"
+    },
+    {
+      "surface": "מרחקים",
+      "gloss": "uzaq"
+    }
+  ],
+  "timestamp": "2026-09-01T13:00:55.014199012Z",
+  "model": "glm-5.3"
+}

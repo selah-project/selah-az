@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 107,
+  "translation": "Yahvenin satqaları desinlər ⟨bunu⟩, O ⟨onları⟩ sıxıntının əlindən satmışdır —",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "desinlər"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "satqaları"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "O"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "satmışdır ⟨onları⟩"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "əlindən"
+    },
+    {
+      "surface": "צר",
+      "gloss": "sıxıntının"
+    }
+  ],
+  "timestamp": "2026-09-01T18:01:56.095421040Z",
+  "model": "glm-5.3"
+}

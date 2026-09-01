@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 86:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 86,
+  "translation": "Mənə yolunu öyrət, ya Yahve; sənin həqiqətində gəzəcəyəm; qəlbimi bir et ki, adından qorxum.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "mənə öyrət"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "yolunu"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "gəzəcəyəm"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "sənin həqiqətində"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bir et"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "qəlbimi"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "qorxum"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "adından"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:20.398272571Z",
+  "model": "glm-5.3"
+}

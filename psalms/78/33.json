@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 78,
+  "translation": "Və ⟨o⟩ onların günlərini boşluqda bitirdi, illərini isə qorxu içində.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "bitirdi"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "boşluqda"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "onların günlərini"
+    },
+    {
+      "surface": "ושנותם",
+      "gloss": "onların illərini"
+    },
+    {
+      "surface": "בבהלה",
+      "gloss": "qorxu içində"
+    }
+  ],
+  "timestamp": "2026-09-01T15:27:25.708684562Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 62,
+  "translation": "Yalnız Odur qayam və nicatım, sığınağım; çox sarsılmaram.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "O"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "qayam"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "və nicatım"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "sığınağım"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "sarsılaram"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "çox"
+    }
+  ],
+  "timestamp": "2026-09-01T15:20:46.046265060Z",
+  "model": "glm-5.3"
+}

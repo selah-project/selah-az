@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 92,
+  "translation": "⟨Bəyan etmək üçün⟩ ki, Yahve düzdür, mənim qayam Odur, və Onda heç bir ədalətsizlik yoxdur.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "⟨bəyan etmək üçün⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "düzdür"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "mənim qayam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "ədalətsizlik"
+    },
+    {
+      "surface": "בו",
+      "gloss": "Onda"
+    }
+  ],
+  "timestamp": "2026-09-01T18:01:57.245980588Z",
+  "model": "glm-5.3"
+}

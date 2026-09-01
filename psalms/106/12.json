@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 106,
+  "translation": "Onlar ⟨Onun⟩ sözlərinə iman gətirdilər, ⟨Onun⟩ tərifini oxudular.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "iman gətirdilər"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "sözlərinə"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "oxudular"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "tərifini"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:00.917403719Z",
+  "model": "glm-5.3"
+}

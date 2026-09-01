@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 104:28",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 104,
+  "translation": "Sən onlara verirsən — ⟨onlar⟩ yığırlar; əlini açırsan — yaxşılıqla doyurlar.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "verirsən"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "ילקטון",
+      "gloss": "yığırlar"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "açırsan"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "əlini"
+    },
+    {
+      "surface": "ישבעון",
+      "gloss": "doyurlar"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşılıqla"
+    }
+  ],
+  "timestamp": "2026-09-01T15:34:54.996609466Z",
+  "model": "glm-5.3"
+}

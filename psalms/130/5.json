@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 130:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 130,
+  "translation": "Yahveyi gözlədim, canım gözlədi, Onun sözünə dözüb-gözlədim.",
+  "tokens": [
+    {
+      "surface": "קויתי",
+      "gloss": "gözlədim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveyi"
+    },
+    {
+      "surface": "קותה",
+      "gloss": "gözlədi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "ולדברו",
+      "gloss": "Onun sözünə"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "dözüb-gözlədim"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:14.559500092Z",
+  "model": "glm-5.3"
+}

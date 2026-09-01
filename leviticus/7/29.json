@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 7:29",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "İsraıl oğullarına danış deyərək: sülh qurbanlarını Yahveyə gətirən kəs, qurbanını sülh qurbanlarından Yahveyə gətirsin.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "danış"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsraıl"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "gətirən kəs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sülh qurbanlarını"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "qurban"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "sülh ... öz"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "gətirsin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbanını"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "qurbanını"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "-dan ... qurban"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "sülh ... öz"
+    }
+  ],
+  "timestamp": "2026-09-01T10:23:11.512751357Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 19:3",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Və Mitsrayimin ruhu onun içində boşalacaq, və onun məsləhətini uducam, və bütlərə, və fısıldayanlara, və ruh çağıranlara, və falçılara müraciət edəcəklər.",
+  "tokens": [
+    {
+      "surface": "ונבקה",
+      "gloss": "və boşalacaq"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimin"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "onun içində"
+    },
+    {
+      "surface": "ועצתו",
+      "gloss": "və onun məsləhətini"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "uducam"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "və müraciət edəcəklər"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə doğru"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "bütlərə"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və -ə doğru"
+    },
+    {
+      "surface": "האטים",
+      "gloss": "fısıldayanlara"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və -ə doğru"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "ruh çağıranlara"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və -ə doğru"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "falçılara"
+    }
+  ],
+  "timestamp": "2026-09-01T12:55:54.426963811Z",
+  "model": "glm-5.3"
+}

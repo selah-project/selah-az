@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 21:9",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Və əgər öz oğluna onu nişanlayarsa, qızların hökmü kimi ona edəcək.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "öz oğluna"
+    },
+    {
+      "surface": "ייעדנה",
+      "gloss": "onu nişanlayarsa"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "hökmü kimi"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "qızların"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "edəcək"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-09-01T10:13:22.529452914Z",
+  "model": "glm-5.3"
+}

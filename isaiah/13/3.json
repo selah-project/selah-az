@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 13:3",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Mən öz müqəddəs etdiklərimə əmr etdim, hətta öz qəhrəmanlarımı qəzəbim üçün çağırdım, öz izzətimin sevinənlərini.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "əmr etdim"
+    },
+    {
+      "surface": "למקדשי",
+      "gloss": "öz müqəddəs etdiklərimə"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hətta"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "çağırdım"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "öz qəhrəmanlarımı"
+    },
+    {
+      "surface": "לאפי",
+      "gloss": "qəzəbim üçün"
+    },
+    {
+      "surface": "עליזי",
+      "gloss": "sevinənlərini"
+    },
+    {
+      "surface": "גאותי",
+      "gloss": "öz izzətimin"
+    }
+  ],
+  "timestamp": "2026-09-01T12:52:40.703698160Z",
+  "model": "glm-5.3"
+}

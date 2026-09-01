@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "⟨את⟩ sandığı və ⟨את⟩ dirəklərini, ⟨את⟩ kapporetu və ⟨את⟩ pərdə olan üzgüyü.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandığı"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sandığı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "dirəklərini"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "dirəklərini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kapporetu"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kapporetu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "pərdə"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "pərdə"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "üzgüyü"
+    }
+  ],
+  "timestamp": "2026-09-01T10:19:10.846828847Z",
+  "model": "glm-5.3"
+}

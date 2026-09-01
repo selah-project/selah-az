@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 8:5",
+  "book": "amos",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "«Nə vaxt yeni ay keçəcək ki, dəni sataq, şabat ⟨ki⟩ dəni açıq satayaq — efanı kiçiltmək, şékeli böyütmək və aldadıcı tərəziləri əyriltmək üçün» — deyərlər.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "deyərlər"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "nə vaxt"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "keçəcək"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "yeni ay"
+    },
+    {
+      "surface": "ונשבירה",
+      "gloss": "ki, sataq"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "dəni"
+    },
+    {
+      "surface": "והשבת",
+      "gloss": "və şabat"
+    },
+    {
+      "surface": "ונפתחה",
+      "gloss": "açaq"
+    },
+    {
+      "surface": "בר",
+      "gloss": "dəni"
+    },
+    {
+      "surface": "להקטין",
+      "gloss": "kiçiltmək"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "efa"
+    },
+    {
+      "surface": "ולהגדיל",
+      "gloss": "və böyütmək"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "şékel"
+    },
+    {
+      "surface": "ולעות",
+      "gloss": "və əyriltmək"
+    },
+    {
+      "surface": "מאזני",
+      "gloss": "tərəziləri"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "aldadıcı"
+    }
+  ],
+  "timestamp": "2026-09-01T14:43:06.562226988Z",
+  "model": "glm-5.3"
+}

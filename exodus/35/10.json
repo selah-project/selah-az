@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 35:10",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "Sizdən hər ürəyi hörmətli olan gəlsin və Yahvenin buyurduğu ⟨את⟩ hər şeyi yapsın.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "hörmətli"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ürəyi"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "sizdən"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "gəlsin"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "və yapsın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hər şeyi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər şeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurduğu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T10:19:10.846522568Z",
+  "model": "glm-5.3"
+}

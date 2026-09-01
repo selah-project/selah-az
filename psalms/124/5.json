@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 124:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 124,
+  "translation": "O zaman nəfəsimizin üstündən keçərdi sular, o hökmran sular.",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "o zaman"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "keçərdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündən"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "nəfəsimizin"
+    },
+    {
+      "surface": "המים",
+      "gloss": "sular"
+    },
+    {
+      "surface": "הזידונים",
+      "gloss": "o hökmran"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:42.262095500Z",
+  "model": "glm-5.3"
+}

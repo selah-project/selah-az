@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 11:11",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Və Şem ⟨את⟩ Arpaxşadı doğduqdan sonra beş yüz il yaşadı və oğullar və qızlar doğdu.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "və yaşadı"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Şem"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sonra"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "doğduqdan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpaxşadı"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpaxşad"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "beş"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "il"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "və doğdu"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oğullar"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "və qızlar"
+    }
+  ],
+  "timestamp": "2026-09-01T09:48:40.985244105Z",
+  "model": "glm-5.3"
+}

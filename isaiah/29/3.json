@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 29:3",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "Və sənin ətrafında dairə ⟨kimi⟩ düşərgə salacağam, sənin üstünə hərbi post quracağam və sənin əleyhinə mühasirə sədləri qaldıracağam.",
+  "tokens": [
+    {
+      "surface": "וחניתי",
+      "gloss": "düşərgə salacağam"
+    },
+    {
+      "surface": "כדור",
+      "gloss": "dairə ⟨kimi⟩"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sənin ətrafında"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "quracağam"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sənin üstünə"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "hərbi post"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "qaldıracağam"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sənin əleyhinə"
+    },
+    {
+      "surface": "מצרת",
+      "gloss": "mühasirə sədləri"
+    }
+  ],
+  "timestamp": "2026-09-01T13:00:52.048096186Z",
+  "model": "glm-5.3"
+}

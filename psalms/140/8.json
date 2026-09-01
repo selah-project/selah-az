@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 140:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 140,
+  "translation": "Yahve, Adonay, xilasımın qüvvəti, döyüş günündə başımı örtüsün.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "עז",
+      "gloss": "qüvvəti"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "xilasımın"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "örtüsün"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "başımı"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "günündə"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "döyüş"
+    }
+  ],
+  "timestamp": "2026-09-01T15:44:53.474158149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 8:5",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Ay sadələr, hiylə ⟨sahib olun⟩; ay axmaqlar, qəlb ⟨ilə⟩ anlayın.",
+  "tokens": [
+    {
+      "surface": "הבינו",
+      "gloss": "anlayın"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "sadələr"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "hiylə"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "və axmaqlar"
+    },
+    {
+      "surface": "הבינו",
+      "gloss": "anlayın"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qəlb"
+    }
+  ],
+  "timestamp": "2026-09-01T15:49:51.924606030Z",
+  "model": "glm-5.3"
+}

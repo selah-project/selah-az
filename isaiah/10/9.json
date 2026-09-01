@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Məgər Kalno Karkemiş kimi deyilmi? Xamat Arpad kimi deyilmi? Şomeron Dameseq kimi deyilmi?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "məgər … deyilmi"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "Karkemiş kimi"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "Kalno"
+    },
+    {
+      "surface": "אם",
+      "gloss": "məgər"
+    },
+    {
+      "surface": "לא",
+      "gloss": "deyilmi"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "Arpad kimi"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Xamat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "məgər"
+    },
+    {
+      "surface": "לא",
+      "gloss": "deyilmi"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "Dameseq kimi"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Şomeron"
+    }
+  ],
+  "timestamp": "2026-09-01T12:50:35.337408575Z",
+  "model": "glm-5.3"
+}

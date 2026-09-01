@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 80:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 80,
+  "translation": "Dağlar onun kölgəsi ilə örtüldü, və onun budaqları — El sidrləri ⟨kimi⟩.",
+  "tokens": [
+    {
+      "surface": "כסו",
+      "gloss": "örtüldü"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dağlar"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "onun kölgəsi ilə"
+    },
+    {
+      "surface": "וענפיה",
+      "gloss": "və onun budaqları"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "sidrləri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-01T15:27:13.874036923Z",
+  "model": "glm-5.3"
+}

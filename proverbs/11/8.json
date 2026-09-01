@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 11:8",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Saleh adam sıxıntıdan çıxarılır, şər adam isə onun yerinə girər.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "saleh adam"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "sıxıntıdan"
+    },
+    {
+      "surface": "נחלץ",
+      "gloss": "çıxarılır"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "girər"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "şər adam"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "onun yerinə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:51:41.319439424Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Yahveni ⟨את⟩ malından dolayı şərəfləndir, və bütün məhsulunun ilk gülər üzü ilə ⟨⟨⟩⟩.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "şərəfləndir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "malından"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "və ilk gülər üzü ilə"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "məhsulunun"
+    }
+  ],
+  "timestamp": "2026-09-01T15:47:55.593701558Z",
+  "model": "glm-5.3"
+}

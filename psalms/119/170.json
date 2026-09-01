@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 170,
+  "ref": "psalms 119:170",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Çatsın yalvarışım sənin önünə; sözünə görə məni qurtar.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "çatsın"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "yalvarışım"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sənin önünə"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "sözünə görə"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "məni qurtar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:54.129330146Z",
+  "model": "glm-5.3"
+}

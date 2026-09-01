@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 94,
+  "translation": "Qulaq əkən ⟨mü⟩ eşitməzmi? Gözü formalaşdıran ⟨o⟩ görməzmi?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "əkən"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "qulaq"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "mü… yox"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "eşitməzmi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoxsa"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "formalaşdıran"
+    },
+    {
+      "surface": "עין",
+      "gloss": "gözü"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "mü… yox"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "görməzmi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:31:39.179999827Z",
+  "model": "glm-5.3"
+}

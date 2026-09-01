@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 22:1",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Və ⟨bu⟩ sözlərdən sonra oldu ki, Elohim Avrahamı sınadı və ona dedi: «Avraham!» O isə dedi: «Budur mən.»",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "və oldu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sonra"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sözlərdən"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "⟨bu⟩"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "və Elohim"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "sınadı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahamı"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamı"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Budur mən"
+    }
+  ],
+  "timestamp": "2026-09-01T09:52:22.413512639Z",
+  "model": "glm-5.3"
+}

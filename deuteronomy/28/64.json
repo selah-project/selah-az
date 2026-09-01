@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "deuteronomy 28:64",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "Və Yahve səni bütün xalqlar arasında səpələyəcək, yerin bir ucundan yerin o biri ucunadək; və orada sən başqa tanrılara ibadət edəcəksən — ağaca və daşa — ki sən və ataların onları tanımırsan.",
+  "tokens": [
+    {
+      "surface": "והפיצך",
+      "gloss": "Və səni səpələyəcək"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün ... arasında"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "bir ucundan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "və ... qədər"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "ucunadək"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "ועבדת",
+      "gloss": "və ibadət edəcəksən"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tanrılara"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "başqa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ki⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tanımırsan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "ואבתיך",
+      "gloss": "və ataların"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ağaca"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "və daşa"
+    }
+  ],
+  "timestamp": "2026-09-01T10:58:02.453274519Z",
+  "model": "glm-5.3"
+}

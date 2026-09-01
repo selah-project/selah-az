@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 69,
+  "translation": "Dərin bataqlığa batmışam və dayanacaq yoxdur; dərin sulara girmişəm və sel axını məni yuyub aparıb.",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "batmışam"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "dərin bataqlığa"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "bataqlığa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "və yoxdur"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "dayanacaq"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "girmişəm"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "dərin sulara"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sulara"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "və sel axını"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "məni yuyub aparıb"
+    }
+  ],
+  "timestamp": "2026-09-01T15:23:33.737302494Z",
+  "model": "glm-5.3"
+}

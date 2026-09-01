@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 24:18",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Sidkiyahu padishah olarkən iyirmi bir yaşında idi və Yeruşalayimda on bir il hökm sürdü; anasının adı Hamutal, Yirmiyahunun qızı, Livnadan idi.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "yaşında"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iyirmi"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "bir"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yaş"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Sidkiyahu"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "padishah olarkən"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "on"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "bir"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "il"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hökm sürdü"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yeruşalayimda"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "adı"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "anasının"
+    },
+    {
+      "surface": "חמיטל",
+      "gloss": "Hamutal"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qızı"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmiyahunun"
+    },
+    {
+      "surface": "מלבנה",
+      "gloss": "Livnadan"
+    }
+  ],
+  "timestamp": "2026-09-01T12:44:34.525739984Z",
+  "model": "glm-5.3"
+}

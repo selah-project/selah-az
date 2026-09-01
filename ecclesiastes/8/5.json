@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Əmr qoruyan şər şey bilməz, və ağıllının ürəyi zamanı və mühakiməni bilər.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "qoruyan"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "əmr"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilər"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "şey"
+    },
+    {
+      "surface": "רע",
+      "gloss": "şər"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "və zamanı"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "və mühakiməni"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilər"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ürəyi"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ağıllının"
+    }
+  ],
+  "timestamp": "2026-09-01T16:32:41.252294496Z",
+  "model": "glm-5.3"
+}

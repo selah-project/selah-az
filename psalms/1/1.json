@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Nə xoşbəxtdir o adam ki, pislərin məsləhətində gəzməyib, günahkarların yolunda durmayıb və lağ edənlərin oturacağında oturmuyub.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "nə xoşbəxtdir"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "o adam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—məyib"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "gəzmək"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "məsləhətində"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "pislərin"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "yolunda"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "günahkarların"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—mayıb"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "durmaq"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "oturacağında"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "lağ edənlərin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—muyub"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "oturmaq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:02:35.782353830Z",
+  "model": "glm-5.3"
+}

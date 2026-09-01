@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Məni ⟨את⟩ sürüklədi və qaranlıqda gəzdirdi, işıq ⟨yox⟩.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "Məni"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "sürüklədi"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "gəzdirdi"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "qaranlıqda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "⟨yox⟩"
+    },
+    {
+      "surface": "אור",
+      "gloss": "işıq"
+    }
+  ],
+  "timestamp": "2026-09-01T18:02:50.381123773Z",
+  "model": "glm-5.3"
+}

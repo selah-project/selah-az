@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 3:3",
+  "book": "micah",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və onlar ki, xalqımın ətini yeyir, dərilərini onların üstündən soyur, ⟨את⟩ sümüklərini doğrayır və qazandakı kimi, qazanın ortasındakı ət kimi səpələyirlər.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "və onlar ki"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "yeyir"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ətini"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqımın"
+    },
+    {
+      "surface": "ועורם",
+      "gloss": "və dərilərini"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "onların üstündən"
+    },
+    {
+      "surface": "הפשיטו",
+      "gloss": "soyur"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "sümüklərini"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "sümüklərini"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "doğrayır"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "və səpələyirlər"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "בסיר",
+      "gloss": "qazandakı"
+    },
+    {
+      "surface": "וכבשר",
+      "gloss": "və ət kimi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ortasındakı"
+    },
+    {
+      "surface": "קלחת",
+      "gloss": "qazanın"
+    }
+  ],
+  "timestamp": "2026-09-01T14:47:02.735368132Z",
+  "model": "glm-5.3"
+}

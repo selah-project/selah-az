@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "və onları evinin qapı dirəklərinə və qapılarına yazacaqsan.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "yazacaqsan"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "qapı dirəklərinə"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "evinin"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "və qapılarına"
+    }
+  ],
+  "timestamp": "2026-09-01T10:49:40.933180582Z",
+  "model": "glm-5.3"
+}

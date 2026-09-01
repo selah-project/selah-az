@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 65:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 65,
+  "translation": "İli sənin xeyirlə taclayırsan, və sənin ayaq izlərin yağlılıq damladırır.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "taclayırsan"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ili"
+    },
+    {
+      "surface": "טובתך",
+      "gloss": "sənin xeyirlə"
+    },
+    {
+      "surface": "ומעגליך",
+      "gloss": "və sənin ayaq izlərin"
+    },
+    {
+      "surface": "ירעפון",
+      "gloss": "damladırır"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "yağlılıq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:20:33.110351135Z",
+  "model": "glm-5.3"
+}

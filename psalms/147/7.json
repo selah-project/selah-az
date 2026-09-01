@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 147,
+  "translation": "Yahveyə şükrlə cavab verin, kinnorla Elohimimizə nəğmə deyin.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "cavab verin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "şükrlə"
+    },
+    {
+      "surface": "zəmr הזמרו",
+      "gloss": "nəğmə deyin"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "Elohimimizə"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinnorla"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:47.007249258Z",
+  "model": "glm-5.3"
+}

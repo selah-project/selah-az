@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 5:7",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "və etdikləri günahlarını ⟨את⟩ etiraf etsinlər; ⟨את⟩ öz təzminatını əsas məbləği ilə qaytarsın və üstünə onun beşdə birini əlavə etsin və ona qarşı günahkar olduğu şəxsə versin.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "etiraf etsinlər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "günahlarını"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "günahlarını"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "etdikləri"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "qaytarsın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "təzminatını"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "öz təzminatını"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "əsas məbləği ilə"
+    },
+    {
+      "surface": "וחמישתו",
+      "gloss": "onun beşdə biri"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "əlavə etsin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "versin"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "…ya ki"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "günahkar olduğu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-09-01T10:34:45.123094843Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 46:6",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 46,
+  "translation": "Və mal-qaralarını ⟨את⟩ götürdülər və Kənan torpağında qazandıqları əmlaklarını ⟨את⟩, və Mitsrayimə gəldilər — Yaakov və bütün nəsli onunla ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "götürdülər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mal-qaralarını"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "mal-qaralarını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "əmlaklarını"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "əmlaklarını"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "qazandıqları"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "torpağında"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kənan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "gəldilər"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrayimə"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "nəsli"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onunla"
+    }
+  ],
+  "timestamp": "2026-09-01T10:02:37.641976346Z",
+  "model": "glm-5.3"
+}

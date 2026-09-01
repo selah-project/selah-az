@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 31:3",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "və Yahve Yaquba dedi: Atalarının torpağına və doğulduğun yerə qayıt, və Mən səninlə olacağam.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...a"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqub"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "qayıt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...a"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "torpağına"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "atalarının"
+    },
+    {
+      "surface": "ולמולדתך",
+      "gloss": "və doğulduğun yerə"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "və olacağam"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "səninlə"
+    }
+  ],
+  "timestamp": "2026-09-01T09:56:05.343391285Z",
+  "model": "glm-5.3"
+}

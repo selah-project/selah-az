@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 5:7",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Yahveyə qarşı xəyanət etdilər, çünki yad oğullar doğdular; indi bir ay onları ⟨את⟩ payları ilə birlikdə yeyəcək.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahveyə qarşı"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "xəyanət etdilər"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oğullar"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "yad"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "doğdular"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "yeyəcək"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "bir ay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "payları"
+    },
+    {
+      "surface": "חלקיהם",
+      "gloss": "onların payları"
+    }
+  ],
+  "timestamp": "2026-09-01T14:34:26.733309405Z",
+  "model": "glm-5.3"
+}

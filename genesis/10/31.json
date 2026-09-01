@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Bunlar Şemin oğullarıdır — nəsillərinə, dillərinə, ölkələrinə, xalqlarına görə.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "bunlar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarıdır"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Şem"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "nəsillərinə görə"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "dillərinə görə"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "ölkələrində"
+    },
+    {
+      "surface": "לגויהם",
+      "gloss": "xalqlarına görə"
+    }
+  ],
+  "timestamp": "2026-09-01T09:48:30.827056389Z",
+  "model": "glm-5.3"
+}

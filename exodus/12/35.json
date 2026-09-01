@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 12:35",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Və Yisrael oğulları Moşenin sözünə görə etdilər və Mitsrayimdən gümüş qablar, qızıl qablar və paltarlar istədilər.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "və oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "etdilər"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sözünə görə"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşenin"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "və istədilər"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayimdan"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "qablar"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "və qablar"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "qızıl"
+    },
+    {
+      "surface": "ושמלת",
+      "gloss": "və paltarlar"
+    }
+  ],
+  "timestamp": "2026-09-01T10:09:06.418363517Z",
+  "model": "glm-5.3"
+}

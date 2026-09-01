@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 118:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 118,
+  "translation": "Yahve mənim üçündür, köməkçilərim içində ⟨⟨biz⟩⟩; və mən məni sevməyənlərə baxacağam.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənim üçün"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "köməkçilərim içində"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "və mən"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "baxacağam"
+    },
+    {
+      "surface": "בשנאי",
+      "gloss": "məni sevməyənlərə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:43.494289818Z",
+  "model": "glm-5.3"
+}

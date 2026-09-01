@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 143:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 143,
+  "translation": "Məni düşmənlərimdən qurtar, Yahve, sənin yanına sığındım.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "qurtar məni"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "düşmənlərimdən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sənin yanına"
+    },
+    {
+      "surface": "כסתי",
+      "gloss": "sığındım"
+    }
+  ],
+  "timestamp": "2026-09-01T15:44:26.108527890Z",
+  "model": "glm-5.3"
+}

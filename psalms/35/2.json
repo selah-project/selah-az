@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "Kiçik qalxanı və böyük qalxanı tut, qalx ⟨qal⟩ mənim köməyimə.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "tut"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "kiçik qalxanı"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "və böyük qalxanı"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "qalx"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "mənim köməyimə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:11:31.576519287Z",
+  "model": "glm-5.3"
+}

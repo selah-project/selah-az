@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 1:2",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Eşidin, ey göylər, və qulaq as, ey yer, çünki Yahve danışdı: oğullar böyütdüm və ucaltdım, onlar isə mənim üstümdə üsyan etdilər.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Eşidin"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "göylər"
+    },
+    {
+      "surface": "והאזיני",
+      "gloss": "və qulaq as"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "danışdı"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oğullar"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "böyütdüm"
+    },
+    {
+      "surface": "ורוממתי",
+      "gloss": "və ucaltdım"
+    },
+    {
+      "surface": "והם",
+      "gloss": "onlar isə"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "üsyan etdilər"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mənim üstümdə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:46:38.410248572Z",
+  "model": "glm-5.3"
+}

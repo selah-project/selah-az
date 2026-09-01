@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 145,
+  "translation": "⟨Sən⟩ ⟨את⟩ əlini açırsan, və hər canlı varlığı istəyinə görə doyurursan.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "açırsan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əlini"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "əlini"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "və doyurursan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "חי",
+      "gloss": "canlı varlığı"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "istəyinə görə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:34.900441758Z",
+  "model": "glm-5.3"
+}

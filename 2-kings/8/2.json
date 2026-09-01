@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 8:2",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Qadın qalxdı və Elohim adamının sözünə görə etdi; özü və evi yoldaşlığında getdi və Peliştim diyarında yeddi il müxalif kimi yaşadı.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "qadın qalxdı"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "qadın"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "və etdi"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sözünə görə"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "və getdi"
+    },
+    {
+      "surface": "היא",
+      "gloss": "özü"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "və evi"
+    },
+    {
+      "surface": "ותגר",
+      "gloss": "və müxalif kimi yaşadı"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "diyarında"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peliştim"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yeddi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "il"
+    }
+  ],
+  "timestamp": "2026-09-01T12:33:59.120252887Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və o vaxtda sizə dedim, deyə: tək başıma ⟨את⟩sizi daşıya bilmərəm.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "və dedim"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "sizə"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "vaxtda"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bilmərəm"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "gücüm çatmaz"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "tək başıma"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "daşımağa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩sizi",
+      "marks": "sizi (xalqı)"
+    }
+  ],
+  "timestamp": "2026-09-01T10:45:44.123805715Z",
+  "model": "glm-5.3"
+}

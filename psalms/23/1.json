@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Dəstdər, Davuda məxsus. Yahve mənim çobanım ⟨dır⟩ — çatışmazlığım olmayacaq.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Dəstdər"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davuda məxsus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "mənim çobanım"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—…deyil"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "çatışmazlığım olmayacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:07:47.505056957Z",
+  "model": "glm-5.3"
+}

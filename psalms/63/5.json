@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 63:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 63,
+  "translation": "Beləliklə, səni həyatım boyu bərəkətləyəcəyəm, adınla əllərimi qaldıracağam.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "beləliklə"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "səni bərəkətləyəcəyəm"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "həyatım boyu"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "adınla"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "qaldıracağam"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "əllərimi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:21:35.146669026Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 12:2",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Sən onları əkdin, kök saldılar, hətta irəli gedirlər, hətta meyvə verirlər; sən onların ağzında yaxınsan, böyrəklərindən isə uzaqsan.",
+  "tokens": [
+    {
+      "surface": "נטעתם",
+      "gloss": "onları əkdin"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hətta"
+    },
+    {
+      "surface": "שרשו",
+      "gloss": "kök saldılar"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "irəli gedirlər"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hətta"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "meyvə verirlər"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "meyvə"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "yaxın"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "onların ağzında"
+    },
+    {
+      "surface": "ורחוק",
+      "gloss": "isə uzaq"
+    },
+    {
+      "surface": "מכליותיהם",
+      "gloss": "böyrəklərindən"
+    }
+  ],
+  "timestamp": "2026-09-01T13:29:07.843766351Z",
+  "model": "glm-5.3"
+}

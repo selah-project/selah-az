@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 78:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 78,
+  "translation": "Atalarının gözü önündə möcüzələr etdi — Mitsrayim torpağında, Tsoan sahəsində.",
+  "tokens": [
+    {
+      "surface": "נגד",
+      "gloss": "gözü önündə"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "atalarının"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etdi"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "möcüzələr"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "torpağında"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "sahəsində"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Tsoan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:25:58.261651568Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 103:13",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 103,
+  "translation": "Ata övladları üzərinə rəhm etdiyi kimi, Yahve Ondan qorxanlar üzərinə rəhm edir.",
+  "tokens": [
+    {
+      "surface": "כרחם",
+      "gloss": "rəhm etdiyi kimi"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ata"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "övladları"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "rəhm edir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "Ondan qorxanlar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:33:51.448378892Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 21:10",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Və Avrahama dedi: Bu qadın köləni və onun oğlunu ⟨את⟩ qov; çünki bu qadın kölənin oğlu mənim oğlum İshaqla birlikdə varis olmayacaq.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avrahama"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "qov"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "qadın kölə"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oğlunu"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "oğlunu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "varis olmayacaq"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "qadın kölənin"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "birlikdə"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mənim oğlum"
+    },
+    {
+      "surface": "עם",
+      "gloss": "birlikdə"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "İshaqla"
+    }
+  ],
+  "timestamp": "2026-09-01T09:51:27.911598902Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 25:23",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Və şitim ağacından masa düzəldəcəksən: iki amma onun uzunluğu, bir amma onun eni və bir amma yarım onun hündürlüyü.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "düzəldəcəksan"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "masa"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ağacından"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "şitim"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "iki amma"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "uzunluğu"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "bir amma"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "eni"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "bir amma"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "yarım"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "hündürlüyü"
+    }
+  ],
+  "timestamp": "2026-09-01T10:16:42.340202533Z",
+  "model": "glm-5.3"
+}

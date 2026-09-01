@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 8:6",
+  "book": "joshua",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "və onlar ⟨את⟩ onları şəhərdən qopardığımızadək ardımızca çıxacaqlar, çünki deyəcəklər: «Bizim önümüzdən qaçırlar, ilkin dəfəki kimi» — və biz onların önündən qaçacağıq.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "və çıxacaqlar"
+    },
+    {
+      "surface": "אחרינו",
+      "gloss": "ardımızca"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-adək"
+    },
+    {
+      "surface": "התיקנו",
+      "gloss": "qopardığımızadək"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ onları",
+      "marks": "şəhərdən (qoparılan tərəf)"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şəhər"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "deyəcəklər"
+    },
+    {
+      "surface": "נסים",
+      "gloss": "qaçırlar"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "bizim önümüzdən"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "ilkin dəfə"
+    },
+    {
+      "surface": "ונסנו",
+      "gloss": "və qaçacağıq"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "onların önündən"
+    }
+  ],
+  "timestamp": "2026-09-01T11:05:18.339834661Z",
+  "model": "glm-5.3"
+}

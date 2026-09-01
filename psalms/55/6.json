@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 55,
+  "translation": "Qorxu və titrəmə içinə girir, dəhşət məni örtür.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "qorxu"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "və titrəmə"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "girir"
+    },
+    {
+      "surface": "בי",
+      "gloss": "içinə"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "örtür məni"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "dəhşət"
+    }
+  ],
+  "timestamp": "2026-09-01T15:17:40.788431302Z",
+  "model": "glm-5.3"
+}

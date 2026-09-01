@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 27:17",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Əgər Yovel ilindən ⟨öz⟩ tarlasını müqəddəs edirsə, sənin qiymətləndirmənin dəyərincə ⟨o⟩ qalxacaq.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Əgər"
+    },
+    {
+      "surface": "משנת",
+      "gloss": "ilindən"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "Yovel"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "müqəddəs edirsə"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "tarlasını"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "sənin qiymətləndirmənin dəyərincə"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "qalxacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T10:32:23.391788019Z",
+  "model": "glm-5.3"
+}

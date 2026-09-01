@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 14:20",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Onlar onu ⟨את⟩ atlarda daşıdılar və o, ataları ilə birlikdə, Davudun şəhərində, Yeruşalayimda dəfn edildi.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "daşıdılar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu (Amatsyahı)"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstdə"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "atların"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "dəfn edildi"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yeruşalayimda"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ilə birlikdə"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ataları"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "şəhərində"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davudun"
+    }
+  ],
+  "timestamp": "2026-09-01T12:36:04.275303664Z",
+  "model": "glm-5.3"
+}

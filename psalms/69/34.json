@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 69,
+  "translation": "Çünki Yahve kasıbların səsini eşidir və öz əsirlərini ⟨את⟩ hörmətsizliklə qarşılamır.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eşidir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–a doğru"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "kasıbların"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "öz əsirlərini"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "öz əsirlərini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "–mır"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "hörmətsizliklə qarşılamır"
+    }
+  ],
+  "timestamp": "2026-09-01T15:22:33.173156615Z",
+  "model": "glm-5.3"
+}

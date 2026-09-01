@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və Elohim ⟨את⟩ sərtləşmiş görünüşü düzəltdi, və sərtləşmiş görünüşün altındakı sular ilə sərtləşmiş görünüşün üstündəki sular arasında ayırdı, və belə oldu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "və düzəltdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sərtləşmiş görünüşü"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "sərtləşmiş görünüşü"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "və ayırdı"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "המים",
+      "gloss": "sular"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "altındakı"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "sərtləşmiş görünüşün"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ilə arasında"
+    },
+    {
+      "surface": "המים",
+      "gloss": "sular"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "üstündəki"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "sərtləşmiş görünüşün"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "və oldu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "belə"
+    }
+  ],
+  "timestamp": "2026-09-01T09:45:39.434077145Z",
+  "model": "glm-5.3"
+}

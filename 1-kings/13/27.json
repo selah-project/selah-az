@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 13:27",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Oğlanlarına danışdı, deyərək: «Mənim üçün ⟨את⟩ eşşəyi yəhərləyin.» Və onlar yəhərlədilər.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "danışdı"
+    },
+    {
+      "surface": "אל",
+      "gloss": "qarşı"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oğlanlarına"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "yəhərləyin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənim üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eşşəyi"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "eşşək"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "və yəhərlədilər"
+    }
+  ],
+  "timestamp": "2026-09-01T17:34:16.978684064Z",
+  "model": "glm-5.3"
+}

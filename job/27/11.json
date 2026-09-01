@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 27:11",
+  "book": "job",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Sizə Elin əli ilə ⟨את⟩ öyrədəcəyəm; Şadday ilə olanı gizlətməyəcəyəm.",
+  "tokens": [
+    {
+      "surface": "אורה",
+      "gloss": "öyrədəcəyəm"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizə"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "əl ilə"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olanı"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Şadday"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "אכחד",
+      "gloss": "gizlədirəm"
+    }
+  ],
+  "timestamp": "2026-09-01T17:44:15.151664869Z",
+  "model": "glm-5.3"
+}

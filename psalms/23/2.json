@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Təzə otların otlaqlarında məni uzadır, aramlıq suları boyunca məni aparır.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "otlaqlarında"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "təzə otların"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "məni uzadır"
+    },
+    {
+      "surface": "על",
+      "gloss": "boyunca"
+    },
+    {
+      "surface": "מי",
+      "gloss": "suları"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "aramlıq"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "məni aparır"
+    }
+  ],
+  "timestamp": "2026-09-01T15:07:47.505362677Z",
+  "model": "glm-5.3"
+}

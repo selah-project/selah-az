@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 4:13",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Qajin Yahveyə dedi: Günahım daşınacağımdan ⟨böyükdür⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Qajin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-yə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "günahım"
+    },
+    {
+      "surface": "מנשא",
+      "gloss": "daşınmaqdan"
+    }
+  ],
+  "timestamp": "2026-09-01T09:46:16.038747907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Çünki onların ayaqları şərə doğru qaçır və ⟨onlar⟩ qan tökməyə tələsirlər.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "onların ayaqları"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "şərə"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "qaçır"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "tələsirlər"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "tökməyə"
+    },
+    {
+      "surface": "דם",
+      "gloss": "qan"
+    }
+  ],
+  "timestamp": "2026-09-01T17:43:39.436211571Z",
+  "model": "glm-5.3"
+}

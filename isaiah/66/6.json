@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 66:6",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 66,
+  "translation": "Şəhərdən qiyamət səsi, məbəddən səs, Yahvenin səsi — düşmənlərinə əvəzini ödəyənin səsi.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "səsi"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "qiyamət"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "şəhərdən"
+    },
+    {
+      "surface": "קול",
+      "gloss": "səs"
+    },
+    {
+      "surface": "מהיכל",
+      "gloss": "məbəddən"
+    },
+    {
+      "surface": "קול",
+      "gloss": "səsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "ödəyənin"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "əvəzini"
+    },
+    {
+      "surface": "לאיביו",
+      "gloss": "düşmənlərinə"
+    }
+  ],
+  "timestamp": "2026-09-01T13:19:23.785422491Z",
+  "model": "glm-5.3"
+}

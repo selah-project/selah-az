@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 17:6",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Və kahin Yahvenin mizbəxinin üstünə, görüş çadırının qapısında, ⟨את⟩ qanı səpsin və ⟨את⟩ yağı Yahveyə xoş ətir üçün buxarlandırsın.",
+  "tokens": [
+    {
+      "surface": "וזרק",
+      "gloss": "və səpsin"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qanı"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "qanı"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizbəxinin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "qapısında"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadırının"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "görüş"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "və buxarlandırsın"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "yağı"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "ətir üçün"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "xoş"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:28:49.300192154Z",
+  "model": "glm-5.3"
+}

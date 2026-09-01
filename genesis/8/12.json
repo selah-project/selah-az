@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 8:12",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və o, başqa yeddi gün gözlədi və göyərçini ⟨את⟩ göndərdi, və göyərçin bir daha ona qayıtmağa davam etmədi.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "və gözlədi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "daha"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "yeddi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "başqa"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "və göndərdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "göyərçini"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "göyərçini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "יספה",
+      "gloss": "davam etmədi"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "qayıtmağa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bir daha"
+    }
+  ],
+  "timestamp": "2026-09-01T09:47:06.012327262Z",
+  "model": "glm-5.3"
+}

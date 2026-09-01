@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 11:15",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Yad üçün zəmanət duran ⟨adam⟩ bəla çəkar, əl vuranlara nifrət edən isə əmin-amanlıqdadır.",
+  "tokens": [
+    {
+      "surface": "רע",
+      "gloss": "bəla"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "çəkar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "zəmanət duran"
+    },
+    {
+      "surface": "זר",
+      "gloss": "yad"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "nifrət edən isə"
+    },
+    {
+      "surface": "תקעים",
+      "gloss": "əl vuranlara"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "əmin-amanlıqdadır"
+    }
+  ],
+  "timestamp": "2026-09-01T15:52:19.315619569Z",
+  "model": "glm-5.3"
+}

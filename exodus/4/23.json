@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 4:23",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Sənə dedim: Oğlumu burax ki, Mənə xidmət etsin; sən isə onu buraxmaqdan imtina etdin — bax, Mən oğlunu, sənin bəkirini öldürürəm.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "və dedim"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "burax"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oğlum"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Oğlumu"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "Mənə xidmət etsin"
+    },
+    {
+      "surface": "ותמאן",
+      "gloss": "imtina etdin"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "onu buraxmaqdan"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "öldürürəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oğlun"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "oğlunu"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "bəkirini"
+    }
+  ],
+  "timestamp": "2026-09-01T10:05:09.417076308Z",
+  "model": "glm-5.3"
+}

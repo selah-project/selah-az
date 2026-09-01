@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Oğlum, onlarla ⟨birgə⟩ ⟨את⟩ yolda gəzmə, ayağını onların cığırından çək.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "oğlum"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gəzmə"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "gəzmə"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolda"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onlarla birgə"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "çək"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ayağını"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "onların cığırından"
+    }
+  ],
+  "timestamp": "2026-09-01T17:43:39.434852071Z",
+  "model": "glm-5.3"
+}

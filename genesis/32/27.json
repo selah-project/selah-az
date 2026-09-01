@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 32:27",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Və dedi: Məni burax, çünki şəfəq qalxdı. Və ⟨o⟩ dedi: Səni buraxmayacağam, əgər məni mübarək etməsən.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "məni burax"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "qalxdı"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "şəfəq"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...məyir"
+    },
+    {
+      "surface": "אשלחך",
+      "gloss": "səni buraxmayacağam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "אם",
+      "gloss": "-sən"
+    },
+    {
+      "surface": "ברכתני",
+      "gloss": "məni mübarək et"
+    }
+  ],
+  "timestamp": "2026-09-01T09:56:04.212638240Z",
+  "model": "glm-5.3"
+}

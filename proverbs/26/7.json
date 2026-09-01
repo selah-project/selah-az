@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 26:7",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Çolağın ayaqları sallanır, kəsillərin ağzında isə məsəl ⟨dir⟩.",
+  "tokens": [
+    {
+      "surface": "דליו",
+      "gloss": "sallanır"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "ayaqları"
+    },
+    {
+      "surface": "מפסח",
+      "gloss": "çolağın"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "və məsəl"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ağzında"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "kəsillərin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:58:58.628042177Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 11:21",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Hadad isə Mitsrayimda eşitdi ki, Davud ataları ilə birlikdə yatmışdır və ki, ordunun başçısı Yoav ölmüşdür; Hadad Paroya dedi: Məni göndər ki, öz torpağıma gedim.",
+  "tokens": [
+    {
+      "surface": "והדד",
+      "gloss": "Hadad isə"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eşitdi"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayimda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "yatmışdır"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ilə birlikdə"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ataları"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "və ki"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ölmüşdür"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "שר",
+      "gloss": "başçısı"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ordunun"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "məni göndər"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "ki, gedim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "öz torpağıma"
+    }
+  ],
+  "timestamp": "2026-09-01T12:18:37.092899157Z",
+  "model": "glm-5.3"
+}

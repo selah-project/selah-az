@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 50:20",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 50,
+  "translation": "O günlərdə və o vaxtda — Yahvenin nümunidir — İsrailin günahı axtarılacaq ⟨את⟩, amma o yoxdur; və Yehudanın günahları ⟨את⟩, amma tapılmayacaqlar; çünki qaldıqlarına mən bağışlayacağam.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "günlərdə"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "o"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "və vaxtda"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "o"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nümunidir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "axtarılacaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsrailin günahı"
+    },
+    {
+      "surface": "עון",
+      "gloss": "günahı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailin"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "amma o yoxdur"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yehudanın günahları"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "günahları"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudanın"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma ... olmaz"
+    },
+    {
+      "surface": "תמצאינה",
+      "gloss": "tapılmayacaqlar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אסלח",
+      "gloss": "bağışlayacağam"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "-lara"
+    },
+    {
+      "surface": "אשאיר",
+      "gloss": "qaldıqlarıma"
+    }
+  ],
+  "timestamp": "2026-09-01T13:56:30.953307980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 8:15",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Sulh gözləyirdik, amma yaxşılıq yoxdur; şəfa vaxtını gözləyirdik, və bax — qorxu!",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "gözləyirdik"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "sulh"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "amma yoxdur"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşılıq"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "vaxtını"
+    },
+    {
+      "surface": "מרפה",
+      "gloss": "şəfa"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "və bax"
+    },
+    {
+      "surface": "בעתה",
+      "gloss": "qorxu"
+    }
+  ],
+  "timestamp": "2026-09-01T13:28:06.009341028Z",
+  "model": "glm-5.3"
+}

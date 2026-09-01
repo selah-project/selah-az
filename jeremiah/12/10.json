@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 12:10",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Bir çox çoban mənim bağımı xarab etdilər, ⟨את⟩ payımı əzib-dağıtdılar, ⟨את⟩ istədiyim payını viran çölə çevirdilər.",
+  "tokens": [
+    {
+      "surface": "רעים",
+      "gloss": "çoban"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "bir çox"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "xarab etdilər"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "mənim bağımı"
+    },
+    {
+      "surface": "בססו",
+      "gloss": "əzib-dağıtdılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "payımı"
+    },
+    {
+      "surface": "חלקתי",
+      "gloss": "payımı"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "çevirdilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "istədiyim payını"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "payını"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "istədiyim"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "çölə"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "viranə"
+    }
+  ],
+  "timestamp": "2026-09-01T13:29:58.127733625Z",
+  "model": "glm-5.3"
+}

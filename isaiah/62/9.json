@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 62:9",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 62,
+  "translation": "Çünki onu toplayanlar onu yeyəcək və Yahveni ⟨את⟩ tərifləyəcəklər; onu yığanlar isə məqaddəs həyətlərimdə onu içəcəklər.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "מאספיו",
+      "gloss": "onu toplayanlar"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "onu yeyəcək"
+    },
+    {
+      "surface": "והללו",
+      "gloss": "və tərifləyəcəklər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ומקבציו",
+      "gloss": "onu yığanlar isə"
+    },
+    {
+      "surface": "ישתהו",
+      "gloss": "onu içəcəklər"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "həyətlərində"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "məqaddəslərimin"
+    }
+  ],
+  "timestamp": "2026-09-01T13:16:47.518689026Z",
+  "model": "glm-5.3"
+}

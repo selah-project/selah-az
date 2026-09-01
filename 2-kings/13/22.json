@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Və Hazaəl, Aramın padşahı, Yehoaxazın bütün günlərində ⟨את⟩ İsraili sıxırdı.",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "Və Hazaəl"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşahı"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramın"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "sıxırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsraili"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "günlərində"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoaxazın"
+    }
+  ],
+  "timestamp": "2026-09-01T12:36:34.848386524Z",
+  "model": "glm-5.3"
+}

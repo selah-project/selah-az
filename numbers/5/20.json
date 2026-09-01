@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 5:20",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Amma sən, əgər ərin altında meyl etmisənsə və əgər murdarlanmısansa, və ərindən başqa bir adam səninlə ⟨את⟩ yatmağını veribsə —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "amma sən"
+    },
+    {
+      "surface": "כי",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "שטית",
+      "gloss": "meyl etmisənsə"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "אישך",
+      "gloss": "ərin"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "נטמאת",
+      "gloss": "murdarlanmısansa"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "veribsə"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "בך",
+      "gloss": "səninlə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yatmağını"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "yatmağını"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "başqa"
+    },
+    {
+      "surface": "אישך",
+      "gloss": "ərindən"
+    }
+  ],
+  "timestamp": "2026-09-01T10:35:11.551116938Z",
+  "model": "glm-5.3"
+}

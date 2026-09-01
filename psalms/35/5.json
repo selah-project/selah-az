@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "Saman kimi olsunlar küləyin qarşısında, və Yahvenin mələyi onları qovub dağıtsın.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "olsunlar"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "saman kimi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "qarşısında"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "küləyin"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "və mələyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "qovub dağıtsın"
+    }
+  ],
+  "timestamp": "2026-09-01T15:11:14.288576827Z",
+  "model": "glm-5.3"
+}

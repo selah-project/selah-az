@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 1:16",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Dedi: «İvri qadınları doğurtduğunuzda, doğuş daşları üstündə baxın — oğlansa, onu öldürün; qızsa, o yaşasın.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "בילדכן",
+      "gloss": "doğurtduğunuzda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ivri qadınları"
+    },
+    {
+      "surface": "העבריות",
+      "gloss": "ivri qadınları"
+    },
+    {
+      "surface": "וראיתן",
+      "gloss": "baxın"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "doğuş daşları"
+    },
+    {
+      "surface": "אם",
+      "gloss": "— əgər"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlansa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "והמתן",
+      "gloss": "öldürün"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "yoxsa əgər"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qızsa"
+    },
+    {
+      "surface": "היא",
+      "gloss": "o"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "yaşasın"
+    }
+  ],
+  "timestamp": "2026-09-01T10:03:54.434228388Z",
+  "model": "glm-5.3"
+}

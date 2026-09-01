@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 7:10",
+  "book": "song-of-songs",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Və damağın yaxşı şərab kimidir — doduğum üçün ⟨yumşaq⟩ axır, yatanların dodaqlarını oynadır.",
+  "tokens": [
+    {
+      "surface": "וחכך",
+      "gloss": "və damağın"
+    },
+    {
+      "surface": "כיין",
+      "gloss": "şərab kimidir"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "yaxşı"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "axır"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "doduğum üçün"
+    },
+    {
+      "surface": "למישרים",
+      "gloss": "⟨yumşaq⟩ düzgünlüklə"
+    },
+    {
+      "surface": "דובב",
+      "gloss": "oynadır"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "dodaqlarını"
+    },
+    {
+      "surface": "ישנים",
+      "gloss": "yatanların"
+    }
+  ],
+  "timestamp": "2026-09-01T18:20:57.150968290Z",
+  "model": "glm-5.3"
+}

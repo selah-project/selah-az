@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 46:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 46,
+  "translation": "Millətlər hay-küy saldı, padşahlıqlar sarsıldı; ⟨O⟩ öz səsini verdi, yer əridi.",
+  "tokens": [
+    {
+      "surface": "המו",
+      "gloss": "hay-küy saldı"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "millətlər"
+    },
+    {
+      "surface": "מטו",
+      "gloss": "sarsıldı"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "padşahlıqlar"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "öz səsini"
+    },
+    {
+      "surface": "תמוג",
+      "gloss": "əridi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-09-01T15:16:32.392704896Z",
+  "model": "glm-5.3"
+}

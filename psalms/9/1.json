@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Xor rəhbərinə, Alamut Laben üzərinə, Davidin məzmuru.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "xor rəhbərinə"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "Alamut üzərinə"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laben"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "məzmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:05:11.764443023Z",
+  "model": "glm-5.3"
+}

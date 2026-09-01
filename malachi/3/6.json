@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "malachi 3:6",
+  "book": "malachi",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Çünki Mən Yahve, dəyişmədim; və siz, Yaakov oğulları, məhv olmadasınız.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-mə"
+    },
+    {
+      "surface": "שניתי",
+      "gloss": "dəyişmədim"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "və siz"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-mə"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "məhv olmadasınız"
+    }
+  ],
+  "timestamp": "2026-09-01T15:00:54.743790509Z",
+  "model": "glm-5.3"
+}

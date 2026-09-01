@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 24:2",
+  "book": "2-samuel",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Və padşah Yoava, özü ilə olan ordu komandirinə dedi: Get indi İsrailin bütün qəbilələri boyunca Danedən Beer-Şebaya qədər, və xalqı sayın, və mən xalqın sayını bilim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "שר",
+      "gloss": "komandiri"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "ordunun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onun yanında",
+      "marks": "Yoav"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "gəz"
+    },
+    {
+      "surface": "נא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "qəbilələri boyunca"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailin"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Danedən"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Şeba"
+    },
+    {
+      "surface": "ופקדו",
+      "gloss": "və sayın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqı"
+    },
+    {
+      "surface": "וידעתי",
+      "gloss": "və bilim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sayını"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "sayını"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqın"
+    }
+  ],
+  "timestamp": "2026-09-01T12:08:19.790716900Z",
+  "model": "glm-5.3"
+}

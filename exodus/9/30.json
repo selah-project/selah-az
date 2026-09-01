@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Amma ⟨səni⟩ və qullarını ⟨gözüm tutur⟩ — bilirəm ki, siz hələ Yahve Elohim üzündən qorxmursunuz.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "amma sən"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "və qullarını"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "bilirəm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "hələ"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "qorxmursunuz"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "üzündən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T10:06:47.556855487Z",
+  "model": "glm-5.3"
+}

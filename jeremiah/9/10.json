@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 9:10",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Və ⟨את⟩ Yeruşalımı xarabalıqlara, çəkallara sığınacaq verəcəyəm; və ⟨את⟩ Yehudanın şəhərlərini sakinisiz viranəyə çevirəcəyəm.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "və verəcəyəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeruşalımı"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalımı"
+    },
+    {
+      "surface": "לגלים",
+      "gloss": "xarabalıqlara"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "sığınacaq"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "çəkallara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "Yehudanın şəhərlərini"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "şəhərlərini"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudanın"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "verəcəyəm"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "viranəyə"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "sakinisiz"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "sakin"
+    }
+  ],
+  "timestamp": "2026-09-01T13:27:07.867940070Z",
+  "model": "glm-5.3"
+}

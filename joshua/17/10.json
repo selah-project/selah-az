@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 17:10",
+  "book": "joshua",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Cənub Efrayimin ⟨idi⟩, şimal Menaşşenin, və dəniz onun sərhədi ⟨idi⟩; və Aşerdə ⟨qovuşurdular⟩ şimaldan, və Yissaşarda şərqdən.",
+  "tokens": [
+    {
+      "surface": "נגבה",
+      "gloss": "cənub"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Efrayimin"
+    },
+    {
+      "surface": "וצפונה",
+      "gloss": "və şimal"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "Menaşşenin"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "və ⟨idi⟩"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dəniz"
+    },
+    {
+      "surface": "גבולו",
+      "gloss": "onun sərhədi"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "və Aşerdə"
+    },
+    {
+      "surface": "יפגעון",
+      "gloss": "⟨qovuşurdular⟩"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "şimaldan"
+    },
+    {
+      "surface": "וביששכר",
+      "gloss": "və Yissaşarda"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "şərqdən"
+    }
+  ],
+  "timestamp": "2026-09-01T11:10:36.090062182Z",
+  "model": "glm-5.3"
+}

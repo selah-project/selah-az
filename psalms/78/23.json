@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 78:23",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 78,
+  "translation": "Və O, yuxarıdan buludlara əmr etdi, və səma qapılarını açdı.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "və əmr etdi"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "buludlara"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "yuxarıdan"
+    },
+    {
+      "surface": "ודלתי",
+      "gloss": "və qapılarını"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "səma"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "açdı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:25:44.886130931Z",
+  "model": "glm-5.3"
+}

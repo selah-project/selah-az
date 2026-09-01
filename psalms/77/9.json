@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 77,
+  "translation": "Müddətsizcə sonamu olub Onun hesedi? Nəsil-nəsilə qədər sözü qurtarıbmı?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "sonamu olub"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "müddətsizcə"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Onun hesedi"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "qurtarıbmı"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sözü"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "nəsilə qədər"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nəsilə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:24:54.541827020Z",
+  "model": "glm-5.3"
+}

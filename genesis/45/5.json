@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 45:5",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 45,
+  "translation": "İndi isə kədərlənməyin və gözünüzdə ⟨buna⟩ qəzəb alaymasın ki, məni ⟨את⟩ bura sattınız; çünki həyat ⟨qorumaq⟩ üçün Elohim məni sizdən əvvəl göndərdi.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "indi isə"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תעצבו",
+      "gloss": "kədərlənməyin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "qəzəb alaymasın"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "gözünüzdə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "sattınız"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ məni",
+      "marks": "bura (birbaşa obyekt: məni)"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bura"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "למחיה",
+      "gloss": "həyat ⟨qorumaq⟩ üçün"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "məni göndərdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "sizdən əvvəl"
+    }
+  ],
+  "timestamp": "2026-09-01T10:02:18.576746295Z",
+  "model": "glm-5.3"
+}

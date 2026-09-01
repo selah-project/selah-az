@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 50:2",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 50,
+  "translation": "Yosef qullarına — həkimlərə — atasını balzamlamağı əmr etdi, və həkimlər İsrailı balzamladılar ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "əmr etdi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qullarına"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "qullarına"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "həkimlərə"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "həkimlərə"
+    },
+    {
+      "surface": "לחנט",
+      "gloss": "balzamlamağı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atasını"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atasını"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "balzamladılar"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "həkimlər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsrailı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailı"
+    }
+  ],
+  "timestamp": "2026-09-01T10:04:28.717218409Z",
+  "model": "glm-5.3"
+}

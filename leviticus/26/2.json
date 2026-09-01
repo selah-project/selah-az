@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "⟨את⟩ Şabatlarımı qoruyun və mənim müqəddəsliyimdən qorxun; Mən Yahve.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şabatlarımı"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Şabatlarımı"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "qoruyun"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "müqəddəsliyimdən"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "qorxun"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T10:31:26.749034452Z",
+  "model": "glm-5.3"
+}

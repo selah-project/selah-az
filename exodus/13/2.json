@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 13:2",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Mənə müqəddəs et hər bəkoru, hər bətnin açılışı olanı, İsrail oğullarında — insanda və heyvanda: mənimdir o.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "müqəddəs et"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "bəkor"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "açılışı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "bətnin"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "oğullarında"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "insanda"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "və heyvanda"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənimdir"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-09-01T10:09:45.821600048Z",
+  "model": "glm-5.3"
+}

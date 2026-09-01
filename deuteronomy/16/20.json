@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 16:20",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Ədalət, ədalət təqib edəcəksən, ki yaşayasın və miras alasan ⟨את⟩ torpağı, which Yahve sənin Elohimin sənə verir.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "ədalət"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ədalət"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "təqib edəcəksən"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "yaşayasın"
+    },
+    {
+      "surface": "וירשת",
+      "gloss": "və miras alasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "torpağı"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "torpağı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sənin Elohimin"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verir"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:51:05.655782532Z",
+  "model": "glm-5.3"
+}

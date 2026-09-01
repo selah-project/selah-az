@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ruth 1:4",
+  "book": "ruth",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və özlərinə Möablı qadınlar aldılar; birincinin adı Orpa, ikincinin adı isə Rut idi. Və orada təxminən on il yaşadılar.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "aldılar"
+    },
+    {
+      "surface": "להם",
+      "gloss": "özlərinə"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "qadınlar"
+    },
+    {
+      "surface": "מאביות",
+      "gloss": "Möablı"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adı"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "birincinin"
+    },
+    {
+      "surface": "ערפה",
+      "gloss": "Orpa"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "və adı"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ikincinin"
+    },
+    {
+      "surface": "רות",
+      "gloss": "Rut"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "yaşadılar"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "כעשר",
+      "gloss": "təxminən on"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "il"
+    }
+  ],
+  "timestamp": "2026-09-01T16:25:00.570562315Z",
+  "model": "glm-5.3"
+}

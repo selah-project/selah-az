@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 115:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 115,
+  "translation": "Ağızları ⟨var⟩ onlarda, amma danışmırlar; gözləri ⟨var⟩ onlarda, amma görmürlər.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "ağızları"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlarda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma danışmırlar"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "danışmırlar"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "gözləri"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlarda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma görmürlər"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "görmürlər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:10.927445386Z",
+  "model": "glm-5.3"
+}

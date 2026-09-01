@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 4:10",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Nə edək: divar üstündə kiçik ⟨bir⟩ üst otaq düzəlt, orada ona yataq, süfrə, oturacaq və çıraq qoyaq; və ⟨olacaq ki⟩ o, bizə gəldikdə oraya çəkilsin.",
+  "tokens": [
+    {
+      "surface": "נעשה",
+      "gloss": "düzəlt"
+    },
+    {
+      "surface": "נא",
+      "gloss": "Nə edək (xahiş)"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "üst otaq"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "divar üstündə"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "kiçik"
+    },
+    {
+      "surface": "ונשים",
+      "gloss": "qoyaq"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "yataq"
+    },
+    {
+      "surface": "ושלחן",
+      "gloss": "süfrə"
+    },
+    {
+      "surface": "וכסא",
+      "gloss": "oturacaq"
+    },
+    {
+      "surface": "ומנורה",
+      "gloss": "çıraq"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "və ⟨olacaq ki⟩"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "o gəldikdə"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "bizə"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "çəkilsin"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "oraya"
+    }
+  ],
+  "timestamp": "2026-09-01T12:29:35.194595447Z",
+  "model": "glm-5.3"
+}

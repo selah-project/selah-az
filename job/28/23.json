@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "Elohim onun yolunu başa düşür və O, ⟨את⟩ onun yerini bilir.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "başa düşür"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "onun yolunu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "və O"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onun yerini"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "onun yerini"
+    }
+  ],
+  "timestamp": "2026-09-01T16:12:25.916397824Z",
+  "model": "glm-5.3"
+}

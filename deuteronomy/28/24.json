@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "Yahve ⟨את⟩ sənin torpağının yağışını toz və torpaq tozu edəcək; o, göydən sənin üstünə məhv olana qədər enəcək.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "verəcək"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yağış"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "yağış"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "torpağının"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "toz"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "və torpaq tozu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "‑dan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göydən"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "enəcək"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sənin üstünə"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nə qədər ki"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "məhv olursan"
+    }
+  ],
+  "timestamp": "2026-09-01T10:56:23.739903011Z",
+  "model": "glm-5.3"
+}

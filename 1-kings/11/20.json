@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 11:20",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Tachpenesin bacısı ona oğlu Genubatı doğdu ⟨את⟩, və Tachpenes onu Paronun evinin içində süddən kəsdi; Genubat isə Paronun evində Paronun oğullarının ortasında ⟨idi⟩.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "doğdu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "bacısı"
+    },
+    {
+      "surface": "תחפניס",
+      "gloss": "Tachpenesin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Genubat"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genubatı"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "ותגמלהו",
+      "gloss": "süddən kəsdi"
+    },
+    {
+      "surface": "תחפנס",
+      "gloss": "Tachpenes"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "içində"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evində"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paronun"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "⟨idi⟩"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genubat"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evində"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paronun"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ortasında"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paronun"
+    }
+  ],
+  "timestamp": "2026-09-01T12:19:59.810341002Z",
+  "model": "glm-5.3"
+}

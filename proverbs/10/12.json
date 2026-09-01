@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 10:12",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Nifrət çəkişmələr oyadır, amma məhəbbət bütün üsyanları örtər.",
+  "tokens": [
+    {
+      "surface": "שנאה",
+      "gloss": "Nifrət"
+    },
+    {
+      "surface": "תעורר",
+      "gloss": "oyadır"
+    },
+    {
+      "surface": "מדנים",
+      "gloss": "çəkişmələr"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "amma ... üzərinə"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "üsyanları"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "örtər"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "məhəbbət"
+    }
+  ],
+  "timestamp": "2026-09-01T15:50:52.039982444Z",
+  "model": "glm-5.3"
+}

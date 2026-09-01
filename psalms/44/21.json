@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 44:21",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 44,
+  "translation": "Əgər biz Elohimimizin adını unutmuşuqsa və əllərimizi yad bir El üçün açmışıqsa —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "שכחנו",
+      "gloss": "unutmuşuqsa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adını"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimizin"
+    },
+    {
+      "surface": "ונפרש",
+      "gloss": "və açmışıqsa"
+    },
+    {
+      "surface": "כפינו",
+      "gloss": "əllərimizi"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "bir El üçün"
+    },
+    {
+      "surface": "זר",
+      "gloss": "yad"
+    }
+  ],
+  "timestamp": "2026-09-01T15:15:11.707642529Z",
+  "model": "glm-5.3"
+}

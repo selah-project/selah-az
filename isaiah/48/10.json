@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 48:10",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 48,
+  "translation": "Bax, səni təmizlədim, amma gümüş kimi yox; səni dərd sobasında seçdim.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bax"
+    },
+    {
+      "surface": "צרפתיך",
+      "gloss": "səni təmizlədim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma yox"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "gümüş kimi"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "səni seçdim"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "sobasında"
+    },
+    {
+      "surface": "עני",
+      "gloss": "dərd"
+    }
+  ],
+  "timestamp": "2026-09-01T13:09:11.688242332Z",
+  "model": "glm-5.3"
+}

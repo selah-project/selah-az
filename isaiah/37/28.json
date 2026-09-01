@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 37:28",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Oturmağını, çıxışını və girişini bilirəm, və Mənə qarşı qəzəbini ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "oturmağını"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "çıxışını"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "girişini"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "bilirəm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qəzəbini"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "qəzəbini"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Mənə qarşı"
+    }
+  ],
+  "timestamp": "2026-09-01T13:05:34.844535726Z",
+  "model": "glm-5.3"
+}

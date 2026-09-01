@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 3:3",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Yalnız Navatın oğlu Yarovamın günahlarına — İsraili ⟨את⟩ günaha salan — yapışdı, onlardan uzaqlaşmadı.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Yalnız"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "günahlarına"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovamın"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Navatın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "günaha salan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsraili"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "yapışdı"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "סר",
+      "gloss": "uzaqlaşmadı"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "onlardan"
+    }
+  ],
+  "timestamp": "2026-09-01T12:29:24.934984014Z",
+  "model": "glm-5.3"
+}

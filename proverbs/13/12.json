@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 13:12",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Uzatılmış ümid ürəyi xəstə edir, amma gələn arzu həyat ağacıdır.",
+  "tokens": [
+    {
+      "surface": "תוחלת",
+      "gloss": "ümid"
+    },
+    {
+      "surface": "ממשכה",
+      "gloss": "uzatılmış"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "xəstə edir"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ürəyi"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "amma ağacı"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "həyat"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "arzu"
+    },
+    {
+      "surface": "באה",
+      "gloss": "gələn"
+    }
+  ],
+  "timestamp": "2026-09-01T15:51:37.011196083Z",
+  "model": "glm-5.3"
+}

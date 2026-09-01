@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 3:6",
+  "book": "judges",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Onların qızlarını özlərinə arvad olaraq aldılar, öz qızlarını isə onların oğullarına verdilər və onların tanrılarına xidmət etdilər.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "aldılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onların qızlarını"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "onların qızlarını"
+    },
+    {
+      "surface": "להם",
+      "gloss": "özlərinə"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "arvad olaraq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "öz qızlarını"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "öz qızlarını"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "verdilər"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "onların oğullarına"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "və xidmət etdilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onların tanrılarına"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "onların tanrılarına"
+    }
+  ],
+  "timestamp": "2026-09-01T11:16:26.719727411Z",
+  "model": "glm-5.3"
+}

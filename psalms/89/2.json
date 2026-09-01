@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 89,
+  "translation": "Yahvenin hesedini (sadiq məhəbbətini) əbədi oxuyacağam; nəsildən nəslə ağzımla sənin ⟨sadiqliyini⟩ bildirəcəyəm.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "hesedini (sadiq məhəbbətini)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "oxuyacağam"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "nəsildən"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nəslə"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "bildirəcəyəm"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "sənin sadiqliyini"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ağzımla"
+    }
+  ],
+  "timestamp": "2026-09-01T15:30:04.773871555Z",
+  "model": "glm-5.3"
+}

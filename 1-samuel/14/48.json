@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-samuel 14:48",
+  "book": "1-samuel",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Və o, qəhrəmanlıq etdi və ⟨את⟩ Amaleki vurdu və ⟨את⟩ İsraili onu qarət edənin əlindən qurtardı.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "və etdi"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "qəhrəmanlıq"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "və vurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleki"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleki"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "və qurtardı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsraili"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsraili"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "əlindən"
+    },
+    {
+      "surface": "שסהו",
+      "gloss": "onu qarət edənin"
+    }
+  ],
+  "timestamp": "2026-09-01T11:38:34.872127188Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 11:24",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "öz yanına adamlar topladı və Davud onları ⟨את⟩ öldürəndə dəstə başçısı oldu; Dameşeqə getdilər, orada məskən saldılar və Dameşeqdə hökmranlıq etdilər.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "topladı"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "öz yanına"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "adamlar"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "שר",
+      "gloss": "başçısı"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "dəstə"
+    },
+    {
+      "surface": "בהרג",
+      "gloss": "öldürəndə"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "getdilər"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Dameşeqə"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "məskən saldılar"
+    },
+    {
+      "surface": "בה",
+      "gloss": "orada"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "hökmranlıq etdilər"
+    },
+    {
+      "surface": "בדמשק",
+      "gloss": "Dameşeqdə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:18:37.093458981Z",
+  "model": "glm-5.3"
+}

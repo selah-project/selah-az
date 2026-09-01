@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 9:18",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Və ⟨את⟩ öküzü və ⟨את⟩ qoçu kəsdi — xalq üçün salam qurbanları kimi; Aharonun oğulları ⟨את⟩ qanı ona gətirdilər və o, onu qurbangahın ətrafına səpdi.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "kəsdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öküzü"
+    },
+    {
+      "surface": "השור",
+      "gloss": "öküzü"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qoçu"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "qoçu"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "qurban"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "salam qurbanları"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olan"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "xalq üçün"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "gətirdilər"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qanı"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "qanı"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ויזרקהו",
+      "gloss": "onu səpdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "qurbangahın"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ətrafına"
+    }
+  ],
+  "timestamp": "2026-09-01T10:24:49.388247688Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 3:16",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "və kahib onları mənbəhidə tüstü kimi qaldıracaq — od qurbanının yeməyi xoş qoxu üçün; bütün piy Yahvenindir.",
+  "tokens": [
+    {
+      "surface": "והקטירם",
+      "gloss": "və tüstü kimi qaldıracaq"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahib"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "mənbəhidə"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "yeməyi"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "od qurbanının"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "qoxusu üçün"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "xoş"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "piy"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvenindir"
+    }
+  ],
+  "timestamp": "2026-09-01T10:22:28.043792676Z",
+  "model": "glm-5.3"
+}

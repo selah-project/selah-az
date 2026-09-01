@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 36:22",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 36,
+  "translation": "Padşah isə qış evində, doqquzuncu ayda oturmuşdu, və onun önündə ⟨את⟩ ocaq yanırdı.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "padşah isə"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "oturmuşdu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evində"
+    },
+    {
+      "surface": "החרף",
+      "gloss": "qış"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ayında"
+    },
+    {
+      "surface": "התשיעי",
+      "gloss": "doqquzuncu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ocaq"
+    },
+    {
+      "surface": "האח",
+      "gloss": "ocaq"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "onun önündə"
+    },
+    {
+      "surface": "מבערת",
+      "gloss": "yanırdı"
+    }
+  ],
+  "timestamp": "2026-09-01T13:47:44.263040708Z",
+  "model": "glm-5.3"
+}

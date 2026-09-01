@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 41:8",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 41,
+  "translation": "Sən isə, ey İsrail, mənim qulum, ey Yaqub, hansı ki, səni seçmişəm, Avrahamın, mənim sevimlimin toxumu.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Sən isə"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ey İsrail"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mənim qulum"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ey Yaqub"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hansı ki"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "səni seçmişəm"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "toxumu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamın"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "mənim sevimlimin"
+    }
+  ],
+  "timestamp": "2026-09-01T13:07:13.944174813Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Sən mənim gizlənmə yerimsən, sıxıntıdan məni qoruyursan, xilas ⟨nəğmələri ilə⟩ məni əhatə edirsən. Selah.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sən"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "gizlənmə yeri"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənim"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "sıxıntıdan"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "məni qoruyursan"
+    },
+    {
+      "surface": "רני",
+      "gloss": "nəğmələri"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "xilas"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "məni əhatə edirsən"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T17:41:42.104270786Z",
+  "model": "glm-5.3"
+}

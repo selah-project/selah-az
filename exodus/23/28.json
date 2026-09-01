@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Və arını önünüzə göndərəcəyəm, və o, Hivili, Kənanili və Hittili önünüzden qovacaq.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "göndərəcəyəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arı"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "arı"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "önünüzə"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "qovacaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hivili"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hivili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kənanili"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kənanili"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Hittili"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hittili"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "önünüzden"
+    }
+  ],
+  "timestamp": "2026-09-01T10:14:42.234410139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 29:8",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "Və ⟨את⟩ oğullarını yaxınlaşdıracaqsan və onları köynəklərlə geyindirəcəksən.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oğullarını"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "yaxınlaşdıracaqsan"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "geyindirəcəksən"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "köynəklərlə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:17:51.612602275Z",
+  "model": "glm-5.3"
+}

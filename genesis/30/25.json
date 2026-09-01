@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 30:25",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Və ⟨oldu⟩, Raḥel Yosefi doğanda, Yaaqov Lavana dedi: Məni burax, ki mən öz yerimə və öz torpağıma gedim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨oldu⟩"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kəsə ki, vaxt ki"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "doğanda"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Raḥel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaqov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a doğru (ona)"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "məni burax (göndər)"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "və gedim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə doğru"
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "öz yerim"
+    },
+    {
+      "surface": "ולארצי",
+      "gloss": "və öz torpağıma"
+    }
+  ],
+  "timestamp": "2026-09-01T09:55:12.545367971Z",
+  "model": "glm-5.3"
+}

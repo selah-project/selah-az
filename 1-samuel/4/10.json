@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 4:10",
+  "book": "1-samuel",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Peliştimlilər vuruşdular və İsrail məğlub edildi, hər adam öz çadırına qaçdı, və ⟨məğlubiyyət⟩ çox böyük oldu, və İsrailin otuz min piyadası ⟨yıxıldı⟩.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "vuruşdular"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peliştimlilər"
+    },
+    {
+      "surface": "וינגף",
+      "gloss": "məğlub edildi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "qaçdı"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər adam"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "öz çadırına"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "və oldu"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "məğlubiyyət"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çox"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "yıxıldı"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "İsrailin"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "otuz"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "min"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "piyada"
+    }
+  ],
+  "timestamp": "2026-09-01T11:31:59.122419551Z",
+  "model": "glm-5.3"
+}

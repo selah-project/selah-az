@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 37:19",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "və atdılar ⟨את⟩ onların tanrılarını odla ⟨içinə⟩, çünki tanrı ⟨deyillər⟩ onlar, ancaq insan əllərinin əməli — ağac və daş; və məhv etdilər onları.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "və atdılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onların tanrılarını"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "onların tanrılarını"
+    },
+    {
+      "surface": "באש",
+      "gloss": "odla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨deyillər⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tanrı"
+    },
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ancaq"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "əməli"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "əllərinin"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ağac"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "və daş"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "və məhv etdilər onları"
+    }
+  ],
+  "timestamp": "2026-09-01T13:05:01.780428769Z",
+  "model": "glm-5.3"
+}

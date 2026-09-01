@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 8:10",
+  "book": "daniel",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və o, göyün ordusuna qədər böyüdü və ordudan ⟨bəzilərini⟩ və ulduzlardan ⟨bəzilərini⟩ yerə yıxdı və onları əzib keçdi.",
+  "tokens": [
+    {
+      "surface": "ותגדל",
+      "gloss": "böyüdü"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ordusuna"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göyün"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "və yıxdı"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yerə"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…dan"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ordudan"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "və …dan"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "ulduzlardan"
+    },
+    {
+      "surface": "ותרמסם",
+      "gloss": "və onları əzdi"
+    }
+  ],
+  "timestamp": "2026-09-01T16:43:20.365838831Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 42,
+  "translation": "Gündüz Yahve öz hesedini buyurar, gecə isə mənimlə nəğmə ⟨olacaq⟩ — canımın Elinə dua.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "Gündüz"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "buyurar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "öz hesedini"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "gecə isə"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "nəğmə"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mənimlə"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "dua"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "canımın"
+    }
+  ],
+  "timestamp": "2026-09-01T15:14:16.241643215Z",
+  "model": "glm-5.3"
+}

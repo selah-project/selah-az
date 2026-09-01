@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 68:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 68,
+  "translation": "Yer titrədi, hətta göylər Elohimin üzü qarşısında damlədilər; bu Sinaidir, Elohimin, İsrailin Elohiminin üzü qarşısında.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "titrədi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hətta"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "göylər"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "damlədilər"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "üzü qarşısında"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaidir"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "üzü qarşısında"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohiminin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:22:16.077106544Z",
+  "model": "glm-5.3"
+}

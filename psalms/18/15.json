@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 18:15",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Oxlarını göndərdi və onları səpələdi, çox şimşək ⟨atdı⟩ və onları sarsıtdı.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "göndərdi"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "oxlarını"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "səpələdi"
+    },
+    {
+      "surface": "וברקים",
+      "gloss": "şimşəklər"
+    },
+    {
+      "surface": "רב",
+      "gloss": "çox"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "sarsıtdı"
+    }
+  ],
+  "timestamp": "2026-09-01T17:42:05.307235560Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Çünki Yahvedən başqa kim var Eloah? Və Elohimimizdən başqa kim var qaya?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "başqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvedən"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "və kim"
+    },
+    {
+      "surface": "צור",
+      "gloss": "qaya"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "başqa"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimizdən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:06:23.466387510Z",
+  "model": "glm-5.3"
+}

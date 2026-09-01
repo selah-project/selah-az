@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 5:16",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Saman qullarına verilmir, kərpicdə isə bizə deyirlər: edin; və bax, qulların döyülür — və günahkar sənin xalqındır.",
+  "tokens": [
+    {
+      "surface": "תבן",
+      "gloss": "saman"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yox"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verilmir"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "qullarına"
+    },
+    {
+      "surface": "ולבנים",
+      "gloss": "kərpicdə"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "deyirlər"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizə"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "edin"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "və bax"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "qulların"
+    },
+    {
+      "surface": "מכים",
+      "gloss": "döyülür"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "günahkar"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sənin xalqın"
+    }
+  ],
+  "timestamp": "2026-09-01T10:05:49.516990711Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 41,
+  "translation": "Yahve onu xəstəlik döşəyində dəstəkləyəcək; onun bütün yatağını Sən xəstəliyində çevirmisən.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "onu dəstəkləyəcək"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərində"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "döşəyində"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "xəstəlik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "yatağını"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "çevirmisən"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "xəstəliyində"
+    }
+  ],
+  "timestamp": "2026-09-01T15:14:03.033933916Z",
+  "model": "glm-5.3"
+}

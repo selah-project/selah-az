@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 35:14",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "və ⟨את⟩ çıraqdanı — işıq ⟨üçün⟩ — və ⟨את⟩ ləvazimatını, və ⟨את⟩ çıraqlarını, və ⟨את⟩ işıq üçün yağını",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "çıraqdanı"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "çıraqdanı"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "işıq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "ləvazimatını"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "ləvazimatını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "çıraqlarını"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "çıraqlarını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "yağını"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "yağını"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "işıq"
+    }
+  ],
+  "timestamp": "2026-09-01T17:56:44.219735870Z",
+  "model": "glm-5.3"
+}

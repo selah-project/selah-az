@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Hər təmiz quşu yeyə bilərsiniz.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "quş"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "təmiz"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yeyə bilərsiniz"
+    }
+  ],
+  "timestamp": "2026-09-01T10:50:13.053097353Z",
+  "model": "glm-5.3"
+}

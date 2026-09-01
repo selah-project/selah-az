@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 26:16",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Bu gün Yahve sənin Elohimin sənə bu qanunları və ⟨את⟩ hökmləri yerinə yetirməyi buyurur; və onları qoruyacaqsan və yerinə yetirəcəksən bütün qəlbinlə və bütün canınla.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "bu gün"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨bu⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sənin Elohimin"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "sənə buyurur"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yerinə yetirməyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu qanunlar"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "qanunlar"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "hökmlər"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "hökmlər"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "və qoruyacaqsan"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "və yerinə yetirəcəksən"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "onları ⟨⟨את⟩ kimi⟩",
+      "marks": "qanunları və hökmləri"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "qəlbinlə"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "canınla"
+    }
+  ],
+  "timestamp": "2026-09-01T10:55:02.353557235Z",
+  "model": "glm-5.3"
+}

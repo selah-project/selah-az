@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Yoxsulu soyma, çünki o yoxsuldur, və qapıda ⟨kinli⟩ əzilişi əzmə ⟨ki⟩",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "soyma"
+    },
+    {
+      "surface": "דל",
+      "gloss": "yoxsulu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "דל",
+      "gloss": "yoxsul"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "əzmə"
+    },
+    {
+      "surface": "עני",
+      "gloss": "əzilişi"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "qapıda"
+    }
+  ],
+  "timestamp": "2026-09-01T15:57:12.778548073Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 7:8",
+  "book": "job",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Məni görən gözün baxışı məni ⟨artıq⟩ seyr etməyəcək; sənin gözlərin məndə ⟨olanda⟩ — və mən yoxam.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תשורני",
+      "gloss": "məni seyr etməyəcək"
+    },
+    {
+      "surface": "עין",
+      "gloss": "göz"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "görənimin"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "sənin gözlərin"
+    },
+    {
+      "surface": "בי",
+      "gloss": "məndə"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "və mən yoxam"
+    }
+  ],
+  "timestamp": "2026-09-01T16:05:17.843527871Z",
+  "model": "glm-5.3"
+}

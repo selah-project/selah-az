@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Mizmor, evin təqdis edilməsi mərasimi nəğməsi, Davuda aid.",
+  "tokens": [
+    {
+      "surface": "מִזְמֽוֹר",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "שִׁיר",
+      "gloss": "nəğmə"
+    },
+    {
+      "surface": "חֲנֻכַּ֖ת",
+      "gloss": "təqdis edilməsi mərasimi"
+    },
+    {
+      "surface": "הַבַּ֣יִת",
+      "gloss": "evin"
+    },
+    {
+      "surface": "לְדָוִֽד",
+      "gloss": "Davuda aid"
+    }
+  ],
+  "timestamp": "2026-09-01T18:01:51.860679967Z",
+  "model": "glm-5.3"
+}

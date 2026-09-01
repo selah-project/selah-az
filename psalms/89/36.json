@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 89:36",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 89,
+  "translation": "Bir dəfə müqəddəsliyimlə and içdim: əgər Davuda yalan deyərsəmsə!",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "bir dəfə"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "and içdim"
+    },
+    {
+      "surface": "בקדשי",
+      "gloss": "müqəddəsliyimlə"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davuda"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "yalan deyərsəmsə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:53.478807582Z",
+  "model": "glm-5.3"
+}

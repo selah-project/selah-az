@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 44:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 44,
+  "translation": "Amma rədd etdin və bizi utancdan saldın, ordularımızla birlikdə ⟨çıxmadın⟩.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Amma"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "rədd etdin"
+    },
+    {
+      "surface": "ותכלימנו",
+      "gloss": "və bizi utancdan saldın"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ⟨çıxmadın⟩"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "çıxmaq"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "ordularımızla"
+    }
+  ],
+  "timestamp": "2026-09-01T15:15:10.565575021Z",
+  "model": "glm-5.3"
+}

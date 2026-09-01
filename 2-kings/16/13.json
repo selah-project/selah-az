@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 16:13",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "və ⟨את⟩ tam qurbanını və ⟨את⟩ un qurbanını tüstüləndirdi, ⟨את⟩ içilik qurbanını tökdü, ⟨את⟩ öz şalam qurbanlarının qanını məzbəhin üstünə səpdi.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "tüstüləndirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tam qurbanını"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "tam qurbanını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "un qurbanını"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "un qurbanını"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "tökdü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "içilik qurbanını"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "içilik qurbanını"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "səpdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qanını"
+    },
+    {
+      "surface": "דם",
+      "gloss": "qanını"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "şalam qurbanlarının"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona məxsus"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "məzbəhin"
+    }
+  ],
+  "timestamp": "2026-09-01T12:39:17.963627044Z",
+  "model": "glm-5.3"
+}

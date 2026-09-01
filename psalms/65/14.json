@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 65:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 65,
+  "translation": "Çəmənliklər qoyun sürüləri ilə geyinirlər, vadilər dənlə örtünürlər; ⟨onlar⟩ sevincdən hay-küy salırlar, hətta oxuyurlar.",
+  "tokens": [
+    {
+      "surface": "לבשו",
+      "gloss": "geyinirlər"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "qoyun sürüləri"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "⟨ilə⟩"
+    },
+    {
+      "surface": "ועמקים",
+      "gloss": "vadilər"
+    },
+    {
+      "surface": "יעטפו",
+      "gloss": "örtünürlər"
+    },
+    {
+      "surface": "בר",
+      "gloss": "dənlə"
+    },
+    {
+      "surface": "יתרועעו",
+      "gloss": "hay-küy salırlar"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hətta"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "oxuyurlar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:20:08.778785709Z",
+  "model": "glm-5.3"
+}

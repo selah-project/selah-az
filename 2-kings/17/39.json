@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-kings 17:39",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "əksinə, yalnız Yahve, sizin Elohiminizdən qorxun, və O, ⟨את⟩ sizi bütün düşmənlərinizin əlindən qurtaracaq.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "əksinə"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "sizin Elohiminizdən"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "qorxun"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "və O"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "qurtaracaq"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "əlindən"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "düşmənlərinizin"
+    }
+  ],
+  "timestamp": "2026-09-01T17:59:52.201773421Z",
+  "model": "glm-5.3"
+}

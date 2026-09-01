@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 52,
+  "translation": "Salehlər görəcək və qorxacaq, və ona gücəcəklər.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "və görəcəklər"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "salehlər"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "və qorxacaq"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "və ona"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "gücəcəklər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:18:49.905021086Z",
+  "model": "glm-5.3"
+}

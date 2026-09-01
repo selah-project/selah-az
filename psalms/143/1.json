@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 143,
+  "translation": "Davidin məzmuru. Yahve, duamı eşit, yalvarışlarıma qulaq as; sədaqətində mənə cavab ver, ədalətində ⟨mənə cavab ver⟩.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "məzmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eşit"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "duamı"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "qulaq as"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨elaye⟩"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "yalvarışlarıma"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "sədaqətində"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "mənə cavab ver"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "ədalətində"
+    }
+  ],
+  "timestamp": "2026-09-01T15:45:05.651417591Z",
+  "model": "glm-5.3"
+}

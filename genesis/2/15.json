@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Yahve Elohim insanı götürdü və onu İden bağçasında yerləşdirdi — onu işləmək və qorumaq üçün.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "götürdü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "insanı"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insanı"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "yerləşdirdi onu"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "bağçada"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "İden"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "onu işləmək üçün"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "və onu qorumaq"
+    }
+  ],
+  "timestamp": "2026-09-01T09:45:59.694315445Z",
+  "model": "glm-5.3"
+}

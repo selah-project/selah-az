@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 33:5",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "⟨את⟩ Şofarın səsini eşitdi və oyandırılmadı — onun qanı öz üstündə olacaq; o isə oyandırılsaydı, canını qurtarardı.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şofarın səsi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "səsi"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "şofarın"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eşitdi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "oyandırılmadı"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "qanı"
+    },
+    {
+      "surface": "בו",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "o isə"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "oyandırılsaydı"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "canını"
+    },
+    {
+      "surface": "מלט",
+      "gloss": "qurtarardı"
+    }
+  ],
+  "timestamp": "2026-09-01T14:23:01.214785486Z",
+  "model": "glm-5.3"
+}

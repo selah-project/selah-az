@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 19:4",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Hanun isə Davudun qullarını götürdü, onların saqqallarını qırxdı, paltarlarını ortadan, kürək yerinə qədər kəsdi və onları göndərdi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "götürdü"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qullarını"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "qullarını"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davudun"
+    },
+    {
+      "surface": "ויגלחם",
+      "gloss": "saqqallarını qırxdı"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "kəsdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paltarlarını"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "paltarlarını"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "ortadan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "המפשעה",
+      "gloss": "kürək yerinə"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "göndərdi"
+    }
+  ],
+  "timestamp": "2026-09-01T17:06:45.837231951Z",
+  "model": "glm-5.3"
+}

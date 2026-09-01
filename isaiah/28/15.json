@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 28:15",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "Çünki siz dediniz: “Biz ölüm ilə ⟨את⟩ müqavilə kəsdik və Şeol ilə razılığa gəldik; daşqın qamçı keçəndə bizə çatmayacaq, çünki yalanı sığınacaq etdik və yalançıluqda gizləndik.”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "siz dediniz"
+    },
+    {
+      "surface": "כרתנו",
+      "gloss": "kəsdik"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "müqavilə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ölüm"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölüm"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "və ilə"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şeol"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "etdik"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "razılıq"
+    },
+    {
+      "surface": "שיט",
+      "gloss": "qamçı"
+    },
+    {
+      "surface": "שוטף",
+      "gloss": "daşqın"
+    },
+    {
+      "surface": "כי",
+      "gloss": "— ki"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "keçəndə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יבואנו",
+      "gloss": "bizə çatmayacaq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "שמנו",
+      "gloss": "etdik"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "yalanı"
+    },
+    {
+      "surface": "מחסנו",
+      "gloss": "sığınacaq"
+    },
+    {
+      "surface": "ובשקר",
+      "gloss": "və yalançıluqda"
+    },
+    {
+      "surface": "נסתרנו",
+      "gloss": "gizləndik"
+    }
+  ],
+  "timestamp": "2026-09-01T12:58:44.171452726Z",
+  "model": "glm-5.3"
+}

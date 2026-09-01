@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 106:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 106,
+  "translation": "Onları nifrət edənin əlindən xilas etdi və onları düşmənin əlindən qurtardı.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "onları xilas etdi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "əlindən"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "nifrət edənin"
+    },
+    {
+      "surface": "ויגאלם",
+      "gloss": "onları qurtardı"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "əlindən"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "düşmənin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:00.917182862Z",
+  "model": "glm-5.3"
+}

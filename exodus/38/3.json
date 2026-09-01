@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 38:3",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 38,
+  "translation": "Və qurbangahın bütün ləvazimatını düzəltdi: ⟨את⟩ qazanları, ⟨את⟩ kürəkləri, ⟨את⟩ çənləri, ⟨את⟩ çəngəlləri və ⟨את⟩ odcuları; bütün ləvazimatını tuncdan etdi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Və düzəltdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün ləvazimat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ləvazimatını"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "qurbangahın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qazanları"
+    },
+    {
+      "surface": "הסירת",
+      "gloss": "qazanları"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kürəkləri"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "kürəkləri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "çənləri"
+    },
+    {
+      "surface": "המזרקת",
+      "gloss": "çənləri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çəngəlləri"
+    },
+    {
+      "surface": "המזלגת",
+      "gloss": "çəngəlləri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ojcuları"
+    },
+    {
+      "surface": "המחתת",
+      "gloss": "ojcuları"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ləvazimatını"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etdi"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tuncdan"
+    }
+  ],
+  "timestamp": "2026-09-01T10:21:43.103369933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 3:11",
+  "book": "habakkuk",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Günəş, ay öz məskənində dayandı, oxlarının işığında ⟨yürüyürlər⟩, nizənin parıltısında, şimşəyin ⟨parıltısında⟩.",
+  "tokens": [
+    {
+      "surface": "שמש",
+      "gloss": "günəş"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "ay"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "dayandı"
+    },
+    {
+      "surface": "זבלה",
+      "gloss": "öz məskənində"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "işığında"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "oxlarının"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "yürüyürlər"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "parıltısında"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "şimşəyin"
+    },
+    {
+      "surface": "חניתך",
+      "gloss": "nizənin"
+    }
+  ],
+  "timestamp": "2026-09-01T14:51:38.166586109Z",
+  "model": "glm-5.3"
+}

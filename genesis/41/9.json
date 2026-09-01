@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 41:9",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 41,
+  "translation": "Şərabşərənlərin başçısı Paroya danışdı, deyərək: Günahlarımı bu gün xatırlayıram.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "danışdı"
+    },
+    {
+      "surface": "שר",
+      "gloss": "başçısı"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "şərabşərənlərin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "günahlarımı"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "günahlarımı"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "xatırlayıram"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bu gün"
+    }
+  ],
+  "timestamp": "2026-09-01T09:59:49.885423337Z",
+  "model": "glm-5.3"
+}

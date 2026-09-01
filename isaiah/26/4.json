@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Yahveyə güvin, əbədiyyən, çünki Yah, Yahve — əbədilərin qayasıdır ⟨O⟩.",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "güvin"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "əbədiyyən"
+    },
+    {
+      "surface": "עד",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צור",
+      "gloss": "qaya"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "əbədilərin"
+    }
+  ],
+  "timestamp": "2026-09-01T12:57:56.690697946Z",
+  "model": "glm-5.3"
+}

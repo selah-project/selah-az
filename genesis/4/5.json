@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 4:5",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Qajinə və onun mənhəsinə isə baxmadı. Qajinə bu çox ağır gəldi və üzü düşdü.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "və ... isə"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Qajinə"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "onun mənhəsinə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "baxmadı (neqasiya)"
+    },
+    {
+      "surface": "שעה",
+      "gloss": "baxmadı"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ağır gəldi (qəzəbləndi)"
+    },
+    {
+      "surface": "לקין",
+      "gloss": "Qajinə"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çox"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "düşdü"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "üzü"
+    }
+  ],
+  "timestamp": "2026-09-01T17:55:32.799835317Z",
+  "model": "glm-5.3"
+}

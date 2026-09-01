@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Kahin bütöv yandırma qurbanını ⟨את⟩ və taxıl qurbanını ⟨את⟩ məzbəh üzərində qaldıracaq və kahin onun üçün kəffarə edəcək və o, təmiz olacaq.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "qaldıracaq"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütöv yandırma qurbanını"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "bütöv yandırma qurbanı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "taxıl qurbanını"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "taxıl qurbanı"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "məzbəh üzərində"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "kəffarə edəcək"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üçün"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "təmiz olacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T10:26:20.987085957Z",
+  "model": "glm-5.3"
+}

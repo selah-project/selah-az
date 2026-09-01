@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nahum 3:11",
+  "book": "nahum",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Sən də sərxoş olacaqsan, gizlədilmiş olacaqsan; sən də düşməndən qala axtaracaqsan.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "da"
+    },
+    {
+      "surface": "את",
+      "gloss": "sən"
+    },
+    {
+      "surface": "תשכרי",
+      "gloss": "sərxoş olacaqsan"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "olacaqsan"
+    },
+    {
+      "surface": "נעלמה",
+      "gloss": "gizlədilmiş"
+    },
+    {
+      "surface": "גם",
+      "gloss": "da"
+    },
+    {
+      "surface": "את",
+      "gloss": "sən"
+    },
+    {
+      "surface": "תבקשי",
+      "gloss": "axtaracaqsan"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "qala"
+    },
+    {
+      "surface": "מאויב",
+      "gloss": "düşməndən"
+    }
+  ],
+  "timestamp": "2026-09-01T14:48:59.226942681Z",
+  "model": "glm-5.3"
+}

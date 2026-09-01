@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 120,
+  "translation": "Çoxdan ⟨qalır⟩ canım sülhü sevənlərin yanında ⟨sakin⟩ — sülhə nifrət edənlə ilə.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "çoxdan"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "sakin ⟨qalır⟩"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨onu⟩"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "nifrət edən"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sülhə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:41:30.939548279Z",
+  "model": "glm-5.3"
+}

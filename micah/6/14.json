@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 6:14",
+  "book": "micah",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Sən yeyəcəksən, ama doymayacaqsan; sənin içində sarsıntın olacaq; aparacaqsan, ama qurtarmayacaqsan; qurtardığını isə qılınca verəcəyəm.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sən"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yeyəcəksən"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ama... yox"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "doymayacaqsan"
+    },
+    {
+      "surface": "וישחך",
+      "gloss": "sarsıntın"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "sənin içində"
+    },
+    {
+      "surface": "ותסג",
+      "gloss": "aparacaqsan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ama... yox"
+    },
+    {
+      "surface": "תפליט",
+      "gloss": "qurtarmayacaqsan"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "isə o ki"
+    },
+    {
+      "surface": "תפלט",
+      "gloss": "qurtardığını"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "qılınca"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "verəcəyəm"
+    }
+  ],
+  "timestamp": "2026-09-01T14:48:37.489834190Z",
+  "model": "glm-5.3"
+}

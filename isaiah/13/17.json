@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 13:17",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Bax, mən onların üstünə Madayları oyadıram — ⟨את⟩ Madayı, hansı ki gümüşü saymır və qızılda xoşlanmır.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Bax, mən"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "oyadıram"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "onların üstünə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Madayı"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Madayı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hansı ki"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüşü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saymır… yox"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "saymır"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "və qızıl"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יחפצו",
+      "gloss": "xoşlanmır"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onda"
+    }
+  ],
+  "timestamp": "2026-09-01T12:51:32.894288112Z",
+  "model": "glm-5.3"
+}

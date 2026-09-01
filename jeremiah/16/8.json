@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Və ziyafət evinə də onlarla oturmağa — ⟨את⟩ yemək və içmək üçün — girməyəcəksən.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "və ev"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ziyafət"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "girməyəcəksən"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "oturmağa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "onları (yemək və içmək)"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "yemək"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "və içmək"
+    }
+  ],
+  "timestamp": "2026-09-01T13:31:02.365061554Z",
+  "model": "glm-5.3"
+}

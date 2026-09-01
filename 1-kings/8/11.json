@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 8:11",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və buludun üzündən kahinlər xidmət etmək üçün dura bilmədilər, çünki Yahvenin izzəti Yahvenin ⟨את⟩ evini doldurmuşdu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "və ... bilmədilər"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "gücü çatmadı"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kahinlər"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "dayanmağa"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "xidmət etməyə"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "üzündən"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "buludun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "doldurmuşdu"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "izzəti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahvenin evi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    }
+  ],
+  "timestamp": "2026-09-01T12:16:45.214499649Z",
+  "model": "glm-5.3"
+}

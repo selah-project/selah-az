@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 18:18",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "O isə dedi: Mən Yisraeli ⟨את⟩ sıxıntıya salmadım, amma sən və ata evin — siz Yahvenin əmrlərini ⟨את⟩ tərk etdiyiniz üçün və Baalların arxasınca getdiyiniz üçün.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "עכרתי",
+      "gloss": "sıxıntıya salmadım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אם",
+      "gloss": "amma"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "və ev"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "atanın"
+    },
+    {
+      "surface": "בעזבכם",
+      "gloss": "tərk etdiyiniz üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əmrləri"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "əmrlərini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "və getdin"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "arxasınca"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalların"
+    }
+  ],
+  "timestamp": "2026-09-01T12:23:50.807346654Z",
+  "model": "glm-5.3"
+}

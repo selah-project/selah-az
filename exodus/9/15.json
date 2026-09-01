@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 9:15",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Çünki indiyə qədər əlimi uzatsaydım və ⟨את⟩ səni və ⟨את⟩ xalqını vəba ilə vursaydım, sən yerdən yox olardın.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "indiyə qədər"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "uzatsaydım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əlimi (əl)"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "əlimi"
+    },
+    {
+      "surface": "ואך",
+      "gloss": "və ⟨vursaydım⟩"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ səni",
+      "marks": "sən (Paro)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "xalqını"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "xalqını"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "vəba ilə"
+    },
+    {
+      "surface": "ותכחד",
+      "gloss": "yox olardın"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dən"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerdən"
+    }
+  ],
+  "timestamp": "2026-09-01T17:55:58.101953490Z",
+  "model": "glm-5.3"
+}

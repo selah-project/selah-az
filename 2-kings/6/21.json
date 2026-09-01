@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 6:21",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Və Yisraelin kralı, onları görəndə, Elişaya dedi: «Atam, vurummu, vurummu ⟨onları⟩?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və... dedi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraelin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elişaya"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elişaya"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "onları görəndə"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "האכה",
+      "gloss": "vurummu"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "vurummu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atam"
+    }
+  ],
+  "timestamp": "2026-09-01T17:34:56.967125589Z",
+  "model": "glm-5.3"
+}

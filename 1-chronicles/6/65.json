@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "1-chronicles 6:65",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "və Qad qəbiləsindən: Qiladda ⟨את⟩ Raamotu və onun kənar-ərazilərini, ⟨את⟩ Maxanayimi və onun kənar-ərazilərini ⟨verdi⟩.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "və … qəbiləsindən"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Qad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Raamotu"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "Raamot"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "Qiladda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "onun kənar-ərazilərini"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "onun kənar-əraziləri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Maxanayimi"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Maxanayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "onun kənar-ərazilərini"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "onun kənar-əraziləri"
+    }
+  ],
+  "timestamp": "2026-09-01T17:02:07.401316935Z",
+  "model": "glm-5.3"
+}

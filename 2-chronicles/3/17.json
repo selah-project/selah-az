@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 3:17",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və sütunları məbədin üzünə qaldırdı, birini sağda, birini solda; və sağındakinin adını Yaxin, solundakinin adını isə Boaz qoydu.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "qaldırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sütunları"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "sütunları"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzünə"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "məbədin"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "birini"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "sağda"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "birini"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "solda"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "adını qoydu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adını"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "sağındakini"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Yaxin"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "və adını"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "solundakini"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-09-01T17:13:19.185863558Z",
+  "model": "glm-5.3"
+}

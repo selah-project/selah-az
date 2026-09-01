@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 22:5",
+  "book": "job",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Məgər şərin böyükdürmü, və etirazların üçün qeyd yoxdur? — yox: «Şərin böyükdürmü? və qeyd yoxdur etirazlarına?»",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "məgər… deyilmi"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "şərin"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "və yoxdur"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "qeyd"
+    },
+    {
+      "surface": "לעונתיך",
+      "gloss": "etirazlarına"
+    }
+  ],
+  "timestamp": "2026-09-01T17:43:58.781146838Z",
+  "model": "glm-5.3"
+}

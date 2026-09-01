@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Əgər camaatımdan — yanındakı kasıbdan — pul borc versən, ona kreditçi kimi olmayasan; ona faiz qoymayasan.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pul"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "borc versən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "camaatımdan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "camaatım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasıbdan"
+    },
+    {
+      "surface": "העני",
+      "gloss": "kasıb"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "yanında"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olmayasan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "kreditçi kimi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "qoymayasan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ona (üstünə)"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "faiz"
+    }
+  ],
+  "timestamp": "2026-09-01T10:13:25.573867184Z",
+  "model": "glm-5.3"
+}

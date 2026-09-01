@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 8:10",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və belə, gördüm ki, şər əməllilər dəfn olunurlar; ⟨onlar⟩ gəlib-gedirlər müqəddəs yerdən və şəhərdə unudulurlar — harada belə işlər görmüşdülər; bu da hevadır.",
+  "tokens": [
+    {
+      "surface": "ובכן",
+      "gloss": "və belə"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "gördüm"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "şər əməllilər"
+    },
+    {
+      "surface": "קברים",
+      "gloss": "dəfn olunurlar"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "gəlib-gedirlər"
+    },
+    {
+      "surface": "וממקום",
+      "gloss": "yerdən"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "gəzirlər"
+    },
+    {
+      "surface": "וישתכחו",
+      "gloss": "və unudulurlar"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "şəhərdə"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "harada"
+    },
+    {
+      "surface": "כן",
+      "gloss": "belə"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "görmüşdülər"
+    },
+    {
+      "surface": "גם",
+      "gloss": "də"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevadır"
+    }
+  ],
+  "timestamp": "2026-09-01T16:32:45.374751338Z",
+  "model": "glm-5.3"
+}

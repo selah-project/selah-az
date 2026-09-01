@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 25:5",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Moşe İsrailin hakimlərinə dedi: Hər biriniz ⟨את⟩ öz adamlarınızı öldürün — Baal-Peora bağlananları.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "hakimləri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailin"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "öldürün"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər biriniz (adam)"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "öz adamlarını"
+    },
+    {
+      "surface": "הנצמדים",
+      "gloss": "bağlananları"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Baal-"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peora"
+    }
+  ],
+  "timestamp": "2026-09-01T10:41:57.500389062Z",
+  "model": "glm-5.3"
+}

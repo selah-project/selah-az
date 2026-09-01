@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 2:23",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Çünki bütün günləri kədərlərdən ibarətdir, işi isə qəzəbdən; hətta gecələr ürəyi uzanmayır — bu da heveldir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "günləri"
+    },
+    {
+      "surface": "מכאבים",
+      "gloss": "kədərlərdən ibarətdir"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "qəzəbdən"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "işi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hətta"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "gecələr"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...mayır"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "uzanmayır"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ürəyi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "də"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "heveldir"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-09-01T16:30:10.355197981Z",
+  "model": "glm-5.3"
+}

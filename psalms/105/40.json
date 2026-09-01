@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 105,
+  "translation": "⟨Onlar⟩ istədi və O, bildirçin gətirdi, və göyün çörəyi ilə onları toxdurdu.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "istədi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "və gətirdi"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "bildirçin"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "və çörək"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "göyün"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "onları toxdurdu"
+    }
+  ],
+  "timestamp": "2026-09-01T15:35:35.870982582Z",
+  "model": "glm-5.3"
+}

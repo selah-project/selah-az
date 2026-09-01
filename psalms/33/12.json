@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "Necə xoşbəxtdir ⟨o⟩ millət ki, onun Elohimi Yahvedir; ⟨o⟩ xalq ki, ⟨Onun⟩ özünə miras olaraq seçdi.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Necə xoşbəxtdir"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "⟨o⟩ millət"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvedir"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨o⟩ xalq"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "seçdi"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "miras olaraq"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨Onun⟩ özünə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:10:24.899994324Z",
+  "model": "glm-5.3"
+}

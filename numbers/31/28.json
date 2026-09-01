@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 31:28",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "və orduya çıxan döyüş adamlarından Yahve üçün ⟨את⟩ vergi götürəcəksən: beş yüzə bir can — insandan, mal-qaradan, eşşəklərdən və davaradan.",
+  "tokens": [
+    {
+      "surface": "והרמת",
+      "gloss": "və götürəcəksən (qaldıracaqsan)"
+    },
+    {
+      "surface": "מכס",
+      "gloss": "vergi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve üçün"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩-dən",
+      "marks": "döyüş adamlarından"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "adamlarından"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "döyüş"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "çıxan"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "orduya"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "can"
+    },
+    {
+      "surface": "מחמש",
+      "gloss": "beş"
+    },
+    {
+      "surface": "המאות",
+      "gloss": "yüzə"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "və -dan"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "mal-qara"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "və -dan"
+    },
+    {
+      "surface": "החמרים",
+      "gloss": "eşşəklər"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "və -dan"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "davar"
+    }
+  ],
+  "timestamp": "2026-09-01T17:29:32.691689115Z",
+  "model": "glm-5.3"
+}

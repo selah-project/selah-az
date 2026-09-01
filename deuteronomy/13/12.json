@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 13:12",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Və bütün Yisrael eşidəcək və qorxacaq və bu pis işi sənin içində bir daha etməyəcəklər.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "eşidəcək"
+    },
+    {
+      "surface": "ויראון",
+      "gloss": "və qorxacaq"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "יוספו",
+      "gloss": "bir daha (əlavə edəcək)"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "etməyə"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "bu pis işi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "sənin içində"
+    }
+  ],
+  "timestamp": "2026-09-01T10:50:20.932388234Z",
+  "model": "glm-5.3"
+}

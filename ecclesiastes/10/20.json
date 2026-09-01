@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 10:20",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Hətta düşüncəndə belə kralı lənətləmə, və yataq otaqlarında varlını lənətləmə; çünki göyün quşu ⟨את⟩ səsi aparacaq, və qanadlar sahibi sözü bildirəcək.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "hətta ... belə"
+    },
+    {
+      "surface": "במדעך",
+      "gloss": "düşüncəndə"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lənətləmə"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "...mə (qadağan)"
+    },
+    {
+      "surface": "ובחדרי",
+      "gloss": "və otaqlarında"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "yataq (sənin)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lənətləmə"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "...mə (qadağan)"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "varlını"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "quş"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göyün"
+    },
+    {
+      "surface": "יוליך",
+      "gloss": "aparacaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "səsi"
+    },
+    {
+      "surface": "הקול",
+      "gloss": "səsi"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "və sahibi"
+    },
+    {
+      "surface": "הכנפים",
+      "gloss": "qanadların"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "bildirəcək"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sözü"
+    }
+  ],
+  "timestamp": "2026-09-01T16:31:41.865660447Z",
+  "model": "glm-5.3"
+}

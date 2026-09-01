@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 21:8",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Əgər ağasının gözlərində pis olsa — o ki, onu özünə nişanlamayıb — onu fidyə ilə azad etsin; yad bir xalqa onu satmaq iqtidarında olmasın, çünki ona xəyanət edib.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pis olsa"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "gözlərində"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "ağasının"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יעדה",
+      "gloss": "nişanlamayıb"
+    },
+    {
+      "surface": "והפדה",
+      "gloss": "fidyə ilə azad etsin"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "xalqa"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "yad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "iqtidarında olmasın"
+    },
+    {
+      "surface": "למכרה",
+      "gloss": "satmaq"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "xəyanət etdiyi üçün"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-09-01T10:15:20.955202580Z",
+  "model": "glm-5.3"
+}

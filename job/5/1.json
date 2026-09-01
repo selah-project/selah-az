@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 5:1",
+  "book": "job",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Çağır indi — səni cavablandıracaq ⟨kimsə⟩ varmı? Və müqəddəslərdən hansına üz tutacaqsan?",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "Çağır"
+    },
+    {
+      "surface": "נא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "היש",
+      "gloss": "varmı"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "səni cavablandıracaq"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və ... üz tutacaqsan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hansına"
+    },
+    {
+      "surface": "מקדשים",
+      "gloss": "müqəddəslərdən"
+    },
+    {
+      "surface": "תפנה",
+      "gloss": "üz tutacaqsan"
+    }
+  ],
+  "timestamp": "2026-09-01T16:05:54.894708643Z",
+  "model": "glm-5.3"
+}

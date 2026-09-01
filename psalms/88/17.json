@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 88:17",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 88,
+  "translation": "Mənim üstümdən qəzəblərin keçdi, dəhşətlərin məni kökündən qopartdı.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "üstümdən"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "keçdi"
+    },
+    {
+      "surface": "חרוניך",
+      "gloss": "qəzəblərin"
+    },
+    {
+      "surface": "בעותיך",
+      "gloss": "dəhşətlərin"
+    },
+    {
+      "surface": "צמתותני",
+      "gloss": "məni kökündən qopartdı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:14.179256627Z",
+  "model": "glm-5.3"
+}

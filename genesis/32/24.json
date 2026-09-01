@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Və onları götürdü, çayın o tayına keçirdi və nəyi varsa onu da keçirdi.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "və onları götürdü"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "keçirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çayı"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "çay"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "və keçirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nəyi varsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nəyi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onun olan"
+    }
+  ],
+  "timestamp": "2026-09-01T09:55:44.737067982Z",
+  "model": "glm-5.3"
+}

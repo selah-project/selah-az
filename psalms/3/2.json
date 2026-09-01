@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Yahve, nə qədər çoxaldı düşmənlərim! Çoxları mənim üstümə qalxırlar.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə qədər"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "çoxaldı"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "düşmənlərim"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "Çoxları"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "qalxırlar"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mənim üstümə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:01:48.084784867Z",
+  "model": "glm-5.3"
+}

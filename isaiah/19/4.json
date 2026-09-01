@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 19:4",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Və ⟨את⟩ Mitsrayimi amansız ağaların əlinə təslim edəcəyəm, və qüdrətli bir padşah onların üzərində hökmranlıq edəcək — Adonay Yahve Sevaotun nüfuzu.",
+  "tokens": [
+    {
+      "surface": "וסכרתי",
+      "gloss": "və təslim edəcəyəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayimi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "əlinə"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "ağaların"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "amansız"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "və padşah"
+    },
+    {
+      "surface": "עז",
+      "gloss": "qüdrətli"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "hökmranlıq edəcək"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onların üzərində"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nüfuzu"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonayın"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sevaotun"
+    }
+  ],
+  "timestamp": "2026-09-01T12:55:54.427117545Z",
+  "model": "glm-5.3"
+}

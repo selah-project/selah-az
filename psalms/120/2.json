@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 120,
+  "translation": "Yahve, canımı yalan dodaqlardan və hiyləgər dildən qurtar.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "qurtar"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "dodaqlardan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yalan"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "dildən"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "hiyləgər"
+    }
+  ],
+  "timestamp": "2026-09-01T17:43:11.263862970Z",
+  "model": "glm-5.3"
+}

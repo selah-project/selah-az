@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 136:17",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 136,
+  "translation": "Böyük padşahları vuran⟨ə⟩ ⟨o⟩dur, çünki onun hesedi əbədidir.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "vuran⟨ə⟩ ⟨o⟩dur"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "padşahları"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədidir"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "onun hesedi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:44:00.312005293Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 19:33",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Və o gecə atalarına şərab içirdiblər, böyük ⟨qızı⟩ girdi və atası ilə ⟨את⟩ yatırdı, o isə onun yatışını da, qalxışını da bilmədi.",
+  "tokens": [
+    {
+      "surface": "ותשקין",
+      "gloss": "içirdilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ataları"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "ataları"
+    },
+    {
+      "surface": "יין",
+      "gloss": "şərab"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "gecə"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "girdi"
+    },
+    {
+      "surface": "הבכירה",
+      "gloss": "böyük qız"
+    },
+    {
+      "surface": "ותשכב",
+      "gloss": "yatdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "ilə ⟨את⟩",
+      "marks": "atası"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "atası"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və... yox"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilmədi"
+    },
+    {
+      "surface": "בשכבה",
+      "gloss": "yatışında"
+    },
+    {
+      "surface": "ובקומה",
+      "gloss": "və qalxışında"
+    }
+  ],
+  "timestamp": "2026-09-01T09:51:18.009409683Z",
+  "model": "glm-5.3"
+}

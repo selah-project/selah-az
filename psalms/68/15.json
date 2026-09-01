@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 68:15",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 68,
+  "translation": "Şadday kralları orada səpələdiyi zaman, Zalmon ⟨dağında⟩ qar kimi ağardı.",
+  "tokens": [
+    {
+      "surface": "בפרש",
+      "gloss": "səpələdiyi zaman"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Şadday"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kralları"
+    },
+    {
+      "surface": "בה",
+      "gloss": "orada"
+    },
+    {
+      "surface": "תשלג",
+      "gloss": "qar kimi ağardı"
+    },
+    {
+      "surface": "בצלמון",
+      "gloss": "Zalmon ⟨dağında⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T15:23:32.649641989Z",
+  "model": "glm-5.3"
+}

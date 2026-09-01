@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 26:16",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "onda Mən də sizə bunu edəcəyəm: üzərinizə dəhşət, ⟨את⟩ vərəmi və ⟨את⟩ qızdırmanı qoyacağam — gözləri yandırıb öldürən, canı qurudan; toxumunuzu boş yerə səpərsiniz, onu düşmənləriniz yeyəcək.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "onda"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mən də"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "edəcəyəm"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bunu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizə"
+    },
+    {
+      "surface": "והפקדתי",
+      "gloss": "qoyacağam"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "üzərinizə"
+    },
+    {
+      "surface": "בהלה",
+      "gloss": "dəhşət"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vərəm"
+    },
+    {
+      "surface": "השחפת",
+      "gloss": "vərəmi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qızdırma"
+    },
+    {
+      "surface": "הקדחת",
+      "gloss": "qızdırmanı"
+    },
+    {
+      "surface": "מכלות",
+      "gloss": "yandırıb öldürən"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "gözləri"
+    },
+    {
+      "surface": "ומדיבת",
+      "gloss": "qurudan"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "canı"
+    },
+    {
+      "surface": "וזרעתם",
+      "gloss": "səpərsiniz"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "boş yerə"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "toxumunuzu"
+    },
+    {
+      "surface": "ואכלהו",
+      "gloss": "yeyəcək"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "düşmənləriniz"
+    }
+  ],
+  "timestamp": "2026-09-01T10:31:28.881946650Z",
+  "model": "glm-5.3"
+}

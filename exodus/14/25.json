@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 14:25",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Və ⟨את⟩ onların döyüş arabalarının təkərlərini çəkib götürdü və onları ağırlıqla sürməyə məcbur etdi; Mitsrayim dedi: İsrailin üzündən qaçaq, çünki Yahve onlar üçün Mitsrayimə qarşı vuruşur.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "çəkib götürdü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "təkərlərini"
+    },
+    {
+      "surface": "אפן",
+      "gloss": "təkərlərini"
+    },
+    {
+      "surface": "מרכבתיו",
+      "gloss": "onların döyüş arabalarının"
+    },
+    {
+      "surface": "וינהגהו",
+      "gloss": "onları sürməyə məcbur etdi"
+    },
+    {
+      "surface": "בכבדת",
+      "gloss": "ağırlıqla"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אנוסה",
+      "gloss": "qaçaq"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "üzündən"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "vuruşur"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlar üçün"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayimə qarşı"
+    }
+  ],
+  "timestamp": "2026-09-01T10:09:23.586327463Z",
+  "model": "glm-5.3"
+}

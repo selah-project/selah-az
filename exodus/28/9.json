@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "Və götürəcəksən ⟨את⟩ iki şoham daşını, və onların üzərinə həkk edəcəksən Yisrael oğullarının adlarını.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "və götürəcəksən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iki şoham daşını"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iki"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "daşını"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "şoham"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "və həkk edəcəksən"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "onların üzərinə"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "adlarını"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T10:17:09.727105109Z",
+  "model": "glm-5.3"
+}

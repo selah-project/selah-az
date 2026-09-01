@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 7:12",
+  "book": "job",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Mən dənizəmmi, yoxsa dəniz canavarımı, ki mənim üstümə gözətçi qoyursan?",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "dənizəm"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoxsa"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "dəniz canavarı"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "qoyursan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üstümə"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "gözətçi"
+    }
+  ],
+  "timestamp": "2026-09-01T16:04:07.819605215Z",
+  "model": "glm-5.3"
+}

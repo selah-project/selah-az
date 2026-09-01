@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Çünki qazanın altında tikanların ⟨çıxardığı⟩ səs kimi belədir axmağın gülüşü; bu da puçluqdur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "səs kimi"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "tikanların"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "qazanın"
+    },
+    {
+      "surface": "כן",
+      "gloss": "belədir"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "gülüşü"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "axmağın"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "və"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "puçluqdur"
+    }
+  ],
+  "timestamp": "2026-09-01T16:31:18.800178193Z",
+  "model": "glm-5.3"
+}

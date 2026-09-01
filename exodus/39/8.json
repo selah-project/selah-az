@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 39:8",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 39,
+  "translation": "O, hösəni ⟨את⟩ düzgüncü işi ilə, efdodun işi kimi düzəltdi: qızıl, təxələt, arqaman, qırmız qurdu rəngi və burulmuş incə kətan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "düzəltdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hösəni"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hösəni"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "işi"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "düzgüncü"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "işi kimi"
+    },
+    {
+      "surface": "אפד",
+      "gloss": "efdodun"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "qızıl"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "təxələt"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "və arqaman"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "və qırmız qurdu rəngi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "qırmızı"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "və incə kətan"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "burulmuş"
+    }
+  ],
+  "timestamp": "2026-09-01T10:21:38.476361040Z",
+  "model": "glm-5.3"
+}

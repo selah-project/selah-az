@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 40:21",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "Məgər bilmirsiniz, məgər eşitmirsiniz, məgər əvvəldən sizə xəbər verilmədimi, məgər ⟨hə⟩ yerin təməllərini dərk etmirsiniz?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "məgər... deyilmi"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "bilmirsiniz"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "məgər... deyilmi"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "eşitmirsiniz"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "məgər... deyilmi"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "xəbər verilmədimi"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "əvvəldən"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizə"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "məgər... deyilmi"
+    },
+    {
+      "surface": "הבינתם",
+      "gloss": "dərk etmirsiniz"
+    },
+    {
+      "surface": "מוסדות",
+      "gloss": "təməllərini"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    }
+  ],
+  "timestamp": "2026-09-01T13:07:18.294961252Z",
+  "model": "glm-5.3"
+}

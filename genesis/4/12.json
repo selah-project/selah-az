@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Torpağı işlədiyin zaman o, sənə gücünü ⟨artıq⟩ verməyəcək; yer üzündə sən qaçaq və köçəri olacaqsan.»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "...-dığı zaman"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "işlədiyin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "torpağı"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "torpağı"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-mə"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "artıq"
+    },
+    {
+      "surface": "תת",
+      "gloss": "verməyəcək"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "gücünü"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "נע",
+      "gloss": "qaçaq"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "köçəri"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olacaqsan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yer üzündə"
+    }
+  ],
+  "timestamp": "2026-09-01T09:46:04.040237612Z",
+  "model": "glm-5.3"
+}

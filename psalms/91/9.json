@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 91,
+  "translation": "Çünki ⟨sən⟩ Yahve ⟨dir⟩ mənim sığınacağım; Elyon qərar etdin ⟨öz⟩ məskənin ⟨kimi⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "mənim sığınacağım"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "qərar etdin"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "məskənin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:31:22.015357016Z",
+  "model": "glm-5.3"
+}

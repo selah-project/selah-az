@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 35:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "Məhv onu özü bilmədən gəlsin ona, və gizlətdiyi tor onu tutsun; məhvdə düşsün ona.",
+  "tokens": [
+    {
+      "surface": "תבואהו",
+      "gloss": "gəlsin ona"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "məhv"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bilmədən"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "özü bilir"
+    },
+    {
+      "surface": "ורשתו",
+      "gloss": "və toru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gizlətdiyi"
+    },
+    {
+      "surface": "טמן",
+      "gloss": "o gizlədib"
+    },
+    {
+      "surface": "תלכדו",
+      "gloss": "onu tutsun"
+    },
+    {
+      "surface": "בשואה",
+      "gloss": "məhvdə"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "düşsün"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-09-01T15:11:14.289083219Z",
+  "model": "glm-5.3"
+}

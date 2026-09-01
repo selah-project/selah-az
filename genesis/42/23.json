@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 42:23",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 42,
+  "translation": "Onlar isə bilmirdilər ki, Yosef eşidir, çünki tərcüman aralarında idi.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "onlar isə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "... daha"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bilmirdilər"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eşidir"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "המליץ",
+      "gloss": "tərcüman"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "aralarında"
+    }
+  ],
+  "timestamp": "2026-09-01T10:00:35.476820185Z",
+  "model": "glm-5.3"
+}

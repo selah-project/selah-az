@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 9:8",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Məsxərəçini qınama, yoxsa sənə nifrət edər; müdrikə qınama ver, o səni sevər.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "yox (qınama)"
+    },
+    {
+      "surface": "תוכח",
+      "gloss": "qınama"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "məsxərəçini"
+    },
+    {
+      "surface": "פן",
+      "gloss": "yoxsa"
+    },
+    {
+      "surface": "ישנאך",
+      "gloss": "sənə nifrət edər"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "qınama ver"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "müdrikə"
+    },
+    {
+      "surface": "ויאהבך",
+      "gloss": "o səni sevər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:51:13.477281945Z",
+  "model": "glm-5.3"
+}

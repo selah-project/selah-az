@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 26:7",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Solduz üçün ⟨yol⟩ düzdür; Ey Düz Olan, solduzun cığırını sən düzləyirsən.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "yol"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "solduzun"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "düzdür"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "Ey Düz Olan"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "cığırını"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "solduzun"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "düzləyirsən"
+    }
+  ],
+  "timestamp": "2026-09-01T12:57:13.006494158Z",
+  "model": "glm-5.3"
+}

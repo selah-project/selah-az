@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 57,
+  "translation": "Hazırdır qəlbim, ey Elohim, hazırdır qəlbim; oxuyacağam və zərf çalacağam.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "hazırdır"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "qəlbim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "hazırdır"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "qəlbim"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "oxuyacağam"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "zərf çalacağam"
+    }
+  ],
+  "timestamp": "2026-09-01T15:19:29.834398756Z",
+  "model": "glm-5.3"
+}

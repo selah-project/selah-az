@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 4:10",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və dedi Moşe Yahveyə: İcazə ver, Adonay, mən sözlər adamı deyiləm — nə dünən, nə əvvəl, nə bəndəninlə danışdığın vaxtdan bəri; çünki ağır ağızlı və ağır dilliyəm.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בי",
+      "gloss": "icazə ver"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "deyil"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "sözlər"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mən"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nə"
+    },
+    {
+      "surface": "מתמול",
+      "gloss": "dünən"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nə"
+    },
+    {
+      "surface": "משלשם",
+      "gloss": "əvvəl"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nə"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "o vaxtdan bəri"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "danışdığın"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "bəndəyin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ağır"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ağızlı"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "və ağır"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "dilliyəm"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mən"
+    }
+  ],
+  "timestamp": "2026-09-01T10:05:47.802760758Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 84:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 84,
+  "translation": "Hətta sərçə ev tapdı və qaranquş özünə yuva, balalarını qoyduğu yeri — ⟨את⟩ sənin məbədgahlarını ⟨yanında⟩, ey Yahve Səbaot, mənim padşahım və mənim Elohimim!",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "hətta"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "sərçə"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "tapdı"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "ודרור",
+      "gloss": "və qaranquş"
+    },
+    {
+      "surface": "קן",
+      "gloss": "yuva"
+    },
+    {
+      "surface": "לה",
+      "gloss": "özünə"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "qoyduğu"
+    },
+    {
+      "surface": "אפרחיה",
+      "gloss": "balalarını"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sənin məbədgahlarını"
+    },
+    {
+      "surface": "מזבחותיך",
+      "gloss": "sənin məbədgahlarını"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Səbaot"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mənim padşahım"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "və mənim Elohimim"
+    }
+  ],
+  "timestamp": "2026-09-01T15:30:57.044096757Z",
+  "model": "glm-5.3"
+}

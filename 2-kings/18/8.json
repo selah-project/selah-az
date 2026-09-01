@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "O, ⟨את⟩ Filistimliləri Əzzə⟨yə⟩ qədər vurdu və ⟨את⟩ onun sərhədlərini — gözətçi qülləsindən möhkəm şəhərə ⟨qədər⟩.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "O"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "vurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistimliləri"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistimliləri"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Əzzə"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "onun sərhədlərini"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "onun sərhədlərini"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "qülləsindən"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "gözətçi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨qədər⟩"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şəhərə"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "möhkəm"
+    }
+  ],
+  "timestamp": "2026-09-01T12:39:04.743160662Z",
+  "model": "glm-5.3"
+}

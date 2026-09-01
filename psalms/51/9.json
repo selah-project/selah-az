@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 51,
+  "translation": "Məni izofa ilə təmizlə, və mən təmiz olacağam; məni yu, və qardan ağ olacağam.",
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "məni təmizlə (günahdan)"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "izofa ilə"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "və mən təmiz olacağam"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "məni yu"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "və qardan"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "ağ olacağam"
+    }
+  ],
+  "timestamp": "2026-09-01T15:17:43.588546662Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 4:4",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Ancaq heç kim adamla davalaşmasın və heç kim ⟨adamı⟩ qınamasın; çünki sənin xalqın kahinlə davalaşanlar kimidir.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ancaq"
+    },
+    {
+      "surface": "איש",
+      "gloss": "heç kim — adam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "davalaşmasın"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "davalaşmasın"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "qınamasın"
+    },
+    {
+      "surface": "יוכח",
+      "gloss": "qınamasın"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "sənin xalqın"
+    },
+    {
+      "surface": "כמריבי",
+      "gloss": "davalaşanlar kimi"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kahinlə"
+    }
+  ],
+  "timestamp": "2026-09-01T14:35:18.285911428Z",
+  "model": "glm-5.3"
+}

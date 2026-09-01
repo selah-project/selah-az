@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Yahveni ⟨את⟩ mübarəkləşdirirəm, çünki o mənə məsləhət verdi; həm də gecələrdə böyrəklərim məni tərbiyə edir.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "mübarəkləşdirirəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "çünki o"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "mənə məsləhət verdi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "həm də"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "gecələrdə"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "məni tərbiyə edir"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "böyrəklərim"
+    }
+  ],
+  "timestamp": "2026-09-01T15:04:36.303941252Z",
+  "model": "glm-5.3"
+}

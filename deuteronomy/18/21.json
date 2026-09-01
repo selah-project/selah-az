@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Və əgər ürəyində desən: Yahvenin danışmadığı sözü necə bilək ⟨את⟩ o sözü?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "desən"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "ürəyində"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "necə"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "bilək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "o sözü"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "o sözü"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "danışmadığı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T10:51:49.772303269Z",
+  "model": "glm-5.3"
+}

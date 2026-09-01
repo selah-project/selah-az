@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 104,
+  "translation": "Sənin qınağından qaçırlar, sənin tənlərinin səsindən tələsib qaçırlar.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "sənin qınağından"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "qaçırlar"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "קול",
+      "gloss": "səsindən"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "sənin tənlərinin"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "tələsib qaçırlar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:34:26.153996166Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 69:23",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 69,
+  "translation": "Onların süfrəsi önlərində ⟨olsun⟩ tor üçün, salamat qalanlara ⟨olsun⟩ tələ üçün.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "שלחנם",
+      "gloss": "onların süfrəsi"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "önlərində"
+    },
+    {
+      "surface": "לפח",
+      "gloss": "tor üçün"
+    },
+    {
+      "surface": "ולשלומים",
+      "gloss": "salamat qalanlara"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "tələ üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T15:21:58.937980001Z",
+  "model": "glm-5.3"
+}

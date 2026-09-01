@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 18:3",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Və mən çəkməçinin evinə endim, və bax, o, daşlar üstündə iş görürdü.",
+  "tokens": [
+    {
+      "surface": "וארד",
+      "gloss": "Və mən endim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evinə"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "çəkməçi"
+    },
+    {
+      "surface": "והנהו",
+      "gloss": "və bax, o"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "görürdü"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "iş"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "daşlar"
+    }
+  ],
+  "timestamp": "2026-09-01T13:34:58.944320855Z",
+  "model": "glm-5.3"
+}

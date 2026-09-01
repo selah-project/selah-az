@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 136,
+  "translation": "⟨את⟩ ayı və ulduzları gecədə hökmranlıq etsinlər deyə ⟨yaradıb⟩; çünki onun hesedi əbədidir.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayı"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "ayı"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "və ulduzları"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "hökmranlıq etsinlər deyə"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "gecədə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədidir"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "onun hesedi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:43:54.061644258Z",
+  "model": "glm-5.3"
+}

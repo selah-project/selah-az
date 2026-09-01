@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Beləcə Elohimin və insanın gözündə xeyir-dua və yaxşı anlayış taparsan.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "beləcə taparsan"
+    },
+    {
+      "surface": "חן",
+      "gloss": "xeyir-dua"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "və anlayış"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşı"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "gözündə"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "və insanın"
+    }
+  ],
+  "timestamp": "2026-09-01T15:48:48.811611367Z",
+  "model": "glm-5.3"
+}

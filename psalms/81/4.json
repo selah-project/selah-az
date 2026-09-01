@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 81,
+  "translation": "Çalın şofarı ⟨yeni⟩ ayda, dolunayda, bayram günümüz üçün.",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "Çalın"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "⟨yeni⟩ ayda"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "şofarı"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "dolunayda"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "günümüz üçün"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "bayram"
+    }
+  ],
+  "timestamp": "2026-09-01T15:27:43.338281126Z",
+  "model": "glm-5.3"
+}

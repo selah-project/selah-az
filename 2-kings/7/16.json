@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Və xalq çıxdı və Aram düşərgəsini ⟨את⟩ talan etdi; və bir seah incə un bir şəkelə, iki seah arpa bir şəkelə oldu, Yahvenin sözü kimi.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "çıxdı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "talan etdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram düşərgəsini"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "düşərgəsini"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "bir seah"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "incə un"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "bir şəkelə"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "iki seah"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "arpa"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "bir şəkelə"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sözü kimi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    }
+  ],
+  "timestamp": "2026-09-01T12:33:55.534182880Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Nəğmə başçısına. Davudun məzmuru. Yahvedə sığındım; mənə deyirsiniz: «Canına de: dağa köç, quş ⟨kimi⟩!»",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Nəğmə başçısına"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davudun məzmuru"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahvedə"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "sığındım"
+    },
+    {
+      "surface": "איך",
+      "gloss": "necə"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "deyirsiniz"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "canıma"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "köç"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "dağınız"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "quş"
+    }
+  ],
+  "timestamp": "2026-09-01T15:05:14.560740518Z",
+  "model": "glm-5.3"
+}

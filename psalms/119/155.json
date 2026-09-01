@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 155,
+  "ref": "psalms 119:155",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Şər əhlindən qurtuluş uzaqdır, çünki qanunlarını axtarmadılar.",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "uzaqdır"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "şər əhlindən"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "qurtuluş"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "qanunlarını"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "axtarmadılar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:16.986599634Z",
+  "model": "glm-5.3"
+}

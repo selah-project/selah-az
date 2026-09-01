@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 1:22",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və Elohim onları ⟨את⟩ xeyir-dua ilə oyatdı: «Çoxalın, artın, dənizlərdə sularda ⟨את⟩ doldurun, və quş yer üzündə çoxalsın.»",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "xeyir-dua ilə oyatdı"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "çoxalın"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "və artın"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "və doldurun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sularda"
+    },
+    {
+      "surface": "המים",
+      "gloss": "suları"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "dənizlərdə"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "və quş"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "çoxalsın"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yer üzündə"
+    }
+  ],
+  "timestamp": "2026-09-01T17:52:33.252555553Z",
+  "model": "glm-5.3"
+}

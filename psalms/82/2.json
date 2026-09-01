@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 82:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 82,
+  "translation": "Nə qədər ədalətsiz mühakimə aparacaqsınız və şər insanların üzünü qaldıracaqsınız? Selah.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Nə qədər"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "nə vaxta qədər"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "mühakimə aparacaqsınız"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ədalətsiz"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "üzünü"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "şər insanların"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "qaldıracaqsınız"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T15:27:15.736061977Z",
+  "model": "glm-5.3"
+}

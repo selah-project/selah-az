@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 68:19",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 68,
+  "translation": "Yüksəkliyə qalxdın, əsirliyi əsir apardın, insanlardan ⟨və⟩ hətta üsyançılardan hədiyyələr aldın — ki, Yah Elohim ⟨orada⟩ sakin olsun.",
+  "tokens": [
+    {
+      "surface": "עלית",
+      "gloss": "qalxdın"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "yüksəkliyə"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "əsirliyi"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "əsir apardın"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "aldın"
+    },
+    {
+      "surface": "מתנות",
+      "gloss": "hədiyyələr"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "insanlardan"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "hətta"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "üsyançılardan"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "sakin olsun"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T15:23:21.973365357Z",
+  "model": "glm-5.3"
+}

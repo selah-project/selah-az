@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 43:5",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 43,
+  "translation": "Əgər sən onu göndərməsən, biz enməyəcəyik, çünki o adam bizə dedi: Qardaşınız ⟨את⟩ sizinlə olmadıqca üzümü görməyəcəksiniz.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "sən … -məsən"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "göndərməsən"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "נרד",
+      "gloss": "enməyəcəyik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "o adam"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "bizə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…-məyəcəksiniz"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "görməyəcəksiniz"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzümü"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "…madıqca"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "qardaşınız"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizinlə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:01:31.243039048Z",
+  "model": "glm-5.3"
+}

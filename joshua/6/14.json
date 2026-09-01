@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 6:14",
+  "book": "joshua",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "⟨Onlar⟩ ikinci gün ⟨את⟩ şəhəri bir dəfə dolandılar və düşərgəyə qayıtdılar; beləcə altı gün etdilər.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "dolandılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şəhəri"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şəhəri"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gündə"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikinci"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "dəfə"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "bir"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "və qayıtdılar"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "düşərgəyə"
+    },
+    {
+      "surface": "כה",
+      "gloss": "beləcə"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "etdilər"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "altı"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    }
+  ],
+  "timestamp": "2026-09-01T11:03:36.350055765Z",
+  "model": "glm-5.3"
+}

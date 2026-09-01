@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 21:3",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Və öldürülmüşə ən yaxın olan şəhər ⟨olacaq⟩ — o şəhərin qocaları sürüdən bir camış balası götürəcək, hansı ki, onunla işlənilməmiş, hansı ki, boyunduruqda çəkməmiş;",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "və ⟨olacaq⟩"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şəhər"
+    },
+    {
+      "surface": "הקרבה",
+      "gloss": "ən yaxın olan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "öldürülmüşə"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "götürəcək"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "qocaları"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şəhərin"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "עגלת",
+      "gloss": "camış balası"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sürüdən"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hansı ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "işlənilməmiş"
+    },
+    {
+      "surface": "בה",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hansı ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "משכה",
+      "gloss": "çəkməmiş"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "boyunduruqda"
+    }
+  ],
+  "timestamp": "2026-09-01T10:52:51.830295237Z",
+  "model": "glm-5.3"
+}

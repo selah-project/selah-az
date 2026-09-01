@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "⟨את⟩ qanunlarını saxlayacağam; məni ⟨tamamilə⟩ tərk etmə!",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qanunlarını"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "qanunlarını"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "saxlayacağam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yox —"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "tərk etmə məni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "⟨tamamilə⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:20.944458497Z",
+  "model": "glm-5.3"
+}

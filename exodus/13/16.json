@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 13:16",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Və əlinin üstündə nişan, gözlərinin arasında isə xatirə bağı olacaq, çünki güclü ⟨əl⟩ ilə Yahve bizi Mitsrayimden çıxartdı.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "və olacaq"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "nişan"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "ידכה",
+      "gloss": "əlinin"
+    },
+    {
+      "surface": "ולטוטפת",
+      "gloss": "xatirə bağı"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "gözlərinin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "güclü"
+    },
+    {
+      "surface": "יד",
+      "gloss": "əl"
+    },
+    {
+      "surface": "הוציאנו",
+      "gloss": "bizi çıxartdı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayimden"
+    }
+  ],
+  "timestamp": "2026-09-01T10:09:55.196414220Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 4:20",
+  "book": "ruth",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Amminadav ⟨את⟩ Nakşonu dünyaya gətirdi, Nakşon isə ⟨את⟩ Salmanı dünyaya gətirdi.",
+  "tokens": [
+    {
+      "surface": "ועמינדב",
+      "gloss": "Amminadav"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dünyaya gətirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nakşonu"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nakşonu"
+    },
+    {
+      "surface": "ונחשון",
+      "gloss": "Nakşon isə"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dünyaya gətirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salmanı"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salmanı"
+    }
+  ],
+  "timestamp": "2026-09-01T16:23:50.088695406Z",
+  "model": "glm-5.3"
+}

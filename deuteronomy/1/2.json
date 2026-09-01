@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "On bir günlük ⟨yol⟩ Xorevdən Seir dağı yolu ilə Qadeş-Barneaya ⟨qədər⟩dir.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "on"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "Xorevdən"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yolu ilə"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dağı"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Qadeş-"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    }
+  ],
+  "timestamp": "2026-09-01T10:46:51.826896208Z",
+  "model": "glm-5.3"
+}

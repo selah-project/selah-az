@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 49:16",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 49,
+  "translation": "Sənin dəhşətin və ürəyinin təkəbbürü səni ⟨את⟩ aldatdı, ey qayanın yarıqlarında yaşayan, təpənin yüksəkliyini tutan! Qartal kimi yuvanı ucaltsan da, mən səni oradan endirəcəyəm, — deyir Yahve.",
+  "tokens": [
+    {
+      "surface": "תפלצתך",
+      "gloss": "sənin dəhşətin"
+    },
+    {
+      "surface": "השיא",
+      "gloss": "aldatdı"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ səni",
+      "marks": "səni"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "təkəbbür"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ürəyinin"
+    },
+    {
+      "surface": "שכני",
+      "gloss": "ey yaşayan"
+    },
+    {
+      "surface": "בחגוי",
+      "gloss": "yarıqlarında"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "qayanın"
+    },
+    {
+      "surface": "תפשי",
+      "gloss": "tutan"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "yüksəkliyini"
+    },
+    {
+      "surface": "גבעה",
+      "gloss": "təpənin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tsan da"
+    },
+    {
+      "surface": "תגביה",
+      "gloss": "ucaltsan"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "qartal kimi"
+    },
+    {
+      "surface": "קנך",
+      "gloss": "yuvanı"
+    },
+    {
+      "surface": "משם",
+      "gloss": "oradan"
+    },
+    {
+      "surface": "אורידך",
+      "gloss": "mən səni endirəcəyəm"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T13:56:59.060490771Z",
+  "model": "glm-5.3"
+}

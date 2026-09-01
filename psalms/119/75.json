@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "psalms 119:75",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Bilirəm, Yahve, çünki sənin mühakimələrin ədalətli, və sadiqliklə məni sıxıntıya saldın.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Bilirəm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ədalətli"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "sənin mühakimələrin"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "və sadiqliklə"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "məni sıxıntıya saldın"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:23.921512123Z",
+  "model": "glm-5.3"
+}

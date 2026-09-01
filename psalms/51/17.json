@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 51:17",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 51,
+  "translation": "Adonay, dudaklarımı aç, ağzım Sənin mədhini elan edəcək.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "dudaklarımı"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "aç"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "və ağzım"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "elan edəcək"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "Sənin mədhini"
+    }
+  ],
+  "timestamp": "2026-09-01T15:18:05.258851654Z",
+  "model": "glm-5.3"
+}

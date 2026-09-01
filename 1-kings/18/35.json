@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Su altarın ətrafında axdı və ⟨o⟩ hətta ⟨את⟩ arxı da su ilə doldurdu.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "axdı"
+    },
+    {
+      "surface": "המים",
+      "gloss": "su"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ətrafında"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "və hətta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arx"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "arx"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "doldurdu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su ilə"
+    }
+  ],
+  "timestamp": "2026-09-01T17:34:58.806291391Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 55,
+  "translation": "Düşmənin səsindən, pisdarın zülmündən, çünki onlar üstümə pislik endirirlər və qəzəblə mənə nifrət edirlər.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "səsindən"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "düşmənin"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "zülmündən"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "qəddarlığının"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "pisdarın"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "endirirlər"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üstümə"
+    },
+    {
+      "surface": "און",
+      "gloss": "pislik"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "və qəzəblə"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "mənə nifrət edirlər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:19:00.518597905Z",
+  "model": "glm-5.3"
+}

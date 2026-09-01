@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 68:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 68,
+  "translation": "Əgər siz qoyun ağılları arasında yatsanız ⟨belə⟩, göyərcəyin qanadları gümüşlə örtülmüşdür, lələkləri isə sarı qızıl ilə.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "תשכבון",
+      "gloss": "yatsanız"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "qoyun ağılları"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "qanadları"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "göyərcəyin"
+    },
+    {
+      "surface": "נחפה",
+      "gloss": "örtülmüşdür"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "gümüşlə"
+    },
+    {
+      "surface": "ואברותיה",
+      "gloss": "və lələkləri"
+    },
+    {
+      "surface": "בירקרק",
+      "gloss": "sarı-parıltılı"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "qızıl"
+    }
+  ],
+  "timestamp": "2026-09-01T15:23:32.649479804Z",
+  "model": "glm-5.3"
+}

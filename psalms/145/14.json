@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 145,
+  "translation": "Yahve bütün düşənləri saxlayır, və bütün əyilənləri düzəldir.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "saxlayır"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "düşənləri"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "və düzəldir"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "əyilənləri"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:34.900111172Z",
+  "model": "glm-5.3"
+}

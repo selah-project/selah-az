@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "hələ ki, qaralmamışdır günəş, və işıq, və ay, və ulduzlar, və buludlar geri dönməyəndən sonra yağışın.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "hələ ki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "olmaz"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "qaralmamışdır"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "günəş"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "və işıq"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "və ay"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "və ulduzlar"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "və geri dönməyəndən"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "buludlar"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sonra"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "yağışın"
+    }
+  ],
+  "timestamp": "2026-09-01T16:34:25.517355254Z",
+  "model": "glm-5.3"
+}

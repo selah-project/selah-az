@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 108:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 108,
+  "translation": "Elohim ⟨ilə⟩ qəhrəmanlıq edəcəyik, ⟨çünki⟩ O düşmənlərimizi əzəcək.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim ⟨ilə⟩"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "edəcəyik"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "qəhrəmanlıq"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "⟨çünki⟩ O"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "əzəcək"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "düşmənlərimizi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:37:00.356989657Z",
+  "model": "glm-5.3"
+}

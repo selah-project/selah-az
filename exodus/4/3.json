@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "O dedi: Onu yerə at. O da onu yerə atdı və o ilana çevrildi, və Moşe onun üzündən qaçdı.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "onu at"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yerə"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "və onu atdı"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yerə"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "və oldu"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "ilana"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "və qaçdı"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "onun üzündən"
+    }
+  ],
+  "timestamp": "2026-09-01T10:05:31.936828768Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 17:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Mən səni çağırdım, çünki mənə cavab verəcəksən, El; qulağını mənə tərəf əy, sözümü eşit.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "səni çağırdım"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "mənə cavab verəcəksən"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הט",
+      "gloss": "tərəf əy"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "qulağını"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eşit"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "sözümü"
+    }
+  ],
+  "timestamp": "2026-09-01T15:04:21.602840078Z",
+  "model": "glm-5.3"
+}

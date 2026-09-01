@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 3:12",
+  "book": "job",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Niyə dizlər məni qabaqladı? Və nə üçün döşlər ⟨var idi⟩ ki, əmim?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "niyə"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "məni qabaqladılar"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "dizlər"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "və nə üçün"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "döşlər"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אינק",
+      "gloss": "əmim"
+    }
+  ],
+  "timestamp": "2026-09-01T16:02:23.757175764Z",
+  "model": "glm-5.3"
+}

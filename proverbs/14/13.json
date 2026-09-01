@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 14:13",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Hətta gülüşdə ürək ağrıyır, və sevincin sonu kədərdir.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "hətta"
+    },
+    {
+      "surface": "בשחוק",
+      "gloss": "gülüşdə"
+    },
+    {
+      "surface": "יכאב",
+      "gloss": "ağrıyır"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ürək"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "və sonucu"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "sevincin"
+    },
+    {
+      "surface": "תוגה",
+      "gloss": "kədərdir"
+    }
+  ],
+  "timestamp": "2026-09-01T15:52:52.278062337Z",
+  "model": "glm-5.3"
+}

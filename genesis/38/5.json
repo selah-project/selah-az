@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 38,
+  "translation": "Və o, yenə ⟨də⟩ oğul doğdu və adını Şela qoydu; və ⟨o⟩ Kəzivdə ⟨idi⟩, onu doğduğu zaman.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "və o, yenə"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "davam olaraq"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "doğdu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "və adını qoydu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adını"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "onun adı"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Şela"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "və ⟨o⟩ idi"
+    },
+    {
+      "surface": "בכזיב",
+      "gloss": "Kəzivdə"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "onu doğduğu zaman"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩onu",
+      "marks": "onu"
+    }
+  ],
+  "timestamp": "2026-09-01T09:58:58.282484906Z",
+  "model": "glm-5.3"
+}

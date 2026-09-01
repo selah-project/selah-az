@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 23:2",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "İnsan oğlu, bir ananın iki qızı — iki qadın ⟨idi⟩.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "İnsan"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "iki"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "qadın"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "qızı"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ananın"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "bir"
+    },
+    {
+      "surface": "היו",
+      "gloss": "idi"
+    }
+  ],
+  "timestamp": "2026-09-01T14:15:41.530470546Z",
+  "model": "glm-5.3"
+}

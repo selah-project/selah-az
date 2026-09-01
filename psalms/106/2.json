@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 106,
+  "translation": "Kim danıza bilər Yahve-nin qüdrətlərini, kim eşitdirə bilər bütün Onun təriflərini?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kim"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "dıa bilər"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "qüdrətlərini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve-nin"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "eşitdirə bilər"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "Onun təriflərini"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:24.015079756Z",
+  "model": "glm-5.3"
+}

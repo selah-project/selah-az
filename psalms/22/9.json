@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 22:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "«Yahvenin üstünə yuvarlansın — qurtarsın onu, xilas etsin onu, çünki ondan xoşlanır!»",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "yuvarlansın"
+    },
+    {
+      "surface": "אל",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יפלטהו",
+      "gloss": "qurtarsın onu"
+    },
+    {
+      "surface": "יצילהו",
+      "gloss": "xilas etsin onu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "xoşlanır"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ondan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:06:12.482815559Z",
+  "model": "glm-5.3"
+}

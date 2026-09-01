@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 91,
+  "translation": "Qaranlıqda gəzən vəbadan, gündüz çağı məhv edən qırğından ⟨da qorxmazsan⟩.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "vabadan"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "qaranlıqda"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "gəzən"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "qırğından"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "məhv edən"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "gündüz çağı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:32:49.719863117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "az",
+  "chapter": 42,
+  "translation": "Yahve Iyovun sürgününü geri qaytardı, öz dostları üçün dua etdiyi zaman; və Yahve Iyovun olan ⟨hər⟩ şeyin hamısını ikiqat artırdı.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שב",
+      "gloss": "geri qaytardı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sürgününü"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "sürgününü"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyovun"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "dua etdiyi zaman"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "üçün"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "dostları"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "və artırdı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hamısını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamısını"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olan"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "Iyovun"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "ikiqat"
+    }
+  ],
+  "timestamp": "2026-09-01T16:21:12.896057132Z",
+  "model": "glm-5.3"
+}

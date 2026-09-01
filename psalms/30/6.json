@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Çünki Onun qəzəbi bir anlıqdır, Onun razılığında ⟨var⟩ həyat; axşam ağlama qalır, səhər isə sevinc nəğməsi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "bir an"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "Onun qəzəbində"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "həyat"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "Onun razılığında"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "axşam"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "qalır"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "ağlama"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "səhər isə"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "sevinc nəğməsi"
+    }
+  ],
+  "timestamp": "2026-09-01T17:41:24.566962130Z",
+  "model": "glm-5.3"
+}

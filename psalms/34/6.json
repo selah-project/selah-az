@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 34:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 34,
+  "translation": "Ona baxdılar və parlaqlaşdılar, üzləri ⟨isə⟩ utandırılmayacaq.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "baxdılar"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "və parlaqlaşdılar"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "üzləri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יחפרו",
+      "gloss": "utandırılacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T17:41:50.306159796Z",
+  "model": "glm-5.3"
+}

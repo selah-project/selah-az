@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 81:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 81,
+  "translation": "Şahidliyi Yosef üstünə qoydu, ⟨o⟩ Mitsrayim torpağı üzərinə çıxarkən; bir dil ⟨var idi⟩ ki, bilmədim — eşitdim.",
+  "tokens": [
+    {
+      "surface": "עדות",
+      "gloss": "şahidliyi"
+    },
+    {
+      "surface": "ביהוסף",
+      "gloss": "Yosef üstünə"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "qoydu"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "çıxarkən"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "torpağı"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "dil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "bilmədim"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "eşitdim"
+    }
+  ],
+  "timestamp": "2026-09-01T15:28:07.162755825Z",
+  "model": "glm-5.3"
+}

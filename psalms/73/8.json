@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 73:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 73,
+  "translation": "İştir salırlar və zülmdə ⟨danışırlar⟩ şər haqqında, yüksəkdən ⟨danışırlar⟩ arxayınlıqla.",
+  "tokens": [
+    {
+      "surface": "ימיקו",
+      "gloss": "iştir salırlar"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "danışırlar"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "şər"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "zülm"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "yüksəkdən"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "danışırlar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:24:27.752125410Z",
+  "model": "glm-5.3"
+}

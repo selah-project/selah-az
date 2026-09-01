@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 105,
+  "translation": "Heç bir adamı onlara zülm etməyə qoymadı və onların haqqında padşahları qınadı.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "qoymadı"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "qoymadı"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "heç bir adamı"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "onlara zülm etməyə"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "və qınadı"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "onların haqqında"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "padşahları"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:06.106689897Z",
+  "model": "glm-5.3"
+}

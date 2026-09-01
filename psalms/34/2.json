@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 34,
+  "translation": "Mən Yahveni ⟨את⟩ hər vaxt mübarək edəcəyəm; Onun mədhi daim ağzımda ⟨olacaq⟩.",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "mübarək edəcəyəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveni"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vaxt"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daim"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "Onun mədhi"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ağızımda"
+    }
+  ],
+  "timestamp": "2026-09-01T15:11:42.406142771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 21:19",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Və Elohim ⟨את⟩ onun gözlərini açdı, və o, su quyusu gördü, və getdi, və tuluğu su ilə doldurdu, və oğlana içirdi.",
+  "tokens": [
+    {
+      "surface": "ויפקח",
+      "gloss": "açdı"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onun gözlərini"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "onun gözlərini"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "gördü"
+    },
+    {
+      "surface": "באר",
+      "gloss": "quyu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "getdi"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "doldurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuluğu"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "tuluğu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    },
+    {
+      "surface": "ותשק",
+      "gloss": "içirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oğlanı"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "oğlanı"
+    }
+  ],
+  "timestamp": "2026-09-01T17:26:08.760179327Z",
+  "model": "glm-5.3"
+}

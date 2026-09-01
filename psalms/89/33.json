@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 89:33",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 89,
+  "translation": "Üsyanlarına çubuqla, günahlarına zərbələrlə yoxlayacağam.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "yoxlayacağam"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "çubuqla"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "üsyanlarına"
+    },
+    {
+      "surface": "ובנגעים",
+      "gloss": "zərbələrlə"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "günahlarına"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:53.478237490Z",
+  "model": "glm-5.3"
+}

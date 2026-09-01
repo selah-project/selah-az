@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 25:21",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "⟨və⟩ Mən öz bərəkətimi ⟨את⟩ sizin üçün altıncı ildə buyuracağam, və o, üç il üçün ⟨את⟩ məhsulu verəcək.",
+  "tokens": [
+    {
+      "surface": "וצויתי",
+      "gloss": "buyuracağam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bərəkətimi"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "öz bərəkətimi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin üçün"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ildə"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "altıncı"
+    },
+    {
+      "surface": "ועשת",
+      "gloss": "və o, verəcək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "məhsulu"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "məhsulu"
+    },
+    {
+      "surface": "לשלש",
+      "gloss": "üç ⟨il⟩ üçün"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "illər"
+    }
+  ],
+  "timestamp": "2026-09-01T10:30:27.684522814Z",
+  "model": "glm-5.3"
+}

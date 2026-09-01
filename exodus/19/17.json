@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Moşe xalqı ⟨את⟩ düşərgədən çıxarıb Elohimlə qarşılaşmağa gətirdi, və onlar dağın ətəyində dayandılar.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "çıxarıb gətirdi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqı"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "qarşılaşmağa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimlə"
+    },
+    {
+      "surface": "מן",
+      "gloss": "düşərgədən"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "düşərgədən"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "dayandılar"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "ətəyində"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "dağın"
+    }
+  ],
+  "timestamp": "2026-09-01T10:10:47.659424630Z",
+  "model": "glm-5.3"
+}

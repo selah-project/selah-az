@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 28:2",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "Və qardaşın Aharon üçün izzət və gözəllik üçün müqəddəs paltarlar düzəlt.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "düzəlt"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "paltarlar"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharon üçün"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "qardaşın"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "izzət üçün"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "və gözəllik üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:17:32.655184117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 25:2",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Adam oğlu, üzünü Ammon oğullarına tərəf çevir və onlara qarşı peyğəmbərlik et.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "שים",
+      "gloss": "tərəf çevir"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "üzünü"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…-a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarına"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "və peyğəmbərlik et"
+    },
+    {
+      "surface": "עליהמה → עליהם",
+      "gloss": "onlara qarşı"
+    }
+  ],
+  "timestamp": "2026-09-01T14:15:47.516949136Z",
+  "model": "glm-5.3"
+}

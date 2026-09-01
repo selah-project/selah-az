@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 10:9",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Moşe dedi: Gənclərimizlə və qocalarımızla gedəcəyik, oğullarımızla və qızlarımızla, davarımızla və mal-qaramızla gedəcəyik, çünki Yahvenin bayramı bizim üçündür.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "בנערינו",
+      "gloss": "gənclərimizlə"
+    },
+    {
+      "surface": "ובזקנינו",
+      "gloss": "və qocalarımızla"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "gedəcəyik"
+    },
+    {
+      "surface": "בבנינו",
+      "gloss": "oğullarımızla"
+    },
+    {
+      "surface": "ובבנותנו",
+      "gloss": "və qızlarımızla"
+    },
+    {
+      "surface": "בצאננו",
+      "gloss": "davarımızla"
+    },
+    {
+      "surface": "ובבקרנו",
+      "gloss": "və mal-qaramızla"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "gedəcəyik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "חג",
+      "gloss": "bayram"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizim üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:07:36.049398256Z",
+  "model": "glm-5.3"
+}

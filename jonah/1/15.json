@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Yonanı götürüb dənizə atdılar və dəniz qəzəbindən dinəldi.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "götürüb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonanı"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "atdılar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dənizə"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dəniz"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "dinəldi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dəniz"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "qəzəbindən"
+    }
+  ],
+  "timestamp": "2026-09-01T14:45:23.647638305Z",
+  "model": "glm-5.3"
+}

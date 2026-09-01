@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 20:3",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Və ertəsi gün oldu, və Pashşur ⟨את⟩ Yirməyanı dar ağacından çıxartdı, və Yirməya ona dedi: 'Pashşur adını sənə Yahve çağırmadı, çünki Magor-Missaviv.'",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "və oldu"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ertəsi gün"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "çıxartdı"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "Pashşur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yirməyanı"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirməyanı"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "המהפכת",
+      "gloss": "dar ağacından"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirməya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "Pashşur"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "çağırdı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "adını"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "Magor"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "Missaviv"
+    }
+  ],
+  "timestamp": "2026-09-01T13:34:55.614802234Z",
+  "model": "glm-5.3"
+}

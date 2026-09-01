@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 74,
+  "translation": "Gün Sənindir, gecə də Sənindir; Sən ⟨את⟩ işıq mənbəyini və günəşi hazırladın.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Sənindir"
+    },
+    {
+      "surface": "יום",
+      "gloss": "Gün"
+    },
+    {
+      "surface": "אף",
+      "gloss": "də"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Sənindir"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "gecə"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sən"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "hazırladın"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "ışıq mənbəyini"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "və günəşi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:25:18.566794086Z",
+  "model": "glm-5.3"
+}

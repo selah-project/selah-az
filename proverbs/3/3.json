@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 3:3",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Hesed və əmət səni tərk etməsin; onları boğazına bağla, onları qəlbinin lövhəsinə yaz.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "və əmət"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "səni tərk etməsin"
+    },
+    {
+      "surface": "קשרם",
+      "gloss": "onları bağla"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "גרגרותיך",
+      "gloss": "boğazına"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "onları yaz"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "lövhəsinə"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "qəlbinin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:48:48.811459241Z",
+  "model": "glm-5.3"
+}

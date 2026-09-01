@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 94,
+  "translation": "Bəlaların taxtı səninlə bir ola bilərmi — qanun adına əzab uyduran?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "səninlə bir ola bilərmi"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "taxtı"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "bəlaların"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "uyduran"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "əzab"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "חק",
+      "gloss": "qanun"
+    }
+  ],
+  "timestamp": "2026-09-01T15:31:49.949334510Z",
+  "model": "glm-5.3"
+}

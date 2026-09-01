@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 17:15",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Özündə ölü (nəvəla) və ya parçalanmış (tərifa) yeyən hər kəs — yerli doğma da, ger də — paltarını yusun, suda çiminsin və axşama qədər murdar olsun, sonra təmizlənsin.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "və hər"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kəs"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…dıqda"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yeyən"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "özündə ölü (nəvəla)"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "və parçalanmış (tərifa)"
+    },
+    {
+      "surface": "באזרח",
+      "gloss": "yerli doğma"
+    },
+    {
+      "surface": "ובגר",
+      "gloss": "və ger"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "yusun"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "paltarını"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "çiminsin"
+    },
+    {
+      "surface": "במים",
+      "gloss": "suda"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "murdar olsun"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "axşama"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "təmizlənsin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:28:18.085953848Z",
+  "model": "glm-5.3"
+}

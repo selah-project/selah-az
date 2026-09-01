@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 40:30",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "Və o, ⟨את⟩ laveri çadır-tanışma ilə qurban gülünü ⟨arasına⟩ qoydu və oraya yuyunma üçün su qoydu.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "və qoydu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laveri"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "laveri"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadır"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "tanışma"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "və arasında"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "qurban gülü"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "və qoydu"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "oraya"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "yuyunma üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T17:56:44.956424210Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 107,
+  "translation": "Dənizə gəmilərlə enənlər, çox sularda iş görənlər —",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "enənlər"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dənizə"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "gəmilərlə"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "görənlər"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "iş"
+    },
+    {
+      "surface": "במים",
+      "gloss": "sularda"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "çox"
+    }
+  ],
+  "timestamp": "2026-09-01T15:35:58.744830393Z",
+  "model": "glm-5.3"
+}

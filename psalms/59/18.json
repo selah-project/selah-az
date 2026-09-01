@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 59:18",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 59,
+  "translation": "Ey mənim qüvvətim, Sənə zərlər çalacağam, çünki Elohim mənim sığınacaq qayamdır, mənim hesed-imin Elohim-i.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "mənim qüvvətim"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Sənə"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "zərlər çalacağam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "mənim sığınacaq qayam"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-i"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "mənim hesed-imin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:19:53.089054543Z",
+  "model": "glm-5.3"
+}

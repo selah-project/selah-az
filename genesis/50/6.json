@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 50:6",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 50,
+  "translation": "Və Paro dedi: «Qalx və atanı dəfn et ⟨את⟩ səni and içirdiyi kimi.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "qalx"
+    },
+    {
+      "surface": "וקבר",
+      "gloss": "və dəfn et"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atanı"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "atan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "השביעך",
+      "gloss": "səni and içirdi"
+    }
+  ],
+  "timestamp": "2026-09-01T10:03:34.720164715Z",
+  "model": "glm-5.3"
+}

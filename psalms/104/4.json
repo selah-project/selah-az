@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 104,
+  "translation": "Elçilərini küləklər, xidmətçilərini alovlu od edən.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "edən"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "elçilərini"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "küləklər"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "xidmətçilərini"
+    },
+    {
+      "surface": "אש",
+      "gloss": "od"
+    },
+    {
+      "surface": "להט",
+      "gloss": "alovlu"
+    }
+  ],
+  "timestamp": "2026-09-01T15:34:55.781483069Z",
+  "model": "glm-5.3"
+}

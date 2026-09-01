@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 119:68",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Yaxısan və yaxşılıq edirsən; mənə qanunlarını öyrət.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "yaxısan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "ומטיב",
+      "gloss": "və yaxşılıq edirsən"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "mənə öyrət"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "qanunlarını"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:32.251615283Z",
+  "model": "glm-5.3"
+}

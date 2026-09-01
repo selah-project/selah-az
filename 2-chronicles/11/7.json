@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "⟨את⟩ Beyt-Tsuru, ⟨את⟩ Soxonu və ⟨את⟩ Adullamı ⟨da⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Beyt-Tsuru"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt-"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Tsuru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Soxonu"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "Soxonu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Adullamı"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adullamı"
+    }
+  ],
+  "timestamp": "2026-09-01T17:15:07.158812225Z",
+  "model": "glm-5.3"
+}

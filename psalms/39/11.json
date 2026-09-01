@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 39,
+  "translation": "Zərbəni üstümdən uzaqlaşdır; Əlinin hücumundan mən tükəndim.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "uzaqlaşdır"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "üstümdən"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "zərbəni"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "hücumundan"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "Əlinin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "tükəndim"
+    }
+  ],
+  "timestamp": "2026-09-01T15:13:47.009087527Z",
+  "model": "glm-5.3"
+}

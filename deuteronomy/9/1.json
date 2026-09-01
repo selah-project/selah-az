@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 9:1",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Eşit, Yisrael: sən bu gün ⟨את⟩ Yardeni keçirsən, səndən böyük və güclü xalqları ⟨oraya⟩ daxil olub mənimsəmək üçün — böyük şəhərləri, göylərə ⟨qədər⟩ möhkəmləndirilmiş ⟨şəhərləri mənimsəmək üçün⟩.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Eşit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "keçirsən"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bu gün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardeni"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardeni"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "daxil olmaq"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "mənimsəmək"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "xalqları"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "və güclü"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "səndən"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "şəhərləri"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "ובצרת",
+      "gloss": "və möhkəmləndirilmiş"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "göylərə qədər"
+    }
+  ],
+  "timestamp": "2026-09-01T17:30:48.895385573Z",
+  "model": "glm-5.3"
+}

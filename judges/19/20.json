@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 19:20",
+  "book": "judges",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Və qoca adam dedi: Sənə salam olsun; yalnız bütün çatışmazlığın mənim üstümə olsun; yalnız meydanda gecələmə.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "qoca"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salam"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "רק",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מחסורך",
+      "gloss": "çatışmazlığın"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mənim üstümə"
+    },
+    {
+      "surface": "רק",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "meydanda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תלן",
+      "gloss": "gecələmə"
+    }
+  ],
+  "timestamp": "2026-09-01T11:26:48.865599891Z",
+  "model": "glm-5.3"
+}

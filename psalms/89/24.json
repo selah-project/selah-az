@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 89:24",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 89,
+  "translation": "Üzündən öncə onun sıxıntıçılarını əzəcəyəm və onu soyunanlarını vuracağam.",
+  "tokens": [
+    {
+      "surface": "וכתותי",
+      "gloss": "əzəcəyəm"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "üzündən öncə"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "onun sıxıntıçılarını"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "onu soyunanlarını"
+    },
+    {
+      "surface": "אגוף",
+      "gloss": "vuracağam"
+    }
+  ],
+  "timestamp": "2026-09-01T15:30:28.387264590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 4:14",
+  "book": "lamentations",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Korlar küçələrdə azdılar, qanla murdarlandılar; ⟨heç kəs⟩ onların paltarlarına toxuna bilmədi.",
+  "tokens": [
+    {
+      "surface": "נעו",
+      "gloss": "azdılar"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "korlar"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "küçələrdə"
+    },
+    {
+      "surface": "נגאלו",
+      "gloss": "murdarlandılar"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "qanla"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "⟨heç kəs⟩ … yox"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "bilmədi"
+    },
+    {
+      "surface": "יגעו",
+      "gloss": "toxuna"
+    },
+    {
+      "surface": "בלבשיהם",
+      "gloss": "onların paltarlarına"
+    }
+  ],
+  "timestamp": "2026-09-01T16:27:08.897322690Z",
+  "model": "glm-5.3"
+}

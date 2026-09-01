@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 43:6",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 43,
+  "translation": "Yisrael isə dedi: Niyə mənə bu pisliyi etdiniz, o adama hələ bir qardaşınızın olub-olmadığını bildirməklə?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "isə dedi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "למה",
+      "gloss": "niyə"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "pisliyi etdiniz"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "bildirməklə"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "o adama"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "hələ … olub-olmadığını"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin"
+    },
+    {
+      "surface": "אח",
+      "gloss": "qardaşınızın"
+    }
+  ],
+  "timestamp": "2026-09-01T10:01:31.243249078Z",
+  "model": "glm-5.3"
+}

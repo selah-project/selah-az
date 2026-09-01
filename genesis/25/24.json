@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 25:24",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Və doğma günləri tamam oldu, və bax — bətnində əkizlər ⟨var idi⟩.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "tamam oldu"
+    },
+    {
+      "surface": "ימיה",
+      "gloss": "onun günləri"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "doğma (üçün)"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "və bax"
+    },
+    {
+      "surface": "תומם",
+      "gloss": "əkizlər"
+    },
+    {
+      "surface": "בבטנה",
+      "gloss": "onun bətnində"
+    }
+  ],
+  "timestamp": "2026-09-01T09:53:02.385517587Z",
+  "model": "glm-5.3"
+}

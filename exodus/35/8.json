@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 35:8",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "və çıraq üçün yağ, və məsh yağı üçün, və ətirli qət-ran üçün bəsamim.",
+  "tokens": [
+    {
+      "surface": "ושמן",
+      "gloss": "və yağ"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "çıraq üçün"
+    },
+    {
+      "surface": "ובשמים",
+      "gloss": "və ətirli maddələr (bəsamim)"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "...yağı üçün"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "məsh yağı"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "və qət-ran üçün"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "ətirli (səmim)"
+    }
+  ],
+  "timestamp": "2026-09-01T10:19:11.691256042Z",
+  "model": "glm-5.3"
+}

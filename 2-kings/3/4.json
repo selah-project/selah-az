@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 3:4",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və Moav kralı Meişa qoyun sahibi idi və İsrail kralına yüz min qoçun və yüz min toxuzun yununu qaytarırdı.",
+  "tokens": [
+    {
+      "surface": "ומישע",
+      "gloss": "Və Meişa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "היה",
+      "gloss": "idi"
+    },
+    {
+      "surface": "נקד",
+      "gloss": "qoyun sahibi"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "və qaytarırdı"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kralına"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "min"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "qoçun"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "və yüz"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "min"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "toxuzun"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "yununu"
+    }
+  ],
+  "timestamp": "2026-09-01T12:29:24.935166874Z",
+  "model": "glm-5.3"
+}

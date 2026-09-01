@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 22:31",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Nəsil Ona qulluq edəcək, Adonayın ⟨hekayəti⟩ nəslə nəql olunacaq.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "nəsil"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "Ona qulluq edəcək"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "nəql olunacaq"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonayın"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "nəslə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:07:05.670516864Z",
+  "model": "glm-5.3"
+}

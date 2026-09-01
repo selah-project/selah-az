@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 167,
+  "ref": "psalms 119:167",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Canım saxlamışdır sənin şəhadətlərini, və mən onları çox sevirəm.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "saxlamışdır"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "sənin şəhadətlərini"
+    },
+    {
+      "surface": "ואהבם",
+      "gloss": "və sevirəm onları"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çox"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:27.091085658Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 12:3",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Onların qurbangahlarını söküb dağıdacaqsınız ⟨את⟩, sütunlarını sındıracaqsınız ⟨את⟩, Aşeralarını odda yandıracaqsınız, tanrılarının oyulmuş bütlərini kəsib atacaqsınız, adlarını məhv edəcəksiniz ⟨את⟩ o yerdən.",
+  "tokens": [
+    {
+      "surface": "ונתצתם",
+      "gloss": "söküb dağıdacaqsınız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbangahlarını"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "qurbangahlarını"
+    },
+    {
+      "surface": "ושברתם",
+      "gloss": "sındıracaqsınız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sütunlarını"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "sütunlarını"
+    },
+    {
+      "surface": "ואשריהם",
+      "gloss": "Aşeralarını"
+    },
+    {
+      "surface": "תשרפון",
+      "gloss": "yandıracaqsınız"
+    },
+    {
+      "surface": "באש",
+      "gloss": "odda"
+    },
+    {
+      "surface": "ופסילי",
+      "gloss": "oyulmuş bütlərini"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "tanrılarının"
+    },
+    {
+      "surface": "תגדעון",
+      "gloss": "kəsib atacaqsınız"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "məhv edəcəksiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adlarını"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "adlarını"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "yer"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-09-01T10:50:57.085039337Z",
+  "model": "glm-5.3"
+}

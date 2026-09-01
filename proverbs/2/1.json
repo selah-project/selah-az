@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Oğlum, əgər sözlərimi qəbul etsən və əmrlərimi yanında saxlasan",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "oğlum"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "qəbul etsən"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "sözlərimi"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "və əmrlərimi"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "saxlasan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ yanında"
+    }
+  ],
+  "timestamp": "2026-09-01T15:48:58.825291677Z",
+  "model": "glm-5.3"
+}

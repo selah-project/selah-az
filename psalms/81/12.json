@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 81:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 81,
+  "translation": "Amma xalqım mənim səsimə qulaq asmadı və Yisraəl mənə razı olmadı.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Amma yox"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "qulaq asmadı"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqım"
+    },
+    {
+      "surface": "לקולי",
+      "gloss": "mənim səsimə"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "və Yisraəl"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "razı olmadı"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:27:07.075898429Z",
+  "model": "glm-5.3"
+}

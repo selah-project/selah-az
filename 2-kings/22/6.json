@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 22:6",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Dülgerlərə, binalara ⟨çəkməyə⟩ divar ustalarına, ağac və yonulmuş daş almaq üçün, evi möhkəmlətmək ⟨üçün⟩ — ⟨את⟩ evi ⟨gücləndirməyə⟩.",
+  "tokens": [
+    {
+      "surface": "לחרשים",
+      "gloss": "dülgerlərə"
+    },
+    {
+      "surface": "ולבנים",
+      "gloss": "və binalara"
+    },
+    {
+      "surface": "ולגדרים",
+      "gloss": "və divar ustalarına"
+    },
+    {
+      "surface": "ולקנות",
+      "gloss": "və almaq üçün"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "ağac"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "və daş"
+    },
+    {
+      "surface": "מחצב",
+      "gloss": "yonulmuş daş"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "möhkəmlətmək üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ev"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ev"
+    }
+  ],
+  "timestamp": "2026-09-01T18:20:42.451298173Z",
+  "model": "glm-5.3"
+}

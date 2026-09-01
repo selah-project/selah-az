@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 111:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 111,
+  "translation": "Qurtuluş göndərdi öz xalqına, əmr etdi əbədi olaraq öz əhdini; müqəddəs və heybətlidir Onun adı.",
+  "tokens": [
+    {
+      "surface": "פדות",
+      "gloss": "Qurtuluş"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "göndərdi"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "öz xalqına"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "əmr etdi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədi olaraq"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "öz əhdini"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "və heybətlidir"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Onun adı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:37:05.707076741Z",
+  "model": "glm-5.3"
+}

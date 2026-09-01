@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 11:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Yahve əvəngi yoxlayır; şər adamı və zor-sevəni isə Onun canı yaxudır.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "əvəngi"
+    },
+    {
+      "surface": "יבחן",
+      "gloss": "yoxlayır"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "şər adamı"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "və ... sevəni"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "zor"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "yaxudır"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "Onun canı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:03:52.072752836Z",
+  "model": "glm-5.3"
+}

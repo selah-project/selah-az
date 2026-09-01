@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 2:12",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Səni pis yoldan, tərs şeylər danışan adamdan qurtarmaq üçün.",
+  "tokens": [
+    {
+      "surface": "להצילך",
+      "gloss": "səni qurtarmaq üçün"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "yoldan"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pis"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "adamdan"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "danışan"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "tərs şeylər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:47:47.782395778Z",
+  "model": "glm-5.3"
+}

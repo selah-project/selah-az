@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 17:4",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Və olacaq ki, dərədən içəcəksən, və qarğalara ⟨את⟩ səni orada dolandırmağı əmr etdim».",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "və olacaq ki"
+    },
+    {
+      "surface": "מהנחל",
+      "gloss": "dərədən"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "içəcəksən"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qarğalar"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "qarğalara"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "əmr etdim"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "səni dolandırmağı"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    }
+  ],
+  "timestamp": "2026-09-01T12:22:17.091853321Z",
+  "model": "glm-5.3"
+}

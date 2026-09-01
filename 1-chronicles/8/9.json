@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "O, Hodeş adlı arvadından ⟨את⟩ Yovavı, ⟨את⟩ Sivyanı, ⟨את⟩ Meşanı və ⟨את⟩ Malkamı doğurdu.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "Hodeş"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "arvadı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yovav"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Yovav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Sivya"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "Sivya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Meşa"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "Meşa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Malkam"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Malkam"
+    }
+  ],
+  "timestamp": "2026-09-01T17:02:21.910826572Z",
+  "model": "glm-5.3"
+}

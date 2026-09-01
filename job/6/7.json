@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 6:7",
+  "book": "job",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Canım onlara toxunmaqdan imtina edir, onlar xəstəlik kimi çörəyim ⟨oldu⟩.",
+  "tokens": [
+    {
+      "surface": "מאנה",
+      "gloss": "imtina edir"
+    },
+    {
+      "surface": "לנגוע",
+      "gloss": "toxunmaqdan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "כדוי",
+      "gloss": "xəstəlik kimi"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "çörəyim"
+    }
+  ],
+  "timestamp": "2026-09-01T16:04:06.195150688Z",
+  "model": "glm-5.3"
+}

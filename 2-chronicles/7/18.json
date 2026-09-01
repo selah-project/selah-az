@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 7:18",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "onda səltənətin taxtını möhkəmləndirəcəyəm, atan Davuda ⟨את⟩ kəsdiyim ⟨kəsdiyim⟩ kimi deyərək: sənə İsraildə hökmranlıq edən kişi kəsilməyəcəkdir.",
+  "tokens": [
+    {
+      "surface": "והקימותי",
+      "gloss": "möhkəmləndirəcəyəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taxtını"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "taxtını"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "səltənətin"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "kəsdim (əhd bağladım)"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Davuda"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "atan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "kəsilməyəcəkdir"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kişi"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "hökmranlıq edən"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "İsraildə"
+    }
+  ],
+  "timestamp": "2026-09-01T17:15:33.680650521Z",
+  "model": "glm-5.3"
+}

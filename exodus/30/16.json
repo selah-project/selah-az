@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 30:16",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Və alacaqsan ⟨את⟩ kəffarə gümüşünü İsrail oğullarından, və ⟨את⟩ onu verəcəksən görüş çadırının xidmətinə üstünə, və İsrail oğulları üçün yad olacaq Yahvenin önündə, canlarınız üçün kəffarə etmək məqsədi ilə.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Və alacaqsan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kəffarə gümüşünü"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüşünü"
+    },
+    {
+      "surface": "הכפרים",
+      "gloss": "kəffarə"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarından"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "və verəcəksən"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "xidmətinə"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadırının"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "görüş"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "və olacaq"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oğulları üçün"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "לזכרון",
+      "gloss": "yad"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önündə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "kəffarə etmək"
+    },
+    {
+      "surface": "על",
+      "gloss": "üçün"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "canlarınız"
+    }
+  ],
+  "timestamp": "2026-09-01T10:18:49.287955385Z",
+  "model": "glm-5.3"
+}

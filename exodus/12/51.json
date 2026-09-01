@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "exodus 12:51",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Və ⟨oldu⟩ məhz o gün: Yahve çıxartdı ⟨את⟩ Yisrael oğullarını Mitsrayim torpağından, öz dəstələri üzrə.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "və ⟨oldu⟩"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "məhz"
+    },
+    {
+      "surface": "היום",
+      "gloss": "o gün"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "çıxartdı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael oğulları"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "torpağından"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzrə"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "öz dəstələri"
+    }
+  ],
+  "timestamp": "2026-09-01T10:08:09.200832620Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nahum 1:10",
+  "book": "nahum",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Çünki tikanlar kimi dolanmış və öz içkiləri ilə sərxoş ⟨olanlar⟩ saman kimi quru, tamamilə yeyiləcəklər.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-qədər"
+    },
+    {
+      "surface": "סירים",
+      "gloss": "tikanlar"
+    },
+    {
+      "surface": "סבכים",
+      "gloss": "dolanmış"
+    },
+    {
+      "surface": "וכסבאם",
+      "gloss": "və öz içkiləri ilə"
+    },
+    {
+      "surface": "סבואים",
+      "gloss": "sərxoş"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "yeyiləcəklər"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "saman kimi"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "quru"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "tamamilə"
+    }
+  ],
+  "timestamp": "2026-09-01T14:48:25.558733951Z",
+  "model": "glm-5.3"
+}

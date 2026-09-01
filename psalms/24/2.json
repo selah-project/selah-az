@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Çünki o, onu dənizlərin üstündə bərqərar etdi və çayların üstündə onu möhkəmləndirdi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dənizlərin"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "onu bərqərar etdi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "və üstündə"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "çayların"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "onu möhkəmləndirdi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:09:14.823744565Z",
+  "model": "glm-5.3"
+}

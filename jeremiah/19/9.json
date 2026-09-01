@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 19:9",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Və mən onları ⟨את⟩ öz oğullarının əti ilə və ⟨את⟩ öz qızlarının əti ilə yedirəcəyəm, və hər adam öz yoldaşının ətini yeyəcək, mühasirədə və sıxıntıda, ki onların düşmənləri və canlarının axtarıcları onları sıxışdıracaqlar.",
+  "tokens": [
+    {
+      "surface": "והאכלתים",
+      "gloss": "yedirəcəyəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öz oğullarının əti"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "əti"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "öz qızlarının əti"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "əti"
+    },
+    {
+      "surface": "בנתיהם",
+      "gloss": "qızlarının"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "və hər adam"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ətini"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "öz yoldaşının"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "yeyəcək"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "mühasirədə"
+    },
+    {
+      "surface": "ובמצוק",
+      "gloss": "və sıxıntıda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יציקו",
+      "gloss": "sıxışdıracaqlar"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onları"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "onların düşmənləri"
+    },
+    {
+      "surface": "ומבקשי",
+      "gloss": "və axtarıcları"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "canlarının"
+    }
+  ],
+  "timestamp": "2026-09-01T13:34:15.165852063Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 13:25",
+  "book": "job",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Yarpaq süpürülənəmi qorxu salırsan? Və ⟨את⟩ quru samanımı qovalayırsan?",
+  "tokens": [
+    {
+      "surface": "העלה",
+      "gloss": "yarpağa"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "süpürülən"
+    },
+    {
+      "surface": "תערוץ",
+      "gloss": "qorxu salırsan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "quru samanı"
+    },
+    {
+      "surface": "קש",
+      "gloss": "samandır"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "quru"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "qovalayırsan"
+    }
+  ],
+  "timestamp": "2026-09-01T16:07:55.783299110Z",
+  "model": "glm-5.3"
+}

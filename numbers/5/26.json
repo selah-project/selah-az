@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 5:26",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Və kahin qurbanın içindən ⟨את⟩ onun yadigarı olan bir ovuc götürəcək, onu qurbangahda tüstü edəcək və sonradan ⟨את⟩ qadını ⟨את⟩ sularla içirdəcək.",
+  "tokens": [
+    {
+      "surface": "וקמץ",
+      "gloss": "bir ovuc götürəcək"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "qurban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yadigarı (ovuc)"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "yadigarı"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "tüstü edəcək"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "qurbangahda"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "sonradan"
+    },
+    {
+      "surface": "ישקה",
+      "gloss": "içirdəcək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qadını"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "qadın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sular"
+    },
+    {
+      "surface": "המים",
+      "gloss": "sular"
+    }
+  ],
+  "timestamp": "2026-09-01T10:35:06.418540487Z",
+  "model": "glm-5.3"
+}

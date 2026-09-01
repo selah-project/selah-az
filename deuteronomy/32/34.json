@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 32:34",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Məgər o, mənim yanımda saxlanmış ⟨deyil⟩? Xəzinələrimdə möhürlənmiş.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "məgər ... deyil"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "כמס",
+      "gloss": "saxlanmış"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "mənim yanımda"
+    },
+    {
+      "surface": "חתם",
+      "gloss": "möhürlənmiş"
+    },
+    {
+      "surface": "באוצרתי",
+      "gloss": "xəzinələrimdə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:59:14.683623152Z",
+  "model": "glm-5.3"
+}

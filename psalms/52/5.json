@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 52,
+  "translation": "Sən pisliyi yaxşıdan çox sevdin, yalanı salehlikdən danışmaqdan çox. Sela.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "sevdin"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pisliyi"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "yaxşıdan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yalanı"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "danışmaqdan"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "salehliyi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-01T15:18:49.904429272Z",
+  "model": "glm-5.3"
+}

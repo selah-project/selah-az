@@ -1,0 +1,134 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 6:13",
+  "book": "esther",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Haman Zereşə, arvadına, və bütün dostlarına başına gələn ⟨את⟩ hər şeyi danışdı. Onun müdrikləri və Zereş, arvadı, ona dedilər: Əgər yəhudilərin nəslindən olan Mordehay — ki, onun önünə düşməyə başlamısan — ⟨is⟩, ona qalib gələ bilməzsən, çünki onun önünə mütləq düşəcəksən.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "danışdı"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "לזרש",
+      "gloss": "Zereşə"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "arvadına"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "dostlarına"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hər şeyi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "קרהו",
+      "gloss": "başına gələn"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "dedilər"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "חכמיו",
+      "gloss": "onun müdrikləri"
+    },
+    {
+      "surface": "וזרש",
+      "gloss": "və Zereş"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "arvadı"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "nəslindən"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "yəhudilərin"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "החלות",
+      "gloss": "başlamısan"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "düşməyə"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "onun önünə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "qalib gələ bilməzsən"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "נפול",
+      "gloss": "düşmək"
+    },
+    {
+      "surface": "תפול",
+      "gloss": "düşəcəksən"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "onun önünə"
+    }
+  ],
+  "timestamp": "2026-09-01T16:36:54.626388025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Və Noach etdi ⟨bütün⟩ o şeyləri ki, Yahve ona əmr etmişdi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "və etdi"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "⟨bütün⟩ o şeyləri ki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ona əmr etmişdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T09:47:16.221408259Z",
+  "model": "glm-5.3"
+}

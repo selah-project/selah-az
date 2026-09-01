@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 72:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 72,
+  "translation": "Çünki o, fəryad edən yoxsulu qurtaracaq, köməksiz qalan miskini də.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "qurtaracaq"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "yoxsulu"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "fəryad edən"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "miskini də"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "yoxdur ⟨olan⟩"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "kömək"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-09-01T15:22:53.040426389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 11:1",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Və bütün Yisrael Xevrona, Davuda doğru toplandı, deyərək: bax, sümüyünsən ⟨və⟩ ətinsən, biz.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "toplandı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…-a doğru"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "Xevrona"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "עצמך",
+      "gloss": "sümüyünsən"
+    },
+    {
+      "surface": "ובשרך",
+      "gloss": "ətinsən"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "biz"
+    }
+  ],
+  "timestamp": "2026-09-01T17:03:56.080589853Z",
+  "model": "glm-5.3"
+}

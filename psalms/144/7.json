@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 144,
+  "translation": "Əlini yuxarıdan uzat; məni qurtar və məni çox sulardan, özgə övladlarının əlindən xilas et.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "uzat"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "əlini"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "yuxarıdan"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "məni qurtar"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "və məni xilas et"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "sulardan"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "çox"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "əlindən"
+    },
+    {
+      "surface": "בני",
+      "gloss": "övladlarının"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "özgə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:27.860375608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "habakkuk 3:3",
+  "book": "habakkuk",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Eloah Temandan gəlir, Müqəddəs ⟨olan⟩ Paran dağından. Sela. İzzəti göyləri örtdü, mədhı ilə yer doldu.",
+  "tokens": [
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "מתימן",
+      "gloss": "Temandan"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "gəlir"
+    },
+    {
+      "surface": "וקדוש",
+      "gloss": "və Müqəddəs ⟨olan⟩"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "dağından"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "örtdü"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "göyləri"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "izzəti"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "mədhı ilə"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "doldu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-09-01T14:51:28.461379231Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 11:36",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Yalnız bulaq və quyu — su yığımı — pak olacaq; onların cəsədinə toxunan isə murdar olacaq.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "bulaq"
+    },
+    {
+      "surface": "ובור",
+      "gloss": "və quyu"
+    },
+    {
+      "surface": "מקוה",
+      "gloss": "su yığımı"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "pak"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "və toxunan"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "onların cəsədinə"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "murdar olacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T10:24:28.274247344Z",
+  "model": "glm-5.3"
+}

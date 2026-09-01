@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 10:5",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Və onlara dedi: «Hələ üç gün ⟨sonra⟩ yanıma qayıdın.» Və xalq getdi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hələ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "üç"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "qayıdın"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "yanıma"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "getdi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    }
+  ],
+  "timestamp": "2026-09-01T17:16:36.128121097Z",
+  "model": "glm-5.3"
+}

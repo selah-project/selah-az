@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Sən isə, ya Yahve, qalxansan mənim üçün, izzətim ⟨sən⟩, başımı qaldıran.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Sən isə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "qalxan"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "mənim üçün"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "izzətim"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "və qaldıran"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "başımı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:01:48.085127397Z",
+  "model": "glm-5.3"
+}

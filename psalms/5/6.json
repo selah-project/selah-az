@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 5:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Özlərini göyərənlər Sənin gözlərinin qarşısında ⟨dura⟩ bilməzlər; bütün avən işləyənlərdən nifrət edirsən.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "bilməzlər"
+    },
+    {
+      "surface": "יתיצבו",
+      "gloss": "dura"
+    },
+    {
+      "surface": "הוללים",
+      "gloss": "özlərini göyərənlər"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "qarşısında"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "Sənin gözlərinin"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "nifrət edirsən"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "işləyənlər"
+    },
+    {
+      "surface": "און",
+      "gloss": "avən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:01:04.891456018Z",
+  "model": "glm-5.3"
+}

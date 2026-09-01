@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 88,
+  "translation": "Qəzəbin üstümə söykənib, bütün dalğalarınla ⟨məni⟩ əzdin. Sela.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "üstümə"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "söykənib"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "qəzəbin"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "dalğalarınla"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "əzdin"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-01T15:30:08.529581614Z",
+  "model": "glm-5.3"
+}

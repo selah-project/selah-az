@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 26:3",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Əgər qanunlarımla gedəsiniz və ⟨את⟩ əmrlərimi qorusanız və ⟨את⟩ onları edəsiniz —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Əgər"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "qanunlarımla"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "gedəsiniz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "əmrlərimi"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "əmrlərimi"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "qorusanız"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "edəsiniz"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onları"
+    }
+  ],
+  "timestamp": "2026-09-01T10:31:26.749253143Z",
+  "model": "glm-5.3"
+}

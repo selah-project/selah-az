@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 27:10",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Onu dəyişdirməsin, onu əvəz etməsin — yaxşını pislə ⟨və ya⟩ pisi yaxşıya; əgər heyvanı heyvanla mütləq əvəz edərsə, o da, onun əvəzi də müqəddəs ⟨olacaq⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "-məsin"
+    },
+    {
+      "surface": "יחליפנו",
+      "gloss": "dəyişdirməsin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və … -məsin"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "əvəz etməsin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu (heyvanı)"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşını"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "pislə"
+    },
+    {
+      "surface": "או",
+      "gloss": "və ya"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pisi"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "yaxşıya"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "המר",
+      "gloss": "mütləq əvəz"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "edərsə"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "heyvanı"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "heyvanla"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o da"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "onun əvəzi də"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "müqəddəs"
+    }
+  ],
+  "timestamp": "2026-09-01T10:32:13.331124974Z",
+  "model": "glm-5.3"
+}

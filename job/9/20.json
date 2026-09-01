@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 9:20",
+  "book": "job",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Əgər haqq olayım, ağzım məni günahkar çıxarar; təmiz olayım — O məni əyri göstərər.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "אצדק",
+      "gloss": "haqq olayım"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzım"
+    },
+    {
+      "surface": "ירשיעני",
+      "gloss": "məni günahkar çıxarar"
+    },
+    {
+      "surface": "תם",
+      "gloss": "təmiz"
+    },
+    {
+      "surface": "אני",
+      "gloss": "oyayım"
+    },
+    {
+      "surface": "ויעקשני",
+      "gloss": "O məni əyri göstərər"
+    }
+  ],
+  "timestamp": "2026-09-01T16:05:54.906604488Z",
+  "model": "glm-5.3"
+}

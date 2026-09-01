@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 5:10",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Şelomonun hikməti şərq oğullarının bütün hikmətindən və Mitsrayimin bütün hikmətindən çox ⟨oldu⟩.",
+  "tokens": [
+    {
+      "surface": "ותרב",
+      "gloss": "çox oldu"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "hikməti"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomonun"
+    },
+    {
+      "surface": "מחכמת",
+      "gloss": "hikmətindən"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "şərq"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "hikmətindən"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimin"
+    }
+  ],
+  "timestamp": "2026-09-01T12:12:15.796439358Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Qonşuna hər hansı borc verdiyində onun evinə girib onun girovunu götürmə.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "–dıqda"
+    },
+    {
+      "surface": "תשה",
+      "gloss": "borc verirsən"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "qonşuna"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "borc"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "hər hansı (nə isə)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "girmə"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–ə doğru"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "onun evi"
+    },
+    {
+      "surface": "לעבט",
+      "gloss": "girov almaq üçün"
+    },
+    {
+      "surface": "עבטו",
+      "gloss": "onun girovunu"
+    }
+  ],
+  "timestamp": "2026-09-01T10:53:50.562865814Z",
+  "model": "glm-5.3"
+}

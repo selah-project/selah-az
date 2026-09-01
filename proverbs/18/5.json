@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 18:5",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Şərin üzlərini yüksəltmək yaxşı deyil, məhkəmədə salehi ⟨onun⟩ əyirtmək ⟨üçün⟩.",
+  "tokens": [
+    {
+      "surface": "שאת",
+      "gloss": "yüksəltmək"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzlərini"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "şərin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "deyil"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşı"
+    },
+    {
+      "surface": "להטות",
+      "gloss": "əyirtmək"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "salehi"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "məhkəmədə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:55:08.682420754Z",
+  "model": "glm-5.3"
+}

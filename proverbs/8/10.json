@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 8:10",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Tərbiyəmi qəbul edin, gümüşü yox; və bilik ⟨alın⟩ seçilmiş qızılın üstünə.",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "qəbul edin"
+    },
+    {
+      "surface": "מוסרי",
+      "gloss": "tərbiyəmi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və ... yox"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "və bilik"
+    },
+    {
+      "surface": "מחרוץ",
+      "gloss": "qızılın"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "seçilmiş"
+    }
+  ],
+  "timestamp": "2026-09-01T15:49:47.341581975Z",
+  "model": "glm-5.3"
+}

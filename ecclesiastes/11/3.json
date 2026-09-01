@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Buludlar dolarsa, yağışı yerin üzərinə tökərlər; ağac cənubə, yaxud şimalə devrilsə — ağacın devrildiyi yerdə orada olar.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "dolurlarsa"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "buludlar"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "yağışı"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "יריקו",
+      "gloss": "tökərlər"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "devrilərsə"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ağac"
+    },
+    {
+      "surface": "בדרום",
+      "gloss": "cənubə"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "yaxud əgər"
+    },
+    {
+      "surface": "בצפון",
+      "gloss": "şimalə"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "yerdə"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "devrildiyi"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ağacın"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "olar"
+    }
+  ],
+  "timestamp": "2026-09-01T16:32:13.395591060Z",
+  "model": "glm-5.3"
+}

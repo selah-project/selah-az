@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 36:8",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 36,
+  "translation": "İndi isə, xahiş edirəm, ağam Assur kralı ⟨את⟩ ilə ⟨əhd bağla⟩, mən sənə iki min at verim — əgər sən onlara minəcəklər tapa bilirsənsə.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "İndi isə"
+    },
+    {
+      "surface": "התערב",
+      "gloss": "⟨əhd bağla⟩"
+    },
+    {
+      "surface": "נא",
+      "gloss": "xahiş edirəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ilə",
+      "marks": "ağam Assur kralı"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ağam"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "verim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "iki min"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "at"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "tapa bilirsənsə"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "tapmaq"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sən"
+    },
+    {
+      "surface": "רכבים",
+      "gloss": "minəcəklər"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "onlara"
+    }
+  ],
+  "timestamp": "2026-09-01T13:05:50.436447628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 49:15",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 49,
+  "translation": "Qadın südəmər uşağını unudarmı, bətninin oğluna rəhm etməzmi? Hətta bunlar unudar, amma mən səni unutmayacağam.",
+  "tokens": [
+    {
+      "surface": "התשכח",
+      "gloss": "unudarmı"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "qadın"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "südəmər uşağını"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "rəhm etməzmi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "בטנה",
+      "gloss": "bətninin"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hətta"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bunlar"
+    },
+    {
+      "surface": "תשכחנה",
+      "gloss": "unudar"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "amma mən"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "səni unutmayacağam"
+    }
+  ],
+  "timestamp": "2026-09-01T13:09:51.790787232Z",
+  "model": "glm-5.3"
+}

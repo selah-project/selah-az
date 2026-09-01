@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 60,
+  "translation": "Elohim, sən bizi rədd etdin, bizi yardın, qəzəbləndin ⟨sən⟩ — bizə geri qayıt!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "bizi rədd etdin"
+    },
+    {
+      "surface": "פרצתנו",
+      "gloss": "bizi yardın"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "qəzəbləndin"
+    },
+    {
+      "surface": "תשובב",
+      "gloss": "geri qayıt"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:20:34.839239473Z",
+  "model": "glm-5.3"
+}

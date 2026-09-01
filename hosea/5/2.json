@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 5:2",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Və şımarıqlar qırğını dərinləşdirdilər, amma mən onların hamısı üçün tərbiyəyəm.",
+  "tokens": [
+    {
+      "surface": "ושחטה",
+      "gloss": "qırğın"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "şımarıqlar"
+    },
+    {
+      "surface": "העמיקו",
+      "gloss": "dərinləşdirdilər"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "və mən"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tərbiyə"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "onların hamısı üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T14:35:19.404602675Z",
+  "model": "glm-5.3"
+}

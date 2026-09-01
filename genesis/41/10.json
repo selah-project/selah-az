@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 41:10",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 41,
+  "translation": "Paro qullarına qəzəbləndi və məni ağır cəzaya — tənbəalərin başçısının evinə — mənim və çörəkçilərin başçısının üstünə verdi.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "qəzəbləndi"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "qullarına"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "məni"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "ağır cəzaya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "שר",
+      "gloss": "başçısının"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "tənbəalərin"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mənim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "çörəkçilərin başçısının"
+    },
+    {
+      "surface": "שר",
+      "gloss": "başçısını"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "çörəkçilərin"
+    }
+  ],
+  "timestamp": "2026-09-01T09:59:49.885679047Z",
+  "model": "glm-5.3"
+}

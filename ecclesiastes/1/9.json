@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Nə ki olub, o olacaq; nə ki edilib, o ediləcək; günəş altında heç bir yeni şey yoxdur.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "nə ki"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "olub"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "və nə ki"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "edilib"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "ediləcək"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heç bir"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "yeni"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "günəş"
+    }
+  ],
+  "timestamp": "2026-09-01T16:29:15.422080497Z",
+  "model": "glm-5.3"
+}

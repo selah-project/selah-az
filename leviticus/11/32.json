@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 11:32",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Və onlardan hər hansı biri öləndə üzərinə düşdüyü hər şey murdar olar — ağacdan olan hər hansı qabdan, yaxud paltardan, yaxud dəridən, yaxud çuvaldan: onlarla hər hansı iş görülən hər qab ⟨suya salınmalıdır⟩ və axşama qədər murdar olar, sonra təmizlənər.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "və hər şey"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "üzərinə düşəcək"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üstünə"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "onlardan"
+    },
+    {
+      "surface": "במתם",
+      "gloss": "ölmüş halda"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "murdar olar"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "hər hansı...-dan"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "qab"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ağac"
+    },
+    {
+      "surface": "או",
+      "gloss": "yaxud"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "paltar"
+    },
+    {
+      "surface": "או",
+      "gloss": "yaxud"
+    },
+    {
+      "surface": "עור",
+      "gloss": "dəri"
+    },
+    {
+      "surface": "או",
+      "gloss": "yaxud"
+    },
+    {
+      "surface": "שק",
+      "gloss": "çuval"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "qab"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "görülür"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "iş"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onlarla"
+    },
+    {
+      "surface": "במים",
+      "gloss": "suya"
+    },
+    {
+      "surface": "יובא",
+      "gloss": "salınar"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "və murdar olar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "axşam"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "və təmizlənər"
+    }
+  ],
+  "timestamp": "2026-09-01T10:25:17.877057286Z",
+  "model": "glm-5.3"
+}

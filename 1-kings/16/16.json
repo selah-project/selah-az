@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 16:16",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Düşərgə salmış xalq eşitdi ki: «Zimri qiyam edib, həmçinin ⟨את⟩ kralı vurub». Ona görə bütün İsrail o gün düşərgədə İsrail üzərinə ordu başçısı Omrini kral etdi.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "eşitdi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "החנים",
+      "gloss": "düşərgə salmış"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "qiyam edib"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "həmçinin"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "vurub"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kralı"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "kral etdi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Omrini"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omrini"
+    },
+    {
+      "surface": "שר",
+      "gloss": "başçısı"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ordu"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "düşərgədə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:22:07.425531599Z",
+  "model": "glm-5.3"
+}

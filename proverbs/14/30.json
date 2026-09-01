@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Şəfa verən qəlb ətin həyatıdır, amma sümüklərin çürüyü qısqanclıqdır.",
+  "tokens": [
+    {
+      "surface": "חיי",
+      "gloss": "həyatı"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "ət(in)"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qəlb"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "şəfa verən"
+    },
+    {
+      "surface": "ורקב",
+      "gloss": "çürük"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "sümüklərin"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "qısqanclıq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:53:59.156542747Z",
+  "model": "glm-5.3"
+}

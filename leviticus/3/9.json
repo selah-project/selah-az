@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 3:9",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və selam qurbanından Yahveyə od qurbanı təqdim etsin; onun piyini, tam quyruq yağını — omba sümüyünün qarşısında onu çıxarsın — ⟨את⟩ içərikləri örtən piyi və ⟨את⟩ içəriklərin üstündə olan bütün piyi.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "təqdim etsin"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "qurbanından"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "selam"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "od qurbanı"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "onun piyini"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "quyruq yağını"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "tam"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "qarşısında"
+    },
+    {
+      "surface": "העצה",
+      "gloss": "omba sümüyünün"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "onu çıxarsın"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "içərikləri örtən piyi"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "piyi"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "örtən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "içərikləri"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "içərikləri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bütün piyi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "piyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olan"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "içəriklərin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:22:23.654488213Z",
+  "model": "glm-5.3"
+}

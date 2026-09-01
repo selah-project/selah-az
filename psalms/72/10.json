@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 72,
+  "translation": "Tarşişin və adaların kralları minchə ⟨qayıdaraq⟩ verəcəklər, Şevanın və Sevanın kralları hədiyyə təqdim edəcəklər.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "kralları"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarşişin"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "və adaların"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minchə (hədiyyə-xərac)"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "⟨qayıdaraq⟩ verəcəklər"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kralları"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Şevanın"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "və Sevanın"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "hədiyyə"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "təqdim edəcəklər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:22:53.040095802Z",
+  "model": "glm-5.3"
+}

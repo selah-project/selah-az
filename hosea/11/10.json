@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 11:10",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Yahvenin ardınca yeriyəcəklər; ⟨o⟩ şir kimi nərildəyəcək, çünki ⟨o⟩ nərildəyəcək və oğullar qərbdən titrəyəcəklər.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "ardınca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "yeriyəcəklər"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "şir kimi"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "nərildəyəcək"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "nərildəyəcək"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "və titrəyəcəklər"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oğullar"
+    },
+    {
+      "surface": "מים",
+      "gloss": "qərbdən"
+    }
+  ],
+  "timestamp": "2026-09-01T14:35:39.617451863Z",
+  "model": "glm-5.3"
+}

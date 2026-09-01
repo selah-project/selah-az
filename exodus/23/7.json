@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 23:7",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Yalan sözdən uzaq dur, təmizi və salehi öldürmə, çünki mən şəri saleh saymaram.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "sözdən"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yalan"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "uzaq dur"
+    },
+    {
+      "surface": "ונקי",
+      "gloss": "təmizi"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "salehi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "öldürmə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "saleh saymaram"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "şəri"
+    }
+  ],
+  "timestamp": "2026-09-01T10:13:44.231617911Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 11:16",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "çünki altı ay Yoav və bütün İsrail orada qaldı, Edomda bütün kişiləri kökünü kəsənə qədər.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "altı"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ay"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "qaldı"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "kökünü kəsənə"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "kişiləri"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "Edomda"
+    }
+  ],
+  "timestamp": "2026-09-01T12:18:42.266684232Z",
+  "model": "glm-5.3"
+}

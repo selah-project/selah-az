@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Bundan sonra İyyov ⟨את⟩ ağzını açdı və ⟨את⟩ öz gününü lənətlədi.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Bundan sonra"
+    },
+    {
+      "surface": "כן",
+      "gloss": "(bundan) sonra"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "açdı"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "İyyov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ağzını"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ağzını"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "və lənətlədi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öz gününü"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "öz gününü"
+    }
+  ],
+  "timestamp": "2026-09-01T16:02:47.994769508Z",
+  "model": "glm-5.3"
+}

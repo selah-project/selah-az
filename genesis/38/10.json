@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 38,
+  "translation": "Va Yahvenin gözündə pis oldu o, etdiyi şey; va O, ⟨את⟩ onu da öldürdü.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "va pis oldu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "gözündə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etdiyi"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "va öldürdü"
+    },
+    {
+      "surface": "גם",
+      "gloss": "da"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu"
+    }
+  ],
+  "timestamp": "2026-09-01T09:59:24.445667941Z",
+  "model": "glm-5.3"
+}

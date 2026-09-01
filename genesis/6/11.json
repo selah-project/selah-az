@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Yer Elohimin önündə pozuldu, və yer zorakılıqla doldu.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "pozuldu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önündə"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "doldu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "zorakılıqla"
+    }
+  ],
+  "timestamp": "2026-09-01T09:47:34.028094800Z",
+  "model": "glm-5.3"
+}

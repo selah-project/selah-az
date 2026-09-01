@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 18:18",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Xilas edəcək məni güclü düşmənimdən və məndən nifrət edənlərdən, çünki onlar məndən güclü idilər.",
+  "tokens": [
+    {
+      "surface": "יצילני",
+      "gloss": "xilas edəcək məni"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "düşmənimdən"
+    },
+    {
+      "surface": "עז",
+      "gloss": "güclü"
+    },
+    {
+      "surface": "ומשנאי",
+      "gloss": "və məndən nifrət edənlərdən"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "güclü idilər"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "məndən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:06:51.602552728Z",
+  "model": "glm-5.3"
+}

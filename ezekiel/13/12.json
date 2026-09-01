@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 13:12",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Və bax, divar yıxıldı; sizə deyilməyəcəkmi: «Hanı o suvaq ki, suvadınız?»",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "və bax"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "yıxıldı"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "divar"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "məgər... deyilmi"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "deyiləcək"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "sizə"
+    },
+    {
+      "surface": "איה",
+      "gloss": "hanı"
+    },
+    {
+      "surface": "הטיח",
+      "gloss": "suvaq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "טחתם",
+      "gloss": "suvadınız"
+    }
+  ],
+  "timestamp": "2026-09-01T14:05:26.885265703Z",
+  "model": "glm-5.3"
+}

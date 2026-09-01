@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 86,
+  "translation": "Sənin yaratdığın bütün xalqlar gələcək və üzündə səcdə edəcəklər, ey Adonay, və adını ucaldacaqlar.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki,"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "yaratdığın"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "gələcək"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "və səcdə edəcəklər"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "üzündə"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "və ucaldacaqlar"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "adını"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:20.397802151Z",
+  "model": "glm-5.3"
+}

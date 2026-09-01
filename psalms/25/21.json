@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 25:21",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Tamlıq və düzlük məni qorusun, çünki mən Sənə ümid bəsləyirəm.",
+  "tokens": [
+    {
+      "surface": "תֹּם",
+      "gloss": "Tamlıq"
+    },
+    {
+      "surface": "וָיֹשֶׁר",
+      "gloss": "və düzlük"
+    },
+    {
+      "surface": "יִצְּרֻנִי",
+      "gloss": "məni qorusun"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "קִוִּיתִיךָ",
+      "gloss": "Sənə ümid bəsləyirəm"
+    }
+  ],
+  "timestamp": "2026-09-01T18:21:12.592846782Z",
+  "model": "glm-5.3"
+}

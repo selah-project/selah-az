@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Moşe onların məhkəmə işini Yahvenin hüzuruna gətirdi.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "gətirdi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onların məhkəmə işini"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "onların məhkəmə işini"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hüzuruna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T10:42:55.932001485Z",
+  "model": "glm-5.3"
+}

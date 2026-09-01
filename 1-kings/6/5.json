@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 6:5",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Və evin divarı üstünə ətrafda bir yan-otaq tikdi: evin divarlarını ⟨את⟩ ətrafda — heykəl üçün və Dəvir üçün; və ətrafda yan otaqlar düzəltdi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "tikdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "divarı"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "evin"
+    },
+    {
+      "surface": "יצוע",
+      "gloss": "yan-otaq"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ətrafda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "divarlarını"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "divarlarını"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "evin"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ətrafda"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "heykəl üçün"
+    },
+    {
+      "surface": "ולדביר",
+      "gloss": "və Dəvir üçün"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "və düzəltdi"
+    },
+    {
+      "surface": "צלעות",
+      "gloss": "yan otaqlar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ətrafda"
+    }
+  ],
+  "timestamp": "2026-09-01T12:13:52.937219735Z",
+  "model": "glm-5.3"
+}

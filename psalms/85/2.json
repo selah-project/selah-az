@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 85,
+  "translation": "Yahve, öz torpağına razı oldun, Yaakovun sürgününü geri qaytardın.",
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "razı oldun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "öz torpağına"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "geri qaytardın"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "sürgününü"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovun"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:10.253681586Z",
+  "model": "glm-5.3"
+}

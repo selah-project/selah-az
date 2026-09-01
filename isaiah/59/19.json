@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 59:19",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 59,
+  "translation": "Və qərbdən Yahvenin ⟨את⟩ adından qorxacaqlar, günəşin doğuşundan ⟨את⟩ izzətindən; çünki sıxıntı çay kimi gələndə Yahvenin ruhu onu qovub dağıdacaq.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "qorxacaqlar"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "qərbdən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adı"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וממזרח",
+      "gloss": "doğuşundan"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "günəşin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izzəti"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "izzətindən"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "gələndə"
+    },
+    {
+      "surface": "כנהר",
+      "gloss": "çay kimi"
+    },
+    {
+      "surface": "צר",
+      "gloss": "sıxıntı"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נססה",
+      "gloss": "qovub dağıdacaq"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onu"
+    }
+  ],
+  "timestamp": "2026-09-01T13:17:10.237128076Z",
+  "model": "glm-5.3"
+}

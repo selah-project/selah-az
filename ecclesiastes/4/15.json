@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Günəş altında gəzən bütün yaşayanları ⟨את⟩ onun yerində duracaq olan ikinci oğlanla ⟨birlikdə⟩ gördüm.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "gördüm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün yaşayanları"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "yaşayanları"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "gəzənləri"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "günəş"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨birlikdə⟩"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "oğlanla"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikinci"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "duracaq"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "onun yerində"
+    }
+  ],
+  "timestamp": "2026-09-01T16:29:41.388906959Z",
+  "model": "glm-5.3"
+}

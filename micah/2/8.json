@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 2:8",
+  "book": "micah",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və dünən kimi xalqım düşmən kimi qalxdı: qarşıdan əmin-amanlıqla keçənlərdən — müharibədən qayıdanlardan — şalın üstündən gözəl abanı soyursunuz.",
+  "tokens": [
+    {
+      "surface": "ואתמול",
+      "gloss": "və dünən"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqım"
+    },
+    {
+      "surface": "לאויב",
+      "gloss": "düşmən kimi"
+    },
+    {
+      "surface": "יקומם",
+      "gloss": "qalxdı"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "qarşıdan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "şalın"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "gözəl abanı"
+    },
+    {
+      "surface": "תפשטון",
+      "gloss": "soyursunuz"
+    },
+    {
+      "surface": "מעברים",
+      "gloss": "keçənlərdən"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "əmin-amanlıqla"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "qayıdanlar"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "müharibədən"
+    }
+  ],
+  "timestamp": "2026-09-01T14:46:29.015757786Z",
+  "model": "glm-5.3"
+}

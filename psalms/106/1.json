@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 106:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 106,
+  "translation": "Yah-nı tərifləyin, Yahve-yə şükür edin, çünki ⟨o⟩ yaxşıdır, çünki Onun hesed-i əbədidir.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "tərifləyin"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "şükür edin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve-yə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşıdır"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Onun hesed-i"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:24.014711941Z",
+  "model": "glm-5.3"
+}

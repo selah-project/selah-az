@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 56:1",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 56,
+  "translation": "Belə dedi Yahve: məhkəməni qoruyun və salehliyi edin, çünki xilasım gəlməyə yaxındır və salehliyim aşkar olunmaq üzrədir.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "belə"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "qoruyun"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "məhkəməni"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "və edin"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "salehliyi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "yaxındır"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "xilasım"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "gəlməyə"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "və salehliyim"
+    },
+    {
+      "surface": "להגלות",
+      "gloss": "aşkar olunmaq üzrə"
+    }
+  ],
+  "timestamp": "2026-09-01T13:15:40.796485604Z",
+  "model": "glm-5.3"
+}

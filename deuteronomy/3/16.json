@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 3:16",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və Ruvililərə və Qadililərə Giladdan Arnon vadisinə qədər — vadinin ortası və sərhəd — və Yabboq vadisinə, Ammon oğullarının sərhədinə qədər verdim.",
+  "tokens": [
+    {
+      "surface": "ולראובני",
+      "gloss": "və Ruvililərə"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "və Qadililərə"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "verdim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "vadi"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnon"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "ortası"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "vadinin"
+    },
+    {
+      "surface": "וגבל",
+      "gloss": "və sərhəd"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "Yabboq"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "vadisinə"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "sərhədi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    }
+  ],
+  "timestamp": "2026-09-01T17:30:27.240615512Z",
+  "model": "glm-5.3"
+}

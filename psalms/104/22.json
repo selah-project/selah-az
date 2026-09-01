@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 104,
+  "translation": "Günəş doğanda ⟨onlar⟩ yığılır və yataqlarında uzanırlar.",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "doğanda"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "günəş"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "yığılır"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və ⟨...⟩ içində"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "yataqlarında"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "uzanırlar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:33:52.272176726Z",
+  "model": "glm-5.3"
+}

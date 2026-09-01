@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 3:14",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Yahve öz xalqının qocaları ilə və onun başçıları ilə mühakiməyə girəcək: ⟨və⟩ siz bağı yandırıb yediniz, yoxsulun qarəması evlərinizdədir.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "mühakiməyə"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "girəcək"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "qocaları"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "öz xalqının"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "və başçıları"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "və siz"
+    },
+    {
+      "surface": "בערתם",
+      "gloss": "yandırıb yediniz"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "bağı"
+    },
+    {
+      "surface": "גזלת",
+      "gloss": "qarəması"
+    },
+    {
+      "surface": "העני",
+      "gloss": "yoxsulun"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "evlərinizdə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:48:00.602252643Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 3:16",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Get, İsrailin ağsaqqallarını ⟨את⟩ topla və onlara de: Yahve, atalarınızın Elohimi — Avrahamın, Yitsəhakın və Yaakovun Elohimi mənə görünüb, deyərək: Sizi ⟨את⟩ yoxladım və sizə Mitsrayimda ediləni ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Get"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "və topla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsrailin ağsaqqallarını"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ağsaqqalları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "və de"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "atalarınızın"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "görünüb"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamın"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsəhakın"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "və Yaakovun"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "yoxlayaraq"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "yoxladım"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "sizi ⟨את⟩",
+      "marks": "sizi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sizə Mitsrayimda ediləni"
+    },
+    {
+      "surface": "העשוי",
+      "gloss": "ediləni"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizə"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayimda"
+    }
+  ],
+  "timestamp": "2026-09-01T10:06:05.714162057Z",
+  "model": "glm-5.3"
+}

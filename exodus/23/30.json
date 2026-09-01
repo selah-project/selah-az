@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 23:30",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Az-az qovacağam onları üzlərindən, nə qədər ki, sən bərəkətli olasan və ⟨את⟩ torpağı miras alasan.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "az"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "az"
+    },
+    {
+      "surface": "אגרשנו",
+      "gloss": "qovacağam"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "üzlərindən"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nə qədər ki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תפרה",
+      "gloss": "bərəkətli olasan"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "və miras alasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "torpağı"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "torpağı"
+    }
+  ],
+  "timestamp": "2026-09-01T10:15:27.269743584Z",
+  "model": "glm-5.3"
+}

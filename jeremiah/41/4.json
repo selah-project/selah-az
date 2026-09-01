@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 41,
+  "translation": "Və oldu, ikinci günü — Gedalyahunu ⟨את⟩ öldürdükdən ⟨sonra⟩ — və heç bir adam ⟨bunu⟩ bilmədi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "və oldu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "günü"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikinci"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "öldürmək üçün \/ öldürdükdən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gedalyahunu"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Gedalyahu"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "və heç bir adam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilmədi"
+    }
+  ],
+  "timestamp": "2026-09-01T13:50:40.257329853Z",
+  "model": "glm-5.3"
+}

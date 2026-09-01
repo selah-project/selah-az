@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 141,
+  "translation": "Məzmur, Davudun. Yahve, Səni çağırdım, tələs mənə, səsimə qulaq as, Sənə yalvardıqda.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Məzmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davudun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "Səni çağırdım"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "tələs"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "qulaq as"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "səsimə"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "yalvardıqda"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Sənə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:44:43.594004141Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 18:10",
+  "book": "job",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Onun kəndiri torpaqda gizlədilib, və onun tələsi cığır üstündə ⟨durur⟩.",
+  "tokens": [
+    {
+      "surface": "טמון",
+      "gloss": "gilədilib"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "torpaqda"
+    },
+    {
+      "surface": "חבלו",
+      "gloss": "onun kəndiri"
+    },
+    {
+      "surface": "ומלכדתו",
+      "gloss": "və onun tələsi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "cığır"
+    }
+  ],
+  "timestamp": "2026-09-01T16:09:29.259607806Z",
+  "model": "glm-5.3"
+}

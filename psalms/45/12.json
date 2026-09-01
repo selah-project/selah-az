@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 45:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 45,
+  "translation": "Padşah gözəlliyini arzulayacaq, çünki o sənin ağandır — ona səcdə et.",
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "arzulayacaq"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "gözəlliyini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "sənin ağandır"
+    },
+    {
+      "surface": "והשתחוי",
+      "gloss": "səcdə et"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-09-01T15:15:44.303391958Z",
+  "model": "glm-5.3"
+}

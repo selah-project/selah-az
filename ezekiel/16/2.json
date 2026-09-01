@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 16:2",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Ay insan oğlu, Yeruşalayima ⟨את⟩ onun iyrənc əməllərini bildir:",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "bildir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeruşalayima"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onun iyrənc əməllərini"
+    },
+    {
+      "surface": "תועבתיה",
+      "gloss": "onun iyrənc əməllərini"
+    }
+  ],
+  "timestamp": "2026-09-01T14:07:40.936919086Z",
+  "model": "glm-5.3"
+}

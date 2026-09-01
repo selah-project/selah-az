@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 90,
+  "translation": "Öfkənin gücünü kim bilir? Sənə layiq qorxuya görə ⟨belədir⟩ qəzəbin.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "bilir"
+    },
+    {
+      "surface": "עז",
+      "gloss": "gücünü"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "öfkənin"
+    },
+    {
+      "surface": "וכיראתך",
+      "gloss": "və sənə layiq qorxuya görə"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "qəzəbin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:31:51.567800261Z",
+  "model": "glm-5.3"
+}

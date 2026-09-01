@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 12:3",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Bütün İsrail icmasına deyin ⟨belə deyərək⟩: bu ayın onuncu ⟨günündə⟩ hər biri ata evi üçün bir quzusu, hər ev üçün bir quzu alsın.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "deyin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "icmasına"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "belə deyərək"
+    },
+    {
+      "surface": "בעשר",
+      "gloss": "onuncu ⟨günündə⟩"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ayın"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "alsınlar"
+    },
+    {
+      "surface": "להם",
+      "gloss": "özlərinə"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər biri"
+    },
+    {
+      "surface": "שה",
+      "gloss": "bir quzusu"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "evi üçün"
+    },
+    {
+      "surface": "אבת",
+      "gloss": "ata"
+    },
+    {
+      "surface": "שה",
+      "gloss": "bir quzu"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ev üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:08:14.474834225Z",
+  "model": "glm-5.3"
+}

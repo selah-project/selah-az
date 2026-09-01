@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Gördüm ⟨את⟩ məşğəliyyəti ki, onu Elohim insan oğullarına vermişdir, onun içində məşğul olmaq üçün.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "gördüm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "məşğəliyyəti"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "məşğəliyyəti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "vermişdir"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oğullarına"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "məşğul olmaq"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onun içində"
+    }
+  ],
+  "timestamp": "2026-09-01T16:29:08.865714694Z",
+  "model": "glm-5.3"
+}

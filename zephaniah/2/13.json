@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zephaniah 2:13",
+  "book": "zephaniah",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Əlini şimala uzadacaq və Aşşuru məhv edəcək, Ninveyi viranəliyə, quraq səhraya çevirəcək.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "uzadacaq"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "əlini"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinə"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "şimal"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "məhv edəcək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aşşuru"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşşuru"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "çevirəcək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ninveyi"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninveyi"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "viranəliyə"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "quraq"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "səhraya"
+    }
+  ],
+  "timestamp": "2026-09-01T14:51:30.700314709Z",
+  "model": "glm-5.3"
+}

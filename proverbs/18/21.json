@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 18:21",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Ölüm və həyat dilin əlindədir, və onu sevənlər onun meyvəsini yeyəcəklər.",
+  "tokens": [
+    {
+      "surface": "מות",
+      "gloss": "Ölüm"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "və həyat"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "əlində"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "dilin"
+    },
+    {
+      "surface": "ואהביה",
+      "gloss": "və onu sevənlər"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yeyəcəklər"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "meyvəsini"
+    }
+  ],
+  "timestamp": "2026-09-01T15:55:09.011622429Z",
+  "model": "glm-5.3"
+}

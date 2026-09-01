@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 116,
+  "translation": "Sənə şükran qurbanı kəsəcəyəm və Yahvenin adı ilə çağırış edəcəyəm.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Sənə"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "kəsəcəyəm"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "qurban"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "şükran"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "və ... adı ilə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "çağırış edəcəyəm"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:38.087387685Z",
+  "model": "glm-5.3"
+}

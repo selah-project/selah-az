@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 104,
+  "translation": "Su üstündə üst otaqlarının şüalarını düzənləyən; buludları öz arabası edən; küləyin qanadları üzərində gəzən.",
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "şüalarını düzənləyən"
+    },
+    {
+      "surface": "במים",
+      "gloss": "su üstündə"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "üst otaqlarının"
+    },
+    {
+      "surface": "השם",
+      "gloss": "edən"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "buludları"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "öz arabası"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "gəzən"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərində"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "qanadları"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "küləyin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:34:55.781373619Z",
+  "model": "glm-5.3"
+}

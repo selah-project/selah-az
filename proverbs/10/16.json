@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 10:16",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Salehin əməyi ⟨əvəzi⟩ həyat üçündür, pisin gəliri isə günah üçündür.",
+  "tokens": [
+    {
+      "surface": "פעלת",
+      "gloss": "əməyi ⟨əvəzi⟩"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "salehin"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "həyat üçündür"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "gəliri"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "pisin"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "günah üçündür"
+    }
+  ],
+  "timestamp": "2026-09-01T15:51:17.095261013Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Və getdi başqa yolla, və Beyt-Elə gəldiyi yoldan geri dönmədi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "və getdi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolla"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "başqa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "שב",
+      "gloss": "geri döndi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yoldan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gəldiyi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "doğru"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-01T12:19:44.296179041Z",
+  "model": "glm-5.3"
+}

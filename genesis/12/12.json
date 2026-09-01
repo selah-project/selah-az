@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 12:12",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Və olacaq ki, Mitsrayimlilər ⟨את⟩ səni görəndə deyəcəklər: Bu onun arvadıdır; və ⟨את⟩ məni öldürəcəklər, ⟨את⟩ səni isə sağ saxlayacaqlar.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Və olacaq ki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "görəndə"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ səni",
+      "marks": "Mitsrayimlilərin görməsinə məruz qalan 'sən'"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "Mitsrayimlilər"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "deyəcəklər"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "onun arvadı"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "והרגו",
+      "gloss": "və öldürəcəklər"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ məni",
+      "marks": "öldürülən 'mən'"
+    },
+    {
+      "surface": "ואתך",
+      "gloss": "⟨את⟩ səni isə",
+      "marks": "sağ saxlanılan 'sən'"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "sağ saxlayacaqlar"
+    }
+  ],
+  "timestamp": "2026-09-01T09:49:02.493858429Z",
+  "model": "glm-5.3"
+}

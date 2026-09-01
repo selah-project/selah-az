@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 52,
+  "translation": "Doqeq idimli gəlib Şaula xəbər verdi və ona dedi: «Davud Aximelexin evinə gəldi.»",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "gəlib"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "Doqeq"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "idimli"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "xəbər verdi"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Şaula"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gəldi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evinə"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Aximelexin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:19:24.338731110Z",
+  "model": "glm-5.3"
+}

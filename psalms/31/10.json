@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "Mənə lütf et, Yahve, çünki mən sıxıntıdayam; kədərdən gözüm, canım və qarnım əriyib-bitib.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "mənə lütf et"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "צר",
+      "gloss": "sıxıntı"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "əriyib-bitib"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "kədərdən"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözüm"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "və qarnım"
+    }
+  ],
+  "timestamp": "2026-09-01T15:08:29.303638883Z",
+  "model": "glm-5.3"
+}

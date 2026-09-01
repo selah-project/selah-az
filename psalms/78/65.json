@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 78:65",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 78,
+  "translation": "Sonra Adonay yuxudan ayılan ⟨kimi⟩ oyandı, şərabdan ⟨səs-küy qoparan⟩ qüdrətli adam ⟨kimi⟩.",
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "oyandı"
+    },
+    {
+      "surface": "כישן",
+      "gloss": "yuxudan ayılan ⟨kimi⟩"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "qüdrətli adam ⟨kimi⟩"
+    },
+    {
+      "surface": "מתרונן",
+      "gloss": "⟨səs-küy qoparan⟩"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "şərabdan"
+    }
+  ],
+  "timestamp": "2026-09-01T18:01:50.825846117Z",
+  "model": "glm-5.3"
+}

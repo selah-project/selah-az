@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 45:4",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 45,
+  "translation": "Və Yosef qardaşlarına dedi: «Yaxınlaşın, lütfən, mənə.» Və yaxınlaşdılar. Və dedi: «Mən Yosefəm, qardaşınız, ki ⟨את⟩ məni Mitsrayima satdınız.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "qarşı"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "qardaşlarına"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "yaxınlaşın"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lütfən"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "və yaxınlaşdılar"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "qardaşınız"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "sacdınız"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "məni"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrayima"
+    }
+  ],
+  "timestamp": "2026-09-01T10:02:38.308872454Z",
+  "model": "glm-5.3"
+}

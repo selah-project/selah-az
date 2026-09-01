@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 3:17",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və dedim: sizi Mitsrayimin əzabından Kənanlı, Hittli, Emorlu, Perizli, Hivvili və Yevusli ⟨əhə⟩ torpağına — süd və bal axan torpağa çıxaracağam.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "və dedim"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "çıxaracağam"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "sizi"
+    },
+    {
+      "surface": "מעני",
+      "gloss": "əzabından"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "torpağına"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "torpağına"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kənanlı"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "Hittli"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "Emorlu"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "Perizli"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "Hivvili"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "Yevusli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "torpağa"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "axan"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "süd"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "və bal"
+    }
+  ],
+  "timestamp": "2026-09-01T10:05:58.395243459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 103,
+  "translation": "Sənə ver, canım, Yahveyə bərəkət, və bütün onun əməllərini (yaxşılıqlarını) unutma.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "sənə ver bərəkət"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və etmə"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "unutma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "onun əməllərini (yaxşılıqlarını)"
+    }
+  ],
+  "timestamp": "2026-09-01T15:34:43.411157485Z",
+  "model": "glm-5.3"
+}

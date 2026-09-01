@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 73,
+  "translation": "Kim mən üçündür göylərdə? ⟨Və⟩ səninlə — yerdə heç kəsi arzulamadım.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mən üçün"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "göylərdə"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "⟨Və⟩ səninlə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "arzulamadım"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerdə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:24:35.809345394Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Yaqov atanın məskən olduğu ölkədə — Kənan ölkəsində yaşadı.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "yaşadı"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqov"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ölkəsində"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "məskən"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atasının"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ölkəsində"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kənan"
+    }
+  ],
+  "timestamp": "2026-09-01T09:58:35.787485578Z",
+  "model": "glm-5.3"
+}

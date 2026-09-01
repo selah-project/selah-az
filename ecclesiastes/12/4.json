@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 12:4",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Və qapansınlar qapılar küçədə, alçalandıqda səsi dəyirmanın, və durur ⟨o⟩ səsinə quşun, və alçalsınlar bütün nəğmənin qızları.",
+  "tokens": [
+    {
+      "surface": "וסגרו",
+      "gloss": "Və qapansınlar"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "qapılar"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "küçədə"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "alçalandıqda"
+    },
+    {
+      "surface": "קול",
+      "gloss": "səsi"
+    },
+    {
+      "surface": "הטחנה",
+      "gloss": "dəyirmanın"
+    },
+    {
+      "surface": "ויקום",
+      "gloss": "və durur"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "səsinə"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "quşun"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "və alçalsınlar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "qızları"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "nəğmənin"
+    }
+  ],
+  "timestamp": "2026-09-01T16:34:25.517659578Z",
+  "model": "glm-5.3"
+}

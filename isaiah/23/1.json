@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 23:1",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Tsor üçün yük. Fəryad edin, Tarşiş gəmiləri, çünki viran qoyuldu ⟨evdən⟩, ⟨girişdən⟩ bəri; Kitim ölkəsindən onlara aşkar oldu.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "yük"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "fəryad edin"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "gəmiləri"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarşiş"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "viran qoyuldu"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "⟨evdən⟩"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "⟨girişdən⟩"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ölkəsindən"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "Kitim"
+    },
+    {
+      "surface": "נגלה",
+      "gloss": "aşkar oldu"
+    },
+    {
+      "surface": "למו",
+      "gloss": "onlara"
+    }
+  ],
+  "timestamp": "2026-09-01T12:57:54.601051139Z",
+  "model": "glm-5.3"
+}

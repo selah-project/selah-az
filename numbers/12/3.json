@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Və o adam Moşe bütün adamlardan — yer üzünün üzündə olan bütün adamlardan — çox mülayim idi.",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "və o adam"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "mülayim"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çox"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bütün...lardan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "adamlardan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olan"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzündə"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzünün"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "yerin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:37:51.715963363Z",
+  "model": "glm-5.3"
+}

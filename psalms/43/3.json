@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 43,
+  "translation": "Öz işığını və öz həqiqətini göndər; onlar məni yönəltsinlər, məni müqəddəs dağına və sənin məskənlərinə gətirsinlər.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "göndər"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "işığını"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "və həqiqətini"
+    },
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "məni yönəltsinlər"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "məni gətirsinlər"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dağına"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "məskənlərinə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:14:45.255765913Z",
+  "model": "glm-5.3"
+}

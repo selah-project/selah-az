@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 32:20",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Moşe onlara dedi: Əgər bu işi ⟨את⟩ görsəniz, əgər Yahvenin önündə müharibəyə silahlanmış çxsanız —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": " dedi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "görsəniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu işi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "iş"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "תחלצו",
+      "gloss": "silahlanmış çıxsanız"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önündə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "müharibəyə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:44:25.494777867Z",
+  "model": "glm-5.3"
+}

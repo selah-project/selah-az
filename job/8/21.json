@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 8:21",
+  "book": "job",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "⟨O⟩ sənin ağzını gülüşlə, dodaqlarını isə sevinç qışqırığı ilə doldurana qədər.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "ימלה",
+      "gloss": "doldurana"
+    },
+    {
+      "surface": "שחוק",
+      "gloss": "gülüşlə"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "sənin ağzını"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "və dodaqlarını"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "sevinc qışqırığı"
+    }
+  ],
+  "timestamp": "2026-09-01T16:03:58.061798699Z",
+  "model": "glm-5.3"
+}

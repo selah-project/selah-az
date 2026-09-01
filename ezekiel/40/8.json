@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "Və qapının gözəltisini ev tərəfdən ölçdü ⟨את⟩ — bir qamış.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "və ölçdü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qapının gözəltisini"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "gözəltisini"
+    },
+    {
+      "surface": "השער",
+      "gloss": "qapının"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "ev tərəfdən"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "qamış"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    }
+  ],
+  "timestamp": "2026-09-01T14:28:46.486865749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 28:25",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "Məgər əgər onun üzünü düzlətdikdə ⟨o⟩ qara zirə səpməz və küncü dağıtmazmı? ⟨O⟩ buğdanı cərgə ilə, təyin edilmiş arpanı və öz sərhədində payızlıq buğdanı qoymurmı?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "məgər... deyilmi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "שוה",
+      "gloss": "düzlətdikdə"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "onun üzünü"
+    },
+    {
+      "surface": "וָהֵפִיץ",
+      "gloss": "və səpdi"
+    },
+    {
+      "surface": "קצח",
+      "gloss": "qara zirə"
+    },
+    {
+      "surface": "וכמן",
+      "gloss": "və küncünü"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "daşırdı"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "və qoydu"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "buğda"
+    },
+    {
+      "surface": "שורה",
+      "gloss": "cərgə ilə"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "və arpa"
+    },
+    {
+      "surface": "נסמן",
+      "gloss": "təyin edilmiş"
+    },
+    {
+      "surface": "וכסמת",
+      "gloss": "və payızlıq buğda"
+    },
+    {
+      "surface": "גבלתו",
+      "gloss": "öz sərhədində"
+    }
+  ],
+  "timestamp": "2026-09-01T13:00:12.619417489Z",
+  "model": "glm-5.3"
+}

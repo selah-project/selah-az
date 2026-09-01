@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 11:3",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Və onun üçün yeddi yüz xanım-arvad, üç yüz kənizə ⟨oldu⟩, və arvadları onun qəlbini ⟨את⟩ yayındırdılar.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "və ⟨oldu⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onun üçün"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "arvad"
+    },
+    {
+      "surface": "שרות",
+      "gloss": "xanım-arvad"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yeddi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "ופלגשים",
+      "gloss": "və kənizə"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "üç"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "və yayındırdılar"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "onun arvadları"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onun qəlbini"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "onun qəlbini"
+    }
+  ],
+  "timestamp": "2026-09-01T12:20:31.222433781Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 13:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Nə qədər canımda məsləhətlər qurum, ürəyimdə kədər — gündüz-güzəran? Nə qədər düşmənim məndən yüksələcək?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "nə qədər"
+    },
+    {
+      "surface": "אנה",
+      "gloss": ""
+    },
+    {
+      "surface": "אשית",
+      "gloss": "qurum"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "məsləhətlər"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "canımda"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "kədər"
+    },
+    {
+      "surface": "בלבבי",
+      "gloss": "ürəyimdə"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "gündüz-güzəran"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nə qədər"
+    },
+    {
+      "surface": "אנה",
+      "gloss": ""
+    },
+    {
+      "surface": "ירום",
+      "gloss": "yüksələcək"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "düşmənim"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "məndən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:04:54.530822271Z",
+  "model": "glm-5.3"
+}

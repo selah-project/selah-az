@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 26:30",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Və sən ⟨את⟩ məskəni onun qanununa görə qaldıracaqsan, necə ki sənə dağda göstərildi.",
+  "tokens": [
+    {
+      "surface": "והקמת",
+      "gloss": "və qaldıracaqsan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "məskəni"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "məskəni"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "onun qanununa görə"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "necə ki"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "göstərildi"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "dağda"
+    }
+  ],
+  "timestamp": "2026-09-01T10:16:47.126343239Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Salehin azı şıddətlərin çoxlu mallarından yaxşıdır.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "yaxşıdır"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "azı"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "salehin"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "mallarından"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "şıddətlərin"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "çoxlu"
+    }
+  ],
+  "timestamp": "2026-09-01T15:12:01.051719024Z",
+  "model": "glm-5.3"
+}

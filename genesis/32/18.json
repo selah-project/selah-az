@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 32:18",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Birinciyə ⟨את⟩ əmr edib dedi: Qardaşım Esav səninlə qarşılaşanda və sənə soruşanda — deyər: Kiminsən, hara gedirsən və önündəki bunlar kimindir? —",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "əmr edib"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "birinciyə"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "birinci"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-da"
+    },
+    {
+      "surface": "יפגשך",
+      "gloss": "səninlə qarşılaşanda"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "qardaşım"
+    },
+    {
+      "surface": "ושאלך",
+      "gloss": "və sənə soruşanda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyər"
+    },
+    {
+      "surface": "למי",
+      "gloss": "kiminsən"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "hara"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "gedirsən"
+    },
+    {
+      "surface": "ולמי",
+      "gloss": "və kimindir"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bunlar"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "önündəki"
+    }
+  ],
+  "timestamp": "2026-09-01T09:56:43.098022759Z",
+  "model": "glm-5.3"
+}

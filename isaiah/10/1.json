@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Vay o qanun qoyanlara ki, haqsızlıq qanunları qoyurlar, və yazıb əziyyət yazanlara!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "vay"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "qanun qoyanlara"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "qanunları"
+    },
+    {
+      "surface": "און",
+      "gloss": "haqsızlıq"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "və yazanlara"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "əziyyət"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "yazıb"
+    }
+  ],
+  "timestamp": "2026-09-01T12:52:01.408226196Z",
+  "model": "glm-5.3"
+}

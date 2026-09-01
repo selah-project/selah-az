@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 23:4",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Bunlar Yahvenin təyin olunmuş vaxtları, müqəddəs çağırışlar; hansılar ki siz onları ⟨את⟩ öz təyin olunmuş vaxtlarında çağıracağınız.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Bunlar"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "təyin olunmuş vaxtları"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "çağırışlar"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hansılar ki"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "çağıracağınız"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "במועדם",
+      "gloss": "öz təyin olunmuş vaxtlarında"
+    }
+  ],
+  "timestamp": "2026-09-01T10:29:56.701614835Z",
+  "model": "glm-5.3"
+}

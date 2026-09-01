@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 73,
+  "translation": "Və dedilər: «El necə bilər? Elyonda bilik varmı?»",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "və dedilər"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "necə"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilər"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "varmı"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "bilik"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "Elyonda"
+    }
+  ],
+  "timestamp": "2026-09-01T15:24:33.462673151Z",
+  "model": "glm-5.3"
+}

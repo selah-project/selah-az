@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 4:17",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və ⟨את⟩ bu əsağı əlində götür, onunla ⟨את⟩ nişanları edərsən.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bu əsa"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "əsa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "götürərsən"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "əlində"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "edərsən"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nişanları"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "nişanları"
+    }
+  ],
+  "timestamp": "2026-09-01T10:05:20.145362534Z",
+  "model": "glm-5.3"
+}

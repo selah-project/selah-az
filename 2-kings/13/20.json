@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 13:20",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Və Elişa öldü və onu dəfn etdilər. Və Moab dəstələri ilin gəlişində ölkəyə girərdilər.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "öldü"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elişa"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "onu dəfn etdilər"
+    },
+    {
+      "surface": "וגדודי",
+      "gloss": "dəstələri"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "girərdilər"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ölkəyə"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gəlişində"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ilin"
+    }
+  ],
+  "timestamp": "2026-09-01T12:38:10.221846046Z",
+  "model": "glm-5.3"
+}

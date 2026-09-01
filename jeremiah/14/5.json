@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 14:5",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Çünki hətta dişi maral da ⟨⟨sahədə⟩⟩ buzaqladı və onu tərk etdi, çünki ot ⟨⟨yox idi⟩⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hətta"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "dişi maral"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sahədə"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "buzaqladı"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "və onu tərk etdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "היה",
+      "gloss": "idi"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "ot"
+    }
+  ],
+  "timestamp": "2026-09-01T13:29:48.448990994Z",
+  "model": "glm-5.3"
+}

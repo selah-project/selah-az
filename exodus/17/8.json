@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 17:8",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Və Amalek gəldi və Refidimdə İsrailə qarşı vuruşdu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "və gəldi"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "və vuruşdu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "qarşı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailə"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "Refidimdə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:11:44.861624575Z",
+  "model": "glm-5.3"
+}

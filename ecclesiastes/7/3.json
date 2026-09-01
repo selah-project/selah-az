@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Kədər gülüşdən yaxşıdır, çünki üz pis olanda ürək yaxşı olar.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "yaxşıdır"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "kədər"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "gülüşdən"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "pis olanda"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "üz"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "yaxşı olar"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ürək"
+    }
+  ],
+  "timestamp": "2026-09-01T16:32:11.477063961Z",
+  "model": "glm-5.3"
+}

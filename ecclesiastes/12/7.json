@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "və torpaq əvvəl olduğu kimi yerə qayıdacaq və ruh ⟨onu⟩ verən Elohimə qayıdacaq.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "və qayıdacaq"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "torpaq"
+    },
+    {
+      "surface": "על",
+      "gloss": "-a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "əvvəl olduğu kimi"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "və ruh"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "qayıdacaq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "onu verən"
+    }
+  ],
+  "timestamp": "2026-09-01T16:34:00.798319527Z",
+  "model": "glm-5.3"
+}

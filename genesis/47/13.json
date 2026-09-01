@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 47:13",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 47,
+  "translation": "Və ⟨bütün⟩ ölkədə çörək yox idi, çünki qıtlıq çox ağır idi; qıtlıq üzündən Mitsrayim ölkəsi və Kenaan ölkəsi tükəndi.",
+  "tokens": [
+    {
+      "surface": "ולחם",
+      "gloss": "və çörək"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yox idi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "⟨bütün⟩ ... də"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ölkədə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ağır"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "qıtlıq"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çox"
+    },
+    {
+      "surface": "ותלה",
+      "gloss": "və tükəndi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ölkəsi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "və ölkəsi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "üzündən"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "qıtlıq"
+    }
+  ],
+  "timestamp": "2026-09-01T10:02:29.244458963Z",
+  "model": "glm-5.3"
+}

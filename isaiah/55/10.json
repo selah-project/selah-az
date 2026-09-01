@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 55:10",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 55,
+  "translation": "Çünki yağış və qar göydən endiyi kimi, oraya qayıtmaz, yalnız ⟨את⟩ yeri suvarandan və onu doğurub cücərtdənindən, səpənə toxum, yeyənə çörək verənə qədər — ⟨eyni kimi⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ender"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "yağış"
+    },
+    {
+      "surface": "והשלג",
+      "gloss": "və qar"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göydən"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "oraya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "qayıtmaz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "הרוה",
+      "gloss": "suvarandan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yeri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeri"
+    },
+    {
+      "surface": "והולידה",
+      "gloss": "onu doğurub"
+    },
+    {
+      "surface": "והצמיחה",
+      "gloss": "cücərtdənindən"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "verənə"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "toxum"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "səpənə"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "çörək"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "yeyənə"
+    }
+  ],
+  "timestamp": "2026-09-01T13:14:13.816171249Z",
+  "model": "glm-5.3"
+}

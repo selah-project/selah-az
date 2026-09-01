@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 94,
+  "translation": "Sənin xalqını, ya Yahve, əzib doğrayırlar, və sənin mirasını məzlum edirlər.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "sənin xalqını"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahve"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "əzib doğrayırlar"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "və sənin mirasını"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "məzlum edirlər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:31:49.675220854Z",
+  "model": "glm-5.3"
+}

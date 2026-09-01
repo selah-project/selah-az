@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 1:16",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və o vaxtda ⟨את⟩ hakimlərinizinə əmr etdim, deyərək: «Qardaşlarınız arasında ⟨mübahisələri⟩ dinləyin və kişi ilə qardaşı arasında, onunla yaşayan qonşu ⟨gər⟩ arasında ədalətlə mühakimə edin.»",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "və əmr etdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hakimlərinizə"
+    },
+    {
+      "surface": "שפטיכם",
+      "gloss": "hakimlərinizə"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "o vaxtda"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dinləyin"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "qardaşlarınız"
+    },
+    {
+      "surface": "ושפטתם",
+      "gloss": "və mühakimə edin"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ədalətlə"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kişi"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ilə ... arasında"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "qardaşı"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "və ... arasında"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "onun qonşu ⟨gər⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T10:46:33.528030249Z",
+  "model": "glm-5.3"
+}

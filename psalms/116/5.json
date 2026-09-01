@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 116,
+  "translation": "Lütfkardır Yahve, və salehdir; Elohimimiz isə mərhəmət edəndir.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "lütfkardır"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "və salehdir"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "və Elohimimiz"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "mərhəmət edəndir"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:07.318040921Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 24:17",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Babelin kralı öz əmisinin oğlu Matanyahuni onun yerinə ⟨את⟩ padishah etdi və adını dəyişib Sidkiyahu qoydu.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "padishah etdi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babelin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Matanyahunu"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "Matanyahu"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "əmisinin oğlu"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "onun yerinə"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "dəyişib"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adını"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "adını"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Sidkiyahu"
+    }
+  ],
+  "timestamp": "2026-09-01T12:44:34.525472190Z",
+  "model": "glm-5.3"
+}

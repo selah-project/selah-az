@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 69,
+  "ref": "psalms 119:69",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "İnadkarlar mənim üstümə yalan yapışdırdılar; mən isə bütün ürəklə əmrlərini qoruyuram.",
+  "tokens": [
+    {
+      "surface": "טפלו",
+      "gloss": "yapışdırdılar"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mənim üstümə"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yalan"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "inadkarlar"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən isə"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ürəklə"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "qoruyuram"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "əmrlərini"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:44.701228414Z",
+  "model": "glm-5.3"
+}

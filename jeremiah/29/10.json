@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 29:10",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "Çünki belə deyir Yahve: Babilin dolması üçün — yetmiş il — mən sizi yoxlayacağam ⟨sizin üçün⟩ və sizin üstünüzə yaxşı sözümü yerinə yetirəcəyəm, sizi bu yerə qaytarmaq üçün.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "כה",
+      "gloss": "belə"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨həqiqətən⟩"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "əvəzində"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "dolması"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "Babilin"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "yetmiş"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "il"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "yoxlayacağam"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizin üçün",
+      "marks": "sizi"
+    },
+    {
+      "surface": "והקמתי",
+      "gloss": "yerinə yetirəcəyəm"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sizin üstünüzə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yaxşı sözümü"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözümü"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "yaxşı"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "qaytarmaq üçün"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "sizi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "bu yer"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-09-01T13:40:02.371126240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ruth 2:15",
+  "book": "ruth",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və o, toplamaq üçün qalxdı, və Boaz ⟨את⟩ oğlanlarına əmr etdi, deyə: Dəstələrin arasında da toplasın, və onu utandırmayasınız.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "qalxdı"
+    },
+    {
+      "surface": "ללקט",
+      "gloss": "toplamaq üçün"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "əmr etdi"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oğlanlarını"
+    },
+    {
+      "surface": "נעריו",
+      "gloss": "oğlanlarına"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyə"
+    },
+    {
+      "surface": "גם",
+      "gloss": "da"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "העמרים",
+      "gloss": "dəstələrin"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "toplasın"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "תכלימוה",
+      "gloss": "onu utandırmayasınız"
+    }
+  ],
+  "timestamp": "2026-09-01T16:24:11.192813946Z",
+  "model": "glm-5.3"
+}

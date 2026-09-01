@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 22:30",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Yerin kökləri yeyəcək və Onun önündə səcdə edəcəklər, toza enən hamısı diz çökəcək, ⟨və⟩ onun canı ⟨özünü⟩ diriltməyə qadir olmayan ⟨kimsə belə⟩.",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "yeyəcək"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "səcdə edəcəklər"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamısı"
+    },
+    {
+      "surface": "דשני",
+      "gloss": "kökləri"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "Onun önündə"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "diz çökəcək"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamısı"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "enən"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "toza"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "onun canı"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "diriltməyə qadir olmayan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:07:05.670361245Z",
+  "model": "glm-5.3"
+}

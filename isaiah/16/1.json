@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 16:1",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Qoç göndərin yerin hökmdarına, Səladan çölə ⟨doğru⟩, qız Sionun dağına.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "göndərin"
+    },
+    {
+      "surface": "כר",
+      "gloss": "qoç"
+    },
+    {
+      "surface": "משל",
+      "gloss": "hökmran"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "Səladan"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "çölə"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨doğru⟩"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dağına"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qız"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    }
+  ],
+  "timestamp": "2026-09-01T12:55:20.205731793Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 37:24",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "O düşsə də, atılmayacaq, çünki Yahve onun əlini saxlayır.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "-sə də"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "düşsə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "atılmayacaq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "saxlayır"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "onun əlini"
+    }
+  ],
+  "timestamp": "2026-09-01T15:13:01.758097671Z",
+  "model": "glm-5.3"
+}

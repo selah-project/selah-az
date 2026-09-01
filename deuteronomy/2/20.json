@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 2:20",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Rəfaim torpağı sayılır, həmçinin o; Rəfaim əvvəllər orada yaşayırdı, ammonlular isə onları Zamzumim adlandırırdılar.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "torpağı"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Rəfaim"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "sayılır"
+    },
+    {
+      "surface": "אף",
+      "gloss": "həmçinin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Rəfaim"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "yaşayırdı"
+    },
+    {
+      "surface": "בה",
+      "gloss": "orada"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "əvvəllər"
+    },
+    {
+      "surface": "והעמנים",
+      "gloss": "və ammonlular"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "adlandırırdılar"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onları"
+    },
+    {
+      "surface": "זמזמים",
+      "gloss": "Zamzumim"
+    }
+  ],
+  "timestamp": "2026-09-01T10:45:55.118626888Z",
+  "model": "glm-5.3"
+}

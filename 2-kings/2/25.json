@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 2:25",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və o, oradan Karmel dağına getdi, və oradan Şomrona qayıtdı.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "və o, getdi"
+    },
+    {
+      "surface": "משם",
+      "gloss": "oradan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dağı"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmel"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "və oradan"
+    },
+    {
+      "surface": "שב",
+      "gloss": "qayıtdı"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Şomrona"
+    }
+  ],
+  "timestamp": "2026-09-01T12:26:50.402491768Z",
+  "model": "glm-5.3"
+}

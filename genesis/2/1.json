@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və tamamlandı göylər və yer, və bütün onların orduları.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "tamamlandı"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göylər"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "və yer"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "onların orduları"
+    }
+  ],
+  "timestamp": "2026-09-01T09:46:30.536730443Z",
+  "model": "glm-5.3"
+}

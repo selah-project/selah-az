@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 104:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 104,
+  "translation": "⟨O⟩ mal-qara üçün ot, insanın xidməti üçün otlar bitirir ki, yerdən çörək çıxarsın.",
+  "tokens": [
+    {
+      "surface": "מצמיח",
+      "gloss": "bitirir"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ot"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "mal-qara üçün"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "və otlar"
+    },
+    {
+      "surface": "لעבדת",
+      "gloss": "xidməti üçün"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insanın"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "çıxarsın"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "çörək"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dən"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerdən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:34:41.523538420Z",
+  "model": "glm-5.3"
+}

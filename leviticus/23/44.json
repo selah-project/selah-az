@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Və Moşe Yahvenin təyin olunmuş vaxtlarını Beni-Yisraelə danışdı.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "danışdı"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "təyin olunmuş vaxtları"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "təyin olunmuş vaxtlarını"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Beni-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T10:30:23.579749074Z",
+  "model": "glm-5.3"
+}

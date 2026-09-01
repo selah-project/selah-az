@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Və ⟨את⟩ onun cəsədini öz qəbrinə qoydu; və onun üstündən yas saxladılar ⟨deyərək⟩: \"Hoy, qardaşım!\"",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "qoydu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onun cəsədini"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "onun cəsədini"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "öz qəbrinə"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "yas saxladılar"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üstündən"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Hoy"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "qardaşım"
+    }
+  ],
+  "timestamp": "2026-09-01T12:20:52.875025734Z",
+  "model": "glm-5.3"
+}

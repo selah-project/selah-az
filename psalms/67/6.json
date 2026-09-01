@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 67:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 67,
+  "translation": "Xalqlar Səni and içsinlər, Elohim; Səni and içsinlər xalqların hamısı.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "Səni and içsinlər"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "Səni and içsinlər"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "xalqların"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "hamısı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:21:02.947736413Z",
+  "model": "glm-5.3"
+}

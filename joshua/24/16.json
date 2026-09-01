@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 24:16",
+  "book": "joshua",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Xalq cavab verdi və dedi: Yahveni ⟨את⟩ tərk edib başqa tanrılara qulluq etmək bizdən uzaq olsun!",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "cavab verdi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "ucaq olsun"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizdən"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "tərk edib"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "qulluq etmək"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tanrılara"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "başqa"
+    }
+  ],
+  "timestamp": "2026-09-01T11:14:38.136627403Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 131:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 131,
+  "translation": "Məqamlar mahnısı, Davuddan. Yahve, ürəyim qürrələnmədi, gözlərim də yuxarı calanmadı; mənimdən böyük ⟨işlərdə⟩ və ağır möcüzələrdə gəzmədim.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "mahnısı"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "məqamların"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davuddan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "qürrələnmədi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ürəyim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "calanmadı"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözlərim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "gəzmədim"
+    },
+    {
+      "surface": "בגדלות",
+      "gloss": "böyük ⟨işlərdə⟩"
+    },
+    {
+      "surface": "ובנפלאות",
+      "gloss": "ağır möcüzələrdə"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mənimdən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:13.496754724Z",
+  "model": "glm-5.3"
+}

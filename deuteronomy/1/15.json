@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 1:15",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və qabilələrinizin başçılarını — müdrik, tanınmış kişiləri götürdüm və onları sizin başınıza rəhbərlər təyin etdim: minlik başçıları, yüzlük başçıları, əllilik başçıları, onluq başçıları və qabilələriniz üçün şətirim.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "götürdüm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qabilələrinizin başçılarını"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "başçılarını"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "qabilələrinizin"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "kişiləri"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "müdrik"
+    },
+    {
+      "surface": "וידעים",
+      "gloss": "və tanınmış"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "və təyin etdim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onları rəhbərlər"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "rəhbərlər"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sizin başınıza"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "başçıları"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "minlik"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "və başçıları"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüzlük"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "və başçıları"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "əllilik"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "və başçıları"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "onluq"
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "və şətirim"
+    },
+    {
+      "surface": "לשבטיכם",
+      "gloss": "qabilələriniz üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:46:33.527858076Z",
+  "model": "glm-5.3"
+}

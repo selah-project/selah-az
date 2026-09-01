@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və Kelub, Şuahanın qardaşı, ⟨את⟩ Mehiri dünyaya gətirdi; o ⟨idi⟩ Eştonun atası.",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "və Kelub"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "qardaşı"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "Şuahanın"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dünyaya gətirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mehiri"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "Mehiri"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atası"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "Eştonun"
+    }
+  ],
+  "timestamp": "2026-09-01T17:01:56.671567048Z",
+  "model": "glm-5.3"
+}

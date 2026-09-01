@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 20:6",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "və min nəslə qədər Məni sevənlərə və əmrlərimi saxlayanlara hesed edənəm.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "və edən"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "min nəslə qədər"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "Məni sevənlərə"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "və saxlayanlara"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "əmrlərimi"
+    }
+  ],
+  "timestamp": "2026-09-01T10:10:32.456975002Z",
+  "model": "glm-5.3"
+}

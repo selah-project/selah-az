@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "amos 5:20",
+  "book": "amos",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Məgər Yahve günü qaranlıq deyilmi, işıq deyil? Zülmət, ona parlaqlıq yoxdur.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "məgər...deyilmi"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "qaranlıq"
+    },
+    {
+      "surface": "יום",
+      "gloss": "günü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "deyil"
+    },
+    {
+      "surface": "אור",
+      "gloss": "işıq"
+    },
+    {
+      "surface": "ואפל",
+      "gloss": "zülmət"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "parlaqlıq"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-09-01T14:43:12.505303698Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 11:8",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Çünki əgər insan çox il yaşasa, hamısında sevinclənə, və ⟨את⟩ qaranlıq günlərini xatırlaya; çünki çox olacaqlar — gələn hər şey boşluqdur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "il"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "çox"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "yaşasa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "בכלם",
+      "gloss": "hamısında"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "sevinclənə"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "və xatırlaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qaranlıq günlərini"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "günlərini"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "qaranlıq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "çox"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "olacaqlar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər şey"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "gələn"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "boşluqdur"
+    }
+  ],
+  "timestamp": "2026-09-01T16:33:11.297142396Z",
+  "model": "glm-5.3"
+}

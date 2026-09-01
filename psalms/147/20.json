@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 147,
+  "translation": "Heç bir millətlə belə etmədi, onlar isə hökmlərini heç bilmədilər. Halelu-Yah!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Heç"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etmədi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "belə"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "heç bir"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "millətlə"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "isə hökmlərini"
+    },
+    {
+      "surface": "בל",
+      "gloss": "heç"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "bilmədilər"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halelu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:35.423039380Z",
+  "model": "glm-5.3"
+}

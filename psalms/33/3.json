@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "Ona yeni mahnı oxuyun; çalğısını gözəl ifa edin, səs-küy ilə.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "oxuyun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "mahnı"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "yeni"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "gözəl ifa edin"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "çalğısını"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "səs-küy ilə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:11:48.892581675Z",
+  "model": "glm-5.3"
+}

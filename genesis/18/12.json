@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 18:12",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Sara içində güldü, deyərək: Köhnəlib doğrandan sonra mənə ⟨cinsi⟩ ləzzət mi ⟨olacaq⟩? Və ağam da qocadır.",
+  "tokens": [
+    {
+      "surface": "ותצחק",
+      "gloss": "güldü"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "içində"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sonrasında"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "köhnəlib"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨olacaq⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "ləzzət"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "və ağam"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "qocadır"
+    }
+  ],
+  "timestamp": "2026-09-01T09:50:08.363868897Z",
+  "model": "glm-5.3"
+}

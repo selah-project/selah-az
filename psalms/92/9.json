@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 92,
+  "translation": "Amma ⟨sən⟩ yüksəklikdəsən, əbədi, ey Yahve.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "amma sən"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "yüksəklikdə"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T15:31:52.790300813Z",
+  "model": "glm-5.3"
+}

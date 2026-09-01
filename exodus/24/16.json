@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 24:16",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Və Yahvenin izzəti Sinay dağının üstündə sakin oldu, və bulud onu altı gün örtdu; yeddinci gündə buludun içindən Moşeyə səsləndi.",
+  "tokens": [
+    {
+      "surface": "וישכן",
+      "gloss": "sakin oldu"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "izzəti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dağının"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinay"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "ondu örtdu"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "bulud"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "altı"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "səsləndi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilə (doğru)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşeyə"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gündə"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "yeddinci"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "içindən"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "buludun"
+    }
+  ],
+  "timestamp": "2026-09-01T10:14:14.422487838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 31:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "Yalan puçluqlarına riayət edənlərdən nifrət etdim, mən isə Yahveyə etibar etdim.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "nifrət etdim"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "riayət edənlərə"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "puçluqlarına"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "yalan"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mən isə"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "etibar etdim"
+    }
+  ],
+  "timestamp": "2026-09-01T15:09:19.147134295Z",
+  "model": "glm-5.3"
+}

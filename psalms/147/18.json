@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 147,
+  "translation": "Öz sözünü göndərir və onları əridir, Öz küləyini əsdirir, sular axır.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "göndərir"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "Öz sözünü"
+    },
+    {
+      "surface": "וימסם",
+      "gloss": "və onları əridir"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "əsdirir"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "Öz küləyini"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "axır"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sular"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:35.422616875Z",
+  "model": "glm-5.3"
+}

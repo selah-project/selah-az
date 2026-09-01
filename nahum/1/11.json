@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nahum 1:11",
+  "book": "nahum",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Səndən Yahve ⟨qarşı⟩ pisliyi quran, Beliyal məsləhətçisi çıxdı.",
+  "tokens": [
+    {
+      "surface": "ממך",
+      "gloss": "səndən"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "çıxdı"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "quran"
+    },
+    {
+      "surface": "על",
+      "gloss": "qarşı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pisliyi"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "məsləhət verən"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Beliyal"
+    }
+  ],
+  "timestamp": "2026-09-01T14:48:25.558862120Z",
+  "model": "glm-5.3"
+}

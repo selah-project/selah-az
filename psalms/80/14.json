@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 80:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 80,
+  "translation": "Meşənin donuzu onu yeyib-tökür, və sahənin canlısı onu otlayır.",
+  "tokens": [
+    {
+      "surface": "יכרסמנה",
+      "gloss": "onu yeyib-tökür"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "donuz"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "meşənin"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "və canlısı"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "sahənin"
+    },
+    {
+      "surface": "ירענה",
+      "gloss": "onu otlayır"
+    }
+  ],
+  "timestamp": "2026-09-01T15:27:45.010778280Z",
+  "model": "glm-5.3"
+}

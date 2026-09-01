@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Yadında saxla ⟨את⟩ nəyi Amaleq sənə etdi yolda, Misirdən çıxdığınız zaman.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Yadında saxla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nəyi (Amaleqin sənə etdiyi şey)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nəyi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etdi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleq"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolda"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "çıxdığınız zaman"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Misirdən"
+    }
+  ],
+  "timestamp": "2026-09-01T10:53:52.143949513Z",
+  "model": "glm-5.3"
+}

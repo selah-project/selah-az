@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Moşe dağdan xalqın yanına endi, xalqı müqəddəsləşdirdi ⟨את⟩ xalqı, və onlar paltarlarını yudular.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "endi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "dağ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqın"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "müqəddəsləşdirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqı"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "yudular"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "paltarlarını"
+    }
+  ],
+  "timestamp": "2026-09-01T10:10:54.100213455Z",
+  "model": "glm-5.3"
+}

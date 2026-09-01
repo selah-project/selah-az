@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 1:20",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Yoqtan ⟨את⟩ Əlmudadı, ⟨את⟩ Şelefi, ⟨את⟩ Həsərmavəti və ⟨את⟩ Yerahı doğdu.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "Yoqtan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "doğdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Əlmudadı"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Əlmudad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Şelefi"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Şelef"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Həsərmavəti"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Həsərmavət"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yerahı"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Yerah"
+    }
+  ],
+  "timestamp": "2026-09-01T17:00:17.046972010Z",
+  "model": "glm-5.3"
+}

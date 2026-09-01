@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 6:1",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Və ⟨ol-du⟩ ki, insan yerin üzündə çoxalmağa başlayanda, onlara qızlar doğuldu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨ol-du⟩ ki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "החל",
+      "gloss": "başlayanda"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "çoxalmağa"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzündə"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzində"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "qızlar"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "doğuldu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    }
+  ],
+  "timestamp": "2026-09-01T09:48:03.448893459Z",
+  "model": "glm-5.3"
+}

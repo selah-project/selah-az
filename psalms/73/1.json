@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 73:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 73,
+  "translation": "Məzmur Asafa. Həqiqətən, Elohim Yisraelə yaxşıdır, təmiz qəlbli ⟨insanlara⟩.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Məzmur"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafa"
+    },
+    {
+      "surface": "אך",
+      "gloss": "həqiqətən"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşıdır"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Yisraelə"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לברי",
+      "gloss": "təmiz ⟨insanlara⟩"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "qəlb"
+    }
+  ],
+  "timestamp": "2026-09-01T15:24:18.521980031Z",
+  "model": "glm-5.3"
+}

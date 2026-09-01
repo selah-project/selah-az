@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 6:20",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Ki, sabah oğlun səndən soruşub deyəcək: Nədir bu şahidliklər, qanunlar və hökmlər ki, Yahve, bizim Elohimimiz, bizlərə buyurdu?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ישאלך",
+      "gloss": "səndən soruşub"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "oğlun"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "sabah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyəcək"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nədir"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "şahidliklər"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "qanunlar"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "hökmlər"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurdu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "bizim Elohimimiz"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizləri",
+      "marks": "sizlərə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:48:03.802046624Z",
+  "model": "glm-5.3"
+}

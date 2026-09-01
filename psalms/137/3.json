@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 137:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 137,
+  "translation": "Çünki orada əsir tutanlar bizdən mahnı sözləri, talan edənlərimiz isə sevinc dilədilər: «Bizə Siondan ⟨bir⟩ mahnı oxuyun».",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "שאלונו",
+      "gloss": "bizdən dilədilər"
+    },
+    {
+      "surface": "שובינו",
+      "gloss": "əsir tutanlar"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözləri"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "mahnı"
+    },
+    {
+      "surface": "ותוללינו",
+      "gloss": "talan edənlərimiz"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "sevinc"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "oxuyun"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizə"
+    },
+    {
+      "surface": "משיר",
+      "gloss": "mahnıdan"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    }
+  ],
+  "timestamp": "2026-09-01T15:44:57.128685713Z",
+  "model": "glm-5.3"
+}

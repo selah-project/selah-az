@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 134,
+  "translation": "Səni bərəkətləsin Yahve, Siyondan — göylərin və yerin Yaradıcısı!",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "Səni bərəkətləsin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Siyondan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Yaradıcısı"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "göylərin"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "yerin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:18.815439238Z",
+  "model": "glm-5.3"
+}

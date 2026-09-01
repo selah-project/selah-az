@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "⟨את⟩ öz-özünə bitən məhsulunu biçməyəcəksən, və ⟨את⟩ nəzirlik üzümlərini dərməyəcəksən; şabbaton ili ⟨olacaq⟩ yer üçün.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öz-özünə bitən məhsulu"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "öz-özünə bitən"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "məhsulunu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "biçməyəcəksən"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "nəzirlik üzümlərini"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "üzümlərini"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "nəzirliyin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "dərməyəcəksən"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ili"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "şabbaton"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "yer üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T17:28:10.814450969Z",
+  "model": "glm-5.3"
+}

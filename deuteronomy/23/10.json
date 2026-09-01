@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Düşmənlərinin üzərinə düşərgə ⟨sən⟩ çıxanda özünü hər pis şeydən qoru.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nə vaxt ki"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "çıxanda"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "düşərgə"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "düşmənlərinin"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "qoruyacaqsan"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "hər şeydən"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "şeydən"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pis"
+    }
+  ],
+  "timestamp": "2026-09-01T10:53:44.719119210Z",
+  "model": "glm-5.3"
+}

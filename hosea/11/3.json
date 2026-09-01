@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 11:3",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Mən isə Efrayımı yerimə öyrətdim, qollarından tutdum onları, amma bilmədilər ki, mən onları sağaldım.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "mən isə"
+    },
+    {
+      "surface": "תרגלתי",
+      "gloss": "yerimə öyrətdim"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Efrayı"
+    },
+    {
+      "surface": "קחם",
+      "gloss": "tutdum onları"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündən"
+    },
+    {
+      "surface": "זרועתיו",
+      "gloss": "onun qolları"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bilmədilər"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "רפאתים",
+      "gloss": "sağaldım onları"
+    }
+  ],
+  "timestamp": "2026-09-01T14:36:43.176107648Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 26:25",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Bunlar Yissaşarın nəsilləridir, sayılmışlarına görə: altmış dörd min və üç yüz.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Bunlar"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "nəsilləridir"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaşarın"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "sayılmışlarına görə"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "dörd"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "və altmış"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "min"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "və üç"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    }
+  ],
+  "timestamp": "2026-09-01T10:41:46.612702439Z",
+  "model": "glm-5.3"
+}

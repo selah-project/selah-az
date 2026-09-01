@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 49,
+  "translation": "Və nəfəslərinin fidyəsi çox dəyərlidir, və ⟨o⟩ əbədiyyən dayandırılmışdır.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "və çox dəyərlidir"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "fidyəsi"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "onların nəfəslərinin"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "və dayandırılmışdır"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədiyyən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:15:44.851441586Z",
+  "model": "glm-5.3"
+}

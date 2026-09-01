@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 23:11",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Və padşahın oğlunu çıxardılar, onun üstünə ⟨את⟩ tacı və ⟨את⟩ şəhadəti qoydular, onu padşah etdilər; Yehoyada və oğulları onu məsh etdilər və dedilər: «Yaşasın ⟨את⟩ padşah!»",
+  "tokens": [
+    {
+      "surface": "ויוציאו",
+      "gloss": "çıxardılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "padşahın oğlunu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlunu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşahın"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "qoydular"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üstünə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tacı"
+    },
+    {
+      "surface": "הנזר",
+      "gloss": "tacı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "şəhadəti"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "şəhadəti"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "padşah etdilər"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu"
+    },
+    {
+      "surface": "וימשחהו",
+      "gloss": "məsh etdilər"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "və oğulları"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "dedilər"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "Yaşasın"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    }
+  ],
+  "timestamp": "2026-09-01T17:19:20.402051582Z",
+  "model": "glm-5.3"
+}

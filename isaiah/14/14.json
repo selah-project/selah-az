@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 14:14",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Buludların yüksəkliklərinin üstünə qalxacağam, Elyona bənzəyəcəyəm.",
+  "tokens": [
+    {
+      "surface": "אעלה",
+      "gloss": "qalxacağam"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "yüksəkliklərinin"
+    },
+    {
+      "surface": "עב",
+      "gloss": "buludların"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "bənzəyəcəyəm"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "Elyona"
+    }
+  ],
+  "timestamp": "2026-09-01T12:51:50.945397481Z",
+  "model": "glm-5.3"
+}

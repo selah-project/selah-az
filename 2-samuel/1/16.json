@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 1:16",
+  "book": "2-samuel",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Davit on dedi: «Qanın öz başının üstünə olsun, çünki ağzın öz əleyhinə şəhadət verdi, deyərək: Mən Yahvenin ⟨את⟩ Məsihini öldürdüm.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "onun"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davit"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "qanın"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "başının"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ağzın"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "şəhadət verdi"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sənin əleyhinə"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "öldürdüm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Məsihi"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "Məsihini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    }
+  ],
+  "timestamp": "2026-09-01T17:58:52.289911211Z",
+  "model": "glm-5.3"
+}

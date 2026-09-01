@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 142:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 142,
+  "translation": "Sağa bax və gör — məni tanıyan yoxdur ⟨mənim üçüm⟩; sığınaq məndən yox olub, canımın ardınca axtaran yoxdur.",
+  "tokens": [
+    {
+      "surface": "הביט",
+      "gloss": "bax"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "sağa"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "və gör"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨mənim üçüm⟩"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "tanıyan"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "yox olub"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "sığınaq"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "məndən"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "דורש",
+      "gloss": "axtaran"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "canımın ardınca"
+    }
+  ],
+  "timestamp": "2026-09-01T15:45:23.548785621Z",
+  "model": "glm-5.3"
+}

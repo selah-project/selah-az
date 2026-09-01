@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 1:2",
+  "book": "jonah",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Qalx, Ninova şəhərinə — o böyük ⟨şəhərə⟩ — get və onun üzərinə səs sal, çünki onların şəri üzümə qalxmışdır.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Qalx"
+    },
+    {
+      "surface": "לך",
+      "gloss": "get"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninova"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şəhərinə"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "o böyük"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "və səs sal"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "onun üzərinə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "qalxmışdır"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "onların şəri"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "üzümə"
+    }
+  ],
+  "timestamp": "2026-09-01T14:46:31.153810433Z",
+  "model": "glm-5.3"
+}

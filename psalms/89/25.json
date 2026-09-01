@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 89:25",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 89,
+  "translation": "Və imanım və hesedim (sadiq sevgim) onunla ⟨olacaq⟩, və Adımla onun buynuzu ucalacaq.",
+  "tokens": [
+    {
+      "surface": "ואמונתי",
+      "gloss": "və imanım"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "və hesedim"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "ובשמי",
+      "gloss": "və Adımla"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "ucalacaq"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "onun buynuzu"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:15.638510007Z",
+  "model": "glm-5.3"
+}

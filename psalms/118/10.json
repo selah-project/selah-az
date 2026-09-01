@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 118:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 118,
+  "translation": "Bütün millətlər məni əhatə etdilər; Yahvenin adı ilə mən onları kəsəcəyəm.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "millətlər"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "məni əhatə etdilər"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "adı ilə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨həqiqətən⟩"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "onları kəsəcəyəm"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:55.448472781Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 27:15",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Çünki mən onları göndərməmişəm — Yahvenin nəumi — və onlar mənim adımla yalan peyğəmbərlik edirlər, ⟨את⟩ sizi məhvətə sürə bilsinlər deyə; və siz məhv olacaqsınız — həm siz, həm də sizə peyğəmbərlik edən peyğəmbərlər.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...-məmişəm"
+    },
+    {
+      "surface": "שלחתים",
+      "gloss": "göndərməmişəm"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nəumi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "והם",
+      "gloss": "və onlar"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "peyğəmbərlik edirlər"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "mənim adımla"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "yalan"
+    },
+    {
+      "surface": "למען",
+      "gloss": "...-deyə"
+    },
+    {
+      "surface": "הדיחי",
+      "gloss": "sürə bilsinlər"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "sizi"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "və məhv olacaqsınız"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "və peyğəmbərlər"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "peyğəmbərlik edən"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizə"
+    }
+  ],
+  "timestamp": "2026-09-01T13:39:34.044927503Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Həm də danışılan bütün sözlərə ürəyini vermə ki, qulunun səni lənətlədiyini ⟨eşitməyəsən⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "həm də"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sözlərə"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "danışılan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨qadağan⟩"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "vermə"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ürəyini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eşitməyəsən"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "eşitməyəsən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qulun"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "qulun"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "səni lənətlədiyini"
+    }
+  ],
+  "timestamp": "2026-09-01T16:30:54.021036341Z",
+  "model": "glm-5.3"
+}

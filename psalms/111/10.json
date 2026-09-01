@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 111,
+  "translation": "Hikmətin başlanğıcı Yahve qorxusudur; ⟨bu sözləri⟩ yerinə yetirən hər kəs üçün yaxşı dərkdir; Onun tərənnümü əbədən qalır.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "başlanğıcı"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmətin"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "qorxusu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "dərkdir"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşı"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hər kəs üçün"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "yerinə yetirən"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "Onun tərənnümü"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "qalır"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "əbədən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:37:05.707380156Z",
+  "model": "glm-5.3"
+}

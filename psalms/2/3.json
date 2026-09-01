@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Onun qandallarını qoparaq ⟨את⟩ ataq, Onun iplərini özümüzdən uzaqlaşdıraq.",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "qoparaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Onun qandallarını"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "Onun qandallarını"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "ataq"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "özümüzdən"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "Onun iplərini"
+    }
+  ],
+  "timestamp": "2026-09-01T15:01:49.100222058Z",
+  "model": "glm-5.3"
+}

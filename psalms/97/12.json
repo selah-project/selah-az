@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 97:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 97,
+  "translation": "Salehlər, Yahve-də sevinin, və Onun müqəddəsliyinin yadına şükür edin!",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "sevinin"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "salehlər"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahve-də"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "və şükür edin"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "yadına"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "Onun müqəddəsliyinin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:34:55.812597279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 8:16",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və ⟨את⟩ bağırsaqların üstündəki bütün piyi, ⟨את⟩ qaraciyərin dilciyini, ⟨את⟩ iki böyrəyi və ⟨את⟩ onların piyini götürdü və Moşe onları qurbangahda tüstüləndirdi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "götürdü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün piyi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "piyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olan"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündəki"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "bağırsaqların"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dilciyini"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "dilciyini"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "qaraciyərin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iki böyrəyi"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iki"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "böyrəyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "onların piyini"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "onların piyini"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "tüstüləndirdi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "qurbangahda"
+    }
+  ],
+  "timestamp": "2026-09-01T10:25:17.071136066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 57:2",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 57,
+  "translation": "Şalom gəlir ⟨onlara⟩, döşəkləri üstündə dincləyirlər, hər biri düzlüklə gedən.",
+  "tokens": [
+    {
+      "surface": "יבוא",
+      "gloss": "gəlir"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "şalom"
+    },
+    {
+      "surface": "ינוחו",
+      "gloss": "dincləyirlər"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "döşəkləri"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "gedən"
+    },
+    {
+      "surface": "נכחו",
+      "gloss": "düzlüklə"
+    }
+  ],
+  "timestamp": "2026-09-01T13:15:49.645021772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 34:20",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 34,
+  "translation": "Salehin bəlaları çoxdur, lakin onların hamısından Yahve onu xilas edir.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "çoxdur"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "bəlalar"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "salehin"
+    },
+    {
+      "surface": "ומכלם",
+      "gloss": "onların hamısından"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "onu xilas edir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T15:10:53.932684666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 2:30",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Boş yerə vurdum ⟨את⟩ oğullarınızı — tərbiyə qəbul etmədilər; qılıncınız peyğəmbərlərinizi yedi, məhv edən şir kimi.",
+  "tokens": [
+    {
+      "surface": "לשוא",
+      "gloss": "Boş yerə"
+    },
+    {
+      "surface": "הכיתי",
+      "gloss": "vurdum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oğullarınızı"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "oğullarınızı"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tərbiyə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "qəbul etmədilər"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "qəbul etdilər"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "yedi"
+    },
+    {
+      "surface": "חרבכם",
+      "gloss": "qılıncınız"
+    },
+    {
+      "surface": "נביאיכם",
+      "gloss": "peyğəmbərlərinizi"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "şir kimi"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "məhv edən"
+    }
+  ],
+  "timestamp": "2026-09-01T13:21:32.889538663Z",
+  "model": "glm-5.3"
+}

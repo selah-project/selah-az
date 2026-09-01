@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 7:17",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Əgər ürəyində desən: Bu xalqlar məndən çoxdur, mən onları necə qovum?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "desən"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "ürəyində"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "çoxdur"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "məndən"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "necə"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mən ... bacarım"
+    },
+    {
+      "surface": "להורישם",
+      "gloss": "onları qovum"
+    }
+  ],
+  "timestamp": "2026-09-01T10:49:17.107871809Z",
+  "model": "glm-5.3"
+}

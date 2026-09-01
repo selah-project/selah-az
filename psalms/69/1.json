@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 69,
+  "translation": "Xor rəhbərinə, Şoşannim üzərinə, Davuda aid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "xor rəhbərinə"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "Şoşannim"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davuda aid"
+    }
+  ],
+  "timestamp": "2026-09-01T15:23:33.736746441Z",
+  "model": "glm-5.3"
+}

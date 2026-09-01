@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 51:4",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 51,
+  "translation": "Mənə qulaq verin, ey ümmətim, və mənə dinləyin, ey millətim! Çünki tövrə mənim tərəfimdən ⟨⟨את⟩⟩ çıxacaq, mənim hökmüm xalqların işığı ⟨olacaq⟩, tez reallaşdıracağam.",
+  "tokens": [
+    {
+      "surface": "הקשיבו",
+      "gloss": "qulaq verin"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ümmətim"
+    },
+    {
+      "surface": "ולאומי",
+      "gloss": "və millətim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "dinləyin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "tövrə"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨⟨את⟩⟩ mənim tərəfimdən",
+      "marks": "tövrə"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "çıxacaq"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "mənim hökmüm"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "işığı"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "xalqların"
+    },
+    {
+      "surface": "ארגיע",
+      "gloss": "tez reallaşdıracağam"
+    }
+  ],
+  "timestamp": "2026-09-01T13:15:45.977268689Z",
+  "model": "glm-5.3"
+}

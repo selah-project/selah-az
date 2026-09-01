@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 19:20",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Yeşayahu, Amotsun oğlu, Hizqiyaya göndərdi ⟨deyə⟩: Belə deyir Yahve, İsrailin Elohimi: Aşşur padşahı Sannərib barəsində mənə dua etdin — mən eşitdim.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "göndərdi"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeşayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amotsun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizqiyaya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨deyə⟩"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Belə"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "התפללת",
+      "gloss": "dua etdin"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "אל",
+      "gloss": "barəsində"
+    },
+    {
+      "surface": "סנחרב",
+      "gloss": "Sannərib"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşahı"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşşur"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "eşitdim"
+    }
+  ],
+  "timestamp": "2026-09-01T12:41:55.784272697Z",
+  "model": "glm-5.3"
+}

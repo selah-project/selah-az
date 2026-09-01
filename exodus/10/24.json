@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 10:24",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Paro Moşeni çağırdı və dedi: Gedin, Yahveyə ⟨את⟩ xidmət edin; yalnız qoyunlarınız və inəkləriniz ⟨geridə⟩ qalsın; uşaqlarınız da sizinlə getsin.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "çağırdı"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Gedin"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "xidmət edin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveyə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "רק",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "qoyunlarınız"
+    },
+    {
+      "surface": "ובקרכם",
+      "gloss": "və inəkləriniz"
+    },
+    {
+      "surface": "יצג",
+      "gloss": "qalsın"
+    },
+    {
+      "surface": "גם",
+      "gloss": "da"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "uşaqlarınız"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "getsin"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "sizinlə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:07:17.355424195Z",
+  "model": "glm-5.3"
+}

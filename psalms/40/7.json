@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 40:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "Qurban və təqdimə istəmədin; qulaqlarımı mənim üçün düzəltdin; yandırma qurbanı və günah qurbanı tələb etmədin.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "qurban"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "və təqdimə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mə"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "istəmədin"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "qulaqlar"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "düzəltdin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənim üçün"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "yandırma qurbanı"
+    },
+    {
+      "surface": "וחטאה",
+      "gloss": "və günah qurbanı"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mə"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "tələb etmədin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:14:30.510944345Z",
+  "model": "glm-5.3"
+}

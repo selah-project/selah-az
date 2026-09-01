@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 6:8",
+  "book": "zechariah",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Və ⟨mələk⟩ məni səslədi və mənimlə danışdı deyərək: Bax, şimal ölkəsinə çıxanlar ⟨את⟩ ruhumu şimal ölkəsində dincəltdilər.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "və səslədi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ məni",
+      "marks": "məni"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "və danışdı"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənimlə"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Bax"
+    },
+    {
+      "surface": "היוצאים",
+      "gloss": "çıxanlar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə doğru"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ölkəsinə"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "şimal"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "dincəltdilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruhumu"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruhumu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ölkəsində"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "şimal"
+    }
+  ],
+  "timestamp": "2026-09-01T14:56:15.547495375Z",
+  "model": "glm-5.3"
+}

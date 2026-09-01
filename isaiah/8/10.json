@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Məsləhət tutun — ⟨və o⟩ puç olacaq; söz deyin — ⟨və o⟩ qalxmayacaq; çünki bizimlə El.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "məsləhət tutun"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "məsləhət"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "və puç olacaq"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "söz deyin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "söz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... yox"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "qalxmayacaq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "bizimlə"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-01T12:48:29.418095263Z",
+  "model": "glm-5.3"
+}

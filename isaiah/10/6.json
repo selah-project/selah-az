@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 10:6",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Onu dinə uymayan bir xalqın üstünə göndərəcəyəm və qəzəbim olan xalqa əmr edəcəyəm: qənimət qənimət almaq, talan talan aparmaq və onu küçələrdəki palçık kimi ayaq altı etmək üçün.",
+  "tokens": [
+    {
+      "surface": "בגוי",
+      "gloss": "bir xalqın üstünə"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "dinə uymayan"
+    },
+    {
+      "surface": "אשלחנו",
+      "gloss": "onu göndərəcəyəm"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "və"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalqa"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "qəzəbim olan"
+    },
+    {
+      "surface": "אצונו",
+      "gloss": "əmr edəcəyəm"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "qənimət"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "qənimət almaq"
+    },
+    {
+      "surface": "ולבז",
+      "gloss": "və talan"
+    },
+    {
+      "surface": "בז",
+      "gloss": "talan aparmaq"
+    },
+    {
+      "surface": "ולשימו",
+      "gloss": "və onu etmək"
+    },
+    {
+      "surface": "מרמס",
+      "gloss": "ayaq altı"
+    },
+    {
+      "surface": "כחמר",
+      "gloss": "palçık kimi"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "küçələrdəki"
+    }
+  ],
+  "timestamp": "2026-09-01T12:50:47.420306713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 1:2",
+  "book": "esther",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "O günlərdə padşah Axaşveroş, Şuşan ⟨qalasında⟩ olan hökmranlıq taxtının üstündə oturarkən.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "O günlərdə"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "o"
+    },
+    {
+      "surface": "כשבת",
+      "gloss": "oturarkən"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Axaşveroş"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "taxtının"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "hökmranlıq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olan"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "Şuşanda"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "qalası"
+    }
+  ],
+  "timestamp": "2026-09-01T16:35:23.575435517Z",
+  "model": "glm-5.3"
+}

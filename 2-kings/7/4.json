@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 7:4",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Əgər desək: Şəhərə girək — şəhərdə aclıq ⟨var⟩, orada ölərik; əgər burada otursaq, yenə ölərik. İndi isə gedin, Aram düşərgəsinə keçib təslim olaq: əgər bizi sağ saxlasalar, yaşayacağıq; əgər öldürsələr, ölərik.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "אמרנו",
+      "gloss": "desək"
+    },
+    {
+      "surface": "נבוא",
+      "gloss": "girək"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şəhərə"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "aclıq"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "şəhərdə"
+    },
+    {
+      "surface": "ומתנו",
+      "gloss": "ölərik"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "otursaq"
+    },
+    {
+      "surface": "פה",
+      "gloss": "burada"
+    },
+    {
+      "surface": "ומתנו",
+      "gloss": "ölərik"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "indi isə"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "gəlin"
+    },
+    {
+      "surface": "ונפלה",
+      "gloss": "keçib təslim olaq"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "düşərgəsinə"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "יחינו",
+      "gloss": "sağ saxlasalar"
+    },
+    {
+      "surface": "נחיה",
+      "gloss": "yaşayacağıq"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "ימיתנו",
+      "gloss": "öldürsələr"
+    },
+    {
+      "surface": "ומתנו",
+      "gloss": "ölərik"
+    }
+  ],
+  "timestamp": "2026-09-01T12:32:04.832754613Z",
+  "model": "glm-5.3"
+}

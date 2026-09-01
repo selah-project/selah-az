@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Nə vaxtadək sən, tənbəl, uzanırsan? Nə vaxt yuxundan qalxacaqsan?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "nə vaxtadək"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "nə vaxt"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "tənbəl"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "uzanırsan"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "nə vaxt"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "qalxacaqsan"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "yuxundan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:49:23.983053452Z",
+  "model": "glm-5.3"
+}

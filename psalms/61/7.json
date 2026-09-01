@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 61,
+  "translation": "Günlər padşahın günlərinin üstünə əlavə edəsən, illəri nəsil və nəsil ⟨qədər⟩ ⟨olsun⟩.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "Günlər"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "günlərinin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşahın"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "əlavə edəsən"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "illəri"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "דר",
+      "gloss": "nəsil"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "və nəsil"
+    }
+  ],
+  "timestamp": "2026-09-01T15:21:30.085394486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 7:2",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Və kohenvərlər Yahve evinə girə bilmədilər, çünki Yahvenin izzəti Yahvenin evini doldurmuşdu — ⟨את⟩ Yahvenin evi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "və ... yox"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "bilmədilər"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohenvərlər"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "girməyə"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evinə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "doldurmuşdu"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "izzəti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahvenin evi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    }
+  ],
+  "timestamp": "2026-09-01T17:14:55.105321147Z",
+  "model": "glm-5.3"
+}

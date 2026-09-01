@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 144,
+  "translation": "Yahve, insan nədir ki onu tanıyırsan, ölümlünün oğlu ki ona fikir verirsən?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nədir"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "ki onu tanıyırsan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ölümlünün"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "ki ona fikir verirsən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:45:25.500368430Z",
+  "model": "glm-5.3"
+}

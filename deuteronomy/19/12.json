@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "onda onun şəhərinin ağsaqqalları göndərər və onu oradan götürər ⟨את⟩ və onu qanın goelinin əlinə verər ⟨את⟩ və ölsün.",
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "göndərər"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ağsaqqalları"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "onun şəhərinin"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "və götürər"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu (oradan)"
+    },
+    {
+      "surface": "משם",
+      "gloss": "oradan"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "və verər"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "əlinə"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "goelin"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "qanın"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "və ölsün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:52:28.203254073Z",
+  "model": "glm-5.3"
+}

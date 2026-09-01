@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 149,
+  "translation": "Çünki Yahve Öz xalqından razıdır, məzlumları qurtuluşla bəzəyəcək.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "razıdır"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "Öz xalqından"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "bəzəyəcək"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "məzlumları"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "qurtuluşla"
+    }
+  ],
+  "timestamp": "2026-09-01T15:47:00.355591437Z",
+  "model": "glm-5.3"
+}

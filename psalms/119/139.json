@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 139,
+  "ref": "psalms 119:139",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Məni yandırdı qısqanclığım, çünki unutdular sözlərini düşmənlərim.",
+  "tokens": [
+    {
+      "surface": "צמתתני",
+      "gloss": "Məni yandırdı (məhv etdi)"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "qısqanclığım"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "unutdular"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "sözlərini"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "düşmənlərim"
+    }
+  ],
+  "timestamp": "2026-09-01T15:41:16.936822460Z",
+  "model": "glm-5.3"
+}

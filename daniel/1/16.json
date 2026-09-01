@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 1:16",
+  "book": "daniel",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "və saray növləri nəzarətçisi onların ⟨את⟩ nemətlərini və içməlik şərablarını götürüb qaldırdı, və onlara tərəvəz verdi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "və oldu"
+    },
+    {
+      "surface": "המלצר",
+      "gloss": "nəzarətçi"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "götürüb qaldırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onların nemətlərini"
+    },
+    {
+      "surface": "פתבגם",
+      "gloss": "onların nemətlərini"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "və şərab"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "içməliklərini"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "זרענים",
+      "gloss": "tərəvəz"
+    }
+  ],
+  "timestamp": "2026-09-01T16:37:11.255753917Z",
+  "model": "glm-5.3"
+}

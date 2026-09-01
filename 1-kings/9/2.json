@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Yahve Şelomoya ikinci dəfə göründü, necə ki Givonda ona görünmüşdü.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "göründü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨-a⟩"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ikinci dəfə"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "necə ki"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "görünmüşdü"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "Givonda"
+    }
+  ],
+  "timestamp": "2026-09-01T17:53:11.886513501Z",
+  "model": "glm-5.3"
+}

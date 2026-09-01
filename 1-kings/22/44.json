@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 22:44",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Ancaq bamotlar ləğv ⟨edilmədi⟩; xalq hələ də bamotlarda qurban kəsir və buxur verirdi.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ancaq"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "bamotlar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "ləğv edilmədi ⟨edilmədi⟩"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hələ də"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "qurban kəsir"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "və buxur verirdi"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "bamotlarda"
+    }
+  ],
+  "timestamp": "2026-09-01T12:27:30.336467038Z",
+  "model": "glm-5.3"
+}

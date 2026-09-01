@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "Sevir ədaləti və məhkəməni; Yahvenin hesedi ilə doludur ⟨ bütün ⟩ yer.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "Sevir"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ədaləti"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "və məhkəməni"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "doludur"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-09-01T15:10:32.941538778Z",
+  "model": "glm-5.3"
+}

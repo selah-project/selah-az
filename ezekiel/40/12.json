@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 40:12",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "Otaqların önündə sərhəd ⟨var idi⟩: bir qarış və bir qarış; sərhəd buradan ⟨və oradan⟩; otaq isə altı qarış oradan, altı qarış buradan.",
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "sərhəd"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önündə"
+    },
+    {
+      "surface": "התאות",
+      "gloss": "otaqların"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "bir qarış"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "bir"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "və bir qarış"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "bir"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "sərhəd"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "buradan"
+    },
+    {
+      "surface": "והתא",
+      "gloss": "otaq isə"
+    },
+    {
+      "surface": "שש",
+      "gloss": "altı"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "qarış"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "oradan"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "və altı"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "qarış"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "buradan"
+    }
+  ],
+  "timestamp": "2026-09-01T14:27:32.523636141Z",
+  "model": "glm-5.3"
+}

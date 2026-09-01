@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 130,
+  "translation": "Çünki Sənin yanında bağışlanma ⟨var⟩ — ⟨məqsədi⟩ ki, qorxulasan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "Sənin yanında"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "bağışlanma"
+    },
+    {
+      "surface": "למען",
+      "gloss": "⟨məqsədi⟩"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "qorxulasan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:14.674606852Z",
+  "model": "glm-5.3"
+}

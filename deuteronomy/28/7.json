@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 28:7",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "Yahve ⟨את⟩ düşmənlərini — sənə qalxanları — sənin qarşında məğlub olmuş ⟨kimi⟩ verəcək; bir yoldan sənin üstünə çıxacaqlar, yeddi yolla sənin qarşından qaçacaqlar.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "verəcək"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "düşmənlərini"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "düşmənlərini"
+    },
+    {
+      "surface": "הקמים",
+      "gloss": "qalxanları"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "נגפים",
+      "gloss": "məğlub olmuş"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sənin qarşında"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "bir yoldan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "çıxacaqlar"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sənin üstünə"
+    },
+    {
+      "surface": "ובשבעה",
+      "gloss": "yeddi yolla"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "yolla"
+    },
+    {
+      "surface": "ינוסו",
+      "gloss": "qaçacaqlar"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sənin qarşından"
+    }
+  ],
+  "timestamp": "2026-09-01T10:55:56.155933268Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 8:15",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və padşahın əmrindən — kahinlər və levililər üçün, hər işdə və xəzinələrdə — uzaqlaşmadılar.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "və ... olmadılar"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "uzaqlaşmadılar"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "əmrindən"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşahın"
+    },
+    {
+      "surface": "על",
+      "gloss": "üçün"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kahinlər"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "və levililər"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "işdə"
+    },
+    {
+      "surface": "ולאצרות",
+      "gloss": "və xəzinələrdə"
+    }
+  ],
+  "timestamp": "2026-09-01T17:15:29.801089752Z",
+  "model": "glm-5.3"
+}

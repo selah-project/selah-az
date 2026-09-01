@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 20:4",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Beləcə Aşşur məliyi ⟨את⟩ Mitsrayimin əsirliyini və ⟨את⟩ Kuşun sürgününü sürəcək — cavanlar və qocalar, çılpaq və yalınayaq, bütyaları açıq — Mitsrayimin çirkinliyi ⟨olaraq⟩.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "beləcə"
+    },
+    {
+      "surface": "ינהג",
+      "gloss": "sürəcək"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "məliki"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşşur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayimin əsirliyi"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "əsirlik"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kuşun sürgünü"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "sürgün"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuş"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "cavanlar"
+    },
+    {
+      "surface": "וזקנים",
+      "gloss": "və qocalar"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "çılpaq"
+    },
+    {
+      "surface": "ויחף",
+      "gloss": "və yalınayaq"
+    },
+    {
+      "surface": "וחשופי",
+      "gloss": "və açıq"
+    },
+    {
+      "surface": "שת",
+      "gloss": "bütyaları"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "çirkinliyi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T12:56:05.432061557Z",
+  "model": "glm-5.3"
+}

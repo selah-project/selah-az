@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Çünki hökmdar Yahve-yə güvənir və Elyonun ⟨hesed⟩-i il ⟨ilə⟩ asla sarsılmayacaq.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hökmdar"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "güvənir"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahve-yə"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "və hesed ilə"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyonun"
+    },
+    {
+      "surface": "בל",
+      "gloss": "asla"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "sarsılmayacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:07:56.044095195Z",
+  "model": "glm-5.3"
+}

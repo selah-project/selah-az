@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 76,
+  "translation": "Və Şalemdə ⟨onun⟩ çadırı oldu, və sığınacağı Sionda.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Və oldu"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "Şalemdə"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "çadırı"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "və sığınacağı"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Sionda"
+    }
+  ],
+  "timestamp": "2026-09-01T15:25:27.244284681Z",
+  "model": "glm-5.3"
+}

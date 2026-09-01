@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 9:3",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Hər kəs öz yoldaşından ehtiyat etsin, heç bir qardaşa etibar etməyin; çünki hər qardaş topuqdan yıxandır və hər yoldaş daşıcıdır, gəzib duran.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "hər kəs"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "öz yoldaşından"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "ehtiyat etsin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "⟨heç bir⟩ ... qarşı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heç bir"
+    },
+    {
+      "surface": "אח",
+      "gloss": "qardaşa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "etməyin"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "etibar etməyin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "אח",
+      "gloss": "qardaş"
+    },
+    {
+      "surface": "עקוב",
+      "gloss": "topuqdan yıxandır"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "yıxan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "və hər"
+    },
+    {
+      "surface": "רע",
+      "gloss": "yoldaş"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "daşıcıdır"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "gəzib duran"
+    }
+  ],
+  "timestamp": "2026-09-01T13:28:50.683852243Z",
+  "model": "glm-5.3"
+}

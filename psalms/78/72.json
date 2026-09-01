@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 78:72",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 78,
+  "translation": "Və onları qəlbinin təmizliyi ilə otardı, əllərinin müdrikliyi ilə onlara yol göstərdi.",
+  "tokens": [
+    {
+      "surface": "וירעם",
+      "gloss": "və onları otardı"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "təmizliyi kimi"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "qəlbinin"
+    },
+    {
+      "surface": "ובתבונות",
+      "gloss": "müdrikliyi ilə"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "əllərinin"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "yol göstərdi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:26:32.106309161Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 34:18",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 34,
+  "translation": "⟨Onlar⟩ fəryad etdilər və Yahve eşitdi, bütün sıxıntılarından onları xilas etdi.",
+  "tokens": [
+    {
+      "surface": "צעקו",
+      "gloss": "fəryad etdilər"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "və Yahve"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eşitdi"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "bütün ... -dan"
+    },
+    {
+      "surface": "צרותם",
+      "gloss": "sıxıntılarından"
+    },
+    {
+      "surface": "הצילם",
+      "gloss": "onları xilas etdi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:10:53.932427279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 148,
+  "translation": "Gənc oğlanlar və həmçinin qızlar, qocalar birlikdə gənclərlə",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "gənc oğlanlar"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "və həmçinin"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "qızlar"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "qocalar"
+    },
+    {
+      "surface": "עם",
+      "gloss": "birlikdə"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "gənclərlə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:18.774495359Z",
+  "model": "glm-5.3"
+}

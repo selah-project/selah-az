@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 4:17",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Kajin ⟨את⟩ arvadını tanıdı, o hamilə qaldı və ⟨את⟩ Hanoxu doğdu; o, şəhər tikən ikən şəhərin adını oğlu Hanoxun adına uyraq qoydu.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "tanıdı"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arvadını"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "arvadını"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "hamilə qaldı"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "doğdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hanoxu"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanoxu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ikən"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "tikən"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şəhər"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "qoydu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adını"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şəhərin"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "adına uyraq"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanoxun"
+    }
+  ],
+  "timestamp": "2026-09-01T09:46:19.071219780Z",
+  "model": "glm-5.3"
+}

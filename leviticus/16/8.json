@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 16:8",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Və Aharon iki keçinin üstünə püşklər atacaq: bir püşk Yahve üçün və bir püşk Azazel üçün.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "atacaq"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iki"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "keçinin"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "püşklər"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "bir püşk"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve üçün"
+    },
+    {
+      "surface": "וגורל",
+      "gloss": "və bir püşk"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "Azazel üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:28:07.864294071Z",
+  "model": "glm-5.3"
+}

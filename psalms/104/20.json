@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 104,
+  "translation": "Qaranlıq qoyursan və gecə olur; onda meşənin bütün heyvanları sürünür.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "qoyursan"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "qaranlıq"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "və olur"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "gecə"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onda"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "sürünür"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "heyvanları"
+    },
+    {
+      "surface": "יער",
+      "gloss": "meşənin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:34:13.980546720Z",
+  "model": "glm-5.3"
+}

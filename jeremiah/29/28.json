@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "jeremiah 29:28",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "Çünki o, bizə Babilə ⟨məktub⟩ göndərərək dedi: Uzundur — evlər tikin, oturun, bağlar əkin və onların ⟨את⟩ meyvəsini yeyin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "על",
+      "gloss": "görə"
+    },
+    {
+      "surface": "כן",
+      "gloss": "buna"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "göndərdi"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "bizə"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilə"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "uzundur"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "tikin"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "evlər"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "oturun"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "əkin"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "bağlar"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "yeyin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meyvəsini"
+    },
+    {
+      "surface": "פריהן",
+      "gloss": "onların meyvəsini"
+    }
+  ],
+  "timestamp": "2026-09-01T13:39:31.249350312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 14:16",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Sən isə çubuğunu ⟨את⟩ qaldır və əlini ⟨את⟩ dənizin üstünə uzat və onu yarıq aç; İsrail oğulları dənizin içindən quru yerdən keçəcəklər.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "sən isə"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "qaldır"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çubuğunu"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "çubuğunu"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "və uzat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əlini"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "əlini"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dənizin"
+    },
+    {
+      "surface": "ובקעהו",
+      "gloss": "onu yarıq aç"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "keçəcəklər"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "içindən"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dənizin"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "quru yerdən"
+    }
+  ],
+  "timestamp": "2026-09-01T10:09:42.800708659Z",
+  "model": "glm-5.3"
+}

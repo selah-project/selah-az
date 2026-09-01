@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 39:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 39,
+  "translation": "Üsyana qarşı məzəmmətlərlə insanı tərbiyə edirsən, arzusunu kəpənək ⟨kimi⟩ əridirsən; həqiqətən, hər insan boşluqdur. Sela.",
+  "tokens": [
+    {
+      "surface": "בתוכחות",
+      "gloss": "məzəmmətlərlə"
+    },
+    {
+      "surface": "על",
+      "gloss": "qarşı"
+    },
+    {
+      "surface": "עון",
+      "gloss": "üsyana"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "tərbiyə edirsən"
+    },
+    {
+      "surface": "איש",
+      "gloss": "insanı"
+    },
+    {
+      "surface": "ותמס",
+      "gloss": "əridirsən"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "kəpənək kimi"
+    },
+    {
+      "surface": "חמודו",
+      "gloss": "arzusunu"
+    },
+    {
+      "surface": "אך",
+      "gloss": "həqiqətən"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "boşluqdur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-01T15:13:47.009269339Z",
+  "model": "glm-5.3"
+}

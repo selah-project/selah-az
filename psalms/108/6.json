@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 108:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 108,
+  "translation": "Yüksəl, ey Elohim, göylərin üstündə, və sənin izzətin bütün yerin üstündə ⟨olsun⟩.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "yüksəl"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "göylərin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "və üstündə"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "sənin izzətin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:02.287134875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 21:8",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Və uşaq böyüdü və süddən kəsildi; və Avraham Yitsakin süddən kəsildiyi gün böyük ziyafət etdi.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "Və ... böyüdü"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "uşaq"
+    },
+    {
+      "surface": "ויגמל",
+      "gloss": "və süddən kəsildi"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "və ... etdi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ziyafət"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "süddən kəsildiyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitsak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsak"
+    }
+  ],
+  "timestamp": "2026-09-01T09:51:18.514190206Z",
+  "model": "glm-5.3"
+}

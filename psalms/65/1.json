@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 65,
+  "translation": "Dirijora ⟨məxsusdir⟩. Davudun məzmuru. Mahnı.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Dirijora"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "məzmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davudun"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "Mahnı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:21:43.573815925Z",
+  "model": "glm-5.3"
+}

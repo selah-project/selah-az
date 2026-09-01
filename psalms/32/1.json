@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Davuda məxsus, öyüd verici ⟨məqam⟩. Nə xoşbəxtdir üsyankarlığı daşınmış, günahı örtülmüş kimsə.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davuda məxsus"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "öyüd verici"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "nə xoşbəxtdir"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "daşınmış"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "üsyankarlıq"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "örtülmüş"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "günah"
+    }
+  ],
+  "timestamp": "2026-09-01T15:11:42.229763664Z",
+  "model": "glm-5.3"
+}

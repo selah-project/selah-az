@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 13:20",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Əbədi məskun tutmayacaq, nəsil-nəsilə qədər yaşaymayacaq; orada ərəb çadır qurmayacaq və çobanlar orada yatırtmayacaqlar.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "məskun tutmayacaq"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "תשכן",
+      "gloss": "yaşaymayacaq"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "דור",
+      "gloss": "nəsil"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "nəsilə"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "יהל",
+      "gloss": "çadır qurmayacaq"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "ערבי",
+      "gloss": "ərəb"
+    },
+    {
+      "surface": "ורעים",
+      "gloss": "çobanlar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "yatırtmayacaqlar"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    }
+  ],
+  "timestamp": "2026-09-01T12:51:32.894949075Z",
+  "model": "glm-5.3"
+}

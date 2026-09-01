@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 16:9",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Səni suda yundum, qanını səndən yudu və səni yağla məsh etdim.",
+  "tokens": [
+    {
+      "surface": "וארחצך",
+      "gloss": "səni yundum"
+    },
+    {
+      "surface": "במים",
+      "gloss": "suda"
+    },
+    {
+      "surface": "ואשטף",
+      "gloss": "yudum"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "qanını"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "səndən"
+    },
+    {
+      "surface": "ואסכך",
+      "gloss": "səni məsh etdim"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "yağla"
+    }
+  ],
+  "timestamp": "2026-09-01T14:08:10.439340344Z",
+  "model": "glm-5.3"
+}

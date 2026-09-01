@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 115:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 115,
+  "translation": "Ey İsrail, Yahveyə etibar et; onların köməyi və onların qalxanı Odur.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "etibar et"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "onların köməyi"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "və onların qalxanı"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Odur"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:40.904337039Z",
+  "model": "glm-5.3"
+}

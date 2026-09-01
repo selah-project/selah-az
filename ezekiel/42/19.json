@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 42:19",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 42,
+  "translation": "Qərb tərəfinə tərəf dönüb ölçdü — beş yüz qamış, ölçü qamışı ilə.",
+  "tokens": [
+    {
+      "surface": "סבב",
+      "gloss": "dönüb"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tərəfinə tərəf"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "tərəfi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "qərb (dəniz)"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "ölçdü"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "beş"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "qamış"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "qamışı ilə"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "ölçü"
+    }
+  ],
+  "timestamp": "2026-09-01T14:27:32.887408485Z",
+  "model": "glm-5.3"
+}

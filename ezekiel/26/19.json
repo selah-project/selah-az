@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 26:19",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Çünki Adonay Yahve belə dedi: səni məskunlaşmamış şəhərlər kimi viran şəhər etdiyimdə, Tehomu sənin üstünə qaldırandan sonra, bol sular səni örtəcək.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "כה",
+      "gloss": "belə"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בתתי",
+      "gloss": "etdiyimdə"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "viran şəhər"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şəhər"
+    },
+    {
+      "surface": "נחרבת",
+      "gloss": "viran"
+    },
+    {
+      "surface": "כערים",
+      "gloss": "şəhərlər kimi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "נושבו",
+      "gloss": "məskunlaşmamış"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "qaldıranda"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sənin üstünə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tehom"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "Tehom"
+    },
+    {
+      "surface": "וכסוך",
+      "gloss": "və örtəcək"
+    },
+    {
+      "surface": "המים",
+      "gloss": "sular"
+    },
+    {
+      "surface": "הרבים",
+      "gloss": "bol"
+    }
+  ],
+  "timestamp": "2026-09-01T14:19:48.057950738Z",
+  "model": "glm-5.3"
+}

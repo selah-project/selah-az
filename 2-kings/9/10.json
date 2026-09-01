@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 9:10",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Və ⟨את⟩ İzveli itlər Yizreelin payında yeyəcəklər, və dəfn edən ⟨olmayacaq⟩; və ⟨o⟩ qapını açdı və qaçdı.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "İzveli"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "İzveli"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "yeyəcəklər"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "itlər"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "payında"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreelin"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "və yoxdur"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "dəfn edən"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "və açdı"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "qapını"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "və qaçdı"
+    }
+  ],
+  "timestamp": "2026-09-01T12:34:13.129621062Z",
+  "model": "glm-5.3"
+}

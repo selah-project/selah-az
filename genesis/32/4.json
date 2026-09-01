@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 32:4",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Yaqub öndə elçilər göndərdi qardaşı Esavın yanına, Şeir diyarına, Edom sahəsinə.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "göndərdi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqub"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "elçilər"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "öndə"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavın"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "qardaşı"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "diyarına"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Şeir"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "sahəsi"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-01T09:56:43.280939506Z",
+  "model": "glm-5.3"
+}

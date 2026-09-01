@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 4:11",
+  "book": "lamentations",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Yahve ⟨את⟩ qəzəbini tamamladı, öfəsinin alovunu tökdü və Sionda od yandırdı, ⟨o⟩ da onun təməllərini yandırdı.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "tamamladı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qəzəbini"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "qəzəbini"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "tökdü"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "alovunu"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "öz qəzəbinin"
+    },
+    {
+      "surface": "ויצת",
+      "gloss": "və yandırdı"
+    },
+    {
+      "surface": "אש",
+      "gloss": "od"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Sionda"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "və yandırdı ⟨o⟩ da"
+    },
+    {
+      "surface": "יסודתיה",
+      "gloss": "onun təməllərini"
+    }
+  ],
+  "timestamp": "2026-09-01T16:26:55.375927130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 107:19",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 107,
+  "translation": "Sıxıntı ⟨içində⟩ Yahve-yə fəryad etdilər, öz dərdlərindən onları xilas etdi.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "fəryad etdilər"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-yə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "sıxıntıda"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onların"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "dərdlərindən"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "onları xilas etdi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:52.335293060Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 1:19",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Yahve Moşeyə ⟨את⟩ nə buyurmuşdusa, elə də onları Sina səhrasında saydı.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "nə kimi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurmuşdusa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşeyə"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "onları saydı"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "səhrasında"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sina"
+    }
+  ],
+  "timestamp": "2026-09-01T10:32:36.214300390Z",
+  "model": "glm-5.3"
+}

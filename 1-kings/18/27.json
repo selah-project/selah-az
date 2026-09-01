@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 18:27",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Günorta vaxtı oldu və Eliyahu onlarla istehza etdi və dedi: Bərkdən səslənib çağırın, çünki o, ilahdır; çünki o, düşüncəyə dalıb, ya çəkilib gedib, ya yoldadır; bəlkə də yatıbdır və oyanmalıdır.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "günorta vaxtı"
+    },
+    {
+      "surface": "ויהתל",
+      "gloss": "istehza etdi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onlarla"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "çağırın"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "səslə"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "bərkdən"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ilahdır"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "שיח",
+      "gloss": "düşüncəyə dalıb"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ya"
+    },
+    {
+      "surface": "שיג",
+      "gloss": "çəkilib gedib"
+    },
+    {
+      "surface": "לו",
+      "gloss": "o"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ya"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yoldadır"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onun üçün"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "bəlkə də"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "yatıbdır"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ויקץ",
+      "gloss": "oyanmalıdır"
+    }
+  ],
+  "timestamp": "2026-09-01T12:25:39.569972361Z",
+  "model": "glm-5.3"
+}

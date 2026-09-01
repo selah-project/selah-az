@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "daniel 8:26",
+  "book": "daniel",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və axşamın və səhərin görünüşü — deyilən ⟨doğrudur⟩; sən isə görünüşü möhürlə, çünki çox günlər ⟨sonrasınadır⟩.",
+  "tokens": [
+    {
+      "surface": "ומראה",
+      "gloss": "və görünüşü"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "axşamın"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "və səhərin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deyilən"
+    },
+    {
+      "surface": "נאמר",
+      "gloss": "deyilən"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "doğrudur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "sən isə"
+    },
+    {
+      "surface": "סתם",
+      "gloss": "möhürlə"
+    },
+    {
+      "surface": "החזון",
+      "gloss": "görünüşü"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "günlər"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "çox"
+    }
+  ],
+  "timestamp": "2026-09-01T16:43:16.844238826Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Və Yahve sənin Elohiminin səsinə qulaq asacaqsan və onun əmrlərini ⟨את⟩ və onun qanunlarını ⟨את⟩ yerinə yetirəcəksən, hansı ki mən sənə bu gün əmr edirəm.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "və qulaq asacaqsan"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "səsinə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sənin Elohimin"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "və yerinə yetirəcəksən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onun əmrlərini"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "onun əmrləri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "onun qanunlarını"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "onun qanunları"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hansı ki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mən"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "sənə əmr edirəm"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bu gün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:53:55.024103827Z",
+  "model": "glm-5.3"
+}

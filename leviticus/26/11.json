@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Mən məskənimi sizin aranızda qoyacağam və canım sizi ⟨את⟩ iyrənməyəcək.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "qoyacağam"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "məskənimi"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "sizin aranızda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və... -yəcək"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "iyrənməyəcək"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizi"
+    }
+  ],
+  "timestamp": "2026-09-01T17:57:03.152311977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Və kahen onları ⟨את⟩ altar üstündə yandıracaq, Yahve üçün od qurbanı kimi; o, günah qurbanıdır.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "və yandıracaq"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onları (piy hissələrini)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahen"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "altar üstündə"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "od qurbanı"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve üçün"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "günah qurbanı"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o ⟨dir⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T10:23:19.409952922Z",
+  "model": "glm-5.3"
+}

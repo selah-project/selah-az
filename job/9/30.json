@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 9:30",
+  "book": "job",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Əgər özümü qarla yusaydım və əllərimi duru ağartma ilə ağartsaydım —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Əgər"
+    },
+    {
+      "surface": "התרחצתי",
+      "gloss": "özümü yusaydım"
+    },
+    {
+      "surface": "במו",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "qarla"
+    },
+    {
+      "surface": "והזכותי",
+      "gloss": "və ağartsaydım"
+    },
+    {
+      "surface": "בבר",
+      "gloss": "duru ağartma ilə"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "əllərimi"
+    }
+  ],
+  "timestamp": "2026-09-01T16:06:30.458296114Z",
+  "model": "glm-5.3"
+}

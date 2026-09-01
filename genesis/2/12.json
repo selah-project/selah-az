@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "O torpağın qızılı yaxşıdır; orada bedolax və şoham daşı var.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "qızılı"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "torpağın"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşıdır"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "bedolax"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "daşı"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "şoham"
+    }
+  ],
+  "timestamp": "2026-09-01T09:45:42.946538061Z",
+  "model": "glm-5.3"
+}

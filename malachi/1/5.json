@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "malachi 1:5",
+  "book": "malachi",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Gözləriniz görəcək və siz deyəcəksiniz: Yahve İsrailin sərhədindən böyükdür.",
+  "tokens": [
+    {
+      "surface": "ועיניכם",
+      "gloss": "gözləriniz"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "görəcək"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "və siz"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "deyəcəksiniz"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "böyükdür"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "-dən yuxarı"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "sərhədindən"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:00:13.016408761Z",
+  "model": "glm-5.3"
+}

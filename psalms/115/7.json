@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 115,
+  "translation": "Əlləri ⟨var⟩, amma toxunmurlar; ayaqları ⟨var⟩, amma gəzmirlər; nəfəslərindən səs çıxarmırlar.",
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "əlləri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "toxunmurlar"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "ayaqları"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "gəzmirlər"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nə... çıxarmırlar"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "səs çıxarmırlar"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "nəfəslərindən (boğazlarında)"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:10.927827590Z",
+  "model": "glm-5.3"
+}

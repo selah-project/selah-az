@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 7:23",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Zəncir düzəlt, çünki ölkə qan hökmləri ilə doludur, və şəhər zorakılıqla doludur.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "düzəlt"
+    },
+    {
+      "surface": "הרתוק",
+      "gloss": "zəncir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ölkə"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "doludur"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hökmləri"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "qan"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "şəhər"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "doludur"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "zorakılıqla"
+    }
+  ],
+  "timestamp": "2026-09-01T14:01:07.153878601Z",
+  "model": "glm-5.3"
+}

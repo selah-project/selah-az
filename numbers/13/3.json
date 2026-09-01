@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 13:3",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Və Moşe onları, Yahvenin ⟨ağzı ilə⟩, Paran səhrasından göndərdi; hamısı adamlar idilər, Yisrael övladlarının başçıları, onlar ⟨idi⟩.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "göndərdi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onları",
+      "marks": "onları"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "səhrasından"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ə görə"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "hamısı"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "adamlar"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "başçıları"
+    },
+    {
+      "surface": "בני",
+      "gloss": "övladlarının"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    }
+  ],
+  "timestamp": "2026-09-01T10:37:31.646599977Z",
+  "model": "glm-5.3"
+}

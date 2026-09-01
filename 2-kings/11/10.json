@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Və kahin yüzbaşılara ⟨את⟩ nizəni və ⟨את⟩ qalxanları verdi — kral Davudə aid olan, Yahvein evində olanları.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "yüzbaşılara"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "yüzlərin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nizəni"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "nizəni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qalxanları"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "qalxanları"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "krala aid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "evində"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T12:36:32.506185978Z",
+  "model": "glm-5.3"
+}

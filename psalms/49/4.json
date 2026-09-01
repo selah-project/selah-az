@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 49,
+  "translation": "Ağızım hikmətlər danışacaq, ürəyimin təfəkkürü dərk etmələr ⟨olacaq⟩.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "Ağızım"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "danışacaq"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "hikmətlər"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "və təfəkkürü"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ürəyimin"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "dərk etmələr"
+    }
+  ],
+  "timestamp": "2026-09-01T15:16:39.588145877Z",
+  "model": "glm-5.3"
+}

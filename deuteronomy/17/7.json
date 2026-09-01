@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 17:7",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Şahidlərin əli onda olacaq birinci, onu öldürmək üçün, və bütün xalqın əli sonra; və pisi öz içindən yox edəcəksən.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "əli"
+    },
+    {
+      "surface": "העדים",
+      "gloss": "şahidlərin"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onda"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "birinci"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "onu öldürmək üçün"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "və əli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqın"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "sonra"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "yox edəcəksən"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "pis"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "öz içindən"
+    }
+  ],
+  "timestamp": "2026-09-01T10:52:46.519502617Z",
+  "model": "glm-5.3"
+}

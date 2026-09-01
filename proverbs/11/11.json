@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 11:11",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Düzgünlərin xeyir-duası ilə şəhər ⟨ucaldılar⟩, şərirlərin ağzı ilə ⟨isə⟩ dağıdar.",
+  "tokens": [
+    {
+      "surface": "בברכת",
+      "gloss": "xeyir-duası ilə"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "düzgünlərin"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "ucaldılar"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "şəhər"
+    },
+    {
+      "surface": "ובפי",
+      "gloss": "və ağzı ilə"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "şərirlərin"
+    },
+    {
+      "surface": "תהרס",
+      "gloss": "dağıdar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:51:27.900372284Z",
+  "model": "glm-5.3"
+}

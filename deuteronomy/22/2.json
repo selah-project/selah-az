@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 22:2",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Və əgər qardaşın sənə yaxın deyilsə və ya onu tanımırsansa, onu evinin içinə yığacaqsan və o, qardaşın onu axtarana qədər səninlə ⟨olacaq⟩; sonra onu ona qaytaracaqsan.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "yaxın"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "qardaşın"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "ידעתו",
+      "gloss": "onu tanıyırsan"
+    },
+    {
+      "surface": "ואספתו",
+      "gloss": "onu yığacaqsan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "içinə"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "içinə"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "evin"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "və ⟨olacaq⟩"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "səninlə"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "axtarana"
+    },
+    {
+      "surface": "אחיק",
+      "gloss": "qardaşın"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu (heyvanı)"
+    },
+    {
+      "surface": "והשבתו",
+      "gloss": "qaytaracaqsan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-09-01T10:53:29.248589456Z",
+  "model": "glm-5.3"
+}

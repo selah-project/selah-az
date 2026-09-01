@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 44,
+  "translation": "Bizi xalqlar arasında ⟨⟨məsəl⟩⟩, ümmətlərdə baş yelləməsi qoyursan.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "qoyursan bizi"
+    },
+    {
+      "surface": "משל",
+      "gloss": "məsəl"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "xalqlar arasında"
+    },
+    {
+      "surface": "מנוד",
+      "gloss": "yelləmə"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "baş"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ümmətlərdə"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "ümmətlər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:15:16.085230621Z",
+  "model": "glm-5.3"
+}

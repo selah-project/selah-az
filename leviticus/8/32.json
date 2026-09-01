@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və ətdən və çörəkdən qalan artığı isə odda yandırın.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "və qalan artığı"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "ətdən"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "və çörəkdən"
+    },
+    {
+      "surface": "באש",
+      "gloss": "odda"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "yandırın"
+    }
+  ],
+  "timestamp": "2026-09-01T10:24:56.679231133Z",
+  "model": "glm-5.3"
+}

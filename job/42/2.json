@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 42:2",
+  "book": "job",
+  "lang": "az",
+  "chapter": 42,
+  "translation": "Bilirsən ki sən hər şeyə qadirsən, və səndən heç bir ⟨məqsəd⟩ ⟨bağlı⟩ qala bilməz.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "bilirsən"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər şey"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "qadirsən"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və … bilməz"
+    },
+    {
+      "surface": "יבצר",
+      "gloss": "⟨bağlı⟩ qala"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "səndən"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "⟨məqsəd⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T16:20:42.302735169Z",
+  "model": "glm-5.3"
+}

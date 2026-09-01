@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 21:12",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Keşikçi dedi: Səhər gəlir, həm də gecə. Soruşmaq istəyirsinizsə, soruşun; qayıdın, gəlin!",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Keşikçi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gəlir"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "Səhər"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "həm də"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "gecə"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "תבעיון",
+      "gloss": "soruşmaq istəyirsinizsə"
+    },
+    {
+      "surface": "בעיו",
+      "gloss": "soruşun"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "qayıdın"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "gəlin"
+    }
+  ],
+  "timestamp": "2026-09-01T12:53:56.146760013Z",
+  "model": "glm-5.3"
+}

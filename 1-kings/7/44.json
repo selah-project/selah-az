@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Və ⟨את⟩ bir dəniz, və ⟨את⟩ on iki öküz — dənizin altında.",
+  "tokens": [
+    {
+      "surface": "וים",
+      "gloss": "və ⟨את⟩",
+      "marks": "dənizi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dənizi"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "öküzləri"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "öküzləri"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iki"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "on"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dənizin"
+    }
+  ],
+  "timestamp": "2026-09-01T12:12:32.695959266Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 9:14",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "çünki bu dəfə mən bütün vəbalarımı ⟨את⟩ ürəyinə, qullarına və xalqına göndərirəm, ⟨bunun üçün⟩ ki, biləsən: bütün yerdə Mənim kimimə bərabəri yoxdur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "bu dəfə"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "göndərirəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün vəbalarımı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מגפתי",
+      "gloss": "vəbalarım"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ürəyin"
+    },
+    {
+      "surface": "ובעבדיך",
+      "gloss": "və qullarına"
+    },
+    {
+      "surface": "ובעמך",
+      "gloss": "və xalqına"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "⟨bunun üçün⟩ ki"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "biləsən"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "כמני",
+      "gloss": "Mənim kimimə bərabəri"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerdə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:07:19.067309244Z",
+  "model": "glm-5.3"
+}

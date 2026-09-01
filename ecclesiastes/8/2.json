@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Mən ⟨deyirəm⟩: kralın ağzını qoru, və Elohim andının uğrunda.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzını"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "qoru"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "və ... uğrunda"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "uğrunda"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "andının"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T16:32:00.632311579Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 6:5",
+  "book": "nehemiah",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Sanballat bu söz üzrə beşinci dəfə mənə ⟨את⟩ qulunu göndərdi, və əlində açıq məktub ⟨idi⟩.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "göndərdi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "סנבלט",
+      "gloss": "Sanballat"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "söz üzrə"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "dəfə"
+    },
+    {
+      "surface": "חמישית",
+      "gloss": "beşinci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qulunu"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "qulunu"
+    },
+    {
+      "surface": "ואגרת",
+      "gloss": "və məktub"
+    },
+    {
+      "surface": "פתוחה",
+      "gloss": "açıq"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "əlində"
+    }
+  ],
+  "timestamp": "2026-09-01T17:45:54.861535421Z",
+  "model": "glm-5.3"
+}

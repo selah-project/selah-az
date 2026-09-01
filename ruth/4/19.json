@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ruth 4:19",
+  "book": "ruth",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Hetsron ⟨את⟩ Ramı dünyaya gətirdi, Ram isə ⟨את⟩ Amminadavı dünyaya gətirdi.",
+  "tokens": [
+    {
+      "surface": "וחצרון",
+      "gloss": "Hetsron"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dünyaya gətirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ramı"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ramı"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "Ram isə"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dünyaya gətirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amminadavı"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Amminadavı"
+    }
+  ],
+  "timestamp": "2026-09-01T16:23:50.088580856Z",
+  "model": "glm-5.3"
+}

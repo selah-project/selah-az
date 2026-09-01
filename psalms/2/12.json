@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 2:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Oğula qulluq edin, yoxsa öfkələnər və yolda məhv olarsınız; çünki qəzəbi az qala alova dönəcək. Ona sığınanların hamısı nə xoşbəxtdir!",
+  "tokens": [
+    {
+      "surface": "נשקו",
+      "gloss": "qulluq edin"
+    },
+    {
+      "surface": "בר",
+      "gloss": "Oğula"
+    },
+    {
+      "surface": "פן",
+      "gloss": "yoxsa"
+    },
+    {
+      "surface": "יאנף",
+      "gloss": "öfkələnər"
+    },
+    {
+      "surface": "ותאבדו",
+      "gloss": "və məhv olarsınız"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yolda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "alova dönəcək"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "az qala"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "qəzəbi"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "nə xoşbəxtdir"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamısı"
+    },
+    {
+      "surface": "חוסי",
+      "gloss": "sığınanların"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-09-01T15:00:55.992143119Z",
+  "model": "glm-5.3"
+}

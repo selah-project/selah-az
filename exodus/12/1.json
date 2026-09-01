@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 12:1",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Yahve Moşeyə və Ahrona Mitsrayim torpağında dedi ⟨belə deyərək⟩:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və -ə"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahron"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "torpağında"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "belə deyərək"
+    }
+  ],
+  "timestamp": "2026-09-01T10:08:14.474412209Z",
+  "model": "glm-5.3"
+}

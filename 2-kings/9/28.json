@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 9:28",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Və mindirdilər ⟨את⟩ onu — onun qulları — Yeruşalayma, və dəfn etdilər ⟨את⟩ onu məzarında, ataları ilə, Davud şəhərində.",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "və mindirdilər"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "onun qulları"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "Yeruşalayma"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "və dəfn etdilər"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "məzarında"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ataları"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "şəhərində"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davudun"
+    }
+  ],
+  "timestamp": "2026-09-01T12:36:13.938971633Z",
+  "model": "glm-5.3"
+}

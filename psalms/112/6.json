@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 112,
+  "translation": "Çünki əbədi olaraq sarsılmayacaq; saleh ⟨adam⟩ əbədi yaddaşda olacaq.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədi olaraq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "sarsılmayacaq"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "yaddaşda"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "saleh adam"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:01.694074491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 39:20",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 39,
+  "translation": "Yosefin ağası onu ⟨את⟩ götürdü və onu kralın məhbuslarının bağlandığı yerə, həbsxanaya saldı; və o, həbsxanada ⟨orada⟩ qaldı.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "götürdü"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ağası"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "onu ⟨את⟩",
+      "marks": "onu (Yosef)"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "saldı"
+    },
+    {
+      "surface": "אל",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "həbsxana"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "yerə"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אסורי",
+      "gloss": "məhbusları"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "bağlanır"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "və oldu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "evində"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "həbsxana"
+    }
+  ],
+  "timestamp": "2026-09-01T17:55:26.627213729Z",
+  "model": "glm-5.3"
+}

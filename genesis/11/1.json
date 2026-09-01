@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Və bütün yer ⟨idi⟩ bir dil ⟨və⟩ sözlər bir idi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Və oldu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "dil"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "bir"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "⟨və⟩ sözlər"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "bir idi"
+    }
+  ],
+  "timestamp": "2026-09-01T09:49:12.886519033Z",
+  "model": "glm-5.3"
+}

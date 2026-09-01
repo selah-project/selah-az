@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Və ⟨את⟩ İsrail oğlanlarının gənclərini göndərdi, və onlar yandırma qurbanları qaldırdılar və Yahveyə sülh qurbanları — buzovlar kəsdilər.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "və göndərdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsrail oğlanlarının gənclərini"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "gənclərini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğlanlarının"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "və qaldırdılar"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "yandırma qurbanları"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "və kəsdilər"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "qurbanlar"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "sülh qurbanları"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "buzovlar"
+    }
+  ],
+  "timestamp": "2026-09-01T10:15:32.300912321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Yehoşua səhər tez durdu və kahinlər Yahvenin sandığını götürdülər.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "səhər tez durdu"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "səhər"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "götürdülər"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kahinlər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahvenin sandığını"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandığını"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    }
+  ],
+  "timestamp": "2026-09-01T11:02:15.293622375Z",
+  "model": "glm-5.3"
+}

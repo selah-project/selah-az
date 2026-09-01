@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 6:21",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Və saxsı qab ki, onda bişirilərsə, sınırlar; və əgər tunc qabda bişirilmişsə, sıyırtılar və su ilə yuyular.",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "və qab"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "saxsı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תבשל",
+      "gloss": "bişirilərsə"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onda"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "sınırlar"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "qabda"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tunc"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "bişirilmişsə"
+    },
+    {
+      "surface": "ומרק",
+      "gloss": "sıyırtılar"
+    },
+    {
+      "surface": "ושטף",
+      "gloss": "və yuyular"
+    },
+    {
+      "surface": "במים",
+      "gloss": "su ilə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:23:04.403074Z",
+  "model": "glm-5.3"
+}

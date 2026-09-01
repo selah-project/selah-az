@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 9:2",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Kəsdi öz kəsdiklərini, qarışdırdı öz şərabını, həmçinin düzəltdi öz süfrəsini.",
+  "tokens": [
+    {
+      "surface": "טבחה",
+      "gloss": "kəsdi"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "öz kəsdiklərini"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "qarışdırdı"
+    },
+    {
+      "surface": "יינה",
+      "gloss": "öz şərabını"
+    },
+    {
+      "surface": "אף",
+      "gloss": "həmçinin"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "düzəltdi"
+    },
+    {
+      "surface": "שלחנה",
+      "gloss": "öz süfrəsini"
+    }
+  ],
+  "timestamp": "2026-09-01T15:51:00.218206859Z",
+  "model": "glm-5.3"
+}

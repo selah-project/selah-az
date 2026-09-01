@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 17:11",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Və belə oldu: Moşe əlini qaldırdıqda İsrail qalib gəlirdi, və əlini endirdikdə Amalek qalib gəlirdi.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "və belə oldu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "-dıqda"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "qaldırdıqda"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "əlini"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "qalib gəlirdi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "və -dıqda"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "endirdikdə"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "əlini"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "qalib gəlirdi"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    }
+  ],
+  "timestamp": "2026-09-01T10:11:30.455335666Z",
+  "model": "glm-5.3"
+}

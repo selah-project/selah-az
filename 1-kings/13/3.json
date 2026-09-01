@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 13:3",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Və ⟨o⟩ günü bir əlamət verdi, deyərək: budur Yahvenin danışdığı əlamət: bax, məhbəd çatlayacaq və onun üstündəki kül töküləcək.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "və verdi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "günü"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "əlamət"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "זה",
+      "gloss": "budur"
+    },
+    {
+      "surface": "המופת",
+      "gloss": "əlamət"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "danışdığı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "məhbəd"
+    },
+    {
+      "surface": "נקרע",
+      "gloss": "çatlayacaq"
+    },
+    {
+      "surface": "ונשפך",
+      "gloss": "və töküləcək"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "kül"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üstündəki"
+    }
+  ],
+  "timestamp": "2026-09-01T12:19:59.372613779Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 11:12",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Və hər şəhərdə ⟨o⟩ qalxanlar və nizələr ⟨qoydu⟩, onları çox-çox möhkəmləndirdi; beləliklə Yehuda və Benyamin onun ⟨oldular⟩.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "və hər"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şəhərdə"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "şəhər"
+    },
+    {
+      "surface": "צנות",
+      "gloss": "qalxanlar"
+    },
+    {
+      "surface": "ורמחים",
+      "gloss": "nizələr"
+    },
+    {
+      "surface": "ויחזקם",
+      "gloss": "onları möhkəmləndirdi"
+    },
+    {
+      "surface": "להרבה",
+      "gloss": "çox-çox"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "dərəcədə"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onun"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "Benyamin"
+    }
+  ],
+  "timestamp": "2026-09-01T17:47:20.228357530Z",
+  "model": "glm-5.3"
+}

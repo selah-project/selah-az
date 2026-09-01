@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Pislik xəzinələri fayda verməz, ama ədalət ölümdən qurtarar.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "fayda verməz"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "xəzinələri"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "pislik"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ama ədalət"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "qurtarar"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ölümdən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:50:59.859781423Z",
+  "model": "glm-5.3"
+}

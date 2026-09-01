@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 146,
+  "translation": "Göyləri və yeri, ⟨את⟩ dənizi və ⟨את⟩ içərilərində olan hər şeyi yaradan, haqqı əbədi qoruyan.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "yaradan"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "göyləri"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "və yeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dənizi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dənizi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "hər şeyi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər şeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olan"
+    },
+    {
+      "surface": "בם",
+      "gloss": "içərilərində"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "qoruyan"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "haqqı"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:47:11.646144594Z",
+  "model": "glm-5.3"
+}

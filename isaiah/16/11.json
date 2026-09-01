@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 16:11",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Buna görə bağırsaqlarım Moab ⟨üçün⟩ kirtənə ⟨kimi⟩ səslənər, içimdəki isə Kir-Hereş ⟨üçün⟩.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "buna görə"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "מעי",
+      "gloss": "bağırsaqlarım"
+    },
+    {
+      "surface": "למואב",
+      "gloss": "Moab üçün"
+    },
+    {
+      "surface": "ככנור",
+      "gloss": "kirtənə kimi"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "səslənər"
+    },
+    {
+      "surface": "וקרבי",
+      "gloss": "içimdəki isə"
+    },
+    {
+      "surface": "לקיר",
+      "gloss": "Kir-"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "Hereş üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T12:54:02.526857346Z",
+  "model": "glm-5.3"
+}

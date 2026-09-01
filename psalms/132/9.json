@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 132:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 132,
+  "translation": "Kahinlərin ədalət geyinsin, hesedinlərin ⟨isə⟩ sevincdən nida etsinlər.",
+  "tokens": [
+    {
+      "surface": "כהניך",
+      "gloss": "kahinlərin"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "geyinsinlər"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ədalət"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "hesedinlərin"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "nida etsinlər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:11.396916786Z",
+  "model": "glm-5.3"
+}

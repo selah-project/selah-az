@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 3:21",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Yahve Elohim Adəm üçün və arvadı üçün dəri köynəklər düzəltdi və onları geyindirdi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "düzəltdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "Adəm üçün"
+    },
+    {
+      "surface": "ולאשתו",
+      "gloss": "və arvadı üçün"
+    },
+    {
+      "surface": "כתנות",
+      "gloss": "köynəklər"
+    },
+    {
+      "surface": "עור",
+      "gloss": "dəri"
+    },
+    {
+      "surface": "וילבשם",
+      "gloss": "onları geyindirdi"
+    }
+  ],
+  "timestamp": "2026-09-01T09:46:29.879763849Z",
+  "model": "glm-5.3"
+}

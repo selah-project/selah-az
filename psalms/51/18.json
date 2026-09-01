@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 51:18",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 51,
+  "translation": "Çünki qurban istəmirsən, ⟨yoxsa⟩ verərdim; yandırma qurbanından razı qalmazsan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "istəmirsən"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "qurban"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "verərdim"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "yandırma qurbanı"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "razı qalmazsan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:18:05.259115327Z",
+  "model": "glm-5.3"
+}

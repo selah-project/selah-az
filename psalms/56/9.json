@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 56:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 56,
+  "translation": "Sərgüzəştlərimi saymısan Sən; göz yaşlarımı tulduğuna qoy; məgər Sənin kitabında deyillər?",
+  "tokens": [
+    {
+      "surface": "נדי",
+      "gloss": "sərgüzəştlərimi"
+    },
+    {
+      "surface": "ספרתה",
+      "gloss": "saymısan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sən"
+    },
+    {
+      "surface": "שימה",
+      "gloss": "qoy"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "göz yaşlarımı"
+    },
+    {
+      "surface": "בנאדך",
+      "gloss": "tulğununa"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "məgər yox"
+    },
+    {
+      "surface": "בספרתך",
+      "gloss": "kitabında"
+    }
+  ],
+  "timestamp": "2026-09-01T15:18:10.579354837Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Elohim, Yisraeli bütün sıxıntılarından fidyə ilə azad etsin.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "fidyə ilə azad etsin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "sıxıntılarından"
+    }
+  ],
+  "timestamp": "2026-09-01T15:07:53.646676435Z",
+  "model": "glm-5.3"
+}

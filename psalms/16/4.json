@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Onların ağrıları çoxalacaq — başqasının ardınca tələsənlərin; onların qan libasyonlarını mən tökməyəcəyəm, və ⟨את⟩ onların adlarını dodaqlarım üstünə daşımayacağam.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "çoxalacaq"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "onların ağrıları"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "başqasının"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "ardınca tələsənlərin"
+    },
+    {
+      "surface": "בל",
+      "gloss": "yox"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "tökməyəcəyəm"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "onların libasyonları"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "qandan"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "daşımayacağam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onların adlarını"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "onların adlarını"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "dodaqlarım"
+    }
+  ],
+  "timestamp": "2026-09-01T15:04:35.191244213Z",
+  "model": "glm-5.3"
+}

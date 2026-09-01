@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 88:13",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 88,
+  "translation": "Qaranlıqda möcüzələrin bilinəcəkmi, ölümlər diyarında sənin salehliyin?",
+  "tokens": [
+    {
+      "surface": "היודע",
+      "gloss": "bilinəcəkmi"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "qaranlıqda"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "möcüzələrin"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "sənin salehliyin"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "diyarında"
+    },
+    {
+      "surface": "נשיה",
+      "gloss": "ölümlər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:26.052462741Z",
+  "model": "glm-5.3"
+}

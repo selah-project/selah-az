@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 106:15",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 106,
+  "translation": "Və onlara istəklərini verdi, lakin arıqlığı canlarına göndərdi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "שאלתם",
+      "gloss": "istəklərini"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "göndərdi"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "arıqlığı"
+    },
+    {
+      "surface": "בנפשם",
+      "gloss": "canlarına"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:02.914430788Z",
+  "model": "glm-5.3"
+}

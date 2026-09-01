@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 38:11",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 38,
+  "translation": "Və şimal tərəfdən yüz qulac; onların sütunları iyirmi, onların altlıqları iyirmi — tuncdan; sütunların qarmaqları və onların halqaları gümüşdən.",
+  "tokens": [
+    {
+      "surface": "ולפאת",
+      "gloss": "və tərəfdən"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "şimal"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "qulac"
+    },
+    {
+      "surface": "עמודיהם",
+      "gloss": "onların sütunları"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iyirmi"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "və onların altlıqları"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iyirmi"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tuncdan"
+    },
+    {
+      "surface": "ונחשת → ווי",
+      "gloss": ""
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "sütunların"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "və onların halqaları"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüşdən"
+    }
+  ],
+  "timestamp": "2026-09-01T10:20:51.415649071Z",
+  "model": "glm-5.3"
+}

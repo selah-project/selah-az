@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 25:8",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "və sönüb öldü Avraham yaxşı qocalıqda, qoca və doymuş; və öz xalqının yanına toplandı.",
+  "tokens": [
+    {
+      "surface": "ויגוע",
+      "gloss": "və sönüb (son nəfəsini verdi)"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "və öldü"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "qocalıqda"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "yaxşı"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "qoca"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "və doymuş"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "və toplandı"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "öz xalqının yanına"
+    }
+  ],
+  "timestamp": "2026-09-01T09:53:03.501576944Z",
+  "model": "glm-5.3"
+}

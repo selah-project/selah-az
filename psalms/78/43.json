@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 78:43",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 78,
+  "translation": "O zaman Mitsrayimdə ⟨onun⟩ nişanələrini, Soan sahəsində ⟨onun⟩ möcüzələrini qoydu.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "o zaman"
+    },
+    {
+      "surface": "שם",
+      "gloss": "qoydu"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayimdə"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "nişanələrini"
+    },
+    {
+      "surface": "ומופתיו",
+      "gloss": "və möcüzələrini"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sahəsində"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Soan"
+    }
+  ],
+  "timestamp": "2026-09-01T17:42:52.894501418Z",
+  "model": "glm-5.3"
+}

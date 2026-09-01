@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 30:3",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "və Yahve Elohimin sürgünlük halını ⟨את⟩ geri qaytaracaq və sənə rəhm edəcək, və qayıdacaq və səni toplayacaq bütün xalqlar arasından, hansılarına səni Yahve Elohimin səpələmişdir, oraya.",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "qaytaracaq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sürgünlük halını"
+    },
+    {
+      "surface": "שבותך",
+      "gloss": "sürgünlük halını"
+    },
+    {
+      "surface": "ורחמך",
+      "gloss": "və sənə rəhm edəcək"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "və qayıdacaq"
+    },
+    {
+      "surface": "וקבצך",
+      "gloss": "və səni toplayacaq"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bütün...-dan"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hansılarına"
+    },
+    {
+      "surface": "הפיצך",
+      "gloss": "səni səpələmişdir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "oraya"
+    }
+  ],
+  "timestamp": "2026-09-01T10:57:38.488676395Z",
+  "model": "glm-5.3"
+}

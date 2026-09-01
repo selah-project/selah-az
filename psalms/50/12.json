@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 50,
+  "translation": "Acsam, sənə demərəm, çünki mənimdir yerüzü və onun doluluğu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "acsam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deyərəm"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənimdir"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "yerüzü"
+    },
+    {
+      "surface": "ו מלאה",
+      "gloss": "və doluluğu"
+    }
+  ],
+  "timestamp": "2026-09-01T15:15:37.640508754Z",
+  "model": "glm-5.3"
+}

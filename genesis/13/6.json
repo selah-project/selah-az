@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 13:6",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "və ⟨⟨yer⟩ onları ⟨את⟩ daşıya bilmədi ki, birlikdə yaşasınlar, çünki mal-mülkləri çox idi və birlikdə yaşaya bilmədilər.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "və ... bilmədi"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "daşıya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "onları ⟨את⟩",
+      "marks": "yer"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨yer⟩"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "yaşasınlar"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "birlikdə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "היה",
+      "gloss": "idi"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "mal-mülkləri"
+    },
+    {
+      "surface": "רב",
+      "gloss": "çox"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... bilmədilər"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "gücü çatmadı"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "yaşamağa"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "birlikdə"
+    }
+  ],
+  "timestamp": "2026-09-01T17:25:20.892964561Z",
+  "model": "glm-5.3"
+}

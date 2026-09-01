@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Qardaşları onu qısqandırdılar, atası isə ⟨את⟩ sözü saxlayırdı ⟨yadında⟩.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "qısqandırdılar"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onu"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "qardaşları"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "atası"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "saxlayırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sözü"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sözü"
+    }
+  ],
+  "timestamp": "2026-09-01T09:57:29.470799707Z",
+  "model": "glm-5.3"
+}

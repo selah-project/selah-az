@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 5:5",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Yəhuda və İsrail təhlükəsizzdə yaşadı ⟨hər⟩ adam öz çətəri altında və öz əncir ağacı altında, Dandan Beer-Şevaya qədər, Şelomonun bütün günlərində.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "yaşadı"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yəhuda"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "və İsrail"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "təhlükəsizzdə"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨hər⟩ adam"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "öz çətəri"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "və altında"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "öz əncir ağacı"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Dandan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Şeva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "günlərində"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomonun"
+    }
+  ],
+  "timestamp": "2026-09-01T12:12:18.990588373Z",
+  "model": "glm-5.3"
+}

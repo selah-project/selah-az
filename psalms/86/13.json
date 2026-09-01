@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 86:13",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 86,
+  "translation": "Çünki hesedin mənim üstümdə böyükdür və canımı ən alçaq Şeoldan qurtardın.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedin"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "böyükdür"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mənim üstümdə"
+    },
+    {
+      "surface": "והצלת",
+      "gloss": "və qurtardın"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "Şeoldan"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "ən alçaq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:47.762612094Z",
+  "model": "glm-5.3"
+}

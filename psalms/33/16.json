@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "Padşah çoxlu qoşunla xilas olunmaz, qüvvətli çoxlu güclə qurtarılmaz.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "yox"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "xilas olunmaz"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "çoxlu"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "qoşunla"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "qüvvətli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "deyil"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "qurtarılmaz"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "çoxlu"
+    },
+    {
+      "surface": "כח",
+      "gloss": "güclə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:11:20.895793445Z",
+  "model": "glm-5.3"
+}

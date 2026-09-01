@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 119:62",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Gecə yarısı qalxıb Sənə şükür edəcəyəm, çünki Sənin saleh hökmlərin ⟨əsasdır⟩.",
+  "tokens": [
+    {
+      "surface": "חצות",
+      "gloss": "yarısı"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "Gecə"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "qalxıram"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "şükür etməyə"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Sənə"
+    },
+    {
+      "surface": "על",
+      "gloss": "çünki... görə"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hökmlərin"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "Sənin saleh"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:02.122580537Z",
+  "model": "glm-5.3"
+}

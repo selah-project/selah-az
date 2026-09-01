@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Və ⟨את⟩ donuzu — çünki o, dırnağı yarıq edir, dırnağında dərin yarıq var, amma o, gələ gətirmir — o, sizin üçün murdardır.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "donuzu"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "donuzu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "yarıq edir"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "dırnağı"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "və yarıq"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "dərin yarıq"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "dırnağında"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "amma o"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "gələ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "gətirmir"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "murdardır"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:24:49.144953189Z",
+  "model": "glm-5.3"
+}

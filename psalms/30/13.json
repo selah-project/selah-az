@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 30:13",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "ki, izzətim sənə zəmir oxusun və susmasın; Yahve, Elohimim, sənə əbədi şükür edəcəyəm.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יזמרך",
+      "gloss": "sənə zəmir oxusun"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "izzətim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... yox"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "sussun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "sənə şükür edəcəyəm"
+    }
+  ],
+  "timestamp": "2026-09-01T15:07:48.189191599Z",
+  "model": "glm-5.3"
+}

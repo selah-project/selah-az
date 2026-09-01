@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 2:14",
+  "book": "habakkuk",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Çünki yer Yahvenin ⟨את⟩ izzətini tanımaqla dolacaq, suların dənizin üstünü örtüyü kimi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "dolacaq"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "tanımaqla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izzətini"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "izzət"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "suların... kimi"
+    },
+    {
+      "surface": "יכסו",
+      "gloss": "örtüyü"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünü"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dənizin"
+    }
+  ],
+  "timestamp": "2026-09-01T14:50:06.390423788Z",
+  "model": "glm-5.3"
+}

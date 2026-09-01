@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 116,
+  "translation": "Andlarımı Yahveyə ödəyəcəyəm, bəli, bütün qövmünün önündə.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "andlarımı"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "ödəyəcəyəm"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "önündə"
+    },
+    {
+      "surface": "נא",
+      "gloss": "bəli ⟨indi⟩"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "qövmünün"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:03.742845414Z",
+  "model": "glm-5.3"
+}

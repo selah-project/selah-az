@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 16:10",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Səni naxışlı paraya bürüdüm, sənə tahaş dərisindən ayaqqabı geyindirdim, səni incə kətanla qurşadım və səni ipəklə örtüb geyindirdim.",
+  "tokens": [
+    {
+      "surface": "ואלבישך",
+      "gloss": "səni geyindirdim"
+    },
+    {
+      "surface": "רקמה",
+      "gloss": "naxışlı para"
+    },
+    {
+      "surface": "ואנעלך",
+      "gloss": "sənə ayaqqabı geyindirdim"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "tahaş (dəri)"
+    },
+    {
+      "surface": "ואחבשך",
+      "gloss": "səni qurşadım"
+    },
+    {
+      "surface": "בשש",
+      "gloss": "incə kətanla"
+    },
+    {
+      "surface": "ואכסך",
+      "gloss": "səni örtüb geyindirdim"
+    },
+    {
+      "surface": "משי",
+      "gloss": "ipəklə"
+    }
+  ],
+  "timestamp": "2026-09-01T14:08:10.439550165Z",
+  "model": "glm-5.3"
+}

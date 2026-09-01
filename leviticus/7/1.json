@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Və bu, günah qurbanının ⟨את⟩ qanunudur: o, müqəddəslərin müqəddəsidir.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "və bu"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "qanunu"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "günah qurbanının"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "müqəddəslərin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-09-01T10:23:23.879618572Z",
+  "model": "glm-5.3"
+}

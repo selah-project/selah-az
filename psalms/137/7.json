@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 137,
+  "translation": "Xatırla, ey Yahve, Edom oğullarını ⟨את⟩, Yeruşalayimin gününü, deyənlər ki: Dağıdın, dağıdın onu təməlinə qədər!",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Xatırla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom oğullarını"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gününü"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayimin"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "deyənlər"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "Dağıdın"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "dağıdın"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "təməlinə"
+    },
+    {
+      "surface": "בה",
+      "gloss": "onu"
+    }
+  ],
+  "timestamp": "2026-09-01T15:45:27.819117860Z",
+  "model": "glm-5.3"
+}

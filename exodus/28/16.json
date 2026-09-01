@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "Dördbucaqlı olacaq, qatlanmış ⟨olacaq⟩; bir qarış onun uzunluğu və bir qarış onun eni.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "dördbucaqlı"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "qatlanmış"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "bir qarış"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "onun uzunluğu"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "və bir qarış"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "onun eni"
+    }
+  ],
+  "timestamp": "2026-09-01T10:17:26.543401878Z",
+  "model": "glm-5.3"
+}

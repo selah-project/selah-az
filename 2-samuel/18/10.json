@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 18:10",
+  "book": "2-samuel",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Bir adam gördü və Yoava xəbər verdi və dedi: Bax, mən ⟨את⟩ Avşalomu elada asılı gördüm.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "və gördü"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "və xəbər verdi"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "Yoava"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mən gördüm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avşalomu"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Avşalomu"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "asılı"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "elada"
+    }
+  ],
+  "timestamp": "2026-09-01T12:02:20.864066311Z",
+  "model": "glm-5.3"
+}

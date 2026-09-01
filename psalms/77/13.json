@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 77:13",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 77,
+  "translation": "Bütün işlərin haqqında dərin düşünəcəyəm və tavırların haqqında danışacağam.",
+  "tokens": [
+    {
+      "surface": "והגיתי",
+      "gloss": "dərin düşünəcəyəm"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "işlərin"
+    },
+    {
+      "surface": "ובעלילותיך",
+      "gloss": "və tavırların haqqında"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "danışacağam"
+    }
+  ],
+  "timestamp": "2026-09-01T15:24:56.515288332Z",
+  "model": "glm-5.3"
+}

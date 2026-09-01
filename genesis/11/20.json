@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Və Reu otuz iki il yaşadı, və ⟨את⟩ Səruğu doğdu.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "və yaşadı"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reu"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "iki"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "və otuz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "il"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "və doğdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Səruğu"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Səruğu"
+    }
+  ],
+  "timestamp": "2026-09-01T09:48:56.903683895Z",
+  "model": "glm-5.3"
+}

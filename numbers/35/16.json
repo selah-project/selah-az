@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 35:16",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "Və əgər dəmir alətlə vursa da ölərsə, qatildir o; qatil mütləq öldürüləcək.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "alətlə"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "dəmir"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "vursa"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "da ölərsə"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "qatil(dir)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mütləq öldürüləcək"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "(təkrarla) öldürüləcək"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "qatil"
+    }
+  ],
+  "timestamp": "2026-09-01T10:45:22.999292255Z",
+  "model": "glm-5.3"
+}

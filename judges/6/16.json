@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 6:16",
+  "book": "judges",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Və Yahve ona dedi: Çünki mən səninlə olacağam, və Midyanı ⟨את⟩ tək bir adam kimi vuracaqsan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "olacağam"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "səninlə"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "və vuracaqsan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Midyanı"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyanı"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "tək bir adam kimi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    }
+  ],
+  "timestamp": "2026-09-01T11:18:22.014556177Z",
+  "model": "glm-5.3"
+}

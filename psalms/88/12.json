@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 88,
+  "translation": "Qəbirdə sənin hesedin danışılır? Sədaqətin Abaddonda ⟨danışılırmı⟩?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "danışılır"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "qəbirdə"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "sənin hesedin"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "sədaqətin"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "Abaddonda"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:30.542252666Z",
+  "model": "glm-5.3"
+}

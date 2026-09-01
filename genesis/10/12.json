@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "və ⟨את⟩ Resen — Ninve ilə Kəlah arasında; odur böyük şəhər.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Resen"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Resen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninve"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kəlah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "odur"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şəhər"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "böyük"
+    }
+  ],
+  "timestamp": "2026-09-01T09:48:31.150845353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 19:6",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Qurbanınızın günü yeyiləcək, və sabahısı günü; amma üçüncü günə qədər qalan qalıq odda yandırılacaq.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "günündə"
+    },
+    {
+      "surface": "זבחכם",
+      "gloss": "qurbanınızın"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yeyiləcək"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "və sabahısı günü"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "amma qalan qalıq"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "יום",
+      "gloss": "günü"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "üçüncü"
+    },
+    {
+      "surface": "באש",
+      "gloss": "odda"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "yandırılacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T10:28:39.237690456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 43:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 43,
+  "translation": "Və mən Elohinin qurban altarına girim, sevincimin Elini görən Elə; kinnorla Sənə şükür edim, Elohim, Elohimim.",
+  "tokens": [
+    {
+      "surface": "ואבואה",
+      "gloss": "və girim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "qurban altarına"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elə"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "sevincimin"
+    },
+    {
+      "surface": "גילי",
+      "gloss": "gözləyən"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "və Sənə şükür edim"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinnorla"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    }
+  ],
+  "timestamp": "2026-09-01T15:14:45.255965117Z",
+  "model": "glm-5.3"
+}

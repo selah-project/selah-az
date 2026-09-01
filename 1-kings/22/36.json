@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 22:36",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Və çağırış düşərgədən keçdi, günəş batarkən, deyərək: hər kəs öz şəhərinə, hər kəs öz torpağına!",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "Və keçdi"
+    },
+    {
+      "surface": "הרנה",
+      "gloss": "çağırış"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "düşərgədən"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "batarkən"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "günəş"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər kəs"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "öz şəhərinə"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "və hər kəs"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "öz torpağına"
+    }
+  ],
+  "timestamp": "2026-09-01T12:28:17.352417122Z",
+  "model": "glm-5.3"
+}

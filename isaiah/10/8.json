@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 10:8",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Çünki ⟨o, deyir⟩: Mənim başçılarım hamısı birlikdə padikimmi, padikim deyilmi?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "⟨o, deyir⟩"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "padikim deyilmi"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "başçılarım"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "birlikdə"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "padikim"
+    }
+  ],
+  "timestamp": "2026-09-01T12:50:47.420595600Z",
+  "model": "glm-5.3"
+}

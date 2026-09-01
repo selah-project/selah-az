@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 25:20",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Və Nevuzaradan, cəlladlar rəisi, onları götürdü və onları Babil kralının yanına Rivlayaya apardı.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "və götürdü"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onları",
+      "marks": "yuxarıdakı tutğuınları"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nevuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "rəisi"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "cəlladların"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "və apardı"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onları"
+    },
+    {
+      "surface": "על",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babil"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "Rivlayaya"
+    }
+  ],
+  "timestamp": "2026-09-01T12:46:37.855546040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 51,
+  "translation": "Bax, avun içində doğuldum, və günahda anam məni bətnində tutdu.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "bax"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "avun içində"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "doğuldum"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "və günahda"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "məni bətnində tutdu"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "anam"
+    }
+  ],
+  "timestamp": "2026-09-01T15:17:41.666758271Z",
+  "model": "glm-5.3"
+}

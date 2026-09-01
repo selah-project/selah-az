@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 76:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 76,
+  "translation": "Sənin qəzəbindən, ey Yağqovun Elohimi, dərin yuxuya getdilər həm döyüş arabası, həm at.",
+  "tokens": [
+    {
+      "surface": "מגערתך",
+      "gloss": "Sənin qəzəbindən"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yağqovun"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "dərin yuxuya getdilər"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "həm döyüş arabası"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "həm at"
+    }
+  ],
+  "timestamp": "2026-09-01T15:25:14.930867664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 2:16",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Midyan kahininin yeddi qızı vardı; onlar gəldilər, su çəkdilər və ⟨את⟩ suvarma novlarını atasının sürüsünü suvarmaq üçün doldurdular.",
+  "tokens": [
+    {
+      "surface": "ולכהן",
+      "gloss": "kahinində"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yeddi"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "qızı"
+    },
+    {
+      "surface": "ותבאנה",
+      "gloss": "gəldilər"
+    },
+    {
+      "surface": "ותדלנה",
+      "gloss": "su çəkdilər"
+    },
+    {
+      "surface": "ותמלאנה",
+      "gloss": "doldurdular"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suvarma novlarını"
+    },
+    {
+      "surface": "הרהטים",
+      "gloss": "suvarma novları"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "suvarmaq üçün"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "sürüsünü"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "atasının"
+    }
+  ],
+  "timestamp": "2026-09-01T10:04:20.695351758Z",
+  "model": "glm-5.3"
+}

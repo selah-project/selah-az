@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 7:32",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "və dörd çarx panellərin altında ⟨idi⟩, çarxların oxdurları dayaqda ⟨idi⟩; bir çarxın hündürlüyü bir amma və yarım amma ⟨idi⟩.",
+  "tokens": [
+    {
+      "surface": "וארבעת",
+      "gloss": "və dörd"
+    },
+    {
+      "surface": "האופנים",
+      "gloss": "çarx"
+    },
+    {
+      "surface": "למתחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "למסגרות",
+      "gloss": "panellərin"
+    },
+    {
+      "surface": "וידות",
+      "gloss": "və oxdurlar"
+    },
+    {
+      "surface": "האופנים",
+      "gloss": "çarxların"
+    },
+    {
+      "surface": "במכונה",
+      "gloss": "dayaqda"
+    },
+    {
+      "surface": "וקומת",
+      "gloss": "və hündürlüyü"
+    },
+    {
+      "surface": "האופן",
+      "gloss": "çarxın"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "bir amma"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "və yarım"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "amma"
+    }
+  ],
+  "timestamp": "2026-09-01T12:14:17.039016191Z",
+  "model": "glm-5.3"
+}

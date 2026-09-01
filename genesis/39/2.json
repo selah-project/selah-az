@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 39,
+  "translation": "Və Yahve ⟨את⟩ Yoseflə idi, və o, uğurlu adam oldu, və o, ağası Mitsrayimlinin evində idi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Və ... idi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoseflə"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "və oldu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "uğurlu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "və idi"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "evində"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "onun ağası"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "Mitsrayimli"
+    }
+  ],
+  "timestamp": "2026-09-01T09:59:52.246743280Z",
+  "model": "glm-5.3"
+}

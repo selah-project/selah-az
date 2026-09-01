@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 149,
+  "translation": "Onların padşahlarını zəncirlərlə bağlamaq, nəciblərini isə dəmir qandal ilə ⟨bağlamaq⟩",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "bağlamaq"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "onların padşahlarını"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "zəncirlərlə"
+    },
+    {
+      "surface": "ונכבדיהם",
+      "gloss": "nəciblərini isə"
+    },
+    {
+      "surface": "בכבלי",
+      "gloss": "qandal ilə"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "dəmir"
+    }
+  ],
+  "timestamp": "2026-09-01T18:02:17.258141584Z",
+  "model": "glm-5.3"
+}

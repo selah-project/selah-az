@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 14:4",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Kahin əmr edəcək və təmizlənən üçün iki diri, təmiz quş, sidr ağacı, qırmız böcək rəngi ⟨ipliyi⟩ və züfəfa otu götürəcək.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "əmr edəcək"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "və götürəcək"
+    },
+    {
+      "surface": "למטהר",
+      "gloss": "təmizlənən üçün"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iki"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "quş"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "diri"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "təmiz"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "və ağac"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "sidr"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "və qırmız rəng"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "böcək (qırmız boyası)"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "və züfəfa otu"
+    }
+  ],
+  "timestamp": "2026-09-01T17:28:21.838099644Z",
+  "model": "glm-5.3"
+}

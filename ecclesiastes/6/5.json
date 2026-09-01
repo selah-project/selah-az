@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Hətta günəşi görməmiş, tanımamışdır; bunun ondan çox rahatlığı ⟨var⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "hətta"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "günəş"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "görməmiş"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tanımamışdır"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "rahatlığı"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "bunun"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ondan"
+    }
+  ],
+  "timestamp": "2026-09-01T16:32:18.412481657Z",
+  "model": "glm-5.3"
+}

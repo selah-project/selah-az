@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 17:12",
+  "book": "job",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Gecəni günün yerinə qoyurlar; işıq qaranlığın üzündən yaxındır.",
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "gecəni"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "günün yerinə"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "qoyurlar"
+    },
+    {
+      "surface": "אור",
+      "gloss": "işıq"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "yaxındır"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "üzündən"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "qaranlığın"
+    }
+  ],
+  "timestamp": "2026-09-01T16:09:12.523117625Z",
+  "model": "glm-5.3"
+}

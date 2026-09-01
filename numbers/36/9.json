@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 36:9",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 36,
+  "translation": "və irs bir tayfadan başqa tayfaya keçməyəcək, çünki İsrail oğullarının tayfaları hər biri öz irsinə yapışacaq.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "və ... -məyəcək"
+    },
+    {
+      "surface": "תסב",
+      "gloss": "keçəcək (dönəcək)"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "irs"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "bir tayfadan"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "başqa tayfaya"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "başqa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər biri"
+    },
+    {
+      "surface": "בנחלתו",
+      "gloss": "öz irsinə"
+    },
+    {
+      "surface": "ידבקו",
+      "gloss": "yapışacaq"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "tayfaları"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    }
+  ],
+  "timestamp": "2026-09-01T10:45:37.380648171Z",
+  "model": "glm-5.3"
+}

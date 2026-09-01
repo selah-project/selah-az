@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 41:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 41,
+  "translation": "Hətta sülhüm olan adam — ona etibar etdiyim, çörəyimi yeyən — dabánını mənim üstümdə ucaltdı.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "hətta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "sülhüm olan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "etibar etdiyim"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "yeyən"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "çörəyimi"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "ucaltdı"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mənim üstümdə"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "dabanını"
+    }
+  ],
+  "timestamp": "2026-09-01T15:13:32.559425234Z",
+  "model": "glm-5.3"
+}

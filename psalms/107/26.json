@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 107:26",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 107,
+  "translation": "Göylərə qalxırlar, dərinliklərə enirlər, canları sıxıntıda əriyir.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "qalxırlar"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "göylərə"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "enirlər"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "dərinliklərə"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "canları"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "sıxıntıda"
+    },
+    {
+      "surface": "תתמוגג",
+      "gloss": "əriyir"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:56.272885277Z",
+  "model": "glm-5.3"
+}

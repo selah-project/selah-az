@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 73,
+  "translation": "Bax, bunlar raşalardır, həmişə rahat olanlar ⟨sərvət⟩ əldə edirlər.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bax"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bunlar"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "raşalardır"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "rahat olanlar"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "həmişə"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "əldə edirlər"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "⟨sərvət⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T15:24:33.462860062Z",
+  "model": "glm-5.3"
+}

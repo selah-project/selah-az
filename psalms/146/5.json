@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 146:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 146,
+  "translation": "Nə xoşbəxtdir ⟨o⟩, kimin köməyi Yaakovin Elidir, kimin ümidi öz Eloimi Yahve olan!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Nə xoşbəxtdir"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "kimin"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovin"
+    },
+    {
+      "surface": "בעזרו",
+      "gloss": "köməyi"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "umudu"
+    },
+    {
+      "surface": "על",
+      "gloss": "-də"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "öz Eloimi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:47:11.645897058Z",
+  "model": "glm-5.3"
+}

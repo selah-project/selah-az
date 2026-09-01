@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və mən bütün zəhməti və ⟨את⟩ bütün işin uğurunu gördüm — çünki bu, adamın yoldaşına həsədidir; bu da həvədir və ruhu əzən qəmdir.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "və gördüm"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün zəhməti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "zəhməti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "bütün uğuru"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "uğuru"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "işin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "היא",
+      "gloss": "bu"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "həsədidir"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamın"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "yoldaşına"
+    },
+    {
+      "surface": "גם",
+      "gloss": "da"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "həvədir"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "qəmdir"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhu əzən"
+    }
+  ],
+  "timestamp": "2026-09-01T16:30:13.891713744Z",
+  "model": "glm-5.3"
+}

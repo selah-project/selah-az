@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 14:10",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Davud Elohimdən soruşdu, deyərək: Filistimlilərin üstünə qalxım mı, onları əlime verəcəksənmi? Yahve ona dedi: Qalx, onları sənin əlinə verəcəyəm.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "soruşdu"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimdən"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "האעלה",
+      "gloss": "qalxım mı"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "פלשתיים",
+      "gloss": "Filistimlilərin"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "verəcəksənmi"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "əlime"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Qalx"
+    },
+    {
+      "surface": "ונתתים",
+      "gloss": "verəcəyəm"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "əlinə"
+    }
+  ],
+  "timestamp": "2026-09-01T17:04:45.131658053Z",
+  "model": "glm-5.3"
+}

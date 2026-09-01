@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 1:7",
+  "book": "nehemiah",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Sənə qarşı bəlaya satdıq, biz ⟨את⟩ əmrləri, ⟨את⟩ qanunları və ⟨את⟩ hökmləri qorumadıq ki, onları qulun Moşeyə buyurmuşsan.",
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "bəlaya satdıq"
+    },
+    {
+      "surface": "חבלנו",
+      "gloss": "biz"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Sənə qarşı"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "qorumadıq"
+    },
+    {
+      "surface": "שמרנו",
+      "gloss": "qorumaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əmrləri"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "əmrləri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qanunları"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "qanunları"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hökmləri"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "hökmləri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "buyurmuşsan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşeyə"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşeyə"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "qulun"
+    }
+  ],
+  "timestamp": "2026-09-01T16:53:29.216962110Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 115:18",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 115,
+  "translation": "Amma biz Yahı alqışlayacağıq indi və əbədiyyətə qədər. Hallelu-Yah!",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "amma biz"
+    },
+    {
+      "surface": "נברך",
+      "gloss": "alqışlayacağıq"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "və qədər"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "əbədiyyət"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Hallelu (tərif edin)"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:29.488492920Z",
+  "model": "glm-5.3"
+}

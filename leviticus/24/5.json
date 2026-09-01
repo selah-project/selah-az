@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Nəftə un götürəcəksən və ondan ⟨את⟩ on iki çörək bişirəcəksən; iki onluq ⟨olacaq⟩ tək bir çörəkdə.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "və götürəcəksən"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "nəftə un"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "və bişirəcəksən"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "on iki çörək"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "iki"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "on"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "çörək"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iki"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "onluq"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "çörək"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "tək bir"
+    }
+  ],
+  "timestamp": "2026-09-01T17:57:03.238456068Z",
+  "model": "glm-5.3"
+}

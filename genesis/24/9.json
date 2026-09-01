@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 24:9",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Və qul ⟨את⟩ əlini Avrahamın, öz ağasının yəri altına qoydu və ona bu söz üzərinə and içdi.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "qoydu"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "qul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əlini"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "əlini"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altına"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "yəri"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamın"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "öz ağasının"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "və and içdi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "söz"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-09-01T09:52:15.941832955Z",
+  "model": "glm-5.3"
+}

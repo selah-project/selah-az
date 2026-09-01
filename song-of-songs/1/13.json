@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 1:13",
+  "book": "song-of-songs",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Sevgilim mənim üçün müşdür dəstəsidir, döşlərimin arasında ⟨gecələyir⟩.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "dəstə"
+    },
+    {
+      "surface": "המר",
+      "gloss": "müşdür"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "sevgilim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənim üçün"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "döşlərimin"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "gecələyir"
+    }
+  ],
+  "timestamp": "2026-09-01T16:20:22.441622712Z",
+  "model": "glm-5.3"
+}

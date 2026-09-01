@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 18:49",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Məni düşmənlərimdən qurtaran, hətta mənim əleyhimə qalxanlardan yüksəldən, məni zor adamının əlindən qoparıb xilas edən ⟨odur⟩.",
+  "tokens": [
+    {
+      "surface": "מפלטי",
+      "gloss": "qurtaran"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "düşmənlərimdən"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hətta"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dışarı"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "əleyhimə qalxanlarım"
+    },
+    {
+      "surface": "תרוממני",
+      "gloss": "məni yüksəldən"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "adamından"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "zor"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "məni xilas edən"
+    }
+  ],
+  "timestamp": "2026-09-01T17:42:05.694460395Z",
+  "model": "glm-5.3"
+}

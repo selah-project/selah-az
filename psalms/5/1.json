@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Xor rəhbərinə, neḥilot ⟨üçün⟩ — Davudun məzmunu.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Xor rəhbərinə"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨üçün⟩"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "neḥilot"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "məzmun"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davudun"
+    }
+  ],
+  "timestamp": "2026-09-01T15:01:10.809933358Z",
+  "model": "glm-5.3"
+}

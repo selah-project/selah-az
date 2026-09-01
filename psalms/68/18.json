@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 68:18",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 68,
+  "translation": "Elohimin arabaları sayısız minlər, təkrar-təkrar minlər ⟨mələklərdir⟩; Adonay onların içindədir, Sinayda, müqəddəslikdə.",
+  "tokens": [
+    {
+      "surface": "רכב",
+      "gloss": "arabaları"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "רבתים",
+      "gloss": "sayısız minlər"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "minlər"
+    },
+    {
+      "surface": "שנאן",
+      "gloss": "təkrar-təkrar"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onların içindədir"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinayda"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "müqəddəslikdə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:23:21.973209877Z",
+  "model": "glm-5.3"
+}

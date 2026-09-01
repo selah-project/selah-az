@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 45:6",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 45,
+  "translation": "⟨Bunun üçün ki⟩ günəşin doğduğu yerdən və batdığı yerdən bilsinlər: məndən başqa heç nə yoxdur; mən Yahve-am, və başqa yoxdur.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "⟨bunun üçün ki⟩"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bilsinlər"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "doğduğu yerdən"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "günəşin"
+    },
+    {
+      "surface": "וממערבה",
+      "gloss": "və batdığı yerdən"
+    },
+    {
+      "surface": "כי",
+      "gloss": ":"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "heç nə yoxdur"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "məndən başqa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "və yoxdur"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "başqa"
+    }
+  ],
+  "timestamp": "2026-09-01T13:11:20.654067530Z",
+  "model": "glm-5.3"
+}

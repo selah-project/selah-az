@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 2:40",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və Şimey qalxdı və eşşəyini ⟨את⟩ yəhərlədi və Qata, Akishin yanına getdi, qullarını ⟨את⟩ axtarmaq üçün; və Şimey getdi və qullarını ⟨את⟩ Qatdan gətirdi.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "və qalxdı"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Şimey"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "və yəhərlədi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eşşəyi"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "onun eşşəyi"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "və getdi"
+    },
+    {
+      "surface": "גתה",
+      "gloss": "Qata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akishin"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "axtarmaq üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qullarını"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "onun qulları"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "və getdi"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Şimey"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "və gətirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qullarını"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "onun qulları"
+    },
+    {
+      "surface": "מגת",
+      "gloss": "Qatdan"
+    }
+  ],
+  "timestamp": "2026-09-01T12:10:14.450335784Z",
+  "model": "glm-5.3"
+}

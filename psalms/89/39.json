@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 89:39",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 89,
+  "translation": "Amma sən — qovdun və rədd etdin, Məsihinə qarşı qəzəbləndin.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "amma sən"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "qovdun"
+    },
+    {
+      "surface": "ותמאס",
+      "gloss": "və rədd etdin"
+    },
+    {
+      "surface": "התעברת",
+      "gloss": "qəzəbləndin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "qarşı"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Məsihinə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:29.807373129Z",
+  "model": "glm-5.3"
+}

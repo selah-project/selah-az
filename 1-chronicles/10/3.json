@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 10:3",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Döyüş Şaulun üstünə ağırlaşdı və ox atanlar onu yayla tapdılar, və o, ox atanlardan ⟨yaralandı⟩.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "ağırlaşdı"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "döyüş"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaulun"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "onu tapdılar"
+    },
+    {
+      "surface": "המורים",
+      "gloss": "ox atanlar"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "yayla"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "⟨yaralandı⟩"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "היורים",
+      "gloss": "ox atanlardan"
+    }
+  ],
+  "timestamp": "2026-09-01T17:04:16.403571382Z",
+  "model": "glm-5.3"
+}

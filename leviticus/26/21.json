@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 26:21",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Və əgər Mənimlə ⟨qarşıduraraq⟩ gərsiniz və Məni dinləmək istəməyirsinizsə, sizə günahlarınıza görə yeddiqat vurğun artıracağam.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "gərsiniz"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Mənimlə"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "⟨qarşıduraraq⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... istəməyirsinizsə"
+    },
+    {
+      "surface": "תאבו",
+      "gloss": "istəməyirsinizsə"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "dinləmək"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Məni"
+    },
+    {
+      "surface": "ויספתי",
+      "gloss": "artıracağam"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sizə"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "vurğu"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yeddiqat"
+    },
+    {
+      "surface": "כחטאתיכם",
+      "gloss": "günahlarınıza görə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:31:42.462723325Z",
+  "model": "glm-5.3"
+}

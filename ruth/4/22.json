@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Ovəd ⟨את⟩ Yişayi doğurdu, Yişay isə ⟨את⟩ Davudu doğurdu.",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "Ovəd"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yişayi"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yişayi"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "Yişay isə"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davudu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davudu"
+    }
+  ],
+  "timestamp": "2026-09-01T16:22:32.519659719Z",
+  "model": "glm-5.3"
+}

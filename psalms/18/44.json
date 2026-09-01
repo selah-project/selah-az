@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 18:44",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Məni xalqın çəkişmələrindən qopardın; məni millətlərə baş qoydun; tanımadığım xalq mənə qulluq edir.",
+  "tokens": [
+    {
+      "surface": "תפלטני",
+      "gloss": "məni qopardın"
+    },
+    {
+      "surface": "מריבי",
+      "gloss": "çəkişmələrindən"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalqın"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "məni qoydun"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "baş"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "millətlər(ə)"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "tanımadığım"
+    },
+    {
+      "surface": "יעבדוני",
+      "gloss": "mənə qullouq edir"
+    }
+  ],
+  "timestamp": "2026-09-01T15:06:41.822586068Z",
+  "model": "glm-5.3"
+}

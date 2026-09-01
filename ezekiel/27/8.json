@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 27:8",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Tsidon və Arvad sakinləri sənin üçün avar çəkən ⟨idi⟩; sənin müdriklərin, ey Tsor, sənin içində ⟨idi⟩ — onlar sənin dənizçilərin ⟨idi⟩.",
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "sakinləri"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "וארוד",
+      "gloss": "və Arvad"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨idi⟩"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "avar çəkən"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənin üçün"
+    },
+    {
+      "surface": "חכמיך",
+      "gloss": "sənin müdriklərin"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ey Tsor"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨idi⟩"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sənin içində"
+    },
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "חבליך",
+      "gloss": "sənin dənizçilərin"
+    }
+  ],
+  "timestamp": "2026-09-01T14:18:40.640422365Z",
+  "model": "glm-5.3"
+}

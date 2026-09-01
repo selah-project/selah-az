@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 6:10",
+  "book": "esther",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Padşah Həmana dedi: «Tələs, libası və ⟨את⟩ atı götür, dediyin kimi, və padşahın qapısında oturan yəhudi Mordoxaya elə görə. Dediyin hər şeydən bir kəlmə belə (saxlama).»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "Həmana"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "tələs"
+    },
+    {
+      "surface": "קח",
+      "gloss": "götür"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "libası"
+    },
+    {
+      "surface": "הלבוש",
+      "gloss": "libası"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "atı"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "atı"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dediyin kimi"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "dediyin"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "və elə görə"
+    },
+    {
+      "surface": "כן",
+      "gloss": "elə"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordoxaya"
+    },
+    {
+      "surface": "היהודי",
+      "gloss": "yəhudi"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "oturan"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "qapısında"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşahın"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(-ma)"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "düşməsin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kəlmə"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "hər şeydən"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hər"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "dediyin"
+    }
+  ],
+  "timestamp": "2026-09-01T16:37:03.296255633Z",
+  "model": "glm-5.3"
+}

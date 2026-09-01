@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 35:26",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "Və əgər çıxsa çıxar qatil ⟨את⟩ öz sığınacaq şəhərinin sərhədindən, hansı ki ora qaçır,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "çıxsa"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "çıxar"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "qatil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sərhədindən"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "sərhədindən"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şəhərinin"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "sığınacaq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hansı ki"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "qaçır"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ora"
+    }
+  ],
+  "timestamp": "2026-09-01T10:45:35.946865868Z",
+  "model": "glm-5.3"
+}

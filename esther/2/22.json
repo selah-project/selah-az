@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "esther 2:22",
+  "book": "esther",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "⟨O⟩ söz Mordoxaya məlum oldu, və o, Ester ⟨padşah qadınına⟩ xəbər verdi; Ester isə padşaha Mordoxanın adı ilə bildirdi.",
+  "tokens": [
+    {
+      "surface": "ויודע",
+      "gloss": "məlum oldu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "söz"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordoxaya"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "və xəbər verdi"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Esterə"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "padşah qadını"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "padşaha"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "adı ilə"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordoxanın"
+    }
+  ],
+  "timestamp": "2026-09-01T16:33:58.765597154Z",
+  "model": "glm-5.3"
+}

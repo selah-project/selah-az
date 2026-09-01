@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 104,
+  "translation": "Yahvenin ağacları doyur, O nun əkdiyi Lavanon sərv ağacları.",
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "doyur"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ağacları"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "sərv ağacları"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lavanon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-ki"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "əkdiyi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:34:41.523868098Z",
+  "model": "glm-5.3"
+}

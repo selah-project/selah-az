@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 32:40",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Və Moşe ⟨את⟩ Giladı Maxirə, Mənəşşənin oğluna verdi, və ⟨o⟩ orada yaşadı.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "və verdi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giladı"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Giladı"
+    },
+    {
+      "surface": "למכיר",
+      "gloss": "Maxirə"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Mənəşşənin"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "və yaşadı"
+    },
+    {
+      "surface": "בה",
+      "gloss": "orada"
+    }
+  ],
+  "timestamp": "2026-09-01T10:43:44.762816804Z",
+  "model": "glm-5.3"
+}

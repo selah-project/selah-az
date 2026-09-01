@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Və Avraham yüz yaşında idi, ona oğlu Yitsak doğulanda.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Və Avraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "yaşında ⟨idi⟩"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yaş"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "doğulanda"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitsak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlu"
+    }
+  ],
+  "timestamp": "2026-09-01T09:51:18.513676411Z",
+  "model": "glm-5.3"
+}

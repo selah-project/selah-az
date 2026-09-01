@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 36,
+  "translation": "və Oholibama ⟨את⟩ Yeiuşi, ⟨את⟩ Yalamı və ⟨את⟩ Qoraxı doğdu; bunlar Esavın oğullarıdır ⟨ki⟩ onlara Kenaan torpağında doğuldu.",
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "və Oholibama"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "doğdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeiuş"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeiuş"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yalam"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Yalam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Qorax"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qorax"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bunlar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarıdır"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ki⟩"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "doğuldu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "torpağında"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-01T09:57:35.630075525Z",
+  "model": "glm-5.3"
+}

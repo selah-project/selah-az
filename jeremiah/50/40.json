@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "jeremiah 50:40",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 50,
+  "translation": "Elohim-in Sedomu ⟨את⟩, Amoranı ⟨את⟩ və onun qonşularını ⟨את⟩ devirdiyi kimi — Yahve-nin natiqi: heç bir kişi orada yaşamayacaq və insan oğlu orada məskən salmayacaq.",
+  "tokens": [
+    {
+      "surface": "כמהפכת",
+      "gloss": "devirdiyi kimi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim-in"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sedomu"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedomu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "Amoranı"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amoranı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "onun qonşularını"
+    },
+    {
+      "surface": "שכניה",
+      "gloss": "onun qonşularını"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "natiqi ... Yahve-nin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "heç ... olmayacaq"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "yaşamayacaq"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "איש",
+      "gloss": "heç bir kişi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... olmayacaq"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "məskən salmayacaq"
+    },
+    {
+      "surface": "בה",
+      "gloss": "orada"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu ... insan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    }
+  ],
+  "timestamp": "2026-09-01T13:56:51.070602365Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 109,
+  "translation": "Təyin ⟨et⟩ onun üstünə rəşə, və Şatan dayansın onun sağ tərəfində.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "Təyin ⟨et⟩"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üstünə"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "rəşə"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "və Şatan"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "dayansın"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "onun sağ tərəfində"
+    }
+  ],
+  "timestamp": "2026-09-01T15:37:36.393876941Z",
+  "model": "glm-5.3"
+}

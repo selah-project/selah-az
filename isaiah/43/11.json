@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 43,
+  "translation": "Mən, mən Yahve-yəm, və məndən başqa xilaskar yoxdur.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "mən"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve-yəm"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "və yoxdur"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "məndən başqa"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "xilaskar"
+    }
+  ],
+  "timestamp": "2026-09-01T13:06:43.877842672Z",
+  "model": "glm-5.3"
+}

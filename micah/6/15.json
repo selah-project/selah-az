@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "micah 6:15",
+  "book": "micah",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Sən səpəcəksən, ama biçməyəcəksən; zeytunu əzəcəksən, ama yağla məsh olmayacaqsan; üzüm şirəsi, ama şərab içməyəcəksən.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sən"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "səpəcəksən"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ama... yox"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "biçməyəcəksən"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sən"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "əzəcəksən"
+    },
+    {
+      "surface": "זית",
+      "gloss": "zeytunu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ama... yox"
+    },
+    {
+      "surface": "תסוך",
+      "gloss": "məsh olmayacaqsan"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "yağla"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "üzüm şirəsi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ama... yox"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "içməyəcəksən"
+    },
+    {
+      "surface": "יין",
+      "gloss": "şərab"
+    }
+  ],
+  "timestamp": "2026-09-01T14:48:37.490005455Z",
+  "model": "glm-5.3"
+}

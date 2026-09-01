@@ -1,0 +1,105 @@
+#:rendering{:label "Azərbaycan dili",
+            :source
+            {:text :oshb-wlc,
+             :corpus :tanakh,
+             :verses 23213,
+             :tokens 305507},
+            :provenance
+            {:derived
+             [:lang
+              :version
+              :label
+              :status
+              :lineage
+              :source
+              :rails
+              :rails-commit
+              :name-seat
+              :models
+              :tiers
+              :produced
+              :license
+              :catalog],
+             :declared
+             [:role
+              :open-questions
+              :rendering/people
+              :rendering/process
+              :rendering/adjudication
+              :rendering/checks]},
+            :role :served,
+            :produced {:from "2026-09-01", :to "2026-09-01"},
+            :people
+            {:ruled-by "Scott",
+             :shovel "Claude (Fable 5)",
+             :assayer "Codex"},
+            :id "az.v1",
+            :catalog {:ui "resources/i18n/ui/az.edn"},
+            :license "CC BY-SA 4.0 (The Selah Azerbaijani Rendering)",
+            :model
+            {:provider :z.ai,
+             :models {"glm-5.3" 23213},
+             :tiers {"glm-5.2" 23213},
+             :prompt "selah.translate.prompt",
+             :canonical-forms "data/translation/canonical-forms.edn"},
+            :discipline
+            {:rails "docs/methodology/translation-discipline/az.md",
+             :rails-commit "f8aa0aca",
+             :foundation
+             [:hebrew-first
+              :deut-6-4-double-fidelity
+              :no-foreknowledge
+              :aleph-tav-total
+              :fills-bracketed
+              :no-translator-notes
+              :tough-verse-lay-it-bare],
+             :name-seat
+             {"אדני" "Adonay",
+              "אל" "El",
+              "אלהים" "Elohim",
+              "אלוה" "Eloah",
+              "יה" "Yah",
+              "יהוה" "Yahve",
+              "שדי" "Şadday"},
+             :open-questions
+             ["Yahve Şəbaut vs Yahve Tsevaot for the hosts fills"
+              "UI: Tövrat/Tora, HOŞEN/sinəbənd, YHVH, lif, dənə, kürsü"]},
+            :status :live,
+            :adjudication
+            {:chair 51,
+             :note "the fifty-first chair — the first Turkic"},
+            :checks
+            {:census
+             {:name-seat-rebb 0,
+              :verses 23213,
+              :elohim 2075,
+              :leak-classes 0,
+              :allah-tanri-lawful 159,
+              :rebb-lawful 3,
+              :et-verses 7304,
+              :sheol-seat-cehennem 0,
+              :yahve 5771},
+             :aleph-tav {:misaligned 0, :stray 0, :missing 0},
+             :gleaning-rounds [470 30 8],
+             :residue-after-relay 73,
+             :hand-repaired 32,
+             :tekoa {:fixed 4, :lawful 159, :hand 13}},
+            :version "v1",
+            :lineage
+            {:git
+             {:repo "selah-project/selah-az",
+              :ref "v1-final",
+              :commit nil,
+              :tags [],
+              :branches []},
+             :parents []},
+            :lang :az,
+            :process
+            [:relay-burn
+             :census-gleaning-rounds
+             :hand-repair
+             :tekoa-review
+             :aleph-tav-audit
+             :readers-documents
+             :notes
+             :manifest]}

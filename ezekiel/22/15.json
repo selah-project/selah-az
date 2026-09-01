@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 22:15",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Və səni ⟨את⟩ xalqlar arasında səpələyəcəyəm və ölkələr içində sovuracağam səni, və murdarlığını səndən bitirəcəyəm.",
+  "tokens": [
+    {
+      "surface": "והפיצותי",
+      "gloss": "səpələyəcəyəm"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "səni"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "xalqlar arasında"
+    },
+    {
+      "surface": "וזריתיך",
+      "gloss": "sovuracağam səni"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "ölkələr içində"
+    },
+    {
+      "surface": "והתמתי",
+      "gloss": "bitirəcəyəm"
+    },
+    {
+      "surface": "טמאתך",
+      "gloss": "murdarlığını"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "səndən"
+    }
+  ],
+  "timestamp": "2026-09-01T14:15:15.503951604Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 15:2",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Üç il o, Yeruşalayimda kral oldu; anasının adı Maaxa, Avişalomun qızı ⟨idi⟩.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "üç"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "il"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kral oldu"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yeruşalayimda"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "və adı"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "anasının"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maaxa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qızı"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "Avişalomun"
+    }
+  ],
+  "timestamp": "2026-09-01T12:23:02.984638447Z",
+  "model": "glm-5.3"
+}

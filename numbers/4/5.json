@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 4:5",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və düşərgə yola düşəndə Aharon və oğulları gələcək və pərdə-paravanı ⟨את⟩ endirəcəklər və onunla şəhadət sandığının ⟨את⟩ üstünü örtəcəklər.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "və gələcək"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "və oğulları"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "yola düşəndə"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "düşərgə"
+    },
+    {
+      "surface": "והורדו",
+      "gloss": "və endirəcəklər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pərdə-paravan"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "pərdə"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "paravan"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "və örtəcəklər"
+    },
+    {
+      "surface": "בה",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şəhadət sandığı"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "sandıq"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "şəhadət"
+    }
+  ],
+  "timestamp": "2026-09-01T10:33:05.723418889Z",
+  "model": "glm-5.3"
+}

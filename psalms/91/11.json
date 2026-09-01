@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 91,
+  "translation": "Çünki ⟨O⟩ mələklərinə sənin barəndə əmr edəcək, səni bütün yollarında qorumaq üçün.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "mələklərinə"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "əmr edəcək"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənin barəndə"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "səni qorumaq üçün"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "yollarında"
+    }
+  ],
+  "timestamp": "2026-09-01T15:31:22.015742502Z",
+  "model": "glm-5.3"
+}

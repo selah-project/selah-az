@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 109,
+  "translation": "Xor başçısına. Davudun məzmuru. Mənim tərifim ⟨olan⟩ Elohim, sükut etmə.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Xor başçısına"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davudun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "məzmuru"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "mənim tərifim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "sükut etmə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:13.601550459Z",
+  "model": "glm-5.3"
+}

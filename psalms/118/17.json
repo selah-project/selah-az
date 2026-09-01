@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 118,
+  "translation": "Ölməyəcəyəm, çünki yaşayacağam və Yahın əməllərini danışacağam.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ölməyəcəyəm — yox"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "öləcəyəm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "yaşayacağam"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "və danışacağam"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "əməllərini"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:12.429561041Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Qürur gəldiyi zaman rüsvayçılıq da gəlir, amma mütəvazilərlə ⟨birlikdə⟩ hikmət ⟨olur⟩.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "gəldiyi"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "qürur"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "gəlir"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "rüsvayçılıq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mütəvazilər"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "mütəvazilər"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmət"
+    }
+  ],
+  "timestamp": "2026-09-01T15:52:40.629472940Z",
+  "model": "glm-5.3"
+}

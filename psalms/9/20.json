@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Qalx, Yahve! Qoy ölümlü insan güclənməsin; ümmətlər Üzünün qarşısında mühakimə olunsun.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Qalx"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "qoy ... olmasın"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "güclənməsin"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ölümlü insan"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "mühakimə olunsun"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ümmətlər"
+    },
+    {
+      "surface": "על",
+      "gloss": "qarşısında"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "Üzünün"
+    }
+  ],
+  "timestamp": "2026-09-01T15:04:18.330369500Z",
+  "model": "glm-5.3"
+}

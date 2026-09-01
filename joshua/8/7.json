@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 8:7",
+  "book": "joshua",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "və siz pusqudan qalxıb ⟨את⟩ şəhəri tutacaqsınız, və Yahve, sizin Elohiminiz, onu əlinizə verəcək.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "və siz"
+    },
+    {
+      "surface": "תקמו",
+      "gloss": "qalxacaqsınız"
+    },
+    {
+      "surface": "מהאורב",
+      "gloss": "pusqudan"
+    },
+    {
+      "surface": "והורשתם",
+      "gloss": "və tutacaqsınız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şəhəri"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şəhər"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "və verəcək"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "sizin Elohiminiz"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "əlinizə"
+    }
+  ],
+  "timestamp": "2026-09-01T11:05:18.340017730Z",
+  "model": "glm-5.3"
+}

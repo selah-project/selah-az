@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 27:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "İndi başım düşmənlərimin — ətrafımda olanların — üstündə ucalacaq; Onun çadırında sevinc ⟨hayqırığı ilə⟩ qurbanlar kəsəcəyəm, Yahveye nəğmə deyəcəyəm, Onu çalacağam.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "İndi"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "ucalacaq"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "başım"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "düşmənlərimin"
+    },
+    {
+      "surface": "סביבותי",
+      "gloss": "ətrafımda olanların"
+    },
+    {
+      "surface": "ואזבחה",
+      "gloss": "qurbanlar kəsəcəyəm"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "Onun çadırında"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "qurbanlar"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "sevinc ⟨hayqırığı⟩"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "nəğmə deyəcəyəm"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "Onu çalacağam"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveye"
+    }
+  ],
+  "timestamp": "2026-09-01T15:09:28.046582328Z",
+  "model": "glm-5.3"
+}

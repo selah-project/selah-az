@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 33:1",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "Yaakov gözünü qaldırdı və baxdı, və bax, Esav gəlirdi, və onunla dörd yüz kişi ⟨ vardı ⟩. O, uşaqları Leya üzərinə, Raxel üzərinə və iki kəniz üzərinə böldü.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "qaldırdı"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "gözünü"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "və baxdı"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "və bax"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gəlirdi"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "və onunla"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "dörd"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kişi"
+    },
+    {
+      "surface": "ויחץ",
+      "gloss": "böldü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uşaqları"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "uşaqları"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leya"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "və üzərinə"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Raxel"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "və üzərinə"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iki"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "kəniz"
+    }
+  ],
+  "timestamp": "2026-09-01T09:57:00.936256540Z",
+  "model": "glm-5.3"
+}

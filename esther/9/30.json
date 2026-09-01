@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "esther 9:30",
+  "book": "esther",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Və məktublar göndərdi bütün Yəhudilərə — yeddi və iyirmi və ⟨ yüz⟩ vilayətə, Ahaşveroşun padşahlığına — salamatlıq və doğru⟨luq⟩ sözləri ⟨ilə⟩.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "və göndərdi"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "məktublar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ilə⟩ bütün Yəhudilərə"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yəhudilərə"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yeddi və iyirmi və yüz vilayətə"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yeddi"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "və iyirmi"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "və yüz"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "vilayət"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "padşahlığı"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahaşveroşun"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözləri"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salamatlıq"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "və doğroluq"
+    }
+  ],
+  "timestamp": "2026-09-01T18:02:53.227829512Z",
+  "model": "glm-5.3"
+}

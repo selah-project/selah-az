@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 5:5",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Aram padşahı dedi: «Get, gəl, və mən İsrail padşahına məktub göndərəcəyəm». O, getdi və əlinə on talant gümüş, altı min ⟨qızıl⟩ və on dəst paltar götürdü.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": " dedi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşahı"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Get"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gəl"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "və mən göndərəcəyəm"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "məktub"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşahı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "O, getdi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "və götürdü"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "əlinə"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "on"
+    },
+    {
+      "surface": "ככרי",
+      "gloss": "talant"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "və altı"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "min"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "qızıl"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "və on"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "dəst"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "paltar"
+    }
+  ],
+  "timestamp": "2026-09-01T12:32:12.680872087Z",
+  "model": "glm-5.3"
+}

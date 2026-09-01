@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 74:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 74,
+  "translation": "Sən Livyatanın başlarını əzdin, onu çöldə yaşayan ellər üçün yemək olaraq verdin.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sən"
+    },
+    {
+      "surface": "רצצת",
+      "gloss": "əzdin"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "başlarını"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "Liviyanın"
+    },
+    {
+      "surface": "תתננו",
+      "gloss": "verdin"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "yemək"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ellər üçün"
+    },
+    {
+      "surface": "לציים",
+      "gloss": "çöldə yaşayanlara"
+    }
+  ],
+  "timestamp": "2026-09-01T15:25:18.566498004Z",
+  "model": "glm-5.3"
+}

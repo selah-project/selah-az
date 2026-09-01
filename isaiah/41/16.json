@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 41:16",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 41,
+  "translation": "Sən onları ələyəcəksən və külək onları aparacaq, qasırğa onları səpələyəcək ⟨onları⟩; sən isə Yahve-də sevinəcəksən, İsrailin Qudusunda öyünəcəksən.",
+  "tokens": [
+    {
+      "surface": "תזרם",
+      "gloss": "sən onları ələyəcəksən"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "və külək"
+    },
+    {
+      "surface": "תשאם",
+      "gloss": "onları aparacaq"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "və qasırğa"
+    },
+    {
+      "surface": "תפיץ",
+      "gloss": "səpələyəcək"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "və sən isə"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "sevinəcəksən"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahve-də"
+    },
+    {
+      "surface": "בקדוש",
+      "gloss": "İsrailin Qudus-unda"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail-in"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "öyünəcəksən"
+    }
+  ],
+  "timestamp": "2026-09-01T13:07:57.191917811Z",
+  "model": "glm-5.3"
+}

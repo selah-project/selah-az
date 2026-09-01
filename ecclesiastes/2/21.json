@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 2:21",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Çünki elə adam var ki, onun əməyi müdriklikdə, bilikdə və bacarıqdadir, amma onda əmək çəkməyən adama onun payını verirlər; bu da heveldir və böyük bir şərdir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "יש",
+      "gloss": "var"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "שעמלו",
+      "gloss": "onun əməyi"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "müdriklikdə"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "və bilikdə"
+    },
+    {
+      "surface": "ובכשרון",
+      "gloss": "və bacarıqdadir"
+    },
+    {
+      "surface": "ולאדם",
+      "gloss": "amma adamə"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "ki ... yox"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "əmək çəkməyən"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onda"
+    },
+    {
+      "surface": "יתננו",
+      "gloss": "verirlər"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "onun payını"
+    },
+    {
+      "surface": "גם",
+      "gloss": "də"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "heveldir"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "və şərdir"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "böyük"
+    }
+  ],
+  "timestamp": "2026-09-01T16:30:10.354718409Z",
+  "model": "glm-5.3"
+}

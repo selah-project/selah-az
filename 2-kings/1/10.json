@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 1:10",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Eliyah cavab verdi və əllinin başçısına dedi: Əgər mən Elohim adamıamsa, göydən od düşsün və ⟨את⟩ səni və ⟨את⟩ əllini yeyib qurtarsın. Və göydən od düşdü və ⟨את⟩ onu və ⟨את⟩ əllisini yeyib qurtardı.",
+  "tokens": [
+    {
+      "surface": "ויענה",
+      "gloss": "cavab verdi"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyah"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "שר",
+      "gloss": "başçısı"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "əllinin"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "düşsün"
+    },
+    {
+      "surface": "אש",
+      "gloss": "od"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göydən"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "və yeyib qurtarsın"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ səni",
+      "marks": "səni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "əllini"
+    },
+    {
+      "surface": "חמשיך",
+      "gloss": "əllini"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "və düşdü"
+    },
+    {
+      "surface": "אש",
+      "gloss": "od"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göydən"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "və yeyib qurtardı"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "əllisini"
+    },
+    {
+      "surface": "חמשיו",
+      "gloss": "əllisini"
+    }
+  ],
+  "timestamp": "2026-09-01T12:28:35.829642414Z",
+  "model": "glm-5.3"
+}

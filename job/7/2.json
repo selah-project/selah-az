@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 7:2",
+  "book": "job",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Qul kölgəni həsrətlə gözləyir ⟨kimi⟩, və muzdlu işçi öz əməyinin ⟨qarşılığını⟩ umur.",
+  "tokens": [
+    {
+      "surface": "כעבד",
+      "gloss": "qul ... kimi"
+    },
+    {
+      "surface": "ישאף",
+      "gloss": "həsrətlə gözləyir"
+    },
+    {
+      "surface": "צל",
+      "gloss": "kölgəni"
+    },
+    {
+      "surface": "וכשכיר",
+      "gloss": "və muzdlu işçi kimi"
+    },
+    {
+      "surface": "יקוה",
+      "gloss": "umur"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "öz əməyinin"
+    }
+  ],
+  "timestamp": "2026-09-01T16:05:11.617525228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Mənə lütf et, Yahve, çünki tükənmişəm; məni şəfa ver, Yahve, çünki sümüklərim titrədi.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "mənə lütf et"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "tükənmişəm"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "məni şəfa ver"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "titrədi"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "sümüklərim"
+    }
+  ],
+  "timestamp": "2026-09-01T15:01:52.622641542Z",
+  "model": "glm-5.3"
+}

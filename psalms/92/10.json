@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 92,
+  "translation": "Çünki bax, sənin düşmənlərin, ey Yahve; çünki bax, sənin düşmənlərin məhv olacaqlar; şər işlədənlərin hamısı səpələnəcək.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "sənin düşmənlərin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ey Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "sənin düşmənlərin"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "məhv olacaqlar"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "səpələnəcək"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamısı"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "işlədənlərin"
+    },
+    {
+      "surface": "און",
+      "gloss": "şər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:31:52.790551354Z",
+  "model": "glm-5.3"
+}

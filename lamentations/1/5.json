@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 1:5",
+  "book": "lamentations",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Onun sıxıntıları baş oldu, onun düşmənləri rahatladı, çünki Yahve onu onun çox üsyanları üzərinə kədərləndirdi; onun balaca uşaqları əsir düşdülür, düşmənin üzü qarşısında.",
+  "tokens": [
+    {
+      "surface": "היו",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "onun sıxıntıları"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "baş olaraq"
+    },
+    {
+      "surface": "איביה",
+      "gloss": "onun düşmənləri"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "rahatladı"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הוגה",
+      "gloss": "kədərləndirdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "רב",
+      "gloss": "çoxluğu"
+    },
+    {
+      "surface": "פשעיה",
+      "gloss": "onun üsyanları"
+    },
+    {
+      "surface": "עולליה",
+      "gloss": "onun balaca uşaqları"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "getdilər"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "əsir"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "üzü qarşısında"
+    },
+    {
+      "surface": "צר",
+      "gloss": "düşmən"
+    }
+  ],
+  "timestamp": "2026-09-01T16:27:16.412579213Z",
+  "model": "glm-5.3"
+}

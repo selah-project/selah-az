@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 1:15",
+  "book": "job",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və Şeva ⟨onların üstünə⟩ düşdü, onları apardı, və qulları qılıncın ağzı ilə vurdux; və yalnız mən tək qaldım, sənə bildirmək üçün.»",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "və düşdü"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Şeva"
+    },
+    {
+      "surface": "ותקחם",
+      "gloss": "onları apardı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qulları"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "qulları"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "vurdux"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ağzı ilə"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "qılıncın"
+    },
+    {
+      "surface": "ואמלטה",
+      "gloss": "qurtuldum"
+    },
+    {
+      "surface": "רק",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "tək"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "bildirmək"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    }
+  ],
+  "timestamp": "2026-09-01T16:03:06.957495330Z",
+  "model": "glm-5.3"
+}

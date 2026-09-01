@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 11:8",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "və bu gün sizə əmr etdiyim bütün əmri saxlayasınız — güclü olasınız, girəsiniz və keçib varis olduğunuz torpağı mənimsəyəsiniz deyə, ⟨את⟩ bütün əmri, ⟨את⟩ oraya keçib mənimsəməyiniz ⟨üçün⟩.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "və saxlayın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün əmri (כל המצוה)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "əmri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mən"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "sizə əmr edirəm"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bu gün"
+    },
+    {
+      "surface": "למען",
+      "gloss": "deyə \/ üçün"
+    },
+    {
+      "surface": "תחזקו",
+      "gloss": "güclü olasınız"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "və girəsiniz"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "və varis olasınız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "torpağı (הארץ)"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "torpağı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "keçib"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "oraya"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "onu mənimsəməyə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:49:41.367297474Z",
+  "model": "glm-5.3"
+}

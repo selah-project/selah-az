@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 57:10",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 57,
+  "translation": "Yollarının çoxluğu ilə yoruldun, 'Ümid yoxdur' demədin, ⟨məhv olmadın⟩; əlinin diriliyini tapdın, ona görə zəifləmədin.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "çoxluğu ilə"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "yollarının"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "yoruldun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "demədin —"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "demədin"
+    },
+    {
+      "surface": "נואש",
+      "gloss": "'Ümid yoxdur'"
+    },
+    {
+      "surface": "חית",
+      "gloss": "diriliyini"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "əlinin"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "tapdın"
+    },
+    {
+      "surface": "על",
+      "gloss": "ona görə"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "zəifləmədin — deyil"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "zəifləmədin"
+    }
+  ],
+  "timestamp": "2026-09-01T13:15:15.374965338Z",
+  "model": "glm-5.3"
+}

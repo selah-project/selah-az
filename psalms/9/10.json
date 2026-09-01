@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Və Yahve əzilənə sığınacaq, bəlanın vaxtlarında sığınacaq olacaq.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "və olacaq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "sığınacaq"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "əzilənə"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "sığınacaq"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "vaxtlarında"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "bəlanın"
+    }
+  ],
+  "timestamp": "2026-09-01T15:03:47.379424196Z",
+  "model": "glm-5.3"
+}

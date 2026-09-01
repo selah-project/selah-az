@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 7:17",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Və tufan qırx gün yer üzərində oldu, və sular çoxaldı, və gəmini ⟨את⟩ qaldırdılar, və o, yerdən yuxarı ucaldı.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "və oldu"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "tufan"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "qırx"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərində"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "və çoxaldı"
+    },
+    {
+      "surface": "המים",
+      "gloss": "sular"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "və qaldırdılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gəmi"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "gəmi"
+    },
+    {
+      "surface": "ותרם",
+      "gloss": "və ucaldı"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "yuxarı"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerdən"
+    }
+  ],
+  "timestamp": "2026-09-01T09:47:28.486862821Z",
+  "model": "glm-5.3"
+}

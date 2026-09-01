@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 88:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 88,
+  "translation": "Ölülər ⟨arasında⟩ azad ⟨qaldım⟩, qəbirdə uzanmış öldürülmüşlər kimi, ki onları artıq xatırlamırsan, və onlar əlindən kəsildilər.",
+  "tokens": [
+    {
+      "surface": "במתים",
+      "gloss": "ölülər ⟨arasında⟩"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "azad"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "öldürülmüşlər"
+    },
+    {
+      "surface": "שכבי",
+      "gloss": "uzanmış"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "qəbir"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "זכרתם",
+      "gloss": "xatırlamırsan"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "artıq"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "və onlar"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "əlindən"
+    },
+    {
+      "surface": "נגזרו",
+      "gloss": "kəsildilər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:30:08.529344064Z",
+  "model": "glm-5.3"
+}

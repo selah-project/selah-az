@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Yoxsa ⟨o⟩ şiri kimi canımı parçalar, dəlib doğrayar və ⟨⟨qurtaran⟩ olmaz⟩.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "yoxsa ... olmasın deyə"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "parçalar"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "şiri kimi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "dəlib doğrayar"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "və yoxdur"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "qurtaran"
+    }
+  ],
+  "timestamp": "2026-09-01T15:02:21.068569511Z",
+  "model": "glm-5.3"
+}

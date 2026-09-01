@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 136:15",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 136,
+  "translation": "və Paronu və onun ordusunu Qamış dənizində silkələyənə — çünki onun hesedi əbədidir.",
+  "tokens": [
+    {
+      "surface": "ונער",
+      "gloss": "silkələyənə"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paronu"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "və onun ordusunu"
+    },
+    {
+      "surface": "בים",
+      "gloss": "dənizində"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Qamış (Sup)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədidir"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "onun hesedi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:43:50.465908564Z",
+  "model": "glm-5.3"
+}

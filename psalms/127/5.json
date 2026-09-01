@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 127:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 127,
+  "translation": "Necə xoşbəxtdir o kişi ki, onlarla ⟨את⟩ oxluqunu doldurmuşdur; onlar utanmayacaqlar, çünki qapıda ⟨את⟩ düşmənlərlə danışacaqlar.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Necə xoşbəxtdir"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "o kişi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "doldurmuşdur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oxluqunu"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "oxluqunu"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "onlarla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "utanmayacaqlar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "danışacaqlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "düşmənlərlə"
+    },
+    {
+      "surface": "אויבים",
+      "gloss": "düşmənlərlə"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "qapıda"
+    }
+  ],
+  "timestamp": "2026-09-01T15:41:37.671627145Z",
+  "model": "glm-5.3"
+}

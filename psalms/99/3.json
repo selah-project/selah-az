@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 99,
+  "translation": "Adını tərifləsinlər — böyük və qorxulu; müqəddəsdir O.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "tərifləsinlər"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Adını"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "və qorxulu"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "müqəddəsdir"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "O"
+    }
+  ],
+  "timestamp": "2026-09-01T15:34:25.557289832Z",
+  "model": "glm-5.3"
+}

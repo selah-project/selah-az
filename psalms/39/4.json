@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 39,
+  "translation": "Ürəyim içimdə qızdı, düşündüyüm zaman od yandı, dilimlə danışdım.",
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "qızdı"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ürəyim"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "içimdə"
+    },
+    {
+      "surface": "בהגíגי",
+      "gloss": "düşündüyüm zaman"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "yandı"
+    },
+    {
+      "surface": "אש",
+      "gloss": "od"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "danışdım"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "dilimlə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:14:11.205683266Z",
+  "model": "glm-5.3"
+}

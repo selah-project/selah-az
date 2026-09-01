@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 43:13",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 43,
+  "translation": "Hətta ⟨gündən⟩ bəri Mən Oyam və əlimdən qurtaran yoxdur; Mən iş görürəm və kim onu geri qaytara bilər?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "hətta"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "gündən"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "O"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "əlimdən"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "qurtaran"
+    },
+    {
+      "surface": "אפעל",
+      "gloss": "iş görürəm"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "ישיבנה",
+      "gloss": "onu geri qaytara bilər"
+    }
+  ],
+  "timestamp": "2026-09-01T13:07:31.234371074Z",
+  "model": "glm-5.3"
+}

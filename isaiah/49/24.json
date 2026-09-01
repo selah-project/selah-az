@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 49:24",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 49,
+  "translation": "Güclüdən qənimət alınabilərmi, yoxsa salehin əsiri xilas olarmı?",
+  "tokens": [
+    {
+      "surface": "היקח",
+      "gloss": "alınabilərmi"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "güclüdən"
+    },
+    {
+      "surface": "מלקוח",
+      "gloss": "qənimət"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "yoxsa"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "əsiri"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "salehin"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "xilas olar"
+    }
+  ],
+  "timestamp": "2026-09-01T13:09:54.363714244Z",
+  "model": "glm-5.3"
+}

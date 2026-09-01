@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 17:22",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Və sən ⟨את⟩ öz xalqın İsraili özünə əbədidək xalq olaraq verdin; və sən, Yahve, onlara Elohim oldun.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "və verdin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öz xalqın İsraili"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "öz xalqın"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "לך",
+      "gloss": "özünə"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "xalq olaraq"
+    },
+    {
+      "surface": "עד",
+      "gloss": "əbədidək"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "əbədidək"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "və sən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "היית",
+      "gloss": "oldun"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim olaraq"
+    }
+  ],
+  "timestamp": "2026-09-01T17:06:20.074722427Z",
+  "model": "glm-5.3"
+}

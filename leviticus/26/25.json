@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 26:25",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Və sizin üstünüzə əhdin intiqamını yerinə yetirən qılınc gətirəcəyim; siz şəhərlərinizə toplanacaqsınız və içinizə vəba göndərəcəyəm və siz düşmənin ⟨əlinə⟩ veriləcəksiniz.",
+  "tokens": [
+    {
+      "surface": "והבאתי",
+      "gloss": "və gətirəcəyəm"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sizin üstünüzə"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "qılınc"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "intiqamını yerinə yetirən"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "intiqam"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "əhdin"
+    },
+    {
+      "surface": "ונאספתם",
+      "gloss": "və toplanacaqsınız"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "şəhərləriniz"
+    },
+    {
+      "surface": "ושלחתי",
+      "gloss": "və göndərəcəyəm"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "vəba"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "içinizə"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "və veriləcəksiniz"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "əlinə"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "düşmən"
+    }
+  ],
+  "timestamp": "2026-09-01T10:31:58.683806951Z",
+  "model": "glm-5.3"
+}

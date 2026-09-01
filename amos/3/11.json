@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 3:11",
+  "book": "amos",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Buna görə belə deyir Adonay Yahve: düşmən ⟨var⟩, o diyarı dolanacaq, səndən qüvvətini endirəcək və qalaların talan ediləcək.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Buna görə"
+    },
+    {
+      "surface": "כה",
+      "gloss": "belə"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צר",
+      "gloss": "düşmən"
+    },
+    {
+      "surface": "וסביב",
+      "gloss": "dolanacaq"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "diyarı"
+    },
+    {
+      "surface": "והוריד",
+      "gloss": "endirəcək"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "səndən"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "qüvvətini"
+    },
+    {
+      "surface": "ונבזו",
+      "gloss": "və talan ediləcək"
+    },
+    {
+      "surface": "ארמנותיך",
+      "gloss": "qalaların"
+    }
+  ],
+  "timestamp": "2026-09-01T14:39:34.276531464Z",
+  "model": "glm-5.3"
+}

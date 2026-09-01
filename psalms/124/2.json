@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 124,
+  "translation": "Yahve bizim üçün olmasaydı, insan bizim üstümüzə qalxanda,",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "olmasaydı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "⟨idi⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizim üçün"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "qalxanda"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "bizim üstümüzə"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:53.093096834Z",
+  "model": "glm-5.3"
+}

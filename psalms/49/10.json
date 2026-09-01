@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 49,
+  "translation": "Və ⟨o⟩ əbədiyyət üçün yaşasın, çuxuru görməsin ⟨o⟩.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "və yaşasın"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hələ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "əbədiyyət üçün"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "görməsin"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "çuxuru"
+    }
+  ],
+  "timestamp": "2026-09-01T15:15:44.851682558Z",
+  "model": "glm-5.3"
+}

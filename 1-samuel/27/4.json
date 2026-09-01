@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 27:4",
+  "book": "1-samuel",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Şaula xəbər verildilər ki, Davud Qata qaçıb; və o, onu daha axtamağa ⟨davam etmədi⟩.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "və xəbər verildi"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Şaula"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "qaçıb"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Qata"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... etmədi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "davam"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "daha"
+    },
+    {
+      "surface": "לבקשו",
+      "gloss": "onu axtamağa"
+    }
+  ],
+  "timestamp": "2026-09-01T11:48:58.451181359Z",
+  "model": "glm-5.3"
+}

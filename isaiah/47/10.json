@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 47:10",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 47,
+  "translation": "Şərində güvəndin, dedin: 'Məni görən yoxdur.' Sənin hikmətin və biliyin — ⟨o⟩ səni geri döndərdi; və ürəyində dedin: 'Mənəm, ⟨və⟩ məndən başqa heç kəs yoxdur.'",
+  "tokens": [
+    {
+      "surface": "ותבטחי",
+      "gloss": "güvəndin"
+    },
+    {
+      "surface": "ברעתך",
+      "gloss": "şərində"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "dedin"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "ראני",
+      "gloss": "məni görən"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "hikmətin"
+    },
+    {
+      "surface": "ודעתך",
+      "gloss": "biliyin"
+    },
+    {
+      "surface": "היא",
+      "gloss": "o"
+    },
+    {
+      "surface": "שובבתך",
+      "gloss": "səni geri döndərdi"
+    },
+    {
+      "surface": "ותאמרי",
+      "gloss": "və dedin"
+    },
+    {
+      "surface": "בלבך",
+      "gloss": "ürəyində"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mənəm"
+    },
+    {
+      "surface": "ואפסי",
+      "gloss": "məndən başqa heç kəs"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨heç nə⟩ daha"
+    }
+  ],
+  "timestamp": "2026-09-01T13:09:43.606514034Z",
+  "model": "glm-5.3"
+}

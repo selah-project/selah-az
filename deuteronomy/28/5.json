@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "Mübarəkdir sənin səbətin və xəmir qabın.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Mübarəkdir"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "sənin səbətin"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "və xəmir qabın"
+    }
+  ],
+  "timestamp": "2026-09-01T10:55:56.155599399Z",
+  "model": "glm-5.3"
+}

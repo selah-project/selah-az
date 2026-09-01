@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Pis adam salehin əleyhinə hiylə qurur, ona qarşı dişlərini qıcıldadır.",
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "hiylə qurur"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "pis adam"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "salehin əleyhinə"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "qıcıldadır"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ona qarşı"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "dişlərini"
+    }
+  ],
+  "timestamp": "2026-09-01T15:11:25.555363176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 2:10",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "O, onu mənim qarşımda açdı; o isə ön tərəfdən və arxa tərəfdən yazılmışdı, və ona yazılmışdı: ağılar, inilti ⟨və⟩ vay.",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "və açdı"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "onu (dasdanı)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mənim qarşımda"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "o isə"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "yazılmışdı"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ön tərəfdən"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "və arxa tərəfdən"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "və yazılmışdı"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "ağılar"
+    },
+    {
+      "surface": "והגה",
+      "gloss": "inilti"
+    },
+    {
+      "surface": "והי",
+      "gloss": "vay"
+    }
+  ],
+  "timestamp": "2026-09-01T14:00:32.354760987Z",
+  "model": "glm-5.3"
+}

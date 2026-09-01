@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 34:29",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 34,
+  "translation": "⟨את⟩ bütün var-dövlətlərini, ⟨את⟩ bütün uşaqlarını və ⟨את⟩ qadınlarını əsir apardılar və yağmaladılar, həmçinin ⟨את⟩ evdə olan hər şeyi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bütün var-dövlətlərini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "var-dövlətlərini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bütün uşaqlarını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "uşaqlarını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qadınlarını"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "qadınlarını"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "əsir apardılar"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "yağmaladılar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "evdə olan hər şeyi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər şeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "בבית",
+      "gloss": "evdə"
+    }
+  ],
+  "timestamp": "2026-09-01T09:57:44.895993768Z",
+  "model": "glm-5.3"
+}

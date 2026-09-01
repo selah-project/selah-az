@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 44:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 44,
+  "translation": "Bizi düşməndən geri çevirirsən, bizdən nifrət edənlər isə özlərinə qənimət aparırlar.",
+  "tokens": [
+    {
+      "surface": "תשיבנו",
+      "gloss": "bizi geri çevirirsən"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "geri"
+    },
+    {
+      "surface": "מני",
+      "gloss": "düşməndən…-dən"
+    },
+    {
+      "surface": "צר",
+      "gloss": "düşmən"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "bizdən nifrət edənlər"
+    },
+    {
+      "surface": "שסו",
+      "gloss": "qənimət aparırlar"
+    },
+    {
+      "surface": "למו",
+      "gloss": "özlərinə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:15:10.565702632Z",
+  "model": "glm-5.3"
+}

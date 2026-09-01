@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Və İsrailin Elohimini ⟨את⟩ gördülər; ayaqlarının altında safir daşından işlənmiş bir döşəmə ⟨kimidir⟩, təmizliyi ilə göyün ⟨özü⟩ kimi.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "gördülər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsrailin Elohimini"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailin"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "və altında"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ayaqlarının"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "işlənmiş kimi"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "döşəmə"
+    },
+    {
+      "surface": "הספיר",
+      "gloss": "safir daşından"
+    },
+    {
+      "surface": "וכעצם",
+      "gloss": "və özü kimi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göyün"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "təmizliyi"
+    }
+  ],
+  "timestamp": "2026-09-01T10:14:22.491104720Z",
+  "model": "glm-5.3"
+}

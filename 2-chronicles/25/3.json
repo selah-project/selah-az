@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Və padşahlıq ona möhkəmlənəndə, atası padşahı vuran qullarını öldürdü: ⟨את⟩ qullarını — padşahı ⟨את⟩ vuranların ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Və … olanda"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "möhkəmlənəndə"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "padşahlıq"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "öldürdü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qullarını"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "qullarını"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "vuranların"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "padşahı"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşahı"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atası"
+    }
+  ],
+  "timestamp": "2026-09-01T17:21:14.055310737Z",
+  "model": "glm-5.3"
+}

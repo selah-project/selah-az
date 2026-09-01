@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 149,
+  "translation": "Müttəqilər izzətdə sevinə-sevinə sıçrasınlar, yataqları üstündə nərilti ilə oxusunlar.",
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "sevinə-sevinə sıçrasınlar"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "müttəqilər"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "izzətdə"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "nərilti ilə oxusunlar"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "yataqları"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:41.485870771Z",
+  "model": "glm-5.3"
+}

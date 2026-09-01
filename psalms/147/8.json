@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 147:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 147,
+  "translation": "O, göyü buludlarla örtür, yerə yağış hazırlayır, dağlarda ot bitirir.",
+  "tokens": [
+    {
+      "surface": "המכסה",
+      "gloss": "örtür"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "göyü"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "buludlarla"
+    },
+    {
+      "surface": "המכין",
+      "gloss": "hazırlayır"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "yerə"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "yağış"
+    },
+    {
+      "surface": "המצמיח",
+      "gloss": "bitirir"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dağlarda"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ot"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:47.007402362Z",
+  "model": "glm-5.3"
+}

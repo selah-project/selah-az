@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 3:14",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Çünki onun qazancı gümüş ticarətindən yaxşıdır və onun məhsulu təmiz qızıldan ⟨da yaxşıdır⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşıdır"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "onun qazancı"
+    },
+    {
+      "surface": "מסחר",
+      "gloss": "ticarətindən"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "ומחרוץ",
+      "gloss": "və təmiz qızıldan"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "onun məhsulu"
+    }
+  ],
+  "timestamp": "2026-09-01T15:48:37.140185152Z",
+  "model": "glm-5.3"
+}

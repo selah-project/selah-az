@@ -1,0 +1,148 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 2:32",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Yahve onun qanını ⟨את⟩ onun öz başına qaytaracaq, çünki o, özündən daha saleh və daha yaxşı iki nəfərin üzərinə düşdü və onları qılıncsla öldürdü — atam Davud bunu bilməzdi: İsrail ordusunun komandiri Nerin oğlu Avneri ⟨את⟩ və Yehudanın ordusunun komandiri Yeterin oğlu Amasanı ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "והשיב",
+      "gloss": "qaytaracaq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onun qanını"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "onun qanını"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "öz başına"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "üzərinə düşdü"
+    },
+    {
+      "surface": "בשני",
+      "gloss": "iki"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "nəfərin"
+    },
+    {
+      "surface": "צדקים",
+      "gloss": "saleh"
+    },
+    {
+      "surface": "וטבים",
+      "gloss": "və yaxşı"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "özündən"
+    },
+    {
+      "surface": "ויהרגם",
+      "gloss": "və öldürdü"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "qılıncsla"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "və atam"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bilməzdi"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avneri"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Nerin"
+    },
+    {
+      "surface": "שר",
+      "gloss": "komandiri"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ordusunun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Amasanı"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yeterin"
+    },
+    {
+      "surface": "שר",
+      "gloss": "komandiri"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ordusunun"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudanın"
+    }
+  ],
+  "timestamp": "2026-09-01T12:11:44.595377468Z",
+  "model": "glm-5.3"
+}

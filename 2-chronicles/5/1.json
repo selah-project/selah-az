@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 5:1",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Və Şlomonun Yahvenin evi üçün etdiyi bütün iş tamamlandı, və Şlomon atası Davidin müqəddəs şeylərini ⟨את⟩, gümüşü ⟨את⟩, qızılı ⟨את⟩ və bütün qabları ⟨את⟩ gətirdi; Elohimin evinin xəzinələrinə qoydu.",
+  "tokens": [
+    {
+      "surface": "ותשלם",
+      "gloss": "tamamlandı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "iş"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etdiyi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şlomon"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "evi üçün"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "və gətirdi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şlomon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "müqəddəs şeylərini"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "müqəddəs şeylərini"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atası"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gümüşü"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "gümüşü"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qızılı"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "qızılı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bütün qabları"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "qabları"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "qoydu"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "xəzinələrinə"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimin"
+    }
+  ],
+  "timestamp": "2026-09-01T17:14:37.476337985Z",
+  "model": "glm-5.3"
+}

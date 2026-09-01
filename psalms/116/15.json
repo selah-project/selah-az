@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 116,
+  "translation": "Yahvenin gözündə hesidlarının ölümü qiymətlidir.",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "qiymətlidir"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "gözündə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "ölümü"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "hesidlarının"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:03.743024921Z",
+  "model": "glm-5.3"
+}

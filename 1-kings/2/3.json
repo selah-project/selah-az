@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 2:3",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və sən Yahve, Elohiminin gözləməsini ⟨את⟩ gözlə, onun yollarında getmək üçün, onun qanunlarını, əmrlərini, hökmlərini və şəhadətlərini saxlamaq üçün, Moşenin Tövrətində yazıldığı kimi — ki, nə edirsən ⟨את⟩ hamısında və hara yönəlirsən ⟨את⟩ hamısında müvəffəq olasan.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "və gözlə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gözləməsini"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "gözləməsini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiminin"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "getmək üçün"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "onun yollarında"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "saxlamaq üçün"
+    },
+    {
+      "surface": "חקתיו",
+      "gloss": "onun qanunlarını"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "əmrlərini"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "və hökmlərini"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "və şəhadətlərini"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "yazıldığı kimi"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "Tövrətində"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşenin"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תשכיל",
+      "gloss": "müvəffəq olasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hamısında"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamısında"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nə"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "edirsən"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hamısında"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamısında"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hara"
+    },
+    {
+      "surface": "תפנה",
+      "gloss": "yönəlirsən"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    }
+  ],
+  "timestamp": "2026-09-01T12:11:21.937692137Z",
+  "model": "glm-5.3"
+}

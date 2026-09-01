@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 103,
+  "translation": "Çünki göylər yerin üstündə nə qədər ucadırsa, Onun hesedi Onu qorxanların üstündə ⟨o qədər⟩ güclüdür.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "nə qədər uca"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "göylər"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "güclüdür"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Onun hesedi"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "Onu qorxanlar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:33:56.206341222Z",
+  "model": "glm-5.3"
+}

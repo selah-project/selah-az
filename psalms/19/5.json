@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Bütün ⟨torpaqda⟩ onların xətti çıxır, və dünyanın ucuna onların sözləri ⟨çatır⟩; günəş üçün onların içində çadır qoydu.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "torpaqda"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "çıxır"
+    },
+    {
+      "surface": "קום",
+      "gloss": "onların xətti"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "və ucuna"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dünyanın"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "onların sözləri"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "günəş üçün"
+    },
+    {
+      "surface": "שם",
+      "gloss": "qoydu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadır"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onların içində"
+    }
+  ],
+  "timestamp": "2026-09-01T15:07:29.934112766Z",
+  "model": "glm-5.3"
+}

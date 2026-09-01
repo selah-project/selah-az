@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 1:26",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və qalxmağa razı olmadınız, Yahve Elohiminizin ⟨את⟩ ağzına qarşı üsyan etdiniz.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "razı olmadınız"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "qalxmağa"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "üsyan etdiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ağız"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağız"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiminiz"
+    }
+  ],
+  "timestamp": "2026-09-01T10:46:49.908244417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 32:7",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Yahve Moşeyə danışdı: «Get, en, çünki sənin xalqın — Moşeyə deyilir — hansını Misir torpağından çıxarmısan — özünü korlamışdır.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "danışdı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨Moşeyə⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "get"
+    },
+    {
+      "surface": "רד",
+      "gloss": "en"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "özünü korlamışdır"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sənin xalqın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hansını"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "çıxarmısan"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "torpağından"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T10:19:40.713596585Z",
+  "model": "glm-5.3"
+}

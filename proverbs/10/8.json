@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 10:8",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Ürəyi ağıllı ⟨insan⟩ əmrləri qəbul edir, dodaqları qabarlı dəcəl isə devriləcək.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "ağıllı"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ürəyi"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "qəbul edir"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "əmrləri"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "dəcəl isə"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "dodaqları qabarlı"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "devriləcək"
+    }
+  ],
+  "timestamp": "2026-09-01T15:51:14.417060066Z",
+  "model": "glm-5.3"
+}

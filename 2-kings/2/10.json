@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 2:10",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və dedi: Sən çətin bir şey istədin. Əgər məni ⟨את⟩ səndən ⟨את⟩ götürüldüyüm zaman görərsən, sənə belə olsun; əgər yoxsa, olmaz.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Və dedi"
+    },
+    {
+      "surface": "הקשית",
+      "gloss": "çətin etdin"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "istəməyə"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Əgər"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "görərsən"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "məni"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "götürüldüyüm"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "səndən ⟨את⟩"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "כן",
+      "gloss": "belə"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "olmaz"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T12:28:32.430419566Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 4:15",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və sən onunla danışacaqsan və ⟨את⟩ sözləri onun ağzına qoyacaqsan; və Mən sənin ağzınla və onun ağzı ilə olacağam və ⟨את⟩ sizə öyrədəcəyəm ⟨את⟩ nəyi edəcəyiniz.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "danışacaqsan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "qoyacaqsan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sözləri"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sözləri"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "onun ağzına"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "və Mən"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "olacağam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ilə \/ yanında"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "sənin ağzın"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "və ilə"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "onun ağzı"
+    },
+    {
+      "surface": "והוריתי",
+      "gloss": "öyrədəcəyəm"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nəyi edəcəyiniz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nəyi ... ki"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "edəcəyiniz"
+    }
+  ],
+  "timestamp": "2026-09-01T10:05:31.734282829Z",
+  "model": "glm-5.3"
+}

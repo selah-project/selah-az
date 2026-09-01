@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 64:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 64,
+  "translation": "Və bütün insan qorxdu, Elohimin əməlini bildirdilər və Onun işini ⟨dərk etdilər⟩.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "qorxdılar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "bildirdilər"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "əməli"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "və Onun işi"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "dərk etdilər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:20:08.338653670Z",
+  "model": "glm-5.3"
+}

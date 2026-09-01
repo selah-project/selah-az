@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 3:50",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Yisrael oğullarının bəkərlərindən ⟨את⟩ gümüşü götürdü — min üç yüz altmış beş, müqəddəs şəkəl ilə",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "← ⟨את⟩"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "bəkərlərindən"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "götürdü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gümüşü"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "gümüşü"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "beş"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "altmış"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "üç"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "min"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "şəkəl ilə"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "müqəddəs"
+    }
+  ],
+  "timestamp": "2026-09-01T10:32:58.278483552Z",
+  "model": "glm-5.3"
+}

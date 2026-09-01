@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 106,
+  "translation": "Və onların düşmənləri onları sıxdı, və onlar ⟨onların⟩ əli altında ram oldular.",
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "onları sıxdı"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "onların düşmənləri"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "ram oldular"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "onların əli"
+    }
+  ],
+  "timestamp": "2026-09-01T15:35:57.520521233Z",
+  "model": "glm-5.3"
+}

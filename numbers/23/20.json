@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 23:20",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Bax, xeyir-dua almaq mənə əmr olundu; O xeyir-dua verdi və mən onu geri qaytara bilmərəm.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "xeyir-dua"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "almaq mənə əmr olundu"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "və O xeyir-dua verdi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... bilmərəm"
+    },
+    {
+      "surface": "אשיבנה",
+      "gloss": "oni geri qaytara bilmərəm"
+    }
+  ],
+  "timestamp": "2026-09-01T10:41:42.965840918Z",
+  "model": "glm-5.3"
+}

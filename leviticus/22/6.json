@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 22:6",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "ona toxunan can axşama qədər murdar olar və müqəddəs şeylərdən yeməyəcək, əgər bədənini suda yumazsa",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "can"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "toxunar"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "və murdar olar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "axşama"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yeməyəcək"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "müqəddəs şeylər"
+    },
+    {
+      "surface": "כי",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "yumazsa"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "bədənini"
+    },
+    {
+      "surface": "במים",
+      "gloss": "suda"
+    }
+  ],
+  "timestamp": "2026-09-01T10:28:56.686285060Z",
+  "model": "glm-5.3"
+}

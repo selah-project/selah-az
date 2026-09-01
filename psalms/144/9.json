@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 144,
+  "translation": "Elohim, yeni bir mahnı oxuyacam sənə, nəval on telli üstündə sənə zərblə çalacağam.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "mahnı"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "yeni"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "oxuyacağam"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "nəval üstündə"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "on telli"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "zərblə çalacağam"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:04.964187190Z",
+  "model": "glm-5.3"
+}

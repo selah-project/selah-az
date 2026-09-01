@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 38,
+  "translation": "Mən isə kar kimi ⟨eşitmirəm⟩ və lal kimi, ağzını açmayan ⟨kimi⟩.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "mən isə"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "kar kimi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "eşitmirəm"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "lal kimi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "açmayan"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ağzını"
+    }
+  ],
+  "timestamp": "2026-09-01T15:13:16.640876875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Öz gözündə müdrik olma; Yahve'dən ⟨את⟩ qorx və şərdən uzaqlaş.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "olma"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "⟨olma⟩"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "müdrik"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "öz gözündə"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "qorx"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve'dən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve'dən"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "və uzaqlaş"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "şərdən"
+    }
+  ],
+  "timestamp": "2026-09-01T17:43:34.630284301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 2:5",
+  "book": "amos",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və Yehudanın içinə od göndərəcəyəm, və o, Yeruşalayimin qalalarını yandıracaq.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "göndərəcəyəm"
+    },
+    {
+      "surface": "אש",
+      "gloss": "od"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Yehudanın içinə"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "və o yandıracaq"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "qalalarını"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayimin"
+    }
+  ],
+  "timestamp": "2026-09-01T14:40:49.440323044Z",
+  "model": "glm-5.3"
+}

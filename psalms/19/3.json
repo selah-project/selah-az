@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Gün gündən sözü qaynadır, və gecə gecəyə bilgi göstərir.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Gün"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "gündən"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "qaynadır"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sözü"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "və gecə"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "gecəyə"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "göstərir"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "bilgi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:07:21.853515310Z",
+  "model": "glm-5.3"
+}

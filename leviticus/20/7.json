@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Özünüzü müqəddəsləşdirin və müqəddəs olun, çünki Mən Yahve, sizin Elohiminizəm.",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "müqəddəsləşdirin"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "və olun"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "sizin Elohiminiz"
+    }
+  ],
+  "timestamp": "2026-09-01T10:29:08.853993358Z",
+  "model": "glm-5.3"
+}

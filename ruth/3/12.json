@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 3:12",
+  "book": "ruth",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və indi, həqiqətən, bəli, mən qohumam; lakin məndən daha yaxın qohum da var.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Və indi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "doğrudan"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "həqiqətən"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bəli"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "qohumam"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mən"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "lakin… da"
+    },
+    {
+      "surface": "יש",
+      "gloss": "var"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "qohum"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "daha yaxın"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "məndən"
+    }
+  ],
+  "timestamp": "2026-09-01T17:45:02.578988169Z",
+  "model": "glm-5.3"
+}

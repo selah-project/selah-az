@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 28:4",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "Hikmətinlə və anlayışınla özünə qüdrət qazandın və xəzinələrində ⟨özünə⟩ qızıl və gümüş yığdınsan.",
+  "tokens": [
+    {
+      "surface": "בחכמתך",
+      "gloss": "hikmətinlə"
+    },
+    {
+      "surface": "ובתבונתך",
+      "gloss": "və anlayışınla"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "qazandın"
+    },
+    {
+      "surface": "לך",
+      "gloss": "özünə"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "qüdrət"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "və yığdınsan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "qızıl"
+    },
+    {
+      "surface": "וככסף",
+      "gloss": "və gümüş"
+    },
+    {
+      "surface": "באוצרותיך",
+      "gloss": "xəzinələrində"
+    }
+  ],
+  "timestamp": "2026-09-01T14:20:33.917903440Z",
+  "model": "glm-5.3"
+}

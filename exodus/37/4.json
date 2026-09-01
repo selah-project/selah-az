@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Akasiya ağacından dirəklər düzəltdi və onları ⟨את⟩ qızılla örtdü.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "düzəltdi"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "dirəklər"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ağacından"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasiya"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "örtdü"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onları (dirəkləri)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "qızılla"
+    }
+  ],
+  "timestamp": "2026-09-01T10:20:50.078506106Z",
+  "model": "glm-5.3"
+}

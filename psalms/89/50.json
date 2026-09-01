@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 89,
+  "translation": "Hanı sənin əvvəlki hesedlərin, ey Adonay, ⟨onlar⟩ ki, Davitə and içdin öz sadiqliyində?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "Hanı"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "sənin hesedlərin"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "əvvəlki"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ey Adonay"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "and içdin"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davitə"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "öz sadiqliyində"
+    }
+  ],
+  "timestamp": "2026-09-01T15:31:43.027062762Z",
+  "model": "glm-5.3"
+}

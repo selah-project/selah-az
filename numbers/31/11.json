@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "Və ⟨את⟩ bütün qəniməti və ⟨את⟩ bütün ələ keçiriləni götürdülər — insanlarda da, heyvanlarda da.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "götürdülər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün qəniməti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "qəniməti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bütün ələ keçiriləni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "ələ keçiriləni"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "insanlarda"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "heyvanlarda da"
+    }
+  ],
+  "timestamp": "2026-09-01T10:44:00.172316403Z",
+  "model": "glm-5.3"
+}

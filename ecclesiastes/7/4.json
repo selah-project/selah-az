@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Hikmətlilərin ürəyi matəm evində ⟨olur⟩, və axmaqların ürəyi şadlıq evində.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "ürəyi"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "hikmətlilərin"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "evində"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "matəm"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "və ürəyi"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "axmaqların"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "evində"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "şadlıq"
+    }
+  ],
+  "timestamp": "2026-09-01T16:32:11.477206100Z",
+  "model": "glm-5.3"
+}

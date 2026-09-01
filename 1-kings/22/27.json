@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 22:27",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "və deyin: Belə deyir kral: Bu adamı ⟨את⟩ həbsxanaya qoyun, ona sıxıntı çörəyi və sıxıntı suyu yedirdin, mən salamat qayıdana qədər.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "və deyin"
+    },
+    {
+      "surface": "כה",
+      "gloss": "belə"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "qoyun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu adamı"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evə"
+    },
+    {
+      "surface": "הכלא",
+      "gloss": "həbsxana"
+    },
+    {
+      "surface": "והאכילהו",
+      "gloss": "ona yedirdin"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "çörək"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "sıxıntı"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "və su"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "sıxıntı"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "באי",
+      "gloss": "mən gələnə"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "salamat"
+    }
+  ],
+  "timestamp": "2026-09-01T12:27:15.969857414Z",
+  "model": "glm-5.3"
+}

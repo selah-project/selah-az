@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Yahve ha-şətana dedi: “Bax, o sənin əlindədir; yalnız ⟨את⟩ canını qoru.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ilə⟩"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ha-şətan"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "bax, o"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "sənin əlindədir"
+    },
+    {
+      "surface": "אך",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "canını"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "canını"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "qoru"
+    }
+  ],
+  "timestamp": "2026-09-01T18:02:34.929337895Z",
+  "model": "glm-5.3"
+}

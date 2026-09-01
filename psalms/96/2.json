@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 96:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 96,
+  "translation": "Yahveyə oxuyun, Adını mübarək edin, xilasını gündən günə müjdələyin.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "oxuyun"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "mübarək edin"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Adını"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "müjdələyin"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "gündən"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "günə"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "xilasını"
+    }
+  ],
+  "timestamp": "2026-09-01T15:32:19.049178358Z",
+  "model": "glm-5.3"
+}

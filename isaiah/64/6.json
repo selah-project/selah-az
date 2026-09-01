@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 64:6",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 64,
+  "translation": "Və Sənin adınla çağıran yoxdur, Sənə yapışmaq üçün özünü oyadan ⟨yoxdur⟩, çünki üzünü bizdən gizlətdin və haqsızlığımız ⟨əli ilə⟩ bizi əritdin.",
+  "tokens": [
+    {
+      "surface": "ואין",
+      "gloss": "və yoxdur"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "çağıran"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "Sənin adınla"
+    },
+    {
+      "surface": "מתעורר",
+      "gloss": "özünü oyadan"
+    },
+    {
+      "surface": "להחזיק",
+      "gloss": "yapışmaq üçün"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Sənə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "gizlətdin"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "üzünü"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "bizdən"
+    },
+    {
+      "surface": "ותמוגנו",
+      "gloss": "və bizi əritdin"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "əli ilə"
+    },
+    {
+      "surface": "עוננו",
+      "gloss": "haqsızlığımız"
+    }
+  ],
+  "timestamp": "2026-09-01T13:18:49.737851774Z",
+  "model": "glm-5.3"
+}

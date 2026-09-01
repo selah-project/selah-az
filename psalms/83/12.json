@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 83:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 83,
+  "translation": "Onların böyüklərini Orev ⟨kimi⟩, Zeev ⟨kimi⟩ et, Zevah ⟨kimi⟩ və Salmonna ⟨kimi⟩, onların bütün hökmdarlarını.",
+  "tokens": [
+    {
+      "surface": "שיתמו",
+      "gloss": "et"
+    },
+    {
+      "surface": "נדיבמו",
+      "gloss": "onların böyüklərini"
+    },
+    {
+      "surface": "כערב",
+      "gloss": "Orev ⟨kimi⟩"
+    },
+    {
+      "surface": "וכזאב",
+      "gloss": "Zeev ⟨kimi⟩"
+    },
+    {
+      "surface": "וכזבח",
+      "gloss": "Zevah ⟨kimi⟩"
+    },
+    {
+      "surface": "וכצלמנע",
+      "gloss": "Salmonna ⟨kimi⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "נסיכמו",
+      "gloss": "onların hökmdarlarını"
+    }
+  ],
+  "timestamp": "2026-09-01T15:27:06.723771332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 163,
+  "ref": "psalms 119:163",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Yalanı nifrətlə sevirəm — onu iyrənc bilirəm, sənin Tövrətini isə sevirəm.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "yalanı"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "nifrətlə sevirəm"
+    },
+    {
+      "surface": "ואתעבה",
+      "gloss": "və onu iyrənc bilirəm"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "sənin Tövrətini"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "sevirəm"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:11.496631132Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 22:8",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "murdar heyvan leşi və parçalanmış yırtıcı heyvan yeməz, onunla murdarlanmaq üçün; mən Yahveyəm",
+  "tokens": [
+    {
+      "surface": "נבלה",
+      "gloss": "murdar heyvan leşi"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "və parçalanmış yırtıcı heyvan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yeməz"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "murdarlanmaq üçün"
+    },
+    {
+      "surface": "בה",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T10:28:56.686602794Z",
+  "model": "glm-5.3"
+}

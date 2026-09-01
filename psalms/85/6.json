@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 85,
+  "translation": "Əbədimi bizə qəzəblənəcəksən? Qəzəbini nəsildən nəslə ⟨qədər⟩ çəkəcəksən?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "əbədimi"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "qəzəblənəcəksən"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "bizə"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "çəkəcəksən"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "qəzəbini"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "nəsildən"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nəslə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:11.248210714Z",
+  "model": "glm-5.3"
+}

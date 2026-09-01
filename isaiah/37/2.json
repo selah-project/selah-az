@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 37:2",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Ev üzrə olan Elyakimi, katib Şevnanı və kahanərin ağsaqqallarını — hamısı daba ilə örtünmüş — Yeşayahu peyğəmbərin, Amots oğlunun yanına göndərdi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "göndərdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyakimi"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Elyakimi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olan"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzrə"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "Şevnanı"
+    },
+    {
+      "surface": "שבנא",
+      "gloss": "Şevnanı"
+    },
+    {
+      "surface": "הסופר",
+      "gloss": "katib"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "ağsaqqallarını"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ağsaqqallarını"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kahanərin"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "örtünmüş"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "daba ilə"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeşayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "peyğəmbər"
+    }
+  ],
+  "timestamp": "2026-09-01T17:35:46.085848108Z",
+  "model": "glm-5.3"
+}

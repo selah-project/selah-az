@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "obadiah 1:3",
+  "book": "obadiah",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Ürəyinin təkəbbürü aldatdı səni, qayanın çatlarında yaşayan ⟨sən⟩, yüksəklikdə məskən salan; ürəyində deyən: Kim endirəcək məni yerə?",
+  "tokens": [
+    {
+      "surface": "זדון",
+      "gloss": "təkəbbür"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ürəyinin"
+    },
+    {
+      "surface": "השיאך",
+      "gloss": "aldatdı səni"
+    },
+    {
+      "surface": "שכני",
+      "gloss": "yaşayan"
+    },
+    {
+      "surface": "בחגוי",
+      "gloss": "çatlarında"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "qaya"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "yüksəklikdə"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "məskəni"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deyən"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "ürəyində"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kim"
+    },
+    {
+      "surface": "יורדני",
+      "gloss": "endirəcək məni"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerə"
+    }
+  ],
+  "timestamp": "2026-09-01T14:44:45.397205357Z",
+  "model": "glm-5.3"
+}

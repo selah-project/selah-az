@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "və ⟨את⟩ dəvəquşunu, və ⟨את⟩ gecə şahini, və ⟨את⟩ qağayını, və ⟨את⟩ şahini öz növünə görə",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dəvəquşu"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dəvəquşu (qızı)"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "dəvəquşu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gecə şahini"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "gecə şahini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qağayı"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "qağayı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "şahin"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "şahin"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "öz növünə görə"
+    }
+  ],
+  "timestamp": "2026-09-01T17:30:03.061068804Z",
+  "model": "glm-5.3"
+}

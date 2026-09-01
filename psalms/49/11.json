@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 49:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 49,
+  "translation": "Çünki müdriklərin öldüyünü görür; birlikdə axmaq və cahil məhv olur, və var-dövlətlərini başqalarına qoyub gedirlər.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "görür"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "müdriklərin"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "öldüyünü"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "birlikdə"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "axmaq"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "və cahil"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "məhv olur"
+    },
+    {
+      "surface": "ועזבו",
+      "gloss": "və qoyub gedirlər"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "başqalarına"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "var-dövlətlərini"
+    }
+  ],
+  "timestamp": "2026-09-01T15:15:44.851838107Z",
+  "model": "glm-5.3"
+}

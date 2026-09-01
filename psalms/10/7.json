@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Ağzı lənətlə, hiylə və aldadma ilə doludur; dilinin altında zəhmət və ədalətsizlik ⟨vardır⟩.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "lənət"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ağzı"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "doludur"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "hiylə"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "aldadma"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "dilinin"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "zəhmət"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "ədalətsizlik"
+    }
+  ],
+  "timestamp": "2026-09-01T15:05:27.842431812Z",
+  "model": "glm-5.3"
+}

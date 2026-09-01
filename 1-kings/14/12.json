@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Sən isə dur, evinə get; ayaqların şəhərə daxil olanda uşaq öləcək.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "sən"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "dur"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "get"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "evinə"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "daxil olanda"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "ayaqların"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "şəhərə"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "öləcək"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "uşaq"
+    }
+  ],
+  "timestamp": "2026-09-01T17:34:36.247757404Z",
+  "model": "glm-5.3"
+}

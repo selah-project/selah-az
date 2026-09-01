@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 12:1",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Və Yahve Avrama dedi: Özün üçün get, öz torpağından, öz doğma yerindən və atanın evindən, sənə göstərəcəyim ⟨את⟩ o torpağa ⟨doğru⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a doğru"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "לך",
+      "gloss": "get"
+    },
+    {
+      "surface": "לך",
+      "gloss": "özün üçün"
+    },
+    {
+      "surface": "מארצך",
+      "gloss": "öz torpağından"
+    },
+    {
+      "surface": "וממולדתך",
+      "gloss": "və öz doğma yerindən"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "və ... evindən"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "atanın"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a doğru"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "o torpaq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אראך",
+      "gloss": "sənə göstərəcəyim"
+    }
+  ],
+  "timestamp": "2026-09-01T09:49:06.618788408Z",
+  "model": "glm-5.3"
+}

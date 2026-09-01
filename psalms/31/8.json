@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "Sənin hesedində sevinəcək və şad olacağam, çünki ⟨את⟩ mənim çətinliyimi gördün, nəfsimin sıxıntılarını bildin.",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "sevinəcəyəm"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "və şad olacağam"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "sənin hesedində"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "gördün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mənim çətinliyimi"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "mənim çətinliyimi"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "bildin"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "sıxıntılarını"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nəfsimin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:09:19.147279298Z",
+  "model": "glm-5.3"
+}

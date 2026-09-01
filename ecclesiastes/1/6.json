@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Cənuba doğru gedir və şimala dolanır; fırlanır, fırlanır külək gedir və öz dövrlərinə görə külək geri qayıdır.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "gedir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "doğru"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "cənub"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "və dolanır"
+    },
+    {
+      "surface": "אל",
+      "gloss": "doğru"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "şimal"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "fırlanır"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "fırlanır"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "gedir"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "külək"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "və ... görə"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "öz dövrlərinə"
+    },
+    {
+      "surface": "שב",
+      "gloss": "geri qayıdır"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "külək"
+    }
+  ],
+  "timestamp": "2026-09-01T16:30:25.394074739Z",
+  "model": "glm-5.3"
+}

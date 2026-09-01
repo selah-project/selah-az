@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 35:17",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "Və əgər onu əldə daşla, hansından ölüm ola bilər, vurub və o ölsə — qatil o, qatil mütləq öldürüləcəkdir.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Və əgər"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "daşla"
+    },
+    {
+      "surface": "יד",
+      "gloss": "əldə"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hansından"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ölüm ola bilər"
+    },
+    {
+      "surface": "בה",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "vurub"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "və o ölsə"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "qatil"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mütləq"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "öldürüləcəkdir"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "qatil"
+    }
+  ],
+  "timestamp": "2026-09-01T10:45:13.670813534Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Padşah öz möhrünü əlindən çıxarıb onu Hamana, Hamedatanın oğlu, aqqaqlı, yəhudilərin düşməninə verdi.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "çıxartdı"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öz möhrünü"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "öz möhrünü"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "üstündən"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "əlinin"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "və verdi onu"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "Hamana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hamedatanın"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "aqqaqlı"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "düşməni"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "yəhudilərin"
+    }
+  ],
+  "timestamp": "2026-09-01T16:34:13.206368203Z",
+  "model": "glm-5.3"
+}

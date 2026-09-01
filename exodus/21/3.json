@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Öz başına girdisə, öz başına çıxsın; arvadının ağasıdırsa, arvadı onunla birlikdə çıxsın.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "öz başına (öz paltarında)"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "girdisə"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "öz başına"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "çıxsın"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ağası"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "arvadının"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dırsa"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "çıxsın"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "arvadı"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "onunla birlikdə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:15:32.037540012Z",
+  "model": "glm-5.3"
+}

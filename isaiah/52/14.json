@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 52:14",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 52,
+  "translation": "Necə ki çoxlar sən⟨i görə⟩ sarsıldılar, eləcə də onun görünüşü insan⟨in⟩ görünüşündən ⟨daha çox⟩ eybəcərləşdi, və onun siması Adəm oğullarının ⟨simasından fərqləndi⟩.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "necə ki"
+    },
+    {
+      "surface": "שממו",
+      "gloss": "sarsıldılar"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sən⟨i görə⟩"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "çoxlar"
+    },
+    {
+      "surface": "כן",
+      "gloss": "eləcə də"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "eybəcərləşdi"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "insan⟨dan⟩"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "onun görünüşü"
+    },
+    {
+      "surface": "ותארו",
+      "gloss": "və onun siması"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "…oğullarından"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adəm (insan)"
+    }
+  ],
+  "timestamp": "2026-09-01T13:13:11.652336683Z",
+  "model": "glm-5.3"
+}

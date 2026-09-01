@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 4:12",
+  "book": "job",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Mənə isə bir söz oğurlanaraq gətirildi, qulağım ondan bir xəbər-tükə qapdı.",
+  "tokens": [
+    {
+      "surface": "ואלי",
+      "gloss": "Mənə isə"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "söz"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "oğurlanaraq gətirildi"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "qapdı"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "qulağım"
+    },
+    {
+      "surface": "שמץ",
+      "gloss": "bir xəbər-tükə"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "ondan"
+    }
+  ],
+  "timestamp": "2026-09-01T16:02:15.396703547Z",
+  "model": "glm-5.3"
+}

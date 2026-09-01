@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Və Gad oğulları Divonu ⟨את⟩ və Atarotu ⟨את⟩ və Aroeri ⟨את⟩ tikdilər.",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "tikdilər"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Divon"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "Divonu"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "və ⟨את⟩",
+      "marks": "Atarot"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Atarotu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "Aroer"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "Aroeri"
+    }
+  ],
+  "timestamp": "2026-09-01T10:44:05.404492519Z",
+  "model": "glm-5.3"
+}

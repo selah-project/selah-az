@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 13:1",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Ağıllı oğul atanın tərbiyəsidir, moizator isə qınamanı eşitməz.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ağıllı"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tərbiyə"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ata"
+    },
+    {
+      "surface": "ולץ",
+      "gloss": "moizator"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eşitməz"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "qınama"
+    }
+  ],
+  "timestamp": "2026-09-01T15:53:08.434396052Z",
+  "model": "glm-5.3"
+}

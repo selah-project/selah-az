@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 45:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 45,
+  "translation": "Oxların ucludur; xalqlar sənin altına düşərlər; ⟨onlar⟩ padşahın düşmənlərinin ürəyinə ⟨düşərlər⟩.",
+  "tokens": [
+    {
+      "surface": "חציך",
+      "gloss": "oxların"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "ucludur"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "sənin altına"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "düşərlər"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "ürəyinə"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "düşmənlərinin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşahın"
+    }
+  ],
+  "timestamp": "2026-09-01T15:17:06.252176064Z",
+  "model": "glm-5.3"
+}

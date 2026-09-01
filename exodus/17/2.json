@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 17:2",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Və xalq Moşe ilə mübahisə etdi və dedilər: «Bizə su ver, içək.» Moşe onlara dedi: «Nə üçün mənimlə mübahisə edirsiniz? Nə üçün Yahveni ⟨את⟩ sınaqdan keçirirsiniz?»",
+  "tokens": [
+    {
+      "surface": "וירב",
+      "gloss": "mübahisə etdi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "dedilər"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "ver"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizə"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "içək"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə üçün"
+    },
+    {
+      "surface": "תריבון",
+      "gloss": "mübahisə edirsiniz"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "mənimlə"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə üçün"
+    },
+    {
+      "surface": "תנסון",
+      "gloss": "sınaqdan keçirirsiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T10:12:34.034688628Z",
+  "model": "glm-5.3"
+}

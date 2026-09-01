@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Əgər mənə qulaq asmazsanız və bütün bu əmrlərin ⟨את⟩ hamısını etməsəniz —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Əgər"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-maz"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "qulaq asmazsanız"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və -mə"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "etməsəniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün əmrlərin hamısı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamısını"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "əmrlərin"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-09-01T10:31:28.881543213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 47:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 47,
+  "translation": "Nəğmə oxuyun Elohimə, nəğmə oxuyun; nəğmə oxuyun padşahımıza, nəğmə oxuyun.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "nəğmə oxuyun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimə"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "nəğmə oxuyun"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "nəğmə oxuyun"
+    },
+    {
+      "surface": "למלכנו",
+      "gloss": "padşahımıza"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "nəğmə oxuyun"
+    }
+  ],
+  "timestamp": "2026-09-01T15:16:21.938527269Z",
+  "model": "glm-5.3"
+}

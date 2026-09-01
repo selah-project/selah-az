@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 15:10",
+  "book": "job",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Həm ağ saçlı, həm çox qoca kişi bizim ⟨içimizdə⟩dir — atanından daha böyük ⟨günlər cəhətdən⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "həm"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ağ saçlı"
+    },
+    {
+      "surface": "גם",
+      "gloss": "həm"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "çox qoca kişi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "bizim içimizdə"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "daha böyük"
+    },
+    {
+      "surface": "מאביך",
+      "gloss": "atanından"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günlər"
+    }
+  ],
+  "timestamp": "2026-09-01T16:08:38.630168148Z",
+  "model": "glm-5.3"
+}

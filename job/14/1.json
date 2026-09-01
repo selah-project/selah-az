@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 14:1",
+  "book": "job",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "İnsan, qadından doğulub ⟨—⟩ qısa günlər və\n    qəzəblə doludur.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "İnsan"
+    },
+    {
+      "surface": "ילוד",
+      "gloss": "doğulub"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "qadından"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "qısa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günlər"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "və doludur"
+    },
+    {
+      "surface": "רגז",
+      "gloss": "qəzəblə"
+    }
+  ],
+  "timestamp": "2026-09-01T16:08:15.940226308Z",
+  "model": "glm-5.3"
+}

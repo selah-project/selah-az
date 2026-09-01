@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 7:4",
+  "book": "esther",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Çünki satılmışıq — mən və xalqım — məhv edilməyə, öldürülməyə və yox olmağa; əgər qullara və kənizlərə satılmış olsaydııq, susardım, çünki ⟨düşmənin⟩ sıxıntısı kralın ziyanına bərabər deyil.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "נמכרנו",
+      "gloss": "satılmışıq"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "və xalqım"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "məhv edilməyə"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "öldürülməyə"
+    },
+    {
+      "surface": "ולאבד",
+      "gloss": "və yox olmağa"
+    },
+    {
+      "surface": "ואלו",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "qullara"
+    },
+    {
+      "surface": "ולשפחות",
+      "gloss": "və kənizlərə"
+    },
+    {
+      "surface": "נמכרנו",
+      "gloss": "satılmış olsaydııq"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "susardım"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "deyil"
+    },
+    {
+      "surface": "הצר",
+      "gloss": "⟨düşmənin⟩ sıxıntısı"
+    },
+    {
+      "surface": "שוה",
+      "gloss": "bərabər"
+    },
+    {
+      "surface": "בנזק",
+      "gloss": "ziyanına"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    }
+  ],
+  "timestamp": "2026-09-01T16:37:22.109005871Z",
+  "model": "glm-5.3"
+}

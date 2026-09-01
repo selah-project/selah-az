@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 12:4",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Və Yahve birdən Moşeyə, Ahrona və Mirjama dedi: «Üçünüz çıxın görüş çadırına.» Və üçü çıxdılar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "birdən"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahrona"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Mirjama"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "çıxın"
+    },
+    {
+      "surface": "שלשתכם",
+      "gloss": "üçünüz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ına"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadır"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "görüş"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "və çıxdılar"
+    },
+    {
+      "surface": "שלשתם",
+      "gloss": "üçü"
+    }
+  ],
+  "timestamp": "2026-09-01T10:37:51.716105641Z",
+  "model": "glm-5.3"
+}

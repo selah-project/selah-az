@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 43:5",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 43,
+  "translation": "Və ruah məni qaldırdı və məni daxili həyətə gətirdi; və bax, ev Yahvenin kavodu ilə dolmuşdu.",
+  "tokens": [
+    {
+      "surface": "ותשאני",
+      "gloss": "məni qaldırdı"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "ותביאני",
+      "gloss": "və məni gətirdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "həyət"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "daxili"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "və bax"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "dolmuşdu"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kavod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ev"
+    }
+  ],
+  "timestamp": "2026-09-01T17:38:55.839676691Z",
+  "model": "glm-5.3"
+}

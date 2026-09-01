@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 67,
+  "translation": "Yer məhsulunu verib; Elohim, bizim Elohimimiz bizi barəkləyəcək.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "verib"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "məhsulunu"
+    },
+    {
+      "surface": "יברכנו",
+      "gloss": "bizi barəkləyəcək"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "bizim Elohimimiz"
+    }
+  ],
+  "timestamp": "2026-09-01T15:21:02.947869052Z",
+  "model": "glm-5.3"
+}

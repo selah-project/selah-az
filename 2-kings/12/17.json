@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 12:17",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Günah qurbanının gümüşü və təqsir qurbanının gümüşü Yahvenin evinə gətirilməzdi; kahinlərin olardı.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "gümüşü"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "təqsir qurbanının"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "və ... gümüşü"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "günah qurbanının"
+    },
+    {
+      "surface": "לא",
+      "gloss": "gətirilməzdi"
+    },
+    {
+      "surface": "יובא",
+      "gloss": ""
+    },
+    {
+      "surface": "בית",
+      "gloss": "evinə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "kahinlərin"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "olardı"
+    }
+  ],
+  "timestamp": "2026-09-01T12:36:32.637213159Z",
+  "model": "glm-5.3"
+}

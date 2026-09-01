@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "O, mənə ev tikəcək və onun taxtını ⟨את⟩ əbədiyyən möhkəmləndirəcəyəm.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "tikəcək"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "möhkəmləndirəcəyəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onun taxtını"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "onun taxtı"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dək"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "əbədiyyən"
+    }
+  ],
+  "timestamp": "2026-09-01T17:06:26.836149589Z",
+  "model": "glm-5.3"
+}

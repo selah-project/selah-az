@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 49,
+  "translation": "Və bundan sonra Ammon oğullarının ⟨את⟩ sürgününü geri qaytaracağam — deyir Yahve.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "Və ... sonra"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bundan"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "geri qaytaracağam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ammon oğullarının sürgününü"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "sürgününü"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T13:55:58.968125054Z",
+  "model": "glm-5.3"
+}

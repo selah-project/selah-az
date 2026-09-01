@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 109,
+  "translation": "Ona hesed çəkən olmasın, və yetimlərinə lütf edən olmasın.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "olmasın (inkar)"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "משך",
+      "gloss": "çəkən"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və olmasın"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "lütf edən"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "yetimlərinə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:37:21.388117511Z",
+  "model": "glm-5.3"
+}

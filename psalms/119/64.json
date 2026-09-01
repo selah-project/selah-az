@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 119:64",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Yahve, Sənin hesedinlə yer doludur; mənə Sənin qanunlarını öyrət.",
+  "tokens": [
+    {
+      "surface": "חסדך",
+      "gloss": "hesedinlə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "doludur"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "qanunlarını"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "mənə öyrət"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:02.122814734Z",
+  "model": "glm-5.3"
+}

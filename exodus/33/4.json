@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "Xalq ⟨את⟩ bu pis sözü eşitdi və yas tutdular, və heç bir adam öz bəzəyini özünə qoymadı.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "eşitdi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu pis sözü"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sözü"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "pis"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "və yas tutdular"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "qoymadı"
+    },
+    {
+      "surface": "איש",
+      "gloss": "heç bir adam"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "öz bəzəyini"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "özünə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:20:04.938492235Z",
+  "model": "glm-5.3"
+}

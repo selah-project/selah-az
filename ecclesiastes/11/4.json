@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Küləyə baxan əkməz, buludlara baxan biçməz.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "baxan"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "küləyə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "əkməz"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "və baxan"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "buludlara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "biçməz"
+    }
+  ],
+  "timestamp": "2026-09-01T16:32:13.395726424Z",
+  "model": "glm-5.3"
+}

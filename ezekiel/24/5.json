@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 24:5",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Sürünün seçilmişini götür, sümüklərin dəstəsini də onun altına yığ; qaynat onu, qaynansın, hətta sümükləri də onun içində bişsin.",
+  "tokens": [
+    {
+      "surface": "מבחר",
+      "gloss": "seçilmişini"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "sürünün"
+    },
+    {
+      "surface": "לקוח",
+      "gloss": "götür"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "və hətta"
+    },
+    {
+      "surface": "דור",
+      "gloss": "dəstəsini"
+    },
+    {
+      "surface": "העצמים",
+      "gloss": "sümüklərin"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "onun altına"
+    },
+    {
+      "surface": "רתח",
+      "gloss": "qaynat"
+    },
+    {
+      "surface": "רתחיה",
+      "gloss": "qaynansın"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hətta"
+    },
+    {
+      "surface": "בשלו",
+      "gloss": "bişsin"
+    },
+    {
+      "surface": "עצמיה",
+      "gloss": "sümükləri"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "onun içində"
+    }
+  ],
+  "timestamp": "2026-09-01T14:16:53.242331640Z",
+  "model": "glm-5.3"
+}

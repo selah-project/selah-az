@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 42:16",
+  "book": "job",
+  "lang": "az",
+  "chapter": 42,
+  "translation": "Bundan sonra İyyub yüz qırx il yaşadı və oğullarını ⟨את⟩ və oğullarının oğullarını ⟨את⟩ — dörd nəsli gördü.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "yaşadı"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "İyyub"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sonra"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bundan"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "qırx"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "il"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "gördü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oğullarını"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oğullarının oğullarını"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "dörd"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "nəsli"
+    }
+  ],
+  "timestamp": "2026-09-01T16:20:22.745229141Z",
+  "model": "glm-5.3"
+}

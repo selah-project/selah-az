@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 8:10",
+  "book": "job",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Məgər onlar sənə öyrətməzlər, sənə deməzlər, ürəklərindən sözlər çıxarmazlar?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "məgər ... -mı"
+    },
+    {
+      "surface": "הם",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "יורוך",
+      "gloss": "sənə öyrətməzlər"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "deməzlər"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "ומלבם",
+      "gloss": "ürəklərindən"
+    },
+    {
+      "surface": "יוצאו",
+      "gloss": "çıxarmazlar"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "sözlər"
+    }
+  ],
+  "timestamp": "2026-09-01T16:04:16.860846820Z",
+  "model": "glm-5.3"
+}

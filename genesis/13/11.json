@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 13:11",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "və Lot özünə ⟨üçün⟩ bütün Yarden ovasını seçdi və Lot şərqə yola düşdü və ⟨onlar⟩ hər biri qardaşından ayrıldı.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "seçdi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "özünə"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün Yarden ovasını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "ovasını"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ויסע",
+      "gloss": "yola düşdü"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "şərqə"
+    },
+    {
+      "surface": "ויפרדו",
+      "gloss": "ayrıldı"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər biri"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "—"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "qardaşından"
+    }
+  ],
+  "timestamp": "2026-09-01T09:49:18.757601029Z",
+  "model": "glm-5.3"
+}

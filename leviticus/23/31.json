@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 23:31",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Hər hansı iş görməyin: nəsillərinizdə, bütün yaşayış yerlərinizdə əbədi qanundur.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hər hansı"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "iş"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "görməyin"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "qanundur"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "nəsillərinizdə"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "yaşayış yerlərinizdə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:30:52.567103395Z",
+  "model": "glm-5.3"
+}

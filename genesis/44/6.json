@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 44,
+  "translation": "Və onlara çatdı və onlarla ⟨את⟩ bu sözləri danışdı.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "çatdı"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "danışdı"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "onlarla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu sözləri"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sözləri"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-09-01T10:01:05.502950236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 31:3",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "Moşe xalqa danışdı ⟨deyə⟩: Özünüzdən ⟨את⟩ müharibəyə adamlar səfərbər edin; Midyanın üstündə olsunlar, Yahvenin Midyanda ⟨qarşı⟩ intiqamını vermək üçün.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "danışdı"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ə⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨deyə⟩"
+    },
+    {
+      "surface": "החלצו",
+      "gloss": "səfərbər edin"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "⟨את⟩",
+      "marks": "özünüzdən adamlar"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "adamlar"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "müharibəyə"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "olsunlar"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyanın"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "vermək üçün"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "intiqamını"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "במדין",
+      "gloss": "Midyanda"
+    }
+  ],
+  "timestamp": "2026-09-01T10:43:58.433761433Z",
+  "model": "glm-5.3"
+}

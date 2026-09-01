@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 135,
+  "translation": "Yahve, adın əbədidir; Yahve, xatirən nəsildən-nəslə ⟨qalır⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "adın"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədidir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "xatirən"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "nəsildən-"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nəslə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:32.473833659Z",
+  "model": "glm-5.3"
+}

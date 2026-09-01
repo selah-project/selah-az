@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 149,
+  "translation": "Yisrael Özünü Yaradanında sevinəcək, Tsiyonun oğulları öz padşahlarında coşacaqlar.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "sevinəcək"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "Özünü Yaradanında"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyonun"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "coşacaqlar"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "öz padşahlarında"
+    }
+  ],
+  "timestamp": "2026-09-01T15:47:00.355309466Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 118:29",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 118,
+  "translation": "Yahveyə şükür edin, çünki O xeyirdir, çünki Onun hesedi əbədidir.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "şükür edin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "xeyirdir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədidir"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Onun hesedi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:23.431032305Z",
+  "model": "glm-5.3"
+}

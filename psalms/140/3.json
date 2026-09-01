@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 140:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 140,
+  "translation": "Onlar ⟨qəlblərində⟩ pisliklər qururlar, bütün gün döyüşlər ⟨qaldırırlar⟩.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "onlar ⟨ki⟩"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "qururlar"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "pisliklər"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "qəlblərində"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "⟨qaldırırlar⟩"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "döyüşlər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:45:07.797569501Z",
+  "model": "glm-5.3"
+}

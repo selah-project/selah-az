@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 45:13",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 45,
+  "translation": "Və Tsor qızı hədiyyə ⟨ilə gəlir⟩; sənin üzgülüyünü yalvaracaq xalqın zənginləri.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "və qızı"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsorun"
+    },
+    {
+      "surface": "במנחה",
+      "gloss": "hədiyyə"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "üzgülüyünü"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "yalvaracaq"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "zənginləri"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalqın"
+    }
+  ],
+  "timestamp": "2026-09-01T15:16:31.626754993Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 59:20",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 59,
+  "translation": "Və Siona Qayıdan gələcək, Yaqovda üsyan etmişlərə doğru — Yahve deyir.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "gələcək"
+    },
+    {
+      "surface": "לציון",
+      "gloss": "Siona"
+    },
+    {
+      "surface": "גואל",
+      "gloss": "Qayıdan"
+    },
+    {
+      "surface": "ו לשבי",
+      "gloss": "etmişlərə doğru"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "üsyan"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "Yaqovda"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T13:17:10.237267491Z",
+  "model": "glm-5.3"
+}

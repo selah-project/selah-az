@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 5:5",
+  "book": "esther",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Və padşah dedi: Tələsin ⟨את⟩ Hanan, ⟨את⟩ Esterin sözünü yerinə yetirmək üçün. Və padşah və Hanan Esterin hazırladığı ziyafətə gəldilər.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "tələsin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hanan"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hanan"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yerinə yetirmək üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esterin sözünü"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sözünü"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esterin"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "və gəldi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "və Hanan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "ziyafətə"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "hazırladığı"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esterin"
+    }
+  ],
+  "timestamp": "2026-09-01T16:34:56.049622088Z",
+  "model": "glm-5.3"
+}

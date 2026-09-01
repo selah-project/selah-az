@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 22:12",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Və kohanın qızı, əgər yad kişiylə ⟨evli⟩ olsa, o, müqəddəs şeylərin tərvəsindən yeməyəcək.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "və qızı"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohanın"
+    },
+    {
+      "surface": "כי",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olsa"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kişiylə"
+    },
+    {
+      "surface": "זר",
+      "gloss": "yad"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "בתרומת",
+      "gloss": "tərvəsindən"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "müqəddəs şeylərin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-məyəcək"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yeməyəcək"
+    }
+  ],
+  "timestamp": "2026-09-01T10:29:17.857145859Z",
+  "model": "glm-5.3"
+}

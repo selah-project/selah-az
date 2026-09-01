@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 139,
+  "translation": "Bucaqsız cövhərimi gözlərin gördü, və kitabında hamısı yazıldı — günlər ⟨hələ⟩ yaradılmamışdı, onlardan ⟨bir⟩ nə ⟨var idi⟩.",
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "Bucaqsız cövhərimi"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "gördü"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "gözlərin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "və ⟨haqqında⟩"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "kitabında"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "hamısı"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "yazıldı"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günlər"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "yaradılmamışdı"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nə ⟨var idi⟩"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onlardan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:44:47.136674301Z",
+  "model": "glm-5.3"
+}

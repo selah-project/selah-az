@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 8:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Onu əllərinin əməlləri üstündə hökmdar etdin, hamısını onun ayaqları altına qoydun.",
+  "tokens": [
+    {
+      "surface": "תמשילהו",
+      "gloss": "onu hökmdar etdin"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "əməlləri"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "əllərinin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamısını"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "qoydun"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altına"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "onun ayaqları"
+    }
+  ],
+  "timestamp": "2026-09-01T15:03:30.384023170Z",
+  "model": "glm-5.3"
+}

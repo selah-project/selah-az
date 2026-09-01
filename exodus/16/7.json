@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 16:7",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "və səhər vaxtı siz Yahvenin izzətini görəcəksiniz, çünki o, Yahveyə qarşı narazılıqlarınızı eşidir; biz nəyik ⟨ki⟩ bizə qarşı narazı olursunuz?",
+  "tokens": [
+    {
+      "surface": "וּבֹ֗קֶר",
+      "gloss": "və səhər vaxtı"
+    },
+    {
+      "surface": "וּרְאִיתֶם֙",
+      "gloss": "siz görəcəksiniz"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "izzət"
+    },
+    {
+      "surface": "כְּב֣וֹד",
+      "gloss": "izzət"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "בְּשָׁמְע֥וֹ",
+      "gloss": "o eşidir"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "narazılıqlarınız"
+    },
+    {
+      "surface": "תְּלֻנֹּתֵיכֶ֖ם",
+      "gloss": "narazılıqlarınızı"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "qarşı"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "וְנַ֣חְנוּ",
+      "gloss": "biz"
+    },
+    {
+      "surface": "מָ֔ה",
+      "gloss": "nəyik"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "⟨ki⟩"
+    },
+    {
+      "surface": "תְּל֥וּנוּ",
+      "gloss": "narazı olursunuz"
+    },
+    {
+      "surface": "עָלֵֽינוּ",
+      "gloss": "bizə qarşı"
+    }
+  ],
+  "timestamp": "2026-09-01T17:56:26.121910514Z",
+  "model": "glm-5.3"
+}

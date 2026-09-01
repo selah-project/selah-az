@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 40:14",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "⟨את⟩ Kiminlə məsləhətləşdi, və ⟨o⟩ Ona anladı, və Ona məşq etdi ədalət yolunda, və Ona elmi öyrətdi, və anlayış yollarını Ona bildirdi?",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kiminlə"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "נועץ",
+      "gloss": "məsləhətləşdi"
+    },
+    {
+      "surface": "ויבינהו",
+      "gloss": "Ona anladı"
+    },
+    {
+      "surface": "וילמדהו",
+      "gloss": "Ona öyrətdi"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "yolunda"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ədalət"
+    },
+    {
+      "surface": "וילמדהו",
+      "gloss": "Ona öyrətdi"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "elmi"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "və yollarını"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "anlayış"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "Ona bildirdi"
+    }
+  ],
+  "timestamp": "2026-09-01T13:06:28.916706060Z",
+  "model": "glm-5.3"
+}

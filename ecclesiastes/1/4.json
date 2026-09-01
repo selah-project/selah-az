@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Nəsil gedir, nəsil gəlir, amma yer əbədi qalır.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Nəsil"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "gedir"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "nəsil"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gəlir"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "amma yer"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "qalır"
+    }
+  ],
+  "timestamp": "2026-09-01T16:29:40.764738061Z",
+  "model": "glm-5.3"
+}

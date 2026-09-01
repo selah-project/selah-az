@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 107,
+  "translation": "Düzgünlər ⟨bunu⟩ görüb sevinər, və bütün haqsızlıq ağzını bağlayar.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "görüb"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "düzgünlər"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "sevinər"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "haqsızlıq"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "bağlayar"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ağzını"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:55.077818148Z",
+  "model": "glm-5.3"
+}

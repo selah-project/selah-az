@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Şər günahkarı qovur, və ⟨את⟩ salehləri yaxşılıqla ⟨ödəyir⟩.",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "günahkarı"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "qovur"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "şər"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "salehləri"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "salehləri"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ödəyir"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşılıqla"
+    }
+  ],
+  "timestamp": "2026-09-01T15:52:09.660453460Z",
+  "model": "glm-5.3"
+}

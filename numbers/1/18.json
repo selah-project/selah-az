@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 1:18",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "və ikinci ayın birincisində bütün cəmiyyəti ⟨את⟩ topladılar və öz nəsillərini, ata evlərinə görə, adlarının sayı ilə, iyirmi yaşından yuxarı, hər kəsi başına- başına bəyan etdilər.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bütün cəmiyyəti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "cəmiyyəti"
+    },
+    {
+      "surface": "הקהילו",
+      "gloss": "topladılar"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "birincisində"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ayın"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikinci"
+    },
+    {
+      "surface": "ויתילדו",
+      "gloss": "nəsillərini bəyan etdilər"
+    },
+    {
+      "surface": "על",
+      "gloss": "görə"
+    },
+    {
+      "surface": "משפחתם",
+      "gloss": "tayfalarının"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "atalarının"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "sayı ilə"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "adlarının"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "yaşından"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iyirmi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yaş"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "yuxarı"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "başına-başına"
+    }
+  ],
+  "timestamp": "2026-09-01T10:32:36.214140930Z",
+  "model": "glm-5.3"
+}

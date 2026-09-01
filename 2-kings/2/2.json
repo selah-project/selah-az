@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 2:2",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və Eliya Elişaya dedi: Qal burada, nə olar, çünki Yahve məni Beit-Elə qədər göndərib. Elişa isə dedi: Yahve yaşayır və sənin nəfşin yaşayır, səni tərk etsəm ⟨olsun⟩. Və Beit-Elə endilər.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Və dedi"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elişa"
+    },
+    {
+      "surface": "שב",
+      "gloss": "Qal"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nə olar"
+    },
+    {
+      "surface": "פה",
+      "gloss": "burada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "məni göndərib"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elişa"
+    },
+    {
+      "surface": "חי",
+      "gloss": "yaşayır"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "və yaşayır"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "sənin nəfşin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "səni tərk etsəm"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "və endilər"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-01T12:29:16.021334893Z",
+  "model": "glm-5.3"
+}

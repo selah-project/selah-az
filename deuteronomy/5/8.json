@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 5:8",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Özünə oyulmuş surət, göylərdə yuxarıda olan hər hansı şəkildən, yerdə aşağıda olan və sularda yerin altında olandan başqa heç bir şəkil düzəltməyəcəksən",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "düzəltməyəcəksən"
+    },
+    {
+      "surface": "לך",
+      "gloss": "özünə"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "oyulmuş surət"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər hansı"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "şəkildən"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olan"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "göylərdə"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "yuxarıda"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "və ... olan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerdə"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "aşağıda"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "və ... olan"
+    },
+    {
+      "surface": "במים",
+      "gloss": "sularda"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "yerin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:47:13.556390227Z",
+  "model": "glm-5.3"
+}

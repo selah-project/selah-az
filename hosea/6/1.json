@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 6:1",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Gəlin, Yahveyə qayıdaq, çünki o, ⟨bizi⟩ parçaladı və bizə şəfa verəcək; o, vurdu və bizi sarıyacaq.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "gəlin"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "qayıdaq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-yə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "parçaladı"
+    },
+    {
+      "surface": "וירפאנו",
+      "gloss": "bizə şəfa verəcək"
+    },
+    {
+      "surface": "יך",
+      "gloss": "vurdu"
+    },
+    {
+      "surface": "ויחבשנו",
+      "gloss": "bizi sarıyacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T14:34:22.524173303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Çünki o, Yoveldir — sizin üçün müqəddəs olacaq; sahədən ⟨את⟩ onun məhsulunu yeyəcəksiniz.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "Yovel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin üçün"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dən"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sahə"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yeyəcəksiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onun məhsulunu"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "onun məhsulunu"
+    }
+  ],
+  "timestamp": "2026-09-01T10:31:06.078274559Z",
+  "model": "glm-5.3"
+}

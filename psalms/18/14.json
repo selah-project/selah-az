@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 18:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Yahve göylərdə güllədi, Elyon öz səsini verdi — dolu və od kömürləri.",
+  "tokens": [
+    {
+      "surface": "וירעם",
+      "gloss": "güllədi"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "göylərdə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "öz səsini"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "dolu"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "və od kömürləri"
+    },
+    {
+      "surface": "אש",
+      "gloss": "od"
+    }
+  ],
+  "timestamp": "2026-09-01T17:41:48.480127392Z",
+  "model": "glm-5.3"
+}

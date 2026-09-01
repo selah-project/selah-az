@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezekiel 20:37",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Və sizi çubuğun altından ⟨את⟩ keçirəcəyəm və sizi əhdin bağına ⟨את⟩ gətirəcəyəm.",
+  "tokens": [
+    {
+      "surface": "והעברתי",
+      "gloss": "keçirəcəyəm"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "siz (çubuğun altından keçən)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altından"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "çubuğun"
+    },
+    {
+      "surface": "והבאתי",
+      "gloss": "gətirəcəyəm"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "siz (əhdin bağına gələn)"
+    },
+    {
+      "surface": "במסרת",
+      "gloss": "bağına"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "əhdin"
+    }
+  ],
+  "timestamp": "2026-09-01T14:14:11.726411751Z",
+  "model": "glm-5.3"
+}

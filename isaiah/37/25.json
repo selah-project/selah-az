@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 37:25",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Mən qazdım və su içdim, və ayağımın tapası ilə Mitsrayimin bütün kanallarını qurudum.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "קרתי",
+      "gloss": "qazdım"
+    },
+    {
+      "surface": "וshתיתי",
+      "gloss": "və içdim"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    },
+    {
+      "surface": "ואחריב",
+      "gloss": "və qurudum"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "tapanı ilə"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "ayağımın"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "kanallarını"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "Mitsrayimin"
+    }
+  ],
+  "timestamp": "2026-09-01T13:05:34.843957253Z",
+  "model": "glm-5.3"
+}

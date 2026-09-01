@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 5:3",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Elohimə nəzir adamışda onu ödəməyi təxirə salma, çünki axmaqlarda razılıq yoxdur; nə adamışsan ⟨את⟩ onu ödə.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "nə zaman"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "adamışda"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "nəzir"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimə"
+    },
+    {
+      "surface": "אל",
+      "gloss": "olmasın"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "təxirə salma"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "onu ödəməyi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "razılıq"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "axmaqlarda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nə adamışsan (onə şamil edir)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nə"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "adamışsan"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "ödə"
+    }
+  ],
+  "timestamp": "2026-09-01T16:30:16.194249502Z",
+  "model": "glm-5.3"
+}

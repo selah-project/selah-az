@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 8:16",
+  "book": "job",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "O, günəş önündə şirəli ⟨dır⟩, və onun budağı onun bağı üzərinə çıxar.",
+  "tokens": [
+    {
+      "surface": "רטב",
+      "gloss": "şirəli"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "O"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önündə"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "günəş"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "və üzərinə"
+    },
+    {
+      "surface": "גנתו",
+      "gloss": "onun bağı"
+    },
+    {
+      "surface": "ינקתו",
+      "gloss": "onun budağı"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "çıxar"
+    }
+  ],
+  "timestamp": "2026-09-01T16:04:34.270494287Z",
+  "model": "glm-5.3"
+}

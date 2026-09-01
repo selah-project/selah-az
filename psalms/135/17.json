@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 135,
+  "translation": "Qulaqları var onların, amma eşitmirlər; hətta onların ağzında nəfəs yoxdur.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "Qulaqları"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onların"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma... yox"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "eşitmirlər"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hətta"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "יש",
+      "gloss": ""
+    },
+    {
+      "surface": "רוח",
+      "gloss": "nəfəs"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "onların ağzında"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:45.947196593Z",
+  "model": "glm-5.3"
+}

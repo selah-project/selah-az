@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 94:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 94,
+  "translation": "İntiqam Elohimidir, Yahve; intiqam Elohimidir, ⟨özünü⟩ göstər.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "intiqam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "intiqam"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "⟨özünü⟩ göstər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:32:19.419351692Z",
+  "model": "glm-5.3"
+}

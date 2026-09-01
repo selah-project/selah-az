@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 94,
+  "translation": "Yahve insanın düşüncələrini bilir, çünki onlar ⟨boşluqdur⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilir"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "düşüncələrini"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insanın"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "boşluqdur"
+    }
+  ],
+  "timestamp": "2026-09-01T15:31:39.180700812Z",
+  "model": "glm-5.3"
+}

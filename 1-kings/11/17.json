@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 11:17",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Hadad qaçdı, o ⟨özü⟩ və atasının qullarından bəzi Edomlular onunla birlikdə, Mitsrayimə girmək üçün; Hadad isə kiçik bir uşaq idi.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "qaçdı"
+    },
+    {
+      "surface": "אדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o ⟨özü⟩"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "və bəzi adamlar"
+    },
+    {
+      "surface": "אדמיים",
+      "gloss": "Edomlu"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "qullarından"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atasının"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "onunla ⟨את⟩"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "girmək üçün"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimə"
+    },
+    {
+      "surface": "והדד",
+      "gloss": "və Hadad"
+    },
+    {
+      "surface": "נער",
+      "gloss": "uşaq"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "kiçik"
+    }
+  ],
+  "timestamp": "2026-09-01T12:19:59.809745207Z",
+  "model": "glm-5.3"
+}

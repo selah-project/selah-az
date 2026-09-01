@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 16:30",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Çünki bu gündə sizin üçün kəffarə olunacaq, sizi təmizləmək üçün — bütün günahlarınızdan ⟨את⟩ sizin təmizlənməyiniz üçün Yahvenin hüzurunda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gündə"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "kəffarə olunacaq"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sizin üçün"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "təmizləmək üçün"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bütün ... dan"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "günahlarınız"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hüzurunda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תטהרו",
+      "gloss": "təmizlənməyiniz üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:28:31.313122190Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Bir şər var ki, onu günəş altında gördüm, və o, insan üzərində ağırdır.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "var"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "şər"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "gördüm"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "günəş"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "və ağırdır"
+    },
+    {
+      "surface": "היא",
+      "gloss": "o"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərində"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insan"
+    }
+  ],
+  "timestamp": "2026-09-01T16:32:40.502081832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 41:13",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 41,
+  "translation": "Mənə gəlincə, mənim təmizliyimdə məni saxlayırsan və məni öz üzünün önünə əbədi olaraq düzəldirsən.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "mənə gəlincə"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "mənim təmizliyimdə"
+    },
+    {
+      "surface": "תמכת",
+      "gloss": "saxlayırsan"
+    },
+    {
+      "surface": "בי",
+      "gloss": "məni"
+    },
+    {
+      "surface": "ותציבני",
+      "gloss": "və məni düzəldirsən"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "öz üzünün önünə"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədi olaraq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:12:32.733750369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Atasının arvadını kişi almaz ⟨את⟩, və atasının qanadını açıb göstərməz.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "almaz"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kişi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atasının arvadını"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "arvadını"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atasının"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "açıb göstərməz"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "qanadını (paltarın ətəyini)"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atasının"
+    }
+  ],
+  "timestamp": "2026-09-01T10:54:21.433585183Z",
+  "model": "glm-5.3"
+}

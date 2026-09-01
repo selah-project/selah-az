@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və məni ⟨את⟩ həyətin girişinə gətirdi; mən baxdım və görürəm ki, divarda bir deşik ⟨var⟩.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "gətirdi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "məni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "girişinə"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "həyətin"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "və baxdım"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "və görürəm"
+    },
+    {
+      "surface": "חר",
+      "gloss": "deşik"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "divarda"
+    }
+  ],
+  "timestamp": "2026-09-01T14:01:55.974352845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 12:6",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "gümüş kəndir qopmadığı, qızıl kürə dağılmadığı, çeşmə başındakı küp kırılmadığı və çənbərək quyuya düşdüyü vaxta qədər ⟨⟨ölümdən əvvəl⟩⟩.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "qopmadığı"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "kəndir"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "və dağılmadığı"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "kürə"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "qızıl"
+    },
+    {
+      "surface": "ותשבר",
+      "gloss": "və kırılmadığı"
+    },
+    {
+      "surface": "כד",
+      "gloss": "küp"
+    },
+    {
+      "surface": "על",
+      "gloss": "başında"
+    },
+    {
+      "surface": "המבוע",
+      "gloss": "çeşmə"
+    },
+    {
+      "surface": "ונרץ",
+      "gloss": "və düşdüyü"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "çənbərək"
+    },
+    {
+      "surface": "אל",
+      "gloss": "quyuya"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "quyu"
+    }
+  ],
+  "timestamp": "2026-09-01T16:34:00.798186817Z",
+  "model": "glm-5.3"
+}

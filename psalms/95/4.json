@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 95,
+  "translation": "Yerin dərinlikləri onun əlindədir, dağların zirvələri də onundur.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "O (ki)"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "əlindədir"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "dərinlikləri"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "zirvələri"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dağların"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onundur"
+    }
+  ],
+  "timestamp": "2026-09-01T15:32:25.312926249Z",
+  "model": "glm-5.3"
+}

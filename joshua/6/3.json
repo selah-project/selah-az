@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 6:3",
+  "book": "joshua",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Və ⟨את⟩ şəhəri dövrə vuracaqsınız — bütün döyüş adamları şəhəri bir dəfə dövrə vuraraq; belə edəcəksən altı gün.",
+  "tokens": [
+    {
+      "surface": "וסבתם",
+      "gloss": "dövrə vuracaqsınız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şəhəri"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şəhəri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "adamları"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "döyüşün"
+    },
+    {
+      "surface": "הקיף",
+      "gloss": "dövrə vuraraq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şəhəri"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şəhəri"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "dəfə"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "bir"
+    },
+    {
+      "surface": "כה",
+      "gloss": "belə"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "edəcəksən"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "altı"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    }
+  ],
+  "timestamp": "2026-09-01T11:04:05.959127557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 121,
+  "ref": "psalms 119:121",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Məşvərəti və ədaləti etdim; məni zalımlarıma tərk etmə.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "etdim"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "məşvərəti"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "və ədaləti"
+    },
+    {
+      "surface": "בל",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תניחני",
+      "gloss": "məni tərk etmə"
+    },
+    {
+      "surface": "לעשקי",
+      "gloss": "zalımlarıma"
+    }
+  ],
+  "timestamp": "2026-09-01T15:41:20.795458497Z",
+  "model": "glm-5.3"
+}

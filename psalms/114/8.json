@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 114,
+  "translation": "O, qayanı su hövzəsinə, çaxmaq daşını su bulağına çevirən.",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "çevirən"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "qayanı"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "su hövzəsinə"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "çaxmaq daşını"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "su bulağına"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    }
+  ],
+  "timestamp": "2026-09-01T15:37:48.664055615Z",
+  "model": "glm-5.3"
+}

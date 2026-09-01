@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 34:5",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 34,
+  "translation": "və sərhəd Əzmondan dolanaraq Mitsrayim dərəsinə çatacaq, onun çıxışları isə ⟨qərbə⟩ dənizə doğru olacaq.",
+  "tokens": [
+    {
+      "surface": "ונסב",
+      "gloss": "və dolanacaq"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "sərhəd"
+    },
+    {
+      "surface": "מעצמון",
+      "gloss": "Əzmondan"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "dərə"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "və olacaq"
+    },
+    {
+      "surface": "תוצאתיו",
+      "gloss": "onun çıxışları"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "dənizə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:45:02.923328698Z",
+  "model": "glm-5.3"
+}

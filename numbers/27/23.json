@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 27:23",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Və əllərini ⟨את⟩ ona qoydu və onu səlahiyyətləndirdi, Yahvenin Moşenin əli ilə danışdığı kimi.",
+  "tokens": [
+    {
+      "surface": "ויסמך",
+      "gloss": "və qoydu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əllərini"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "əllərini"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "və onu səlahiyyətləndirdi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "danışdığı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "əli ilə"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşenin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:42:38.518906574Z",
+  "model": "glm-5.3"
+}

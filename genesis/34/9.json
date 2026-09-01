@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 34:9",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 34,
+  "translation": "Və ⟨את⟩ bizimlə qohumlaşın: qızlarınızı bizə verin, ⟨את⟩ qızlarımızı isə özünüzə götürün.",
+  "tokens": [
+    {
+      "surface": "והתחתנו",
+      "gloss": "qohumlaşın"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ bizimlə"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "qızlarınızı"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "verin"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizə"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qızlarımızı"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "qızlarımızı"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "götürün"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "özünüzə"
+    }
+  ],
+  "timestamp": "2026-09-01T09:57:25.375522561Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 21:13",
+  "book": "joshua",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Aharonun oğullarına, kahinə, qatil ⟨üçün⟩ sığıncaq şəhəri olan ⟨את⟩ Xevronu və onun kənar sahələrini, ⟨את⟩ Livnanı və onun kənar sahələrini verdilər.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "oğullarına"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonun"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahinə"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "verdilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Xevronu"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şəhəri"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "sığıncaq"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "qatil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Xevronu"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Xevronu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "kənar sahələrini"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "onun kənar sahələrini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "Livnanı"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livnanı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "kənar sahələrini"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "onun kənar sahələrini"
+    }
+  ],
+  "timestamp": "2026-09-01T11:12:15.183116150Z",
+  "model": "glm-5.3"
+}

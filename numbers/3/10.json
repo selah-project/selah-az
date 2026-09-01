@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və ⟨את⟩ Ahronu və ⟨את⟩ onun oğullarını təyin edəcəksən, və ⟨את⟩ kahinliklərini qoruyacaqlar; yaxınlaşan xarici öldürüləcək.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ahron"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "onun oğulları"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "onun oğulları"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "təyin edəcəksən"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "qoruyacaqlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kahinlikləri"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "kahinlikləri"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "xarici"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "yaxınlaşan"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "öldürüləcək"
+    }
+  ],
+  "timestamp": "2026-09-01T10:33:02.110542381Z",
+  "model": "glm-5.3"
+}

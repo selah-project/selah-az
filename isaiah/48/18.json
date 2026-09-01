@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 48:18",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 48,
+  "translation": "Kaş ki, sən mənim əmrlərimə qulaq assaydın! O zaman sənin şalomun çay kimi axar, sənin ədalətin dənizin dalğaları kimi olardı.",
+  "tokens": [
+    {
+      "surface": "לוא",
+      "gloss": "Kaş ki"
+    },
+    {
+      "surface": "הקשבת",
+      "gloss": "qulaq assaydın"
+    },
+    {
+      "surface": "למצותי",
+      "gloss": "mənim əmrlərimə"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "O zaman olardı"
+    },
+    {
+      "surface": "כנהר",
+      "gloss": "çay kimi"
+    },
+    {
+      "surface": "שלומך",
+      "gloss": "sənin şalomun"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "sənin ədalətin"
+    },
+    {
+      "surface": "כגלי",
+      "gloss": "dalğaları kimi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dənizin"
+    }
+  ],
+  "timestamp": "2026-09-01T13:10:26.952669768Z",
+  "model": "glm-5.3"
+}

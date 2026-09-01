@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 36:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 36,
+  "translation": "Sənin evinin yağlılığından doyacaqlar, sənin ləzzətlərin çayı ilə onları içirdəcəksən.",
+  "tokens": [
+    {
+      "surface": "ירוין",
+      "gloss": "doyacaqlar"
+    },
+    {
+      "surface": "מדשן",
+      "gloss": "yağlılıqdan"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "sənin evinin"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "çayı ilə"
+    },
+    {
+      "surface": "עדניך",
+      "gloss": "sənin ləzzətlərin"
+    },
+    {
+      "surface": "תשקם",
+      "gloss": "onları içirdəcəksən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:10:47.780011226Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 63,
+  "translation": "Mənim canım Sənə yapışdı, Sənin sağ əlin məni saxlayır.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "yapışdı"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "Sənə"
+    },
+    {
+      "surface": "בי",
+      "gloss": "məni"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "saxlayır"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "sağ əlin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:20:15.525283846Z",
+  "model": "glm-5.3"
+}

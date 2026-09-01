@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 14:43",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Və əgər zədə qayıtsa və evdə çiçəklənsə — daşların çıxarılmasından, ⟨את⟩ evin qırxılmasından və suvlanmasından sonra.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "qayıtsa"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "zədə"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "və çiçəklənsə"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "evdə"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sonra"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "çıxarılmasından"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daşların"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "daşların"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "və ... sonra"
+    },
+    {
+      "surface": "הקצות",
+      "gloss": "qırxılmasından"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "evin"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "evin"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "və ... sonra"
+    },
+    {
+      "surface": "הטוח",
+      "gloss": "suvlanmasından"
+    }
+  ],
+  "timestamp": "2026-09-01T10:26:33.203706670Z",
+  "model": "glm-5.3"
+}

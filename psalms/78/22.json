@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 78,
+  "translation": "Çünki Elohimə iman gətirmədilər və Onun xilasına etibar etmədilər.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "iman gətirmədilər"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimə"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "etibar etmədilər"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "Onun xilasına"
+    }
+  ],
+  "timestamp": "2026-09-01T15:25:44.886013727Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "«Zəiflərin talanından, yoxsulların fıryadından indi qalxacağam» — deyir Yahve; «arxayınlıqda yerləşdirəcəyəm onu, ona üfləyənlərdən ⟨qurtaracağım⟩».",
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "talanından"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "zəiflərin"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "fıryadından"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "yoxsulların"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "qalxacağam"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "yerləşdirəcəyəm"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "arxayınlıqda"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "ona üfləyənlərdən"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onu"
+    }
+  ],
+  "timestamp": "2026-09-01T15:04:39.407879754Z",
+  "model": "glm-5.3"
+}

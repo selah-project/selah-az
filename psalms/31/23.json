@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 31:23",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "Mən isə tələsik dedim: «Gözlərinin qarşısından kəsilib atıldım». Amma Sən yalvarışlarımın səsini eşitdin, Sənə fəryad edənimdə.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Mən isə"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "dedim"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "tələsik"
+    },
+    {
+      "surface": "נגרזתי",
+      "gloss": "kəsilib atıldım"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "qarşısından"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "Gözlərinin"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "Amma"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "eşitdin"
+    },
+    {
+      "surface": "קול",
+      "gloss": "səsini"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "yalvarışlarımın"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "fəryad edənimdə"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Sənə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:10:48.577193112Z",
+  "model": "glm-5.3"
+}

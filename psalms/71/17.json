@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 71,
+  "translation": "Elohim, məni gənclikdən öyrətdin, və indiyə qədər ⟨mən⟩ möcüzələrini bildirirəm.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "məni öyrətdin"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "gənclikdən"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "və ... qədər"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "indiyə"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "bildirirəm"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "möcüzələrini"
+    }
+  ],
+  "timestamp": "2026-09-01T15:23:42.789181744Z",
+  "model": "glm-5.3"
+}

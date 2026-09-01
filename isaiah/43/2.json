@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 43:2",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 43,
+  "translation": "Sular içindən keçəndə ⟨mən⟩ səninlə ⟨את⟩ olacağam, çaylar içindən keçəndə — səni boğmayacaqlar; od içindən gedəndə yanıqsan, alov səni yandırmayacaq.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "−da (keçəndə)"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "keçəndə"
+    },
+    {
+      "surface": "במים",
+      "gloss": "sular içindən"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ səninlə"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "çaylar içindən"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ישטפוך",
+      "gloss": "səni boğmayacaqlar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "−da (gedəndə)"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "gedəndə"
+    },
+    {
+      "surface": "במו",
+      "gloss": "içindən"
+    },
+    {
+      "surface": "אש",
+      "gloss": "od"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תכוה",
+      "gloss": "yanıqsan (yanmayacaqsan)"
+    },
+    {
+      "surface": "ולהבה",
+      "gloss": "alov"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "yandırmayacaq"
+    },
+    {
+      "surface": "בך",
+      "gloss": "səni"
+    }
+  ],
+  "timestamp": "2026-09-01T13:08:20.710876418Z",
+  "model": "glm-5.3"
+}

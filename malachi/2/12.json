@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 2:12",
+  "book": "malachi",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Yahve bunu edən adamı — oyadan və cavab verən şəxsi — Yaqub çadırlarından kəsəcək, hətta Yahve Səbaota minxah gətirəni də.",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "kəsəcək"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-ı"
+    },
+    {
+      "surface": "יעשנה",
+      "gloss": "bunu edən"
+    },
+    {
+      "surface": "ער",
+      "gloss": "oyayan"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "və cavab verən"
+    },
+    {
+      "surface": "מאהלי",
+      "gloss": "çadırlarından"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqub"
+    },
+    {
+      "surface": "ומגיש",
+      "gloss": "və gətirən"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minxah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve ... üçün"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Səbaot"
+    }
+  ],
+  "timestamp": "2026-09-01T15:00:26.818923832Z",
+  "model": "glm-5.3"
+}

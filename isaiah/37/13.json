@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 37:13",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Haradadır Xamatın kralı, Arpadın kralı və Səfarvayim şəhərinin kralı, Hena və İvva?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "haradadır"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Xamatın"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "və kralı"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "Arpadın"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "və kralı"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "şəhərinin"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "Səfarvayim"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "Hena"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "və İvva"
+    }
+  ],
+  "timestamp": "2026-09-01T13:04:21.487690152Z",
+  "model": "glm-5.3"
+}

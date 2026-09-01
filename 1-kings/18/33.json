@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Və o, ⟨את⟩ odunları düzdü, ⟨את⟩ öküzü doğradı və odunların üstünə qoydu.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "düzdü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "odunları"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "odunları"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "doğradı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öküzü"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "öküzü"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "qoydu"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "odunların"
+    }
+  ],
+  "timestamp": "2026-09-01T17:34:49.915714155Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 103:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 103,
+  "translation": "Davuda məxsus. Sənə ver, canım, Yahveyə bərəkət — canım ⟨את⟩ Yahveni bərəkətləyir, və bütün içimin ⟨את⟩ müqəddəs adını bərəkətləyir.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davuda məxsus"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "sənə ver bərəkət"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "קרבי",
+      "gloss": "içimin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "müqəddəs adını"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adını"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "müqəddəs"
+    }
+  ],
+  "timestamp": "2026-09-01T15:34:43.410876490Z",
+  "model": "glm-5.3"
+}

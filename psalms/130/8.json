@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 130,
+  "translation": "və O, İsraili bütün günahlarından fidyə ilə azad edəcək ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "və O"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "fidyə ilə azad edəcək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsraili"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bütün …ından"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "günahlarından"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:14.560343984Z",
+  "model": "glm-5.3"
+}

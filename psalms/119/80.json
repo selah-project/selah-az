@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Qəlbim Sənin hökmlərində kamul olsun, ki utandırılmayım.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "Qəlbim"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "kamul"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "hökm­lərində"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "--mayım"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "utandırıl­"
+    }
+  ],
+  "timestamp": "2026-09-01T15:41:22.301434839Z",
+  "model": "glm-5.3"
+}

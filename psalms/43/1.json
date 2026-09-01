@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 43,
+  "translation": "Məni mühakimə et, Elohim, və davamımda müdafiə et, xeyirxah olmayan ümmətdən; hiyləgər adamdan və ədalətsizlikdən məni qurtar.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "məni mühakimə et"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וריבה",
+      "gloss": "və müdafiə et"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "davamımda"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "ümmətdən"
+    },
+    {
+      "surface": "לא",
+      "gloss": "olmayan"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "xeyirxah"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "adamdan"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "hiyləgər"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "və ədalətsizlikdən"
+    },
+    {
+      "surface": "תפלטני",
+      "gloss": "məni qurtar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:14:45.255309672Z",
+  "model": "glm-5.3"
+}

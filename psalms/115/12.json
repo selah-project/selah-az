@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 115,
+  "translation": "Yahve bizi xatırladı, xeyir-dua verəcək — İsrail evinə ⟨את⟩ xeyir-dua verəcək, Aharon evinə ⟨את⟩ xeyir-dua verəcək.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "bizi xatırladı"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "xeyir-dua verəcək"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "xeyir-dua verəcək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsrail evinə"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evinə"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "xeyir-dua verəcək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon evinə"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evinə"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:40.904759055Z",
+  "model": "glm-5.3"
+}

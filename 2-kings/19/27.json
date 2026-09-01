@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 19:27",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Sənin oturmağını, çıxmağını və girməyini bilirəm, ⟨את⟩ mənə qarşı qəzəbini ⟨də⟩.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "sənin oturmağını"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "çıxmağını"
+    },
+    {
+      "surface": "ובאך",
+      "gloss": "və girməyini"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "bilirəm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qəzəbini"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "qəzəbini"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənə qarşı"
+    }
+  ],
+  "timestamp": "2026-09-01T12:41:53.295445976Z",
+  "model": "glm-5.3"
+}

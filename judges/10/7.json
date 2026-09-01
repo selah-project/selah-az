@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 10:7",
+  "book": "judges",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Və Yahvenin qəzəbi İsrailə qarşı alovlandı və onları Pələştinlilərin əlinə və Ammon oğullarının əlinə satdı.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "alovlandı"
+    },
+    {
+      "surface": "אף",
+      "gloss": "qəzəbi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "İsrailə qarşı"
+    },
+    {
+      "surface": "וימכרם",
+      "gloss": "onları satdı"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "əlinə"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pələştinlilərin"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "əlinə"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    }
+  ],
+  "timestamp": "2026-09-01T11:22:31.454397858Z",
+  "model": "glm-5.3"
+}

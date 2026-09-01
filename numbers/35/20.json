@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 35:20",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "Və əgər nifrətlə onu itələyə, yaxud onun üstünə gizlicə bir şey atıb o ölsə —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Və əgər"
+    },
+    {
+      "surface": "בשנאה",
+      "gloss": "nifrətlə"
+    },
+    {
+      "surface": "יהדפנו",
+      "gloss": "onu itələyə"
+    },
+    {
+      "surface": "או",
+      "gloss": "yaxud"
+    },
+    {
+      "surface": "השליך",
+      "gloss": "atsa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üstünə"
+    },
+    {
+      "surface": "בצדיה",
+      "gloss": "gizlicə"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "və o ölsə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:45:13.671330542Z",
+  "model": "glm-5.3"
+}

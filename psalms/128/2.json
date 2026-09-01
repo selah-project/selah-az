@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 128,
+  "translation": "Əllərinin əməyini yeyəcəksən — səadət sənin olacaq, və sənə yaxşı olacaq.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "əməyini"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "əllərinin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yeyəcəksən"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "səadət sənin olacaq"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "yaxşı olacaq"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:44.462643601Z",
+  "model": "glm-5.3"
+}

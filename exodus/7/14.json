@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 7:14",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Yahve Moşeyə dedi: Paronun qəlbi ağırdır, xalqı buraxmaqdan imtina edir.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-yə"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ağırdır"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qəlbi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paronun"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "imtina edir"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "buraxmaqdan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqı"
+    }
+  ],
+  "timestamp": "2026-09-01T17:26:29.426659726Z",
+  "model": "glm-5.3"
+}

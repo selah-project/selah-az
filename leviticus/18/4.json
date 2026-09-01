@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "⟨את⟩ mışpatlarımı edin və ⟨את⟩ huqqətlərimi qoruyun, onlarda gəzmək üçün; Mən Yahve, sizin Elohiminizəm.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mışpatlarımı"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mışpatlarımı"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "edin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "huqqətlərimi"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "huqqətlərimi"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "qoruyun"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "gəzmək üçün"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onlarda"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiminizəm"
+    }
+  ],
+  "timestamp": "2026-09-01T10:27:58.908398752Z",
+  "model": "glm-5.3"
+}

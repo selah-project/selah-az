@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 14:3",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "və Davud Yeruşalayimda daha çox arvadlar aldı, və Davudun daha oğulları və qızları doğuldu.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "və ... aldı"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "daha çox"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "arvadlar"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yeruşalayimda"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "və ... doğuldu"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davudun"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "daha"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "və qızları"
+    }
+  ],
+  "timestamp": "2026-09-01T17:45:40.158352716Z",
+  "model": "glm-5.3"
+}

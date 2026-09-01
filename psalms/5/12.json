@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 5:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Və Sənə sığınanların hamısı sevinşin, əbədi olaraq nəğmə deşinlər; onların üstünü ört ⟨ki⟩ Sənin adını sevənlər Səndə sevinşinlər.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "sevinşinlər"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamısı"
+    },
+    {
+      "surface": "חוסי",
+      "gloss": "sığınanların"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Sənə"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədi olaraq"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "nəğmə deşinlər"
+    },
+    {
+      "surface": "ותסך",
+      "gloss": "üstünü ört"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "onların"
+    },
+    {
+      "surface": "ויעלצו",
+      "gloss": "sevinşinlər"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Səndə"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "sevənlər"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "adını"
+    }
+  ],
+  "timestamp": "2026-09-01T15:00:33.705071104Z",
+  "model": "glm-5.3"
+}

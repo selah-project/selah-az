@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 9:12",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "və ⟨את⟩ yandırma qurbanını kəsdi; Aharonun oğulları ⟨את⟩ qanı ona gətirdilər, və o, onu qurbangahın ətrafına səpdi.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "kəsdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yandırma qurbanını"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yandırma qurbanını"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "gətirdilər"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonun"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qanı"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "qanı"
+    },
+    {
+      "surface": "ויזרקהו",
+      "gloss": "səpdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "qurbangahın"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ətrafına"
+    }
+  ],
+  "timestamp": "2026-09-01T10:24:19.782116896Z",
+  "model": "glm-5.3"
+}

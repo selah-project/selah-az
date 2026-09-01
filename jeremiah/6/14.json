@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 6:14",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Və xalqımın ⟨nəslinin⟩ qırığını yüngülcə sağaldılar, deyərək: Şalom, şalom — amma şalom yoxdur.",
+  "tokens": [
+    {
+      "surface": "וירפאו",
+      "gloss": "və sağaldılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qırığı"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "qırığı"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqımın ⟨nəslinin⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "yüngülcə ⟨görə⟩"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "yüngülcasına"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Şalom"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "şalom"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "amma yoxdur"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "şalom"
+    }
+  ],
+  "timestamp": "2026-09-01T13:24:48.498051828Z",
+  "model": "glm-5.3"
+}

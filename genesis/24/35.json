@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 24:35",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Və Yahve mənim ağamı çox bərəkətləndirdi və o böyüdü; və ⟨את⟩ ona davar, mal-qara, gümüş və qızıl, qullar və kənizlər, dəvələr və eşşəklər verdi.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "və Yahve"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "bərəkətləndirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mənim ağamı"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mənim ağamı"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çox"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "və o böyüdü"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "və verdi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "davar"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "mal-qara"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "və gümüş"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "və qızıl"
+    },
+    {
+      "surface": "ועבדם",
+      "gloss": "qullar"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "və kənizlər"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "dəvələr"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "və eşşəklər"
+    }
+  ],
+  "timestamp": "2026-09-01T09:52:40.249699011Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "və ⟨את⟩ bütün cəmiyyəti görüş çadırının girişinə yığ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "bütün cəmiyyəti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "cəmiyyəti"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "yığ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yə"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "girişinə"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadırının"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "görüş"
+    }
+  ],
+  "timestamp": "2026-09-01T10:24:00.839651371Z",
+  "model": "glm-5.3"
+}

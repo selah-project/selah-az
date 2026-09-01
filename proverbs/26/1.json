@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 26:1",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Qar kimi yayda və yağış kimi məhsul vaxtında, eləcə də ağlısavada izzət yaraşmaz.",
+  "tokens": [
+    {
+      "surface": "כשלג",
+      "gloss": "qar kimi"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "yayda"
+    },
+    {
+      "surface": "וכמטר",
+      "gloss": "və yağış kimi"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "məhsul vaxtında"
+    },
+    {
+      "surface": "כן",
+      "gloss": "eləcə də"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "yaraşmaz"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "aqlısavada"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "izzət"
+    }
+  ],
+  "timestamp": "2026-09-01T15:59:01.674465582Z",
+  "model": "glm-5.3"
+}

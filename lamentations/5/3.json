@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Yetimlər ⟨olduq⟩, atamız yoxdur; analarımız tək qadınlar kimidir.",
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "Yetimlər"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "⟨olduq⟩"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ata"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "analarımız"
+    },
+    {
+      "surface": "כאלמנות",
+      "gloss": "tək qadınlar kimi"
+    }
+  ],
+  "timestamp": "2026-09-01T16:28:49.084862584Z",
+  "model": "glm-5.3"
+}

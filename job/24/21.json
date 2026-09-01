@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 24:21",
+  "book": "job",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Doğmayan sonsuz qadını ⟨onun üzərində⟩ otlayır, dul qadına isə yaxşılıq etməz.",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "otlayır"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "sonsuz qadını"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...mır"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "doğan deyil"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "dul qadına isə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...məz"
+    },
+    {
+      "surface": "ייטיב",
+      "gloss": "yaxşılıq edir"
+    }
+  ],
+  "timestamp": "2026-09-01T16:12:50.192557075Z",
+  "model": "glm-5.3"
+}

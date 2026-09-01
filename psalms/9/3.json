@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 9:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Səndə sevinəcək və şadlanacağam, adını zəmgiləyəcəyəm, ey Elyon ⟨Uca olan⟩.",
+  "tokens": [
+    {
+      "surface": "אשמחה",
+      "gloss": "sevinəcək"
+    },
+    {
+      "surface": "ואעלצה",
+      "gloss": "və şadlanacağam"
+    },
+    {
+      "surface": "בך",
+      "gloss": "səndə"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "zəmgiləyəcəyəm"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "adını"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-09-01T15:05:11.764752167Z",
+  "model": "glm-5.3"
+}

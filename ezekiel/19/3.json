@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 19:3",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "O, balalarından birini böyütdü; o ⟨bir⟩ gənc şır oldu, və o, ovu parçalamağı öyrəndi — insan yedi.",
+  "tokens": [
+    {
+      "surface": "ותעל",
+      "gloss": "böyütdü"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "birini"
+    },
+    {
+      "surface": "מגריה",
+      "gloss": "balalarından"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "gənc şır"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "və öyrəndi"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "parçalamağı"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ovu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yedi"
+    }
+  ],
+  "timestamp": "2026-09-01T17:38:32.506762032Z",
+  "model": "glm-5.3"
+}

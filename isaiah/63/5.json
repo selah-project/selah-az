@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 63:5",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 63,
+  "translation": "Və baxdım — yardım edən yox idi, və sarsıldım — söykəyən yox idi; və qolum mənə xilas gətirdi, və qəzəbim — ⟨mənim qəzəbim⟩ söykədi məni.",
+  "tokens": [
+    {
+      "surface": "ואביט",
+      "gloss": "və baxdım"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "yox idi"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "yardım edən"
+    },
+    {
+      "surface": "ואשתומם",
+      "gloss": "və sarsıldım"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "yox idi"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "söykəyən"
+    },
+    {
+      "surface": "ותושע",
+      "gloss": "xilas gətirdi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "qolum"
+    },
+    {
+      "surface": "וחמתי",
+      "gloss": "və qəzəbim"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨mənim qəzəbim⟩ — odur ki"
+    },
+    {
+      "surface": "סמכתני",
+      "gloss": "söykədi məni"
+    }
+  ],
+  "timestamp": "2026-09-01T13:18:42.362634426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 3:4",
+  "book": "judges",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və onlar İsraili ⟨את⟩ onlarla sınamaq üçün ⟨qaldılar⟩ — Yahvenin Moşenin əli ilə atalarına buyurduğu ⟨את⟩ əmrlərini eşidəcəklərini bilmək üçün.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Və oldular"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "sınamaq üçün"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onlarla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsraili"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsraili"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "bilmək üçün"
+    },
+    {
+      "surface": "הישמעו",
+      "gloss": "eşidəcəklərmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əmrlərini"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "əmrlərini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurduğu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atalarına"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "atalarına"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "əli ilə"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşenin"
+    }
+  ],
+  "timestamp": "2026-09-01T11:16:46.942180371Z",
+  "model": "glm-5.3"
+}

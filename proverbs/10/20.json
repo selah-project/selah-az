@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 10:20",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 10,
+  "translation": " saleh dil seçilmiş gümüşdür, şərirlərin ürəyi isə az bir şeyə bərabərdir.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "seçilmiş"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "dil"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "saleh"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ürəyi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "şərirlərin"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "az bir şeyə bərabərdir"
+    }
+  ],
+  "timestamp": "2026-09-01T15:50:59.412231956Z",
+  "model": "glm-5.3"
+}

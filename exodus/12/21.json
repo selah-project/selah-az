@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 12:21",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Moşe İsrailin bütün qocalarını çağırdı və onlara dedi: Çəkin götürün və ailələriniz üçün ⟨sizin üçün⟩ davar götürün və Pesahı kəsin.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "çağırdı"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "qocaları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "משכו",
+      "gloss": "çəkin götürün"
+    },
+    {
+      "surface": "וקחו",
+      "gloss": "və götürün"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin üçün"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "davar (sürü)"
+    },
+    {
+      "surface": "למשפחתיכם",
+      "gloss": "ailələriniz üçün"
+    },
+    {
+      "surface": "ושחטו",
+      "gloss": "və kəsin"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesahı"
+    }
+  ],
+  "timestamp": "2026-09-01T10:08:46.386509456Z",
+  "model": "glm-5.3"
+}

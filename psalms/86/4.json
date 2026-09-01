@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 86,
+  "translation": "Sevincləndir qulunun canını, çünki sənə, Adonay, canımı qaldırıram.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "sevincləndir"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "canı"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "qulunun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "qaldırıram"
+    }
+  ],
+  "timestamp": "2026-09-01T15:30:37.774032980Z",
+  "model": "glm-5.3"
+}

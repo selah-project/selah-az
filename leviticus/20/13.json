@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 20:13",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Və bir kişi ki, ⟨את⟩ kişi ilə qadının yataqlarında yatsa — iyrənc iş etdilər ikisi də; ölüm ilə öldürüləcəklər, qanları onların üzərinədir.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Və kişi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "yatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kişi"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "kişi"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "yataqlarında"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "qadın"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "iyrənc iş"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "etdilər"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ikisi də"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölüm"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "öldürüləcəklər"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "qanları"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onların üzərinə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:30:07.585498885Z",
+  "model": "glm-5.3"
+}

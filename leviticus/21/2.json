@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "yalnız ona yaxın olan qohumu üçün — anası üçün və atası üçün, oğlu üçün və qızı üçün, və qardaşı üçün;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "qohumu üçün"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "yaxın olan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "anası üçün"
+    },
+    {
+      "surface": "וולאביו",
+      "gloss": "və atası üçün"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "və oğlu üçün"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "və qızı üçün"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "və qardaşı üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:29:35.420760800Z",
+  "model": "glm-5.3"
+}

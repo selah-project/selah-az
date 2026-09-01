@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 11:9",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Zərər verməyəcəklər və məhv etməyəcəklər məqaddəs dağımdaın bütünündə, çünki yer Yahve haqqında biliylə dolacaq, suyun dənizi örtüyü kimi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "zərər verməyəcəklər"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "ישחיתו",
+      "gloss": "məhv etməyəcəklər"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütünündə"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dağımdaın"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "məqaddəs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "dolacaq"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "biliylə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "suyun"
+    },
+    {
+      "surface": "לים",
+      "gloss": "dənizi"
+    },
+    {
+      "surface": "מכסים",
+      "gloss": "örtüyü kimi"
+    }
+  ],
+  "timestamp": "2026-09-01T12:51:26.243187547Z",
+  "model": "glm-5.3"
+}

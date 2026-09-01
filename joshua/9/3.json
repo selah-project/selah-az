@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Givonun sakinləri isə Yehoşuanın İrihoya və Aiyə etdiyini ⟨את⟩ eşitdilər.",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "sakinləri isə"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Givonun"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "eşitdilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoşuanın İrihoya və Aiyə etdiyini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "etdiyini"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etdiyi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşuanın"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "İrihoya"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "və Aiyə"
+    }
+  ],
+  "timestamp": "2026-09-01T17:58:02.088309646Z",
+  "model": "glm-5.3"
+}

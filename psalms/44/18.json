@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 44:18",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 44,
+  "translation": "Bütün bunlar bizə gəldi, amma səni unutmadıq və əhdində ⟨yalançı olmadıq⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bunlar"
+    },
+    {
+      "surface": "באתנו",
+      "gloss": "bizə gəldi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "שכחנוך",
+      "gloss": "səni unutmadıq"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "שקרנו",
+      "gloss": "yalançı olmadıq"
+    },
+    {
+      "surface": "בבריתך",
+      "gloss": "əhdində"
+    }
+  ],
+  "timestamp": "2026-09-01T15:15:23.372506627Z",
+  "model": "glm-5.3"
+}

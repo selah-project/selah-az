@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 33:2",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "Kənizləri və onların uşaqlarını birinci qoydu, Leya ilə onun uşaqlarını axırdıcı, Raxeli və Yosefi axırdıcı.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "qoydu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kənizləri"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "kənizləri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "onların uşaqlarını"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "onların uşaqlarını"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "birinci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "Leyanı"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leyanı"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "onun uşaqlarını"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "axırdıcı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "Raxeli"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Raxeli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "Yosefi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefi"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "axırdıcı"
+    }
+  ],
+  "timestamp": "2026-09-01T09:57:00.936538023Z",
+  "model": "glm-5.3"
+}

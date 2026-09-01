@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 1:10",
+  "book": "ezra",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Qızıl kəforlar otuz, gümüş kəforlar ikinci dərəcədən dörd yüz və on, digər qablar min.",
+  "tokens": [
+    {
+      "surface": "כפורי",
+      "gloss": "kəforlar"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "qızıl"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "otuz"
+    },
+    {
+      "surface": "כפורי",
+      "gloss": "kəforlar"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "משנים",
+      "gloss": "ikinci dərəcədən"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "dörd"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "və on"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "qablar"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "digər"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "min"
+    }
+  ],
+  "timestamp": "2026-09-01T16:47:15.475214494Z",
+  "model": "glm-5.3"
+}

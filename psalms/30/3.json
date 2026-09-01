@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Yahve, Elohim'im, sənə fəryad etdim və sən məni şafa çıxartdın.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'im"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "fəryad etdim"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "və sən məni şafa çıxartdın"
+    }
+  ],
+  "timestamp": "2026-09-01T17:41:24.606175073Z",
+  "model": "glm-5.3"
+}

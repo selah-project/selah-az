@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 71,
+  "translation": "Sənin haqlılığında ⟨məni⟩ xilas et və ⟨məni⟩ qurtar, qulağını mənə tərəf əy və ⟨məni⟩ xilas et.",
+  "tokens": [
+    {
+      "surface": "בצדקתך",
+      "gloss": "Sənin haqlılığında"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "xilas et"
+    },
+    {
+      "surface": "ותפלטני",
+      "gloss": "qurtar"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "əy"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənə tərəf"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "qulağını"
+    },
+    {
+      "surface": "והושיעני",
+      "gloss": "xilas et"
+    }
+  ],
+  "timestamp": "2026-09-01T15:23:18.793597599Z",
+  "model": "glm-5.3"
+}

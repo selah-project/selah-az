@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 35:10",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "Buna görə ki, sən dedin: «İki xalq və ⟨את⟩ iki ölkə mənim olacaq, onları mənlik edəcəyik» — halbuki Yahve orada idi.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Buna görə ki"
+    },
+    {
+      "surface": "אמרך",
+      "gloss": "sən dedin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iki xalq"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iki"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iki ölkə"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iki"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "ölkə"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənim"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "וירשנוה",
+      "gloss": "onları mənlik edəcəyik"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "halbuki Yahve"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "היה",
+      "gloss": "idi"
+    }
+  ],
+  "timestamp": "2026-09-01T14:24:14.598797390Z",
+  "model": "glm-5.3"
+}

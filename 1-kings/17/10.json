@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 17:10",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "O qalxdı və Tsarefata getdi, şəhərin qapısına gəldi, və bax, orada odun yığan bir dul qadın ⟨idi⟩; ona səsləndi və dedi: Mənə, zəhmət olmasa, qabda bir az su götür ki, içim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "O qalxdı"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "və getdi"
+    },
+    {
+      "surface": "צרפתה",
+      "gloss": "Tsarefata"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "gəldi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "qapısı"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şəhərin"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "və bax"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "qadın"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "dul"
+    },
+    {
+      "surface": "מקששת",
+      "gloss": "yığan"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "odun"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "səsləndi"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "קחי",
+      "gloss": "götür"
+    },
+    {
+      "surface": "נא",
+      "gloss": "zəhmət olmasa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "bir az"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "qabda"
+    },
+    {
+      "surface": "ואשתה",
+      "gloss": "ki, içim"
+    }
+  ],
+  "timestamp": "2026-09-01T12:22:17.711466992Z",
+  "model": "glm-5.3"
+}

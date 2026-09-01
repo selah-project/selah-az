@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 6:11",
+  "book": "2-samuel",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Yahvenin sandığı Qittili Oved-Edomun evində üç ay qaldı və Yahve Oved-Edomu və bütün evini bərəkətlədi.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "qaldı"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandığı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evində"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomun"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "Qittili"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "üç"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ay"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "bərəkətlədi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oved-Edomu"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bütün evini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "evini"
+    }
+  ],
+  "timestamp": "2026-09-01T11:53:20.019155651Z",
+  "model": "glm-5.3"
+}

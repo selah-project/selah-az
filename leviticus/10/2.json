@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Yahvenin hüzurundan od çıxdı və ⟨את⟩ onları yandırdı, və Yahvenin hüzurunda öldülər.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "çıxdı"
+    },
+    {
+      "surface": "אש",
+      "gloss": "od"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "hüzurundan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "yandırdı"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ onları",
+      "marks": "özəl obyekt işarəsi + kəlmə: onlar (Nadav və Avihu)"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "öldülər"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hüzurunda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T10:25:58.966838406Z",
+  "model": "glm-5.3"
+}

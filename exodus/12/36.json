@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 12:36",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Və Yahve xalqa Mitsrayımın gözündə lütf verdi və ⟨onlar⟩ onların istəklərini verdilər; və Mitsrayımı ⟨את⟩ soydular.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "və Yahve"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lütf"
+    },
+    {
+      "surface": "חן",
+      "gloss": "lütf"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqa"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "gözündə"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayımın"
+    },
+    {
+      "surface": "וישאלום",
+      "gloss": "və onların istəklərini verdilər"
+    },
+    {
+      "surface": "וינצלו",
+      "gloss": "və soydular"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayımı"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayımı"
+    }
+  ],
+  "timestamp": "2026-09-01T10:09:06.418522698Z",
+  "model": "glm-5.3"
+}

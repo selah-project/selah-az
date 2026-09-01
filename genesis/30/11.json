@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "və Lea dedi: Bəxt gəldi! — və adını Qad qoydu.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "Bəxt gəldi"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "adını qoydu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adını"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "adını"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Qad"
+    }
+  ],
+  "timestamp": "2026-09-01T09:53:57.722066532Z",
+  "model": "glm-5.3"
+}

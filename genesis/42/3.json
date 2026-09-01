@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 42,
+  "translation": "Və Yosefin on qardaşı Mitsrayimdan taxıl almaq üçün endi.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "endi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "qardaşı"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefin"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "on"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "almaq üçün"
+    },
+    {
+      "surface": "בר",
+      "gloss": "taxıl"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayimdan"
+    }
+  ],
+  "timestamp": "2026-09-01T10:00:54.804406665Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "Yandırmaq qurbangahını və bütün ləvazimatını məsh edəsən; qurbangahı müqəddəs edəsən və qurbangah müqəddəslərin müqəddəsi olacaq.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "məsh edəsən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbangah"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "qurbangahını"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yandırmaq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bütün ləvazimatı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ləvazimatını"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "müqəddəs edəsən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbangah"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "qurbangahı"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "qurbangah"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "müqəddəslərin"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "müqəddəsi"
+    }
+  ],
+  "timestamp": "2026-09-01T10:22:04.341132733Z",
+  "model": "glm-5.3"
+}

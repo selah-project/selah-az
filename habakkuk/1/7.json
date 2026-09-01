@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "habakkuk 1:7",
+  "book": "habakkuk",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "O ⟨,⟩ dəhşətli və qorxuncdur; onun hökmü və ucalığı özündən çıxar.",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "dəhşətli"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "və qorxuncdur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "özündən"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "onun hökmü"
+    },
+    {
+      "surface": "ושאתו",
+      "gloss": "və ucalığı"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "çıxar"
+    }
+  ],
+  "timestamp": "2026-09-01T14:50:30.434209412Z",
+  "model": "glm-5.3"
+}

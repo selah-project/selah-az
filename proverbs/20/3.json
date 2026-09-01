@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 20:3",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "İnsana şərəf⟨dir⟩ mübahisədən durmaq, və hər axmaq mübahisəyə girişir.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "şərəf"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "insana"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "durmaq"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "mübahisədən"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "və hər"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "axmaq"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "mübahisəyə girişir"
+    }
+  ],
+  "timestamp": "2026-09-01T15:56:18.078625143Z",
+  "model": "glm-5.3"
+}

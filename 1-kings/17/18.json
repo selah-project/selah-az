@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 17:18",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Və o, Eliyahuğa dedi: Mənim sənənlə nə işim var, ey Elohim adamı? Günahımı xatırlatmağa ⟨את⟩ və oğlumu öldürməyə ⟨את⟩ mənim yanıma mı gəldin?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənim"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "və sənə"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באת",
+      "gloss": "gəldin"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənim yanıma"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "xatırlatmağa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "günahımı"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "günahımı"
+    },
+    {
+      "surface": "ולהמית",
+      "gloss": "və öldürməyə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oğlumu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğlumu"
+    }
+  ],
+  "timestamp": "2026-09-01T12:22:58.524436747Z",
+  "model": "glm-5.3"
+}

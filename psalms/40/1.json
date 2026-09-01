@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "Məzmur rəhbərinə. Davidin məzmunu.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "rəhbərinə"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "məzmur"
+    }
+  ],
+  "timestamp": "2026-09-01T15:13:51.389142824Z",
+  "model": "glm-5.3"
+}

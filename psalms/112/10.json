@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 112,
+  "translation": "Pis ⟨onu⟩ görüb qəzəblənəcək, dişlərini qıcıldadacaq və əriyəcək; pis adamların arzusu məhv olacaq.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "Pis"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "görüb"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "qəzəblənəcək"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "dişlərini"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "qıcıldadacaq"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "əriyəcək"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "arzusu"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "pis adamların"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "məhv olacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:37:14.190289222Z",
+  "model": "glm-5.3"
+}

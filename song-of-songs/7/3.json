@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 7:3",
+  "book": "song-of-songs",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Göbəyin aypara qədəh kimidir, qarışıq şərab ⟨onun içində⟩ əskik olmasın; qarnın buğda yığını kimidir, zanbaqlarla əhatələnmiş.",
+  "tokens": [
+    {
+      "surface": "שררך",
+      "gloss": "göbəyin"
+    },
+    {
+      "surface": "אגן",
+      "gloss": "qədəh"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "aypara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "olmasın"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "əskik"
+    },
+    {
+      "surface": "המזג",
+      "gloss": "qarışıq şərab"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "qarnın"
+    },
+    {
+      "surface": "ערמת",
+      "gloss": "yığını"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "buğda"
+    },
+    {
+      "surface": "סוגה",
+      "gloss": "əhatələnmiş"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "zanbaqlarla"
+    }
+  ],
+  "timestamp": "2026-09-01T16:23:01.171827067Z",
+  "model": "glm-5.3"
+}

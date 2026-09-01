@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "Axşam oldu, ⟨o⟩ Leanı, qızını götürdü, ⟨את⟩ onu ⟨את⟩ Yaqova gətirdi, və o onun yanına girdi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "axşam"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "götürdü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Leanı"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leanı"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "qızını"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "gətirdi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ onu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "Yaqova"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "girdi"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "onun yanına"
+    }
+  ],
+  "timestamp": "2026-09-01T09:54:01.193691732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 12:3",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Və səni mübarək edənləri mübarək edəcəyəm, və sənə lənət edəni lənətləyəcəyəm; və səndə bərəkətlənəcək torpağın bütün ailələri.",
+  "tokens": [
+    {
+      "surface": "ואברכה",
+      "gloss": "və mübarək edəcəyəm"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "səni mübarək edənləri"
+    },
+    {
+      "surface": "ומקללך",
+      "gloss": "və sənə lənət edəni"
+    },
+    {
+      "surface": "אאר",
+      "gloss": "lənətləyəcəyəm"
+    },
+    {
+      "surface": "ונברכו",
+      "gloss": "və bərəkətlənəcək"
+    },
+    {
+      "surface": "בך",
+      "gloss": "səndə"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ailələri"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "torpağın"
+    }
+  ],
+  "timestamp": "2026-09-01T09:49:06.619149168Z",
+  "model": "glm-5.3"
+}

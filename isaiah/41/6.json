@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 41,
+  "translation": "Hər adam öz yoldaşına kömək edir və öz qardaşına deyir: Möhkəm ol!",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "hər adam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öz yoldaşına"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "yoldaşına"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "kömək edir"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "və öz qardaşına"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "Möhkəm ol"
+    }
+  ],
+  "timestamp": "2026-09-01T13:07:13.943828441Z",
+  "model": "glm-5.3"
+}

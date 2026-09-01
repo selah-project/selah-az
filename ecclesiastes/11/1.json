@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Çörəyini suların üzərinə göndər, çünki çox gündən sonra onu tapacaqsan.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "göndər"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "çörəyini"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzünə"
+    },
+    {
+      "surface": "המים",
+      "gloss": "suların"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "çoxluğunda"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "günlərin"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "onu tapacaqsan"
+    }
+  ],
+  "timestamp": "2026-09-01T16:32:13.395174770Z",
+  "model": "glm-5.3"
+}

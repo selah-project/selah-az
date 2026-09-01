@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Padşah onlara dedi: Mən yuxu gördüm və ruhum o yuxunu ⟨את⟩ bilmək üçün təlaşlanır.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "yuxu"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "gördüm"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "təlaşlanır"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruhum"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "bilmək üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yuxunu"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "o yuxunu"
+    }
+  ],
+  "timestamp": "2026-09-01T16:38:57.882170403Z",
+  "model": "glm-5.3"
+}

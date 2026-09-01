@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 22:21",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Qılıncdan canımı xilas et, itin şələsindən təkcə ⟨kimi olan⟩ canımı.",
+  "tokens": [
+    {
+      "surface": "הצילה",
+      "gloss": "xilas et"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "qılıncdan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "əlindən"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "itin"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "təkcə ⟨kimi olan⟩ canımı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:06:23.380946333Z",
+  "model": "glm-5.3"
+}

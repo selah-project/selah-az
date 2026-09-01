@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 42:7",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 42,
+  "translation": "kor gözləri açmaq, dustağı zindandan, qaranlıqda oturanları həbsxanadan çıxarmaq ⟨üçün⟩ —",
+  "tokens": [
+    {
+      "surface": "לפקח",
+      "gloss": "açmaq"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "gözləri"
+    },
+    {
+      "surface": "עורות",
+      "gloss": "kor"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "çıxarmaq"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "zindandan"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "dustağı"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "həbsxanadan"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "həbs"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "oturanları"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "qaranlıqda"
+    }
+  ],
+  "timestamp": "2026-09-01T13:06:40.901110425Z",
+  "model": "glm-5.3"
+}

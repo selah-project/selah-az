@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 7:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Qoy pislərin şəri sona çatsın, saleh ⟨isə⟩ səbt olunsun; ürəklərin və böyrəklərin sınaqçısı Elohim salehdir.",
+  "tokens": [
+    {
+      "surface": "יגמר",
+      "gloss": "sona çatsın"
+    },
+    {
+      "surface": "נא",
+      "gloss": "Qoy"
+    },
+    {
+      "surface": "רע",
+      "gloss": "şəri"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "pislərin"
+    },
+    {
+      "surface": "ותכונן",
+      "gloss": "səbt olunsun"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "saleh"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "sınaqçısı"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "ürəklərin"
+    },
+    {
+      "surface": "וכליות",
+      "gloss": "böyrəklərin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "salehdir"
+    }
+  ],
+  "timestamp": "2026-09-01T15:00:33.629844917Z",
+  "model": "glm-5.3"
+}

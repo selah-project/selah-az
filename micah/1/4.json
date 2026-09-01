@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 1:4",
+  "book": "micah",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və dağlar onun altında əriyəcək, və dərələr yarılacaq, odun üzündə mum kimi, yamacdan tökülən sular kimi.",
+  "tokens": [
+    {
+      "surface": "ונמסו",
+      "gloss": "əriyəcək"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "və dağlar"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "onun altında"
+    },
+    {
+      "surface": "והעמקים",
+      "gloss": "və dərələr"
+    },
+    {
+      "surface": "יתבקעו",
+      "gloss": "yarılacaq"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "mum kimi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "üzündə"
+    },
+    {
+      "surface": "האש",
+      "gloss": "odun"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "sular kimi"
+    },
+    {
+      "surface": "מגרים",
+      "gloss": "tökülən"
+    },
+    {
+      "surface": "במורד",
+      "gloss": "yamacdan"
+    }
+  ],
+  "timestamp": "2026-09-01T14:46:52.533825725Z",
+  "model": "glm-5.3"
+}

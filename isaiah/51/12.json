@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 51:12",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 51,
+  "translation": "Mən, Mənəm o, sizi təsəlli edən; kimsən sən ki, öləcək insandan qorxursan, oğul insandan ki, otlara ⟨veriləcək⟩?",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "מנחמכם",
+      "gloss": "sizi təsəlli edən"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "את",
+      "gloss": "sən",
+      "marks": "sən (H859 əvəzliyi)"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "qorxursan"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "insandan"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "öləcək"
+    },
+    {
+      "surface": "ומבן",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ot"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "verilir"
+    }
+  ],
+  "timestamp": "2026-09-01T13:13:35.197375893Z",
+  "model": "glm-5.3"
+}

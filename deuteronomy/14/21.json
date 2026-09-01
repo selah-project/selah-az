@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 14:21",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Hər hansı bir öz-özünə ölmüş heyvanı yeməyin; qapılarında olan gərə ⟨onu⟩ verərsən, o da yeyər; ya da yad insana satarsan; çünki müqəddəs xalqsan, Yahve Elohimin ⟨sənindir⟩. Oğlağı onun anasının südündə bişirməyəcəksən.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yeməyin"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yeməyin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər hansı bir"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "öz-özünə ölmüş heyvan"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "gərə"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olan"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "qapılarında"
+    },
+    {
+      "surface": "תתננה",
+      "gloss": "verərsən"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "o da yeyər"
+    },
+    {
+      "surface": "או",
+      "gloss": "ya da"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "satarsan"
+    },
+    {
+      "surface": "לנכרי",
+      "gloss": "yad insana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve üçün"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תבשל",
+      "gloss": "bişirməyəcəksən"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "oğlağı"
+    },
+    {
+      "surface": "בחלב",
+      "gloss": "südündə"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "onasının"
+    }
+  ],
+  "timestamp": "2026-09-01T17:30:16.712250932Z",
+  "model": "glm-5.3"
+}

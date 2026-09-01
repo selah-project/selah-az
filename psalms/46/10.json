@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 46,
+  "translation": "Müharibələri yerin ucuna qədər dayandırır, yayı sındırır, nizəni kəsir, döyüş arabalarını oda yandırır.",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "dayandırır"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "müharibələri"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "ucuna"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "yayı"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "sındırır"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "kəsir"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "nizəni"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "döyüş arabalarını"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "yandırır"
+    },
+    {
+      "surface": "באש",
+      "gloss": "oda"
+    }
+  ],
+  "timestamp": "2026-09-01T15:16:02.123669083Z",
+  "model": "glm-5.3"
+}

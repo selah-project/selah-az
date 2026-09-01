@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 13:2",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Və Avram çox ağır ⟨idi⟩ mal-qarada, gümüşdə və qızilda.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "və Avram"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ağır"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çox"
+    },
+    {
+      "surface": "במקנה",
+      "gloss": "mal-qarada"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "gümüşdə"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "və qızilda"
+    }
+  ],
+  "timestamp": "2026-09-01T09:49:19.633624226Z",
+  "model": "glm-5.3"
+}

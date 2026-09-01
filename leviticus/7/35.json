@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 7:35",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Bu, Yahvenin od qurbanlarından Aharonun məsh olunması və oğullarının məsh olunmasıdır — onları Yahveyə kohnə olaraq təqdim etdiyi gün ⟨o, belədir⟩.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "məsh olunması"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonun"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "və məsh olunması"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "od qurbanlarından"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "təqdim etdiyi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onları",
+      "marks": "kohnə olaraq"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kohnə olaraq"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:23:26.079751841Z",
+  "model": "glm-5.3"
+}

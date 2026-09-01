@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 6:30",
+  "book": "judges",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Şəhərin adamları Yoşa dedilər: \"Oğlunu çıxart da ölsün, çünki ⟨o⟩ ⟨את⟩ Baalın qurbangahını dağıtdı və çünki üstündəki Aşeranı kəsdi.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "dedilər"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "adamları"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şəhərin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yana"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoşa"
+    },
+    {
+      "surface": "הוצא",
+      "gloss": "çıxart"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oğlunu"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "oğlunu"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "da ölsün"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "dağıtdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbangahını"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "qurbangahını"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baalın"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "və çünki"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "kəsdi"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "Aşeranı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "üstündəki"
+    }
+  ],
+  "timestamp": "2026-09-01T17:58:42.727537802Z",
+  "model": "glm-5.3"
+}

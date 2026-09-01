@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 37:6",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Və təmiz qızıldan kəpporet düzəltdi: uzunluğu iki amah yarım, eni bir amah yarım idi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "düzəltdi"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "kəpporet"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "qızıldan"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "təmiz"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "iki amah"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "yarım"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "uzunluğu"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "bir amah"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "yarım"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "eni"
+    }
+  ],
+  "timestamp": "2026-09-01T10:20:50.628868735Z",
+  "model": "glm-5.3"
+}

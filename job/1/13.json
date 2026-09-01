@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 1:13",
+  "book": "job",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və ⟨bir⟩ gün oldu — oğulları və qızları böyük qardaşlarının evində yemək və şərab içirdilər.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "və oldu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ובנתיו",
+      "gloss": "qızları"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "yemək"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "içirdilər"
+    },
+    {
+      "surface": "יין",
+      "gloss": "şərab"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "evində"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "qardaşlarının"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "böyük"
+    }
+  ],
+  "timestamp": "2026-09-01T16:03:06.956823053Z",
+  "model": "glm-5.3"
+}

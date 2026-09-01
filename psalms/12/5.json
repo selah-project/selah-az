@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "O ki, dedilər: «Dilimizlə qalib gələcəyik, dodaqlarımız ⟨את⟩ bizimlədir — bizə kim ağadır?»",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "o ki,"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "dedilər"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "dilimizlə"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "qalib gələcəyik"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "dodaqlarımız"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "bizimlədir"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "ağa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:04:39.407667280Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 3:6",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Əgər onun qurbanı Yahve-yə şelamim qurbanı üçün davar sürüsündəndirsə — erkək və ya dişi, kamilsiz onu təqdim etsin.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Əgər"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dən"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "davar sürüsündən"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "onun qurbanı"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "qurban üçün"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "şelamim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve-yə"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "erkək"
+    },
+    {
+      "surface": "או",
+      "gloss": "və ya"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "dişi"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "kamil"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "onu təqdim etsin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:22:40.423280971Z",
+  "model": "glm-5.3"
+}

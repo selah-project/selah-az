@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Haman ⟨qəzəbini⟩ özünə saxladı və evinə gəldi; ⟨adamlar⟩ göndərib dostlarını və Zereşi, arvadını ⟨yanına⟩ gətirdi.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "özünə saxladı"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "gəldi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "evinə"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ev"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "göndərdi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "gətirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dostlarını"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "dostlarını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zereşi"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "Zereşi"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "arvadını"
+    }
+  ],
+  "timestamp": "2026-09-01T16:35:31.267506222Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 87:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 87,
+  "translation": "Məni tanıyanlara Rəhavı və Babili xatırladacağam; bax, Filistim və Sur, Kuşla birlikdə — bu ⟨kimsə⟩ orada doğulub.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "xatırladacağam"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rəhavı"
+    },
+    {
+      "surface": "ובבל",
+      "gloss": "və Babili"
+    },
+    {
+      "surface": "לידעי",
+      "gloss": "məni tanıyanlara"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Filistim"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "və Sur"
+    },
+    {
+      "surface": "עם",
+      "gloss": "birlikdə"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuş"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "doğulub"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    }
+  ],
+  "timestamp": "2026-09-01T15:30:30.509357243Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 57,
+  "translation": "Səni xalqlar içində tərifləyəcəyəm, Adonay, Sənə ləomlar içində mahnı oxuyacağam.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Səni tərifləyəcəyəm"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "xalqlar içində"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "Sənə mahnı oxuyacağam"
+    },
+    {
+      "surface": "בל",
+      "gloss": "içində"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "ləomlar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:18:17.401282943Z",
+  "model": "glm-5.3"
+}

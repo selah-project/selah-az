@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ecclesiastes 7:28",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Nəfəsimin hələ axtardığı, lakin tapmadığım şey ⟨ budur⟩: min içərisində bir adam tapdım, amma bütün bunlar içərisində bir qadın tapmadım.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hələ"
+    },
+    {
+      "surface": "בקשה",
+      "gloss": "axtardığı"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nəfəsimin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lakin ... olmayan"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "tapmadığım"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "מאלף",
+      "gloss": "min içərisində"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "tapdım"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "amma qadın"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün ... içərisində"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bunlar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "tapmadım"
+    }
+  ],
+  "timestamp": "2026-09-01T16:31:46.038792314Z",
+  "model": "glm-5.3"
+}

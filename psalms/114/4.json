@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 114:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 114,
+  "translation": "Dağlar quzular kimi oynadılar, təpələr sürü balaları kimi.",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "Dağlar"
+    },
+    {
+      "surface": "רקדו",
+      "gloss": "oynadılar"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "qoçlar kimi"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "təpələr"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "balaları kimi"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "sürü"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:08.813492187Z",
+  "model": "glm-5.3"
+}

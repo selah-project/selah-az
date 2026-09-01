@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 26:25",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Nəfəsini ⟨səsləndirəndə⟩ yalvardığı halda ona inanma, çünki ürəyində yedir iyrənclik ⟨var⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "יחנן",
+      "gloss": "yalvarır"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "səsini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ma"
+    },
+    {
+      "surface": "תאמן",
+      "gloss": "inan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yedir"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "iyrənclik"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "ürəyində"
+    }
+  ],
+  "timestamp": "2026-09-01T15:59:13.804164653Z",
+  "model": "glm-5.3"
+}

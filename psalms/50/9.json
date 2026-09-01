@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 50,
+  "translation": "Evindən öküz, ağıllarından təkə götürmərəm.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "götürmərəm (yox)"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "götürmərəm"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "evindən"
+    },
+    {
+      "surface": "פר",
+      "gloss": "öküz"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "ağıllarından"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "təkə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:15:37.639993492Z",
+  "model": "glm-5.3"
+}

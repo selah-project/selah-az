@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 12:1",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Rəhavam Şekemə getdi, çünki bütün İsrail onu padşah etmək üçün Şekemə gəlmişdi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "getdi"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rəhavam"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Şekemə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Şekemə"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gəlmişdi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "padşah etmək üçün"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu"
+    }
+  ],
+  "timestamp": "2026-09-01T12:20:19.143290559Z",
+  "model": "glm-5.3"
+}

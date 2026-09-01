@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "paltarlarını soyunar və başqa paltarlar geyinər, ⟨את⟩ küllü düşərgənin xaricinə, təmiz yerə çıxarar.",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "soyunar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paltarlarını"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "paltarlarını"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "geyinər"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "paltarlar"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "başqa"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "çıxarar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "küllü"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "küllü"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə doğru"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "xaricinə"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "düşərgənin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "yerə"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "təmiz"
+    }
+  ],
+  "timestamp": "2026-09-01T10:24:01.856470634Z",
+  "model": "glm-5.3"
+}

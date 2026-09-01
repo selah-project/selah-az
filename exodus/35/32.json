@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 35:32",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "və dizaynları qurmaq üçün — qızılda, gümüşdə və misdə işləmək üçün.",
+  "tokens": [
+    {
+      "surface": "ולחשב",
+      "gloss": "və qurmaq üçün"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "dizaynları"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "işləmək üçün"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "qızılda"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "və gümüşdə"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "və misdə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:20:37.742562973Z",
+  "model": "glm-5.3"
+}

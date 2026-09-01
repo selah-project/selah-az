@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 38:12",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 38,
+  "translation": "Və qərb tərəfdən pərdələr əlli qulac; onların sütunları on, onların altlıqları on; sütunların qarmaqları və onların halqaları gümüşdən.",
+  "tokens": [
+    {
+      "surface": "ולפאת",
+      "gloss": "və tərəfdən"
+    },
+    {
+      "surface": "ים",
+      "gloss": "qərb"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "pərdələr"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "əlli"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "qulac"
+    },
+    {
+      "surface": "עמודיהם",
+      "gloss": "onların sütunları"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "on"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "və onların altlıqları"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "on"
+    },
+    {
+      "surface": "ונחשת → ווי",
+      "gloss": ""
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "sütunların"
+    },
+    {
+      "surface": "וחשוקיהם",
+      "gloss": "və onların halqaları"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüşdən"
+    }
+  ],
+  "timestamp": "2026-09-01T10:20:51.415810697Z",
+  "model": "glm-5.3"
+}

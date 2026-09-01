@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 21:4",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Avraham oğlu İsxakı səkkiz günlük oğlan ikən sünnət etdi, Elohim ona əmr etdiyi kimi.",
+  "tokens": [
+    {
+      "surface": "וימל",
+      "gloss": "sünnət etdi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsxakı"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "İsxakı"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlan"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "səkkiz"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günlük"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "əmr etdiyi kimi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "əmr etdi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim ona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T09:51:43.207299262Z",
+  "model": "glm-5.3"
+}

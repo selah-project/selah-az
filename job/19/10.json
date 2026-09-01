@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 19:10",
+  "book": "job",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Məni hər tərəfdən uçurdu ⟨və mən gedirəm⟩; ümidimi ağac kimi köçürdü.",
+  "tokens": [
+    {
+      "surface": "יתצני",
+      "gloss": "uçurdu məni"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "hər tərəfdən"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "və mən gedirəm"
+    },
+    {
+      "surface": "ויסע",
+      "gloss": "köçürdü"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "ağac kimi"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "ümidimi"
+    }
+  ],
+  "timestamp": "2026-09-01T16:09:52.650606292Z",
+  "model": "glm-5.3"
+}

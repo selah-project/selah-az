@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 77,
+  "translation": "Elohim, müqəddəslikdədir ⟨sənin⟩ yolun; kim ⟨var⟩ El, Elohim qədər böyük?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "müqəddəslikdə"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "yolun"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "Elohim qədər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:24:56.515514567Z",
+  "model": "glm-5.3"
+}

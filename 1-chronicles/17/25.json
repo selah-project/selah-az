@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 17:25",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Çünki sən, mənim Elohimim, qulunun ⟨את⟩ qulağını açdın — onun üçün ev tikmək üçün; buna görə qulun sənin önündə dua etmək üçün ⟨cürət⟩ tapdı.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mənim Elohimim"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "açdın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qulağını"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "qulağını"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "qulunun"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "tikmək üçün"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onun üçün"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "על",
+      "gloss": "buna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "görə"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "tapdı"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "qulun"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "dua etmək üçün"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sənin önündə"
+    }
+  ],
+  "timestamp": "2026-09-01T17:06:45.547565930Z",
+  "model": "glm-5.3"
+}

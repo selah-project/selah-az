@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 19:10",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Və ⟨o⟩ adamlar ⟨את⟩ əllərini uzatdılar və Lotu ⟨את⟩ onların yanına, evə gətirdilər, və ⟨את⟩ qapını bağladılar.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "uzatdılar"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "adamlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əllərini"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "əllərini"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "gətirdilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lotu"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "onların yanına"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "evə"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qapını"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "qapını"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "bağladılar"
+    }
+  ],
+  "timestamp": "2026-09-01T09:50:16.963450745Z",
+  "model": "glm-5.3"
+}

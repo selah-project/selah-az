@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 66,
+  "translation": "Canımızı həyatda qoyan, ayaqlarımızı tərpənməyə verməyən ⟨odur⟩.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "qoyan"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "canımızı"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "həyatda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və … verməyən"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "tərpənməyə"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "ayaqlarımızı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:20:19.007818941Z",
+  "model": "glm-5.3"
+}

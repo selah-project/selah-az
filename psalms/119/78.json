@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "psalms 119:78",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Kibirlilər utanşınlar, çünki yalanla məni əyiblərdiriblar; mən isə Sənin fərmanların ⟨üzerində⟩ düşünəcəyəm.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "utanşınlar"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "Kibirlilər"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yalanla"
+    },
+    {
+      "surface": "עותוני",
+      "gloss": "məni əyiblərdiriblar"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "אשיח",
+      "gloss": "düşünəcəyəm"
+    },
+    {
+      "surface": "בפקודיך",
+      "gloss": "fərmanlarında"
+    }
+  ],
+  "timestamp": "2026-09-01T15:41:22.301186393Z",
+  "model": "glm-5.3"
+}

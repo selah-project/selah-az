@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 5:5",
+  "book": "job",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Məhsulunu ac ⟨yorulmadan⟩ yeyər, hətta tikanlar arasından götürər, və susuzlar onların sərvətini udar.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kimin ki"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "məhsulunu"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "ac"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yeyər"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hətta"
+    },
+    {
+      "surface": "מצנים",
+      "gloss": "tikanlar arasından"
+    },
+    {
+      "surface": "יקחהו",
+      "gloss": "götürər"
+    },
+    {
+      "surface": "ושאף",
+      "gloss": "udar"
+    },
+    {
+      "surface": "צמים",
+      "gloss": "susuzlar"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "onların sərvətini"
+    }
+  ],
+  "timestamp": "2026-09-01T16:05:09.803594994Z",
+  "model": "glm-5.3"
+}

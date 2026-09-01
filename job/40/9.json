@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 40:9",
+  "book": "job",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "Yoxsa sənin El kimi qolun var, yoxsa Onun kimi səslə guruldayırsan?",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "yoxsa"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "qol"
+    },
+    {
+      "surface": "כאל",
+      "gloss": "El kimi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənin ... var"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "səslə"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "Onun kimi"
+    },
+    {
+      "surface": "תרעם",
+      "gloss": "guruldayırsan"
+    }
+  ],
+  "timestamp": "2026-09-01T16:18:42.247867355Z",
+  "model": "glm-5.3"
+}

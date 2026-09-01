@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 5:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Yahve, məni Sənin salehliyində yönləndir, şorerlərim ⟨üçündə⟩; öz yolunu üzlərimin ⟨qarşısında⟩ düzləndir.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "yönləndir məni"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "Sənin salehliyində"
+    },
+    {
+      "surface": "למען",
+      "gloss": "⟨üçündə⟩"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "şorerlərim"
+    },
+    {
+      "surface": "הושר",
+      "gloss": "düzləndir"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "⟨qarşısında⟩ üzlərimin"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "öz yolunu"
+    }
+  ],
+  "timestamp": "2026-09-01T18:01:43.672536738Z",
+  "model": "glm-5.3"
+}

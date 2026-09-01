@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 105,
+  "translation": "və onların torpağındakı bütün otları yedi, və torpaqlarının meyvəsini yedi.",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "yedi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "otları"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "onların torpağındakı"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "yedi"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "meyvəsini"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "torpaqlarının"
+    }
+  ],
+  "timestamp": "2026-09-01T15:35:49.353625863Z",
+  "model": "glm-5.3"
+}

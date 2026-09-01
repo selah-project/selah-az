@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 19:12",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Və xalqın ətrafına sərhəd qoyub deyərsən: özünüzü qoruyun — dağa çıxmaya və onun kənarına toxunmaya; dağa toxunacaq hər kəs mütləq öldürüləcək.",
+  "tokens": [
+    {
+      "surface": "והגבלת",
+      "gloss": "və sərhəd qoyacaqsan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqın"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqın"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ətrafına"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "qoruyun"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "özünüzü"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "çıxmağa"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "dağa"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "və toxunmağa"
+    },
+    {
+      "surface": "בקצהו",
+      "gloss": "onun kənarına"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "toxunan"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "dağa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölüm"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "öldürüləcək"
+    }
+  ],
+  "timestamp": "2026-09-01T10:10:52.546829291Z",
+  "model": "glm-5.3"
+}

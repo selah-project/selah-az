@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 7:24",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Özündən ölü heyvanın piyi və vəhşi heyvan tərəfindən qopulmuşun piyi hər hansı işdə istifadə oluna bilər, amma onu mütləq yeməyin.",
+  "tokens": [
+    {
+      "surface": "וחלב",
+      "gloss": "piyi"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "özündən ölü heyvanın"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "və piyi"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "qopulmuşun"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "istifadə oluna bilər"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hər hansı"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "işdə"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "amma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mütləq"
+    },
+    {
+      "surface": "תאכלהו",
+      "gloss": "onu yeməyin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:23:03.115770601Z",
+  "model": "glm-5.3"
+}

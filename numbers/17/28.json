@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 17:28",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Yahve məskəninə yaxınlaşan, yaxınlaşan hər kəs öləcək. Yoxsa tamamilə tükənəkmi?»",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hər kəs"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "yaxınlaşan"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "yaxınlaşan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "məskənin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "öləcək"
+    },
+    {
+      "surface": "האם",
+      "gloss": "yoxsa"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "tükənəkmi"
+    },
+    {
+      "surface": "לגוע",
+      "gloss": "tamamilə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:39:15.018120561Z",
+  "model": "glm-5.3"
+}

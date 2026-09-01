@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 24:16",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Atalar oğullarına görə öldürülməsin, və oğullar atalara görə öldürülməsin; hər kəs öz günahına görə öldürülsün.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "öldürülməsin"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "atalar"
+    },
+    {
+      "surface": "על",
+      "gloss": "görə"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oğullar"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "və oğullar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "öldürülməsin"
+    },
+    {
+      "surface": "על",
+      "gloss": "görə"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "atalara"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər kəs"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "öz günahına görə"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "öldürülsün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:54:16.535621771Z",
+  "model": "glm-5.3"
+}

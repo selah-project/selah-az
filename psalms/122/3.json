@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 122:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 122,
+  "translation": "Yeruşalayim — ⟨tikilmiş⟩ şəhər kimi, özünə birləşdirilmiş ⟨bir⟩ şəhər kimi birlikdə.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim"
+    },
+    {
+      "surface": "הבנויה",
+      "gloss": "⟨tikilmiş⟩"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "şəhər kimi"
+    },
+    {
+      "surface": "שחברה",
+      "gloss": "özünə birləşdirilmiş"
+    },
+    {
+      "surface": "לה",
+      "gloss": "özünə"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "birlikdə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:46.436018486Z",
+  "model": "glm-5.3"
+}

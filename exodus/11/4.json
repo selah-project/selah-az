@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 11:4",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Moşe dedi: «Belə deyir Yahve: Gecənin yarısı ⟨təxminən⟩ mən Mitsrayimin ortasına çıxacağam.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "כה",
+      "gloss": "belə"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כחצת",
+      "gloss": "təxminən yarısında"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "gecənin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "çıxacağam"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ortasına"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:08:29.272344150Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 105,
+  "translation": "Dedi, və ağcaqanad gəldi, bitlər bütün sərhədlərinə.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Dedi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "və gəldi"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ağcaqanad (sürü)"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "bitlər"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "sərhədlərinə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:26.479320555Z",
+  "model": "glm-5.3"
+}

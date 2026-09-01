@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 42:1",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 42,
+  "translation": "Yaakov gördü ki, Mitsrayimda taxıl var; Yaakov oğullarına dedi: Niyə bir-birinizə baxırsınız?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "gördü"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יש",
+      "gloss": "var"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "taxıl"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayimda"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "oğullarına"
+    },
+    {
+      "surface": "למה",
+      "gloss": "niyə"
+    },
+    {
+      "surface": "תתראו",
+      "gloss": "baxırsınız"
+    }
+  ],
+  "timestamp": "2026-09-01T10:00:54.804024043Z",
+  "model": "glm-5.3"
+}

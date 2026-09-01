@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 9:10",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Yahve mənə Elohim barmağı ilə yazılmış iki daş lövhəsini ⟨את⟩ verdi; onların üstündə Yahvenin dağda, odun ortasından, yığıncaq günü sizinlə danışdığı bütün sözlər ⟨idi⟩.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iki daş lövhəsini"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iki"
+    },
+    {
+      "surface": "לוחת",
+      "gloss": "daş lövhəsini"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "daş"
+    },
+    {
+      "surface": "כתבים",
+      "gloss": "yazılmış"
+    },
+    {
+      "surface": "באצבע",
+      "gloss": "barmağı ilə"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ועליהם",
+      "gloss": "onların üstündə"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sözlər"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "danışdığı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "sizinlə"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "dağda"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ortasından"
+    },
+    {
+      "surface": "האש",
+      "gloss": "odun"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "günü"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "yığıncaq"
+    }
+  ],
+  "timestamp": "2026-09-01T10:49:54.587866102Z",
+  "model": "glm-5.3"
+}

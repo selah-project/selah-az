@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 106:35",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 106,
+  "translation": "və millətlərlə qarışdılar, və onların əməllərini öyrəndilər.",
+  "tokens": [
+    {
+      "surface": "ויתערבו",
+      "gloss": "qarışdılar"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "millətlərlə"
+    },
+    {
+      "surface": "וילמדו",
+      "gloss": "öyrəndilər"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "onların əməllərini"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:24.662399010Z",
+  "model": "glm-5.3"
+}

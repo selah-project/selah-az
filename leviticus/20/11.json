@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 20:11",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Və bir kişi ki, ⟨את⟩ atasının arvadı ilə yatsa — atasının çılpaqlığını açmışdır — ikisi də ölüm ilə öldürülsün; onların qanı öz üstlərindədir.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "və bir kişi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "yatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atasının arvadı"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "arvadı"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atasının"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "çılpaqlığını"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atasının"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "açmışdır"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölüm"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "öldürülsün"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ikisi də"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "onların qanı"
+    },
+    {
+      "surface": "בם",
+      "gloss": "öz üstlərindədir"
+    }
+  ],
+  "timestamp": "2026-09-01T10:29:28.850329982Z",
+  "model": "glm-5.3"
+}

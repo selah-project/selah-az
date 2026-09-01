@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 118:19",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 118,
+  "translation": "Açın mənə ədalət qapılarını, girəcəyəm ⟨onlara⟩, şükranlıq edəcəyəm Yahı.",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "açın"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "qapılarını"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ədalət"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "girəcəyəm"
+    },
+    {
+      "surface": "בם",
+      "gloss": "⟨onlara⟩"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "şükranlıq edəcəyəm"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:12.429942406Z",
+  "model": "glm-5.3"
+}

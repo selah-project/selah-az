@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 1:7",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Yisrael oğulları məhsul verdilər, surətlə çoxaldılar, artdılar, son dərəcə çox gücləndilər; və yer onlarla doldu.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "və ... oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "məhsul verdilər"
+    },
+    {
+      "surface": "וישרצו",
+      "gloss": "surətlə çoxaldılar"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "artdılar"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "gücləndilər"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "son dərəcə"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çox"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "və ... doldu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onları"
+    }
+  ],
+  "timestamp": "2026-09-01T10:03:42.563634951Z",
+  "model": "glm-5.3"
+}

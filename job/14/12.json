@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 14:12",
+  "book": "job",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "İnsan uzanır və qalxmır; göylər aradan getməyincə oyatınmaz, yuxularından da oyandırılmaz.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "və insan"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "uzanır"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... yox"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "qalxmır"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-yincə"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "aradan getmə"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "göylər"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יקיצו",
+      "gloss": "oyatınmaz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... yox"
+    },
+    {
+      "surface": "יערו",
+      "gloss": "oyandırılmaz"
+    },
+    {
+      "surface": "משנתם",
+      "gloss": "yuxularından"
+    }
+  ],
+  "timestamp": "2026-09-01T16:08:13.652219317Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 24:3",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Və məşəlini götürdü və dedi: Bilamın, Beor oğlunun nəqli, və gözü açıq ⟨kişinin⟩ nəqli.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "götürdü"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "məşəlini"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nəqli"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilamın"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "בער",
+      "gloss": "Beor"
+    },
+    {
+      "surface": "ונאם",
+      "gloss": "və nəqli"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "kişinin"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "açıq"
+    },
+    {
+      "surface": "העין",
+      "gloss": "gözü"
+    }
+  ],
+  "timestamp": "2026-09-01T10:41:41.945615168Z",
+  "model": "glm-5.3"
+}

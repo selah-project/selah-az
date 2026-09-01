@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 20:26",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Və ilin dönüşündə Ben-Hadad ⟨את⟩ Aramı səfərbər etdi və İsrailə qarşı döyüşmək üçün Afeqə qalxdı.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "və oldu"
+    },
+    {
+      "surface": "לתשובת",
+      "gloss": "dönüşündə"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "ilin"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "səfərbər etdi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aramı"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramı"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "qalxdı"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "Afeqə"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "döyüşmək üçün"
+    },
+    {
+      "surface": "עם",
+      "gloss": "qarşı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:25:24.590526122Z",
+  "model": "glm-5.3"
+}

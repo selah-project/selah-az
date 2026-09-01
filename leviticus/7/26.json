@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 7:26",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Və bütün qanları — quşun və heyvanın — bütün məskənlərinizdə yeməyin.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "דם",
+      "gloss": "qan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yeməyin"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün...də"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "məskənlərinizdə"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "quşun"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "və heyvanın"
+    }
+  ],
+  "timestamp": "2026-09-01T10:23:47.547827092Z",
+  "model": "glm-5.3"
+}

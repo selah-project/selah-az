@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 12:8",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Oradan şərq tərəfdə, Beyt-Elə ⟨doğru⟩ dağa köçdü və çadırını qurdu — Beyt-El qərbdə, Hay şərqdə olmaqla; və orada Yahveyə qurbangah düzəltdi və Yahvenin adı ilə çağırdı.",
+  "tokens": [
+    {
+      "surface": "ויעתק",
+      "gloss": "köçdü"
+    },
+    {
+      "surface": "משם",
+      "gloss": "oradan"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "dağa"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "şərq tərəfdə"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "Beyt-Elə"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨Beyt-El⟩"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "qurdu"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "çadırını"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-El"
+    },
+    {
+      "surface": "מים",
+      "gloss": "qərbdə"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "və Hay"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "şərqdə"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "düzəltdi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "qurbangah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "çağırdı"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "adı ilə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    }
+  ],
+  "timestamp": "2026-09-01T09:49:33.739542166Z",
+  "model": "glm-5.3"
+}

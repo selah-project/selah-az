@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ruth 3:17",
+  "book": "ruth",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "O dedi: «Bu altı ölçük arpanı o, mənə verdi, çünki dedi: Qaynananın yanına boş qayıtma.»",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "o dedi"
+    },
+    {
+      "surface": "שש",
+      "gloss": "altı"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "ölçük arpa"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ma"
+    },
+    {
+      "surface": "תבואי",
+      "gloss": "qayıt"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "boş"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "חמותך",
+      "gloss": "qaynanan"
+    }
+  ],
+  "timestamp": "2026-09-01T16:22:54.448469862Z",
+  "model": "glm-5.3"
+}

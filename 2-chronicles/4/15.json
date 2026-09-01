@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "⟨את⟩ dənizi bir, onun altında isə on iki öküz.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dənizi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dənizi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ və",
+      "marks": "öküzləri"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "öküzləri"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iki"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "on"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "onun altında"
+    }
+  ],
+  "timestamp": "2026-09-01T17:53:30.830866413Z",
+  "model": "glm-5.3"
+}

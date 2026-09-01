@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 3:12",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və ⟨o⟩ dedi: Çünki Mən səninlə olacağam və bu ⟨olacaq⟩ sənə nişanə ki, Mən səni göndərmişəm: xalqı Mitsrayimdan çıxartdığın zaman bu dağda Elohimə ibadət edəcəksiniz.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "olacağam"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "səninlə"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "və bu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "האות",
+      "gloss": "nişanə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "שלחתיך",
+      "gloss": "səni göndərmişəm"
+    },
+    {
+      "surface": "בהוציאך",
+      "gloss": "çıxartdığın zaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqı"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayimdan"
+    },
+    {
+      "surface": "תעבדון",
+      "gloss": "ibadət edəcəksiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimə"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "-də"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "dağ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-09-01T10:05:14.045590361Z",
+  "model": "glm-5.3"
+}

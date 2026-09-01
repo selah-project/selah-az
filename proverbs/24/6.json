@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 24:6",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Çünki məsləhətlərlə ⟨müharibəni⟩ özün üçün yönəldərsən, və xilas çox məsləhətçinin içindədir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "בתחבלות",
+      "gloss": "məsləhətlərlə"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "yönəldərsən"
+    },
+    {
+      "surface": "לך",
+      "gloss": "özün üçün"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "müharibəni"
+    },
+    {
+      "surface": "ותשועה",
+      "gloss": "və xilas"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "çox … içində"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "məsləhətçinin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:57:45.372758897Z",
+  "model": "glm-5.3"
+}

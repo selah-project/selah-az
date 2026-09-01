@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 15:16",
+  "book": "job",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Nəinki iyrənc və murdar ⟨olan⟩ adam — haqsızlığı su kimi içən!",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "nəinki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨daha çox⟩"
+    },
+    {
+      "surface": "נתעב",
+      "gloss": "iyrənc"
+    },
+    {
+      "surface": "ונאלח",
+      "gloss": "və murdar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "içən"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "su kimi"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "haqsızlığı"
+    }
+  ],
+  "timestamp": "2026-09-01T16:09:09.107349851Z",
+  "model": "glm-5.3"
+}

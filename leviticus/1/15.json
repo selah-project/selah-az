@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və kahin onu altara yaxınlaşdıracaq, ⟨את⟩ başını qoparacaq və onu altarda tüstüləndirəcək; onun qanı altarın divarı üstünə axıdılacaq.",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "yaxınlaşdıracaq"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "qoparacaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "başını"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "başını"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "tüstüləndirəcək"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "altarda"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "axıdılacaq"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "qanı"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "divarı"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarın"
+    }
+  ],
+  "timestamp": "2026-09-01T17:27:38.718576300Z",
+  "model": "glm-5.3"
+}

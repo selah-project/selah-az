@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 62:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 62,
+  "translation": "Yalnız ⟨heç⟩ — adam oğulları; yalan — kişi oğulları; tərəzilərdə ⟨çəkilmək üçün⟩: onlar birlikdə heçdən ⟨də⟩ yüngüldürlər.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "heç"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "yalan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kişi"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "tərəzilərdə"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "⟨çəkilmək üçün⟩"
+    },
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "heçdən"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "birlikdə"
+    }
+  ],
+  "timestamp": "2026-09-01T17:42:42.435192415Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 15:15",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Və atasının müqəddəs əşyalarını və öz müqəddəs əşyalarını Yahve evinə gətirdi: gümüş, qızıl və qab-qacaqlar.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "və gətirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atasının müqəddəs əşyaları"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "müqəddəs əşyaları"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atasının"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "və öz müqəddəs əşyaları"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evinə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "və qızıl"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "və qab-qacaqlar"
+    }
+  ],
+  "timestamp": "2026-09-01T12:21:41.541419866Z",
+  "model": "glm-5.3"
+}

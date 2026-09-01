@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 16:4",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Yahve hər şeyi öz məqsədinə görə işlədi, hətta şər adamı da şər günü üçün.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hər şeyi"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "işlədi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "למענהו",
+      "gloss": "öz məqsədinə görə"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "hətta ... də"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "şər adamı"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "günü üçün"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "şər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:54:25.799263756Z",
+  "model": "glm-5.3"
+}

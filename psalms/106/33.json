@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 106,
+  "translation": "Çünki onlar onun ruhunu qəzəbləndirdilər ⟨את⟩, və o öz dodaqları ilə düşünülməmiş danışdı.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "qəzəbləndirdilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onun ruhunu"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "onun ruhunu"
+    },
+    {
+      "surface": "ויבטא",
+      "gloss": "düşünülməmiş danışdı"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "öz dodaqları ilə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:24.662053337Z",
+  "model": "glm-5.3"
+}

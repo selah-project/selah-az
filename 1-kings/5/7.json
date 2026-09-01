@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 5:7",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Və bu nəzarətçilər ⟨את⟩ Şelomo padşahı və ⟨את⟩ padşah Şelomonun süfrəsinə yaxınlaşan hamını dolandırırdılar, hər biri öz ayında; heç bir şey əskik edilməzdi.",
+  "tokens": [
+    {
+      "surface": "וכלכלו",
+      "gloss": "dolandırırdılar"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "nəzarətçilər"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şelomo padşahı"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "süfrəsinə yaxınlaşan hamını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamını"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "yaxınlaşan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "süfrə"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomonun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər biri"
+    },
+    {
+      "surface": "חדשו",
+      "gloss": "öz ayında"
+    },
+    {
+      "surface": "לא",
+      "gloss": "heç"
+    },
+    {
+      "surface": "יעדרו",
+      "gloss": "əskik edilməzdi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bir şey"
+    }
+  ],
+  "timestamp": "2026-09-01T12:12:18.991021844Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 72:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 72,
+  "translation": "Yerdə bir ovuc taxıl olsun, dağların başında; onun meyvəsi Livan kimi titrəsin, və şəhərdən ⟨bitərlər⟩, yerin otı kimi.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "פסת",
+      "gloss": "bir ovuc"
+    },
+    {
+      "surface": "בר",
+      "gloss": "taxıl"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerdə"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "başında"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dağların"
+    },
+    {
+      "surface": "ירעש",
+      "gloss": "titrəsin"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "Livan kimi"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "onun meyvəsi"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "və çiçəklənsinlər"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "şəhərdən"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "otı kimi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:24:16.072119790Z",
+  "model": "glm-5.3"
+}

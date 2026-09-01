@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Əsassız adamla mübahisə etmə, əgər o sənə pislik etməyibsə.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "etmə"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "mübahisə etmə"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adamla"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "əsassız"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mənfi"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "sənə etməyibsə"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pislik"
+    }
+  ],
+  "timestamp": "2026-09-01T15:48:56.846316767Z",
+  "model": "glm-5.3"
+}

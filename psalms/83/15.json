@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 83:15",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 83,
+  "translation": "Od meşəni yandırdığı, alov dağları tutuşdurduğu kimi —",
+  "tokens": [
+    {
+      "surface": "כאש",
+      "gloss": "od kimi"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "yandırır"
+    },
+    {
+      "surface": "יער",
+      "gloss": "meşəni"
+    },
+    {
+      "surface": "וכלהבה",
+      "gloss": "və alov kimi"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "tutuşdurur"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dağları"
+    }
+  ],
+  "timestamp": "2026-09-01T15:27:48.391305463Z",
+  "model": "glm-5.3"
+}

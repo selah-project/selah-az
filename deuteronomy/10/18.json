@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 10:18",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "O, yetim və dul üçün hökm edir, gərə sevir — ona çörək və paltar vermək üçün.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "edir"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hökm"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "yetim"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "dul"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "sevir"
+    },
+    {
+      "surface": "גר",
+      "gloss": "gər (yad sakin)"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "vermək üçün"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "çörək"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "paltar"
+    }
+  ],
+  "timestamp": "2026-09-01T10:49:09.609583455Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 85,
+  "translation": "Şübhəsiz, Onun qurtuluşu Onun qorxanlarına yaxındır, izzət ölkəmizdə sakin olsun deyə.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Şübhəsiz"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "yaxındır"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "Onun qorxanlarına"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "Onun qurtuluşu"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "sakin olsun deyə"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "izzət"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "ölkəmizdə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:27.540702997Z",
+  "model": "glm-5.3"
+}

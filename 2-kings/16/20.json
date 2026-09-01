@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 16:20",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Və Ahaz ataları ilə yatdı və ataları ilə Davud şəhərində dəfn edildi; və oğlu Hizkiya onun yerinə hökm sürdü.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "yatdı"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ataları"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "dəfn edildi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ataları"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "şəhərində"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "hökm sürdü"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "onun yerinə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:40:19.856171502Z",
+  "model": "glm-5.3"
+}

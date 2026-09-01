@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 16:3",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Budur, mən Başanı və onun evini ⟨odla⟩ yandırıb yox edəcəyəm və sənin evini ⟨את⟩ Navat oğlu Yaravamın evi kimi edəcəyəm.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Budur, mən"
+    },
+    {
+      "surface": "מבעיר",
+      "gloss": "yandırıb yox edəcəyəm"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "-dan sonra \/ ⟨üzləşdirərək⟩ Başanı"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Başanı"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "və -dan sonra onun"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "evini"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "və edəcəyəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sənin evini"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "sənin evini"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "evi kimi"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaravamın"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Navat"
+    }
+  ],
+  "timestamp": "2026-09-01T12:22:15.513874137Z",
+  "model": "glm-5.3"
+}

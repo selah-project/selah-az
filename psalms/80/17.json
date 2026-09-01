@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 80:17",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 80,
+  "translation": "Odla yandırılmış, kəsilmiş; üzlərinin qəzəbi ilə məhv olurlar.",
+  "tokens": [
+    {
+      "surface": "שרפה",
+      "gloss": "yandırılmış"
+    },
+    {
+      "surface": "באש",
+      "gloss": "odla"
+    },
+    {
+      "surface": "כסוחה",
+      "gloss": "kəsilmiş"
+    },
+    {
+      "surface": "מגערת",
+      "gloss": "qəzəbi ilə"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "üzlərinin"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "məhv olurlar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:27:52.365003613Z",
+  "model": "glm-5.3"
+}

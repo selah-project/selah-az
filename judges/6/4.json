@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 6:4",
+  "book": "judges",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Onların üstünə düşərgə saldılar, torpağın məhsulunu ⟨את⟩ Azzaya çatana qədər məhv etdilər və Yisraeldə ⟨heç bir⟩ qida saxlamadılar — nə qoyun, nə öküz, nə də eşşək.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "düşərgə saldılar"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "onların üstünə"
+    },
+    {
+      "surface": "וישחיתו",
+      "gloss": "məhv etdilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "məhsulu"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "məhsulunu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "torpağın"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "çatanda"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azzaya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və saxlamadılar"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": ""
+    },
+    {
+      "surface": "מחיה",
+      "gloss": "qida"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Yisraeldə"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "qoyun"
+    },
+    {
+      "surface": "ושור",
+      "gloss": "öküz"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "eşşək"
+    }
+  ],
+  "timestamp": "2026-09-01T11:18:49.265744841Z",
+  "model": "glm-5.3"
+}

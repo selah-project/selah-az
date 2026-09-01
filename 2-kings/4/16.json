@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 4:16",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və dedi: Bu təyin olunmuş vaxtda, həyat vaxtı kimi, sən oğul qucaqlayacaqsan. Və o dedi: Xeyr, Adonayım, Elohim adamı, quluna qarşı yalan danışma.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "təyin olunmuş vaxtda"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "vaxtı kimi"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "həyat"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "sən"
+    },
+    {
+      "surface": "חבקת",
+      "gloss": "qucaqlayacaqsan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "və o dedi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "xeyr, …ma"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayım"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ma"
+    },
+    {
+      "surface": "תכזב",
+      "gloss": "yalan danış"
+    },
+    {
+      "surface": "בשפחתך",
+      "gloss": "quluna qarşı"
+    }
+  ],
+  "timestamp": "2026-09-01T12:31:21.790014294Z",
+  "model": "glm-5.3"
+}

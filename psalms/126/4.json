@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 126,
+  "translation": "Qaytar, ey Yahve, əsarətimizin ⟨את⟩ geri dönüşünü, cənubdakı sel arxları kimi!",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Qaytar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əsarətimizin geri dönüşünü"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "əsarətimizin geri dönüşünü"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "sel arxları kimi"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "cənubda"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:55.620630781Z",
+  "model": "glm-5.3"
+}

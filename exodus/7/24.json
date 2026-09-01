@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 7:24",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Və bütün Mitsrayim ⟨əhli⟩ çayın ətrafında içmək üçün su ⟨qazdı⟩, çünki çayın suyundan içməyə qadir deyildilər.",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "və qazdılar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim ⟨əhli⟩"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "ətrafında"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "çayın"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "içmək üçün"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "… deyil"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "qadir"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "içməyə"
+    },
+    {
+      "surface": "ממימי",
+      "gloss": "suyundan"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "çayın"
+    }
+  ],
+  "timestamp": "2026-09-01T10:04:52.463358068Z",
+  "model": "glm-5.3"
+}

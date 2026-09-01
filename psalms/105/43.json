@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 105:43",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 105,
+  "translation": "Xalqını sevincclə çıxartdı, seçilmişlərini ⟨את⟩ nəğmə ilə.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "çıxartdı"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "xalqını"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "sevinclə"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "nəğmə ilə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seçilmişlərini"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "seçilmişlərini"
+    }
+  ],
+  "timestamp": "2026-09-01T15:35:31.883475204Z",
+  "model": "glm-5.3"
+}

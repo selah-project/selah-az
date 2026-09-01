@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 5:1",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Moşe bütün İsrailə səsləndi və onlara dedi: Eşit, İsrail, ⟨את⟩ qanunları və ⟨את⟩ hökmləri ki, mən bu gün qulaqlarınızda danışıram; öyrənin ⟨את⟩ onları və saxlayın ki, edəsiniz ⟨את⟩ onları.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "səsləndi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Eşit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qanunları"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "qanunları"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "hökmləri"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "hökmləri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mən"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "danışıram"
+    },
+    {
+      "surface": "באזניכם",
+      "gloss": "qulaqlarınızda"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bu gün"
+    },
+    {
+      "surface": "ולמדתם",
+      "gloss": "öyrənin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "saxlayın"
+    },
+    {
+      "surface": "לעשתם",
+      "gloss": "edəsiniz"
+    }
+  ],
+  "timestamp": "2026-09-01T10:47:27.951730738Z",
+  "model": "glm-5.3"
+}

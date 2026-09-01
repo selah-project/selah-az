@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 94:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 94,
+  "translation": "Anlayın, ey xalq içindəki ağılsız heyvanlar kimi olanlar, və ey axmaqlar, nə vaxt müdrik olacaqsınız?",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "anlayın"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "ey ağılsız heyvanlar kimi olanlar"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "xalq içində"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "və ey axmaqlar"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "nə vaxt"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "müdrik olacaqsınız"
+    }
+  ],
+  "timestamp": "2026-09-01T15:31:49.675768385Z",
+  "model": "glm-5.3"
+}

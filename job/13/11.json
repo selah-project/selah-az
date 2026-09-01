@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 13:11",
+  "book": "job",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Onun əzəməti sizi qorxutmurmu? Və onun dəhşəti üstünüzə düşmürmü?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "mı"
+    },
+    {
+      "surface": "שאתו",
+      "gloss": "onun əzəməti"
+    },
+    {
+      "surface": "תבעת",
+      "gloss": "qorxutmur"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizi"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "və onun dəhşəti"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "düşmür"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "üstünüzə"
+    }
+  ],
+  "timestamp": "2026-09-01T16:07:06.862821512Z",
+  "model": "glm-5.3"
+}

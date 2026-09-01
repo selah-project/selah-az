@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Və ⟨bu⟩ sözü qanun kimi sizin üçün və oğullarınız üçün əbədiyyətədək saxlayacaqsınız.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "və saxlayacaqsınız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sözü"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sözü"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "qanun kimi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sizin üçün"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "və oğullarınız üçün"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ədək"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "əbədiyyətə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:08:46.387142480Z",
+  "model": "glm-5.3"
+}

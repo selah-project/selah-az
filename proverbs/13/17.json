@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 13:17",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Şər elçisi şərə düşər, amma sadiq elçi ⟨is⟩ şəfa.",
+  "tokens": [
+    {
+      "surface": "מלאך",
+      "gloss": "elçisi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "şər"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "düşər"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "şərə"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "amma elçi"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "sadiq"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "şəfa"
+    }
+  ],
+  "timestamp": "2026-09-01T15:52:23.001114529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 23:25",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Atan səadətlənsin və anan, və səni doğan sevinclə coşsun.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "səadətlənləsin"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "atan"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "və anan"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "və coşsun"
+    },
+    {
+      "surface": "יולדתך",
+      "gloss": "səni doğan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:57:22.659064126Z",
+  "model": "glm-5.3"
+}

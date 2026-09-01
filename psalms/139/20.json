@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 139:20",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 139,
+  "translation": "Ki səni hiylə ilə and içirlər ⟨adına⟩, boş yerə götürürlər ⟨adını⟩ — sənin düşmənlərin.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יאמרך",
+      "gloss": "səni and içirlər"
+    },
+    {
+      "surface": "למזמה",
+      "gloss": "hiylə ilə"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "götürürlər"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "boş yerə"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "sənin düşmənlərin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:44:41.083798763Z",
+  "model": "glm-5.3"
+}

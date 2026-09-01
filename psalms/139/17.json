@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 139:17",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 139,
+  "translation": "Və mənim üçün nə qədər dəyərlidir sənin fikirlərin, ay El! Nə qədər ağır ⟨dır⟩ onların cəmi!",
+  "tokens": [
+    {
+      "surface": "ולי",
+      "gloss": "və mənim üçün"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə qədər"
+    },
+    {
+      "surface": "יקרו",
+      "gloss": "dəyərlidir"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "sənin fikirlərin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ay El"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə qədər"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "ağır ⟨dır⟩"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "onların cəmi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:44:41.083293419Z",
+  "model": "glm-5.3"
+}

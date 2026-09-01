@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 105,
+  "translation": "Əbədiyyətə qədər xatırladı öz əhdini, min nəslə əmr etdiyi kəlamı.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "xatırladı"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədiyyətə qədər"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "öz əhdini"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kəlamı"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "əmr etdiyi"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "min"
+    },
+    {
+      "surface": "דור",
+      "gloss": "nəslə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:35:26.948871642Z",
+  "model": "glm-5.3"
+}

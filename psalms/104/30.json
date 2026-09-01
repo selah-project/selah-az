@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 104:30",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 104,
+  "translation": "Ruhunu göndərirsən — onlar yaradılırlar, və yer üzünü yeniləyirsən.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "göndərirsən"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "ruhunu"
+    },
+    {
+      "surface": "יבראון",
+      "gloss": "yaradılırlar"
+    },
+    {
+      "surface": "ותחדש",
+      "gloss": "və yeniləyirsən"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzünü"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "yerin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:35:33.747474925Z",
+  "model": "glm-5.3"
+}

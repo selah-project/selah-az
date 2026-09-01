@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 69,
+  "translation": "Günah üstünə onların günahını qoy, və Sənin ədalətinə girməsinlər.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "qoy"
+    },
+    {
+      "surface": "עון",
+      "gloss": "günah"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "onların günahını"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "girməsinlər"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "Sənin ədalətinə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:23:26.936156508Z",
+  "model": "glm-5.3"
+}

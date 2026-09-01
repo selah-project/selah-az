@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "və onların iyrənc şeylərini ⟨את⟩ gördünüz, və bütlərini ⟨את⟩ — ağac və daş, gümüş və qızıl, onların yanında olanları.",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "və gördünüz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onların iyrənc şeylərini"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "iyrənc şeyləri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "bütlərini"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "bütləri"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ağac"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "və daş"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "və qızıl"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "onların yanında"
+    }
+  ],
+  "timestamp": "2026-09-01T10:56:42.553334390Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 8:1",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və Yahve mənə dedi: Özünə böyük bir lövhə götür və ona insan qələmi ilə yaz: Maher-Şalal-Haş-Baz (tez qənimət, sürətlə soyğun).",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Və ... dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "קח",
+      "gloss": "götür"
+    },
+    {
+      "surface": "לך",
+      "gloss": "özünə"
+    },
+    {
+      "surface": "גליון",
+      "gloss": "lövhə"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "və yaz"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "qələm ilə"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "insan"
+    },
+    {
+      "surface": "למהר",
+      "gloss": "Maher (tez)"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "Şalal (qənimət)"
+    },
+    {
+      "surface": "חש",
+      "gloss": "Haş (sürətlə)"
+    },
+    {
+      "surface": "בז",
+      "gloss": "Baz (soyğun)"
+    }
+  ],
+  "timestamp": "2026-09-01T12:48:58.061002298Z",
+  "model": "glm-5.3"
+}

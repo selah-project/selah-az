@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 2:19",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və ⟨את⟩ Baalların adlarını onun ağzından uzaqlaşdıracağam, və adları ilə artıq yad edilməyəcəklər.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "uzaqlaşdıracağam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adlarını"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "adlarını"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalların"
+    },
+    {
+      "surface": "מפיה",
+      "gloss": "onun ağzından"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və... yox"
+    },
+    {
+      "surface": "יזכרו",
+      "gloss": "yad edilməyəcəklər"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "artıq"
+    },
+    {
+      "surface": "בשמם",
+      "gloss": "adları ilə"
+    }
+  ],
+  "timestamp": "2026-09-01T14:35:01.453358883Z",
+  "model": "glm-5.3"
+}

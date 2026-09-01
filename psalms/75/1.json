@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 75,
+  "translation": "Xor rəhbərinə; Məhv etmə; Asafa məzmir, nəğmə.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Xor rəhbərinə"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Məhv etmə"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "yox"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "məzmir"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafa"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nəğmə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:25:46.993499171Z",
+  "model": "glm-5.3"
+}

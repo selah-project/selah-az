@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "və ⟨את⟩ hər qarğanı öz növünə görə",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hər qarğa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "qarğa"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "öz növünə görə"
+    }
+  ],
+  "timestamp": "2026-09-01T17:30:03.060768813Z",
+  "model": "glm-5.3"
+}

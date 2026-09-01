@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 40:17",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "Səni axtaranların hamısı Səndə sevinərək şad olsunlar, qurtuluşunu sevənlər daim desinlər: «Yahve böyükdür!»",
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "sevinərək"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "şad olsunlar"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Səndə"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamısı"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "Səni axtaranların"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "desinlər"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daim"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "böyükdür"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "sevənlər"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "qurtuluşunu"
+    }
+  ],
+  "timestamp": "2026-09-01T15:13:02.560474206Z",
+  "model": "glm-5.3"
+}

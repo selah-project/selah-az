@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 18:12",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Qırılmadan əvvəl insanın qəlbi təkəbbürlənir, və şərəfdən əvvəl təvazökarlıq ⟨gəlir⟩.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "əvvəl"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "qırılmadan"
+    },
+    {
+      "surface": "יגבה",
+      "gloss": "təkəbbürlənir"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qəlbi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "insanın"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "və əvvəl"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "şərəfdən"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "təvazökarlıq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:55:02.491136718Z",
+  "model": "glm-5.3"
+}

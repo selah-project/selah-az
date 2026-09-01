@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 9:12",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Onundan səhərə qədər qoymasınlar və onun sümüyünü sındırmasınlar; pesahın bütün qanunu üzrə onu ⟨את⟩ tutsunlar.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "-mə"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "qoymasınlar"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "onundan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "səhər"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "və sümük"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-mə"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "sındırmasınlar"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onun"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "üzrə"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "qanunu"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pesahın"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "tutsunlar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu (pesah)"
+    }
+  ],
+  "timestamp": "2026-09-01T10:36:09.005817993Z",
+  "model": "glm-5.3"
+}

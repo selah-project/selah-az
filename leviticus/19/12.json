@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Və Adımla yalana and içməyəcəksiniz, yoxsa Elohiminin adını müqəddəslikdən çıxaracaqsınız ⟨את⟩. Mən Yahveyəm.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "and içəcəksiniz"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "Adımla"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "yalana"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "və müqəddəslikdən çıxaracaqsan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adını"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adını"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiminin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T10:28:08.141074848Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Bütün sənin qurbanlarını xatırlasın və yanmayan qurbanını ⟨yağlı⟩ etsin. Səlah.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "xatırlasın"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "sənin qurbanlarını"
+    },
+    {
+      "surface": "ועולת׸",
+      "gloss": "və yanmayan qurbanını"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "⟨yağlı⟩ etsin"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Səlah"
+    }
+  ],
+  "timestamp": "2026-09-01T15:07:17.483212369Z",
+  "model": "glm-5.3"
+}

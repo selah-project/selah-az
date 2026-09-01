@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 59,
+  "translation": "Xor rəhbərinə; Məhv etmə; Davuda aid; miktam; Şaul ⟨onu⟩ göndərdikdə və evi onu öldürmək üçün gözətdilər — ⟨את⟩ evi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Xor rəhbərinə"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Məhv etmə"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "etmə"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davuda aid"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "göndərdikdə"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaul"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "və gözətdilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "evi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "onu öldürmək üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T18:01:44.772013480Z",
+  "model": "glm-5.3"
+}

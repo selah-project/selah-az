@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 1:26",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və hakimlərini ilkin kimi, məsləhətçilərini başlanğıc kimi qaytaracağam; bundan sonra sənə ədalət şəhəri, sadiq qəsəbə deyiləcək.",
+  "tokens": [
+    {
+      "surface": "ואשיבה",
+      "gloss": "qaytaracağam"
+    },
+    {
+      "surface": "שפטיך",
+      "gloss": "hakimlərin"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "ilkin kimi"
+    },
+    {
+      "surface": "ויעציך",
+      "gloss": "və məsləhətçilərin"
+    },
+    {
+      "surface": "כבתחלה",
+      "gloss": "başlanğıc kimi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sonra"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bundan"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "deyiləcək"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şəhər"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "ədalət(in)"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "qəsəbə"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "sadiq"
+    }
+  ],
+  "timestamp": "2026-09-01T12:45:33.917989397Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 72,
+  "translation": "⟨Və⟩ o, hökm sürəcək dənizdən dənizə qədər, ⟨və⟩ çaydan yerin uçqarlarına qədər.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "⟨və⟩ o, hökm sürəcək"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dənizdən"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dənizə"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "⟨və⟩ çaydan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "uçqarlarına"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:24:03.639059553Z",
+  "model": "glm-5.3"
+}

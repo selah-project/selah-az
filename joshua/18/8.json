@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 18:8",
+  "book": "joshua",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Və kişilər qalxıb getdilər; və Yehoşua ⟨את⟩ torpağı yazıb təsvir etməyə gedənlərə əmr etdi, deyə: Gedin və ⟨את⟩ torpağı gəzin, onu ⟨את⟩ yazın və mənə qayıdın — və mən burada Şiloda Yahve-nin qarşısında sizin üçün qur'a atacağam.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "qalxıb"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "kişilər"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "və getdilər"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "və əmr etdi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gedənlərə"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "gedənlər"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "yazmağa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "torpağı"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "torpağı"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyə"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "gedin"
+    },
+    {
+      "surface": "והתהלכו",
+      "gloss": "və gəzin"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "torpağı (içində)"
+    },
+    {
+      "surface": "וכתבו",
+      "gloss": "və yazın"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "onu ⟨את⟩",
+      "marks": "onu (torpağı)"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "və qayıdın"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "ופה",
+      "gloss": "və burada"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "atacağam"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin üçün"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "qur'a"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "qarşısında"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve-nin"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "Şiloda"
+    }
+  ],
+  "timestamp": "2026-09-01T11:11:07.524021049Z",
+  "model": "glm-5.3"
+}

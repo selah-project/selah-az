@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Və ⟨onlar⟩ ⟨את⟩ Lutu — Avramın qardaşının oğlunu — və ⟨את⟩ onun malını götürüb getdilər; və o, Sedomdə yaşayırdı.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "və götürdülər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lut"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lutu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "onun malı"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "onun malını"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "qardaşının"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avramın"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "və getdilər"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "və o"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "yaşayırdı"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "Sedomdə"
+    }
+  ],
+  "timestamp": "2026-09-01T09:48:57.062030604Z",
+  "model": "glm-5.3"
+}

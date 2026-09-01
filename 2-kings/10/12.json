@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 10:12",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "O, qalxdı, gəldi və Şomrona doğru yollandı; ⟨o⟩ yolda çobanların qırxım evi olan Beyt-Eqeddə idi.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "qalxdı"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "gəldi"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "yollandı"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Şomrona"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "עקד",
+      "gloss": "Eqed"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "çobanların"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolda"
+    }
+  ],
+  "timestamp": "2026-09-01T12:33:07.888205910Z",
+  "model": "glm-5.3"
+}

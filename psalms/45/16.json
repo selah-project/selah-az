@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 45:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 45,
+  "translation": "Sevinc və coşqu ilə gətirilərlər; şahın sarayına girərlər.",
+  "tokens": [
+    {
+      "surface": "תובלנה",
+      "gloss": "gətirilərlər"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "sevinc ilə"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "və coşqu"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "girərlər"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "sarayına"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "şahın"
+    }
+  ],
+  "timestamp": "2026-09-01T15:16:31.627301058Z",
+  "model": "glm-5.3"
+}

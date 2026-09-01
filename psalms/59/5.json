@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 59:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 59,
+  "translation": "Günahsız ⟨halda⟩ qaçırlar və hazırlaşırlar; mənimlə görüşməyə oyan və gör.",
+  "tokens": [
+    {
+      "surface": "בלי",
+      "gloss": "günahsız"
+    },
+    {
+      "surface": "עון",
+      "gloss": "günah"
+    },
+    {
+      "surface": "ירוצון",
+      "gloss": "qaçırlar"
+    },
+    {
+      "surface": "ויכוננו",
+      "gloss": "və hazırlaşırlar"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "oyan"
+    },
+    {
+      "surface": "לקראתי",
+      "gloss": "mənimlə görüşməyə"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "və gör"
+    }
+  ],
+  "timestamp": "2026-09-01T15:19:42.644931214Z",
+  "model": "glm-5.3"
+}

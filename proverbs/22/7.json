@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 22:7",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Zəngin kasıbların üzərində hökm sürər, borc alan isə borc verən insana qul olar.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "zəngin"
+    },
+    {
+      "surface": "ברשים",
+      "gloss": "kasıbların üzərində"
+    },
+    {
+      "surface": "ימשול",
+      "gloss": "hökm sürər"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "qul olar"
+    },
+    {
+      "surface": "לוה",
+      "gloss": "borc alan"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "insana"
+    },
+    {
+      "surface": "מלוה",
+      "gloss": "borc verən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:57:11.322171760Z",
+  "model": "glm-5.3"
+}

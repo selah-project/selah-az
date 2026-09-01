@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 81:17",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 81,
+  "translation": "Və onu buğdanın ⟨yağından⟩ yedizərdi, qayadan ⟨çıxan⟩ bal ilə səni doyurdardım.",
+  "tokens": [
+    {
+      "surface": "ויאכילהו",
+      "gloss": "və onu yedizərdi"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "yağından"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "buğda"
+    },
+    {
+      "surface": "ומצור",
+      "gloss": "və qayadan"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "bal"
+    },
+    {
+      "surface": "אשביעך",
+      "gloss": "doyurdardım səni"
+    }
+  ],
+  "timestamp": "2026-09-01T15:26:44.379138031Z",
+  "model": "glm-5.3"
+}

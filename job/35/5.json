@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 35:5",
+  "book": "job",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "Göylərə bax və gör, buludlara nəzər yetir — onlar səndən ucadırlar.",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "bax"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "göylərə"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "və gör"
+    },
+    {
+      "surface": "ושור",
+      "gloss": "və nəzər yetir"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "buludlara"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "ucadırlar"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "səndən"
+    }
+  ],
+  "timestamp": "2026-09-01T16:17:47.692162126Z",
+  "model": "glm-5.3"
+}

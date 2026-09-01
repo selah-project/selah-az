@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 13:8",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "O gün oğluna danışacaqsan və deyəcəksən: 'Bunun ucundur — Mitsrayimdan çıxanda Yahvenin mənim üçün etdiyi şeyin ucundur.'",
+  "tokens": [
+    {
+      "surface": "והגדת",
+      "gloss": "danışacaqsan"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "oğluna"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "O"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyəcəksən"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ucundur"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Bunun"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etdiyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənim üçün"
+    },
+    {
+      "surface": "בצאתי",
+      "gloss": "çıxanda"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayimdan"
+    }
+  ],
+  "timestamp": "2026-09-01T10:08:41.428437124Z",
+  "model": "glm-5.3"
+}

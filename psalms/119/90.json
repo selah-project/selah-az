@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 90,
+  "ref": "psalms 119:90",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Nəsildən-nəslə sadiqdirsən ⟨sənin⟩ imanın; sən yeri bərqərar etdin, o dayanır.",
+  "tokens": [
+    {
+      "surface": "לדר",
+      "gloss": "nəsildən"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nəslə"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "imanın"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "bərqərar etdin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yeri"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "dayanır"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:21.281543758Z",
+  "model": "glm-5.3"
+}

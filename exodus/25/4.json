@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 25:4",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "və göy rəngi tuq, və ərmən tuq, və qırmız rəngli ipək, və inc kətan, və keçi tükü",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "və göy rəngi tuq"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "və ərmən tuq"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "və qırmız rəngli"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ipək"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "və inc kətan"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "və keçi tükü"
+    }
+  ],
+  "timestamp": "2026-09-01T17:56:20.509203092Z",
+  "model": "glm-5.3"
+}

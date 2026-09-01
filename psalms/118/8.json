@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 118,
+  "translation": "Yahve-də sığınmaq insana güvənməkdən yaxşıdır.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "yaxşıdır"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "sığınmaq"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahve-də"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "güvənməkdən"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "insana"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:43.494397243Z",
+  "model": "glm-5.3"
+}

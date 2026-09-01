@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Çünki kim yeyər, və kim ⟨canı istəyər⟩, məndən başqa?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yeyər"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "və kim"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "canı istəyər"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "kənarda"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "məndən"
+    }
+  ],
+  "timestamp": "2026-09-01T16:28:57.861861367Z",
+  "model": "glm-5.3"
+}

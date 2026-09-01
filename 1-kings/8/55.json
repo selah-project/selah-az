@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "O, ayaq üstə durub ⟨את⟩ bütün İsrail məclisini uca səslə xeyir-dua verdi, deyərək:",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ayaq üstə durub"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "xeyir-dua verdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün İsrail məclisini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "məclisini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "קול",
+      "gloss": "səslə"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "uca"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    }
+  ],
+  "timestamp": "2026-09-01T12:17:27.611438290Z",
+  "model": "glm-5.3"
+}

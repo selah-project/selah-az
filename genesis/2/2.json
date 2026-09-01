@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 2:2",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və yeddinci gündə Elohim öz işini tamamladı ki etdi, və yeddinci gündə bütün öz işindən ki etdi ⟨sakit oldu⟩.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "tamamladı"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gündə"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "yeddinci"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "öz işini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etdi"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "⟨sakit oldu⟩"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gündə"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "yeddinci"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bütün … -dan"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "öz işindən"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etdi"
+    }
+  ],
+  "timestamp": "2026-09-01T09:46:30.537107337Z",
+  "model": "glm-5.3"
+}

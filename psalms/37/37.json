@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 37:37",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Kamili qoru ⟨və⟩ düzü gör, çünki sülh adamının axırıtı ⟨sulhdur⟩.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "qoru"
+    },
+    {
+      "surface": "תם",
+      "gloss": "kamili"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "⟨və⟩ gör"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "düzü"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "axırıtı"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "adamının"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sülh"
+    }
+  ],
+  "timestamp": "2026-09-01T15:12:44.541739677Z",
+  "model": "glm-5.3"
+}

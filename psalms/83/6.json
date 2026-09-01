@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 83,
+  "translation": "Çünki ürəklərində birlikdə məsləhətləşdilər, sənə qarşı əhd kəsdilər.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "məsləhətləşdilər"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ürəklərində"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "birlikdə"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sənə qarşı"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "əhd"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "kəsdilər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:27:51.627437823Z",
+  "model": "glm-5.3"
+}

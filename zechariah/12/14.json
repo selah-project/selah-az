@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 12:14",
+  "book": "zechariah",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Qalan bütün ailələr — ailə-ailə ⟨⟩ tək-tək, və onların qadınları tək-tək.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "המשפחות",
+      "gloss": "ailələr"
+    },
+    {
+      "surface": "הנשארות",
+      "gloss": "qalan"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ailə-ailə ⟨⟩"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": ""
+    },
+    {
+      "surface": "לבד",
+      "gloss": "tək-tək"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "və onların qadınları"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "tək-tək"
+    }
+  ],
+  "timestamp": "2026-09-01T14:57:15.761263043Z",
+  "model": "glm-5.3"
+}

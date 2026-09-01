@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 26:4",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Kahin səbəti əlindən alacaq və onu Yahvenin, sənin Elohim-inin qurbangahının önünə qoyacaq.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "və alacaq"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "הטנא",
+      "gloss": "səbəti"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "əlindən"
+    },
+    {
+      "surface": "והניחו",
+      "gloss": "və onu qoyacaq"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünə"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "qurbangahının"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sənin Elohim-inin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:54:14.736164052Z",
+  "model": "glm-5.3"
+}

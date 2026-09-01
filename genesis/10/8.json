@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Və Kuş ⟨את⟩ Nimrodu doğdu; o, yerdə qüdrətli olmağa başladı.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "və Kuş"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "doğdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrodu"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrodu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "החל",
+      "gloss": "başladı"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "olmağa"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "qüdrətli"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerdə"
+    }
+  ],
+  "timestamp": "2026-09-01T09:47:52.686533704Z",
+  "model": "glm-5.3"
+}

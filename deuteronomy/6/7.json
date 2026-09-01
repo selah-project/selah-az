@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Onları övladlarına təkrar-təkrar öyrədəcəksən və onlardan danışacaqsan — evində oturduqda, yolda gedəndə, uzanıb yatanda və qalxdıqda.",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "təkrar-təkrar öyrədəcəksən"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "övladlarına"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "danışacaqsan"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onlardan"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "oturduqda"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "evində"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "gedəndə"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolda"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "yatanda"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "qalxdıqda"
+    }
+  ],
+  "timestamp": "2026-09-01T10:47:29.447826302Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Yahve sabahkı gün ⟨את⟩ bu sözü etdi və Mitsrayimin bütün mal-qarası öldü; Yisrael oğullarının mal-qarasından isə bir ⟨dənə⟩ belə ölmədi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "etdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu sözü"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "bu sözü"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "sabahkı gün"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "və öldü"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "mal-qarası"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimin"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "mal-qarasından isə"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "belə"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ölmədi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    }
+  ],
+  "timestamp": "2026-09-01T10:07:43.260195945Z",
+  "model": "glm-5.3"
+}

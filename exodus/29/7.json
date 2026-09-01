@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "Və ⟨את⟩ msh yağını götürəcəksən və onun başının üstünə tökəcəksən və onu msh edəcəksən.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "götürəcəksən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "msh yağını"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "yağını"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "msh"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "tökəcəksən"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "onun başının"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "msh edəcəksən"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu"
+    }
+  ],
+  "timestamp": "2026-09-01T10:17:51.612497295Z",
+  "model": "glm-5.3"
+}

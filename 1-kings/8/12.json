@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Onda Şelomo dedi: Yahve demişdir ki, ⟨O⟩ qaranlıq duman içində sakin olmağı ⟨istəyir⟩.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "onda"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "demişdir"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "sakin olmaq"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "qaranlıq duman içində"
+    }
+  ],
+  "timestamp": "2026-09-01T12:16:45.214625024Z",
+  "model": "glm-5.3"
+}

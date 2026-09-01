@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 3:20",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "O zaman əlimi uzadacağam və onun içində edəcəyim bütün möcüzələrimlə ⟨את⟩ Mitsrayimi vuracağam; bundan sonra o sizi buraxacaq.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "uzadacağam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əlimi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "əlimi"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "vuracağam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayimi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "נפלאתי",
+      "gloss": "möcüzələrimlə"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "edəcəyim"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "onun içində"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "bundan sonra"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bundan sonra"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "buraxacaq"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "sizi"
+    }
+  ],
+  "timestamp": "2026-09-01T10:05:58.395935573Z",
+  "model": "glm-5.3"
+}

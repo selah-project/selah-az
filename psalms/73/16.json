@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 73,
+  "translation": "Və bunu bilmək üçün düşündüm — o, gözlərimdə əzabdır.",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "və düşündüm"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "bilmək üçün"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bunu"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "əzab"
+    },
+    {
+      "surface": "היא",
+      "gloss": "o"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "gözlərimdə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:24:45.397228321Z",
+  "model": "glm-5.3"
+}

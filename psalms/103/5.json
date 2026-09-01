@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 103:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 103,
+  "translation": "Sənin bəzəyini yaxşılıqla doyduran — gəncliyin qartal kimi yenilənir.",
+  "tokens": [
+    {
+      "surface": "המשביע",
+      "gloss": "doyduran"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "yaxşılıqla"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "sənin bəzəyini"
+    },
+    {
+      "surface": "תתחדש",
+      "gloss": "yenilənir"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "qartal kimi"
+    },
+    {
+      "surface": "נעוריכי",
+      "gloss": "gəncliyin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:33:56.237930601Z",
+  "model": "glm-5.3"
+}

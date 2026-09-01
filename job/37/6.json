@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 37:6",
+  "book": "job",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Çünki qara deyir: «Yer ⟨üzünə⟩ ol»; yağışa ⟨belə⟩, gücünün yağışlarına da.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "לשלג",
+      "gloss": "qara"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ol"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "yağışa"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "yağış"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "və yağış"
+    },
+    {
+      "surface": "מטרות",
+      "gloss": "yağışlarına"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "gücünün"
+    }
+  ],
+  "timestamp": "2026-09-01T16:17:54.963248162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 52:4",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 52,
+  "translation": "Çünki belə deyir Adonay Yahve: əvvəlcə xalqım Mitsrayimə orada müvəqqəti yaşamaq üçün enmişdi, və Aşşur onu heç bir səbəbsiz əzdi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "כה",
+      "gloss": "belə"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimə"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "enmişdi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqım"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "əvvəlcə"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "müvəqqəti yaşamaq üçün"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "və Aşşur"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "heç bir"
+    },
+    {
+      "surface": "עשקו",
+      "gloss": "səbəbsiz əzdi"
+    }
+  ],
+  "timestamp": "2026-09-01T13:14:55.719282213Z",
+  "model": "glm-5.3"
+}

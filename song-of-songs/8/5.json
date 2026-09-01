@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 8:5",
+  "book": "song-of-songs",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Bu kimdir — çöldən qalxan, sevgilisinə söykənən? Alma ağacının altında səni oyatdım; orada səni anan bələndə saxladı, orada bələndə saxladı səni doğuran.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "qalxan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "çöldən"
+    },
+    {
+      "surface": "מתרפקת",
+      "gloss": "söykənən"
+    },
+    {
+      "surface": "על",
+      "gloss": "-nə"
+    },
+    {
+      "surface": "דודה",
+      "gloss": "sevgilisinə"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "התפוח",
+      "gloss": "alma ağacının"
+    },
+    {
+      "surface": "עוררתיך",
+      "gloss": "oyatdım"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "orada"
+    },
+    {
+      "surface": "חבלתך",
+      "gloss": "bələndə saxladı"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "anan"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "orada"
+    },
+    {
+      "surface": "חבלה",
+      "gloss": "bələndə saxladı"
+    },
+    {
+      "surface": "ילדתך",
+      "gloss": "doğuran"
+    }
+  ],
+  "timestamp": "2026-09-01T16:24:15.230450040Z",
+  "model": "glm-5.3"
+}

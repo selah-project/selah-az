@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 3:8",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "O vaxt ⟨את⟩ torpağı iki Emori kralının əlindən aldıq — onlar Yardın o tayında ⟨idi⟩lər, Arnon vadisindən Hermon dağına qədər.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "aldıq"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "o vaxt"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "həmin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "torpağı"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "torpağı"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "əlindən"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iki"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kralının"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "o tayında"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardın"
+    },
+    {
+      "surface": "מנחל",
+      "gloss": "vadisindən"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dağına"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Hermon"
+    }
+  ],
+  "timestamp": "2026-09-01T10:46:07.737643358Z",
+  "model": "glm-5.3"
+}

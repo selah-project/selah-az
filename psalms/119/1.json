@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Necə xoşbəxtdir yolda tam olanlar, Yahvenin Tövrəsində ⟨onlar⟩ gəzənlər!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Necə xoşbəxtdir"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "tam olanlar"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yolda"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "gəzənlər"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "Tövrəsində"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:37.801628433Z",
+  "model": "glm-5.3"
+}

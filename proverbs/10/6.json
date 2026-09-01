@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 10:6",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Xeyir-dualar salehin başı üstündədir, pis adamların ağzını isə zülm örtür.",
+  "tokens": [
+    {
+      "surface": "ברכות",
+      "gloss": "xeyir-dualar"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "başı üstündədir"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "salehin"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ağzını isə"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "pis adamların"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "örtür"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "zülm"
+    }
+  ],
+  "timestamp": "2026-09-01T15:51:14.416677375Z",
+  "model": "glm-5.3"
+}

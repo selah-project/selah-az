@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 2:24",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "İnsanda yaxşılıq yoxdur — yalnız ⟨olsun ki⟩ yeyib-içsin və canına ⟨את⟩ əməyində yaxşılıq göstərsin; bunu da mən gördüm: bu, Elohimin əlindəndir.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşılıq"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "insanda"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "yeyib"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "içsin"
+    },
+    {
+      "surface": "והראה",
+      "gloss": "göstərsin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "canına"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "canına"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşılıq"
+    },
+    {
+      "surface": "בעמלו",
+      "gloss": "əməyində"
+    },
+    {
+      "surface": "גם",
+      "gloss": "də"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bunu"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "gördüm"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "əlindəndir"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "היא",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-09-01T16:30:10.355369595Z",
+  "model": "glm-5.3"
+}

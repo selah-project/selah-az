@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 5:17",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Və əgər bir nefeş qüsur etsə və Yahvenin əmrlərindən birini — edilməməli olanlardan — etsə və bilməsə, tqsirkar olar və öz günahını daşıyar.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "bir nefeş"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "qüsur etsə"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "etsə"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "birini"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "…-dan (bütün)"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "əmrlərindən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תעשינה",
+      "gloss": "edilməməli olanlardan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və bilməsə"
+    },
+    {
+      "surface": "ידע",
+      "gloss": ""
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "təqsirkar olar"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "daşıyar"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "öz günahını"
+    }
+  ],
+  "timestamp": "2026-09-01T10:23:24.710143342Z",
+  "model": "glm-5.3"
+}

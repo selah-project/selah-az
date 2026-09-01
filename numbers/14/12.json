@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 14:12",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Onu vəba ilə vuracağam və onu varissiz edəcəyəm, ⟨את⟩ səni isə ondan daha böyük və qüdrətli bir xalq edəcəyəm.",
+  "tokens": [
+    {
+      "surface": "אכנו",
+      "gloss": "Onu vuracağam"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "vəba ilə"
+    },
+    {
+      "surface": "ואורשנו",
+      "gloss": "onu varissiz edəcəyəm"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "və edəcəyəm"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "bir xalq (səni)"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "bir xalq"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "və qüdrətli"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan daha"
+    }
+  ],
+  "timestamp": "2026-09-01T10:37:38.478611110Z",
+  "model": "glm-5.3"
+}

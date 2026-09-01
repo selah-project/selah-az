@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 114:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 114,
+  "translation": "Sənə nə olub, ey dəniz, ki qaçırsan, ey Yarden, ki geri dönürsən?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ey dəniz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תנוס",
+      "gloss": "qaçırsan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ey Yarden"
+    },
+    {
+      "surface": "תסב",
+      "gloss": "geri dönürsən"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "geri"
+    }
+  ],
+  "timestamp": "2026-09-01T15:37:48.663516955Z",
+  "model": "glm-5.3"
+}

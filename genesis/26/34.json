@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 26:34",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Və Esav qırx yaşında idi və Yehudit ⟨את⟩ — Beerinin qızı, hittli — və ⟨את⟩ Boşmat — Eylonun qızı, hittli — arvad aldı.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "və idi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "qırx yaşında (oğlu)"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "qırx"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yaş"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "və aldı"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "arvad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehudit"
+    },
+    {
+      "surface": "יהודית",
+      "gloss": "Yehudit"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qızı"
+    },
+    {
+      "surface": "בארי",
+      "gloss": "Beeri"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "hittli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "Boşmat"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Boşmat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qızı"
+    },
+    {
+      "surface": "אילן",
+      "gloss": "Eylon"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "hittli"
+    }
+  ],
+  "timestamp": "2026-09-01T09:53:12.118304799Z",
+  "model": "glm-5.3"
+}

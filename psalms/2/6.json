@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Mən isə məlkimi Sionda, müqəddəs dağımda təyin etdim.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "mən isə"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "təyin etdim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "məlkimi"
+    },
+    {
+      "surface": "על",
+      "gloss": "‑da"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sionda"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dağım"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "müqəddəs"
+    }
+  ],
+  "timestamp": "2026-09-01T15:01:50.421236414Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 109:24",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 109,
+  "translation": "Dizlərim orucdan sarsılır, ətim yağdan əskilir.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Dizlərim"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "sarsılır"
+    },
+    {
+      "surface": "mצום",
+      "gloss": "orucdan"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "ətim"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "əskilir"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "yağdan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:37:15.325956739Z",
+  "model": "glm-5.3"
+}

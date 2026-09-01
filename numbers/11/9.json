@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 11:9",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Gecə düşəndə şeh düşəndə düşərgənin üstünə, man onun üstünə düşərdi.",
+  "tokens": [
+    {
+      "surface": "וברדת",
+      "gloss": "düşəndə"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "şeh"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "düşərgənin"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "gecə"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "düşərdi"
+    },
+    {
+      "surface": "המן",
+      "gloss": "man"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üstünə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:37:24.884328320Z",
+  "model": "glm-5.3"
+}

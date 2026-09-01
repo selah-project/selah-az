@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 35:25",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "Və hər qəlblə Müdrik qadın əlləri ilə ⟨əyirdi⟩, və əyirlmiş ip gətirdilər: ⟨את⟩ göy rəngli tövüklə ⟨את⟩ əlhəmi, ⟨את⟩ qırmız qurddan ⟨boyanmış yunu⟩ və ⟨את⟩ inc kətani.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "və hər"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "qadın"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "müdrik"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qəlblə"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "əlləri ilə"
+    },
+    {
+      "surface": "טוו",
+      "gloss": "⟨əyirdi⟩"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "və gətirdilər"
+    },
+    {
+      "surface": "מטוה",
+      "gloss": "əyirlmiş ip"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "göy rəngli tövük"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "göy rəngli tövük"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "əlhəm"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "əlhəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qırmız qurddan boyanmış yun"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "qurd"
+    },
+    {
+      "surface": "השני",
+      "gloss": "qırmız"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "inc kətan"
+    },
+    {
+      "surface": "השש",
+      "gloss": "inc kətan"
+    }
+  ],
+  "timestamp": "2026-09-01T10:20:24.628405964Z",
+  "model": "glm-5.3"
+}

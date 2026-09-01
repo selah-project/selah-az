@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 26:31",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Və ⟨את⟩ şəhərlərinizi çöl edəcəyəm və ⟨את⟩ müqəddəs yerlərinizi viran qoyacağam və xoş ətirlərinizin iyiynü daddmayacağam.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "çöl edəcəyəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şəhərlərinizi"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "şəhərlərinizi"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "çöl"
+    },
+    {
+      "surface": "והשמותי",
+      "gloss": "viran qoyacağam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "müqəddəs yerlərinizi"
+    },
+    {
+      "surface": "מקדשיכם",
+      "gloss": "müqəddəs yerlərinizi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... yox"
+    },
+    {
+      "surface": "אריח",
+      "gloss": "daddmayacağam"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "iyini"
+    },
+    {
+      "surface": "ניחחכם",
+      "gloss": "xoş ətirlərinizin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:31:43.459333813Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 12:8",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Və əgər onun əli bir davarat ⟨bütününü⟩ tapmasa, iki turac ya iki göyərçin balası götürəcək — biri yandırma qurbanı üçün, biri günah qurbanı üçün — və kahin onun üçün kəffarə edəcək və o təmizlənəcək.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "tapmasa"
+    },
+    {
+      "surface": "ידה",
+      "gloss": "onun əli"
+    },
+    {
+      "surface": "די",
+      "gloss": "bütününü"
+    },
+    {
+      "surface": "שה",
+      "gloss": "bir davarat"
+    },
+    {
+      "surface": "ולקחה",
+      "gloss": "götürəcək"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iki"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "turac"
+    },
+    {
+      "surface": "או",
+      "gloss": "ya"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "balası"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "göyərçin"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "biri"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "yandırma qurbanı üçün"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "biri"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "günah qurbanı üçün"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "kəffarə edəcək"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "onun üçün"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "וטהרה",
+      "gloss": "təmizlənəcək"
+    }
+  ],
+  "timestamp": "2026-09-01T10:25:42.198530383Z",
+  "model": "glm-5.3"
+}

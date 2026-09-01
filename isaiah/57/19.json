@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 57:19",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 57,
+  "translation": "Dudakların bəhrəsini yaradan ⟨O⟩: «Salam, salam uzaq olana və yaxın olana», — deyir Yahve, — «və Mən onu sağaldacağam».",
+  "tokens": [
+    {
+      "surface": "בורא",
+      "gloss": "yaradan"
+    },
+    {
+      "surface": "נוב",
+      "gloss": "bəhrəsini"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "dudakların"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salam"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salam"
+    },
+    {
+      "surface": "לרחוק",
+      "gloss": "uzaq olana"
+    },
+    {
+      "surface": "ולקרוב",
+      "gloss": "və yaxın olana"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ורפאתיו",
+      "gloss": "və onu sağaldacağam"
+    }
+  ],
+  "timestamp": "2026-09-01T13:16:56.792948734Z",
+  "model": "glm-5.3"
+}

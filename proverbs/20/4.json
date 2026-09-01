@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Qışdan tənbəl şumlamayacaq; məhsul vaxtında dilənəcək, və ⟨ona⟩ heç nə olmayacaq.",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "qışdan"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "tənbəl"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "şumlayacaq"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "dilənəcək"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "məhsul vaxtında"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "və heç nə yoxdur"
+    }
+  ],
+  "timestamp": "2026-09-01T15:56:18.078743254Z",
+  "model": "glm-5.3"
+}

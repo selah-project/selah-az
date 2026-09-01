@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 4:3",
+  "book": "nehemiah",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Biz Elohimimizə dua etdik və onlardan ⟨qorxaraq⟩ gecə-gündüz mühafizə dayandırdıq.",
+  "tokens": [
+    {
+      "surface": "ונתפלל",
+      "gloss": "və dua etdik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ə⟩"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimizə"
+    },
+    {
+      "surface": "ונעמיד",
+      "gloss": "dayandırdıq"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "mühafizə"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "onlara ⟨qarşı⟩"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "gündüz"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "və gecə"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "onlardan"
+    }
+  ],
+  "timestamp": "2026-09-01T16:55:44.771713441Z",
+  "model": "glm-5.3"
+}

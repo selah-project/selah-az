@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 24:2",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Bilam gözlərini qaldırdı və tayfalarına görə səpilən ⟨sərhədlərinə⟩ Yisraeli ⟨את⟩ gördü, və onun üzərinə Elohimin ruhu oldu.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "qaldırdı"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gözlərini"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "gözlərini"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "və gördü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "səpilən"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "tayfalarına görə"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "və ... oldu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üzərinə"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:41:41.945487767Z",
+  "model": "glm-5.3"
+}

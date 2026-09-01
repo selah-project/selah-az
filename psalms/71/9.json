@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 71:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 71,
+  "translation": "Qocalıq vaxtında məni atma, qüvvəm tükənəndə məni tərk etmə.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "məni atma"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "atma"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "vaxtında"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "qocalıq"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "tükənəndə"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "qüvvəm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tərk etmə"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "məni tərk etmə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:22:48.688515155Z",
+  "model": "glm-5.3"
+}

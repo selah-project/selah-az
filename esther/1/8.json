@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 1:8",
+  "book": "esther",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və içki qanuna görə ⟨idi⟩, məcburetmə yox idi, çünki kral evinin bütün böyük ortaqalarına belə təyin etmişdi: hər kəsin istədiyinə görə etsinlər.",
+  "tokens": [
+    {
+      "surface": "והשתיה",
+      "gloss": "və içki"
+    },
+    {
+      "surface": "כדת",
+      "gloss": "qanuna görə"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yox"
+    },
+    {
+      "surface": "אנס",
+      "gloss": "məcburetmə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "כן",
+      "gloss": "belə"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "təyin etmişdi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstdə"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "רב",
+      "gloss": "böyük ortaqalara"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "evinin"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "etsinlər"
+    },
+    {
+      "surface": "כרצון",
+      "gloss": "istəyinə görə"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər kəsin"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "və hər kəs"
+    }
+  ],
+  "timestamp": "2026-09-01T16:34:24.820440922Z",
+  "model": "glm-5.3"
+}

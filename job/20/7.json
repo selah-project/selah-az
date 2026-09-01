@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 20:7",
+  "book": "job",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "öz nəcibi kimi əbədi yox olacaq; onu görənlər deyəcəklər: «O haradadır?»",
+  "tokens": [
+    {
+      "surface": "כגללו",
+      "gloss": "öz nəcibi kimi"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "yox olacaq"
+    },
+    {
+      "surface": "ראיו",
+      "gloss": "onu görənlər"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "deyəcəklər"
+    },
+    {
+      "surface": "איו",
+      "gloss": "O haradadır?"
+    }
+  ],
+  "timestamp": "2026-09-01T16:10:44.816840075Z",
+  "model": "glm-5.3"
+}

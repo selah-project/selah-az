@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 145:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 145,
+  "translation": "Qorxulu əməllərinin qüdrətindən danışacaqlar, və böyüklüyünü sayıb söyləyəcəyəm.",
+  "tokens": [
+    {
+      "surface": "ועזוז",
+      "gloss": "qüdrətindən"
+    },
+    {
+      "surface": "נוראתיך",
+      "gloss": "qorxulu əməllərinin"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "danışacaqlar"
+    },
+    {
+      "surface": "וגדולתיך",
+      "gloss": "və böyüklüyünü"
+    },
+    {
+      "surface": "אספרנה",
+      "gloss": "sayıb söyləyəcəyəm"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:33.858047171Z",
+  "model": "glm-5.3"
+}

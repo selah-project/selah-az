@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 42,
+  "translation": "Və ⟨את⟩ kiçik qardaşınızı mənim yanıma gətirin, sözünüz təsdiqlənsin və ölməyəsiniz. Və belə etdilər.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kiçik qardaşınızı"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "qardaşınızı"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "kiçik"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "gətirin"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənim yanıma"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "təsdiqlənsin"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "sözünüz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ölməyəsiniz"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "ölməyəsiniz"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "və etdilər"
+    },
+    {
+      "surface": "כן",
+      "gloss": "belə"
+    }
+  ],
+  "timestamp": "2026-09-01T17:52:51.605942101Z",
+  "model": "glm-5.3"
+}

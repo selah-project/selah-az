@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 84:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 84,
+  "translation": "Canım Yahvenin həyətlərinə həsrətləndi, hətta tükəndi; ürəyim və ətim diri El-ə sevincə oxuyur.",
+  "tokens": [
+    {
+      "surface": "נכספה",
+      "gloss": "həsrətləndi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "hətta"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "tükəndi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "לחצרות",
+      "gloss": "həyətlərinə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ürəyim"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "və ətim"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "sevincə oxuyur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə doğru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "diri"
+    }
+  ],
+  "timestamp": "2026-09-01T15:30:57.043870103Z",
+  "model": "glm-5.3"
+}

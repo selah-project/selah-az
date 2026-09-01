@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Və torpağın mənfəəti hamı üçündür; hətta padşah ⟨belə⟩ ⟨özü⟩ sahəyə xidmət olunur ⟨tərəfindən⟩.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "və mənfəəti"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "torpağın"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hamı üçün"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨—⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "sahəyə"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "xidmət olunur"
+    }
+  ],
+  "timestamp": "2026-09-01T16:32:34.173003951Z",
+  "model": "glm-5.3"
+}

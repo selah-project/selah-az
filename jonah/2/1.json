@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və Yahve Yunusu uddurmaq üçün böyük ⟨bir⟩ balıq təyin etdi ⟨את⟩ Yunusu ⟨üçün⟩, və Yunus balığın içində üç gün və üç gecə oldu.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "təyin etdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "דג",
+      "gloss": "balıq"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "uddurmaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yunusu"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yunus"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "və oldu"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yunus"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "içində"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "balığın"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "üç"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "və üç"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "gecə"
+    }
+  ],
+  "timestamp": "2026-09-01T14:45:40.344551116Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 17:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "İnsan əməlləri barəsində — dodaqlarının sözü ilə mən zorbanın yollarından ⟨özümü⟩ qorudum.",
+  "tokens": [
+    {
+      "surface": "לפעלות",
+      "gloss": "əməlləri barəsində"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "sözü ilə"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "dodaqlarının"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "qorudum"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "yollarından"
+    },
+    {
+      "surface": "פריץ",
+      "gloss": "zorbanın"
+    }
+  ],
+  "timestamp": "2026-09-01T15:05:21.416390130Z",
+  "model": "glm-5.3"
+}

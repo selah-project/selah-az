@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 8:12",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və məsh yağından Aharonun başına tökdü və onu müqəddəsləşdirmək üçün ⟨את⟩ onu məsh etdi.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "və tökdü"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "yağından"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "məsh"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "baş"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "və məsh etdi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "onu müqəddəsləşdirmək üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:24:30.104508608Z",
+  "model": "glm-5.3"
+}

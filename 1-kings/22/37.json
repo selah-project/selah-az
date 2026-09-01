@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Və padşah öldü və Şomrona gətirildi, və padşahı Şomronda dəfn etdilər.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "və öldü"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "və gətirildi"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Şomrona"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "və dəfn etdilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "padşahı"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşahı"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Şomronda"
+    }
+  ],
+  "timestamp": "2026-09-01T12:27:22.045781113Z",
+  "model": "glm-5.3"
+}

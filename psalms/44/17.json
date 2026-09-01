@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 44:17",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 44,
+  "translation": "Talan və tənə edənin səsindən, düşmənin və intiqam alanın üzündən.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "səsindən"
+    },
+    {
+      "surface": "מחרף",
+      "gloss": "talan"
+    },
+    {
+      "surface": "ומגדף",
+      "gloss": "və tənə edənin"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "üzündən"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "düşmənin"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "və intiqam alanın"
+    }
+  ],
+  "timestamp": "2026-09-01T15:15:23.372310427Z",
+  "model": "glm-5.3"
+}

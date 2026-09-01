@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 87,
+  "translation": "Korach oğullarına aid məzmur, nəğmə. Onun bünövrəsi müqəddəs dağlar ⟨içindədir⟩.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "oğullarına aid"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "məzmur"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nəğmə"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "onun bünövrəsi"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "dağlar ⟨içində⟩"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "müqəddəs"
+    }
+  ],
+  "timestamp": "2026-09-01T15:30:30.508756908Z",
+  "model": "glm-5.3"
+}

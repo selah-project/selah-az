@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "və ⟨את⟩ dağış quşunu, ⟨את⟩ tahmaşı, ⟨את⟩ şahafı, ⟨את⟩ şahini — növünə görə.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dağış quşunu"
+    },
+    {
+      "surface": "בת",
+      "gloss": "...nın balası\/qızı"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "dağış (quşu)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tahması"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "tahmas (quşu)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "şahafı"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "şahaf (quşu)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "şahini"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "şahin"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "növünə görə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:24:15.880525827Z",
+  "model": "glm-5.3"
+}

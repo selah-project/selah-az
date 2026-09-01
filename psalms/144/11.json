@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 144:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 144,
+  "translation": "Məni azad et və xilas et məni əlindən xalq oğullarının — elələrin ki, ağızları boş söz danışır və sağ əlləri yalan sağ əlidir.",
+  "tokens": [
+    {
+      "surface": "פצני",
+      "gloss": "azad et məni"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "və xilas et məni"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "əlindən"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "elələrin ki"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "ağızları"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "danışır"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "boş söz"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "və sağ əlləri"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "sağ əlidir"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yalan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:04.964986939Z",
+  "model": "glm-5.3"
+}

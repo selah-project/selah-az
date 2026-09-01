@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 21:9",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Və ⟨sən⟩ təmiz qanı içərindən uzaqlaşdıracaqsan, çünki Yahvenin gözündə düzgün olanı edəcəksən.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "və ⟨sən⟩"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "uzaqlaşdıracaqsan"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "qanı"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "təmiz"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "içərindən"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "edəcəksən"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "düzgün olanı"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "gözündə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:52:09.034459547Z",
+  "model": "glm-5.3"
+}

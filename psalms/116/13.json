@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 116:13",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 116,
+  "translation": "Xilas çubuğunu qaldıraram və Yahvenin adı ilə çağıraram.",
+  "tokens": [
+    {
+      "surface": "כוס",
+      "gloss": "çubuğu"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "xilas"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "qaldıraram"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "və ... adı ilə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "çağıraram"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:03.742642928Z",
+  "model": "glm-5.3"
+}

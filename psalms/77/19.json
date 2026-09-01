@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 77:19",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 77,
+  "translation": "Sənin ildırımının səsi burulğanda ⟨idi⟩, şimşəklər dünyanı işıqlatdılar, ⟨alləhi⟩ dünya lərzəyə gəldi və yer titrədi.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "səsi"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "sənin ildırımının"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "burulğanda"
+    },
+    {
+      "surface": "האירו",
+      "gloss": "işıqlatdılar"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "şimşəklər"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dünya"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "lərzəyə gəldi"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "və titrədi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-09-01T15:25:15.840508259Z",
+  "model": "glm-5.3"
+}

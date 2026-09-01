@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 9:25",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Və mən Yahvenin üzünə qarşı ⟨את⟩ qırx gün və ⟨את⟩ qırx gecə üzüqoylu düşdüm, çünki Yahve ⟨את⟩ sizi məhv etmək üçün demişdi.",
+  "tokens": [
+    {
+      "surface": "ואתנפל",
+      "gloss": "üzüqoylu düşdüm"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "üzünə qarşı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qırx gün"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "qırx"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "qırx gecə"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "qırx"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "gecə"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "התנפלתי",
+      "gloss": "üzüqoylu düşdüm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "demişdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "məhv etmək üçün"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi"
+    }
+  ],
+  "timestamp": "2026-09-01T17:30:07.529021666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "İsrail oğullarının bütün cəmiyyəti Moşenin hüzurundan çıxdı",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "çıxdı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "cəmiyyəti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "hüzurundan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşenin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:19:41.150509038Z",
+  "model": "glm-5.3"
+}

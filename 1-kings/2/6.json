@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 2:6",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "və hikmətinə görə edəcəksən, və onun ağ saçını sülh içində Şeolə endirməyəcəksən.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "və edəcəksən"
+    },
+    {
+      "surface": "כחכמתך",
+      "gloss": "hikmətinə görə"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... yox"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "endirməyəcəksən"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "onun ağ saçını"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "sülh içində"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "Şeolə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:10:30.369659261Z",
+  "model": "glm-5.3"
+}

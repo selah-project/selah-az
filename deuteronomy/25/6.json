@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 25:6",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Və belə olacaq: doğulacaq bəykər onun adı ölən qardaşının adı üstündə qalxacaq, adı Yisrayeldən silinməyəcək.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "və olacaq"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "bəykər"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "doğulacaq"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "qalxacaq"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adı"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "qardaşının"
+    },
+    {
+      "surface": "המת",
+      "gloss": "ölən"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "ימחה",
+      "gloss": "silinməyəcək"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "adı"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Yisrayeldən"
+    }
+  ],
+  "timestamp": "2026-09-01T17:30:59.717897393Z",
+  "model": "glm-5.3"
+}

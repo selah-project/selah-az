@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 26:35",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Viranlığın bütün günlərində o, ⟨את⟩ siz onun üstündə yaşayarkən Şabbatlarınızda dinləmədiyi şeyi dinləyəcək.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "günlərində"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "viranlığın"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "dinləyəcək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dinləmədiyi şeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "dinləmişdi"
+    },
+    {
+      "surface": "בשבתתיכם",
+      "gloss": "Şabbatlarınızda"
+    },
+    {
+      "surface": "בשבתכם",
+      "gloss": "siz yaşayarkən"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "onun üstündə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:32:03.628288113Z",
+  "model": "glm-5.3"
+}

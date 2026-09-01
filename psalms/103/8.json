@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 103,
+  "translation": "Rəhmli və lütfkardır Yahve, qəzəbi yavaştır və hesed-i boldur.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "rəhmli"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "və lütfkar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "yavaştır"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "qəzəbi"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "və bol"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    }
+  ],
+  "timestamp": "2026-09-01T15:33:56.238360859Z",
+  "model": "glm-5.3"
+}

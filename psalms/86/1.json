@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 86,
+  "translation": "Dua, Davidin. Qulağını əy, Yahve, mənə cavab ver, çünki mən biçarə və kasıbam.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Dua"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "əy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "qulağını"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "mənə cavab ver"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "עני",
+      "gloss": "biçarə"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "və kasıb"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    }
+  ],
+  "timestamp": "2026-09-01T18:02:04.529366594Z",
+  "model": "glm-5.3"
+}

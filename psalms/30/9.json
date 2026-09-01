@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Sənə, ey Yahve, səslənirəm, və Adonay-a yalvarıram.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "Sənə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "səslənirəm"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və ... -a"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "yalvarıram"
+    }
+  ],
+  "timestamp": "2026-09-01T15:08:24.152394971Z",
+  "model": "glm-5.3"
+}

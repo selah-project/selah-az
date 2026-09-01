@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 88,
+  "translation": "Duam Qarşına gəlsin, Qulağını fəryadıma ⟨tərəf⟩ əy.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "gəlsin"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "Qarşına"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "Duam"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "əy"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "Qulağını"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "fəryadıma ⟨tərəf⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:57.267347226Z",
+  "model": "glm-5.3"
+}

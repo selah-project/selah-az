@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 24:6",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Dəyirman daşını və üst daşı girov götürməsin, çünki ⟨o⟩ canı girov götürəndir.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "girov götürməsin"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "dəyirman daşı"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "və üst daşı"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "can"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "girov götürən"
+    }
+  ],
+  "timestamp": "2026-09-01T10:54:00.904589758Z",
+  "model": "glm-5.3"
+}

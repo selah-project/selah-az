@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 26:9",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Tikan sərxoşun əlinə qalxar, məşəl isə kəsilərin ağzında ⟨elədir⟩.",
+  "tokens": [
+    {
+      "surface": "חוח",
+      "gloss": "tikan"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "qalxar"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "əlinə"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "sərxoşun"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "və məşəl"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ağzında"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "kəsilərin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:58:31.045313881Z",
+  "model": "glm-5.3"
+}

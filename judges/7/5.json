@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 7:5",
+  "book": "judges",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Və ⟨את⟩ xalqı suya endirdi, və Yahve Gidona dedi: hər kəs ki, dililə, it yaladığı kimi sudan yalayar — ⟨את⟩ onu tək saxla; və hər kəs ki, içmək üçün dizlərinin üstünə çökər.",
+  "tokens": [
+    {
+      "surface": "ויורד",
+      "gloss": "endirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqı"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "המים",
+      "gloss": "suya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gidona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər kəs"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ילק",
+      "gloss": "yalayar"
+    },
+    {
+      "surface": "בלשונו",
+      "gloss": "dililə"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "המים",
+      "gloss": "sudan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "ילק",
+      "gloss": "yalayır"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "it"
+    },
+    {
+      "surface": "תציג",
+      "gloss": "saxla"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "tək"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "tək"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "və hər kəs"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יכרע",
+      "gloss": "çökər"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "dizlərinin"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "içmək üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T11:19:31.968028714Z",
+  "model": "glm-5.3"
+}

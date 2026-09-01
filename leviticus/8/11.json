@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 8:11",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və ondan qurbangahın üstünə yeddi dəfə çilədi, ⟨את⟩ qurbangahı, ⟨את⟩ bütün əşyalarını, ⟨את⟩ çəni və ⟨את⟩ onun oturacağını məsh etdi — onları müqəddəsləşdirmək üçün.",
+  "tokens": [
+    {
+      "surface": "ויז",
+      "gloss": "və çilədi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "qurbangah"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yeddi"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "dəfə"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "və məsh etdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbangah"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "qurbangah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ və",
+      "marks": "bütün əşyaları"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "onun əşyaları"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ və",
+      "marks": "çən"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "çən (yuma qabı)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ və",
+      "marks": "oturacağı"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "onun oturacağı"
+    },
+    {
+      "surface": "לקדשם",
+      "gloss": "onları müqəddəsləşdirmək üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:24:30.104378483Z",
+  "model": "glm-5.3"
+}

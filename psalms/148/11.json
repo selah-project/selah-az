@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 148:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 148,
+  "translation": "Yerin kralları və bütün millətlər, sərdarlar və yerin bütün hakimləri",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "kralları"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "millətlər"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "sərdarlar"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "hakimləri"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:18.774345327Z",
+  "model": "glm-5.3"
+}

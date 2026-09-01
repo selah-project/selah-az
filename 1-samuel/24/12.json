@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 24:12",
+  "book": "1-samuel",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Və atam, bax, həqiqətən bax: palçarının qanadı ⟨qolumda⟩ əlimdədir; çünki mən palçarının qanadını kəsdim, amma səni öldürmədim. Bil və gör ki, mənim əlimdə nə pislik, nə də itaətsizlik var, mən sənə qarşı günah etmədim — amma sən mənim canımı ovlayırsan ki, onu alasan.",
+  "tokens": [
+    {
+      "surface": "ואבי",
+      "gloss": "Və atam"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "גם",
+      "gloss": "həqiqətən"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qanadı"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "qanadı"
+    },
+    {
+      "surface": "מעילך",
+      "gloss": "palçarının"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "əlimdə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "בכרתי",
+      "gloss": "kəsdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qanadı"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "qanadı"
+    },
+    {
+      "surface": "מעילך",
+      "gloss": "palçarının"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma yox"
+    },
+    {
+      "surface": "הרגתיך",
+      "gloss": "səni öldürmədim"
+    },
+    {
+      "surface": "דע",
+      "gloss": "bil"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "və gör"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "əlimdə"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pislik"
+    },
+    {
+      "surface": "ופשע",
+      "gloss": "və itaətsizlik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "günah etmədim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "amma sən"
+    },
+    {
+      "surface": "צדה",
+      "gloss": "ovlayırsan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "canımı"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "לקחתה",
+      "gloss": "onu alasan"
+    }
+  ],
+  "timestamp": "2026-09-01T11:45:28.648811111Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 16:10",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Və sizi yaxınlaşdırdı, və ⟨את⟩ bütün qardaşlarınızı, Levin oğullarını, sizinlə birlikdə — və siz həmçinin kahinliyi axtarırsınız?",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "və yaxınlaşdırdı"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "sizi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "bütün qardaşlarınızı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "qardaşlarınızı"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levin"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "sizinlə birlikdə ⟨את⟩"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "və axtarırsınız"
+    },
+    {
+      "surface": "גם",
+      "gloss": "həmçinin"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "kahinliyi"
+    }
+  ],
+  "timestamp": "2026-09-01T10:38:51.796917659Z",
+  "model": "glm-5.3"
+}

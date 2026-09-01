@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 30:7",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Və viran qalmış ölkələrin ortasında viran qalacaqlar, və onun şəhərləri dağıdılmış şəhərlərin ortasında olacaqlar.",
+  "tokens": [
+    {
+      "surface": "ונשמו",
+      "gloss": "viran qalacaqlar"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ortasında"
+    },
+    {
+      "surface": "ארצות",
+      "gloss": "ölkələrin"
+    },
+    {
+      "surface": "נשמות",
+      "gloss": "viran qalmış"
+    },
+    {
+      "surface": "ועריו",
+      "gloss": "və onun şəhərləri"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ortasında"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "şəhərlərin"
+    },
+    {
+      "surface": "נחרבות",
+      "gloss": "dağıdılmış"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "olacaqlar"
+    }
+  ],
+  "timestamp": "2026-09-01T14:20:17.923994264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 59:3",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 59,
+  "translation": "Çünki əlləriniz qanla murdarlanıb, və barmaqlarınız günahla; dodaqlarınız yalan danışıb, diliniz ədalətsizlik pıçıldayır.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "כפיכם",
+      "gloss": "əlləriniz"
+    },
+    {
+      "surface": "נגאלו",
+      "gloss": "murdarlanıb"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "qanla"
+    },
+    {
+      "surface": "ואצבעותיכם",
+      "gloss": "və barmaqlarınız"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "günahla"
+    },
+    {
+      "surface": "שפתותיכם",
+      "gloss": "dodaqlarınız"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "danışıb"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yalan"
+    },
+    {
+      "surface": "לשונכם",
+      "gloss": "diliniz"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ədalətsizlik"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "pıçıldayır"
+    }
+  ],
+  "timestamp": "2026-09-01T13:17:32.911626120Z",
+  "model": "glm-5.3"
+}

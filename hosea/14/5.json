@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 14:5",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Onların dönmələrini sağaldacağam, onları könül sürəsilə seveceyəm, çünki qəzəbim ondan döndü.",
+  "tokens": [
+    {
+      "surface": "ארפא",
+      "gloss": "sağaldacağam"
+    },
+    {
+      "surface": "משובתם",
+      "gloss": "onların dönmələrini"
+    },
+    {
+      "surface": "אהבם",
+      "gloss": "onları seveceyəm"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "könül sürəsilə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "שב",
+      "gloss": "döndü"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "qəzəbim"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    }
+  ],
+  "timestamp": "2026-09-01T14:37:15.593246630Z",
+  "model": "glm-5.3"
+}

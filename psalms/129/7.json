@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 129,
+  "translation": "⟨Onlar ondandır ki⟩ biçən ondan ⟨ovucunu⟩ doldurmur, dəstə bağlayan da onun bağrını ⟨doldurmur⟩.",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "ki... yox"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "doldurmur"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "ovucu"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "biçən"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "və bağrı"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "dəstə bağlayan"
+    }
+  ],
+  "timestamp": "2026-09-01T17:43:19.483500021Z",
+  "model": "glm-5.3"
+}

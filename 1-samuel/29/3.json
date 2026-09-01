@@ -1,0 +1,154 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 29:3",
+  "book": "1-samuel",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "Filist sərkərdələri dedilər: «Bu ivrilər nə ⟨edirlər⟩?» Axış Filist sərkərdələrinə dedi: «Məgər bu, Şaulun, İsrail kralının qulu David deyilmi? O, mənim yanımda ⟨את⟩ bu günlərdir, yaxud bu illərdir, və mən onda heç nə tapmadım — onun yanımıza düşdüyü gündən bu günə qədər.»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "dedilər"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "sərkərdələri"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filist"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "bu ivrilər"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Axış"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "sərkərdələri"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filist"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "məgər... deyilmi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "qulu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaulun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o, ...dır"
+    },
+    {
+      "surface": "היה",
+      "gloss": "olub"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mənim yanımda",
+      "marks": "mənim yanımda"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günlər"
+    },
+    {
+      "surface": "או",
+      "gloss": "yaxud"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "illər"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və... heç"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "tapmadım"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onda"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "heç nə"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "gündən"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "düşdüyü"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bu günə"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-09-01T17:59:04.262972148Z",
+  "model": "glm-5.3"
+}

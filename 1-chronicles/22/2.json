@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 22:2",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Və David İsrail torpağında olan ⟨את⟩ məskunlaşan yadların toplanmasını əmr etdi və daşyonanları Elohim evini tikmək üçün yonulmuş daşlar yonmağa təyin etdi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və əmr etdi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לכנוס",
+      "gloss": "toplanması üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "məskunlaşan yadlar"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "məskunlaşan yadlar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki, olan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "torpağında"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "və təyin etdi"
+    },
+    {
+      "surface": "חצבים",
+      "gloss": "daşyonanlar"
+    },
+    {
+      "surface": "לחצוב",
+      "gloss": "yonmaq üçün"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "daşlar"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "yonulmuş"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "tikmək üçün"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T17:07:09.167352531Z",
+  "model": "glm-5.3"
+}

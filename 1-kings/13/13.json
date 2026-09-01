@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 13:13",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Oğullarına dedi: «Mənə eşşəyi yəhərləyin.» Onlar ona eşşəyi yəhərlədilər və o ona mindi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "yəhərləyin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "eşşəyi"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "yəhərlədilər"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "eşşəyi"
+    },
+    {
+      "surface": "וירכב",
+      "gloss": "mindi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-09-01T12:18:46.302428440Z",
+  "model": "glm-5.3"
+}

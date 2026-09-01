@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 32:22",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Və Yahve ⟨את⟩ Hizqiyanı və ⟨את⟩ Yeruşalayimin sakinlərini Sanherivin, Aşşur padşahının əlindən və hamının əlindən xilas etdi, və onları ətrafda otardı.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "və xilas etdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hizqiyanı"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hizqiyanı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sakinlərini"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "sakinlərini"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayimin"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "əlindən"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Sanherivin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşşur"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "və əlindən"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamının"
+    },
+    {
+      "surface": "וינהלם",
+      "gloss": "onları otardı"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ətrafda"
+    }
+  ],
+  "timestamp": "2026-09-01T17:22:56.833925447Z",
+  "model": "glm-5.3"
+}

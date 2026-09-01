@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 69:32",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 69,
+  "translation": "Bu Yahve yanında buynuzlu və dırnaqlı öküzdən daha yaxşı olacaq.",
+  "tokens": [
+    {
+      "surface": "ותיטב",
+      "gloss": "daha yaxşı olacaq"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve yanında"
+    },
+    {
+      "surface": "משור",
+      "gloss": "öküzdən"
+    },
+    {
+      "surface": "פר",
+      "gloss": "buğa"
+    },
+    {
+      "surface": "מקרן",
+      "gloss": "buynuzlu"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "dırnaqlı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:23:40.864766740Z",
+  "model": "glm-5.3"
+}

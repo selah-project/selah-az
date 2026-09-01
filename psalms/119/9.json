@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Necə təmizləyəcək öz yolunu⟨את⟩ gənc? Sözünə görə onu qorumaqla.",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "necə"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "təmizləyəcək"
+    },
+    {
+      "surface": "נער",
+      "gloss": "gənc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öz yolunu"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "öz yolunu"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "qorumaqla"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "sözünə görə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:46.824045277Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 90,
+  "translation": "Səhər çiçək açır və dəyişir; axşam doğranılır və solub quruyur.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "səhər"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "çiçək açır"
+    },
+    {
+      "surface": "וחלף",
+      "gloss": "və dəyişir"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "axşam"
+    },
+    {
+      "surface": "ימולל",
+      "gloss": "doğranılır"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "və solub quruyur"
+    }
+  ],
+  "timestamp": "2026-09-01T15:32:23.344259443Z",
+  "model": "glm-5.3"
+}

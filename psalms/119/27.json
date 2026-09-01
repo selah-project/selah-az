@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 119:27",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Əmrlərin yolunu mənə anlat, ki möcüzələrin haqqında düşünə bilim.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "yolunu"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "əmrlərin"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "mənə anlat"
+    },
+    {
+      "surface": "ואשיחה",
+      "gloss": "və düşünə bilim"
+    },
+    {
+      "surface": "בנפלאותיך",
+      "gloss": "möcüzələrin haqqında"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:37.231838436Z",
+  "model": "glm-5.3"
+}

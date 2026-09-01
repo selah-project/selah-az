@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 8:5",
+  "book": "zechariah",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və şəhərin meydanları oğlan uşaqları və qız uşaqları ilə dolacaq — onun meydanlarında oynayan ⟨oğlan uşaqları və qız uşaqları⟩.",
+  "tokens": [
+    {
+      "surface": "ורחבות",
+      "gloss": "və meydanları"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şəhərin"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "dolacaq"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "oğlan uşaqları"
+    },
+    {
+      "surface": "וילדות",
+      "gloss": "və qız uşaqları"
+    },
+    {
+      "surface": "משחקים",
+      "gloss": "oynayan"
+    },
+    {
+      "surface": "ברחבתיה",
+      "gloss": "onun meydanlarında"
+    }
+  ],
+  "timestamp": "2026-09-01T14:55:58.478351050Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 90,
+  "translation": "Moşenin, Elohim adamının duası. Adonay, sən nəsillər boyu biz⟨ə⟩ məskən oldun.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "dua"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moşenin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim⟨in⟩"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "məskən"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "היית",
+      "gloss": "oldun"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "biz⟨ə⟩"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "nəsil⟨də⟩"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nəsildə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:32:33.235474186Z",
+  "model": "glm-5.3"
+}

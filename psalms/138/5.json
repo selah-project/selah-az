@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 138,
+  "translation": "Yahvenin yollarında ⟨o⟩ mədh etsinlər, çünki Yahvenin izzəti böyükdür.",
+  "tokens": [
+    {
+      "surface": "וישירו",
+      "gloss": "mədh etsinlər"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "yollarında"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "böyükdür"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "izzəti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:44:56.770059780Z",
+  "model": "glm-5.3"
+}

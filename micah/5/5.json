@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "və ⟨onlar⟩ Ashur torpağını ⟨את⟩ qılıncla viran qoyacaqlar və Nimrod torpağını ⟨את⟩ onun girişlərində; və ⟨o⟩ Ashurdan xilas edəcək, çünki o bizim torpağımıza gələndə, və çünki o bizim sərhədimizdə ayaq basanda.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "viran qoyacaqlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashur torpağını"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "torpağını"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "qılıncla"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod torpağını"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "torpağını"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "onun girişlərində"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "xilas edəcək"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "Ashurdan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "gələndə"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "bizim torpağımıza"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "və çünki"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "ayaq basanda"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "bizim sərhədimizdə"
+    }
+  ],
+  "timestamp": "2026-09-01T14:48:01.741819852Z",
+  "model": "glm-5.3"
+}

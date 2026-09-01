@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "və ⟨את⟩ Tsoanı, ⟨את⟩ Ayalonu və ⟨את⟩ Xevronu — Yehuda və Binyamində ⟨olan⟩ qala şəhərlərini.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsoa"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Tsoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ayalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ayalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Xevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Xevron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨olan⟩"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Yehudada"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "və Binyamində"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "şəhərlərini"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "qala"
+    }
+  ],
+  "timestamp": "2026-09-01T17:46:38.214131993Z",
+  "model": "glm-5.3"
+}

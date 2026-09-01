@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Və bütün yer xalqı şadlandı və şəhər sakit oldu; və Atalyahunu qılıncla padşah evində öldürdülər.",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "şadlandı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalqı"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "və şəhər"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "sakit oldu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "Atalyahunu"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalyahu"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "öldürdülər"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "qılıncla"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evində"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşah"
+    }
+  ],
+  "timestamp": "2026-09-01T12:37:20.252247255Z",
+  "model": "glm-5.3"
+}

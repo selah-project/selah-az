@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 88,
+  "translation": "Mən isə sənə, Yahve, fəryad etdim, səhər duasım səni qarşılayacaq.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "mən isə"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "fəryad etdim"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "səhər"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "duam"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "səni qarşılayacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:26.052708114Z",
+  "model": "glm-5.3"
+}

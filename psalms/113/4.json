@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 113,
+  "translation": "Yüksəkdir Yahve bütün millətlərdən ⟨üstdə⟩, onun izzəti göylərdən ⟨üstdə⟩.",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "yüksəkdir"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨üstdə⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "millətlərdən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨üstdə⟩"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göylərdən"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "izzəti"
+    }
+  ],
+  "timestamp": "2026-09-01T15:37:53.029467749Z",
+  "model": "glm-5.3"
+}

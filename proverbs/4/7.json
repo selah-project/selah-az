@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 4:7",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Hikmətin başlanğıcı ⟨budur⟩: hikməti əldə et, bütün qazancınla anlayışı əldə et.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "başlanğıcı"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmətin"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "əldə et"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikməti"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "bütün ... ilə"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "qazancınla"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "əldə et"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "anlayışı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:48:17.988594522Z",
+  "model": "glm-5.3"
+}

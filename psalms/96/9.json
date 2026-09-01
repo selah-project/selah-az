@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 96:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 96,
+  "translation": "Yahveyə müqəddəs zinət içinde səcdə edin; Onun üzü qarşısında titrəsin bütün yer.",
+  "tokens": [
+    {
+      "surface": "השתחוו",
+      "gloss": "səcdə edin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "zinətində"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "titrəsin"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "Onun üzü qarşısında"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-09-01T15:32:03.668672192Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 63:8",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 63,
+  "translation": "Və dedi: Əslində onlar mənim xalqımdır, yalan danışmayacaq övladlardır; və o, onlara xilaskar oldu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אך",
+      "gloss": "əslində"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mənim xalqım"
+    },
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "övladlar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ישקרו",
+      "gloss": "yalan danışmayacaq"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "və o oldu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "למושיע",
+      "gloss": "xilaskar"
+    }
+  ],
+  "timestamp": "2026-09-01T13:18:42.363210245Z",
+  "model": "glm-5.3"
+}

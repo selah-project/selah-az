@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Onları Yahveyə ilk tərəvəz qurbanı kimi təqdim edə bilərsiniz, amma qurbangaha xoş ətir üçün qalxmayacaqlar.",
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "qurban"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ilk tərəvəz"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "təqdim edə bilərsiniz"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "amma ... doğru"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "qurbangah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "qalxmayacaqlar"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "ətir üçün"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "xoş"
+    }
+  ],
+  "timestamp": "2026-09-01T10:22:34.955548312Z",
+  "model": "glm-5.3"
+}

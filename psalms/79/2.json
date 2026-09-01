@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 79:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 79,
+  "translation": "⟨את⟩ qullarının cəsədlərini göyün quşlarına yem, sadiqlərinin ətini yerin vəhşi heyvanına verdilər.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "verdilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qullarının cəsədlərini"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "cəsədlərini"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "qullarının"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "yem"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "quşlarına"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göyün"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ətini"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "sadiqlərinin"
+    },
+    {
+      "surface": "לחיתו",
+      "gloss": "vəhşi heyvanına"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:28:41.536277514Z",
+  "model": "glm-5.3"
+}

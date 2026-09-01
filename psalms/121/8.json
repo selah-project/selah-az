@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 121,
+  "translation": "Yahve çıxışını və girişini qoruyacaq, bu andan əbədiyyətə qədər.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "qoruyacaq"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "çıxışını"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "və girişini"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "bu andan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "və qədər"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "əbədiyyətə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:41:48.857379449Z",
+  "model": "glm-5.3"
+}

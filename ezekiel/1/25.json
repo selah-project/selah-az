@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 1:25",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və onların başları üstündə olan rəqiqdən yuxarıdan bir səs ⟨gəldi⟩; dayananda qanadlarını salardılar.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Və ... ⟨gəldi⟩"
+    },
+    {
+      "surface": "קול",
+      "gloss": "səs"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "yuxarıdan"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "rəqiqdən"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olan"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "onların başları"
+    },
+    {
+      "surface": "בעמדם",
+      "gloss": "dayananda"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "salardılar"
+    },
+    {
+      "surface": "כנפיהן",
+      "gloss": "qanadlarını"
+    }
+  ],
+  "timestamp": "2026-09-01T14:01:00.883346242Z",
+  "model": "glm-5.3"
+}

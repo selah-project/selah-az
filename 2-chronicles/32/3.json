@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 32:3",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "O, şəhərin kənarında olan bulaqların ⟨את⟩ sularını bağlamaq üçün öz sərkərdələri və qəhrəmanları ilə məsləhətləşdi, və onlar ona kömək etdilər.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "və məsləhətləşdi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "öz sərkərdələri"
+    },
+    {
+      "surface": "וגבריו",
+      "gloss": "və qəhrəmanları"
+    },
+    {
+      "surface": "לסתום",
+      "gloss": "bağlamaq üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sularını"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "sularını"
+    },
+    {
+      "surface": "העינות",
+      "gloss": "bulaqların"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kənarında"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "şəhərin"
+    },
+    {
+      "surface": "ויעזרוהו",
+      "gloss": "və ona kömək etdilər"
+    }
+  ],
+  "timestamp": "2026-09-01T17:23:12.962090388Z",
+  "model": "glm-5.3"
+}

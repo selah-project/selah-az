@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 7:25",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "O, on iki öküzün üstündə dayanırdı — üç üzbə şimala, üç üzbə qərbə, üç üzbə cənuba, üç üzbə şərqə; dəniz ⟨isə⟩ onların üstündə yuxarıdan ⟨dururdu⟩ və onların bütün arxa tərəfləri evə doğru ⟨idi⟩.",
+  "tokens": [
+    {
+      "surface": "עמד",
+      "gloss": "dayanırdı"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "שני",
+      "gloss": "on iki"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(on iki)"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "öküzün"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "üç"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "üzbə"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "şimala"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "üç"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "üzbə"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "qərbə"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "üç"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "üzbə"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "cənuba"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "üç"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "üzbə"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "şərqə"
+    },
+    {
+      "surface": "והים",
+      "gloss": "dəniz ⟨isə⟩"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "onların üstündə"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "yuxarıdan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "arxa tərəfləri"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "evə doğru"
+    }
+  ],
+  "timestamp": "2026-09-01T12:14:24.191494526Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 6:10",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "İsraeil evində dəhşətli bir şey gördüm; orada Efrayimin zinası ⟨var⟩; İsraeil murdarlandı.",
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "evində"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsraeil"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "gördüm"
+    },
+    {
+      "surface": "שעריריה",
+      "gloss": "dəhşətli şey"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "זנות",
+      "gloss": "zina"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Efrayimin"
+    },
+    {
+      "surface": "נטמא",
+      "gloss": "murdarlandı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsraeil"
+    }
+  ],
+  "timestamp": "2026-09-01T14:33:20.990749869Z",
+  "model": "glm-5.3"
+}

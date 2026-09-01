@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 16:15",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Və Hagar Avrama bir oğul doğdu, və Avram öz oğlunun — Hagarın doğduğu oğulun — adını Yişmael qoydu.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "doğdu"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "Avrama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "qoydu (adını çağırdı)"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adını"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "öz oğlunun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "doğduğu"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagarın"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yişmael"
+    }
+  ],
+  "timestamp": "2026-09-01T09:50:02.602581593Z",
+  "model": "glm-5.3"
+}

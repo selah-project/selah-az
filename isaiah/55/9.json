@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 55,
+  "translation": "Çünki göylər yerdən nə qədər ucsa, yollarımınız yollarınızdan, düşüncələrim də düşüncələrinizdən o qədər ucdur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "ucsadir"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "göylər"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yerdən"
+    },
+    {
+      "surface": "כן",
+      "gloss": "o qədər"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "ucdur"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "yollarım"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "yollarınızdan"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "və düşüncələrim"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "düşüncələrinizdən"
+    }
+  ],
+  "timestamp": "2026-09-01T13:14:13.815691050Z",
+  "model": "glm-5.3"
+}

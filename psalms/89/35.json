@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 89,
+  "translation": "Əhdimi murdar etməyəcəyəm və dodaqlarımdan çıxanı dəyişməyəcəyəm.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "murdar etməyəcəyəm"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "əhdimi"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "və çıxanı"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "dodaqlarımdan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "dəyişməyəcəyəm"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:53.478680460Z",
+  "model": "glm-5.3"
+}

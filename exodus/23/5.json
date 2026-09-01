@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 23:5",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Əgər sənə nifrət edənin eşşəyini yükünün altında yatmış görsən və onu buraxmaqdan çənsən ⟨belə⟩, buraxmağı mütləq onunla birlikdə edəcəksən.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "görsən"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "eşşəyini"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "sənə nifrət edənin"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "yatmış"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "משאו",
+      "gloss": "yükünün"
+    },
+    {
+      "surface": "וחדלת",
+      "gloss": "çənsən"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "buraxmaqdan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onu"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "buraxmağı"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "mütləq burax"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "onunla birlikdə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:13:44.231285998Z",
+  "model": "glm-5.3"
+}

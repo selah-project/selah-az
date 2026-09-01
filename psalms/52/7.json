@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 52:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 52,
+  "translation": "Eynilə, El səni əbədi yıxacaq, ⟨səni⟩ götürəcək və səni çadırdan çəkib çıxaracaq, və kökün sənin dirilər torpağından ⟨söküləcək⟩. Sela.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "eynilə"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יתצך",
+      "gloss": "səni yıxacaq"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "יחתך",
+      "gloss": "səni götürəcək"
+    },
+    {
+      "surface": "ויסחך",
+      "gloss": "və səni çəkib çıxaracaq"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "çadırdan"
+    },
+    {
+      "surface": "ושרשך",
+      "gloss": "və kökün sənin"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "torpağından"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "dirilər"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-01T15:18:49.904864349Z",
+  "model": "glm-5.3"
+}

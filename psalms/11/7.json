@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 11:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Çünki Yahve əvəngdir, ədaləti sevər; düz adam Onun üzünü görəcək.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "əvəng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "ədaləti"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "sevər"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "düz adam"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "görəcək"
+    },
+    {
+      "surface": "פנימו",
+      "gloss": "Onun üzünü"
+    }
+  ],
+  "timestamp": "2026-09-01T15:03:52.073260694Z",
+  "model": "glm-5.3"
+}

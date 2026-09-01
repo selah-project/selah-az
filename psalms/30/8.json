@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 30:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Yahve, öz razılığınla dağımı ⟨bir⟩ möhkəm dayandırdın; üzünü gizlətdin, mən dəhşətə qaldım.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "öz razılığınla"
+    },
+    {
+      "surface": "העמדתה",
+      "gloss": "dayandırdın"
+    },
+    {
+      "surface": "להררי",
+      "gloss": "dağımı"
+    },
+    {
+      "surface": "עז",
+      "gloss": "möhkəm"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "gizlətdin"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "üzünü"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "mən ⟨oldum⟩"
+    },
+    {
+      "surface": "נבהל",
+      "gloss": "dəhşətə qaldım"
+    }
+  ],
+  "timestamp": "2026-09-01T17:41:20.586147061Z",
+  "model": "glm-5.3"
+}

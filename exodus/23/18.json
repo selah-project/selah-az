@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 23:18",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Qurbanımın qanını xəmirli ⟨ilə⟩ kəsməyəcəksən, və bayramımın yağı səhərə qədər gecələməyəcək.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "kəsməyəcəksən"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərində"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "xəmirli"
+    },
+    {
+      "surface": "דם",
+      "gloss": "qanını"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "qurbanımın"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "gecələməyəcək"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "yağı"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "bayramımın"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "səhərə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:14:24.699141389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 6:10",
+  "book": "amos",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Onu qohumu daşıyacaq və yandıracaq, sümükləri evdən çıxarmaq üçün; evin ucqarındakına deyəcək: «Səninlə hələ kimsə varmı?» O, «Yoxdur» — deyəcək. O da deyəcək: «Sus! Çünki Yahvenin adını yad etmək olmaz.»",
+  "tokens": [
+    {
+      "surface": "ונשאו",
+      "gloss": "daşıyacaq"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "qohumu"
+    },
+    {
+      "surface": "ומסרפו",
+      "gloss": "yandıracaq"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "çıxarmaq üçün"
+    },
+    {
+      "surface": "עצמים",
+      "gloss": "sümükləri"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dən"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "deyəcək"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "-a, olana"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "ucqarında"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "hələ varmı"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "səninlə"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "deyəcək"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "o da deyəcək"
+    },
+    {
+      "surface": "הס",
+      "gloss": "sus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "olmaz"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "yad etmək"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "adını"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T14:42:26.209429454Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 11:16",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Lütfkar qadın izzəti saxlayar, zorakılar isə sərvəti saxlayarlar.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "qadın"
+    },
+    {
+      "surface": "חן",
+      "gloss": "lütfkar"
+    },
+    {
+      "surface": "תתמך",
+      "gloss": "saxlayar"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "izzəti"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "zorakılar isə"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "saxlayarlar"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sərvəti"
+    }
+  ],
+  "timestamp": "2026-09-01T15:52:19.315786153Z",
+  "model": "glm-5.3"
+}

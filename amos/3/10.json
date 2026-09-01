@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 3:10",
+  "book": "amos",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və düzgün işləməyi bilmirlər — Yahvenin nəqli — zorakılıq və qarət qalalarında yığırlar.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "və ... --"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bilmirlər"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "işləməyi"
+    },
+    {
+      "surface": "נכחה",
+      "gloss": "düzgün"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nəqli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "האוצרים",
+      "gloss": "yığırlar"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "zorakılıq"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "və qarət"
+    },
+    {
+      "surface": "בארמנותיהם",
+      "gloss": "qalalarında"
+    }
+  ],
+  "timestamp": "2026-09-01T14:39:34.276375426Z",
+  "model": "glm-5.3"
+}

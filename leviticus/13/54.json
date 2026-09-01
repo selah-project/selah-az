@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 13:54",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "kohan əmr edəcək ki, içində zərər olan ⟨şeyi⟩ yusunlar, və onu ikinci dəfə yeddi gün təcrid etsinlər.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "əmr edəcək"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohan"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "yusunlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "içində zərər olan şey"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "içində"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "zərər"
+    },
+    {
+      "surface": "והסגירו",
+      "gloss": "təcrid etsinlər"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "yeddi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ikinci dəfə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:27:12.326068033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 60,
+  "translation": "Məni müdafiə şəhərinə kim gətirəcək? Edoma qədər kim yönəldəcək məni?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "gətirəcək (məni)"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şəhərinə"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "müdafiə (qala)"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "yönəldəcək məni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edoma"
+    }
+  ],
+  "timestamp": "2026-09-01T15:20:16.266328411Z",
+  "model": "glm-5.3"
+}

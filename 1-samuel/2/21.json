@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 2:21",
+  "book": "1-samuel",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Çünki Yahve Hannanı yoxladı ⟨את⟩, o hamilə qaldı və üç oğul, iki qız doğdu; oğlan Şmuel isə Yahve ilə böyüdü.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "yoxladı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hannanı"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hannanı"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "hamilə qaldı"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "doğdu"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "üç"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "iki"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "qız"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "böyüdü"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "oğlan"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şmuel"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T11:30:52.109324965Z",
+  "model": "glm-5.3"
+}

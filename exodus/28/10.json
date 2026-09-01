@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 28:10",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "Onların altı adı bir daşın üstündə, qalan altının adlarını isə ⟨את⟩ ikinci daşın üstündə, doğuluşlarına görə yaz.",
+  "tokens": [
+    {
+      "surface": "ששה",
+      "gloss": "altı"
+    },
+    {
+      "surface": "משמתם",
+      "gloss": "onların adları"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "daş"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "bir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "adlarını"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "adlarını"
+    },
+    {
+      "surface": "הששה",
+      "gloss": "altının"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "qalan"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "daş"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ikinci"
+    },
+    {
+      "surface": "כתולדתם",
+      "gloss": "doğuluşlarına görə"
+    }
+  ],
+  "timestamp": "2026-09-01T18:20:30.816109889Z",
+  "model": "glm-5.3"
+}

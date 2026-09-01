@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 2:21",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və Yahve Elohim adama dərin yuxu saldı, və o yuxuya getdi; və ⟨onun⟩ qabırğalarından birini götürdü və onun yerində əti bağladı.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "saldı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "dərin yuxu"
+    },
+    {
+      "surface": "על",
+      "gloss": "-a"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "ויישן",
+      "gloss": "və o yuxuya getdi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "və götürdü"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "birini"
+    },
+    {
+      "surface": "מצלעתיו",
+      "gloss": "qabırğalarından"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "və bağladı"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "əti"
+    },
+    {
+      "surface": "תחתנה",
+      "gloss": "onun yerində"
+    }
+  ],
+  "timestamp": "2026-09-01T09:45:58.808983526Z",
+  "model": "glm-5.3"
+}

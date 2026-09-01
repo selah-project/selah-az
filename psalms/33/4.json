@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "Çünki Yahvenin sözü düzdür, və bütün əməlləri imanlıqladır.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "düzdür"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sözü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "əməlləri"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "imanlıqladır"
+    }
+  ],
+  "timestamp": "2026-09-01T15:11:48.892692033Z",
+  "model": "glm-5.3"
+}

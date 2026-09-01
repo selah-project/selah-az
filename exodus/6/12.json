@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 6:12",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Moşe Yahvenin hüzurunda danışdı, deyərək: Bax, İsrail oğulları mənə qulaq asmadılar, Paro necə məni eşitsin, mən isə dudaq sünnətsiziyəm.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "danışdı"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hüzurunda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Bax"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "qulaq asmadılar"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "necə"
+    },
+    {
+      "surface": "ישמעני",
+      "gloss": "məni eşitsin"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mən isə"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "sünnətsiz"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "dudaq"
+    }
+  ],
+  "timestamp": "2026-09-01T10:04:46.933370116Z",
+  "model": "glm-5.3"
+}

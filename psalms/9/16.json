@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 9:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Millətlər etdikləri çuxura batdılar; gizlətdikləri ⟨bu⟩ tora ayaqları tutuldu.",
+  "tokens": [
+    {
+      "surface": "טבעו",
+      "gloss": "batdılar"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "Millətlər"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "çuxur(a)"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "etdikləri"
+    },
+    {
+      "surface": "ברשת",
+      "gloss": "tor(a)"
+    },
+    {
+      "surface": "זו",
+      "gloss": "bu"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "gizlətdikləri"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "tutuldu"
+    },
+    {
+      "surface": "רגלם",
+      "gloss": "onların ayağı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:04:26.830607919Z",
+  "model": "glm-5.3"
+}

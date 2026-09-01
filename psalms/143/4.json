@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 143:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 143,
+  "translation": "Ruhum mənim üstümə çökdü, için-içində ürəyim dəhşətə gəldi.",
+  "tokens": [
+    {
+      "surface": "ותתעטף",
+      "gloss": "çökdü"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mənim üstümə"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruhum"
+    },
+    {
+      "surface": "בתוכי",
+      "gloss": "için-içində"
+    },
+    {
+      "surface": "ישתומם",
+      "gloss": "dəhşətə gəldi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ürəyim"
+    }
+  ],
+  "timestamp": "2026-09-01T15:45:05.651916160Z",
+  "model": "glm-5.3"
+}

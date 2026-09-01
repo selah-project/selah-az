@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "və ⟨את⟩ Hivvili, və ⟨את⟩ Arqili, və ⟨את⟩ Sinli",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Hivvili"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hivvili"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Arqili"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "Arqili"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Sinli"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "Sinli"
+    }
+  ],
+  "timestamp": "2026-09-01T09:48:31.688005745Z",
+  "model": "glm-5.3"
+}

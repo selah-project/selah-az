@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 65,
+  "translation": "Günahların əməlləri məndən üstün gəldi; bizim üsyanlarımızı isə Sən örtərsən.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "əməlləri"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "günahların"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "üstün gəldi"
+    },
+    {
+      "surface": "מני",
+      "gloss": "məndən"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "bizim üsyanlarımızı"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sən"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "örtərsən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:21:43.574356262Z",
+  "model": "glm-5.3"
+}

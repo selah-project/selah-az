@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Sənin üçün başqa tanrılar olmayacaq üzlərimə qarşı.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "…-mayacaq"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olmayacaq"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənin üçün"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tanrılar"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "başqa"
+    },
+    {
+      "surface": "על",
+      "gloss": "qarşı"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzlərimə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:12:03.854786585Z",
+  "model": "glm-5.3"
+}

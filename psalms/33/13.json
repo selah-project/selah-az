@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 33:13",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "Göylərdən Yahve baxdı, ⟨את⟩ bütün insan oğullarını gördü.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "göylərdən"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "baxdı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "gördü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün insan oğullarını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:11:20.895295994Z",
+  "model": "glm-5.3"
+}

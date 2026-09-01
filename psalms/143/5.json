@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 143:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 143,
+  "translation": "Keçmiş günləri xatırladım, bütün əməllərin haqqında dərin düşünüb daşındım, əllərinin əməli haqqında mülahizə aparıram.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "xatırladım"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günləri"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "keçmiş"
+    },
+    {
+      "surface": "הגיתי",
+      "gloss": "dərin düşünüb daşındım"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "əməllərin"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "əməli haqqında"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "əllərinin"
+    },
+    {
+      "surface": "אשוחח",
+      "gloss": "mülahizə aparıram"
+    }
+  ],
+  "timestamp": "2026-09-01T15:45:40.458633561Z",
+  "model": "glm-5.3"
+}

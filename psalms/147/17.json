@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 147,
+  "translation": "Buzunu adi qırıntılar kimi atır, Onun soyuğunun önündə kim dura bilər?",
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "atır"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "buzunu"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "adi qırıntılar kimi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önündə"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "Onun soyuğunun"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "dura bilər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:35.422355228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 68,
+  "translation": "Elohim tənhaları evə qaytarır, əsirləri xoşbəxtliklə çıxarır; ancaq inadkarlar quru yerdə yaşayırlar.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "qaytarır"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "tənhalığı"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "evə"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "çıxarır"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "əsirləri"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "xoşbəxtliklə"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ancaq"
+    },
+    {
+      "surface": "סוררim",
+      "gloss": "inadkarlar"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "yaşayırlar"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "quru yerdə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:22:07.946369098Z",
+  "model": "glm-5.3"
+}

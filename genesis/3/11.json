@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 3:11",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "O dedi: Sənə kim bildirdi ki, çılpaqsan? O ağacdanmı yedin ki, sənə ondan yeməməyi buyurmuşdum?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "bildirdi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "çılpaq"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "המן",
+      "gloss": "onandanmı"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "o ağac"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "sənə buyurmuşdum"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "yeməməyi"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yemə"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "yedin"
+    }
+  ],
+  "timestamp": "2026-09-01T09:45:57.523592019Z",
+  "model": "glm-5.3"
+}

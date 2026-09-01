@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 13:12",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Əgər tsaraat dəridə çoxalib gül açsa və tsaraat ⟨את⟩ yaralı bütün dərini, başından ayaqlarına qədər, kahinin gözlərinin gördüyü hər yeri örtsün —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "פרוח",
+      "gloss": "gül açsa"
+    },
+    {
+      "surface": "תפרח",
+      "gloss": "çoxalsa"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "tsaraat"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "dəridə"
+    },
+    {
+      "surface": "וכסתה",
+      "gloss": "örtsün"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "tsaraat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yaralı bütün dəri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עור",
+      "gloss": "dəri"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "yaralı"
+    },
+    {
+      "surface": "מראשו",
+      "gloss": "başından"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ayaqlarına"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "gördüyü"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözlərinin"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:25:40.771513762Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Oradan az bir şey sayda götürəcəksən və onları ⟨את⟩ qanadlarının ⟨ətin içində⟩ saracaqsan.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "götürəcəksən"
+    },
+    {
+      "surface": "משם",
+      "gloss": "oradan"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "az"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "sayda"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "saracaqsan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ onları",
+      "marks": "az bir şey"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "qanadlarının \/ ətin ucunda"
+    }
+  ],
+  "timestamp": "2026-09-01T14:03:59.246498133Z",
+  "model": "glm-5.3"
+}

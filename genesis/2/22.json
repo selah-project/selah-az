@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və Yahve Elohim insanın yanından götürdüyü qabırğa üstündən ⟨את⟩ qadını qurdu və onu insanın yanına gətirdi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "qurdu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qadını"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "qabırğa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "götürdüyü"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "qadın"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "və gətirdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insan"
+    }
+  ],
+  "timestamp": "2026-09-01T09:45:58.809370827Z",
+  "model": "glm-5.3"
+}

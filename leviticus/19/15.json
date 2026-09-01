@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 19:15",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Məhkəmədə haqsızlıq etməyin; kasıbın üzünü qaldırmayasan, böyüyün üzünü ⟨üstün⟩ tutmayasan; yoldaşını ədalətlə mühakimə edəsan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "etməyin"
+    },
+    {
+      "surface": "עול",
+      "gloss": "haqsızlıq"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "məhkəmədə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "qaldırmayasan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzünü"
+    },
+    {
+      "surface": "דל",
+      "gloss": "kasıbın"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "üstün tutmayasan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzünü"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "böyüyün"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ədalətlə"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "mühakimə edəsan"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "yoldaşını"
+    }
+  ],
+  "timestamp": "2026-09-01T17:28:12.175098272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 59,
+  "translation": "Və axşam qayıtsınlar, it kimi hürsünlər və şəhərin ətrafında dolaşsınlar.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "və qayıtsınlar"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "axşam"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "hürsünlər"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "it kimi"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "və dolaşsınlar"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şəhərin ətrafında"
+    }
+  ],
+  "timestamp": "2026-09-01T15:20:13.170155059Z",
+  "model": "glm-5.3"
+}

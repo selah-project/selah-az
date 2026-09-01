@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Oğlum, ⟨את⟩ Yahve və padşahdan qorx; dəyişənlərlə qarışma.",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "qorx"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğlum"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "və padşah"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "dəyişənlərlə"
+    },
+    {
+      "surface": "אל",
+      "gloss": "etmə"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "qarışma"
+    }
+  ],
+  "timestamp": "2026-09-01T15:58:11.220146475Z",
+  "model": "glm-5.3"
+}

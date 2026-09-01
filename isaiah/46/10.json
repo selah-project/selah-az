@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 46:10",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 46,
+  "translation": "Əvvəldən sonunu bildirən, əzəldən hələ edilməmiş şeyləri ⟨bildirən⟩; deyirəm: məşvərətim duracaq və bütün istəyimi edəcəyəm.",
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "bildirən"
+    },
+    {
+      "surface": "מראשית",
+      "gloss": "əvvəldən"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "sonunu"
+    },
+    {
+      "surface": "ומקדם",
+      "gloss": "əzəldən"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨şeyləri⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hələ ... değil"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "edilməmiş"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deyirəm"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "məşvərətim"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "duracaq"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "istəyimi"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "edəcəyəm"
+    }
+  ],
+  "timestamp": "2026-09-01T13:09:19.652617713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "və onun ordusu, və onların sayılmışları dörd və yetmiş min və altı yüz ⟨idi⟩.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "və onun ordusu"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "və onların sayılmışları"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "dörd"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "və yetmiş"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "min"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "və altı"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    }
+  ],
+  "timestamp": "2026-09-01T17:28:27.994496841Z",
+  "model": "glm-5.3"
+}

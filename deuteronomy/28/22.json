@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 28:22",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "Yahve səni verm ilə, qızdırma ilə, iltihab ilə, qızmar quraqlıq ilə, qılınc ilə, yelanma ilə və küflə vuracaq; və onlar səni məhv olana qədər təqib edəcəklər.",
+  "tokens": [
+    {
+      "surface": "יככה",
+      "gloss": "vuracaq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בשחפת",
+      "gloss": "verm ilə"
+    },
+    {
+      "surface": "ובקדחת",
+      "gloss": "qızdırma ilə"
+    },
+    {
+      "surface": "ובדלקת",
+      "gloss": "iltihab ilə"
+    },
+    {
+      "surface": "ובחרחר",
+      "gloss": "qızmar quraqlıq ilə"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "qılınc ilə"
+    },
+    {
+      "surface": "ובשדפון",
+      "gloss": "yelanma ilə"
+    },
+    {
+      "surface": "ובירקון",
+      "gloss": "küflə"
+    },
+    {
+      "surface": "ורדפוך",
+      "gloss": "və təqib edəcəklər səni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nə qədər ki"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "məhv olursan"
+    }
+  ],
+  "timestamp": "2026-09-01T10:56:23.739489517Z",
+  "model": "glm-5.3"
+}

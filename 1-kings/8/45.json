@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "⟨O zaman⟩ göylərdə onların dualarını və ⟨את⟩ yalvarışlarını eşidərsən, və onların haqqını edərsən.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "eşidərsən"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göylərdə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onların dualarını"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "onların dualarını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yalvarışlarını"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "yalvarışlarını"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "və edərsən"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "onların haqqını"
+    }
+  ],
+  "timestamp": "2026-09-01T12:16:40.712502342Z",
+  "model": "glm-5.3"
+}

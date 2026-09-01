@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 168,
+  "ref": "psalms 119:168",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Saxlamışam sənin göstərişlərini və sənin şəhadətlərini, çünki bütün yollarım qarşısıdır sənin.",
+  "tokens": [
+    {
+      "surface": "שמרתי",
+      "gloss": "saxlamışam"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "sənin göstərişlərini"
+    },
+    {
+      "surface": "ועדתיך",
+      "gloss": "və sənin şəhadətlərini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "yollarım"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "sənin qarşısında"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:27.091208449Z",
+  "model": "glm-5.3"
+}

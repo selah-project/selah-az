@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 52:6",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 52,
+  "translation": "Buna görə xalqım adımı tanıyacaq; ona görə ⟨o⟩ gündə ⟨biləcəklər⟩ ki, danışan Mənəm — bax, Mən buradayam.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "buna görə"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tanıyacaq"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqım"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "adımı"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "ona görə"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "⟨o⟩ gündə"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Mənəm"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "danışan"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "bax, Mən buradayam"
+    }
+  ],
+  "timestamp": "2026-09-01T13:14:24.093819520Z",
+  "model": "glm-5.3"
+}

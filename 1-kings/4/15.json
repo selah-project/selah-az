@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Ahimaas, Naftalidə ⟨idi⟩; o da ⟨את⟩ Basmatı, Şelomonun qızını, arvadına aldı.",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "Ahimaas"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "Naftalidə"
+    },
+    {
+      "surface": "גם",
+      "gloss": "da"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "aldı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Basmatı"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Basmatı"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qızını"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomonun"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "arvadına"
+    }
+  ],
+  "timestamp": "2026-09-01T12:09:32.594653704Z",
+  "model": "glm-5.3"
+}

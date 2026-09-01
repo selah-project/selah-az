@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 1:4",
+  "book": "jonah",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və Yahve dənizə böyük bir külək atdı, dənizdə böyük fırtına ⟨oldu⟩ və gəmi sınmaq üzrə ⟨idi⟩.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Və Yahve"
+    },
+    {
+      "surface": "הטיל",
+      "gloss": "atdı"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "külək"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "böyük bir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dənizə"
+    },
+    {
+      "surface": "הים",
+      "gloss": ""
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "və ⟨oldu⟩"
+    },
+    {
+      "surface": "סער",
+      "gloss": "fırtına"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "בים",
+      "gloss": "dənizdə"
+    },
+    {
+      "surface": "והאניה",
+      "gloss": "və gəmi"
+    },
+    {
+      "surface": "חשבה",
+      "gloss": "sınmaq üzrə ⟨idi⟩"
+    },
+    {
+      "surface": "להשבר",
+      "gloss": "sınmağa"
+    }
+  ],
+  "timestamp": "2026-09-01T14:46:31.154168120Z",
+  "model": "glm-5.3"
+}

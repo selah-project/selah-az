@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 62:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 62,
+  "translation": "Nə qədər bir adamın üstünə hücum edəcəksiniz, onu öldürmək üçün hamınız — əyilmiş divar kimi, devrilmiş hasar kimi?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "nə qədər"
+    },
+    {
+      "surface": "אנה",
+      "gloss": ""
+    },
+    {
+      "surface": "תהותתו",
+      "gloss": "hücum edəcəksiniz"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir adamın"
+    },
+    {
+      "surface": "תרצחו",
+      "gloss": "öldürmək"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "hamınız"
+    },
+    {
+      "surface": "כקיר",
+      "gloss": "divar kimi"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "əyilmiş"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "hasar"
+    },
+    {
+      "surface": "הדחויה",
+      "gloss": "devrilmiş"
+    }
+  ],
+  "timestamp": "2026-09-01T15:20:46.046424451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 124:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 124,
+  "translation": "Nəfəsimiz quş kimi qərq olunan torun ağzından qurtuldu; tor qırıldı və biz qurtulduq.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "nəfəsimiz"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "quş kimi"
+    },
+    {
+      "surface": "נמלטה",
+      "gloss": "qurtuldu"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "tordan"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "qərq olunan"
+    },
+    {
+      "surface": "הפח",
+      "gloss": "tor"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "qırıldı"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "və biz"
+    },
+    {
+      "surface": "נמלטנו",
+      "gloss": "qurtulduq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:42.262503128Z",
+  "model": "glm-5.3"
+}

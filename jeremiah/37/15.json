@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 37:15",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Və sərlər Yirmiyahuya qarşı qəzəbləndilər, onu döydülər və ⟨את⟩ onu Yehonatan katibin evində, həbs evinə saldılar; çünki ⟨oranı⟩ həbsxana etmişdilər.",
+  "tokens": [
+    {
+      "surface": "ויקצפו",
+      "gloss": "qəzəbləndilər"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "sərlər"
+    },
+    {
+      "surface": "על",
+      "gloss": "qarşı"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmiyahuya"
+    },
+    {
+      "surface": "והכו",
+      "gloss": "və döydülər"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "Yirmiyahu"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "və saldılar"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "həbs evinə"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "האסור",
+      "gloss": "həbs"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evində"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatanın"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "katib"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "həbsxana"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "etmişdilər"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "həbsxana"
+    },
+    {
+      "surface": "הכלא",
+      "gloss": "həbs evi"
+    }
+  ],
+  "timestamp": "2026-09-01T13:46:54.801867665Z",
+  "model": "glm-5.3"
+}

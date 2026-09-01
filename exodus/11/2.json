@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Xalqın qulaqlarına danış ⟨indi⟩: kişi öz yoldaşından ⟨את⟩ və qadın öz rəfiqəsindən ⟨את⟩ gümüş qablar və qızıl qablar istəsin.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "danış"
+    },
+    {
+      "surface": "נא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "qulaqlarına"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqın"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "və istəsin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kişi"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "öz yoldaşından"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "öz yoldaşından"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "və qadın"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "öz rəfiqəsindən"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "öz rəfiqəsindən"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "qablar"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "və qablar"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "qızıl"
+    }
+  ],
+  "timestamp": "2026-09-01T10:08:29.272002179Z",
+  "model": "glm-5.3"
+}

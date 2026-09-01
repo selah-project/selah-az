@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 32:10",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Və yazdım kitabda, və möhürlədim, və şahidləri təsdiq etdim, və gümüşü tərəzidə çəkdim.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "və yazdım"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "kitabda"
+    },
+    {
+      "surface": "ואחתם",
+      "gloss": "və möhürlədim"
+    },
+    {
+      "surface": "ואעד",
+      "gloss": "və təsdiq etdim"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "şahidləri"
+    },
+    {
+      "surface": "ואשקל",
+      "gloss": "və çəkdim"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "gümüşü"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "tərəzidə"
+    }
+  ],
+  "timestamp": "2026-09-01T13:43:19.610903780Z",
+  "model": "glm-5.3"
+}

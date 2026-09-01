@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 4:20",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və öküzlə, günah öküzü ilə etdiyi kimi, ona da belə edəcək; kohən onların üçün kəffarə edəcək və onlara bağışlanacaq.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "edəcək"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "öküzlə"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etdiyi"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "öküzü ilə"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "günah"
+    },
+    {
+      "surface": "כן",
+      "gloss": "belə"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "edəcək"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "kəffarə edəcək"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "onların üçün"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohən"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "bağışlanacaq"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    }
+  ],
+  "timestamp": "2026-09-01T10:23:06.150757131Z",
+  "model": "glm-5.3"
+}

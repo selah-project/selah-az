@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Yahve-ni Onun ədalətinə görə tərifləyəcəyəm, Elyon Yahve-nin adına zəf çəkəcəyəm.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "tərifləyəcəyəm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve-ni"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "Onun ədalətinə görə"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "zəf çəkəcəyəm"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adına"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve-nin"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-09-01T15:00:19.203722067Z",
+  "model": "glm-5.3"
+}

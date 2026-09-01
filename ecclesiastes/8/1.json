@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 8:1",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Kim həkim kimidir, və kim sözün mənasını bilir? İnsanın hikməti onun üzlərini işıqlandırar, və üzünün gücü dəyişdirilər.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "כהחכם",
+      "gloss": "həkim kimidir"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "və kim"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "bilir"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "mənasını"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sözün"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "hikməti"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insanın"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "ışıqlandırar"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "üzlərini"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "və gücü"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "üzünün"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "dəyişdirilər"
+    }
+  ],
+  "timestamp": "2026-09-01T16:32:00.632112584Z",
+  "model": "glm-5.3"
+}

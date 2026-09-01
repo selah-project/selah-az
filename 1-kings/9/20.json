@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 9:20",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "bütün qalan xalqı — emorililərdən, hittililərdən, perizililərdən, hivvililərdən və yevusililərdən, ki onlar Yisrael oğullarından deyillər —",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqı"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "qalan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "—dan"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emorililərdən"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "hittililərdən"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "perizililərdən"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "hivvililərdən"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "yevusililərdən"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "deyil"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "oğullarından"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    }
+  ],
+  "timestamp": "2026-09-01T12:17:24.589679220Z",
+  "model": "glm-5.3"
+}

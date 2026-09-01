@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 18:30",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Buna görə hər kəsi öz yolu ilə mühakimə edəcəyəm sizi ⟨את⟩, ey Yisrael evi — Adonay Yahvenin nəqli. Qayıdın və bütün üsyanlarınızdan dönün, ki günah sizə səbət olmasın.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "buna görə"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər kəs"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "öz yolu ilə"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "mühakimə edəcəyəm"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "Yisrael evi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nəql"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "qayıdın"
+    },
+    {
+      "surface": "והשיבו",
+      "gloss": "və dönün"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "hamısından"
+    },
+    {
+      "surface": "פשעיכם",
+      "gloss": "üsyanlarınızın"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizə"
+    },
+    {
+      "surface": "למכשול",
+      "gloss": "səbət"
+    },
+    {
+      "surface": "עון",
+      "gloss": "günah"
+    }
+  ],
+  "timestamp": "2026-09-01T14:12:29.397675502Z",
+  "model": "glm-5.3"
+}

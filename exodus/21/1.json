@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Və bunlar ⟨haqqında⟩ hökmlərdir ki, onların önünə qoyacaqsan.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "və bunlar"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "hökmlər"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "qoyacaqsan"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "onların önünə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:15:32.037165492Z",
+  "model": "glm-5.3"
+}

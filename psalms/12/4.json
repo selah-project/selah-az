@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Kəssin Yahve bütün hamar dudlaqları, böyük şeylər danışan dili.",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "kəssin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "dudlaqları"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "hamar (yalançi)"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "dil"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "danışan"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "böyük şeylər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:03:46.001810406Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Mən sevgiliminəm, və onun arzusu mənədir.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "sevgiliminəm"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "və mənə"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "onun arzusu"
+    }
+  ],
+  "timestamp": "2026-09-01T16:23:03.126922032Z",
+  "model": "glm-5.3"
+}

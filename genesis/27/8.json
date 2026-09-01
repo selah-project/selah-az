@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "İndi isə, oğlum, səsimə qulaq as — mən sənə nə buyururamsa, ⟨את⟩ ⟨ona⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "İndi isə"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğlum"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "qulaq as"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "səsimə"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "-a"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "buyururam"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ səni",
+      "marks": "səni"
+    }
+  ],
+  "timestamp": "2026-09-01T09:54:00.872445172Z",
+  "model": "glm-5.3"
+}

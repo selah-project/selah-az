@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 38:1",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 38,
+  "translation": "Və o, yandırma qurbangahını ⟨את⟩ şittim ağacından düzəltdi: uzunluğu beş dirsək, eni beş dirsək, dördbucaqlı ⟨idi⟩, hündürlüyü üç dirsək.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Və o, düzəltdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yandırma qurbangahı"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "qurbangah"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yandırma"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ağacından"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "şittim"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "beş"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "dirsək"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "uzunluğu"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "və beş"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "dirsək"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "eni"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "dördbucaqlı"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "və üç"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "dirsək"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "hündürlüyü"
+    }
+  ],
+  "timestamp": "2026-09-01T10:21:43.102879257Z",
+  "model": "glm-5.3"
+}

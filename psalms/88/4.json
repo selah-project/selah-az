@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 88,
+  "translation": "Çünki canım şərliklərlə doyub, həyatım Şeol səviyyəsinə çatdı.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "doyub"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "şərliklərlə"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "və həyatım"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Şeol səviyyəsinə"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "çatdı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:57.267458283Z",
+  "model": "glm-5.3"
+}

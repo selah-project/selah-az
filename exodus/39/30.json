@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 39:30",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 39,
+  "translation": "Və ⟨את⟩ parlaq lövhəni — müqəddəs tacın — təmiz qızıldan düzəltdilər, və üzərinə möhünoyması kimi oyulmuş yazı yazdılar: Yahveyə müqəddəs.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "düzəltdilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parlaq lövhəni"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "parlaq lövhəni"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "tacın"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "qızıldan"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "təmiz"
+    },
+    {
+      "surface": "ויכתבו",
+      "gloss": "yazdılar"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "מכתב",
+      "gloss": "yazı"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "oyulmuş"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "möhün"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:22:17.526618521Z",
+  "model": "glm-5.3"
+}

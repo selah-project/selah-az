@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Yahve peşman oldu ki, insanı yerdə yaratmışdı ⟨את⟩ və ürəyində kədərləndi.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "peşman oldu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaratmışdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "insanı"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insanı"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerdə"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "kədərləndi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨içində⟩"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ürəyində"
+    }
+  ],
+  "timestamp": "2026-09-01T09:47:33.045835426Z",
+  "model": "glm-5.3"
+}

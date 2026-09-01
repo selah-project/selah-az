@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 15:2",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Yisrael oğullarına danışın və onlara deyin: hər hansı adam, əgər bədənindən zov ⟨olsa⟩ — axıntısı varsa — o, natəmizdir.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "Danışın"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "və deyin"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər"
+    },
+    {
+      "surface": "כי",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨olsa⟩"
+    },
+    {
+      "surface": "זב",
+      "gloss": "zov"
+    },
+    {
+      "surface": "מבשרו",
+      "gloss": "bədənindən"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "axıntısı varsa"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "natəmiz"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-09-01T10:27:00.304472833Z",
+  "model": "glm-5.3"
+}

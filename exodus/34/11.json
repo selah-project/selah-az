@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 34:11",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 34,
+  "translation": "Özünə saxla ⟨את⟩ bu gün sənə əmr etdiyim şeyi; bax, sənin üzündən ⟨את⟩ Emorini, və Kənanini, və Hetli, və Perizzi, və Hivvini, və Yevusini qovuram.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "saxla"
+    },
+    {
+      "surface": "לך",
+      "gloss": "özünə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu gün sənə əmr etdiyim şeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "sənə əmr edirəm"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bu gün"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "bax, Mən"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "qovuram"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "sənin üzündən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Emorini"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emori"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "və Kənani"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "və Hetli"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "və Perizzi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "və Hivvini"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "və Yevusini"
+    }
+  ],
+  "timestamp": "2026-09-01T10:19:39.383577181Z",
+  "model": "glm-5.3"
+}

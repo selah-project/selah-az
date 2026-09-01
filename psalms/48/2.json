@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 48,
+  "translation": "Böyükdür Yahve və çox tərifəlayiqdir, Elohimimizin şəhərində, müqəddəsliyinin dağında.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Böyükdür"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "və çox tərifəlayiqdir"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çox"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "şəhərində"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimizin"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dağında"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "müqəddəsliyinin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:16:42.393312204Z",
+  "model": "glm-5.3"
+}

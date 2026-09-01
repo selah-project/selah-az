@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Və canım çox qorxudan titrəyir; amma sən, Yahve, nə vaxta qədər?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "və canım"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "qorxudan titrəyir"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çox"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "amma sən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "nə vaxta"
+    }
+  ],
+  "timestamp": "2026-09-01T15:01:52.622753996Z",
+  "model": "glm-5.3"
+}

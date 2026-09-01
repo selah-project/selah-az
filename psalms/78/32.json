@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 78,
+  "translation": "Bütün bunlara baxmayaraq yenə günah etdilər və Onun möcüzələrinə iman gətirmədilər.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bunlara baxmayaraq (bunun içində)"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "günah etdilər"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yenə"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... gətirmədilər (neqasiya)"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "iman gətirdilər"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "Onun möcüzələrinə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:26:54.642157329Z",
+  "model": "glm-5.3"
+}

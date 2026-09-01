@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 11:17",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Və enəcəyəm və orada səninlə danışacağam, və sənin üzərində olan ruhdan ⟨bir hissə⟩ ayıracağam və onların üzərinə qoyacağam, və onlar ⟨את⟩ səninlə birlikdə xalqın yükünü daşıyacaqlar, və sən təkbaşına daşımayacaqsan.",
+  "tokens": [
+    {
+      "surface": "וירדתי",
+      "gloss": "enəcəyəm"
+    },
+    {
+      "surface": "ודברתי",
+      "gloss": "danışacağam"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "səninlə"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "ואצלתי",
+      "gloss": "ayıracacağam"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ruh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "üzərində olan"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "qoyacağam"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "onların üzərinə"
+    },
+    {
+      "surface": "ונשאו",
+      "gloss": "daşıyacaqlar"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ səninlə"
+    },
+    {
+      "surface": "במשא",
+      "gloss": "yükünü daşımaqda"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqın"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "daşıyacaqsan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "təkbaşına"
+    }
+  ],
+  "timestamp": "2026-09-01T10:38:00.427468007Z",
+  "model": "glm-5.3"
+}

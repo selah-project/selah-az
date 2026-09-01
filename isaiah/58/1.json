@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 58:1",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 58,
+  "translation": "Boğazınla qışqır, çəkinmə, şofar kimi səsini ucaltdan; xalqıma onların üsyanını bildir, Yaəqov evinə onların günahlarını.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "qışqır"
+    },
+    {
+      "surface": "בגרון",
+      "gloss": "boğazınla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "çəkinmə"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "çəkinmə"
+    },
+    {
+      "surface": "כשופר",
+      "gloss": "şofar kimi"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "ucaltdan"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "səsini"
+    },
+    {
+      "surface": "והגד",
+      "gloss": "bildir"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "xalqıma"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "onların üsyanını"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "evinə"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaəqov"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "onların günahlarını"
+    }
+  ],
+  "timestamp": "2026-09-01T13:18:04.161310928Z",
+  "model": "glm-5.3"
+}

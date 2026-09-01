@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 73:21",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 73,
+  "translation": "Çünki ürəyim turşuyur (qıcıqlanır) və böyrəklərim sancıqlanır.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "יתחמץ",
+      "gloss": "turşuyur (qıcıqlanır)"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ürəyim"
+    },
+    {
+      "surface": "וכליותי",
+      "gloss": "və böyrəklərim"
+    },
+    {
+      "surface": "אשתונן",
+      "gloss": "sancıqlanır"
+    }
+  ],
+  "timestamp": "2026-09-01T15:24:20.846354512Z",
+  "model": "glm-5.3"
+}

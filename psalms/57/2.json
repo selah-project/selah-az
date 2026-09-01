@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 57,
+  "translation": "Mənə lütf et, Elohim, mənə lütf et, çünki səndə sipər tutur canım; qanadlarının kölgəsində sığınacağam, ⟨o çağa qədər ki⟩ bəlalar ötər.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Mənə lütf et"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "mənə lütf et"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "בך",
+      "gloss": "səndə"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "sipər tutur"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "kölgəsində"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "qanadlarının"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "sığınacağam"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨o çağa qədər ki⟩"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ötər"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "bəlalar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:19:46.235614659Z",
+  "model": "glm-5.3"
+}

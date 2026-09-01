@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 6:2",
+  "book": "zechariah",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Birinci arabada qırmızı atlar, ikinci arabada qara atlar ⟨var idi⟩.",
+  "tokens": [
+    {
+      "surface": "במרכבה",
+      "gloss": "arabada"
+    },
+    {
+      "surface": "הראשנה",
+      "gloss": "birinci"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "atlar"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "qırmızı"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "və arabada"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ikinci"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "atlar"
+    },
+    {
+      "surface": "שחרים",
+      "gloss": "qara"
+    }
+  ],
+  "timestamp": "2026-09-01T14:55:51.348716020Z",
+  "model": "glm-5.3"
+}

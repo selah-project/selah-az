@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Qəlbində dedi: «Sarsılmaram, nəsildən-nəslə ⟨mən⟩ ki, bəlada olmayacağam.»",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "qəlbində"
+    },
+    {
+      "surface": "בל",
+      "gloss": "şübhəsiz… deyil"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "sarsılaram"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "nəsildən"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nəslə"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨mən⟩ ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "olmayacağam"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "bəlada"
+    }
+  ],
+  "timestamp": "2026-09-01T15:05:27.842292746Z",
+  "model": "glm-5.3"
+}

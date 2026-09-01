@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Tapılan hər kəs süngülənəcək, yaxalanan hər kəs qılıncın altına yıxılacaq.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hər kəs"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "tapılan"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "süngülənəcək"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "və hər kəs"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "yaxalanan"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "yıxılacaq"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "qılıncın altına"
+    }
+  ],
+  "timestamp": "2026-09-01T12:51:11.472007253Z",
+  "model": "glm-5.3"
+}

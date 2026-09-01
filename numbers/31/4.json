@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 31:4",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "Hər qəbilədən min, hər qəbilədən min — İsraillin bütün qəbilələrindən müharibəyə göndərəcəksiniz.",
+  "tokens": [
+    {
+      "surface": "אלף",
+      "gloss": "min"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "hər qəbilədən"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "min"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "hər qəbilədən"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "qəbilələrindən"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsraillin"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "göndərəcəksiniz"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "müharibəyə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:43:58.433938635Z",
+  "model": "glm-5.3"
+}

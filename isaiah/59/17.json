@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 59:17",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 59,
+  "translation": "Və ədaləti zireh kimi geyindi, xilas möhrəyi başına qoydu; intiqam geyimlərini paltar kimi geyindi və qısqanclığı örtük kimi bürüdü.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "geyindi"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ədalət"
+    },
+    {
+      "surface": "כשרין",
+      "gloss": "zireh kimi"
+    },
+    {
+      "surface": "וכובע",
+      "gloss": "və möhrək"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "xilas"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "başına"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "geyindi"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "geyimlərini"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "intiqam"
+    },
+    {
+      "surface": "תלבשת",
+      "gloss": "paltar kimi"
+    },
+    {
+      "surface": "ויעט",
+      "gloss": "bürüdü"
+    },
+    {
+      "surface": "כמעיל",
+      "gloss": "örtük kimi"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "qısqanclığı"
+    }
+  ],
+  "timestamp": "2026-09-01T13:17:10.236711299Z",
+  "model": "glm-5.3"
+}

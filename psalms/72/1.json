@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 72,
+  "translation": "Şlomoya ⟨aiddir⟩. Elohim, məhkəmələrini padşaha ver, və salehliyini padşah oğluna.",
+  "tokens": [
+    {
+      "surface": "לשלמה",
+      "gloss": "Şlomoya ⟨aiddir⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "məhkəmələrini"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "padşaha"
+    },
+    {
+      "surface": "תן",
+      "gloss": "ver"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "və salehliyini"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "oğluna"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşah"
+    }
+  ],
+  "timestamp": "2026-09-01T15:23:54.313215504Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 3:4",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Yahve onun baxmaq üçün kənara çıxdığını gördü; Elohim kolun içindən ona səslədi və dedi: Moşe, Moşe! O da dedi: Bax, mən ⟨buradayam⟩.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "gördü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-ığını"
+    },
+    {
+      "surface": "סר",
+      "gloss": "kənara çıxdı"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "baxmaq üçün"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "səslədi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "içindən"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "kolun"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Bax, mən ⟨buradayam⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T10:04:39.800632387Z",
+  "model": "glm-5.3"
+}

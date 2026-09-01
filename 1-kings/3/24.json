@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 3:24",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Padşah dedi: Mənə qılınc gətirin. Qılıncı padşahın önünə gətirdilər.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "gətirin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "qılınc"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "gətirdilər"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "qılıncı"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünə"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşahın"
+    }
+  ],
+  "timestamp": "2026-09-01T12:09:53.011539404Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 40:19",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "Və çadırı məskənin üstünə yaydı və çadırın örtüyünü onun üstünə, yuxarıdan qoydu — Yahvenin Moşeyə ⟨את⟩ əmr etdiyi kimi.",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "yaydı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çadırı"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "çadırı"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "məskənin"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "qoydu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "örtüyünü"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "örtüyünü"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "çadırın"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üstünə"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "yuxarıdan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "əmr etdiyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşeyə"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşeyə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:22:24.587356011Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 144,
+  "translation": "Necə xoşbəxtdir o xalq ki, onun üçün belədir; necə xoşbəxtdir o xalq ki, onun Elohimi Yahvedir.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "necə xoşbəxtdir"
+    },
+    {
+      "surface": "העם",
+      "gloss": "o xalq"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "belədir"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onun üçün"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "necə xoşbəxtdir"
+    },
+    {
+      "surface": "העם",
+      "gloss": "o xalq"
+    },
+    {
+      "surface": "שיהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "onun Elohimi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:04.844085039Z",
+  "model": "glm-5.3"
+}

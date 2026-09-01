@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Salehliyin qurbanlarını kəsin ⟨və⟩ Yahve-yə etibar edin.",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "kəsin"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "qurbanlar"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "salehliyin"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "və etibar edin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—ə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T15:01:49.271239080Z",
+  "model": "glm-5.3"
+}

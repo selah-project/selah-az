@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 119:28",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Canım kədərdən əriyib axır; məni sözünə görə saxla.",
+  "tokens": [
+    {
+      "surface": "דלפה",
+      "gloss": "əriyib axır"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "מתוגה",
+      "gloss": "kədərdən"
+    },
+    {
+      "surface": "קימני",
+      "gloss": "məni saxla"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "sözünə görə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:37.231968491Z",
+  "model": "glm-5.3"
+}

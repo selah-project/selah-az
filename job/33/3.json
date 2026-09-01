@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 33:3",
+  "book": "job",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "Sözlərim ürəyimin düzlüyündəndir, dodaqlarımın biliyi aydın danışır.",
+  "tokens": [
+    {
+      "surface": "ישר",
+      "gloss": "düzlüyündən"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ürəyimin"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "Sözlərim"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "biliyi"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "dodaqlarımın"
+    },
+    {
+      "surface": "ברור",
+      "gloss": "aydın"
+    },
+    {
+      "surface": "מללו",
+      "gloss": "danışır"
+    }
+  ],
+  "timestamp": "2026-09-01T16:15:50.145394682Z",
+  "model": "glm-5.3"
+}

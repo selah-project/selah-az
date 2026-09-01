@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 6:15",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Və evin divarlarını ⟨את⟩ içəridən sidr lövhələri ilə tikdi — evin döşəməsindən tavanın divarlarınadək; içərisini ağacla üzlədi və evin döşəməsini ⟨את⟩ selvi lövhələri ilə örtüb üzlədi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "tikdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "divarlarını"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "divarlarını"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "evin"
+    },
+    {
+      "surface": "מביתה",
+      "gloss": "içəridən"
+    },
+    {
+      "surface": "בצלעות",
+      "gloss": "lövhələri ilə"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "sidr"
+    },
+    {
+      "surface": "מקרקע",
+      "gloss": "döşəməsindən"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "evin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "divarlarına"
+    },
+    {
+      "surface": "הספן",
+      "gloss": "tavanın"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "üzlədi"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ağacla"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "içərisini"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "örtüb üzlədi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "döשəməni"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "döşəməni"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "evin"
+    },
+    {
+      "surface": "בצלעות",
+      "gloss": "lövhələri ilə"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "selvi"
+    }
+  ],
+  "timestamp": "2026-09-01T12:14:08.053876296Z",
+  "model": "glm-5.3"
+}

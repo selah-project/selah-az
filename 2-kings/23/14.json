@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 23:14",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Və daş sütunlarını sındırdı, Aşera ağaclarını kəsdi və onların yerlərini insan sümükləri ilə doldurdu.",
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "və sındırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daş sütunlarını"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "daş sütunlarını"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "kəsdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aşera ağaclarını"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "Aşera ağaclarını"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "və doldurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onların yerlərini"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "onların yerlərini"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "sümükləri"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    }
+  ],
+  "timestamp": "2026-09-01T12:44:23.041677799Z",
+  "model": "glm-5.3"
+}

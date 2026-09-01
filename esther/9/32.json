@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "esther 9:32",
+  "book": "esther",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Və Esterin əmri bu Purim sözlərini təsdiqlədi və kitabda yazıldı.",
+  "tokens": [
+    {
+      "surface": "ומאמר",
+      "gloss": "və əmri"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esterin"
+    },
+    {
+      "surface": "קים",
+      "gloss": "təsdiqlədi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözlərini"
+    },
+    {
+      "surface": "הפרים",
+      "gloss": "Purim"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ונכתב",
+      "gloss": "və yazıldı"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "kitabda"
+    }
+  ],
+  "timestamp": "2026-09-01T18:02:49.179625080Z",
+  "model": "glm-5.3"
+}

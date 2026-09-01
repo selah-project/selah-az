@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 19:32",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Ağ saqqalın üzü qarşısında qalx və qocanın üzünü ulduzla; Elohimindən qorx; mən Yahveyəm.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "üzü qarşısında"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "ağ saqqalın"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "qalx"
+    },
+    {
+      "surface": "והדרת",
+      "gloss": "və ulduzla"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzünü"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "qoca"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "və qorx"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Elohimindən"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T10:28:49.298050364Z",
+  "model": "glm-5.3"
+}

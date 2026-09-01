@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 2:11",
+  "book": "1-samuel",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Elqana Ramataya, öz evinə getdi; oğlan isə Yahveyə — Eli kahinin hüzurunda — xidmət edirdi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "getdi"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elqana"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "Ramataya"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨öz evinə⟩"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "öz evinə"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "oğlan isə"
+    },
+    {
+      "surface": "היה",
+      "gloss": "idi"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "xidmət edirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveyə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hüzurunda"
+    },
+    {
+      "surface": "פני",
+      "gloss": "hüzurunda"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahinin"
+    }
+  ],
+  "timestamp": "2026-09-01T11:28:47.332115972Z",
+  "model": "glm-5.3"
+}

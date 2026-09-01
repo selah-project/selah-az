@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Babilin yükü (öhdəlik) — onu Yeşayahu, Amotsun oğlu görüb.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "yük (öhdəlik)"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onu"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "görüb"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeşayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    }
+  ],
+  "timestamp": "2026-09-01T12:52:40.703237798Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 23:6",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Kasıbın hökmünü onun davasında əymə.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "əymə"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hökmünü"
+    },
+    {
+      "surface": "אבינך",
+      "gloss": "kasıbın"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "onun davasında"
+    }
+  ],
+  "timestamp": "2026-09-01T10:13:44.231484433Z",
+  "model": "glm-5.3"
+}

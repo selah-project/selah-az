@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Əgər oğru lağımda ⟨girərkən⟩ tapılsa və vurulub ölsə, onun üçün qan ⟨ödənişi⟩ yoxdur.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Əgər"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "lağımda"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "tapılsa"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "oğru"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "və vurulub"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ölsə"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onun üçün"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "qan"
+    }
+  ],
+  "timestamp": "2026-09-01T10:15:33.395858224Z",
+  "model": "glm-5.3"
+}

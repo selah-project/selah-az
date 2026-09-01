@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 38:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 38,
+  "translation": "Çünki Sənə ümid bəsləyirəm, Yahve; Sən cavab verəcəksən, Adonay Elohimim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Sənə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "ümid bəsləyirəm"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sən"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "cavab verəcəksən"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    }
+  ],
+  "timestamp": "2026-09-01T15:13:16.641116520Z",
+  "model": "glm-5.3"
+}

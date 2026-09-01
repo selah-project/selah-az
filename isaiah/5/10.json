@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 5:10",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Çünki on cüt öküz qədər bağ bir bat ⟨şərab⟩ verəcək, və bir xomar toxum bir eyfa ⟨taxıl⟩ verəcək.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "on"
+    },
+    {
+      "surface": "צמדי",
+      "gloss": "cüt öküz qədər (sahə)"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "bağ"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "verəcək"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bir bat ( ölçü )"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "bir"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "və toxum"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "bir xomar ( ölçü )"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "verəcək"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "bir eyfa ( ölçü )"
+    }
+  ],
+  "timestamp": "2026-09-01T12:48:53.094445329Z",
+  "model": "glm-5.3"
+}

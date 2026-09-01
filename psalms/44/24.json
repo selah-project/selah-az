@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 44,
+  "translation": "Oyan! Niyə yatırsan, ya Adonay? Qalx! Bizi əbədi tərk etmə!",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Oyan!"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Niyə"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "yatırsan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "Qalx!"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...mə"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "tərk etmə"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "əbədi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:15:11.708193343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "⟨O⟩ dedi: ⟨את⟩ qardaşlarımı axtarıram; mənə xəbər ver, nə olar, harada onlar otarırlar?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qardaşlarımı"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "qardaşlarım"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mən"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "axtarıram"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "xəbər ver"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nə olar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "harada"
+    },
+    {
+      "surface": "הם",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "otarırlar"
+    }
+  ],
+  "timestamp": "2026-09-01T09:58:14.056569663Z",
+  "model": "glm-5.3"
+}

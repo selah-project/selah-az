@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 28:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "Onlara əməllərinə görə, ixtiralarının pisliyinə görə ver; əllərinin əməlinə görə onlara ver — onlara qisaslarını qaytar.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "ver"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "כפעלם",
+      "gloss": "əməllərinə görə"
+    },
+    {
+      "surface": "וכרע",
+      "gloss": "pisliyinə görə"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "ixtiralarının"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "əməyinə görə"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "əllərinin"
+    },
+    {
+      "surface": "תן",
+      "gloss": "ver"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "השב",
+      "gloss": "qaytar"
+    },
+    {
+      "surface": "גמולם",
+      "gloss": "qisaslarını"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    }
+  ],
+  "timestamp": "2026-09-01T15:09:36.871742778Z",
+  "model": "glm-5.3"
+}

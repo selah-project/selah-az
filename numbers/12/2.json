@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 12:2",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Və dedilər: «Yalnız Moşe iləmi danışdı Yahve? Bizimlə də danışmamışdımı?» Və Yahve eşitdi.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "və dedilər"
+    },
+    {
+      "surface": "הרק",
+      "gloss": "yalnız...mı"
+    },
+    {
+      "surface": "אך",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "במשה",
+      "gloss": "Moşe ilə"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "danışdı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "məgər...deyil"
+    },
+    {
+      "surface": "גם",
+      "gloss": "də"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "bizimlə"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "danışdı"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "və eşitdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T10:37:51.715817453Z",
+  "model": "glm-5.3"
+}

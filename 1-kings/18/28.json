@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 18:28",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Onlar bərkdən səsləndilər və adətlərinə görə qılınclarla və nizələrlə özlərini kəsdilər, üstlərinə qan axanadək.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "səsləndilər"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "səslə"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "bərkdən"
+    },
+    {
+      "surface": "ויתגדדו",
+      "gloss": "özlərini kəsdilər"
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "adətlərinə görə"
+    },
+    {
+      "surface": "בחרבות",
+      "gloss": "qılınclarla"
+    },
+    {
+      "surface": "וברמחים",
+      "gloss": "və nizələrlə"
+    },
+    {
+      "surface": "עד",
+      "gloss": "...-adək"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "axanadək"
+    },
+    {
+      "surface": "דם",
+      "gloss": "qan"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "üstlərinə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:25:39.570119599Z",
+  "model": "glm-5.3"
+}

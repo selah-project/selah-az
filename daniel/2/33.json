@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "daniel 2:33",
+  "book": "daniel",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Onun baldırları dəmirdən, ayaqları isə bir hissəsi dəmirdən, bir hissəsi gildən idi.",
+  "tokens": [
+    {
+      "surface": "שקוהי",
+      "gloss": "onun baldırları"
+    },
+    {
+      "surface": "די",
+      "gloss": "ki"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "dəmir"
+    },
+    {
+      "surface": "רגלוהי",
+      "gloss": "onun ayaqları"
+    },
+    {
+      "surface": "מנהון",
+      "gloss": "bir hissəsi"
+    },
+    {
+      "surface": "די",
+      "gloss": "ki"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "dəmir"
+    },
+    {
+      "surface": "ומנהון",
+      "gloss": "və bir hissəsi"
+    },
+    {
+      "surface": "די",
+      "gloss": "ki"
+    },
+    {
+      "surface": "חסף",
+      "gloss": "gil"
+    }
+  ],
+  "timestamp": "2026-09-01T16:39:33.426600294Z",
+  "model": "glm-5.3"
+}

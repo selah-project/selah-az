@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 1:13",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və axşam oldu, və səhər oldu — üçüncü gün.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "və oldu"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "axşam"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "və oldu"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "səhər"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "üçüncü"
+    }
+  ],
+  "timestamp": "2026-09-01T09:45:40.896118608Z",
+  "model": "glm-5.3"
+}

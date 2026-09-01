@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 39:28",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 39,
+  "translation": "Baş örtüyünü də ⟨את⟩ incə kətandan, baş bəzəklərini də ⟨את⟩ incə kətandan, şalvarları da ⟨את⟩ bəddən ⟨את⟩ — incə kətan, burulmuş.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "baş örtüyünü"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "baş örtüyünü"
+    },
+    {
+      "surface": "שש",
+      "gloss": "incə kətandan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "baş bəzəklərini"
+    },
+    {
+      "surface": "פארי",
+      "gloss": "baş bəzəklərini"
+    },
+    {
+      "surface": "המגבעת",
+      "gloss": "papaqların"
+    },
+    {
+      "surface": "שש",
+      "gloss": "incə kətandan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "şalvarları"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "şalvarları"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "bəddən"
+    },
+    {
+      "surface": "שש",
+      "gloss": "incə kətan"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "burulmuş"
+    }
+  ],
+  "timestamp": "2026-09-01T10:22:07.759719146Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Və bir kişi ki, öz yatmasını heyvanla versə — ölüm ilə öldürüləcəkdir; və ⟨את⟩ heyvanı öldürəsiniz.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Və kişi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "versə"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "öz yatmasını"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "heyvanla"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölüm"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "öldürüləcəkdir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "heyvanı"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "heyvan"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "öldürəsiniz"
+    }
+  ],
+  "timestamp": "2026-09-01T10:30:07.585988024Z",
+  "model": "glm-5.3"
+}

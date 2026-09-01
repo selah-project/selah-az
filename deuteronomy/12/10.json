@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 12:10",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Siz Yardeni keçəcəksiniz və o torpaqda yaşayacaqsınız ki, onu sizə Yahve Elohiniz miras verir, və bütün düşmənlərinizdən - ətrafınızdan olanlardan - sizə rahatlıq verəcək və təhlükəsiz yaşayacaqsınız.",
+  "tokens": [
+    {
+      "surface": "ועברתם",
+      "gloss": "və keçəcəksiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardeni"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardeni"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "və yaşayacaqsınız"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "torpaqda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-ı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiniz"
+    },
+    {
+      "surface": "מנחיל",
+      "gloss": "miras verir"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "sizə ⟨את⟩",
+      "marks": "siz"
+    },
+    {
+      "surface": "והניח",
+      "gloss": "və rahatlıq verəcək"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizə"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "düşmənlərinizdən"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ətrafınızda"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "və yaşayacaqsınız"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "təhlükəsiz"
+    }
+  ],
+  "timestamp": "2026-09-01T10:51:25.668375718Z",
+  "model": "glm-5.3"
+}

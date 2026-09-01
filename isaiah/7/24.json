@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 7:24",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Oxlarda və yay ilə oraya ⟨adam⟩ girəcək, çünki tikan və dəyənə olacaq bütün ölkə.",
+  "tokens": [
+    {
+      "surface": "בחצים",
+      "gloss": "oxlarda"
+    },
+    {
+      "surface": "ובקשת",
+      "gloss": "və yay"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "girəcək"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "oraya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "tikan"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "və dəyənə"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ölkə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:48:19.628574957Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 95,
+  "ref": "psalms 119:95",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Şər insanlar məni məhv etmək üçün gözləyirlər; ⟨lakin⟩ şəhadətlərinizi düşünürəm.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "məni"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "gözləyirlər"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "şər insanlar"
+    },
+    {
+      "surface": "לאבדני",
+      "gloss": "məni məhv etmək üçün"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "şəhadətlərini"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "düşünürəm"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:27.943312072Z",
+  "model": "glm-5.3"
+}

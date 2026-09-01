@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 80:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 80,
+  "translation": "Xorəhbər üçün, ⟨Şoşannim-Edut⟩ üçün, Asafın şəhadəti, məzmur.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Xorəhbər üçün"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨Şoşannim-Edut⟩ üçün"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Şoşannim (zənilər)"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Edut (şəhadət)"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafın"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "məzmur"
+    }
+  ],
+  "timestamp": "2026-09-01T15:27:48.383052125Z",
+  "model": "glm-5.3"
+}

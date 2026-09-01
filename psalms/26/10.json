@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Çünki onların əllərində pis əməl var, sağ əlləri isə rüşvətlə doludur.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "çünki onların"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "əllərində"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "pis əməl"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "sağ əlləri isə"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "doludur"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "rüşvətlə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:08:18.296359498Z",
+  "model": "glm-5.3"
+}

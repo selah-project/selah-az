@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 19:25",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Ki, onu Yahve Sebaot belə mübarək edib deyəndə: “Mübarəkdir Mənim xalqım Mitsrayim, Mənim əllərimin əsəri Aşşur və Mənim mirasım İsrail.”",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ki, onu"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "mübarək edib"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sebaot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyəndə"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Mübarəkdir"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Mənim xalqım"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "və əsəri"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "Mənim əllərimin"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşşur"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "və Mənim mirasım"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    }
+  ],
+  "timestamp": "2026-09-01T12:53:03.134954957Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 144:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 144,
+  "translation": "Öküzlərimiz ⟨ağır⟩ yük daşıyır; yarıq yoxdur, çıxış yoxdur, fəryad yoxdur meydanlarımızda.",
+  "tokens": [
+    {
+      "surface": "אלופינו",
+      "gloss": "öküzlərimiz"
+    },
+    {
+      "surface": "מסבלים",
+      "gloss": "daşıyır"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "yarıq"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "çıxış yoxdur"
+    },
+    {
+      "surface": "יוצאת",
+      "gloss": ""
+    },
+    {
+      "surface": "ואין",
+      "gloss": "fəryad yoxdur"
+    },
+    {
+      "surface": "צוחה",
+      "gloss": ""
+    },
+    {
+      "surface": "ברחבתינו",
+      "gloss": "meydanlarımızda"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:04.843942271Z",
+  "model": "glm-5.3"
+}

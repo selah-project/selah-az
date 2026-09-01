@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 7:27",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Hər hansı qan yeyən hər nəfəş — o nəfəş öz xalqından kəsiləcəkdir.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nəfəş"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yeyər"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər hansı"
+    },
+    {
+      "surface": "דם",
+      "gloss": "qan"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "və kəsiləcəkdir"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "nəfəş"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "öz xalqından"
+    }
+  ],
+  "timestamp": "2026-09-01T10:23:47.548015819Z",
+  "model": "glm-5.3"
+}

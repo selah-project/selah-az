@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 60,
+  "translation": "Bunlar kimdir — bulud kimi uçurlar, göyərcinlər kimi pəncərələrinə doğru?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kimdir"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bunlar"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "bulud kimi"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "uçurlar"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "göyərcinlər kimi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "doğru"
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "pəncərələrinə"
+    }
+  ],
+  "timestamp": "2026-09-01T13:17:10.449634068Z",
+  "model": "glm-5.3"
+}

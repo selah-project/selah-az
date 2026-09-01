@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 84,
+  "translation": "Qalxanımız ⟨olan⟩ Elohim, ⟨bax⟩, və məsihinin üzünə bax.",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "qalxanımız"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "⟨bax⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "və bax"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzünə"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "məsihinin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:47.896036526Z",
+  "model": "glm-5.3"
+}

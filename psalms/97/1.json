@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 97,
+  "translation": "Yahve hökmdarlıq etdi, yer səadətlə sevinir, çoxlu adalar quvanır.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hökmranlıq etdi"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "sevinir"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "quvanır"
+    },
+    {
+      "surface": "איים",
+      "gloss": "adalar"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "çoxlu"
+    }
+  ],
+  "timestamp": "2026-09-01T15:32:56.387949183Z",
+  "model": "glm-5.3"
+}

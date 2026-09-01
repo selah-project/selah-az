@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 19:16",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Əmri qoruyan ⟨kəs⟩ canını qoruyar, öz yollarına xor baxan isə ölər.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "qoruyan"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "əmri"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "qoruyar"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "canını"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "xor baxan"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "öz yollarına"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ölər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:56:21.010669968Z",
+  "model": "glm-5.3"
+}

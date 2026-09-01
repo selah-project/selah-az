@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 1:11",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "İlklər üçün yadigarlıq yoxdur; gələcəkdə olacaq sonrakılar üçün də — onlarla birlikdə olan sonrakılara yadigarlıq olmayacaq.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "yadigarlıq"
+    },
+    {
+      "surface": "לראשנים",
+      "gloss": "ilklər üçün"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "həm də"
+    },
+    {
+      "surface": "לאחרנים",
+      "gloss": "sonrakılar üçün"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "olmayacaq"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": ""
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlarla birlikdə"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "yadigarlıq"
+    },
+    {
+      "surface": "עם",
+      "gloss": "olan"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "sonrakılara"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-01T16:29:15.422477648Z",
+  "model": "glm-5.3"
+}

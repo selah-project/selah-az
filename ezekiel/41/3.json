@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 41:3",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 41,
+  "translation": "Və içəri girdi, və qapının dirəyini ölçdü: iki qarış, və qapı altı qarış, və qapının eni yeddi qarış.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "və girdi"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "içəri"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "və ölçdü"
+    },
+    {
+      "surface": "איל",
+      "gloss": "dirəyi"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "qapının"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "iki"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "qarış"
+    },
+    {
+      "surface": "והפתח",
+      "gloss": "və qapı"
+    },
+    {
+      "surface": "שש",
+      "gloss": "altı"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "qarış"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "və ⟨en⟩i"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "qapının"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yeddi"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "qarış"
+    }
+  ],
+  "timestamp": "2026-09-01T14:28:24.415798687Z",
+  "model": "glm-5.3"
+}

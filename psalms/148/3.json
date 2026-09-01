@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 148,
+  "translation": "Həmd deyin ⟨Ona⟩ günəş və ay, Həmd deyin ⟨Ona⟩ bütün işıq ulduzları!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Həmd deyin ⟨Ona⟩"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "günəş"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "və ay"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "Həmd deyin ⟨Ona⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "ulduzları"
+    },
+    {
+      "surface": "אור",
+      "gloss": "işıq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:40.468797558Z",
+  "model": "glm-5.3"
+}

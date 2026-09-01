@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 61:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 61,
+  "translation": "Xor başçısına, simli alətlər üzərinə, Davuda məxsus ⟨psalmdur⟩.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Xor başçısına"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "נגינת",
+      "gloss": "simli alətlər"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davuda məxsus"
+    }
+  ],
+  "timestamp": "2026-09-01T15:21:22.453791411Z",
+  "model": "glm-5.3"
+}

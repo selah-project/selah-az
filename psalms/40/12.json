@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 40:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "Sən, Yahve, mərhəmətlərini məndən saxlamazsan; hesedin və əmin daim məni qoruyur.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תכלא",
+      "gloss": "saxlamazsan"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "mərhəmətlərini"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "məndən"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedin"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "və əmin"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daim"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "məni qoruyur"
+    }
+  ],
+  "timestamp": "2026-09-01T15:13:35.675134328Z",
+  "model": "glm-5.3"
+}

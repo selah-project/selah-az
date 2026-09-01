@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 55,
+  "translation": "Çünki düşüncələrim sizin düşüncələriniz deyil, və yollarınız mənim yollarım deyil — Yahvenin nümüdür.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "düşüncələrim"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "sizin düşüncələriniz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "yollarınız"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "mənim yollarım"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nümüsü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    }
+  ],
+  "timestamp": "2026-09-01T13:13:24.826392231Z",
+  "model": "glm-5.3"
+}

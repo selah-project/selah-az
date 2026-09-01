@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 22:33",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "⟨את⟩ sizi Mitsrayim torpağından çıxaran, sizə Elohim olmaq üçün — mən Yahveyəm.",
+  "tokens": [
+    {
+      "surface": "המוציא",
+      "gloss": "çıxaran"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "siz (əvəzlik kimi, nişan deyil)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "torpağından"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "olmaq üçün"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizə"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveyəm"
+    }
+  ],
+  "timestamp": "2026-09-01T10:28:39.515158388Z",
+  "model": "glm-5.3"
+}

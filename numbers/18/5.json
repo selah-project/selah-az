@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 18:5",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Siz müqəddəsliyin mühafizəsini ⟨את⟩ və altarın mühafizəsini ⟨את⟩ qoruyacaqsınız, və Yisrael oğullarının üstünə artıq qəzəb olmayacaq.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "qoruyacaqsınız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "müqəddəsliyin mühafizəsini"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "mühafizəsini"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "müqəddəsliyin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "altarın mühafizəsini"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "mühafizəsini"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarın"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və olmayacaq"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olmayacaq"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "artıq"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "qəzəb"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T10:39:32.558744234Z",
+  "model": "glm-5.3"
+}

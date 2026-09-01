@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 10:5",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Və terua çalacaqsınız, və şərqə düşərgə salan düşərgələr yola düşəcəklər.",
+  "tokens": [
+    {
+      "surface": "ותקעתם",
+      "gloss": "çalacaqsınız"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "terua"
+    },
+    {
+      "surface": "ונסעו",
+      "gloss": "yola düşəcəklər"
+    },
+    {
+      "surface": "המחנות",
+      "gloss": "düşərgələr"
+    },
+    {
+      "surface": "החנים",
+      "gloss": "düşərgə salan"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "şərqə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:36:05.040044056Z",
+  "model": "glm-5.3"
+}

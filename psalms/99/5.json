@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 99:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 99,
+  "translation": "Yüksəldin Yahve, Elohimimizi, və Onun ayağının səcdəgahına səcdə edin; müqəddəsdir O.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "yüksəldin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimizi"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "və səcdə edin"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "ayaqaltına"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "Onun ayağıının"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "O"
+    }
+  ],
+  "timestamp": "2026-09-01T15:34:45.209220820Z",
+  "model": "glm-5.3"
+}

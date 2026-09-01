@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 12:5",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Yahveyə zəhm edin, çünki o, ucalıq ⟨etdi⟩; bunu bütün ⟨⟩ yerdə bildirin.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "zəhm edin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "ucalıq"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨etdi⟩"
+    },
+    {
+      "surface": "מידעת",
+      "gloss": "bildirin"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bunu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerdə"
+    }
+  ],
+  "timestamp": "2026-09-01T18:00:09.777325871Z",
+  "model": "glm-5.3"
+}

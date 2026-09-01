@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 32:34",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "İndi isə get, ⟨את⟩ xalqı Mənin sənə danışdığım yerə apar; bax, Mənim mələyim səndən öncə gedəcək. Lakin Mənim yoxladığım gündə onların günahını onların üstünə yoxlayacağam.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "indi isə"
+    },
+    {
+      "surface": "לך",
+      "gloss": "get"
+    },
+    {
+      "surface": "נחה",
+      "gloss": "apar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqı"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "danışdığım"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "Mənim mələyim"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "gedəcək"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "səndən öncə"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "və ... gündə"
+    },
+    {
+      "surface": "פקדי",
+      "gloss": "Mənim yoxladığım"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "yoxlayacağam"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "onların üstünə"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "onların günahını"
+    }
+  ],
+  "timestamp": "2026-09-01T10:19:12.110417848Z",
+  "model": "glm-5.3"
+}

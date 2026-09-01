@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 49:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 49,
+  "translation": "Lakin Elohim canımı Şeolun əlindən satın alacaq, çünki ⟨O⟩ məni qəbul edəcək. Selah.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "lakin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "satın alacaq"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "əlindən"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şeolun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "məni qəbul edəcək"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T15:16:35.322582675Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 141:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 141,
+  "translation": "Duanız ⟨olsun⟩ sənin üzlü qarşısında qətir kimi qurulub; əllərimin qaldırılması — axşam minçası kimi.",
+  "tokens": [
+    {
+      "surface": "תכון",
+      "gloss": "qurulub"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "Duam"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "qətir kimi"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "üzlü qarşısında"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "qaldırılması"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "əllərimin"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minçası"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "axşam"
+    }
+  ],
+  "timestamp": "2026-09-01T15:44:43.594317684Z",
+  "model": "glm-5.3"
+}

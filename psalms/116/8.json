@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 116,
+  "translation": "Çünki Sən canımı ölümdən, ⟨את⟩ gözümü gözyaşından, ⟨את⟩ ayağımı sürüşməkdən qurtardın.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "qurtardın"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ölümdən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gözümü"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözümü"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "gözyaşından"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayağımı"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ayağımı"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "sürüşməkdən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:07.318490946Z",
+  "model": "glm-5.3"
+}

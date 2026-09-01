@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 6:16",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Və ⟨את⟩ evin arxa hissəsində iyirmi amma sidr lövhələri ilə tikdi — döşəmədən divarlara qədər; və özünə içəridən bir Dvir (kəlam yeri) tikdi — müqəddəslərin müqəddəsi üçün.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "tikdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyirmi amma"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iyirmi"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amma"
+    },
+    {
+      "surface": "מירכותי",
+      "gloss": "evin arxa hissəsində"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "בצלעות",
+      "gloss": "lövhələri ilə"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "sidr"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "הקרקע",
+      "gloss": "döşəmədən"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "הקירות",
+      "gloss": "divarlara"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "tikdi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "özünə"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "içəridən"
+    },
+    {
+      "surface": "לדביר",
+      "gloss": "Dvir üçün"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "müqəddəs üçün"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "müqəddəslərin"
+    }
+  ],
+  "timestamp": "2026-09-01T12:14:08.054119783Z",
+  "model": "glm-5.3"
+}

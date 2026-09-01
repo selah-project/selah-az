@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Və Avrahım üzü üstə düşdü və Elohim ⟨את⟩ onunla danışaraq dedi:",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "və düşdü"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avrahım"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzü üstə"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "üzünə"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "və danışdı"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onunla"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    }
+  ],
+  "timestamp": "2026-09-01T09:50:59.478015554Z",
+  "model": "glm-5.3"
+}

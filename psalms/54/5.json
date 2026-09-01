@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 54:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 54,
+  "translation": "Çünki yadlar mənim üstümə qalxdılar və zalımlar canımı axtarırlar; onlar Elohimi öz qarşılarında qoymadılar. Sela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "yadlar"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "qalxdılar"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mənim üstümə"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "və zalımlar"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "axtarırlar"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "qoymadılar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "öz qarşılarında"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-01T15:17:50.185618256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "və ⟨את⟩ damlarda göyün sərbazına səcdə edənləri, Yahveyə and içənləri və Malxamla and içənləri ⟨günahlandıracağam⟩",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "damlarda göyün sərbazına səcdə edənləri"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "səcdə edənləri"
+    },
+    {
+      "surface": "על",
+      "gloss": "damlarda"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "damlarda"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "sərbazına"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göyün"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveyə and içənləri"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "səcdə edənləri"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "and içənləri"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "və and içənləri"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "Malxamla"
+    }
+  ],
+  "timestamp": "2026-09-01T14:52:32.777506664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 38,
+  "translation": "Çünki belbendim yandırmalarla doldu, və ətimdə sağlamlıq ⟨yoxdur⟩ yoxdur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "belbendim"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "doldu"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "yandırmalarla"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "sağlamlıq"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "ətimdə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:13:01.108200923Z",
+  "model": "glm-5.3"
+}

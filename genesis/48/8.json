@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 48,
+  "translation": "İsrael Yosefin oğullarını ⟨את⟩ görüb dedi: Bunlar kimdir?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "görüb"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosefin oğullarını"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bunlar"
+    }
+  ],
+  "timestamp": "2026-09-01T10:02:56.457767836Z",
+  "model": "glm-5.3"
+}

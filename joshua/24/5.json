@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 24:5",
+  "book": "joshua",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "⟨את⟩ Moşeni və ⟨את⟩ Aharonu göndərdim və ⟨את⟩ Mitsrayimi döydüm — onun qərinində etdiyim kimi — və ondan sonra ⟨את⟩ sizi çıxardım.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "göndərdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşeni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşeni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharonu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonu"
+    },
+    {
+      "surface": "ואגף",
+      "gloss": "və döydüm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayimi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "etdiyim"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "onun qərinində"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ondan sonra"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "çıxardım"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi"
+    }
+  ],
+  "timestamp": "2026-09-01T11:15:05.480347877Z",
+  "model": "glm-5.3"
+}

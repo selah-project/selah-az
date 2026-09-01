@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 73,
+  "translation": "Ağızlarını göylərə qaldırdılar, dilləri isə yer üzündə gəzir.",
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "qaldırdılar"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "göylərə"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "ağızlarını"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "dilləri isə"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "gəzir"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yer üzündə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:24:33.462272369Z",
+  "model": "glm-5.3"
+}

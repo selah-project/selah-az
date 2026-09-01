@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 71,
+  "translation": "Mən isə fasiləsiz ümid edirəm və Sənin bütün mədhlərinin üstünə artıracağam.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Mən isə"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "fasiləsiz"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "ümid edirəm"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "və artıracağam"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "mədhlərinin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:23:12.797784076Z",
+  "model": "glm-5.3"
+}

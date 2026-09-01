@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 1:5",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Səni bətndə formalaşdırmazdan əvvəl səni tanıdım, və bətndən çıxmazdan əvvəl səni müqəddəs elan etdim; səni xalqlara peyğəmbər təyin etdim.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "əvvəl"
+    },
+    {
+      "surface": "אצורך",
+      "gloss": "səni formalaşdıracağam"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "bətndə"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "səni tanıdım"
+    },
+    {
+      "surface": "ובטרם",
+      "gloss": "və əvvəl"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "çıxmayacağın zaman"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "bətndən"
+    },
+    {
+      "surface": "הקדשתיך",
+      "gloss": "səni müqəddəs elan etdim"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "peyğəmbər"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "xalqlara"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "səni təyin etdim"
+    }
+  ],
+  "timestamp": "2026-09-01T13:20:33.759799937Z",
+  "model": "glm-5.3"
+}

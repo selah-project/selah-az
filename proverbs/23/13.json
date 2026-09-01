@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 23:13",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Oğlandan tərbiyəni əskiltmə, çünki onu çubuqla vursan da, ölməyəcək.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "…mə"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "əskiltmə"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "oğlandan"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tərbiyəni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "onu vursan da"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "çubuqla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…mə"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ölməyəcək"
+    }
+  ],
+  "timestamp": "2026-09-01T15:57:33.414166310Z",
+  "model": "glm-5.3"
+}

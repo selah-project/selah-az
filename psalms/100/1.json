@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 100,
+  "translation": "Şükür məzmuru. Bütün yer Yahveyə səs ucaldın!",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "məzmur"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "şükür ⟨üçün⟩"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "səs ucaldın"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-09-01T15:34:25.015081314Z",
+  "model": "glm-5.3"
+}

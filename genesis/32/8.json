@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 32:8",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Yaqov çox qorxdu və ona sıxıntı düşdü; yanında ⟨ilə⟩ olan adamları, ⟨את⟩ qoyunları, ⟨את⟩ iribuynuzluları və dəvələri iki düşərgəyə böldü.",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "qorxdu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqov"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çox"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "sıxıntı düşdü"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ויחץ",
+      "gloss": "böldü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adamları"
+    },
+    {
+      "surface": "העם",
+      "gloss": "adamları"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨ilə⟩ yanında"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qoyunları"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "qoyunları"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iribuynuzluları"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "iribuynuzluları"
+    },
+    {
+      "surface": "והגמלים",
+      "gloss": "və dəvələri"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "ikiyə"
+    },
+    {
+      "surface": "מחנות",
+      "gloss": "düşərgəyə"
+    }
+  ],
+  "timestamp": "2026-09-01T09:57:01.585079077Z",
+  "model": "glm-5.3"
+}

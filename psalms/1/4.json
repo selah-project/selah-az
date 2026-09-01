@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Yox, pislər belə deyillər; əksinə, küləyin sovuşdurduğu saman kimi ⟨onlardır⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "כן",
+      "gloss": "belə"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "pislər"
+    },
+    {
+      "surface": "כי",
+      "gloss": "əksinə"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bəlkə"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "saman kimi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "sovuşdurduğu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "küləyin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:02:35.782926925Z",
+  "model": "glm-5.3"
+}

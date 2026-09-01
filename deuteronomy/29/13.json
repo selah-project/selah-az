@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 29:13",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "və yalnız sizinlə deyil, ⟨את⟩ bu əhdi və ⟨את⟩ bu ləənəti mən kəsirəm —",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizinlə"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "yalnız siz"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mən"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "kəsirəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu əhdi"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "əhd"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "bu ləənəti"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ləənət"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-09-01T10:56:42.552654639Z",
+  "model": "glm-5.3"
+}

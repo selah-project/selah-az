@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "Və məskənlərində olan ⟨את⟩ bütün şəhərlərini və ⟨את⟩ bütün qalalarını atəşlə yandırdılar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bütün şəhərlərini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "şəhərlərini"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "məskənlərində"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bütün qalalarını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "qalalarını"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "yandırdılar"
+    },
+    {
+      "surface": "באש",
+      "gloss": "atəşlə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:44:00.172191936Z",
+  "model": "glm-5.3"
+}

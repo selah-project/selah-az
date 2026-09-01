@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 4:8",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və ⟨bir⟩ gün oldu: Elişa Şunəm tərəfə keçdi, orada isə böyük bir qadın vardı; o, onu çörək yeməyə məcbur etdi. Və onun keçdiyi hər dəfə oraya çörək yemək üçün üz tutardı.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "və ⟨belə⟩ oldu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "keçdi"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elişa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tərəfə"
+    },
+    {
+      "surface": "שונם",
+      "gloss": "Şunəm"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "orada isə"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "qadın"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "ותחזק",
+      "gloss": "məcbur etdi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onu"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "yeməyə"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "çörək"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "və ⟨belə⟩ olurdu"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "hər dəfə"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "onun keçdiyi"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "üz tutardı"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "oraya"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "yemək üçün"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "çörək"
+    }
+  ],
+  "timestamp": "2026-09-01T12:31:41.245130338Z",
+  "model": "glm-5.3"
+}

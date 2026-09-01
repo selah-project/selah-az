@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 12:5",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Və əgər qız doğsa, iki həftə natəmiz olar, ⟨onun⟩ aybaşı kimi; və altmış gün və altı gün təmizlənmə qanı ⟨üzerində⟩ oturar.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "qız"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "doğsa"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "natəmiz olar"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "iki həftə"
+    },
+    {
+      "surface": "כנדתה",
+      "gloss": "onun aybaşı kimi"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "və altmış"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "və altı"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "oturar"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerində"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "qanı"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "təmizlənmə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:25:42.197917824Z",
+  "model": "glm-5.3"
+}

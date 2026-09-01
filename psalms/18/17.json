@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 18:17",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Göndərdi yüksəkdən, götürdü məni, çəkib çıxartdı məni çox sulardan.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "göndərdi"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "yüksəkdən"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "götürdü məni"
+    },
+    {
+      "surface": "ימשני",
+      "gloss": "çəkib çıxartdı məni"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "sulardan"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "çox"
+    }
+  ],
+  "timestamp": "2026-09-01T15:06:51.602323281Z",
+  "model": "glm-5.3"
+}

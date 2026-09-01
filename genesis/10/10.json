@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Onun padşahlığının başlanğıcı Bavel, Ərəx, Əkkəd və Kəlnə ⟨idi⟩ — Şinar ölkəsində.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "idi"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "başlanğıcı"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "onun padşahlığının"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "Ərəx"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "Əkkəd"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "Kəlnə"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ölkəsində"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Şinar"
+    }
+  ],
+  "timestamp": "2026-09-01T09:48:31.150448762Z",
+  "model": "glm-5.3"
+}

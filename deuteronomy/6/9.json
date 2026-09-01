@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Və onları evinin qapı dirəklərinə və darvazalarına yazacaqsan.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "yazacaqsan"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "qapı dirəklərinə"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "evinin"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "və darvazalarına"
+    }
+  ],
+  "timestamp": "2026-09-01T17:29:55.804930411Z",
+  "model": "glm-5.3"
+}

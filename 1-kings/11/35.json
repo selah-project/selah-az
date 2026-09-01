@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 11:35",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "və hökmdarlığı oğlunun əlindən alacağam və onu sənə verəcəyəm — ⟨את⟩ on qəbiləni.",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "və alacağam"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "hökmdarlığı"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "əlindən"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlunun"
+    },
+    {
+      "surface": "ונתתיה",
+      "gloss": "verəcəyəm onu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "on qəbiləni"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "on"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "qəbiləni"
+    }
+  ],
+  "timestamp": "2026-09-01T12:19:04.148226020Z",
+  "model": "glm-5.3"
+}

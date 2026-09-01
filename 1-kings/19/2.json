@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 19:2",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Və İzevel Eliyahuya bir elçi göndərib dedi: Elohim mənə belə etsin və belə də artırsın — bu vaxtdan sabah ⟨את⟩ canını onlardan birinin canı kimi qoyacağam.",
+  "tokens": [
+    {
+      "surface": "ותשלח",
+      "gloss": "göndərdi"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "İzevel"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "elçi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a (yönə)"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahuya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "כה",
+      "gloss": "belə"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "etsin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "və belə"
+    },
+    {
+      "surface": "יוספון",
+      "gloss": "artırsın"
+    },
+    {
+      "surface": "כי",
+      "gloss": "əgər (and içmə ədatı)"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "bu vaxtdan"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "sabah"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "qoyacağam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "canını"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "canını"
+    },
+    {
+      "surface": "כנפש",
+      "gloss": "canı kimi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "birinin"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "onlardan"
+    }
+  ],
+  "timestamp": "2026-09-01T12:26:43.296474395Z",
+  "model": "glm-5.3"
+}

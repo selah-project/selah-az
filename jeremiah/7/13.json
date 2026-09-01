@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 7:13",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Və indi, siz bütün bu əməlləri ⟨את⟩ etdiyinizə görə — Yahvenin nəqli — mən sizə danışdım, səhər-teə danışdım, amma eşitmədiniz; ⟨את⟩ sizi çağırdım, amma cavab vermədiniz.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "və indi"
+    },
+    {
+      "surface": "יען",
+      "gloss": "görə"
+    },
+    {
+      "surface": "עשותכם",
+      "gloss": "etdiyiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün bu əməlləri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "əməlləri"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nəqli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "danışdım"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "sizə"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "səhər-teə"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "danışdım"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma yox"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "eşitmədiniz"
+    },
+    {
+      "surface": "ואקרא",
+      "gloss": "çağırdım"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma yox"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "cavab vermədiniz"
+    }
+  ],
+  "timestamp": "2026-09-01T13:25:32.088362499Z",
+  "model": "glm-5.3"
+}

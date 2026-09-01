@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 14:26",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Çünki Yahve gördü ⟨את⟩ İsrailin sıxıntısını — çox acı idi; və qapalı qalan yox idi, və buraxılmış yox idi, və İsrailə köməkçi yox idi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "gördü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsrailin sıxıntısını"
+    },
+    {
+      "surface": "עני",
+      "gloss": "sıxıntısını"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailin"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "acı"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çox"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "və yoxdur"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "qapalı qalan"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "və yoxdur"
+    },
+    {
+      "surface": "עזוב",
+      "gloss": "buraxılmış"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "və yoxdur"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "köməkçi"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "İsrailə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:37:03.625174617Z",
+  "model": "glm-5.3"
+}

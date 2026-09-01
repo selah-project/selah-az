@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Və ⟨את⟩ daş dələsi — çünki o, gələ gətirir, amma dırnağı yarıq etmir — o, sizin üçün murdardır.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "daş dələsi"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "daş dələsi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "gələ gətirir"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "gələ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "amma dırnağı"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "yarıq etmir"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "murdardır"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:24:49.144498555Z",
+  "model": "glm-5.3"
+}

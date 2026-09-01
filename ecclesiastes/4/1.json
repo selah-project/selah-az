@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 4:1",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və mən döndüm və günəş altında edilən bütün zülmləri gördüm, və bax, məzlumların göz yaşı — onların təsəllisi yoxdur, və zalımlarının əlindən qüdrət ⟨vardır⟩, onların isə təsəllisi yoxdur.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "və mən döndüm"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "və gördüm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün zülmləri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העשקים",
+      "gloss": "zülmləri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נעשים",
+      "gloss": "edilir"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "günəş"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "və bax"
+    },
+    {
+      "surface": "דמעת",
+      "gloss": "göz yaşı"
+    },
+    {
+      "surface": "העשקים",
+      "gloss": "məzlumların"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onların"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "təsəllisi"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "və əlindən"
+    },
+    {
+      "surface": "עשקיהם",
+      "gloss": "zalımlarının"
+    },
+    {
+      "surface": "כח",
+      "gloss": "qüdrət"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onların"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "təsəllisi"
+    }
+  ],
+  "timestamp": "2026-09-01T16:30:13.891063117Z",
+  "model": "glm-5.3"
+}

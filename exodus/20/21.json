@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Xalq uzaqda dayandı, Moşe isə Elohimin olduğu ⟨qaranlıq⟩ın ⟨içində⟩ olduğu yerə yaxınlaşdı.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "dayandı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "uzaqda"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "Moşe isə"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "yaxınlaşdı"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨yə⟩"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "⟨qaranlıq⟩ın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olduğu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yerə"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimin"
+    }
+  ],
+  "timestamp": "2026-09-01T17:56:02.057773843Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 9:12",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Və Yahve dedi: Onlar ⟨את⟩ Tövrəmi tərk etdiklərinə görə — hansını onların önünə qoydum — və səsimə qulaq asmadılar və onda gəzmədilər.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "görə"
+    },
+    {
+      "surface": "עזבם",
+      "gloss": "tərk etdiklərinə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tövrəmi"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Tövrəmi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hansını"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "qoydum"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "onların önünə"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... yox"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "qulaq asmadılar"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "səsimə"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... yox"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "gəzmədilər"
+    },
+    {
+      "surface": "בה",
+      "gloss": "onda"
+    }
+  ],
+  "timestamp": "2026-09-01T13:27:07.868306208Z",
+  "model": "glm-5.3"
+}

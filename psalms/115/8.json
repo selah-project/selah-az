@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 115,
+  "translation": "Onları düzənlər onlar ⟨kimilər⟩ olacaqlar, hamısı — onlara etibar edən hər kəs.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "onlar kimilər"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "olacaqlar"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "onları düzənlər"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamısı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "etibar edən"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onlara"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:10.928066606Z",
+  "model": "glm-5.3"
+}

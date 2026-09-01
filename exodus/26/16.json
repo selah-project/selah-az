@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "On amma ⟨bir⟩ dirəyin uzunluğu, bir amma yarım isə ⟨hər⟩ bir dirəyin eni.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "on"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amma"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "uzunluğu"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "dirəyin"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "bir amma"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "yarım"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "amma"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "eni"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "dirəyin"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "birinin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:16:38.096646707Z",
+  "model": "glm-5.3"
+}

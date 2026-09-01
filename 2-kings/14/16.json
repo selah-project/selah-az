@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 14:16",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Və Yehoaş ataları ilə yatdı və Şomronda İsrail kralları ilə dəfn olundu, və oğlu Yarovam onun yerinə kral oldu.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "yatdı"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoaş"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ataları"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "dəfn olundu"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Şomronda"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kralları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "kral oldu"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "onun yerinə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:36:15.281336926Z",
+  "model": "glm-5.3"
+}

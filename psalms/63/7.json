@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 63,
+  "translation": "Yatağımda səni xatırladığımda, gecə növbətlərində sənin haqqında düşünürəm.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "⟨−dımda⟩ (o zaman ki)"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "səni xatırladığımda"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərində"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "yatağımda"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "gecə növbətlərində"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "düşünürəm (pıçıldayıram)"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sənin haqqında"
+    }
+  ],
+  "timestamp": "2026-09-01T15:21:35.147069529Z",
+  "model": "glm-5.3"
+}

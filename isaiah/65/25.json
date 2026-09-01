@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 65:25",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 65,
+  "translation": "Canavar və quzu bir yerdə otlayacaq, şir öküz kimi saman yeyəcək, ilana isə toz olacaq onun çörəyi. Mənim müqəddəs dağımda heç nə şər etməyəcək və dağıtmayacaqlar — Yahve dedi.",
+  "tokens": [
+    {
+      "surface": "זאב",
+      "gloss": "canavar"
+    },
+    {
+      "surface": "וטלה",
+      "gloss": "və quzu"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "otlayacaq"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "bir yerdə ⟨kimi⟩"
+    },
+    {
+      "surface": "ואריה",
+      "gloss": "şir"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "öküz kimi"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yeyəcək"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "saman"
+    },
+    {
+      "surface": "ונחש",
+      "gloss": "və ilan"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "toz"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "onun çörəyi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨heç nə⟩ ... deyil"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "şər etməyəcək"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... deyil"
+    },
+    {
+      "surface": "ישחיתו",
+      "gloss": "dağıtmayacaqlar"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dağım(da)"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T13:18:53.624052284Z",
+  "model": "glm-5.3"
+}

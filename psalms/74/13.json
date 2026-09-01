@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 74:13",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 74,
+  "translation": "Sən gücündə ⟨את⟩ dənizi parçaladın, suların üstündə tənninlərin başlarını sındırdın.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sən"
+    },
+    {
+      "surface": "פוררת",
+      "gloss": "parçaladın"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "gücündə"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dənizi"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "sındırdın"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "başlarını"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "tənninlərin"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "המים",
+      "gloss": "suların"
+    }
+  ],
+  "timestamp": "2026-09-01T15:25:18.566285669Z",
+  "model": "glm-5.3"
+}

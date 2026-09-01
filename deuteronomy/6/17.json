@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 6:17",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Saxlamağı səxavətlə saxlayın ⟨את⟩ Yahvenin, sizin Elohiminizin əmrlərini və Onun şahidliklərini və Onun qanunlarını, sizə hansını buyurduğu kimi.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "saxlamağı"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "saxlayın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əmrlərini"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "əmrlərini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "sizin Elohiminizin"
+    },
+    {
+      "surface": "וועדתיו",
+      "gloss": "və Onun şahidliklərini"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "və Onun qanunlarını"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hansını"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "sizə buyurduğu"
+    }
+  ],
+  "timestamp": "2026-09-01T10:48:03.801443355Z",
+  "model": "glm-5.3"
+}

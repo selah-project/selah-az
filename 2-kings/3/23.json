@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 3:23",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Dedilər: Bu qandır! Padşahlar yəqin məhv edilib, hər kəs ⟨את⟩ yoldaşını vurub; indi isə qənimətə, ya Moav!",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Dedilər"
+    },
+    {
+      "surface": "דם",
+      "gloss": "qan"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "yəqin məhv"
+    },
+    {
+      "surface": "נחרבו",
+      "gloss": "məhv edilib"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "padşahlar"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "vurub"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər kəs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yoldaşını"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "yoldaşını"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "indi isə"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "qənimətə"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    }
+  ],
+  "timestamp": "2026-09-01T12:29:48.318271086Z",
+  "model": "glm-5.3"
+}

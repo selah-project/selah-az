@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 5:10",
+  "book": "1-samuel",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Onlar Elohim sandığını Ekrona göndərdilər. Və ⟨oldu ki⟩, Elohim sandığı Ekrona gələndə Ekronlular qışqıraraq dedilər: «Onlar məni və xalqımı öldürmək üçün İsrail Elohiminin sandığını mənim üstümə gətirdilər.»",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "göndərdilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim sandığını"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandığını"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekrona"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "və ⟨oldu ki⟩"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "gələndə"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandığı"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekrona"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "qışqıraraq"
+    },
+    {
+      "surface": "העקרנים",
+      "gloss": "Ekronlular"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dedilər"
+    },
+    {
+      "surface": "הסבו",
+      "gloss": "gətirdilər"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənim üstümə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsrail Elohiminin sandığını"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandığını"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohiminin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "məni öldürmək üçün"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ və",
+      "marks": "xalqımı"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqımı"
+    }
+  ],
+  "timestamp": "2026-09-01T11:32:48.298815478Z",
+  "model": "glm-5.3"
+}

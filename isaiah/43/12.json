@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 43:12",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 43,
+  "translation": "Mən bildirdim, qurtardım və eşitdirdim; sizin aranızda yad ⟨tanrı⟩ yox idi. Siz mənim şahidlərinizsiniz», — Yahvenin nümü ⟨dir⟩, — «və mən El-əm.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "mən"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "bildirdim"
+    },
+    {
+      "surface": "והושעתי",
+      "gloss": "və qurtardım"
+    },
+    {
+      "surface": "והשמעתי",
+      "gloss": "və eşitdirdim"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "və yox idi"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "sizin aranızda"
+    },
+    {
+      "surface": "זר",
+      "gloss": "yad"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "mənim şahidlərinizsiniz"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nümü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "və mən"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El-əm"
+    }
+  ],
+  "timestamp": "2026-09-01T13:06:43.877975172Z",
+  "model": "glm-5.3"
+}

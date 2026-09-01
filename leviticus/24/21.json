@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 24:21",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Və heyvani vuran ⟨onun⟩ əvəzini ödəyəcək, insanı vuran isə öldürüləcək.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "və vuran"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "heyvanı"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "əvəzini ödəyəcək"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "vuran"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insanı"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "öldürüləcək"
+    }
+  ],
+  "timestamp": "2026-09-01T10:30:42.529472621Z",
+  "model": "glm-5.3"
+}

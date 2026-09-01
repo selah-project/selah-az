@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 17:15",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Mən isə ədalətlə üzünü görəcəyəm; oyandıqda surətinlə doyacağam.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ədalətlə"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "görəcəyəm"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "üzünü"
+    },
+    {
+      "surface": "אשבעה",
+      "gloss": "doyacağam"
+    },
+    {
+      "surface": "בהקיץ",
+      "gloss": "oyandıqda"
+    },
+    {
+      "surface": "תמונתך",
+      "gloss": "surətinlə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:03:42.666858488Z",
+  "model": "glm-5.3"
+}

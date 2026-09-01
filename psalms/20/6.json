@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 20:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Sənin qurtuluşunda səsimizi ucaldacağıq və Elohimimizin adı ilə bayraq dirək yekəcəyik; Yahve bütün istəklərini yerinə yetirsin.",
+  "tokens": [
+    {
+      "surface": "נרננה",
+      "gloss": "səsimizi ucaldacağıq"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "sənin qurtuluşunda"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "və ... adı ilə"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimizin"
+    },
+    {
+      "surface": "נדגל",
+      "gloss": "bayraq dirək yekəcəyik"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "yerinə yetirsin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "משאלותיך",
+      "gloss": "istəklərini"
+    }
+  ],
+  "timestamp": "2026-09-01T17:53:13.241582267Z",
+  "model": "glm-5.3"
+}

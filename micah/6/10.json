@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 6:10",
+  "book": "micah",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Hələmi raşanın evində pislik xəzinələri ⟨var⟩, və daraldılmış efə ⟨ölçüsü⟩ — lənətlənmişdir?",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "hələ"
+    },
+    {
+      "surface": "האש",
+      "gloss": "⟨mı⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evində"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "raşanın"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "xəzinələri"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "pislik"
+    },
+    {
+      "surface": "ואיפת",
+      "gloss": "və efə ⟨ölçüsü⟩"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "daraldılmış"
+    },
+    {
+      "surface": "זעומה",
+      "gloss": "lənətlənmişdir"
+    }
+  ],
+  "timestamp": "2026-09-01T14:48:37.293181175Z",
+  "model": "glm-5.3"
+}

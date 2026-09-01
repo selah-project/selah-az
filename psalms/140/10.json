@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 140,
+  "translation": "Məni dövrəyə alanların başını — öz dodaqlarının əzişinə ⟨burax⟩, onları örtsün.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "başını"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "məni dövrəyə alanların"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "əziş"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "dodaqlarının"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "örtsün"
+    }
+  ],
+  "timestamp": "2026-09-01T15:44:34.829946355Z",
+  "model": "glm-5.3"
+}

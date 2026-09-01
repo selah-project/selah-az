@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 7:17",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Yahve sənin üstünə, xalqının üstünə və ata evinin üstünə o günləri gətirəcək — Efrayim Yehudadan ayrıldığı gündən bəri gəlməyən günləri — ⟨את⟩ Aşşur padşahını.",
+  "tokens": [
+    {
+      "surface": "יביא",
+      "gloss": "gətirəcək"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sənin üstünə"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "və ... üstünə"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "xalqının"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "və ... üstünə"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "atanın"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günləri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "gəlməyən"
+    },
+    {
+      "surface": "באו",
+      "gloss": "gəldilər"
+    },
+    {
+      "surface": "למיום",
+      "gloss": "gündən bəri"
+    },
+    {
+      "surface": "סור",
+      "gloss": "ayrıldığı"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "...dan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aşşur padşahını"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşşur"
+    }
+  ],
+  "timestamp": "2026-09-01T12:49:10.199388753Z",
+  "model": "glm-5.3"
+}

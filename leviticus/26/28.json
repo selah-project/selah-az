@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 26:28",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Mən də qəzəbli qarşıdurmada sizinlə yeriyəcəyəm və sizi ⟨את⟩ yeddi dəfə, Mən də, günahlarınızın üstünə cəzalandıracağam.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "yeriyəcəyəm"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "sizinlə"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "qəzəbli"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "qarşıdurmada"
+    },
+    {
+      "surface": "ויסרתי",
+      "gloss": "və cəzalandıracağam"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "də"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yeddi dəfə"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "günahlarınızın"
+    }
+  ],
+  "timestamp": "2026-09-01T10:31:58.684405191Z",
+  "model": "glm-5.3"
+}

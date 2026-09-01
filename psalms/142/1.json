@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 142,
+  "translation": "Maskil (dərslər verən şeir) — Davuda aiddir, o mağarada olanda ⟨duadır⟩.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Maskil (didaktik şeir)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davuda aiddir"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "o olanda"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "mağarada"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "dua"
+    }
+  ],
+  "timestamp": "2026-09-01T15:44:54.017112277Z",
+  "model": "glm-5.3"
+}

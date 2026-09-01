@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 62,
+  "translation": "Yalnız Odur qayam və xilasım; sığınacaq yerimdir, O — titrəmərəm.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "O"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "qayam"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "və xilasım"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "sığınacaq yerimdir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "titrəmərəm"
+    }
+  ],
+  "timestamp": "2026-09-01T15:20:50.524146320Z",
+  "model": "glm-5.3"
+}

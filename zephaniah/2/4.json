@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 2:4",
+  "book": "zephaniah",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Çünki Azza tərk ediləcək, və Aşkelon viranəliyə çevriləcək; Aşdod günorta çağı qovulacaq, və Ekron kökündən söküləcək.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azza"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "tərk ediləcək"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨olacaq⟩"
+    },
+    {
+      "surface": "ואשקלון",
+      "gloss": "və Aşkelon"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "viranəliyə"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Aşdod"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "günorta çağı"
+    },
+    {
+      "surface": "יגרשוה",
+      "gloss": "qovulacaq"
+    },
+    {
+      "surface": "ועקרון",
+      "gloss": "və Ekron"
+    },
+    {
+      "surface": "תעקר",
+      "gloss": "kökündən söküləcək"
+    }
+  ],
+  "timestamp": "2026-09-01T14:52:12.505788630Z",
+  "model": "glm-5.3"
+}

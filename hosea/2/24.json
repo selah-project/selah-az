@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və yer cavab verəcək ⟨את⟩ dənə, ⟨את⟩ yeni şərab və ⟨את⟩ yağ; və onlar Yizreelə cavab verəcəklər ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "və yer"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "cavab verəcək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dənə"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "dən"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yeni şərab"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "yeni şərab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yağ"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "yağ"
+    },
+    {
+      "surface": "והם",
+      "gloss": "və onlar"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "cavab verəcəklər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yizreelə"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    }
+  ],
+  "timestamp": "2026-09-01T14:33:50.192303705Z",
+  "model": "glm-5.3"
+}

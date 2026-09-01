@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 8:22",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və yerə baxacaq — bax, sıxıntı və qaranlıq, ənginlik zülməti, qovulmuş qaranlıq.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "və …"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerə"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "baxacaq"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "sıxıntı"
+    },
+    {
+      "surface": "וחשכה",
+      "gloss": "və qaranlıq"
+    },
+    {
+      "surface": "מעוף",
+      "gloss": "qaranlıq"
+    },
+    {
+      "surface": "צוקה",
+      "gloss": "ənginlik"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "zülmət"
+    },
+    {
+      "surface": "מנדח",
+      "gloss": "qovulmuş"
+    }
+  ],
+  "timestamp": "2026-09-01T12:48:06.165239316Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 17:3",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Və xalq orada suya susadı; xalq Moşedən şikayətləndi və dedi: «Nə üçün bizi Mitsrayimdan ⟨bizi⟩ çıxartdın — məni ⟨את⟩, oğullarımı ⟨את⟩ və mal-qaramı ⟨את⟩ susuzluqla öldürmək üçün?»",
+  "tokens": [
+    {
+      "surface": "ויצמא",
+      "gloss": "susadı"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "למים",
+      "gloss": "suya"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "şikayətləndi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "על",
+      "gloss": "-dən"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nə üçün"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "çıxartdın"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayimdan"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "öldürmək üçün"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "məni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oğullarımı"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarımı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mal-qaramı"
+    },
+    {
+      "surface": "מקני",
+      "gloss": "mal-qaramı"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "susuzluqla"
+    }
+  ],
+  "timestamp": "2026-09-01T10:12:34.034863176Z",
+  "model": "glm-5.3"
+}

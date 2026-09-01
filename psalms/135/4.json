@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 135,
+  "translation": "Çünki Yah Yaqubu özünə seçdi, İsraili öz sərvətinə.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqubu"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "seçdi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "özünə"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsraili"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "öz sərvətinə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:43:17.632988159Z",
+  "model": "glm-5.3"
+}

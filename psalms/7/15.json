@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Bax, o, günahla doğuş sancısı çəkir, əziyyətə hamilədir və yalan doğur.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bax"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "doğuş sancısı çəkir"
+    },
+    {
+      "surface": "און",
+      "gloss": "günahla"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "hamilədir"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "əziyyətə"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "və doğur"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yalan"
+    }
+  ],
+  "timestamp": "2026-09-01T17:41:56.075812273Z",
+  "model": "glm-5.3"
+}

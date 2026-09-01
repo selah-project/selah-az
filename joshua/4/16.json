@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "book": "joshua",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Daşıyıcıları, şəhadət sandığının, kohanimlərə əmr et ki Yardandan çıxsınlar.",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "əmr et"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kohanimlərə"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohanimlər"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "daşıyıcıları"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandığının"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "şəhadət"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "çıxsınlar"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardan"
+    }
+  ],
+  "timestamp": "2026-09-01T11:01:19.577455263Z",
+  "model": "glm-5.3"
+}

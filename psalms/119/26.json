@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 119:26",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Yollarımı danışdım və Sən mənə cavab verdin; mənə qanunlarını öyrət.",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "yollarımı"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "danışdım"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "və mənə cavab verdin"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "mənə öyrət"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "qanunlarını"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:37.231723607Z",
+  "model": "glm-5.3"
+}

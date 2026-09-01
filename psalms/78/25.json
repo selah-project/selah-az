@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 78,
+  "translation": "Əzəmətlilərin çörəyini yeddi ⟨hər⟩ insan, onlara doyuncaları üçün yemək göndərdi.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "çörəyini"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "əzəmətlilərin"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yeddi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "insan"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "yemək"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "göndərdi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "doyuncaları üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T15:26:16.546653038Z",
+  "model": "glm-5.3"
+}

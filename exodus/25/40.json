@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 25:40",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Və gör və düzəlt onların nümunəsinə görə, sənə dağda göstəriləni.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "və gör"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "və düzəlt"
+    },
+    {
+      "surface": "בתבניתם",
+      "gloss": "onların nümunəsinə görə"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "göstəriləni"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "dağda"
+    }
+  ],
+  "timestamp": "2026-09-01T17:27:22.014914431Z",
+  "model": "glm-5.3"
+}

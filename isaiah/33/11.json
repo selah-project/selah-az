@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 33:11",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "Hamilə qaldınız saman ⟨ üçün ⟩, doğdunuz saman; nəfəsiniz od ⟨ki⟩ sizi yeyəcək.",
+  "tokens": [
+    {
+      "surface": "תהרו",
+      "gloss": "hamilə qaldınız"
+    },
+    {
+      "surface": "חשש",
+      "gloss": "quru ot"
+    },
+    {
+      "surface": "תלדו",
+      "gloss": "doğdunuz"
+    },
+    {
+      "surface": "קש",
+      "gloss": "saman"
+    },
+    {
+      "surface": "רוחכם",
+      "gloss": "nəfəsiniz"
+    },
+    {
+      "surface": "אש",
+      "gloss": "od"
+    },
+    {
+      "surface": "תאכלכם",
+      "gloss": "sizi yeyəcək"
+    }
+  ],
+  "timestamp": "2026-09-01T12:59:17.897148358Z",
+  "model": "glm-5.3"
+}

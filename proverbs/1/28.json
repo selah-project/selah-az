@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 1:28",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "O zaman mənə səslənəcəklər, amma cavab verməyəcəyəm; məni erkən axtaracaqlar, amma məni tapmayacaqlar.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "O zaman"
+    },
+    {
+      "surface": "יקראנני",
+      "gloss": "mənə səslənəcəklər"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "cavab verməyəcəyəm"
+    },
+    {
+      "surface": "ישחרנני",
+      "gloss": "məni erkən axtaracaqlar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma"
+    },
+    {
+      "surface": "ימצאנני",
+      "gloss": "məni tapmayacaqlar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:47:51.251910691Z",
+  "model": "glm-5.3"
+}

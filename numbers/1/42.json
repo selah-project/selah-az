@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 1:42",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Naftali oğulları — nəsilləri, ailələrinə görə, atalarının evinə görə, adların sayına görə, iyirmi yaşından yuxarı, orduya çıxa bilən hamı ⟨idi⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "nəsilləri"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ailələrinə görə"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "evinə"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "atalarının"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "sayına görə"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "adların"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "yaşından"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iyirmi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yaş"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "yuxarı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamı"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "çıxa bilən"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "orduya"
+    }
+  ],
+  "timestamp": "2026-09-01T10:32:04.574272628Z",
+  "model": "glm-5.3"
+}

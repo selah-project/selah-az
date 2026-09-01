@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 90:15",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 90,
+  "translation": "Bizi səni sıxıntıya saldığın günlər ⟨qədər⟩, şər gördüyümüz illər ⟨qədər⟩ sevinclə şad et.",
+  "tokens": [
+    {
+      "surface": "שמחנו",
+      "gloss": "şad et bizi"
+    },
+    {
+      "surface": "כימות",
+      "gloss": "günlər ⟨qədər⟩"
+    },
+    {
+      "surface": "עניתנו",
+      "gloss": "sən sıxıntıya saldığın"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "illər"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "gördüyümüz"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "şər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:31:50.294550234Z",
+  "model": "glm-5.3"
+}

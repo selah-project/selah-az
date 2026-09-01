@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "çünki gözləriniz Yahvenin bütün böyük əməlini — ⟨onun⟩ etdiyi ⟨əməli⟩ gördü.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "gözləriniz"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "gördü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün əməli (כל מעשה)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "əməli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etdi"
+    }
+  ],
+  "timestamp": "2026-09-01T10:49:41.367118805Z",
+  "model": "glm-5.3"
+}

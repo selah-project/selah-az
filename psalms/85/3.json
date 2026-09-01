@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 85,
+  "translation": "Xalqının günah yükünü götürdün, onların bütün günahlarını örtüb gizlətdin. Selah.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "götürdün"
+    },
+    {
+      "surface": "עון",
+      "gloss": "günah yükünü"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "xalqının"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "örtüb gizlətdin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "günahlarını"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:10.253797533Z",
+  "model": "glm-5.3"
+}

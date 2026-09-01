@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 4:4",
+  "book": "micah",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və hər kəs öz tinəti altında, öz əncir ağacı altında oturacaq və qorxudan olmayacaq, çünki Tsavaot Yahvenin ağzı danışıb.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Və oturacaqlar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər kəs"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "öz tinəti"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "və altında"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "öz əncir ağacı"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "və olmayacaq"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "qorxudan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsavaotun"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "danışıb"
+    }
+  ],
+  "timestamp": "2026-09-01T14:47:31.578218015Z",
+  "model": "glm-5.3"
+}

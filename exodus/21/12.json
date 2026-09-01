@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Bir adamı vuran və o ölsə — ölüm ilə öldüriləcək.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "vuran"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir adamı"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "və o ölsə"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölüm ilə"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "öldüriləcək"
+    }
+  ],
+  "timestamp": "2026-09-01T10:13:22.529958537Z",
+  "model": "glm-5.3"
+}

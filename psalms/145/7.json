@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 145:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 145,
+  "translation": "Böyük yaxşılığının yadını qaynarca danışacaqlar, və salehliyini sevinclə oxuyacaqlar.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "yadını"
+    },
+    {
+      "surface": "רב",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "yaxşılığının"
+    },
+    {
+      "surface": "יביעו",
+      "gloss": "qaynarca danışacaqlar"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "və salehliyini"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "sevinclə oxuyacaqlar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:33.858212778Z",
+  "model": "glm-5.3"
+}

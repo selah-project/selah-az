@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 17:16",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Un qabı tükənmədi və yağ küpü azalmadı — Yahvenin Eliyahunun əli ilə danışdığı sözə görə.",
+  "tokens": [
+    {
+      "surface": "כד",
+      "gloss": "qab"
+    },
+    {
+      "surface": "הקמח",
+      "gloss": "un"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "tükənmədi"
+    },
+    {
+      "surface": "וצפחת",
+      "gloss": "və küp"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "yağ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "azalmadı"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sözünə görə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "danışdığı"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "əli ilə"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahunun"
+    }
+  ],
+  "timestamp": "2026-09-01T12:22:26.452727796Z",
+  "model": "glm-5.3"
+}

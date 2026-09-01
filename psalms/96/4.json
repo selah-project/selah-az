@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 96,
+  "translation": "Çünki Yahve böyükdür və çox tərifəlayiqdir, bütün tanrılardan qorxulandır ⟨o⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "böyükdür"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "və tərifəlayiqdir"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çox"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "qorxulandır"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "−dan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tanrılardan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:32:19.049428270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 16:14",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Padşahın qəzəbi ölüm elçiləridir, amma müdrik adam onu yatızdar.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "qəzəbi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Padşahın"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "elçiləri"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölüm"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "amma adam"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "müdrik"
+    },
+    {
+      "surface": "יכפרנה",
+      "gloss": "onları yatızdar"
+    }
+  ],
+  "timestamp": "2026-09-01T17:44:08.327255694Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 27:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Bir şey istədim Yahvedən ⟨את⟩ — ⟨את⟩ onu axtaracağam: Yahvenin evində oturmaq, həyatımın bütün günləri, Yahvenin gözəlliyinə baxmaq və onun məbədində araşdırmaq.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Bir şey"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "istədim"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "Yahvedən ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ onu"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "axtaracağam"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "oturmaq"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "evində"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "günləri"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "həyatımın"
+    },
+    {
+      "surface": "לחזות",
+      "gloss": "baxmaq"
+    },
+    {
+      "surface": "בנעם",
+      "gloss": "gözəlliyinə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "və araşdırmaq"
+    },
+    {
+      "surface": "בהיכלו",
+      "gloss": "onun məbədində"
+    }
+  ],
+  "timestamp": "2026-09-01T15:10:02.212001626Z",
+  "model": "glm-5.3"
+}

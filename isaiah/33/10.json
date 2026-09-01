@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 33:10",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "«İndi qalxaram», — deyir Yahve, — «indi ucalarım, indi özümü yüksəldəcəyəm».",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "İndi"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "qalxaram"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ארומם",
+      "gloss": "ucalarım"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "özümü yüksəldəcəyəm"
+    }
+  ],
+  "timestamp": "2026-09-01T12:59:17.897016278Z",
+  "model": "glm-5.3"
+}

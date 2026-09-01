@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 78,
+  "translation": "Və onları aramlıqla yol saldı, onlar qorxmadılar; dəniz isə ⟨את⟩ düşmənlərini örtdü.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "yol saldı"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "aramlıqla"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və... qorxmadılar"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "qorxmadılar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "düşmənlərini"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "düşmənlərini"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "örtüdü"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dəniz"
+    }
+  ],
+  "timestamp": "2026-09-01T15:26:45.258477777Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 12:15",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Yalnız nəfşinin bütün arzusu ilə kəsib ət yeyə bilərsən — Yahve Elohiminin sənə bütün qapılarında verdiyi bərəkətə görə; murdar da, təmiz də onu yeyə bilər, ceyran kimi və maral kimi.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "אות",
+      "gloss": "arzusu"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nəfşinin"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "kəsə bilərsən"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "yeyə"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ət"
+    },
+    {
+      "surface": "כברכת",
+      "gloss": "bərəkətinə görə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiminin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verdiyi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "qapılarında"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "murdar"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "təmiz"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "onu yeyə bilər"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "ceyran kimi"
+    },
+    {
+      "surface": "וכאיל",
+      "gloss": "və maral kimi"
+    }
+  ],
+  "timestamp": "2026-09-01T17:30:30.320129126Z",
+  "model": "glm-5.3"
+}

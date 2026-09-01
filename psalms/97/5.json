@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 97,
+  "translation": "Dağlar, mum kimi, Yahvenin hüzurunda əridi, bütün yerin Adonayının hüzurunda.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "dağlar"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "mum kimi"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "əridi"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "hüzurunda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "hüzurunda"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonayının"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:33:03.086503510Z",
+  "model": "glm-5.3"
+}

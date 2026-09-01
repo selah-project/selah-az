@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 5:3",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "on başlı mal — kök, iyirmi başlı mal — otlaqdan, yüz qoyun; dağ keçisi, ceyran, maral və yemlənmiş toyuqlardan əlavə.",
+  "tokens": [
+    {
+      "surface": "עשרה",
+      "gloss": "on"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "başlı mal"
+    },
+    {
+      "surface": "בראים",
+      "gloss": "kök"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "iyirmi"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "başlı mal"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "otlaqdan"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "qoyun"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "əlavə"
+    },
+    {
+      "surface": "מאיל",
+      "gloss": "dağ keçisindən"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "ceyrandan"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "maraldan"
+    },
+    {
+      "surface": "וברברים",
+      "gloss": "toyuqlardan"
+    },
+    {
+      "surface": "אבוסים",
+      "gloss": "yemlənmiş"
+    }
+  ],
+  "timestamp": "2026-09-01T12:14:43.898149088Z",
+  "model": "glm-5.3"
+}

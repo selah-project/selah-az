@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 83,
+  "translation": "Çünki bax, düşmənlərin səs-küy salır, səni söyənlər baş qaldırır.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "düşmənlərin"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "səs-küy salır"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "səni söyənlər"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "qaldırır"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "baş"
+    }
+  ],
+  "timestamp": "2026-09-01T15:28:09.663039092Z",
+  "model": "glm-5.3"
+}

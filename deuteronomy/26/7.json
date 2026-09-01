@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 26:7",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Və Yahveyə, atalarımızın Elohiminə fəryad etdik, və Yahve eşitdi səsimizi ⟨את⟩, və gördü bizim our dilənciliyimizi ⟨את⟩, zəhmətimizi ⟨את⟩ və sıxıntımızı ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וַנִּצְעַק",
+      "gloss": "fəryad etdik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-yə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohiminə"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "atalarımızın"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "eşitdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "səsimizi"
+    },
+    {
+      "surface": "קלנו",
+      "gloss": "səsimizi"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "gördü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dilənciliyimizi"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "dilənciliyimizi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zəhmətimizi"
+    },
+    {
+      "surface": "עמלנו",
+      "gloss": "zəhmətimizi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sıxıntımızı"
+    },
+    {
+      "surface": "לחצנו",
+      "gloss": "sıxıntımızı"
+    }
+  ],
+  "timestamp": "2026-09-01T10:54:25.804319045Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 87,
+  "ref": "psalms 119:87",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Yer üzündə məni az qala yox etdilər, mən isə Sənin əmrlərini tərk etmədim.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "az qala"
+    },
+    {
+      "surface": "כלוני",
+      "gloss": "məni yox etdilər"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yer üzündə"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mən isə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…mədım"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "tərk et"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "Sənin əmrlərini"
+    }
+  ],
+  "timestamp": "2026-09-01T17:43:22.387007803Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 1:18",
+  "book": "job",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Bu ⟨kimsə⟩ danışarkən başqa biri gəldi və dedi: Oğulların və qızların böyük qardaşlarının — ⟨ən böyüyün⟩ — evində yemək yeyir və şərab içirdilər.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "-rkən"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "danışır"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "və başqa biri"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gəldi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "oğulların"
+    },
+    {
+      "surface": "ובנותיך",
+      "gloss": "və qızların"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "yeyirdilər"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "və içirdilər"
+    },
+    {
+      "surface": "יין",
+      "gloss": "şərab"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "evində"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "qardaşlarının"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "birincidoğulmuş"
+    }
+  ],
+  "timestamp": "2026-09-01T18:02:41.775698449Z",
+  "model": "glm-5.3"
+}

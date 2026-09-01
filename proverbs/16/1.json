@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 16:1",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "İnsanın qəlbində ⟨onun⟩ planları ⟨olsa da⟩, dilin cavabı Yahvendəndir.",
+  "tokens": [
+    {
+      "surface": "לאדם",
+      "gloss": "İnsana aiddir"
+    },
+    {
+      "surface": "מערכי",
+      "gloss": "planları"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qəlbin"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "Yahvendən isə"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "cavabı"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "dilin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:54:25.798566614Z",
+  "model": "glm-5.3"
+}

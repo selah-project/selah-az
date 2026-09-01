@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 26:6",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "O, çıxıb Filiştimlilərlə vuruşdu və ⟨את⟩ Qatın divarını, ⟨את⟩ Yavnenin divarını və ⟨את⟩ Aşdodun divarını yıxdı; Aşdodda və Filiştimdə şəhərlər tikdi.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "çıxıb"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "vuruşdu"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "Filiştimlilərlə"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "yıxdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qatın divarını"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "divarını"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Qatın"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "Yavnenin divarını"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "divarını"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "Yavnenin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "Aşdodun divarını"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "divarını"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Aşdodun"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "tikdi"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "şəhərlər"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "Aşdodda"
+    },
+    {
+      "surface": "ובפלשתים",
+      "gloss": "və Filiştimdə"
+    }
+  ],
+  "timestamp": "2026-09-01T17:20:31.486848657Z",
+  "model": "glm-5.3"
+}

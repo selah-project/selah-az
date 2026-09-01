@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Və ⟨את⟩ onun iki oğlunu — birinin adı Gerşom idi, çünki demişdi: 'Mən yad torpaqda qonaq oldum'.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iki oğlunu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iki"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "onun oğlunu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adı"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "birinin"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gerşom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "demişdi"
+    },
+    {
+      "surface": "גר",
+      "gloss": "qonaq"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "oldum"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "torpaqda"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "yad"
+    }
+  ],
+  "timestamp": "2026-09-01T10:12:17.888187147Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 63,
+  "translation": "Çünki ⟨Sənin⟩ hesed-in həyatdan yaxşıdır, ona görə dodaqlarım Səni tərifləyir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşıdır"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-in"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "həyatdan"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "dodaqlarım"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "Səni tərifləyir"
+    }
+  ],
+  "timestamp": "2026-09-01T17:42:27.579928007Z",
+  "model": "glm-5.3"
+}

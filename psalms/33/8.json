@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 33:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "Yahvedən qorxsun bütün yer, Ondan titrəsin bütün dünyanın sakinləri.",
+  "tokens": [
+    {
+      "surface": "ייראו",
+      "gloss": "qorxsun"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Yahvedən"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "Ondan"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "titrəsin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "sakinləri"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dünyanın"
+    }
+  ],
+  "timestamp": "2026-09-01T15:10:32.942400062Z",
+  "model": "glm-5.3"
+}

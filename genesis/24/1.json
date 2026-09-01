@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Avraham qoca idi, günlərə daxil olmuşdu, və Yahve Avrahamı ⟨את⟩ hər şeydə bərəkətləmişdi.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "və Avraham"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "qoca idi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "daxil olmuşdu"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "günlərə"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "və Yahve"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "bərəkətləmişdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahamı"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamı"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hər şeydə"
+    }
+  ],
+  "timestamp": "2026-09-01T09:52:34.638485305Z",
+  "model": "glm-5.3"
+}

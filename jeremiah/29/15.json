@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 29:15",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "Çünki siz dediniz: «Yahve bizim üçün Babeldə peyğəmbərlər qaldırdı» —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "siz dediniz"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "qaldırdı"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizim üçün"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "peyğəmbərlər"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Babeldə"
+    }
+  ],
+  "timestamp": "2026-09-01T13:42:20.333050585Z",
+  "model": "glm-5.3"
+}

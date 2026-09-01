@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Və əgər bir kişi qızını ⟨את⟩ cariyə kimi satsa, o qulların çıxdığı kimi çıxmaz.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "satsa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir kişi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qızını"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "qızını"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "cariyə kimi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "çıxmaz"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "çıxdığı kimi"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "qulların"
+    }
+  ],
+  "timestamp": "2026-09-01T10:15:20.955027404Z",
+  "model": "glm-5.3"
+}

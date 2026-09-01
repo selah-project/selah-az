@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 2:14",
+  "book": "judges",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Yahvenin qəzəbi Yisrayelə alovlandı və onları yağmalayanların əlinə verdi; onlar da onları yağmaladılar, və onları ətrafdakı düşmənlərinin əlinə sataraq ⟨onlar⟩ artıq düşmənlərinin üzündə dura bilmədilər.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "alovlandı"
+    },
+    {
+      "surface": "אף",
+      "gloss": "qəzəbi (burnu)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Yisrayelə"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "verdi onları"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "əlinə"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "yağmalayanların"
+    },
+    {
+      "surface": "וישסו",
+      "gloss": "yağmaladılar"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ onları",
+      "marks": "onları"
+    },
+    {
+      "surface": "וימכרם",
+      "gloss": "sataraq onları"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "əlinə"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "düşmənlərinin"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ətrafdakı"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... yox"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "bilmədilər"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "artıq"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "dura"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "üzündə"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "düşmənlərinin"
+    }
+  ],
+  "timestamp": "2026-09-01T11:14:42.793647886Z",
+  "model": "glm-5.3"
+}

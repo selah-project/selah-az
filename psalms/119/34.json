@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 119:34",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Mənə anlama ver, və Tövratını saxlayacağam, və onu bütün ürəklə gözələyəcəyəm.",
+  "tokens": [
+    {
+      "surface": "הבינני",
+      "gloss": "mənə anlama ver"
+    },
+    {
+      "surface": "ואצרה",
+      "gloss": "və saxlayacağam"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tövratını"
+    },
+    {
+      "surface": "ואשמרנה",
+      "gloss": "və onu gözələyəcəyəm"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ürəklə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:45.204906225Z",
+  "model": "glm-5.3"
+}

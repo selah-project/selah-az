@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 18:19",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Qarşıma çıxdılar bəla günümdə, və Yahve oldu səngərim ⟨mənim üçün⟩.",
+  "tokens": [
+    {
+      "surface": "יקדמוני",
+      "gloss": "qarşıma çıxdılar"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "günümdə"
+    },
+    {
+      "surface": "אידי",
+      "gloss": "bəla"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "və oldu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "למשען",
+      "gloss": "səngər"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨mənim üçün⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T15:06:51.602693540Z",
+  "model": "glm-5.3"
+}

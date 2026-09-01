@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Şelomo ⟨את⟩ Gezeri və ⟨את⟩ aşağı Beit-Horonu tikdi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "tikdi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezeri"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezeri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Beit-Horonu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Horonu"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "aşağı"
+    }
+  ],
+  "timestamp": "2026-09-01T12:17:24.589043751Z",
+  "model": "glm-5.3"
+}

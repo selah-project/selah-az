@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Yahve Elohim insana əmr edib dedi: Bağçanın hər ağacından sən yeyə bilərsən, yeyərsən.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "əmr edib"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "...-a"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insana"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "hər ...-dan"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ağacından"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "bağçanın"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yeyə bilərsən"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yeyərsən"
+    }
+  ],
+  "timestamp": "2026-09-01T09:45:59.694507733Z",
+  "model": "glm-5.3"
+}

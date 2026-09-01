@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "habakkuk 1:17",
+  "book": "habakkuk",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Buna görədirsə o, torunu boşaldacaq, və millətləri öldürməyə davam edəcək, rəhm etməyəcək?",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "buna görədirsə"
+    },
+    {
+      "surface": "כן",
+      "gloss": "buna görə"
+    },
+    {
+      "surface": "יריק",
+      "gloss": "boşaldacaq"
+    },
+    {
+      "surface": "חרמו",
+      "gloss": "torunu"
+    },
+    {
+      "surface": "ותמיד",
+      "gloss": "və davam edəcək"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "öldürməyə"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "millətləri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יחמול",
+      "gloss": "rəhm edəcək"
+    }
+  ],
+  "timestamp": "2026-09-01T14:47:36.407136327Z",
+  "model": "glm-5.3"
+}

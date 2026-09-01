@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Məzmur, Davuda aiddir. Yahve, kim sənin çadırında qonaq olacaq, kim sənin müqəddəs dağında sakin olacaq?",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Məzmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davuda aiddir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "qonaq olacaq"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "sənin çadırında"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "sakin olacaq"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "dağında"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "sənin müqəddəs ⟨dağında⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T15:05:05.900044367Z",
+  "model": "glm-5.3"
+}

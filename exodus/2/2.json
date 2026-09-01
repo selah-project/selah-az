@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və qadın hamilə oldu və oğlan doğdu, və onu ⟨את⟩ gördü — ki ⟨o⟩ yaxşıdır — və onu üç ay gizlətdi.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "hamilə oldu"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "qadın"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "doğdu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlan"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "gördü"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşıdır"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "gizlətdi"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "üç"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "ay"
+    }
+  ],
+  "timestamp": "2026-09-01T10:04:38.881603057Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Mitsrayim ⟨את⟩ Yisrael oğullarını amansızlıqla işlətdi.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "işlətdi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael oğullarını"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "amansızlıqla"
+    }
+  ],
+  "timestamp": "2026-09-01T10:03:54.433546471Z",
+  "model": "glm-5.3"
+}

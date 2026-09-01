@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 19:22",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "İnsanın arzusu onun hesedidir (mərhəmətidir); yoxsul adam yalançı adamdan yaxşıdır.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "arzusu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insanın"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "onun hesedi (mərhəməti)"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "və ... yaxşıdır"
+    },
+    {
+      "surface": "רש",
+      "gloss": "yoxsul"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "adamdan"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "yalançı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:55:42.135612339Z",
+  "model": "glm-5.3"
+}

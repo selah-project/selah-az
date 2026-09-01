@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 19:9",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Və o, oraya gəldi, ⟨mağaraya⟩ daxil oldu və orada gecələdi; və bax, Yahvenin sözü ona ⟨gəldi⟩ və ona dedi: \"Sənə nə olub burada, Eliyahu?\"",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "gəldi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "oraya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨mağaraya⟩"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "mağara"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "gecələdi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "və bax"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "söz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "פה",
+      "gloss": "burada"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    }
+  ],
+  "timestamp": "2026-09-01T17:59:19.430071857Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Vay sənə, ölkə, kralın ⟨olan⟩ oğlandır, sərinlərin isə səhər yeyirlər!",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "vay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ölkə"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "נער",
+      "gloss": "oğlandır"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "və sərinlərin"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "səhər"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "yeyirlər"
+    }
+  ],
+  "timestamp": "2026-09-01T16:31:13.150948236Z",
+  "model": "glm-5.3"
+}

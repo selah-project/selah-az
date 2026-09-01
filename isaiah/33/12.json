@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 33:12",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "Və xalqlar əyriş yanğısı kimi ⟨olacaqlar⟩; kəsilmiş tikanlar kimi odda yanacaqlar.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "və ⟨olacaqlar⟩"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "משרפות",
+      "gloss": "yanğılar"
+    },
+    {
+      "surface": "שיד",
+      "gloss": "əyriş (sönmüş əhəng)"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "tikanlar"
+    },
+    {
+      "surface": "כסוחים",
+      "gloss": "kəsilmiş"
+    },
+    {
+      "surface": "באש",
+      "gloss": "odda"
+    },
+    {
+      "surface": "יצתו",
+      "gloss": "yanacaqlar"
+    }
+  ],
+  "timestamp": "2026-09-01T12:59:17.897265631Z",
+  "model": "glm-5.3"
+}

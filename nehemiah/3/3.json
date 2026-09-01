@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 3:3",
+  "book": "nehemiah",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və ⟨את⟩ Balıq qapısını Hasenaah oğulları tikdilər; onlar onu örtülədilər və qapılarını, kilidlərini və suğurlarını qaldırdılar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Balıq qapısı"
+    },
+    {
+      "surface": "שער",
+      "gloss": "qapısını"
+    },
+    {
+      "surface": "הדגים",
+      "gloss": "Balıq"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "tikdilər"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "Hasenaah"
+    },
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "קרוהו",
+      "gloss": "onu örtülədilər"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "qaldırdılar"
+    },
+    {
+      "surface": "דלתתיו",
+      "gloss": "qapılarını"
+    },
+    {
+      "surface": "מנעוליו",
+      "gloss": "kilidlərini"
+    },
+    {
+      "surface": "ובריחיו",
+      "gloss": "suğurlarını"
+    }
+  ],
+  "timestamp": "2026-09-01T16:55:22.257515184Z",
+  "model": "glm-5.3"
+}

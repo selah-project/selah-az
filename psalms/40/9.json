@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "Sənin iradəni yerinə yetirmək, Elohimim, mənə xoşdur; Sənin Tövrətin qarnımın içindədir.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "yerinə yetirmək"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "Sənin iradəni"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "mənə xoşdur"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "Sənin Tövrətin"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "içində"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "qarnımın"
+    }
+  ],
+  "timestamp": "2026-09-01T15:13:35.674436207Z",
+  "model": "glm-5.3"
+}

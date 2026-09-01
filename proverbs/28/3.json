@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 28:3",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "Yoxsul adam, zəifləri əzən, süpürüb aparan yağışdır, çörək yoxdur.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "adam"
+    },
+    {
+      "surface": "רש",
+      "gloss": "yoxsul"
+    },
+    {
+      "surface": "ועשק",
+      "gloss": "əzən"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "zəifləri"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "yağış"
+    },
+    {
+      "surface": "סחף",
+      "gloss": "süpürüb aparan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "çörək"
+    }
+  ],
+  "timestamp": "2026-09-01T16:01:00.563620519Z",
+  "model": "glm-5.3"
+}

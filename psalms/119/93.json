@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 93,
+  "ref": "psalms 119:93",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Əbədi olaraq buyuruqlarını unutmayacağam, çünki onlarla məni diriltdin.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "əbədi olaraq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "unutmayacağam"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "buyuruqlarını"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onlarla"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "məni diriltdin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:27.942811269Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 14:28",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Xalqın çoxluğunda padşahın əzəməti ⟨vardır⟩, amma xalqın tükənməsində hökmdarın məhvu.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "çoxluğunda"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalqın"
+    },
+    {
+      "surface": "הדרת",
+      "gloss": "əzəməti"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşahın"
+    },
+    {
+      "surface": "ובאפס",
+      "gloss": "amma ... tükənməsində"
+    },
+    {
+      "surface": "לאם",
+      "gloss": "xalqın"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "məhvu"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "hökmdarın"
+    }
+  ],
+  "timestamp": "2026-09-01T15:53:36.002371442Z",
+  "model": "glm-5.3"
+}

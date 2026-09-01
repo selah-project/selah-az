@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 14:8",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Ehtiyatlı adamın hikməti öz yolunu anlamaqdır; kəsillərin axmaqlığı isə aldatmadır.",
+  "tokens": [
+    {
+      "surface": "חכמת",
+      "gloss": "hikməti"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "ehtiyatlı"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "anlamaq"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "yolunu"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "və axmaqlıq"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "kəsillərin"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "aldatma"
+    }
+  ],
+  "timestamp": "2026-09-01T15:53:27.436068079Z",
+  "model": "glm-5.3"
+}

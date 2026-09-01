@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 8:2",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Yüksək yerlərin başında, yolun üstündə, cığırların ⟨evində⟩ dayanır.",
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "başında"
+    },
+    {
+      "surface": "מרומים",
+      "gloss": "yüksək yerlərin"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yolun"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨yığılma yeri⟩"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "cığırların"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "dayanır"
+    }
+  ],
+  "timestamp": "2026-09-01T15:50:31.924685833Z",
+  "model": "glm-5.3"
+}

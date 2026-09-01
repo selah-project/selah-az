@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 17:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Ürəyimi sınadın, gecə yoxladın, məni əritdin — heç nə tapmadın; niyyətim ⟨ağzımın⟩ sərhədindən keçməz.",
+  "tokens": [
+    {
+      "surface": "בחנת",
+      "gloss": "sınadın"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ürəyimi"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "yoxladın"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "gecə"
+    },
+    {
+      "surface": "צרפתני",
+      "gloss": "məni əritdin"
+    },
+    {
+      "surface": "בל",
+      "gloss": "heç nə"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "tapmadın"
+    },
+    {
+      "surface": "זמתי",
+      "gloss": "niyyətim"
+    },
+    {
+      "surface": "בל",
+      "gloss": "keçməz"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "sərhədindən keçər"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzımın"
+    }
+  ],
+  "timestamp": "2026-09-01T15:05:21.416264056Z",
+  "model": "glm-5.3"
+}

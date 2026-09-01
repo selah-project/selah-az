@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 4:20",
+  "book": "judges",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "O, ona dedi: Çadırın ağzında dur, və ⟨olacaq ki⟩ əgər bir adam gəlib səni soruşsa və desə: Burada adam var mı? — sən deyərsən: Yoxdur.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "dur"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ağzında"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "çadırın"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "və ⟨olacaq ki⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir adam"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "gəlib"
+    },
+    {
+      "surface": "ושאלך",
+      "gloss": "səni soruşsa"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "və desə"
+    },
+    {
+      "surface": "היש",
+      "gloss": "var mı?"
+    },
+    {
+      "surface": "פה",
+      "gloss": "burada"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "sən deyərsən"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    }
+  ],
+  "timestamp": "2026-09-01T11:18:01.559255552Z",
+  "model": "glm-5.3"
+}

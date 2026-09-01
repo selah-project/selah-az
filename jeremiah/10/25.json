@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 10:25",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Qəzəbini üstdən tök o millətlərin üstünə ki, səni tanımadılar, və o tayfaların üstünə ki, adınla çağırmadılar; çünki onlar ⟨את⟩ Yaqovu yedilər, onu yedib bitirdilər, onu məhv etdilər və ⟨את⟩ onun məskənini viran qoydular.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "tök"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "qəzəbini"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstdən … üstünə"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "o millətlərin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "səni tanımadılar"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "və … üstünə"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "o tayfaların"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "adınla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "çağırmadılar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "yedilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaqovu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqovu"
+    },
+    {
+      "surface": "ואכלהו",
+      "gloss": "onu yedib bitirdilər"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "onu məhv etdilər"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "onun məskənini"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "onun məskənini"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "viran qoydular"
+    }
+  ],
+  "timestamp": "2026-09-01T13:25:27.156098587Z",
+  "model": "glm-5.3"
+}

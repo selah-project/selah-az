@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 95:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 95,
+  "translation": "Gəlin, Yahveyə nəralar çəkək, xilasımızın Qayasına sevinclə qışqıraq.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Gəlin"
+    },
+    {
+      "surface": "נרננה",
+      "gloss": "nəralar çəkək"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "נריעה",
+      "gloss": "sevinclə qışqıraq"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "Qayasına"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "xilasımızın"
+    }
+  ],
+  "timestamp": "2026-09-01T15:32:25.311919194Z",
+  "model": "glm-5.3"
+}

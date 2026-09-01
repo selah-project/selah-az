@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 19:4",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Siz gördünüz ki, Mitsrayimə nə etdim; və sizi qartal qanadları üzərində daşıdım, və sizi özümün yanıma gətirdim.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "gördünüz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "etdim"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "Mitsrayimə"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "və daşıdım"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "sizi"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərində"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "qanadları"
+    },
+    {
+      "surface": "נשרים",
+      "gloss": "qartal"
+    },
+    {
+      "surface": "ואבא",
+      "gloss": "və gətirdim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "sizi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "özümün yanıma"
+    }
+  ],
+  "timestamp": "2026-09-01T10:11:34.298592574Z",
+  "model": "glm-5.3"
+}

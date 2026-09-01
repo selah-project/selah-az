@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 1:3",
+  "book": "micah",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Çünsin, bax, Yahve öz yerindən çıxır, enəcək və yerin uca yerlərinin üstündə addımlayacaq.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "çıxır"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "öz yerindən"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "enəcək"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "addımlayacaq"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "במותי",
+      "gloss": "uca yerlərinin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerin"
+    }
+  ],
+  "timestamp": "2026-09-01T14:46:52.533682678Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 90,
+  "translation": "Onları sel kimi axıtdın; onlar yuxu ⟨oldular⟩; səhər ot kimi keçib gedirlər.",
+  "tokens": [
+    {
+      "surface": "זרמתם",
+      "gloss": "sel kimi axıtdın"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yuxu"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "⟨oldular⟩"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "səhər"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "ot kimi"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "keçib gedirlər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:32:23.343807114Z",
+  "model": "glm-5.3"
+}

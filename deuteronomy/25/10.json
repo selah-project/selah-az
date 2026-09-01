@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "və İsraildə onun adı çağırılacaq: «Sandalı çıxarılmışın evi».",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "çağırılacaq"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "onun adı"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "İsraildə"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "çıxarılmış"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "sandalı"
+    }
+  ],
+  "timestamp": "2026-09-01T10:53:36.589529284Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 12:4",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "«Atan bizim boyunduruğumuzu ağır etdi; sən isə indi atanın ağır məcburiyyətindən və üstümüzə qoyduğu ağır boyunduruqdan yüngülləşdir, və biz sənə xidmət edəcəyik.»",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "Atan"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "ağır etdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bizim boyunduruğumuzu"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "bizim boyunduruğumuzu"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "sən isə"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "indi"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "yüngülləşdir"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "məcburiyyətindən"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "atanın"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "ağır"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "boyunduruqdan"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ağır"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "qoyduğu"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "üstümüzə"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "sənə xidmət edəcəyik"
+    }
+  ],
+  "timestamp": "2026-09-01T12:20:19.143818742Z",
+  "model": "glm-5.3"
+}

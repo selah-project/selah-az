@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 3:30",
+  "book": "daniel",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Onda padşah Şadraxı, Meyşaxı və Abed-Neqonu Babil ölkəsində ⟨yüksək məqama⟩ irəli çəkdi.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "onda"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "הצלח",
+      "gloss": "irəli çəkdi"
+    },
+    {
+      "surface": "לשדרך",
+      "gloss": "Şadraxı"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Meyşaxı"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "və"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "Abed-Neqonu"
+    },
+    {
+      "surface": "במדינת",
+      "gloss": "ölkəsində"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babil"
+    }
+  ],
+  "timestamp": "2026-09-01T16:40:20.725119535Z",
+  "model": "glm-5.3"
+}

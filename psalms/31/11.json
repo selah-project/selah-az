@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 31:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "Çünki həyatım kədərdə, illərim ah çəkməkdə tükəndi; gücüm günahımdan sarsıldı, sümüklərim də əridi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "tükəndi"
+    },
+    {
+      "surface": "ביגון",
+      "gloss": "kədərdə"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "həyatım"
+    },
+    {
+      "surface": "ושנותי",
+      "gloss": "və illərim"
+    },
+    {
+      "surface": "באנחה",
+      "gloss": "ah çəkməkdə"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "sarsıldı"
+    },
+    {
+      "surface": "בעוני",
+      "gloss": "günahımdan"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "gücüm"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "və sümüklərim"
+    },
+    {
+      "surface": "עששו",
+      "gloss": "əridi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:08:29.303831731Z",
+  "model": "glm-5.3"
+}

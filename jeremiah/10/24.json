@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 10:24",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Məni tərbiyə et, ey Yahve, yalnız məşrə ölçü ilə, qəzəbinlə yox, yoxsa məni yox edərsən.",
+  "tokens": [
+    {
+      "surface": "יסרני",
+      "gloss": "Məni tərbiyə et"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ey Yahve"
+    },
+    {
+      "surface": "אך",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "məşrə ölçü ilə"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yox"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "qəzəbinlə"
+    },
+    {
+      "surface": "פן",
+      "gloss": "yoxsa"
+    },
+    {
+      "surface": "תמעטני",
+      "gloss": "məni yox edərsən"
+    }
+  ],
+  "timestamp": "2026-09-01T13:26:21.487979916Z",
+  "model": "glm-5.3"
+}

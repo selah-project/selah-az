@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 45:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 45,
+  "translation": "Və izzətinlə ⟨uğurla⟩ sür, haqq sözü, təvazö və ədalət ⟨üçün⟩; və sağ əlin sənə qorxulu şeylər öyrədəcək.",
+  "tokens": [
+    {
+      "surface": "והדרך",
+      "gloss": "və izzətinlə"
+    },
+    {
+      "surface": "צלח",
+      "gloss": "⟨uğurla⟩"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "sür"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨üçün⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "söz"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "haqq"
+    },
+    {
+      "surface": "וענוה",
+      "gloss": "və təvazö"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ədalət"
+    },
+    {
+      "surface": "ותורך",
+      "gloss": "və sağ əlin"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "qorxulu şeylər"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "sənə öyrədəcək"
+    }
+  ],
+  "timestamp": "2026-09-01T15:17:06.251943962Z",
+  "model": "glm-5.3"
+}

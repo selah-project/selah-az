@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 9:5",
+  "book": "joshua",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Ayaqlarında köhnə və yamaqlı ayaqqabılar, üzlərində köhnə paltarlar vardı; yemək çörəklərinin hamısı isə quru olub qırıntı halını almışdı.",
+  "tokens": [
+    {
+      "surface": "ונעלות",
+      "gloss": "ayaqqabılar"
+    },
+    {
+      "surface": "בלות",
+      "gloss": "köhnə"
+    },
+    {
+      "surface": "ומטלאות",
+      "gloss": "yamaqlı"
+    },
+    {
+      "surface": "ברגליהם",
+      "gloss": "ayaqlarında"
+    },
+    {
+      "surface": "ושלמות",
+      "gloss": "paltarlar"
+    },
+    {
+      "surface": "בלות",
+      "gloss": "köhnə"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "üzlərində"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hamısı"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "çörək"
+    },
+    {
+      "surface": "צידם",
+      "gloss": "yemək"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "quru"
+    },
+    {
+      "surface": "היה",
+      "gloss": "olub"
+    },
+    {
+      "surface": "נקדים",
+      "gloss": "qırıntı halını almışdı"
+    }
+  ],
+  "timestamp": "2026-09-01T11:05:04.048498873Z",
+  "model": "glm-5.3"
+}

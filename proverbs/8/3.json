@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Qapıların yanında, şəhərin ağzında, girişlərin giriş yerində səsini ucaldır.",
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "yanında"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "qapıların"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ağzında"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "şəhərin"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "giriş yerində"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "girişlərin"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "səsini ucaldır"
+    }
+  ],
+  "timestamp": "2026-09-01T15:50:31.924867784Z",
+  "model": "glm-5.3"
+}

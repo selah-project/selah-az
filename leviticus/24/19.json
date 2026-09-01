@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 24:19",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Və ⟨əgər⟩ bir adam öz yoldaşına qüsur verirsə, o necə etdisə, ona da elə ediləcək.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "və bir adam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨əgər⟩"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "verirsə"
+    },
+    {
+      "surface": "מום",
+      "gloss": "qüsur"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "öz yoldaşına"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "necə"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etdisə"
+    },
+    {
+      "surface": "כן",
+      "gloss": "elə"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ediləcək"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-09-01T10:30:21.244912572Z",
+  "model": "glm-5.3"
+}

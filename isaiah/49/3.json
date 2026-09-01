@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 49:3",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 49,
+  "translation": "Və mənə dedi: Sən mənim qulumsan, İsrail, səninlə özümü görkəmləndirəcəyəm.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Və dedi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mənim qulum"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ki⟩"
+    },
+    {
+      "surface": "בך",
+      "gloss": "səninlə"
+    },
+    {
+      "surface": "אתפאר",
+      "gloss": "özümü görkəmləndirəcəyəm"
+    }
+  ],
+  "timestamp": "2026-09-01T13:11:10.408471341Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Və Elohim Avrahama dedi: Saray, zövcən — onun adına artıq Saray demə, çünki onun adı Saradır.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "qarşı"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saray"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "zövcən"
+    },
+    {
+      "surface": "לא",
+      "gloss": "artıq ... demə"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "çağırmayacaqsan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adını"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "adını"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saray"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "adı"
+    }
+  ],
+  "timestamp": "2026-09-01T09:50:04.495403025Z",
+  "model": "glm-5.3"
+}

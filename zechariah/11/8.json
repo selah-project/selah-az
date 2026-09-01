@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 11:8",
+  "book": "zechariah",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Və mən bir ay içində ⟨את⟩ üç çobanı kəsdim; canım onlara dözə bilmədi və onların canı da məndən iyrənlədi.",
+  "tokens": [
+    {
+      "surface": "ואכחד",
+      "gloss": "və kəsdim (yox etdim)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "üç çobanı"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "üç"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "çobanı"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "ay içində"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "dözə bilmədi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "və həm də"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "onların canı"
+    },
+    {
+      "surface": "בחלה",
+      "gloss": "iyrənlədi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "məndən"
+    }
+  ],
+  "timestamp": "2026-09-01T14:59:55.713792455Z",
+  "model": "glm-5.3"
+}

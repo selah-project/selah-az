@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 3:22",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Səhər tezdən durdular və günəş ⟨את⟩ suların üstündə doğdu, və Moav qarşı tərəfdən ⟨את⟩ suları qan kimi qırmızı gördü.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "səhər tezdən durdular"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "səhər"
+    },
+    {
+      "surface": "והשמש",
+      "gloss": "və günəş"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "doğdu"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "המים",
+      "gloss": "suların"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "gördü"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "qarşı tərəfdən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suları"
+    },
+    {
+      "surface": "המים",
+      "gloss": "suları"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "qırmızı"
+    },
+    {
+      "surface": "כדם",
+      "gloss": "qan kimi"
+    }
+  ],
+  "timestamp": "2026-09-01T12:29:48.317969625Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 72,
+  "translation": "O, yağış kimi enəcək döyülmüş otun üstünə, sel yağışları kimi torpağa ⟨damcılayacaq⟩.",
+  "tokens": [
+    {
+      "surface": "ירד",
+      "gloss": "enəcək"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "yağış kimi"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "גז",
+      "gloss": "döyülmüş ot"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "sel yağışları kimi"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "damcılayan axın"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "torpaq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:24:03.638788407Z",
+  "model": "glm-5.3"
+}

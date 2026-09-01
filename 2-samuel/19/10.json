@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 19:10",
+  "book": "2-samuel",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Bütün xalq İsrailin bütün qəbilələri içində mübahisə edirdi, deyərək: Padşah bizi düşmənlərimizin əlindən qurtardı, o Filistlilərin əlindən xilas etdi bizi; və indi ölkədən qaçdı, Avşalom üzündən.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨oldu ki⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "נדון",
+      "gloss": "mübahisə edirdi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "içində bütün"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "qəbilələri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "qurtardı bizi"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "əlindən"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "düşmənlərimizin"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "və o"
+    },
+    {
+      "surface": "מלטנו",
+      "gloss": "xilas etdi bizi"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "əlindən"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistlilərin"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "və indi"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "qaçdı"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ölkə"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "üzündən"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avşalom"
+    }
+  ],
+  "timestamp": "2026-09-01T12:04:47.445486157Z",
+  "model": "glm-5.3"
+}

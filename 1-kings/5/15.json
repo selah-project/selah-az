@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 5:15",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Və Sur padşahı Hiram öz qullarını ⟨את⟩ Şelomonun yanına göndərdi, çünki onu ⟨את⟩ atasının yerinə padşah məsh etdiklərini eşitmişdi, çünki Hiram bütün günlər Dövüdü sevən olmuşdu.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "və göndərdi"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşahı"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Sur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öz qullarını"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "öz qullarını"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomonun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eşitmişdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "onu ⟨את⟩",
+      "marks": "padşah məsh etmişdilər"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "məsh etmişdilər"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "yerinə"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "atasının"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "sevən"
+    },
+    {
+      "surface": "היה",
+      "gloss": "olmuşdu"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dövüdü"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "günlər"
+    }
+  ],
+  "timestamp": "2026-09-01T12:12:18.604687228Z",
+  "model": "glm-5.3"
+}

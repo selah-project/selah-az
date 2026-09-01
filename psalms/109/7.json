@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 109,
+  "translation": "Onun mühakimə olunduğunda rəşə kimi çıxsın, və duası günah olsun.",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "onun mühakimə olunduğunda"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "çıxsın"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "rəşə kimi"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "və duası"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "günah"
+    }
+  ],
+  "timestamp": "2026-09-01T15:37:36.394087530Z",
+  "model": "glm-5.3"
+}

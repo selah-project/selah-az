@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 146,
+  "translation": "Yahve əbədi hökm sürəcək, sənin Elohimin, ey Tsiyon, nəsil nəsilə. Hallelu-Yah!",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "hökm sürəcək"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sənin Elohimin"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ey Tsiyon"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "nəsil"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nəsilə"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Hallelu (şükür edin)"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-01T15:45:56.174670997Z",
+  "model": "glm-5.3"
+}

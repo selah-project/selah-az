@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "Vəh qalıb donsunlar öz utanclarının aqibətinə ⟨səbəbilə⟩ — mənə deyənlər: Həah, həah!",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "vəh qalıb donsunlar"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨səbəbilə⟩"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "aqibətinə"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "öz utanclarının"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "deyənlər"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Həah"
+    },
+    {
+      "surface": "האח",
+      "gloss": "həah"
+    }
+  ],
+  "timestamp": "2026-09-01T15:14:24.364790Z",
+  "model": "glm-5.3"
+}

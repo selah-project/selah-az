@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 65:21",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 65,
+  "translation": "Evlər tikəcəklər və ⟨onlarda⟩ yaşayacaqlar; üzüm bağıları əkəcəklər və ⟨onların⟩ meyvəsini yeyəcəklər.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "tikəcəklər"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "evlər"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "və yaşayacaqlar"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "və əkəcəklər"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "üzüm bağıları"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "və yeyəcəklər"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "meyvəsini"
+    }
+  ],
+  "timestamp": "2026-09-01T13:19:33.980114319Z",
+  "model": "glm-5.3"
+}

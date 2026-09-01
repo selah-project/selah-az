@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 37:25",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Gənc ⟨idim⟩, həm də qocaldım, haqq insanın tərk edildiyini və onun nəslinin çörək diləndiyini görmədim.",
+  "tokens": [
+    {
+      "surface": "נער",
+      "gloss": "Gənc"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "⟨idim⟩"
+    },
+    {
+      "surface": "גם",
+      "gloss": "həm də"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "qocaldım"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "görmədim ⟨heç⟩"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "görmədim"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "haqq insanın"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "tərk edildiyini"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "onun nəslinin"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "diləndiyini"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "çörək"
+    }
+  ],
+  "timestamp": "2026-09-01T15:13:08.011037776Z",
+  "model": "glm-5.3"
+}

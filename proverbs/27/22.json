@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 27:22",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Əgər axmağı həvəngdə ⟨את⟩, dən dəninə qarışdıraraq döysən, onun axmaqlığı üstündən çəkilməz.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "תכתוש",
+      "gloss": "döysən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "axmağı"
+    },
+    {
+      "surface": "האויל",
+      "gloss": "axmağı"
+    },
+    {
+      "surface": "במכתש",
+      "gloss": "həvəngdə"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "qarışdıraraq"
+    },
+    {
+      "surface": "הריפות",
+      "gloss": "dən dəninə"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "dəyənəklə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "çəkilməz"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "üstündən"
+    },
+    {
+      "surface": "אולתו",
+      "gloss": "onun axmaqlığı"
+    }
+  ],
+  "timestamp": "2026-09-01T16:00:14.876861392Z",
+  "model": "glm-5.3"
+}

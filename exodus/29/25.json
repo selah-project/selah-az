@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 29:25",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "və ⟨את⟩ onları əllərindən götürəcəksən və qurbangahda uzun qurbanın üstündə yandıracaqsan, Yahvenin önündə xoş ətir üçün; bu, Yahve üçün od qurbanıdır.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "və götürəcəksən"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onları",
+      "marks": "onları (qurban hissələri)"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "əllərindən"
+    },
+    {
+      "surface": "והקטרת",
+      "gloss": "və yandıracaqsan"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "qurbangahda"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "uzun qurbanın"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "ətir üçün"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "xoş"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önündə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "od qurbanı"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:18:52.559181512Z",
+  "model": "glm-5.3"
+}

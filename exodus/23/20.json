@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 23:20",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Bax, mən səndən öncə bir mələk göndərirəm — səni yolda qorusun və səni mənim hazırladığım yerə gətirsin deyə.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bax"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mən"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "göndərirəm"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mələk"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "səndən öncə"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "səni qorusun"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolda"
+    },
+    {
+      "surface": "ולהביאך",
+      "gloss": "və səni gətirsin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "yerə"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הכנתי",
+      "gloss": "hazırladığım"
+    }
+  ],
+  "timestamp": "2026-09-01T10:14:24.699443407Z",
+  "model": "glm-5.3"
+}

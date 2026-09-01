@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 11:3",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Və ⟨o⟩ onunla ⟨את⟩ Yahvenin evində gizlənərək altı il ⟨qaldı⟩; Atalya isə ölkənin üzərində hökmranlıq edirdi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Və ⟨o⟩ ⟨qaldı⟩"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ onunla"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evində"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "מתחבא",
+      "gloss": "gizlənərək"
+    },
+    {
+      "surface": "שש",
+      "gloss": "altı"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "il"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "Atalya isə"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "hökmdarlıq edirdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərində"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ölkənin"
+    }
+  ],
+  "timestamp": "2026-09-01T12:35:53.031866103Z",
+  "model": "glm-5.3"
+}

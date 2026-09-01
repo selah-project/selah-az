@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 5:10",
+  "book": "daniel",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Kralın və əyanlarının sözlərinə görə kraliça ziyafət evinə girdi; kraliça cavab verdi və dedi: «Ey kral, əbədi yaşa! Fikirlərin səni qorxutmasın və üzünün rəngi dəyişməsin.",
+  "tokens": [
+    {
+      "surface": "מלכתא",
+      "gloss": "kraliça"
+    },
+    {
+      "surface": "לקבל",
+      "gloss": "…-ə görə"
+    },
+    {
+      "surface": "מלי",
+      "gloss": "sözlərinə"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "ורברבנוהי",
+      "gloss": "və əyanlarının"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "evinə"
+    },
+    {
+      "surface": "משתיא",
+      "gloss": "ziyafət"
+    },
+    {
+      "surface": "עללת",
+      "gloss": "girdi"
+    },
+    {
+      "surface": "ענת",
+      "gloss": "cavab verdi"
+    },
+    {
+      "surface": "מלכתא",
+      "gloss": "kraliça"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ey kral"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "yaşa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…-məsin"
+    },
+    {
+      "surface": "יבהלוך",
+      "gloss": "səni qorxutmasın"
+    },
+    {
+      "surface": "רעיונך",
+      "gloss": "fikirlərin"
+    },
+    {
+      "surface": "וזיויך",
+      "gloss": "və üzünün rəngin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…-məsin"
+    },
+    {
+      "surface": "ישתנו",
+      "gloss": "dəyişməsin"
+    }
+  ],
+  "timestamp": "2026-09-01T16:42:17.816475688Z",
+  "model": "glm-5.3"
+}

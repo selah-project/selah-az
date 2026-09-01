@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Yoldaşının qadınına toxunmağa ⟨belə⟩ yaxın olma — onunla təmizlənmək üçün toxunuzluğunu, toxumunu vermə.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "...a"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "qadınına"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "yoldaşının"
+    },
+    {
+      "surface": "לא",
+      "gloss": "vermə"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "...mə"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "toxunuzluğunu"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "toxumunu"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "təmizlənmək üçün"
+    },
+    {
+      "surface": "בה",
+      "gloss": "onunla"
+    }
+  ],
+  "timestamp": "2026-09-01T10:28:04.995902303Z",
+  "model": "glm-5.3"
+}

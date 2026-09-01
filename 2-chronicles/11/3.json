@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 11:3",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "«De: «Rəhavama, Şlomonun oğlu, Yehudanın kralına de, və Yehudada və Binyamində olan bütün İsrayilə de ⟨deyə⟩»",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "de"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rəhavama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şlomonun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudanın"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və -a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrayilə"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Yehudada"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "və Binyamində"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨deyə⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T18:20:59.769401922Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 21:5",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Və əgər qul desə — açıqca desə: Ağamı ⟨את⟩, arvamı ⟨את⟩ və oğullarımı ⟨את⟩ sevirəm, azad çıxmayacağam —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "desə"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "açıkca desə"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "qul"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "sevirəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ağamı"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ağamı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arvamı"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "arvamı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "oğullarımı"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarımı"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "çıxmayacağam"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "azad"
+    }
+  ],
+  "timestamp": "2026-09-01T10:15:20.954440968Z",
+  "model": "glm-5.3"
+}

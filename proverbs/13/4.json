@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 13:4",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Tənbəlin canı arzulayar, amma ⟨heç nə⟩ yoxdur; çalışqanların canı ⟨isə⟩ dolğunluqla kökələr.",
+  "tokens": [
+    {
+      "surface": "מתאוה",
+      "gloss": "arzulayar"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "amma yoxdur"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "canı"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "tənbəlin"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "canı ⟨isə⟩"
+    },
+    {
+      "surface": "חרצים",
+      "gloss": "çalışqanların"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "kökələr"
+    }
+  ],
+  "timestamp": "2026-09-01T15:53:08.435028166Z",
+  "model": "glm-5.3"
+}

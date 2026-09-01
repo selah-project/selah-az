@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 12:3",
+  "book": "job",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Mənim də qəlbim var, sizin kimi; mən sizdən aşağı düşmürəm; ⟨את⟩ kim ⟨yoxdur ki⟩ bunlar kimi ⟨olmasın⟩?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "də"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənim"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "qəlb"
+    },
+    {
+      "surface": "כמוכם",
+      "gloss": "sizin kimi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "aşağı düşürəm"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mən"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "sizdən"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bunlar"
+    }
+  ],
+  "timestamp": "2026-09-01T16:08:00.860646583Z",
+  "model": "glm-5.3"
+}

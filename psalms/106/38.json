@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 106:38",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 106,
+  "translation": "Və günahsız qan tökdülər — oğullarının və qızlarının qanını, kimləri Kenaan bütlərinə qurban kəsdilər; və torpaq qanlarla murdarlandı.",
+  "tokens": [
+    {
+      "surface": "וישפכו",
+      "gloss": "tökdülər"
+    },
+    {
+      "surface": "דם",
+      "gloss": "qan"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "günahsız"
+    },
+    {
+      "surface": "דם",
+      "gloss": "qanını"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "ובנותיהם",
+      "gloss": "və qızlarının"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kimləri"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "qurban kəsdilər"
+    },
+    {
+      "surface": "לעצבי",
+      "gloss": "bütlərinə"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "və murdarlandı"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "torpaq"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "qanlarla"
+    }
+  ],
+  "timestamp": "2026-09-01T15:35:39.650829912Z",
+  "model": "glm-5.3"
+}

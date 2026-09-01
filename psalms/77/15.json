@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 77,
+  "translation": "Sən ⟨sən⟩ Elsən, möcüzələr edən; qüvvəni xalqlar arasında tanıtın.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sən"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "edən"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "möcüzələr"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "tanıtın"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "xalqlar arasında"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "qüvvəni"
+    }
+  ],
+  "timestamp": "2026-09-01T15:24:56.515684714Z",
+  "model": "glm-5.3"
+}

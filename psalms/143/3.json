@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 143,
+  "translation": "Çünki düşmən canımı qovur, həyatımı yerə doğru əzib, məni qaranlıqlarda, əzəldən ölülər kimi oturdub.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "qovur"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "düşmən"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "əzib"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "yerə doğru"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "həyatımı"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "məni oturdub"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "qaranlıqlarda"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "ölülər kimi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "əzəldən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:45:05.651787362Z",
+  "model": "glm-5.3"
+}

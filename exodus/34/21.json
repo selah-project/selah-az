@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 34:21",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 34,
+  "translation": "Altı gün işlə, yeddinci gündə isə dinclik et; şum zamanında da biçin zamanında da dinclik edərsən.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "altı"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "işlə"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "və ... gündə"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "yeddinci"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "dinclik et"
+    },
+    {
+      "surface": "בחריש",
+      "gloss": "şum zamanında"
+    },
+    {
+      "surface": "ובקציר",
+      "gloss": "və biçin zamanında"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "dinclik edərsən"
+    }
+  ],
+  "timestamp": "2026-09-01T10:19:22.315134402Z",
+  "model": "glm-5.3"
+}

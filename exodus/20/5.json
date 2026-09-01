@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 20:5",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Onlara səcdə etməyəcəksən və onlara qulluq etməyəcəksən, çünki Mən Yahve, sənin Elohimin, qısqanç Elam, atanların günahını övladların üstünə, nəvə-nəticələrin və nəticələrin üstünə — Məni sevənlərin əleyhinə yox, Məndən nifrət edənlərin üstünə yoxlamağın ⟨üçüncü və dördüncü nəsillərinə qədər⟩ tochələnəcəyəm.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "səcdə etməyəcəksən"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "תעבדם",
+      "gloss": "onlara qulluq etməyəcəksən"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sənin Elohimin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "qısqanç"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "yoxlayacaq"
+    },
+    {
+      "surface": "עון",
+      "gloss": "günah"
+    },
+    {
+      "surface": "אבת",
+      "gloss": "atanların"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "övladların"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "üçüncü nəslin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "və üstünə"
+    },
+    {
+      "surface": "רבעים",
+      "gloss": "dördüncü nəslin"
+    },
+    {
+      "surface": "לשנאי",
+      "gloss": "Məni sevənlərin — Məndən nifrət edənlərin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:10:32.456699456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Çünki onun yükünün boyunduruğunu, çiyninin şaqqısını və onu zorlayan əsasını sındırmışsan — Midyan günündəki kimi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boyunduruğu"
+    },
+    {
+      "surface": "על",
+      "gloss": "boyunduruq"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "onun yükü"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "şaqqını"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "şaqqı (çiyin ağacı)"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "onun çiyni"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "əsa"
+    },
+    {
+      "surface": "הנגש",
+      "gloss": "zorlayan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onu"
+    },
+    {
+      "surface": "החתת",
+      "gloss": "sındırmışsan"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "günündəki kimi"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    }
+  ],
+  "timestamp": "2026-09-01T18:00:15.165903177Z",
+  "model": "glm-5.3"
+}

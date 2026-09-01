@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 143,
+  "ref": "psalms 119:143",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Dərd və sıxıntı məni tapdı, ⟨ammа⟩ Sənin əmrlərin mənim sevincimdir.",
+  "tokens": [
+    {
+      "surface": "צר",
+      "gloss": "dərd"
+    },
+    {
+      "surface": "ומצוק",
+      "gloss": "və sıxıntı"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "məni tapdı"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "Sənin əmrlərin"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "mənim sevincimdir"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:54.021814503Z",
+  "model": "glm-5.3"
+}

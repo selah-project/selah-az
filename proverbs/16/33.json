@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 16:33",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Qoynuna ⟨את⟩ qur'a atılır, lakin onun bütün hökmü Yahvedəndir.",
+  "tokens": [
+    {
+      "surface": "בחיק",
+      "gloss": "qoynuna"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "atılır"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qur'a"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "qur'a"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "lakin Yahvedən"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "onun hökmü"
+    }
+  ],
+  "timestamp": "2026-09-01T15:53:01.103052080Z",
+  "model": "glm-5.3"
+}

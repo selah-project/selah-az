@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 43:25",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 43,
+  "translation": "Mən, mən Özüməm, üsyanlarını silən, Öz adıma görə, və günahlarını yadına salmayacam.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mən"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Özüməm"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "silən"
+    },
+    {
+      "surface": "פשעיך",
+      "gloss": "üsyanlarını"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "Öz adıma görə"
+    },
+    {
+      "surface": "וחטאתיך",
+      "gloss": "və günahlarını"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yadına"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "salmayacam"
+    }
+  ],
+  "timestamp": "2026-09-01T13:08:19.469687393Z",
+  "model": "glm-5.3"
+}

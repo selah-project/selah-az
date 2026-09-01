@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 29:25",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "getdi və başqa tanrılara xidmət etdi, onlara səcdə etdi — tanrılara ki, onları tanımırdılar, və ⟨o tanrılar⟩ onlara pay düşməmişdi;",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "getdi"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "xidmət etdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tanrılara"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "başqa"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "səcdə etdi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tanrılara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "tanımırdılar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "pay düşməmişdi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    }
+  ],
+  "timestamp": "2026-09-01T10:57:05.881488138Z",
+  "model": "glm-5.3"
+}

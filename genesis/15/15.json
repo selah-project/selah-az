@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 15:15",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Sənsə atalarının yanına salamlıqla gedəcəksən, yaxşı qocallıqda dəfn olunacaqsan.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "sənsə"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "gedəcəksən"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "atarının"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "salamlıqla"
+    },
+    {
+      "surface": "תקבר",
+      "gloss": "dəfn olunacaqsan"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "qocallıqda"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "yaxşı"
+    }
+  ],
+  "timestamp": "2026-09-01T09:49:41.472685548Z",
+  "model": "glm-5.3"
+}

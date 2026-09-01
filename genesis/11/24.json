@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Naxor iyirmi doqquz il yaşadı və ⟨את⟩ Tərahı doğdu.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "yaşadı"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Naxor"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "doqquz"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "və iyirmi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "il"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "doğdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tərahı"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Tərahı"
+    }
+  ],
+  "timestamp": "2026-09-01T09:48:27.478452508Z",
+  "model": "glm-5.3"
+}

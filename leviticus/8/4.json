@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 8:4",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və Moşe Yahvenin ⟨את⟩ ona əmr etdiyi kimi etdi, və cəmiyyət görüş çadırının girişinə toplandı.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Və etdi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "əmr etdiyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ona"
+    },
+    {
+      "surface": "ותקהל",
+      "gloss": "və toplandı"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "cəmiyyət"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yə"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "girişinə"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadırının"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "görüş"
+    }
+  ],
+  "timestamp": "2026-09-01T10:24:00.839793859Z",
+  "model": "glm-5.3"
+}

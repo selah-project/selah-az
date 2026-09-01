@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 34,
+  "translation": "Yahve buludla ⟨enəndə⟩ onunla orada dayandı və Yahvenin adı ilə çağırdı.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "Yahve ⟨enəndə⟩ enib"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "buludla"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "dayandı"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "çağırdı"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "adı ilə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:19:57.007056123Z",
+  "model": "glm-5.3"
+}

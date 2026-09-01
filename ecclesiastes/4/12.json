@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 4:12",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və əgər təkə hökm edibsə, ikisi qarşısında durar; üçqat ⟨olan⟩ ip isə tez qopmaz.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "יתקפו",
+      "gloss": "hökm edibsə"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "təkə"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "ikisi"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "qarşı durar"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "qarşısında"
+    },
+    {
+      "surface": "והחוט",
+      "gloss": "və ip"
+    },
+    {
+      "surface": "המשלש",
+      "gloss": "üçqat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "במהרה",
+      "gloss": "tez"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "qopar"
+    }
+  ],
+  "timestamp": "2026-09-01T16:29:03.000315299Z",
+  "model": "glm-5.3"
+}

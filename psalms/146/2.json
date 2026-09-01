@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 146:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 146,
+  "translation": "Yahve-yə ömrüm boyu həmd deyəcəyəm, mənim Elohim-imə ⟨olduğum müddətcə⟩ zümzümə edəcəyəm.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "həmd deyəcəyəm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve-yə"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "ömrüm boyu"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "zümzümə edəcəyəm"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "mənim Elohim-imə"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "⟨olduğum müddətcə⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T15:47:00.363750019Z",
+  "model": "glm-5.3"
+}

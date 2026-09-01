@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Çünki qan üzrə sorğu-sual edən onları yad etdi, yoxsulların fəryadını unutmadı.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "sorğu-sual edən"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "qan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ onları",
+      "marks": "onları"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "yad etdi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "unutmadı ⟨deyil⟩"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "unutmadı"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "fəryadını"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "yoxsulların"
+    }
+  ],
+  "timestamp": "2026-09-01T15:04:26.829962323Z",
+  "model": "glm-5.3"
+}

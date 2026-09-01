@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 69:31",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 69,
+  "translation": "Elohimin adını nəğmə ilə tərifləyəcəyəm və onu şükr ilə böyüdəcəyəm.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "tərifləyəcəyəm"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adını"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "בשיר",
+      "gloss": "nəğmə ilə"
+    },
+    {
+      "surface": "ואגדלנו",
+      "gloss": "böyüdəcəyəm"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "şükr ilə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:23:40.864616290Z",
+  "model": "glm-5.3"
+}

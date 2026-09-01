@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 40:11",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "O, ⟨את⟩ darvazanın girişinin enini on qarış ölçdü; darvazanın uzunluğu isə on üç qarış ⟨idi⟩.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "ölçdü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darvazanın girişinin enini"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "enini"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "girişinin"
+    },
+    {
+      "surface": "השער",
+      "gloss": "darvazanın"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "on"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "qarış"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "uzunluğu"
+    },
+    {
+      "surface": "השער",
+      "gloss": "darvazanın"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "on"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "üç"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "qarış"
+    }
+  ],
+  "timestamp": "2026-09-01T14:27:32.523500707Z",
+  "model": "glm-5.3"
+}

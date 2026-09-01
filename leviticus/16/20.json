@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 16:20",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Və müqəddəs yeri ⟨את⟩, görüş çadırını ⟨את⟩ və qurbangahı ⟨את⟩ bağışlamağı bitirdikdə canlı keçini ⟨את⟩ gətirsin.",
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "və bitirdikdə"
+    },
+    {
+      "surface": "מכפר",
+      "gloss": "bağışlamağı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "müqəddəs yeri"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "müqəddəs yeri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "görüş çadırını"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadırını"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "görüş"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qurbangahı"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "qurbangahı"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "və gətirsin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "canlı keçini"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "keçini"
+    },
+    {
+      "surface": "החי",
+      "gloss": "canlı"
+    }
+  ],
+  "timestamp": "2026-09-01T10:28:32.396623166Z",
+  "model": "glm-5.3"
+}

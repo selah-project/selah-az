@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Günəş altında zəhmə çəkdiyi bütün əməyindən insana nə qalır?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "qalır"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "insana"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "əməyindən"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "zəhmə çəkdiyi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "Günəş"
+    }
+  ],
+  "timestamp": "2026-09-01T16:29:40.764621625Z",
+  "model": "glm-5.3"
+}

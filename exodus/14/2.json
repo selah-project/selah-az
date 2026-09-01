@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 14:2",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "İsrail oğullarına danış: qayıtsınlar və Pi-ha-Hirot önündə, Miqdol ilə ⟨dəniz⟩ arasında, Baal-Tsefon önündə düşərgə salsınlar; onun qarşısında dənizin üstündə düşərgə salacaqsınız.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "danış"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "qayıtsınlar"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "düşərgə salsınlar"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önündə"
+    },
+    {
+      "surface": "פי",
+      "gloss": "Pi-"
+    },
+    {
+      "surface": "החירת",
+      "gloss": "ha-Hirot"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "Miqdol"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ilə … arasında"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dəniz"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önündə"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal-"
+    },
+    {
+      "surface": "צפן",
+      "gloss": "Tsefon"
+    },
+    {
+      "surface": "נכחו",
+      "gloss": "qarşısında"
+    },
+    {
+      "surface": "תחנו",
+      "gloss": "düşərgə salacaqsınız"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dəniz"
+    }
+  ],
+  "timestamp": "2026-09-01T10:10:09.099444222Z",
+  "model": "glm-5.3"
+}

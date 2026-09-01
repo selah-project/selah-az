@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 119:42",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Və mənə töhmət edənə söz ilə cavab verim, çünki Sənin sözünə güvəndim.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "və cavab verim"
+    },
+    {
+      "surface": "חרפי",
+      "gloss": "mənə töhmət edənə"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "söz ilə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "güvəndim"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "Sənin sözünə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:12.949868800Z",
+  "model": "glm-5.3"
+}

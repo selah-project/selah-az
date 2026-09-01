@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 33:10",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "Elimdən yola düşdülər və Qamış dənizinin kənarında düşərgə saldılar.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "yola düşdülər"
+    },
+    {
+      "surface": "מאילם",
+      "gloss": "Elimdən"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "düşərgə saldılar"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə \/ kənarında"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dəniz"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Qamış"
+    }
+  ],
+  "timestamp": "2026-09-01T10:44:43.885409729Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 23:16",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Və Xırman bayramını — sahədə əkdiyin əməyinin bəkurlarını; və Yığım bayramını — ilin çıxışında, sahədən əməyini ⟨את⟩ yığanda.",
+  "tokens": [
+    {
+      "surface": "וחג",
+      "gloss": "və bayramını"
+    },
+    {
+      "surface": "הקציר",
+      "gloss": "Xırman (biçin)"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "bəkurlarını"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "əməyinin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "əkdiyin"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sahədə"
+    },
+    {
+      "surface": "וחג",
+      "gloss": "və bayramını"
+    },
+    {
+      "surface": "האסף",
+      "gloss": "Yığım"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "çıxışında"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "ilin"
+    },
+    {
+      "surface": "באספך",
+      "gloss": "yığanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əməyini"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "əməyini"
+    },
+    {
+      "surface": "מן",
+      "gloss": "−dan"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sahədən"
+    }
+  ],
+  "timestamp": "2026-09-01T10:14:20.596348727Z",
+  "model": "glm-5.3"
+}

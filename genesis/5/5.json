@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Adəmin yaşadığı bütün günləri doqquz yüz otuz üç il oldu və o, öldü.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "günləri"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adəmin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "חי",
+      "gloss": "yaşadığı"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "doqquz"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "il"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "otuz üç"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "il"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "öldü"
+    }
+  ],
+  "timestamp": "2026-09-01T09:46:36.930537010Z",
+  "model": "glm-5.3"
+}

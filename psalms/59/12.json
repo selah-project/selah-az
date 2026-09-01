@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 59:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 59,
+  "translation": "Onları öldürmə, yoxsa xalqım unudar; öz qüdrətinlə onları sarsıt və endir onları, qalxanımız ⟨olan⟩ Adonay.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "öldürmə"
+    },
+    {
+      "surface": "פן",
+      "gloss": "yoxsa"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "unudarlar"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqım"
+    },
+    {
+      "surface": "הניעמו",
+      "gloss": "onları sarsıt"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "öz qüdrətinlə"
+    },
+    {
+      "surface": "והורידמו",
+      "gloss": "və endir onları"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "qalxanımız"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    }
+  ],
+  "timestamp": "2026-09-01T15:20:24.503825286Z",
+  "model": "glm-5.3"
+}

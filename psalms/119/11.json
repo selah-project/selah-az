@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Ürəyimdə gizlətdim Sözünü, ki Sənə qarşı günah etməyim.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "ürəyimdə"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "gislətdim"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "Sözünü"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "etməyim"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "günah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Sənə qarşı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:46.824434884Z",
+  "model": "glm-5.3"
+}

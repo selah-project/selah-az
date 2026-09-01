@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 14:16",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Hikmətli qorxur və şərdən uzaqlaşır, ama axmaq qəzəblənir və etibar edir.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "hikmətli"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "qorxur"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "və uzaqlaşır"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "şərdən"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ama axmaq"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "qəzəblənir"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "və etibar edir"
+    }
+  ],
+  "timestamp": "2026-09-01T15:52:52.278579832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 23:9",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Çünki qayaların başından onu görürəm və təpələrdən ona baxıram; bax, ⟨bu⟩ xalq təkbaşına yaşayır və xalqlar arasında sayılmır.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "başından"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "qayaların"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "onu görürəm"
+    },
+    {
+      "surface": "ומגבעות",
+      "gloss": "və təpələrdən"
+    },
+    {
+      "surface": "אשורנו",
+      "gloss": "ona baxıram"
+    },
+    {
+      "surface": "הן",
+      "gloss": "bax"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "təkbaşına"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "yaşayır"
+    },
+    {
+      "surface": "ובגוים",
+      "gloss": "və xalqlar arasında"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יתחשב",
+      "gloss": "sayılmır"
+    }
+  ],
+  "timestamp": "2026-09-01T10:41:05.204240462Z",
+  "model": "glm-5.3"
+}

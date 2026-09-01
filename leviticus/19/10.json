@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 19:10",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Və üzümlüyünü tam soymayacaqsan, üzümlüyünün salxımdan qalanını dəirmayacaqsan; yoxsula və müsafirə buraxacaqsan onları ⟨את⟩. Mən Yahve, sizin Elohiminizəm.",
+  "tokens": [
+    {
+      "surface": "וכרמך",
+      "gloss": "və üzümlüyünü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "tam soymayacaqsan"
+    },
+    {
+      "surface": "ופרט",
+      "gloss": "və salxımdan qalanını"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "üzümlüyünün"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "dəirmayacaqsan"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "yoxsula"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "və müsafirə"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "buraxacaqsan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "onları ⟨את⟩",
+      "marks": "kənar, töküntü və salxım qalıqları"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "sizin Elohiminiz"
+    }
+  ],
+  "timestamp": "2026-09-01T10:28:08.140795250Z",
+  "model": "glm-5.3"
+}

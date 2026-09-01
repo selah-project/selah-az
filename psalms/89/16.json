@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 89:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 89,
+  "translation": "Nə xoşbəxtdir o xalq ki, terua səsini bilir; Yahve, onlar Sənin üzünün işığında gəzirlər.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "nə xoşbəxtdir"
+    },
+    {
+      "surface": "העם",
+      "gloss": "o xalq"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "bilen"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "terua səsini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "באור",
+      "gloss": "işığında"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "Sənin üzünün"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "gəzirlər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:56.748660257Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 21:5",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Və Izebel, arvadı, yanına girdi və ona dedi: Nədir bu — ruhun qısqın ⟨olub⟩ və sən çörək yemirsən?",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "və girdi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "arvadı"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "və danışdı"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nədir"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "ruhun"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "qısqın"
+    },
+    {
+      "surface": "ואינך",
+      "gloss": "və sən ⟨yoxsan⟩"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yemirsən"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "çörək"
+    }
+  ],
+  "timestamp": "2026-09-01T12:26:19.538780741Z",
+  "model": "glm-5.3"
+}

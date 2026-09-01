@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 136,
+  "translation": "⟨את⟩ Günəşi — gündüz hökmranlıq etmək üçün — çünki onun hesedi əbədidir.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Günəşi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "Günəşi"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "hökmranlıq etmək üçün"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gündüz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədidir"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "onun hesedi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:43:58.743083975Z",
+  "model": "glm-5.3"
+}

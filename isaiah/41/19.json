@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 41:19",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 41,
+  "translation": "Səhraya sidr, akasiya, mərsin və yağ ağacı qoyacağam; çöldə küknar, tədxar və təaşur bir yerdə əkəcəyəm.",
+  "tokens": [
+    {
+      "surface": "אתן",
+      "gloss": "qoyacağam"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "səhraya"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "sidr"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "akasiya"
+    },
+    {
+      "surface": "והדס",
+      "gloss": "mərsin"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "və ağacı"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "yağ"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "əkəcəyəm"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "çöldə"
+    },
+    {
+      "surface": "ברוש",
+      "gloss": "küknar"
+    },
+    {
+      "surface": "תדהר",
+      "gloss": "tədxar"
+    },
+    {
+      "surface": "ותאשור",
+      "gloss": "və təaşur"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bir yerdə"
+    }
+  ],
+  "timestamp": "2026-09-01T13:08:15.212948193Z",
+  "model": "glm-5.3"
+}

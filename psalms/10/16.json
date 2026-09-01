@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Yahve əbədi olaraq padşahdır, həmişəlik; millətlər Onun torpağından məhv oldular.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşahdır"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "əbədi olaraq"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "həmişəlik"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "məhv oldular"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "millətlər"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "Onun torpağından"
+    }
+  ],
+  "timestamp": "2026-09-01T15:04:25.811713728Z",
+  "model": "glm-5.3"
+}

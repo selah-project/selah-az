@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 22:5",
+  "book": "2-samuel",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Çünki ölümün qırğanları məni bürüdü, Belialın dərələri məni qorxutdu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אפפני",
+      "gloss": "məni bürüdü"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "qırğanları"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölümün"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "dərələri"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belialın"
+    },
+    {
+      "surface": "יבעתני",
+      "gloss": "məni qorxutdu"
+    }
+  ],
+  "timestamp": "2026-09-01T12:05:15.193278650Z",
+  "model": "glm-5.3"
+}

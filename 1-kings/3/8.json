@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 3:8",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və qulun sənin seçdiyin qulunun içindədir — sayıla və hesablana bilməyən, çoxluğundan ötrü ölçülə bilməyən böyük bir xalqın ortasındadır.",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "və qulun"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ortasındadır"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "qulunun (sənin xalqının)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "seçdin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "רב",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "sayıla bilməz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "hesablana bilməz"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "çoxluğundan"
+    }
+  ],
+  "timestamp": "2026-09-01T12:10:37.083125882Z",
+  "model": "glm-5.3"
+}

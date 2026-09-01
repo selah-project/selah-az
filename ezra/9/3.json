@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 9:3",
+  "book": "ezra",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Və bu sözü ⟨את⟩ eşitdiyimdə paltarımı ⟨את⟩ və üst paltarımı yırtdım, başımın saçından və saqqalımdan ⟨saç⟩ çəkdirdim, və sarsılmış halda oturdum.",
+  "tokens": [
+    {
+      "surface": "וכשמעי",
+      "gloss": "eşitdiyimdə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu sözü"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sözü"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "קרעתי",
+      "gloss": "yırtdım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paltarımı"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "paltarımı"
+    },
+    {
+      "surface": "ומעילי",
+      "gloss": "və üst paltarımı"
+    },
+    {
+      "surface": "ואמרטה",
+      "gloss": "çəkdirdim"
+    },
+    {
+      "surface": "משער",
+      "gloss": "saçından"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "başımın"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "və saqqalımdan"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "və oturdum"
+    },
+    {
+      "surface": "משומם",
+      "gloss": "sarsılmış halda"
+    }
+  ],
+  "timestamp": "2026-09-01T16:52:57.852696218Z",
+  "model": "glm-5.3"
+}

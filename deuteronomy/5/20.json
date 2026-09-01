@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Və yoldaşına qarşı yalan şəhadət gətirməyəcəksən.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "cavab verəcəksən"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "yoldaşına qarşı"
+    },
+    {
+      "surface": "עד",
+      "gloss": "şahid kimi"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "yalan"
+    }
+  ],
+  "timestamp": "2026-09-01T10:47:08.252603893Z",
+  "model": "glm-5.3"
+}

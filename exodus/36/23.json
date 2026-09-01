@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 36,
+  "translation": "Məskən üçün taxtaları düzəltdi: cənub tərəfə, cənuba doğru iyirmi taxta.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "düzəltdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taxtaları"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "taxtaları"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "məskən üçün"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iyirmi"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "taxta"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "tərəfə"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "cənub"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "cənuba doğru"
+    }
+  ],
+  "timestamp": "2026-09-01T10:21:02.288912174Z",
+  "model": "glm-5.3"
+}

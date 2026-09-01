@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 44,
+  "translation": "Və otların arasında cücərəcəklər, su axarlarının kənarında söüdlər kimi.",
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "və cücərəcəklər"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "otların"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "söüdlər kimi"
+    },
+    {
+      "surface": "על",
+      "gloss": "kənarında"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "su axarlarının"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    }
+  ],
+  "timestamp": "2026-09-01T13:08:39.623207344Z",
+  "model": "glm-5.3"
+}

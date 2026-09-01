@@ -1,0 +1,141 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 8:30",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və Moşe məsh yağından və mizbdəki qandan götürdü və Aharonun üstünə, paltarlarının üstünə, oğullarının üstünə və oğullarının paltarlarının üstünə onunla birlikdə səpdi; və ⟨את⟩ Aharonu, ⟨את⟩ paltarlarını, ⟨את⟩ oğullarını və ⟨את⟩ oğullarının paltarlarını onunla birlikdə təqdis etdi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "və götürdü"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "yağından"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "məsh"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "və ... qandan"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "qan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mizbdəki"
+    },
+    {
+      "surface": "ויז",
+      "gloss": "və səpdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonun"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "paltarlarının"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "və ... üstünə"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "və ... üstünə"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "paltarlarının"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onunla birlikdə"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "və təqdis etdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharonu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paltarlarını"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "paltarlarını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "oğullarını"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "oğullarının paltarlarını"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "oğullarının paltarlarını"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onunla birlikdə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:24:56.678787395Z",
+  "model": "glm-5.3"
+}

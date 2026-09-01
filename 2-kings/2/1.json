@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 2:1",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və oldu, Yahve Eliyanu ⟨את⟩ göyün burulğanında götürəndə, Eliya Elişa ilə birlikdə Gilqaldan getdi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Və oldu"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "götürəndə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyanu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyanu"
+    },
+    {
+      "surface": "בסערה",
+      "gloss": "burulğanda"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göyün"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "getdi"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliya"
+    },
+    {
+      "surface": "ואלישע",
+      "gloss": "Elişa ilə"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilqal"
+    }
+  ],
+  "timestamp": "2026-09-01T12:29:16.021046005Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 113,
+  "translation": "Olsun Yahvenin adı mübarək, bu andan əbədiyyətə qədər.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "mübarək"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "bu andan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "əbədiyyətə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:37:53.029195415Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 34:16",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 34,
+  "translation": "Və Şafan ⟨את⟩ kitabı padşaha gətirdi və padşaha ⟨bir daha⟩ söz qaytardı, deyərək: qullarının əlinə verilmiş olan hər şeyi onlar edirlər.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "gətirdi"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Şafan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kitabı"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "kitabı"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "qaytardı"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨bir daha⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "padşaha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşaha"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "söz"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər şeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verilmiş"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "əlinə"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "qullarının"
+    },
+    {
+      "surface": "הם",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "edirlər"
+    }
+  ],
+  "timestamp": "2026-09-01T17:24:56.928547762Z",
+  "model": "glm-5.3"
+}

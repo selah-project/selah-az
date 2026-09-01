@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 53,
+  "translation": "Və ⟨o⟩ ⟨את⟩ qəbrini şərlilərlə ⟨verdi⟩ və ⟨את⟩ ölümündə varla ⟨birlikdə⟩; zorakılıq etmədiyi üçün və ağzında hiylə yox idi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qəbrini"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "şərlilərlə"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "qəbri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ölümündə varla"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "var"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "ölümündə"
+    },
+    {
+      "surface": "על",
+      "gloss": "görə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "etmədiyi"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "zorakılıq"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etdi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "hiylə"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "ağzında"
+    }
+  ],
+  "timestamp": "2026-09-01T13:14:06.183358301Z",
+  "model": "glm-5.3"
+}

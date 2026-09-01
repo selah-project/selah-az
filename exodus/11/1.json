@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 11:1",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Yahve Moşeyə dedi: «Bir vurğu daha Paro üzərinə və Mitsrayim üzərinə gətirəcəyəm; ondan sonra o, sizi ⟨את⟩ buradan göndərəcək. Göndərəndə tamamilə qovub-qovacaq sizi ⟨את⟩ buradan.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "daha"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "vurğu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "gətirəcəyəm"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "və üzərinə"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sonra"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "göndərəcək"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "buradan göndərilənlər"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "buradan"
+    },
+    {
+      "surface": "כשלחו",
+      "gloss": "göndərəndə"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "tamamilə"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "qovub"
+    },
+    {
+      "surface": "יגרש",
+      "gloss": "qovacaq"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "buradan qovulanlar"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "buradan"
+    }
+  ],
+  "timestamp": "2026-09-01T10:08:29.271702465Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "habakkuk 1:2",
+  "book": "habakkuk",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Nə vaxtadək, Yahve, qışqırdım və ⟨sən⟩ eşitməzsən? Sənə fəryad edirəm: zorakılıq! və ⟨sən⟩ xilas etməzsən.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "nə vaxtadək"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "⟨nə vaxtadək⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "qışqırdım"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... eşitməzsən"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "eşitməzsən"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "fəryad edirəm"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "zorakılıq"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... etməzsən"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "xilas etməzsən"
+    }
+  ],
+  "timestamp": "2026-09-01T14:50:03.267416868Z",
+  "model": "glm-5.3"
+}

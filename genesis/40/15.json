@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 40:15",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "Çünki mən oğurlanaraq İvriylər torpağından gətirilmişəm, və burada da heç bir şey etməmişəm ki onlar məni ⟨את⟩ çalaya qoysunlar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "oğurlanaraq"
+    },
+    {
+      "surface": "גנבתי",
+      "gloss": "oğurlanmışam"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "torpağından"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "İvriylərin"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "və burada da"
+    },
+    {
+      "surface": "פה",
+      "gloss": "burada"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "etməmişəm"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "heç bir şey"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "onlar qoysunlar"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ məni",
+      "marks": "çalaya"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "çalaya"
+    }
+  ],
+  "timestamp": "2026-09-01T09:59:23.100454567Z",
+  "model": "glm-5.3"
+}

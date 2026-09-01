@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Buna görə ⟨את⟩ əmri, ⟨את⟩ qanunları və ⟨את⟩ hökmləri saxlayacaqsan, hansılar ki mən sənə bu gün onları etməyi əmr edirəm.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "saxlayacaqsan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əmri"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "əmri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qanunları"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "qanunları"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hökmləri"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "hökmləri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hansılar ki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mən"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "sənə əmr edirəm"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bu gün"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "onları etməyi"
+    }
+  ],
+  "timestamp": "2026-09-01T10:48:53.168625379Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joel 1:15",
+  "book": "joel",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Vay o günə! Çünki Yahve günü yaxındır, və o, Şaddaydan ⟨olan⟩ dağıntı kimi gələcək.",
+  "tokens": [
+    {
+      "surface": "אהה",
+      "gloss": "Vay"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "o günə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "yaxındır"
+    },
+    {
+      "surface": "יום",
+      "gloss": "günü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וכשד",
+      "gloss": "və dağıntı kimi"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "Şaddaydan"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "gələcək"
+    }
+  ],
+  "timestamp": "2026-09-01T14:39:16.932459072Z",
+  "model": "glm-5.3"
+}

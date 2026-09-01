@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Adını bilənlər Sənə etibar edəcəklər, çünki Sən, Yahve, Səni axtaranları tərk etməmisən.",
+  "tokens": [
+    {
+      "surface": "ויבטחו",
+      "gloss": "etibar edəcəklər"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Sənə"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "bilənlər"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Adını"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "עזבת",
+      "gloss": "tərk etməmisən"
+    },
+    {
+      "surface": "דרשיך",
+      "gloss": "Səni axtaranları"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T15:03:47.379556277Z",
+  "model": "glm-5.3"
+}

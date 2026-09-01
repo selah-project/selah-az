@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və əgər ⟨את⟩ bizim bu sözümüzü bildirsən, biz sənin andından təqsirsiz olacağıq — bizə and içdirdiyin anddan.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Və əgər"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "bildirsən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bizim bu sözümüzü"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "bizim sözümüzü"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "biz olacağıq"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "təqsirsiz"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "sənin andından"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "bizə and içdirdiyin"
+    }
+  ],
+  "timestamp": "2026-09-01T17:31:54.451543044Z",
+  "model": "glm-5.3"
+}

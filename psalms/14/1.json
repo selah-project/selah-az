@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Dirijora. Davuda aid. Axmaq dedi öz qəlbində: «Elohim yoxdur». Pozdular, iyrənc işlər gördülər, yaxşılıq edən yoxdur.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Dirijora"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davuda aid"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "axmaq"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "öz qəlbində"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "pozdular"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "iyrənc etdilər"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "iş"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "edən"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşılıq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:04:50.105799512Z",
+  "model": "glm-5.3"
+}

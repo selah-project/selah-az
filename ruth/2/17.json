@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ruth 2:17",
+  "book": "ruth",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "O, tarlada axşamadək dərdi, və ⟨את⟩ dətdiklərini döydü, və ⟨bu⟩ təxminən bir eyfa arpa oldu.",
+  "tokens": [
+    {
+      "surface": "ותלקט",
+      "gloss": "dərdi"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "tarlada"
+    },
+    {
+      "surface": "עד",
+      "gloss": "adək"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "axşamadək"
+    },
+    {
+      "surface": "ותחבט",
+      "gloss": "və döydü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dətdiklərini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨o,⟩ dətdiklərini"
+    },
+    {
+      "surface": "לקטה",
+      "gloss": "dətdiklərini"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "və oldu"
+    },
+    {
+      "surface": "כאיפה",
+      "gloss": "təxminən bir eyfa"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "arpa"
+    }
+  ],
+  "timestamp": "2026-09-01T16:24:47.997737953Z",
+  "model": "glm-5.3"
+}

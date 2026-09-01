@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 17:20",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Yahve Yisraelin bütün nəslini rədd etdi, onları əzablara saldı və qarətçilərin əlinə verdi, ta ki onları üzündən qovana qədər.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "rədd etdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "nəslini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraelin"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "əzablara saldı"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "əlinə"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "qarətçilərin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ta ki… qədər"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "השליכם",
+      "gloss": "onları qovana"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "üzündən"
+    }
+  ],
+  "timestamp": "2026-09-01T12:39:45.780609703Z",
+  "model": "glm-5.3"
+}

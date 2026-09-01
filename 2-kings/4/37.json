@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-kings 4:37",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və ⟨o⟩ gəldi, ayaqlarının üstünə yıxıldı və yerə səcdə etdi, və ⟨את⟩ oğlunu götürüb çıxdı.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "gəldi"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "yıxıldı"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ayaqlarının"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "səcdə etdi"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yerə"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "götürüb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oğlunu"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "oğlunu"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "çıxdı"
+    }
+  ],
+  "timestamp": "2026-09-01T12:30:35.558101782Z",
+  "model": "glm-5.3"
+}

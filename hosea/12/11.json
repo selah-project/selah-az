@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 12:11",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Peyğəmbərlərlə danışdım və mən vəhyləri çoxaldım, peyğəmbərlərin əli ilə məsəllər çəkdim.",
+  "tokens": [
+    {
+      "surface": "ודברתי",
+      "gloss": "danışdım"
+    },
+    {
+      "surface": "על",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "peyğəmbərlər"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "və mən"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "vəhyləri"
+    },
+    {
+      "surface": "הרביתי",
+      "gloss": "çoxaldım"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "əli ilə"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "peyğəmbərlərin"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "məsəllər çəkdim"
+    }
+  ],
+  "timestamp": "2026-09-01T14:36:21.149603362Z",
+  "model": "glm-5.3"
+}

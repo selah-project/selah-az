@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 15:3",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Yahve müharibə adamıdır, Yahve ⟨onun⟩ adıdır.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "müharibə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "adıdır"
+    }
+  ],
+  "timestamp": "2026-09-01T10:10:01.206946315Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 92,
+  "translation": "İbtidai adam bilmir, axmaq isə bunu anlamır — ⟨את⟩ bunu:",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ibtidai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bilmir"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "(o) bilir"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "və axmaq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "anlamır"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bunu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bun"
+    }
+  ],
+  "timestamp": "2026-09-01T15:32:53.725552126Z",
+  "model": "glm-5.3"
+}

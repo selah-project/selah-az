@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 33:28",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "Beləliklə İsrail təhlükəsiz, təkbaşına yaşayır; Yaqubun gözləri ⟨baxır⟩ dənli və şərab torpağına; hətta sənin göylərin şeh tökəcək.",
+  "tokens": [
+    {
+      "surface": "וישכן",
+      "gloss": "beləliklə yaşayır"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "təhlükəsiz"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "təkbaşına"
+    },
+    {
+      "surface": "עין",
+      "gloss": "gözləri"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqubun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨baxır⟩ ... -a"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "torpağına"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "dənli"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "və şərab"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hətta"
+    },
+    {
+      "surface": "שמיו",
+      "gloss": "sənin göylərin"
+    },
+    {
+      "surface": "יערפו",
+      "gloss": "tökəcək"
+    },
+    {
+      "surface": "טל",
+      "gloss": "şeh"
+    }
+  ],
+  "timestamp": "2026-09-01T10:59:02.921516094Z",
+  "model": "glm-5.3"
+}

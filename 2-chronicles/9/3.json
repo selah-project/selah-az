@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Və Şeba melikəsi Şelomonun ⟨את⟩ hikmətini və ⟨o⟩ evi ki, o tikmişdi, gördü.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "və gördü"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "melikəsi"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Şeba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hikmətini"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "hikmət"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomonun"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "və evi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "tikmişdi"
+    }
+  ],
+  "timestamp": "2026-09-01T17:16:15.051309251Z",
+  "model": "glm-5.3"
+}

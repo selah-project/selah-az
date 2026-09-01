@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 11:3",
+  "book": "daniel",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Qüdrətli bir padşah qalxacaq, böyük hökmranlıqla hökm sürəcək və öz istəyinə görə edəcək.",
+  "tokens": [
+    {
+      "surface": "ועמד",
+      "gloss": "qalxacaq"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "qüdrətli"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "hökm sürəcək"
+    },
+    {
+      "surface": "ממשל",
+      "gloss": "hökmranlıqla"
+    },
+    {
+      "surface": "רב",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "və edəcək"
+    },
+    {
+      "surface": "כרצונו",
+      "gloss": "öz istəyinə görə"
+    }
+  ],
+  "timestamp": "2026-09-01T16:48:21.892441687Z",
+  "model": "glm-5.3"
+}

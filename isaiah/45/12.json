@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 45:12",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 45,
+  "translation": "Mən yeri etdim və üzərində insanı yaratdım; Mən — əllərim göyləri ⟨sökdüm⟩, bütün ordularına isə Mən əmr etdim.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "etdim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yeri"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "və insanı"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "üzərində"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "yaratdım"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "əllərim"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "⟨sökdüm⟩"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "göyləri"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "ordularına"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "əmr etdim"
+    }
+  ],
+  "timestamp": "2026-09-01T13:09:51.391300230Z",
+  "model": "glm-5.3"
+}

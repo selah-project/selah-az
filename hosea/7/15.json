@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 7:15",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Mən isə onları tərbiyə etdim, qollarını möhkəmləndirdim, lakin onlar mənə qarşı şər qururlar.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Mən isə"
+    },
+    {
+      "surface": "יסרתי",
+      "gloss": "tərbiyə etdim"
+    },
+    {
+      "surface": "חזקתי",
+      "gloss": "möhkəmləndirdim"
+    },
+    {
+      "surface": "זרועתם",
+      "gloss": "qollarını"
+    },
+    {
+      "surface": "ואלי",
+      "gloss": "mənə qarşı"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "qururlar"
+    },
+    {
+      "surface": "רע",
+      "gloss": "şər"
+    }
+  ],
+  "timestamp": "2026-09-01T14:36:31.024197217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 49:20",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 49,
+  "translation": "Hələ şikül uşaqların sənin qulaqlarına deyəcəklər: «Yer mənə dar idi, mənə yer aç ki, sığınım.»",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "hələ"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "deyəcəklər"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "qulaqlarına"
+    },
+    {
+      "surface": "בני",
+      "gloss": "uşaqları"
+    },
+    {
+      "surface": "שכליך",
+      "gloss": "şikül olanların"
+    },
+    {
+      "surface": "צר",
+      "gloss": "dar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "yer"
+    },
+    {
+      "surface": "גשה",
+      "gloss": "yer aç"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "və sığınım"
+    }
+  ],
+  "timestamp": "2026-09-01T13:10:51.160973190Z",
+  "model": "glm-5.3"
+}

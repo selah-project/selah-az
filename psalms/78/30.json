@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 78,
+  "translation": "Arzularından kənara dönmədilər, yemək hələ ağızlarında ikən.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kənara dönmədilər (neqasiya)"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "kənara döndilər"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "arzularından"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hələ"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "yemək"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "ağızlarında"
+    }
+  ],
+  "timestamp": "2026-09-01T15:26:54.641822482Z",
+  "model": "glm-5.3"
+}

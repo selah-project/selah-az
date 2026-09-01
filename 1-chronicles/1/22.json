@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "və ⟨את⟩ Ebalı, və ⟨את⟩ Avimaeli, və ⟨את⟩ Şevanı",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ebal"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Ebal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Avimael"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Avimael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Şeva"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Şeva"
+    }
+  ],
+  "timestamp": "2026-09-01T16:59:45.000124656Z",
+  "model": "glm-5.3"
+}

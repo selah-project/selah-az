@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 38,
+  "translation": "Köməyimə tələs, Adonay, mənim xilasım.",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "tələs"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "köməyimə"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": " תשועתי",
+      "gloss": "mənim xilasım"
+    }
+  ],
+  "timestamp": "2026-09-01T15:12:50.930709314Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 60,
+  "translation": "Ver bizə sıxıntıdan ⟨qarşı⟩ kömək, çünki boşdur insanın xilası.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Ver"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizə"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "kömək"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "sıxıntıdan"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "çünki boşdur"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "xilası"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insanın"
+    }
+  ],
+  "timestamp": "2026-09-01T15:19:46.623464707Z",
+  "model": "glm-5.3"
+}

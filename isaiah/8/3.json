@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 8:3",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və mən peygəmbərə ⟨qadına⟩ yaxınlaşdım, və o hamilə oldu, və bir oğlan doğdu. Və Yahve mənə dedi: Adını qoy Maher-Şalal-Haş-Baz.",
+  "tokens": [
+    {
+      "surface": "ואקרב",
+      "gloss": "yaxınlaşdım"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "הנביאה",
+      "gloss": "peygəmbərə ⟨qadına⟩"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "və hamilə oldu"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "və doğdu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "adını qoy"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "adı"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "Maher"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "Şalal"
+    },
+    {
+      "surface": "חש",
+      "gloss": "Haş"
+    },
+    {
+      "surface": "בז",
+      "gloss": "Baz"
+    }
+  ],
+  "timestamp": "2026-09-01T12:48:58.061390229Z",
+  "model": "glm-5.3"
+}

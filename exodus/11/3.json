@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 11:3",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Yahve ⟨את⟩ xalqın lütfünü Mitsrayimlilərin gözündə verdi; həm də həmin adam Moşe Mitsrayim ölkəsində, Paronun qullarının gözündə və xalqın gözündə çox böyük ⟨idi⟩.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "və verdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqın lütfünü"
+    },
+    {
+      "surface": "חן",
+      "gloss": "lütfünü"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqın"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "gözündə"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimlilərin"
+    },
+    {
+      "surface": "גם",
+      "gloss": "həm də"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "həmin adam"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çox"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ölkəsində"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "gözündə"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "qullarının"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paronun"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "və gözündə"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqın"
+    }
+  ],
+  "timestamp": "2026-09-01T10:08:29.272199427Z",
+  "model": "glm-5.3"
+}

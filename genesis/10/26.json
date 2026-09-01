@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 10:26",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Və Yoqtan ⟨את⟩ Əlmudadı, ⟨את⟩ Şelefi, ⟨את⟩ Həsərmaveti və ⟨את⟩ Yerahı doğurdu.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "və Yoqtan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Əlmudadı"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Əlmudadı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Şelefi"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Şelefi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Həsərmaveti"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Həsərmaveti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yerahı"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Yerahı"
+    }
+  ],
+  "timestamp": "2026-09-01T17:25:54.747993755Z",
+  "model": "glm-5.3"
+}

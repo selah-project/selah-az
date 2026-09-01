@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 10:23",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Və Şelomo padşah yerdəki bütün padşahlardan var-dövlətdə də, hikmətdə də böyük ⟨idi⟩.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "böyük ⟨idi⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bütün…dan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "padşahlardan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerdəki"
+    },
+    {
+      "surface": "לעשר",
+      "gloss": "var-dövlətdə"
+    },
+    {
+      "surface": "ולחכמה",
+      "gloss": "hikmətdə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:15:36.376489621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 30:30",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Və ⟨את⟩ Aharonu və ⟨את⟩ oğullarını məsh edəcəksən, və ⟨את⟩ onları mənim üçün kahin olmaları üçün müqəddəsləşdirəcəksən.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharonu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oğullarını"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "məsh edəcəksən"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "müqəddəsləşdirəcəksən"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onları"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kahin olmaları üçün"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənim üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:18:43.939564292Z",
+  "model": "glm-5.3"
+}

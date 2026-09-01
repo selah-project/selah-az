@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 15:32",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Pekahın, Remalyahunun oğlu, Yisrael kralının ikinci ilində Yotam, Uziyahunun oğlu, Yehuda kralı, hökmranlıq etməyə başladı.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "ilində"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ikinci"
+    },
+    {
+      "surface": "לפקח",
+      "gloss": "Pekahın"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remalyahunun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hökmranlıq etməyə başladı"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Uziyahunun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-01T12:37:59.985940747Z",
+  "model": "glm-5.3"
+}

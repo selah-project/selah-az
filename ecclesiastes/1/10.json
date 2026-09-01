@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Elə bir şey var ki, onun haqqında deyilər: «Bax, bu yenidir»? ⟨O⟩ əvvəl-əvvəldən, bizdən əvvəlki dövrlərdə olub.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "var"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "şey"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "deyilər"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "yeni"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨dir⟩"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "əvvəl-əvvəldən"
+    },
+    {
+      "surface": "היה",
+      "gloss": "olub"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "dövrlərdə"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "היה",
+      "gloss": "olub"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "bizdən əvvəlki"
+    }
+  ],
+  "timestamp": "2026-09-01T16:29:15.422328664Z",
+  "model": "glm-5.3"
+}

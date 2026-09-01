@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 17:9",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Elohim Avrahama dedi: «Sən isə ⟨את⟩ əhdimi saxlamalısan — sən və səndən sonrakı nəslin, onların nəsilləri boyu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "sən isə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əhdimi"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "əhdimi"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "saxlamalısan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "və səndən sonrakı nəslin"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "səndən sonra"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "onların nəsilləri boyu"
+    }
+  ],
+  "timestamp": "2026-09-01T09:49:46.371056266Z",
+  "model": "glm-5.3"
+}

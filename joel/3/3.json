@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 3:3",
+  "book": "joel",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Göylərdə və yerdə möcüzələr verəcəyəm: qan, od və tüstü sütunları.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "verəcəyəm"
+    },
+    {
+      "surface": "מופתים",
+      "gloss": "möcüzələr"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "göylərdə"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "və yerdə"
+    },
+    {
+      "surface": "דם",
+      "gloss": "qan"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "od"
+    },
+    {
+      "surface": "ותימרות",
+      "gloss": "sütunları"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "tüstü"
+    }
+  ],
+  "timestamp": "2026-09-01T14:39:57.870655227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 34:2",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 34,
+  "translation": "Səhər üçün hazır ol, səhər Sinay dağına doğru çıx, orada Mənim üçün ⟨dayan⟩ dağın başında.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "və ol"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "hazır"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "səhər üçün"
+    },
+    {
+      "surface": "ועלית",
+      "gloss": "və çıxacaqsan"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "səhər"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə doğru"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dağ"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinay"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "və dayanacaqsan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Mənim üçün"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "başında"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "o dağın"
+    }
+  ],
+  "timestamp": "2026-09-01T10:19:35.400968154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "haggai 2:5",
+  "book": "haggai",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "⟨את⟩ sözü ki, Mitsrayimdən çıxdığınızda sizinlə kəsdim, və ruhum içinizdə durur; qorxmayın.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "söz"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sözü"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "kəsdim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizinlə"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "çıxdığınızda"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayimdən"
+    },
+    {
+      "surface": "ורוחי",
+      "gloss": "və ruhum"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "durur"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "içinizdə"
+    },
+    {
+      "surface": "אל",
+      "gloss": "qorxmayın (negativ)"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "qorxmayın"
+    }
+  ],
+  "timestamp": "2026-09-01T14:52:36.983353773Z",
+  "model": "glm-5.3"
+}

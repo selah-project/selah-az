@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 114,
+  "translation": "Yəhuda Onun müqəddəsliyinə ⟨çevrildi⟩, Yisrael Onun hökmlərinə.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "⟨çevrildi⟩"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yəhuda"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "Onun müqəddəsliyinə"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממשלותיו",
+      "gloss": "Onun hökmranlığına"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:08.813225092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Yahve-yə ⟨את⟩ qorxu ilə xidmət edin və titrəyərək sevinin!",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "xidmət edin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "qorxu ilə"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "və sevinin"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "titrəyərək"
+    }
+  ],
+  "timestamp": "2026-09-01T15:00:55.991987360Z",
+  "model": "glm-5.3"
+}

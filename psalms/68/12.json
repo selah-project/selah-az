@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 68:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 68,
+  "translation": "Adonay sözü verir; müjdəçi qadınlar böyük bir ordudur ⟨sayca⟩.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "verir"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sözü"
+    },
+    {
+      "surface": "המבשרות",
+      "gloss": "müjdəçi qadınlar"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ordu"
+    },
+    {
+      "surface": "רב",
+      "gloss": "böyük"
+    }
+  ],
+  "timestamp": "2026-09-01T15:22:16.077549165Z",
+  "model": "glm-5.3"
+}

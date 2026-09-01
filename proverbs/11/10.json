@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 11:10",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Salehlərin xoşdurumunda şəhər sevincdən sıçrayar, şərirlərin məhvində ⟨isə⟩ sevinc nidası ⟨olunar⟩.",
+  "tokens": [
+    {
+      "surface": "בטוב",
+      "gloss": "xoşdurumunda"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "salehlərin"
+    },
+    {
+      "surface": "תעלף",
+      "gloss": "sıçrayar"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "şəhər"
+    },
+    {
+      "surface": "ובאבד",
+      "gloss": "və məhvində"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "şərirlərin"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "sevinc nidası"
+    }
+  ],
+  "timestamp": "2026-09-01T15:51:27.900171753Z",
+  "model": "glm-5.3"
+}

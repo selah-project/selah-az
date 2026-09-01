@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 3:14",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Elohim Moşeyə dedi: Olacağam ki Olacağam. Və dedi: İsrail oğullarına belə deyəcəksən: Olacağam məni sizə göndərdi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Olacağam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Olacağam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "כה",
+      "gloss": "belə"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "deyəcəksən"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oğullarına"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Olacağam"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "məni göndərdi"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "sizə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:06:05.713764348Z",
+  "model": "glm-5.3"
+}

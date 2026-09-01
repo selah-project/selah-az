@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Bunlar döyüş arabalarına, bunlar atlara ⟨etibar edir⟩; biz isə Yahve adını, Elohimimizi yada salırıq.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Bunlar"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "döyüş arabalarına"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "bunlar"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "atlara"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "biz isə"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "adını"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimizi"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "yada salırıq"
+    }
+  ],
+  "timestamp": "2026-09-01T17:41:48.464716167Z",
+  "model": "glm-5.3"
+}

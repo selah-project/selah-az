@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 106,
+  "translation": "əcəbləndirici işlər Xam torpağında, qorxu salan işlər Suph dənizi üstündə.",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "əcəbləndirici işlər"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "torpağında"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Xam"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "qorxu salan işlər"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dənizi"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suph"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:04.791951570Z",
+  "model": "glm-5.3"
+}

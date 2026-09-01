@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 17:20",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Əyri ürəkli yaxşılıq tapmır, və dilində dönük olan şərə düşür.",
+  "tokens": [
+    {
+      "surface": "עקש",
+      "gloss": "əyri"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ürəkli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "tapmır"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşılıq"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "dönük olan"
+    },
+    {
+      "surface": "בלשונו",
+      "gloss": "dilində"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "düşür"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "şərə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:54:39.244550869Z",
+  "model": "glm-5.3"
+}

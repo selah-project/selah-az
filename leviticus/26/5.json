@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 26:5",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Və döymə vaxtınız ⟨את⟩ üzüm yığımına çatacaq, üzüm yığımı ⟨את⟩ əkmə vaxtına çatacaq; çörəyinizi toxumluğuna qədər yeyəcəksiniz və torpağınızda əmin-amanlıqla yaşayacaqsınız.",
+  "tokens": [
+    {
+      "surface": "והשיג",
+      "gloss": "çatacaq"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin"
+    },
+    {
+      "surface": "דיש",
+      "gloss": "döymə vaxtı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "üzüm yığımı"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "üzüm yığımı"
+    },
+    {
+      "surface": "ובציר",
+      "gloss": "və üzüm yığımı"
+    },
+    {
+      "surface": "ישיג",
+      "gloss": "çatacaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əkmə vaxtı"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "əkmə vaxtı"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "yeyəcəksiniz"
+    },
+    {
+      "surface": "לחמכם",
+      "gloss": "çörəyinizi"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "toxumluğuna qədər"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "yaşayacaqsınız"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "əmin-amanlıqla"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "torpağınızda"
+    }
+  ],
+  "timestamp": "2026-09-01T10:31:22.122694412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 136,
+  "translation": "⟨O⟩, bütün ətə çörək verən, çünki onun hesedi əbədidir.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "verən"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "çörək"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ətə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədidir"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "onun hesedi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:43:44.117213700Z",
+  "model": "glm-5.3"
+}

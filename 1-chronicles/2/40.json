@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Elasa ⟨את⟩ Sismayı dünyaya gətirdi, və Sismay ⟨את⟩ Şallumu dünyaya gətirdi.",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "Elasa"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "dünyaya gətirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sismayı"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "Sismay"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "və Sismay"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "dünyaya gətirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şallumu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Şallum"
+    }
+  ],
+  "timestamp": "2026-09-01T17:00:18.987862132Z",
+  "model": "glm-5.3"
+}

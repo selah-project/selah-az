@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 31:8",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "və ⟨את⟩ süfrəni və ⟨את⟩ onun ləvazimatını, və ⟨את⟩ təmiz məşəyi və ⟨את⟩ onun bütün ləvazimatını, və ⟨את⟩ buxur qurbangahını",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "süfrəni"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "süfrəni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "onun ləvazimatını"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "onun ləvazimatını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "təmiz məşəyi"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "məşəyi"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "təmiz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "onun bütün ləvazimatını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "onun ləvazimatını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "buxur qurbangahını"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "qurbangahını"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "buxur"
+    }
+  ],
+  "timestamp": "2026-09-01T17:56:26.368781293Z",
+  "model": "glm-5.3"
+}

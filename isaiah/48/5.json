@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 48:5",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 48,
+  "translation": "Əvvəldən sənə xəbər verdim, o hələ gəlməmişdən sənə eşitdirdim — ki, mənbəut bütlərim bunları etdi, oyma bütlərim və tökmə bütlərim bunları əmr etdi — deməyəsən.",
+  "tokens": [
+    {
+      "surface": "ואגיד",
+      "gloss": "xəbər verdim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "əvvəldən"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "hələ ... olmadan"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "gəlməmişdən"
+    },
+    {
+      "surface": "השמעתיך",
+      "gloss": "sənə eşitdirdim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ki ... deməyəsən"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "deməyəsən"
+    },
+    {
+      "surface": "עצבי",
+      "gloss": "mənbəut bütlərim"
+    },
+    {
+      "surface": "עשם",
+      "gloss": "bunları etdi"
+    },
+    {
+      "surface": "ופסלי",
+      "gloss": "və oyma bütlərim"
+    },
+    {
+      "surface": "ונסכי",
+      "gloss": "və tökmə bütlərim"
+    },
+    {
+      "surface": "צום",
+      "gloss": "əmr etdi"
+    }
+  ],
+  "timestamp": "2026-09-01T13:09:37.432074975Z",
+  "model": "glm-5.3"
+}

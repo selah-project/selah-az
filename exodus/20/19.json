@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 20:19",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "və Moşeyə dedilər: sən bizimlə danış ki, eşidək; Elohim bizimlə danışmasın, yoxsa ölərik.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "və dedilər"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "danış"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "bizimlə"
+    },
+    {
+      "surface": "ונשמעה",
+      "gloss": "ki eşidək"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "danışmasın"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "bizimlə"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "yoxsa"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "ölərik"
+    }
+  ],
+  "timestamp": "2026-09-01T10:12:21.117497082Z",
+  "model": "glm-5.3"
+}

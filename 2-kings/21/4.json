@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 21:4",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Və o, Yahvenin evində qurbangahlar ucaldı — haqqında Yahve demişdi: «Yeruşalayimda ⟨את⟩ Adımı qoyacağam.»",
+  "tokens": [
+    {
+      "surface": "ובנה",
+      "gloss": "və ucaldı"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "qurbangahlar"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "evində"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "haqqında"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "demişdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yeruşalayimda"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "qoyacağam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adımı"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Adımı"
+    }
+  ],
+  "timestamp": "2026-09-01T17:59:48.588732337Z",
+  "model": "glm-5.3"
+}

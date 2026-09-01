@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 111,
+  "translation": "Hallelu Yah! Bütün qəlblə Yahveyə şükür edirəm, düzlərin məclisində və ⟨cəmiyyətdə⟩.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Hallelu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "şükür edirəm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "qəlblə"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "məclisində"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "düzlərin"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "və ⟨cəmiyyətdə⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:16.026323963Z",
+  "model": "glm-5.3"
+}

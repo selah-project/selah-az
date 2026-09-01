@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 44:5",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 44,
+  "translation": "Bu deyəcək: «Mən Yahveninəm», bu özünü Yaaqovun adı ilə çağıracaq, bu əli ilə «Yahve üçün» yazacaq və İsrailin adı ilə özünə ad qoyacaq.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "deyəcək"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "çağıracaq"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "adı ilə"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaqovun"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "יכתב",
+      "gloss": "yazacaq"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "əli ilə"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve üçün"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "adı ilə"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailin"
+    },
+    {
+      "surface": "יכנה",
+      "gloss": "özünə ad qoyacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T13:08:55.016219485Z",
+  "model": "glm-5.3"
+}

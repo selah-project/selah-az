@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 4:13",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və ⟨את⟩ məbədin kulunu təmizləyəcəklər və onun üstünə göyərti parçasından örtük — arğmanan rəngli paltar yayacaqlar.",
+  "tokens": [
+    {
+      "surface": "ודשנו",
+      "gloss": "kulunu təmizləyəcəklər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "məbəd"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "məbəd"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "yayacaqlar"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üstünə"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "paltar"
+    },
+    {
+      "surface": "ארגמן",
+      "gloss": "arğmanan (bənövşəyi)"
+    }
+  ],
+  "timestamp": "2026-09-01T10:33:45.262382244Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 16:26",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Zəhmət çəkən nəfəş özü üçün zəhmət çəkir, çünki onun ağzı ona təzyiq edir.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "nəfəş"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "zəhmət çəkən"
+    },
+    {
+      "surface": "עמלה",
+      "gloss": "zəhmət çəkir"
+    },
+    {
+      "surface": "לו",
+      "gloss": "özü üçün"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אכף",
+      "gloss": "təzyiq edir"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "onun ağzı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:54:11.147596376Z",
+  "model": "glm-5.3"
+}

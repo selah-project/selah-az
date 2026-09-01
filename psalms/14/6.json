@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 14:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Miskinin məsləhətini rüsvay edirsiniz, çünki Yahve onun sığınacağıdır.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "məsləhətini"
+    },
+    {
+      "surface": "עני",
+      "gloss": "miskinin"
+    },
+    {
+      "surface": "תבישו",
+      "gloss": "rüsvay edirsiniz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מחסהו",
+      "gloss": "onun sığınacağıdır"
+    }
+  ],
+  "timestamp": "2026-09-01T15:04:04.704507005Z",
+  "model": "glm-5.3"
+}

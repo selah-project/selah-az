@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "psalms 119:76",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Olsun, nə olar, sənin hesed-in mənə təsəlli üçün, sənin quluna dediyin sözə görə.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nə olar"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "sənin hesed-in"
+    },
+    {
+      "surface": "לנחמני",
+      "gloss": "mənə təsəlli üçün"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "sənin dediyin sözə görə"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "sənin quluna"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:23.921636521Z",
+  "model": "glm-5.3"
+}

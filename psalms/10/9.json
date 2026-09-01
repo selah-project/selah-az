@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 10:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Gizli yerdə, sükka içindəki şir kimi pusquya uzanır; kasıbı qapmaq üçün pusquya uzanır; kasıbı öz toruna çəkərək qapır.",
+  "tokens": [
+    {
+      "surface": "יארב",
+      "gloss": "pusquya uzanır"
+    },
+    {
+      "surface": "במסתר",
+      "gloss": "gizli yerdə"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "şir kimi"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "sükka içində"
+    },
+    {
+      "surface": "יארב",
+      "gloss": "pusquya uzanır"
+    },
+    {
+      "surface": "לחטוף",
+      "gloss": "qapmaq üçün"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kasıbı"
+    },
+    {
+      "surface": "יחטף",
+      "gloss": "qapır"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kasıbı"
+    },
+    {
+      "surface": "במשכו",
+      "gloss": "çəkərək"
+    },
+    {
+      "surface": "ברשתו",
+      "gloss": "toruna"
+    }
+  ],
+  "timestamp": "2026-09-01T15:03:34.708169409Z",
+  "model": "glm-5.3"
+}

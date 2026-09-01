@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 88,
+  "translation": "Yahve, mənim qurtuluşumun Elohimi! Fəryad etdiyim gün, gecə Sənin qarşında ⟨olur⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "mənim qurtuluşumun"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "fəryad etdiyim"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "gecə"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "Sənin qarşında"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:57.267235401Z",
+  "model": "glm-5.3"
+}

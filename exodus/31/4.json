@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 31:4",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "qurğular düşünmək üçün — qızılda, gümüşdə və misdə işləmək üçün.",
+  "tokens": [
+    {
+      "surface": "לַחְשֹׁב",
+      "gloss": "düşünmək üçün"
+    },
+    {
+      "surface": "מַחֲשָׁבֹת",
+      "gloss": "qurğular"
+    },
+    {
+      "surface": "לַעֲשׂוֹת",
+      "gloss": "işləmək üçün"
+    },
+    {
+      "surface": "בַּזָּהָב",
+      "gloss": "qızılda"
+    },
+    {
+      "surface": "וּבַכֶּסֶף",
+      "gloss": "gümüşdə"
+    },
+    {
+      "surface": "וּבַנְּחֹשֶׁת",
+      "gloss": "misdə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:17:31.641750689Z",
+  "model": "glm-5.3"
+}

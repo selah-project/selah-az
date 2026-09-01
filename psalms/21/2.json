@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 21:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Yahve, qüdrətində padşah sevinir, sənin qurtuluşunda nə qədər coşur!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "qüdrətində"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "sevinir"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "ובישועתך",
+      "gloss": "və qurtuluşunda"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə qədər"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "coşur"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çox"
+    }
+  ],
+  "timestamp": "2026-09-01T15:07:42.195069681Z",
+  "model": "glm-5.3"
+}

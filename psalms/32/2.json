@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Nə xoşbəxtdir o adam ki, Yahve ona əyriliyi saymır, ⟨və⟩ ruhunda hiylə yoxdur.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "nə xoşbəxtdir"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "o adam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "saymır"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "עון",
+      "gloss": "əyriliyi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "ruhunda"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "hiylə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:11:42.230000376Z",
+  "model": "glm-5.3"
+}

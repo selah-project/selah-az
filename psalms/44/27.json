@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 44:27",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 44,
+  "translation": "Qalx ⟨kömək olmaq üçün⟩ bizə, və bizi hesedin ⟨üçün⟩ fidyə ilə azad et!",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Qalx"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "kömək"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizə"
+    },
+    {
+      "surface": "ופדנו",
+      "gloss": "və bizi azad et"
+    },
+    {
+      "surface": "למען",
+      "gloss": "üçün"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:15:10.303625400Z",
+  "model": "glm-5.3"
+}

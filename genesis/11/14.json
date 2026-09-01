@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Şelax otuz il yaşadı və ⟨את⟩ Eberi doğdu.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "Şelax"
+    },
+    {
+      "surface": "חי",
+      "gloss": "yaşadı"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "otuz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "il"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "doğdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eberi"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eberi"
+    }
+  ],
+  "timestamp": "2026-09-01T17:25:48.873365098Z",
+  "model": "glm-5.3"
+}

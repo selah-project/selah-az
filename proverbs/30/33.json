@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 30:33",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Çünki südün sıxılması yağ çıxarır, burunun sıxılması qan çıxarır və qəzəbin sıxılması ⟨dava⟩ çıxarır.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "מיץ",
+      "gloss": "sıxılması"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "südün"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "çıxarır"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "yağ"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "və sıxılması"
+    },
+    {
+      "surface": "אף",
+      "gloss": "burunun"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "çıxarır"
+    },
+    {
+      "surface": "דם",
+      "gloss": "qan"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "və sıxılması"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "qəzəbin"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "çıxarır"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "⟨dava⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T16:01:19.049292706Z",
+  "model": "glm-5.3"
+}

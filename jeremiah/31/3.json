@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 31:3",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "Uzaqdan Yahve mənə göründü: səni əbədi sevgi ilə sevmişəm, ona görə də səni hesed (sadiq mərhəmət) ilə çəkdim.",
+  "tokens": [
+    {
+      "surface": "מרחוק",
+      "gloss": "Uzaqdan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "göründü"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "ואהבת",
+      "gloss": "və sevgi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "אהבתיך",
+      "gloss": "səni sevmişəm"
+    },
+    {
+      "surface": "על",
+      "gloss": "ona görə"
+    },
+    {
+      "surface": "כן",
+      "gloss": "də"
+    },
+    {
+      "surface": "משכתיך",
+      "gloss": "səni çəkdim"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed (sadiq mərhəmət) ilə"
+    }
+  ],
+  "timestamp": "2026-09-01T13:42:19.740194360Z",
+  "model": "glm-5.3"
+}

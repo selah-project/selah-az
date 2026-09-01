@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 113,
+  "translation": "Tərif olsun Yah! Tərif olsun, ey Yahvenin qulları, Yahvenin adını tərifləyin ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "tərif olsun"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "tərifləyin"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "qulları"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "tərifləyin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adını"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adını"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:37:53.028974Z",
+  "model": "glm-5.3"
+}

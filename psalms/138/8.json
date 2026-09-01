@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 138,
+  "translation": "Yahve ⟨mənim üçün olanı⟩ tamamlayacaq; Yahve, sənin hesedin əbədidir; əllərinin əməllərini buraxma!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "tamamlayacaq"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "mənim üçün"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedin"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədidir"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "əməllərini"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "əllərinin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "buraxma"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "buraxma"
+    }
+  ],
+  "timestamp": "2026-09-01T15:44:56.770758251Z",
+  "model": "glm-5.3"
+}

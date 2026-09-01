@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Kralın sözünün ⟨olduğu⟩ yerdə hakimiyyət ⟨var⟩, və kim ona deyər: ⟨nə⟩ edirsən?",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "...olduğu yerdə"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sözünün"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "hakimiyyət"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "və kim"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "deyər"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "edirsən"
+    }
+  ],
+  "timestamp": "2026-09-01T16:32:00.632562330Z",
+  "model": "glm-5.3"
+}

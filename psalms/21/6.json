@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 21:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Sənin qurtuluşunda onun izzəti böyükdür; şərəf və əzəmət qoyursan onun üstünə.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "böyükdür"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "onun izzəti"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "Sənin qurtuluşunda"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "şərəf"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "və əzəmət"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "qoyursan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üstünə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:07:56.043610387Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 20:10",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Moşe və Aharon ⟨את⟩ cəmiyyəti qayanın üzünə topladılar, və ⟨o⟩ onlara dedi: Eşidin indi, ey üsyançılar, bu qayadan sizə ⟨biz⟩ su çıxardaqmı?",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "topladılar"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "və Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cəmiyyəti"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "cəmiyyəti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə doğru"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzünə"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "qayanın"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "eşidin"
+    },
+    {
+      "surface": "נא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "ey üsyançılar"
+    },
+    {
+      "surface": "המן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "qayadan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "נוציא",
+      "gloss": "çıxardaqmı"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizə"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    }
+  ],
+  "timestamp": "2026-09-01T10:40:19.387828323Z",
+  "model": "glm-5.3"
+}

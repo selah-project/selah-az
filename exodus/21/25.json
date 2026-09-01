@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Dağma ⟨dağmanın⟩ yerinə, yara yaranın yerinə, göymartı göymartının yerinə.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "dağma"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "yerinə"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "dağma"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "yara"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "yerinə"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "yara"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "göymartı"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "yerinə"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "göymartı"
+    }
+  ],
+  "timestamp": "2026-09-01T17:27:12.725401017Z",
+  "model": "glm-5.3"
+}

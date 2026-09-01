@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 11:2",
+  "book": "job",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Söz çoxluğu ⟨heç⟩ cavablandırılmayacaq, yoxsa dodaqlar adamı haqlı çıxacaq?",
+  "tokens": [
+    {
+      "surface": "הרב",
+      "gloss": "çoxluğu"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "söz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨heç⟩ ... -mayacaq"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "cavablandırılacaq"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "yoxsa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "dodaqlar"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "haqlı çıxacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T16:07:55.452868879Z",
+  "model": "glm-5.3"
+}

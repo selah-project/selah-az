@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 33:17",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "Yalnız ⟨hələ⟩ xalq bamotlarda qurban kəsirdi, ancaq Yahve öz Elohiminə ⟨və yalnız Ona⟩.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "Yalnız"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨hələ⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "qurban kəsirdi"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "bamotlarda"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ancaq"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "öz Elohimlərinə"
+    }
+  ],
+  "timestamp": "2026-09-01T18:04:11.356323549Z",
+  "model": "glm-5.3"
+}

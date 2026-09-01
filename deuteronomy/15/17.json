@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 15:17",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "O vaxt ⟨את⟩ mərxəyi götürüb qulağına və ⟨את⟩ qapıya sancacaqsan, və o, sənə əbədi qul olacaq; qul qadınına da belə edəcəksən.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "götürüb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mərxəyi"
+    },
+    {
+      "surface": "המרצע",
+      "gloss": "mərxəyi"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "sancacaqsan"
+    },
+    {
+      "surface": "באזנו",
+      "gloss": "qulağına"
+    },
+    {
+      "surface": "ובדלת",
+      "gloss": "və qapıya"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "və olacaq"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "qul"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "həm də"
+    },
+    {
+      "surface": "לאמתך",
+      "gloss": "qul qadınına"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "edəcəksən"
+    },
+    {
+      "surface": "כן",
+      "gloss": "belə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:50:58.461440641Z",
+  "model": "glm-5.3"
+}

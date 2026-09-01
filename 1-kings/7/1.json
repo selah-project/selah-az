@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Öz evini isə Şelomo on üç ildə tikdi və bütün evini bitirdi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "öz evini"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "öz evini"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "tikdi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "on üç"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(on üç)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ildə"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "və bitirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "evini"
+    }
+  ],
+  "timestamp": "2026-09-01T12:13:39.258297256Z",
+  "model": "glm-5.3"
+}

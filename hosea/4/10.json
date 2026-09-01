@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və yeyəcəklər, doymayacaqlar; zina edəcəklər, çoxalmayacaqlar; çünki Yahveni ⟨את⟩ tərk etdilər, saxlamağa ⟨dir itaəti⟩.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "Və yeyəcəklər"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "doymayacaqlar"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "…"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "zina edəcəklər"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "çoxalmayacaqlar"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "…"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "tərk etdilər"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "saxlamağa"
+    }
+  ],
+  "timestamp": "2026-09-01T14:33:13.727662133Z",
+  "model": "glm-5.3"
+}

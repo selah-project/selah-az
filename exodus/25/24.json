@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 25:24",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Və onu təmiz qızıl ilə örtəcəksən ⟨את⟩ və ona ətrafına qızıl haşiyə düzəldəcəksən.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "örtəcəksən"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "onu ⟨את⟩",
+      "marks": "onu (masa)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "qızıl"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "təmiz"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "düzəldəcəksən"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "זר",
+      "gloss": "haşiyə"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "qızıl"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ətrafına"
+    }
+  ],
+  "timestamp": "2026-09-01T10:16:42.340410537Z",
+  "model": "glm-5.3"
+}

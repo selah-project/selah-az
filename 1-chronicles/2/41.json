@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Şallum ⟨את⟩ Yəqamyanı dünyaya gətirdi, Yəqamyah isə ⟨את⟩ Elişamanı dünyaya gətirdi.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "Şallum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dünyaya gətirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yəqamyanı"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "Yəqamyanı"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "Yəqamyah isə"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "dünyaya gətirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elişamanı"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elişamanı"
+    }
+  ],
+  "timestamp": "2026-09-01T16:59:48.391028851Z",
+  "model": "glm-5.3"
+}

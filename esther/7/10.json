@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Onlar ⟨את⟩ Hamanı onun Mordeşaya hazırladığı ağacın üstündə asdılar və hökmdarın qəzəbi dindi.",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "asdılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hamanı"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamanı"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ağacın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "hazırladığı"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordeşaya"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "və qəzəbi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hökmdarın"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "dindi"
+    }
+  ],
+  "timestamp": "2026-09-01T18:20:56.634926114Z",
+  "model": "glm-5.3"
+}

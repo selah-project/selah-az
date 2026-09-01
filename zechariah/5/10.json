@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Və mənimlə danışan mələyə dedim: Bunlar ⟨את⟩ eyfanı haraya aparırlar?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "dedim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "mələyə"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "danışan"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mənimlə"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "haraya"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bunlar"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "aparırlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eyfanı"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "eyfanı"
+    }
+  ],
+  "timestamp": "2026-09-01T14:54:33.932321217Z",
+  "model": "glm-5.3"
+}

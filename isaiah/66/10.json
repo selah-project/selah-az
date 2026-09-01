@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 66:10",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 66,
+  "translation": "Yeruşalayim ⟨את⟩ ilə sevinin və onu sevən hamısı onunla quvanın; onun üçün yas tutanlar hamısı onunla sevincindən coşun.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "sevinin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ilə",
+      "marks": "preposisiya (H854), nişan yox — 'Yeruşalayim ilə'"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "quvanın"
+    },
+    {
+      "surface": "בה",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamısı"
+    },
+    {
+      "surface": "אהביה",
+      "gloss": "onu sevən"
+    },
+    {
+      "surface": "שישו",
+      "gloss": "coşun"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ onunla"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "sevincindən"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamısı"
+    },
+    {
+      "surface": "המתאבלים",
+      "gloss": "yas tutanlar"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "onun üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T13:19:42.808345533Z",
+  "model": "glm-5.3"
+}

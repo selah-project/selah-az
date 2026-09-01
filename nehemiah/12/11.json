@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "və Yoyada ⟨את⟩ Yonatanı doğurdu, və Yonatan ⟨את⟩ Yaduanı doğurdu.",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "və Yoyada"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatanı"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatanı"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "və Yonatan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaduanı"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "Yaduanı"
+    }
+  ],
+  "timestamp": "2026-09-01T16:58:19.801483014Z",
+  "model": "glm-5.3"
+}

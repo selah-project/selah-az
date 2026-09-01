@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 38:25",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 38,
+  "translation": "Və sayılmışların — icmanın — gümüşü yüz kikar, min yeddi yüz yetmiş beş şəkel oldu, müqəddəs şəkeli ilə ⟨olçu⟩.",
+  "tokens": [
+    {
+      "surface": "וכסף",
+      "gloss": "və gümüşü"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "sayılmışların"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "icmanın"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "kikar"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "min"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "yeddi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "beş"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "yetmiş"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "şəkel"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "şəkeli ilə"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "müqəddəs ⟨olçüsü⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T17:27:29.806780586Z",
+  "model": "glm-5.3"
+}

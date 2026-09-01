@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 24:1",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Kişi qadın götürəndə və ona sahib olanda, olar ki, o, onun gözündə lütf tapmasın, çünki o, onda çılpaqlıq ⟨bir⟩ şey tapıb, ona boşanma məktubi yazsın, onu əlinə versin və onu öz evindən göndərsin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "götürəndə"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kişi"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "qadın"
+    },
+    {
+      "surface": "ובעלה",
+      "gloss": "ona sahib olanda"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "olar ki"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-masın"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "tapasın"
+    },
+    {
+      "surface": "חן",
+      "gloss": "lütf"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "onun gözündə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "tapıb"
+    },
+    {
+      "surface": "בה",
+      "gloss": "onda"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "çılpaqlıq"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "şey"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "yazsın"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "məktub"
+    },
+    {
+      "surface": "כריתת",
+      "gloss": "boşanma"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "versin"
+    },
+    {
+      "surface": "בידה",
+      "gloss": "əlinə"
+    },
+    {
+      "surface": "ושלחה",
+      "gloss": "göndərsin"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "öz evindən"
+    }
+  ],
+  "timestamp": "2026-09-01T10:54:36.540971215Z",
+  "model": "glm-5.3"
+}

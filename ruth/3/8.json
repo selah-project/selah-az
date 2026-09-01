@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ruth 3:8",
+  "book": "ruth",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Gecənin yarısında oldu ki, adam titrədi və çevrildi — və bax, bir qadın ayaq uclarında uzanmışdı.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "oldu ki"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "yarısında"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "gecənin"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "titrədi"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "וילפת",
+      "gloss": "və çevrildi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "və bax"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "bir qadın"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "uzanmışdı"
+    },
+    {
+      "surface": "מרגלתיו",
+      "gloss": "ayaq uclarında"
+    }
+  ],
+  "timestamp": "2026-09-01T16:23:36.091955593Z",
+  "model": "glm-5.3"
+}

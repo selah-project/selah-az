@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 13:15",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "çünki ⟨את⟩ bütün torpağı ki sən görürsən, sənə onu verəcəyəm və nəslinə əbədiyyən.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün torpağı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "torpağı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "görürsən"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "onu verəcəyəm"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "və nəslinə"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "əbədiyyət"
+    }
+  ],
+  "timestamp": "2026-09-01T09:48:51.890701755Z",
+  "model": "glm-5.3"
+}

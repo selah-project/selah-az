@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "Gözlədim, səbirlə gözlədim Yahveni, və O mənə meyl etdi və fəryadımı eşitdi.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "gözlədim"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "səbirlə gözlədim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "meyl etdi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "eşitdi"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "fəryadımı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:13:51.389359699Z",
+  "model": "glm-5.3"
+}

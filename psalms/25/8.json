@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Xeyirxah və düz ⟨dir⟩ Yahve, ona görə günahkarları yolda öyrədər.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Xeyirxah"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "və düz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "ona"
+    },
+    {
+      "surface": "כן",
+      "gloss": "görə"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "öyrədər"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "günahkarları"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolda"
+    }
+  ],
+  "timestamp": "2026-09-01T15:08:44.997822033Z",
+  "model": "glm-5.3"
+}

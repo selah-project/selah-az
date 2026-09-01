@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 6:19",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Onu günaha dair qurban edən kahan ⟨onun⟩ ⟨את⟩ yeyəcək; müqəddəs yerdə yeyiləcək, görüş çadırının həyətində.",
+  "tokens": [
+    {
+      "surface": "הכהן",
+      "gloss": "kahan"
+    },
+    {
+      "surface": "המחטא",
+      "gloss": "günaha dair qurban edən"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "יאכלנה",
+      "gloss": "yeyəcək"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "yerdə"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yeyiləcək"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "həyətində"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadırının"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "görüş"
+    }
+  ],
+  "timestamp": "2026-09-01T10:23:19.574387177Z",
+  "model": "glm-5.3"
+}

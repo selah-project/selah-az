@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 1:17",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və qəlbimi hikməti bilməyə, dəliliyi və ağılsızlığı bilməyə verdim; bildim ki, həm bu da küləyin ovlanmasıdır.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "və verdim"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "qəlbimi"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "bilməyə"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikməti"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "və bilməyə"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "dəliliyi"
+    },
+    {
+      "surface": "ושכלות",
+      "gloss": "və ağılsızlığı"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "bildim"
+    },
+    {
+      "surface": "שגם",
+      "gloss": "ki, həm"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "da"
+    },
+    {
+      "surface": "רעיון",
+      "gloss": "ovlanmasıdır"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "küləyin"
+    }
+  ],
+  "timestamp": "2026-09-01T16:28:38.935935652Z",
+  "model": "glm-5.3"
+}

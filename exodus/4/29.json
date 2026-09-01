@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 4:29",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Moşe və Aharon getdilər və Yisrael oğullarının bütün qocalarını topladılar.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "getdilər"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "və Aharon"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "topladılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün qocaları"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "qocaları"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T10:05:25.618953132Z",
+  "model": "glm-5.3"
+}

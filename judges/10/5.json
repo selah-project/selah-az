@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 10:5",
+  "book": "judges",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Və Yair öldü və Kamonda dəfn olundu.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "və öldü"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Yair"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "və dəfn olundu"
+    },
+    {
+      "surface": "בקמון",
+      "gloss": "Kamonda"
+    }
+  ],
+  "timestamp": "2026-09-01T11:22:31.453865554Z",
+  "model": "glm-5.3"
+}

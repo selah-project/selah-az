@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 143:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 143,
+  "translation": "İstəyini yerinə yetirməyi mənə öyrət, çünki sən mənim Eloahımsan; ruhun xeyirlidir, məni düz torpaqda yönəlt.",
+  "tokens": [
+    {
+      "surface": "למדני",
+      "gloss": "mənə öyrət"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yerinə yetirməyi"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "istəyini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Eloahım"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "ruhun"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "xeyirlidir"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "məni yönəlt"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "torpaqda"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "düz"
+    }
+  ],
+  "timestamp": "2026-09-01T15:44:26.108827674Z",
+  "model": "glm-5.3"
+}

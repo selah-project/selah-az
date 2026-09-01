@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 3:10",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və mənə dedi: İnsan oğlu, sənə danışacağım bütün sözlərimi ⟨את⟩ ürəyinlə götür və qulaqlarınla eşit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Və ... dedi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "İnsan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün sözlərimi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözlərimi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "danışacağım"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "קח",
+      "gloss": "götür"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "ürəyinlə"
+    },
+    {
+      "surface": "ובאזניך",
+      "gloss": "və qulaqlarınla"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eşit"
+    }
+  ],
+  "timestamp": "2026-09-01T18:00:43.816192093Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 12:16",
+  "book": "2-samuel",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Davit uşaq üçün Elohimdən ⟨את⟩ dilədi; Davit oruc tutdu, ⟨evə⟩ girdi, gecələdi və yerə uzandı.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "dilədi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimdən"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimdən"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "üçün"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "uşaq"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "oruc tutdu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davit"
+    },
+    {
+      "surface": "צום",
+      "gloss": "oruc"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "girdi"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "gecələdi"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "uzandı"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yerə"
+    }
+  ],
+  "timestamp": "2026-09-01T11:58:18.221869782Z",
+  "model": "glm-5.3"
+}

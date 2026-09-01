@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 26:6",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Və mısırlılar bizə pis rəftar etdilər ⟨את⟩ bizi, və bizi əzib yoxsaltdılar, və üstümüzə ağır məcburi əmək qoydular.",
+  "tokens": [
+    {
+      "surface": "וירעו",
+      "gloss": "pis rəftar etdilər"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "bizi (mısırlıların əzdiyi obyekt)"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "mısırlılar"
+    },
+    {
+      "surface": "ויענונו",
+      "gloss": "əzib yoxsaltdılar"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "qoydular"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "üstümüzə"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "məcburi əmək"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ağır"
+    }
+  ],
+  "timestamp": "2026-09-01T10:54:25.804175021Z",
+  "model": "glm-5.3"
+}

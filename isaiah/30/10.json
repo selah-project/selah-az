@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 30:10",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "O kəslər ki, görənlərə dedilər: Görməyin; görübülənlərə: Bizə doğruluğu görməyin, bizə yumşaq sözlər danışın, aldatmalar görün.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "o kəslər ki"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "dedilər"
+    },
+    {
+      "surface": "לראים",
+      "gloss": "görənlərə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "görməyin"
+    },
+    {
+      "surface": "ולחזים",
+      "gloss": "və görübülənlərə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תחזו",
+      "gloss": "görməyin"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizə"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "doğruluğu"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "danışın"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizə"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "yumşaq sözlər"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "görün"
+    },
+    {
+      "surface": "מהתלות",
+      "gloss": "aldatmalar"
+    }
+  ],
+  "timestamp": "2026-09-01T13:00:16.268176121Z",
+  "model": "glm-5.3"
+}

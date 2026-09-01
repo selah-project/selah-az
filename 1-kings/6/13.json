@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 6:13",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Və Yisrael oğullarının ortasında sakin olacağam və xalqım Yisraeli ⟨את⟩ tərk etməyəcəyəm.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "sakin olacağam"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ortasında"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... etməyəcəyəm"
+    },
+    {
+      "surface": "אעזב",
+      "gloss": "tərk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqım Yisraeli"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqım"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T12:14:08.053437866Z",
+  "model": "glm-5.3"
+}

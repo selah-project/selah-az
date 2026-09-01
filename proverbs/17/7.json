@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 17:7",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Üst-dodaq nadana yaraşmaz, nə qədər ki, yalan dodaq zadalgana ⟨yaraşar⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yaraşmaz"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "yaraşır"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "nadana"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "dodaq"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "üst-dodaq"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nə qədər"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לנדיב",
+      "gloss": "zadalgana"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "dodaq"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yalan"
+    }
+  ],
+  "timestamp": "2026-09-01T17:43:58.196344122Z",
+  "model": "glm-5.3"
+}

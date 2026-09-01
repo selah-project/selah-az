@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 20:24",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Mənə torpaqdan qurbangah düzəlt; üstündə ⟨את⟩ yandırma qurbanlarını, ⟨את⟩ salam qurbanlarını, ⟨את⟩ qoyunlarını və ⟨את⟩ iri buynuzlu heyvanlarını qurban et. Adımı yad etdiyim hər yerdə sənin yanına gələcəyəm və səni mübarək edəcəyəm.",
+  "tokens": [
+    {
+      "surface": "מזבח",
+      "gloss": "qurbangah"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "torpaqdan"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "düzəlt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "וזבחת",
+      "gloss": "və qurban et"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yandırma qurbanlarını"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "yandırma qurbanlarını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "salam qurbanlarını"
+    },
+    {
+      "surface": "שלמיך",
+      "gloss": "salam qurbanlarını"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qoyunlarını"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "qoyunlarını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "iri buynuzlu heyvanlarını"
+    },
+    {
+      "surface": "בקרך",
+      "gloss": "iri buynuzlu heyvanlarını"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "yerdə"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki, orada"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "yad edirəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adımı"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "adımı"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "gələcəyəm"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sənin yanına"
+    },
+    {
+      "surface": "וברכתיך",
+      "gloss": "və səni mübarək edəcəyəm"
+    }
+  ],
+  "timestamp": "2026-09-01T17:27:11.386831396Z",
+  "model": "glm-5.3"
+}

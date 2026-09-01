@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 112,
+  "translation": "Var-dövlət ⟨olacaq⟩ onun evində, və onun salehliyi əbədi qalacaq.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "var"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "və dövlət"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "onun evində"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "və onun salehliyi"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "qalacaq (durur)"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "əbədi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:37:45.846968659Z",
+  "model": "glm-5.3"
+}

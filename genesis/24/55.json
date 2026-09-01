@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "genesis 24:55",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Qardaşı və anası dedilər: Qız bizimlə ⟨את⟩ günlər otursun, yaxud on gün; sonra getsin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedilər"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "qardaşı"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "və anası"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "otursun"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "qız"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ bizimlə"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günlər"
+    },
+    {
+      "surface": "או",
+      "gloss": "yaxud"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "on gün"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sonra"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "getsin"
+    }
+  ],
+  "timestamp": "2026-09-01T09:53:03.266866323Z",
+  "model": "glm-5.3"
+}

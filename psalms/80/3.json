@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 80,
+  "translation": "Efrayimin və Benyaminin və Menaşşenin önündə igidliyini oyat ⟨את⟩, bizim xilasımıza gəl!",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "önündə"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimin"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "və Benyaminin"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "və Menaşşenin"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "oyat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igidliyini"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "igidliyini"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "və gəl"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "xilasımıza"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizim"
+    }
+  ],
+  "timestamp": "2026-09-01T15:27:48.383416797Z",
+  "model": "glm-5.3"
+}

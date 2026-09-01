@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 19:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Xor rəhbərinə. Davudun məzmunu.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Xor rəhbərinə"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "məzmunu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davudun"
+    }
+  ],
+  "timestamp": "2026-09-01T15:07:21.853127170Z",
+  "model": "glm-5.3"
+}

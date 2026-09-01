@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 9:12",
+  "book": "joshua",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "«Bu çörəyimiz evlərimizdən çıxdığımız gün, sizin yanınıza gəlmək üçün, isti olanda ⟨את⟩ onu özümüzə azuqə götürdükcə götürdükdü; indi baxın, o quruyub və xırdalanıb».",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "çörəyimiz"
+    },
+    {
+      "surface": "חם",
+      "gloss": "isti"
+    },
+    {
+      "surface": "הצטידנו",
+      "gloss": "özümüzə azuqə götürdükcə"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "מבתינו",
+      "gloss": "evlərimizdən"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "צאתנו",
+      "gloss": "çıxdığımız"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "gəlmək üçün"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "sizin yanınıza"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "indi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "baxın"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "quruyub"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "və olub"
+    },
+    {
+      "surface": "נקדים",
+      "gloss": "xırdalanıb"
+    }
+  ],
+  "timestamp": "2026-09-01T11:04:54.823630152Z",
+  "model": "glm-5.3"
+}

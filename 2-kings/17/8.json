@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 17:8",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Və o millətlərin qaydaları ilə gəzdilər — Yahvenin İsrail oğullarının üzündən qovduqları — və İsrail padşahlarının etdikləri ⟨qaydalar⟩ ilə.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "gəzdilər"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "qaydaları ilə"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "o millətlərin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "qovdu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "üzündən"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "və padşahları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "etdikləri"
+    }
+  ],
+  "timestamp": "2026-09-01T12:39:44.772106597Z",
+  "model": "glm-5.3"
+}

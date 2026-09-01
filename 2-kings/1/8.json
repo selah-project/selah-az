@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 1:8",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Ona dedilər: Saçlı ⟨⟨bir⟩⟩ kişi idi, belinə dəri kəmər bağlamışdı. O dedi: Bu Eliyah ⟨⟨ha-Tişbi⟩⟩dir.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "dedilər"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kişi"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "saçlı"
+    },
+    {
+      "surface": "שער",
+      "gloss": "saç"
+    },
+    {
+      "surface": "ואזור",
+      "gloss": "kəmər"
+    },
+    {
+      "surface": "עור",
+      "gloss": "dəri"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "bağlamışdı"
+    },
+    {
+      "surface": "במתניו",
+      "gloss": "belinə"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "Eliyah"
+    },
+    {
+      "surface": "התשבי",
+      "gloss": "ha-Tişbi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-09-01T12:29:04.898178719Z",
+  "model": "glm-5.3"
+}

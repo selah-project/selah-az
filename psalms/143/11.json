@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 143:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 143,
+  "translation": "Adın uğrunda, Yahve, məni dirilt; ədalətinlə canımı sıxıntıdan çıxart.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "uğrunda"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "adın"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "məni dirilt"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "ədalətinlə"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "çıxart"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "sıxıntıdan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:44:26.109032396Z",
+  "model": "glm-5.3"
+}

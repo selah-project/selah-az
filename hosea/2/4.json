@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 2:4",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Ananızla dava edin, dava edin, çünki o, mənim arvadım deyil, və mən də onun əri deyiləm; qoysın üzbaxışından fahişəliyini və sinələri arasından zinalarını.",
+  "tokens": [
+    {
+      "surface": "ריבו",
+      "gloss": "dava edin"
+    },
+    {
+      "surface": "באמכם",
+      "gloss": "ananızla"
+    },
+    {
+      "surface": "ריבו",
+      "gloss": "dava edin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "היא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לא",
+      "gloss": "deyil"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "mənim arvadım"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "və mən"
+    },
+    {
+      "surface": "לא",
+      "gloss": "deyiləm"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "onun əri"
+    },
+    {
+      "surface": "ותסר",
+      "gloss": "qoysun"
+    },
+    {
+      "surface": "זנוניה",
+      "gloss": "fahişəliyini"
+    },
+    {
+      "surface": "מפניה",
+      "gloss": "üzbaxışından"
+    },
+    {
+      "surface": "ונאפופיה",
+      "gloss": "və zinalarını"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "arasından"
+    },
+    {
+      "surface": "שדיה",
+      "gloss": "sinələri"
+    }
+  ],
+  "timestamp": "2026-09-01T14:35:06.894361364Z",
+  "model": "glm-5.3"
+}

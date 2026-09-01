@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 19:6",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Və baxdı və ⟨gördü ki⟩ bax, başucunda közərdilmiş daşlarda bişmiş bir çörək və su qabı ⟨var idi⟩; və yedi, və içdi, və geri dönüb uzandı.",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "baxdı"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "və bax"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "başucunda"
+    },
+    {
+      "surface": "עגת",
+      "gloss": "çörək"
+    },
+    {
+      "surface": "רצפים",
+      "gloss": "közərdilmiş daşlarda bişmiş"
+    },
+    {
+      "surface": "וצפחת",
+      "gloss": "və su qabı"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "və yedi"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "və içdi"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "geri dönüb"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "uzandı"
+    }
+  ],
+  "timestamp": "2026-09-01T12:24:15.423593255Z",
+  "model": "glm-5.3"
+}

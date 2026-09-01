@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 18:2",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Qalx, çəkməçinin evinə en, və orada mən sənə ⟨את⟩ sözümü eşitdirəcəyəm.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Qalx"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "və en"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evinə"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "çəkməçi"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "və orada"
+    },
+    {
+      "surface": "אשמיעך",
+      "gloss": "mən sənə eşitdirəcəyəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sözümü"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözümü"
+    }
+  ],
+  "timestamp": "2026-09-01T13:34:58.944172081Z",
+  "model": "glm-5.3"
+}

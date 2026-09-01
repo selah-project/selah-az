@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Hər biri anasından və atasından qorxsun, və ⟨את⟩ şabatlarımı qoruyun; Mən Yahve, sizin Elohiminizəm.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "hər biri"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "anasından"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "və atasından"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "qorxsun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "şabatlarımı"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "şabatlarımı"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "qoruyun"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "sizin Elohiminiz"
+    }
+  ],
+  "timestamp": "2026-09-01T10:28:34.448127589Z",
+  "model": "glm-5.3"
+}

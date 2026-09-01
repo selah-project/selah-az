@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və mən ağzımı açdım, və o məni bu dərirni ⟨את⟩ yedizdi.",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "və açdım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ağzımı"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzımı"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "və yedizdi məni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu dərirni"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "dərirni"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-09-01T17:39:47.373200703Z",
+  "model": "glm-5.3"
+}

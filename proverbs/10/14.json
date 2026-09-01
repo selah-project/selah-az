@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 10:14",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Hikmətlilər bilik saxlayarlar ⟨gizlədər⟩, amma avamın ağzı yıxıntıya yaxındır.",
+  "tokens": [
+    {
+      "surface": "חכמים",
+      "gloss": "Hikmətlilər"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "saxlayarlar ⟨gizlədər⟩"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "bilik"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "amma … ağzı"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "avamın"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "yıxıntıya"
+    },
+    {
+      "surface": "קרבה",
+      "gloss": "yaxındır"
+    }
+  ],
+  "timestamp": "2026-09-01T15:51:17.094850454Z",
+  "model": "glm-5.3"
+}

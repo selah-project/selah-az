@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 126,
+  "ref": "psalms 119:126",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Yahve üçün işləmək vaxtıdır — onlar Tənin toranı pozdular.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "vaxt"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "işləmək"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve üçün"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "pozdular"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "toran"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:36.998780115Z",
+  "model": "glm-5.3"
+}

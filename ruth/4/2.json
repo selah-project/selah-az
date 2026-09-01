@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ruth 4:2",
+  "book": "ruth",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və şəhərin qocalarından on kişi götürdü və dedi: Burada oturun. Və oturdular.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "və götürdü"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "on"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "kişi"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "qocalarından"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şəhərin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "oturun"
+    },
+    {
+      "surface": "פה",
+      "gloss": "burada"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "və oturdular"
+    }
+  ],
+  "timestamp": "2026-09-01T16:24:25.444015761Z",
+  "model": "glm-5.3"
+}

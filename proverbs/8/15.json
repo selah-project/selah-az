@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 8:15",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Mənimlə padşahlar padşahlıq edir, əmirlər ədaləti qanun edirlər.",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "Mənimlə"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "padşahlar"
+    },
+    {
+      "surface": "ימלכו",
+      "gloss": "padşahlıq edir"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "əmirlər"
+    },
+    {
+      "surface": "יחקקו",
+      "gloss": "qanun edirlər"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ədaləti"
+    }
+  ],
+  "timestamp": "2026-09-01T15:50:34.546789055Z",
+  "model": "glm-5.3"
+}

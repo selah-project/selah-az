@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Heç bir dulu və yetimi əzməyin.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "heç bir"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "dul"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "və yetim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "əzməyin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:13:25.573281377Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 82,
+  "translation": "Əslində, adam kimi öləcəksiniz ⟨siz⟩ və hökmdarlardan biri kimi yıxılacaqsınız.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "əslində"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "adam kimi"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "öləcəksiniz"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "və biri kimi"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "hökmdarlardan"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "yıxılacaqsınız"
+    }
+  ],
+  "timestamp": "2026-09-01T15:27:17.620720900Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 16:10",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Yahvenin mələyi ona dedi: Nəslini çoxaldacağam, o qədər ki, sayına çatılmayacaq ⟨çoxluğuna görə⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mələyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "çoxaldacağam"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "çoxaldacağam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nəslini"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "nəslini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "sayına çatılmayacaq"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "çoxluğuna görə"
+    }
+  ],
+  "timestamp": "2026-09-01T09:50:08.649599132Z",
+  "model": "glm-5.3"
+}

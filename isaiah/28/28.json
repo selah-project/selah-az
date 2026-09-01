@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 28:28",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "Çörək dəni əzilir⟨mi⟩? Çünki ⟨onun⟩ döyəni onu əbədi döyməz; onun arabasının çarxı və atları onu əzməz.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "çörək dəni"
+    },
+    {
+      "surface": "יודק",
+      "gloss": "əzilir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "אדוש",
+      "gloss": "döyən"
+    },
+    {
+      "surface": "ידושנו",
+      "gloss": "onu döyməz"
+    },
+    {
+      "surface": "והמם",
+      "gloss": "və əzən"
+    },
+    {
+      "surface": "גלגל",
+      "gloss": "çarxı"
+    },
+    {
+      "surface": "עגלתו",
+      "gloss": "onun arabasının"
+    },
+    {
+      "surface": "ופרשיו",
+      "gloss": "və onun atları"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ידקנו",
+      "gloss": "onu əzməz"
+    }
+  ],
+  "timestamp": "2026-09-01T13:00:12.620001899Z",
+  "model": "glm-5.3"
+}

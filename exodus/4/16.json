@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 4:16",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və o, sənin üçün xalqa danışacaq; və olacaq ki, o, sənə ağız olacaq, sən isə ona Elohim olacaqsan.",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "danışacaq"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənin üçün"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqa"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "və olacaq ki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "ağız"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "sən isə"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olacaqsan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T10:05:31.734419100Z",
+  "model": "glm-5.3"
+}

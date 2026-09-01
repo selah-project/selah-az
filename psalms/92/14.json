@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 92:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 92,
+  "translation": "Yahvenin evinə əkilənlər, Elohimimizin həyətlərində çiçək açarlar.",
+  "tokens": [
+    {
+      "surface": "שתולים",
+      "gloss": "əkilənlər"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "evinə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "həyətlərində"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimizin"
+    },
+    {
+      "surface": "יפריחו",
+      "gloss": "çiçək açarlar"
+    }
+  ],
+  "timestamp": "2026-09-01T17:42:21.697567863Z",
+  "model": "glm-5.3"
+}

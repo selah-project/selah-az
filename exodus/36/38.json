@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 36:38",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 36,
+  "translation": "Və onun beş sütununu ⟨את⟩ və onların qıfıllarını ⟨את⟩, onların başlıqlarını və halqalarını qızılla örtdü, onların beş oturacağı isə mis idi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "onun beş sütununu"
+    },
+    {
+      "surface": "עמודיו",
+      "gloss": "onun sütunları"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "beş"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "onların qıfıllarını"
+    },
+    {
+      "surface": "וויהם",
+      "gloss": "onların qıfılları"
+    },
+    {
+      "surface": "וצפה",
+      "gloss": "və örtdü"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "onların başlıqları"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "və onların halqaları"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "qızıl"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "və onların oturacaqları"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "beş"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "mis"
+    }
+  ],
+  "timestamp": "2026-09-01T10:20:32.672413925Z",
+  "model": "glm-5.3"
+}

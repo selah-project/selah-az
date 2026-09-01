@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 15:10",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Öz ruhunla üfürdün, dəniz ⟨onları⟩ örtdü; qurğuşun kimi ağır sularda batdılar.",
+  "tokens": [
+    {
+      "surface": "נשפת",
+      "gloss": "üfürdün"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "öz ruhunla"
+    },
+    {
+      "surface": "כסמו",
+      "gloss": "örtdü"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dəniz"
+    },
+    {
+      "surface": "צללו",
+      "gloss": "batdılar"
+    },
+    {
+      "surface": "כעופרת",
+      "gloss": "qurğuşun kimi"
+    },
+    {
+      "surface": "במים",
+      "gloss": "sularda"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "ağır"
+    }
+  ],
+  "timestamp": "2026-09-01T10:08:26.725619740Z",
+  "model": "glm-5.3"
+}

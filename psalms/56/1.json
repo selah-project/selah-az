@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 56,
+  "translation": "Xor başçısına, «Uzaqların susqun göyərçini» üstünə, Dovidə, miktam: Peleştimlilər ⟨את⟩ onu Gatta tutanda.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Xor başçısına"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "göyərçini"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "susqun"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "uzaqların"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dovidə"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "tutanda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peleştimlilər"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "Gatta"
+    }
+  ],
+  "timestamp": "2026-09-01T15:18:49.913122926Z",
+  "model": "glm-5.3"
+}

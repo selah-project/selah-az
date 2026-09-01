@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 10:30",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Onların məskəni Meşadan ⟨idi⟩ — Səfara gedərkən, şərq dağına ⟨qədər⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨idi⟩"
+    },
+    {
+      "surface": "מושבם",
+      "gloss": "onların məskəni"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "Meşadan"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "gedərkən"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "Səfara"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dağı"
+    },
+    {
+      "surface": "הקדם",
+      "gloss": "şərq"
+    }
+  ],
+  "timestamp": "2026-09-01T09:48:30.826874717Z",
+  "model": "glm-5.3"
+}

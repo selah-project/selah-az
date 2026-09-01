@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 24:20",
+  "book": "2-samuel",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Aravna gözünü çevirdi və kralı ⟨את⟩ və qullarını ⟨את⟩ özünün üstünə gələn gördü; Aravna çıxdı və kralın qarşısında üzü yerə səcdə etdi.",
+  "tokens": [
+    {
+      "surface": "וישקף",
+      "gloss": "gözünü çevirdi"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Aravna"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "və gördü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kralı"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qullarını"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "qulları"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "gələn"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üstünə"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "və çıxdı"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Aravna"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "səcdə etdi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kralın qarşısında"
+    },
+    {
+      "surface": "אפיו",
+      "gloss": "üzü"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yerə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:07:53.878730939Z",
+  "model": "glm-5.3"
+}

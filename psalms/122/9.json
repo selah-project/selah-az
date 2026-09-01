@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 122,
+  "translation": "Elohimimiz Yahvenin evi ⟨üçün⟩ sənin xeyrini axtaracağam.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "⟨üçün⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimiz"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "axtaracağam"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "xeyrini"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:41:29.154318310Z",
+  "model": "glm-5.3"
+}

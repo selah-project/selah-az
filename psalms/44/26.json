@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 44:26",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 44,
+  "translation": "Çünki canımız toza çökdü, qarnımız yerə yapışdı.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "çökdü"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "toza"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "canımız"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "yapışdı"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "yerə"
+    },
+    {
+      "surface": "בטננו",
+      "gloss": "qarnımız"
+    }
+  ],
+  "timestamp": "2026-09-01T15:15:10.303468454Z",
+  "model": "glm-5.3"
+}

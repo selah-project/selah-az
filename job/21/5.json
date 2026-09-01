@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 21:5",
+  "book": "job",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Mənə tərəf dönün və ⟨donub qalın⟩, və ⟨əli⟩ ağzın üstünə qoyun.",
+  "tokens": [
+    {
+      "surface": "פנו",
+      "gloss": "dönün"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənə tərəf"
+    },
+    {
+      "surface": "והשמו",
+      "gloss": "və donub qalın"
+    },
+    {
+      "surface": "ושימו",
+      "gloss": "və qoyun"
+    },
+    {
+      "surface": "יד",
+      "gloss": "əl"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ağız"
+    }
+  ],
+  "timestamp": "2026-09-01T16:11:10.771515284Z",
+  "model": "glm-5.3"
+}

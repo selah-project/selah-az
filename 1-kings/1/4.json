@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 1:4",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Qız çox-çox gözəl idi və krala sərkərdə oldu, ona qulluq edirdi; lakin kral onu tanımadı.",
+  "tokens": [
+    {
+      "surface": "והנערה",
+      "gloss": "qız"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "gözəl"
+    },
+    {
+      "surface": "עד",
+      "gloss": "son dərəcə"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çox"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "krala"
+    },
+    {
+      "surface": "סכנת",
+      "gloss": "sərkərdə"
+    },
+    {
+      "surface": "ותשרתהו",
+      "gloss": "ona qulluq edirdi"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lakin… yox"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "onu tanımadı"
+    }
+  ],
+  "timestamp": "2026-09-01T12:08:33.091126989Z",
+  "model": "glm-5.3"
+}

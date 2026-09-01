@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 5:12",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Mən isə Efrayimə kəpənəyə, Beyt Yehudaya isə çürüməyə bənərəm.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Mən isə"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "kəpənəyə"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Efrayimə"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "çürüməyə bənərəm"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudaya"
+    }
+  ],
+  "timestamp": "2026-09-01T14:33:35.466825114Z",
+  "model": "glm-5.3"
+}

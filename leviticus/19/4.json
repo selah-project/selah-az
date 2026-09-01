@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Butlara üz tutmayın və tökmə tanrılar özünüzə düzəltməyin; Mən Yahve, sizin Elohiminizəm.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "-ma"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "üz tutmayın"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "butlara"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "və tanrılar"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "tökmə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-mə"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "düzəltməyin"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "özünüzə"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "sizin Elohiminiz"
+    }
+  ],
+  "timestamp": "2026-09-01T10:28:34.448283068Z",
+  "model": "glm-5.3"
+}

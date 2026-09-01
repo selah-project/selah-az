@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 4:2",
+  "book": "daniel",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Bir yuxu gördüm, o məni qorxutdu; yatağımdakı düşüncələr və başımın görüntüləri məni lərzəyə saldı.",
+  "tokens": [
+    {
+      "surface": "חלם",
+      "gloss": "yuxu"
+    },
+    {
+      "surface": "חזית",
+      "gloss": "gördüm"
+    },
+    {
+      "surface": "וידחלנני",
+      "gloss": "qorxutdu"
+    },
+    {
+      "surface": "והרהרין",
+      "gloss": "düşüncələr"
+    },
+    {
+      "surface": "על",
+      "gloss": "yatağımdakı"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "yatağımdakı"
+    },
+    {
+      "surface": "וחזוי",
+      "gloss": "görüntüləri"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "başımın"
+    },
+    {
+      "surface": "יבהלנני",
+      "gloss": "lərzəyə saldı"
+    }
+  ],
+  "timestamp": "2026-09-01T16:42:04.170735703Z",
+  "model": "glm-5.3"
+}

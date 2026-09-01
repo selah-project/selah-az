@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 10:5",
+  "book": "daniel",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Gözlərimi qaldırdım və baxdım, və bax, bir kişi ⟨gördüm⟩ — kətan paltarlar geyinmiş, qurşağı Uphaz qızılı ilə bağlanmışdı.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "qaldırdım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gözlərimi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözlərimi"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "və baxdım"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "və bax"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kişi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "geyinmiş"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "kətan paltarlar"
+    },
+    {
+      "surface": "ומתניו",
+      "gloss": "qurşağı"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "bağlanmışdı"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "qızıl ilə"
+    },
+    {
+      "surface": "אופז",
+      "gloss": "Uphaz"
+    }
+  ],
+  "timestamp": "2026-09-01T16:45:51.252237404Z",
+  "model": "glm-5.3"
+}

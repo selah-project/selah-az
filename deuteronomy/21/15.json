@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 21:15",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Əgər bir kişinin iki arvadı olsa — biri sevilən, biri sevilməyən, və ona oğullar doğsalar — sevilən də, sevilməyən də, və oğul, birinci doğulan, sevilməyənin olsa:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Əgər"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "olsa"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "bir kişinin"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iki"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "arvadı"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "biri"
+    },
+    {
+      "surface": "אהובה",
+      "gloss": "sevilən"
+    },
+    {
+      "surface": "והאחת",
+      "gloss": "biri də"
+    },
+    {
+      "surface": "שנואה",
+      "gloss": "sevilməyən"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "doğsalar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oğullar"
+    },
+    {
+      "surface": "האהובה",
+      "gloss": "sevilən də"
+    },
+    {
+      "surface": "והשנואה",
+      "gloss": "sevilməyən də"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "və olsa"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "birinci doğulan"
+    },
+    {
+      "surface": "לשניאה",
+      "gloss": "sevilməyənin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:53:16.764634075Z",
+  "model": "glm-5.3"
+}

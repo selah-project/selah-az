@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Və ⟨את⟩ yandırma qurbanını yaxınlaşdırdı və onu qayda üzrə etdi.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "yaxınlaşdırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yandırma qurbanını"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yandırma qurbanını"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "etdi"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "qayda üzrə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:24:22.248567855Z",
+  "model": "glm-5.3"
+}

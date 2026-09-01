@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Saray isə qısır idi, uşağı yox idi.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "idi"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saray"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "qısır"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yox idi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "onun"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "uşağı"
+    }
+  ],
+  "timestamp": "2026-09-01T09:49:17.415770434Z",
+  "model": "glm-5.3"
+}

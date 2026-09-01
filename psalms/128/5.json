@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 128:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 128,
+  "translation": "Yahve səni Siyondan xeyir-dua versin və Yeruşalayimin xeyrinə bütün ömrün günlərində baxıb görəsən.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "xeyir-dua versin səni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Siyondan"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "və görəsən"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "⟨xeyrinə⟩"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayimin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "günlərində"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "ömrünün"
+    }
+  ],
+  "timestamp": "2026-09-01T15:41:38.660875531Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 135,
+  "translation": "Çünki mən bilirəm ki, Yahve böyükdür və Adonayımız bütün tanrılardan ⟨üstündür⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "bilirəm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "böyükdür"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "və Adonayımız"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bütün ...dan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tanrılardan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:43:18.822581366Z",
+  "model": "glm-5.3"
+}

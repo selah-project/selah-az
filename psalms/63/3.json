@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 63:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 63,
+  "translation": "Belə, müqəddəs yerdə Sənə baxdım, qüdrətini və izzətini görmək üçün.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "belə"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "müqəddəs yerdə"
+    },
+    {
+      "surface": "חזיתיך",
+      "gloss": "Sənə baxdım"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "görmək üçün"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "qüdrətini"
+    },
+    {
+      "surface": "וכבודך",
+      "gloss": "və izzətini"
+    }
+  ],
+  "timestamp": "2026-09-01T17:42:27.579586945Z",
+  "model": "glm-5.3"
+}

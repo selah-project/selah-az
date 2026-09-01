@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 16:24",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Və onu Moşenin əmr etdiyi kimi səhərədək qoydular; iyi çıxmadı və ⟨onda⟩ qurd olmamışdı.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "qoydular"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "səhərədək"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "səhər"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "əmr etdiyi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşenin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "iyi çıxmadı"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "və qurd"
+    },
+    {
+      "surface": "לא",
+      "gloss": "olmamışdı deyil"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "olmamışdı"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨onda⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T10:10:39.251342054Z",
+  "model": "glm-5.3"
+}

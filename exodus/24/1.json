@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 24:1",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Moşeyə isə dedi: Yahvenin yanına çıx — sən, Aharon, Nadav, Avihu və İsrailin qədimlərindən yetmiş nəfər; uzaqdan səcdə edəcəksiniz.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "isə ... -yə"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "çıx"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadav"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "Avihu"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "yetmiş"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "qədimlərindən"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailin"
+    },
+    {
+      "surface": "והשתחויתם",
+      "gloss": "səcdə edəcəksiniz"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "uzaqdan"
+    }
+  ],
+  "timestamp": "2026-09-01T10:14:54.541810687Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 2:8",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Onun ordusu və sayılmışları yeddi ⟨və⟩ əlli min, dörd yüz idi.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ordusu"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "sayılmışları"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "yeddi"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "⟨və⟩ əlli"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "min"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "dörd"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    }
+  ],
+  "timestamp": "2026-09-01T10:32:37.862378288Z",
+  "model": "glm-5.3"
+}

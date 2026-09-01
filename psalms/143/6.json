@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 143:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 143,
+  "translation": "Əllərimi Sənə tərəf açdım, canım Sənə yorulmuş torpaq kimidir. Sela.",
+  "tokens": [
+    {
+      "surface": "פרשתי",
+      "gloss": "açdım"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "əllərimi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Sənə tərəf"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "torpaq kimi"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "yorulmuş"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Sənə"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-01T15:45:40.458933484Z",
+  "model": "glm-5.3"
+}

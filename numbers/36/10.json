@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 36,
+  "translation": "Yahvenin Moşeyə buyurduğu kimi, Tsəlofxadın qızları elə də etdilər.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurduğu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "elə"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "etdilər"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "qızları"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Tsəlofxad"
+    }
+  ],
+  "timestamp": "2026-09-01T10:45:37.380866303Z",
+  "model": "glm-5.3"
+}

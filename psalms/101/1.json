@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 101,
+  "translation": "Davuda məxsus məzmur. Hesed ⟨və⟩ məşpət haqqında oxuyacağam, sənə, ya Yahve, çalıb-oxuyacağam.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davuda məxsus"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "məzmur"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "məşpət"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "oxuyacağam"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "çalıb-oxuyacağam"
+    }
+  ],
+  "timestamp": "2026-09-01T15:34:44.052897568Z",
+  "model": "glm-5.3"
+}

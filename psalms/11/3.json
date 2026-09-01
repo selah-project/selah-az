@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Çünki təməllər yerə sırılır — saleh ⟨nə⟩ edə bilər?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "təməllər"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "yerə sırılır"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "saleh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "edə bilər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:05:14.561174128Z",
+  "model": "glm-5.3"
+}

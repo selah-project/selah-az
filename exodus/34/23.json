@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 34:23",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 34,
+  "translation": "İldə üç dəfə sənin bütün erkəklərin Adon Yahvenin, İsrailin Elohiminin ⟨את⟩ üzünü görməyə görünəcəklər.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "üç"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "dəfə"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ildə"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "görünəcəklər"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "sənin erkəklərin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "üzünü"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzünü"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "Adon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohiminin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:19:22.315641212Z",
+  "model": "glm-5.3"
+}

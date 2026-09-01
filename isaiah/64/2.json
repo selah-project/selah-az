@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 64:2",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 64,
+  "translation": "Sən dəhşətli işlər etdiyin zaman — gözləmədiyimiz ⟨işləri⟩ — endin, üzündən dağlar əridi.",
+  "tokens": [
+    {
+      "surface": "בעשותך",
+      "gloss": "etdiyin zaman"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "dəhşətli işlər"
+    },
+    {
+      "surface": "לא",
+      "gloss": "heç"
+    },
+    {
+      "surface": "נקוה",
+      "gloss": "gözləmədiyimiz"
+    },
+    {
+      "surface": "ירדת",
+      "gloss": "endin"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "üzündən"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dağlar"
+    },
+    {
+      "surface": "נזלו",
+      "gloss": "əridi"
+    }
+  ],
+  "timestamp": "2026-09-01T13:18:02.742469494Z",
+  "model": "glm-5.3"
+}

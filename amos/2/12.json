@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Siz nazirlərə ⟨את⟩ şərab içirdiniz və peyğəmbərlərə buyurdunuz: «Peyğəmbərlik etməyin».",
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "içirdiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nazirlər"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "nazirlər"
+    },
+    {
+      "surface": "יין",
+      "gloss": "şərab"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "və ... üzərinə"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "peyğəmbərlər"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "buyurdunuz"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "belə deyərək"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "peyğəmbərlik etməyin"
+    }
+  ],
+  "timestamp": "2026-09-01T17:40:52.963148618Z",
+  "model": "glm-5.3"
+}

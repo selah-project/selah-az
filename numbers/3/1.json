@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 3:1",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və bunlar Aharonun və Moşenin nəsilləridir — Yahvenin Moşe ilə Sina dağında danışdığı gündə ⟨o, Moşe ilə danışdı⟩. Bu, hərfən: Və bunlar Aharonun və Moşenin törəmələri, Yahvenin ⟨את⟩ Moşe ilə Sina dağında danışdığı gündə.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "və bunlar"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "nəsilləri (törəmələri)"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "və Moşe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "(danışdığı) gündə"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "danışdı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moşe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "dağında"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sina"
+    }
+  ],
+  "timestamp": "2026-09-01T10:33:36.048007538Z",
+  "model": "glm-5.3"
+}

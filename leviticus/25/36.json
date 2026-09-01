@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Ondan ⟨את⟩ faiz və artım götürmə, və Elohimindən qorx, və qardaşın səninlə yaşasın.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "götürmə"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "sən götürəsən ⟨yox⟩"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "ondan ⟨את⟩",
+      "marks": "faiz və artım"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "faiz"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "və artım"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "və qorx"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Elohimindən"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "və yaşasın"
+    },
+    {
+      "surface": "אחיק",
+      "gloss": "qardaşın"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "səninlə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:30:34.483606095Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Yahve, xilas et! Padşah çağırdığımız gündə bizə cavab versin.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "xilas et"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Padşah"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "bizə cavab versin"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gündə"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "çağırdığımız"
+    }
+  ],
+  "timestamp": "2026-09-01T15:05:52.861701700Z",
+  "model": "glm-5.3"
+}

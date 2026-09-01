@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 14:8",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "və Yahve Mitsrayım kralı Paronun ⟨את⟩ ürəyini möhkəmləndirdi və İsrail oğullarının arxasınca qovaladı; İsrail oğulları isə qalxan əllə çıxırdılar.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "və möhkəmləndirdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ürəyini"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ürəyini"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paronun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayım"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "və qovaladı"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "arxasınca"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "və oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "çıxırdılar"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "əllə"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "qalxan"
+    }
+  ],
+  "timestamp": "2026-09-01T10:08:58.319068360Z",
+  "model": "glm-5.3"
+}

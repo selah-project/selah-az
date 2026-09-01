@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 90,
+  "translation": "Dağlar doğulmazdan əvvəl, ⟨yenə⟩ yer və dünya formalaşmazdan ⟨əvvəl⟩, əzəldən əbədədək sən ⟨itsan⟩ El.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "əvvəl"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "Dağlar"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "doğulmazdan"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "formalaşmazdan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "və dünya"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "əzəldən"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨‑dək⟩"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "əbədə"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-01T15:32:33.235740723Z",
+  "model": "glm-5.3"
+}

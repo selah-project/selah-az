@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 14:16",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Və Yisraeli təslim edəcək — Yaravamın günahlarına görə, o, günah etdi və Yisraeli günaha saldı.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "təslim edəcək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "-ına görə"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "günahlarına"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaravamın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki, o"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "günah etdi"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "və ki"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "günaha saldı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-01T12:21:17.161954275Z",
+  "model": "glm-5.3"
+}

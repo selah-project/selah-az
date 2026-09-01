@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 24:6",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Və Moşe qanın yarısını götürdü və çənlərə qoydu, qanın yarısını isə altarın üstünə səpdi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "və götürdü"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "yarısını"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "qanın"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "və qoydu"
+    },
+    {
+      "surface": "באגנת",
+      "gloss": "çənlərə"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "və yarısını"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "qanın"
+    },
+    {
+      "surface": "זרק",
+      "gloss": "səpdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarın"
+    }
+  ],
+  "timestamp": "2026-09-01T10:15:32.301151128Z",
+  "model": "glm-5.3"
+}

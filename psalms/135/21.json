@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 135:21",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 135,
+  "translation": "Yahve Siondan xeyir-dualıdır, Yeruşalayımda yaşayan ⟨odur⟩. Həmd olsun Yaha!",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "xeyir-dualıdır"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Siondan"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "yaşayan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayımda"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Həmd olsun"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaha"
+    }
+  ],
+  "timestamp": "2026-09-01T15:43:42.250348591Z",
+  "model": "glm-5.3"
+}

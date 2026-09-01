@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 31:6",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "Moşe onları döyüşə göndərdi — hər qəbilədən bir min nəfəri — onları və ⟨את⟩ kohen Elazarın oğlu Pinxası döyüşə; müqəddəs alətlər və səslənmə şeypurları ⟨onun⟩ əlində ⟨idi⟩.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "göndərdi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onları",
+      "marks": "hər qəbilədən göndərilən minliklər"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "bir min"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "hər qəbilədən"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "döyüşə"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onları",
+      "marks": "göndərilənlər"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "Pinxas"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinxası"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazarın"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "döyüşə"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "və alətlər"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "וחצצרות",
+      "gloss": "və şeypurlar"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "səslənmənin"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "əlində"
+    }
+  ],
+  "timestamp": "2026-09-01T10:44:31.582102808Z",
+  "model": "glm-5.3"
+}

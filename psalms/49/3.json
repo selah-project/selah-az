@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 49,
+  "translation": "Həm insan oğulları, həm də kişi oğulları, bir yerdə — varlı və kasıb.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Həm"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "həm də"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kişi"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bir yerdə"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "varlı"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "və kasıb"
+    }
+  ],
+  "timestamp": "2026-09-01T15:16:39.588031398Z",
+  "model": "glm-5.3"
+}

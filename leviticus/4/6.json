@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Kohen barmağını qana batıracaq və qandan Yahvenin önündə, müqəddəs pərdənin üzünə yeddi dəfə səpəcək.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "batıracaq"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barmağını"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "barmağını"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "qana"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "səpəcək"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "qandan"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yeddi"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "dəfə"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önündə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "üzünə"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzünə"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "pərdənin"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "müqəddəs"
+    }
+  ],
+  "timestamp": "2026-09-01T10:23:38.200514053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 81,
+  "translation": "Yahveni sevənlərə nifrət edənlər Ona yalan itaət göstərərdilər, və onların vaxtı əbədəcə olardı.",
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "nifrət edənlər"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "yalan itaət göstərərdilər"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "və olardı"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "onların vaxtı"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədəcə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:27:48.214290598Z",
+  "model": "glm-5.3"
+}

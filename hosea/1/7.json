@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 1:7",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və Yəhuda evinə ⟨את⟩ rəhm edəcəyəm və onları Yahve, onların Elohim-i xilas edəcək; yayla, qılınccla, müharibəylə, atlarla və süvarilərlə xilas etməyəcəyəm.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yəhuda evinə"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yəhuda"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "rəhm edəcəyəm"
+    },
+    {
+      "surface": "והושעתים",
+      "gloss": "xilas edəcəyəm"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahve ilə"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "onların Elohim-i"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və --"
+    },
+    {
+      "surface": "אושיעם",
+      "gloss": "xilas etməyəcəyəm"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "yayla"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "qılınccla"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "müharibəylə"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "atlarla"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "süvarilərlə"
+    }
+  ],
+  "timestamp": "2026-09-01T14:34:43.287468010Z",
+  "model": "glm-5.3"
+}

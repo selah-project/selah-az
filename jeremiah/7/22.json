@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 7:22",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Çünki atalarınızla danışmadım və onlara Mitsrayim torpağından çıxardığım gün holokast və qurban sözləri ⟨haqqında⟩ əmr etmədim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-mə"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "danışmadım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atalarınızı"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "atalarınızla"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və -mə"
+    },
+    {
+      "surface": "צויתים",
+      "gloss": "əmr etmədim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "çıxardığım"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ onları"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "torpağından"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨haqqında⟩"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözləri"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "holokast"
+    },
+    {
+      "surface": "וזבח",
+      "gloss": "və qurban"
+    }
+  ],
+  "timestamp": "2026-09-01T13:27:13.168644668Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Və şəhərə, Ahava — Yisrael hökmdarına — elçilər göndərdi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "göndərdi"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "elçilər"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hökmdarı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraelin"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "şəhərə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:25:14.877233262Z",
+  "model": "glm-5.3"
+}

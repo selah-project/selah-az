@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 110,
+  "translation": "Yolda arxdan içəcək, buna görə başını qaldıracaq.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "arxdan"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolda"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "içəcək"
+    },
+    {
+      "surface": "על",
+      "gloss": "buna görə"
+    },
+    {
+      "surface": "כן",
+      "gloss": "-"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "qaldıracaq"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "başını"
+    }
+  ],
+  "timestamp": "2026-09-01T15:37:37.223716819Z",
+  "model": "glm-5.3"
+}

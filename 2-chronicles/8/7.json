@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 8:7",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Xetlilərdən, Emorlilərdən, Perizlilərdən, Hivlilərdən və Yevuslilərdən qalan bütün xalqdan — onlar İsraildən deyildilər.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "qalan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Xetlilərdən"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "Emorlilərdən"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "Perizlilərdən"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "Hivlilərdən"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "Yevuslilərdən"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "deyil"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "İsraildən"
+    },
+    {
+      "surface": "המה",
+      "gloss": "idi-lər"
+    }
+  ],
+  "timestamp": "2026-09-01T17:16:23.191223657Z",
+  "model": "glm-5.3"
+}

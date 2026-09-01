@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 65:19",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 65,
+  "translation": "Və Mən Yeruşalaymda sevinəcək, öz xalqımda fərəhlənəcəyəm; orada artıq ağlamaq səsi və fəryad səsi eşidilməyəcək.",
+  "tokens": [
+    {
+      "surface": "וגלתי",
+      "gloss": "və sevinəcəyəm"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yeruşalaymda"
+    },
+    {
+      "surface": "וששתי",
+      "gloss": "və fərəhlənəcəyəm"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "öz xalqımda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ...mayacaq"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "eşidilməyəcək"
+    },
+    {
+      "surface": "בה",
+      "gloss": "orada"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "artıq"
+    },
+    {
+      "surface": "קול",
+      "gloss": "səsi"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "ağlamaq"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "və ... səsi"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "fəryad"
+    }
+  ],
+  "timestamp": "2026-09-01T13:20:20.493662703Z",
+  "model": "glm-5.3"
+}

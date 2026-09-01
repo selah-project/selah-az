@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Canım içimdə taqətdən düşəndə Yahveni xatırladım, duam sənin yanına, müqəddəs məbədinə gəldi.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "taqətdən düşəndə"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "içimdə"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "xatırladım"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "gəldi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sənin yanına"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "duam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨doğru⟩"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "məbəd"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "müqəddəs ⟨sənin⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T14:45:55.975982085Z",
+  "model": "glm-5.3"
+}

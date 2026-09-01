@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 106,
+  "translation": "Onlar ⟨את⟩ xalqları məhv etmədilər, hansılar barədə Yahve onlara buyurmuşdu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "məhv etmədilər... yox"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "məhv etdilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqları"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "xalqları"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hansılar barədə"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "buyurmuşdu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:24.662260643Z",
+  "model": "glm-5.3"
+}

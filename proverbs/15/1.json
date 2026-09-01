@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 15:1",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Yumuşaq cavab qəzəbi ⟨qaytarır⟩, ağrılı söz isə öfkeyi qaldırar.",
+  "tokens": [
+    {
+      "surface": "מענה",
+      "gloss": "cavab"
+    },
+    {
+      "surface": "רך",
+      "gloss": "yumuşaq"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "qaytarır"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "qəzəbi"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "və ağrılı söz"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "ağrılı"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "qaldırar"
+    },
+    {
+      "surface": "אף",
+      "gloss": "öfkeyi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:54:24.133532829Z",
+  "model": "glm-5.3"
+}

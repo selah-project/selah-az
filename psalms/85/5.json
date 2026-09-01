@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 85:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 85,
+  "translation": "Bizi qaytar, ey qurtuluşumuzun Elohimi, və qəzəbini bizdən ⟨uzaqlaşdır⟩.",
+  "tokens": [
+    {
+      "surface": "שובנו",
+      "gloss": "bizi qaytar"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "qurtuluşumuzun"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "və ⟨uzaqlaşdır⟩"
+    },
+    {
+      "surface": "כעסך",
+      "gloss": "qəzəbini"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "bizdən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:11.247970510Z",
+  "model": "glm-5.3"
+}

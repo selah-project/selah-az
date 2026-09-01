@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 15:12",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Və zavin toxunduğu saxsı qab sınıq olacaq; hər ağac qab isə suda yuyulacaq.",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "və qab"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "saxsı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "toxunar"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "zav"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "sınıq olacaq"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "və hər"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "qab"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ağac"
+    },
+    {
+      "surface": "ישטף",
+      "gloss": "yuyulacaq"
+    },
+    {
+      "surface": "במים",
+      "gloss": "suda"
+    }
+  ],
+  "timestamp": "2026-09-01T10:27:30.020591137Z",
+  "model": "glm-5.3"
+}

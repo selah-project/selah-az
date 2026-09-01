@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 144:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 144,
+  "translation": "Ki, oğullarımız gəncliklərində böyüdülmüş əkmə fidanları kimi, qızlarımız isə saray şəkli üzrə yonulmuş künc daşları kimidir.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "oğullarımız"
+    },
+    {
+      "surface": "כנטעים",
+      "gloss": "əkmə fidanları kimi"
+    },
+    {
+      "surface": "מגדלים",
+      "gloss": "böyüdülmüş"
+    },
+    {
+      "surface": "בנעוריהם",
+      "gloss": "gəncliklərində"
+    },
+    {
+      "surface": "בנותינו",
+      "gloss": "qızlarımız"
+    },
+    {
+      "surface": "כזוית",
+      "gloss": "künc daşları kimi"
+    },
+    {
+      "surface": "מחטבות",
+      "gloss": "yonulmuş"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "şəkli üzrə"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "saray"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:04.965257805Z",
+  "model": "glm-5.3"
+}

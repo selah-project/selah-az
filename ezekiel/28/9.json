@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 28:9",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "Məgər deyəcəksənmi: «Mən Elohiməm» — səni öldürəninüzündə? Və sən ⟨sən⟩ insan-san və El deyilsən, səni yarlayanların əlində.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "məgər deyəcəksənmi"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "deyirsən"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mən … -əm"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "üzündə"
+    },
+    {
+      "surface": "הרגך",
+      "gloss": "səni öldürənin"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "və sən"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və … deyil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "əlində"
+    },
+    {
+      "surface": "מחלליך",
+      "gloss": "səni yarlayanların"
+    }
+  ],
+  "timestamp": "2026-09-01T14:18:14.522416565Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Sənə, ey Elohimim, sığındım; utandırma məni, düşmənlərim mənim haqqımda sevinməsinlər.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "ey Elohimim"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Sənə"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "sığındım"
+    },
+    {
+      "surface": "אל",
+      "gloss": "utandırma"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "məni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sevinməsinlər"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "üzrə"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "düşmənlərim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənim haqqımda"
+    }
+  ],
+  "timestamp": "2026-09-01T15:08:43.903173415Z",
+  "model": "glm-5.3"
+}

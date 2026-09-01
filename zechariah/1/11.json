@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 1:11",
+  "book": "zechariah",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və Yahvenin mələyinə — hasırların arasında durana — ⟨את⟩ cavab verdilər və dedilər: «Biz yer üzündə gəzdik, və bax, bütün yer oturur və sakitdir».",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "və cavab verdilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahvenin mələyinə"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mələk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "duran"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "ההדסים",
+      "gloss": "hasırların"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "və dedilər"
+    },
+    {
+      "surface": "התהלכנו",
+      "gloss": "gəzdik"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yer üzündə"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "və bax"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "oturur"
+    },
+    {
+      "surface": "ושקטת",
+      "gloss": "sakitdir"
+    }
+  ],
+  "timestamp": "2026-09-01T14:53:29.308134939Z",
+  "model": "glm-5.3"
+}

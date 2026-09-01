@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 34,
+  "translation": "Yahveni ⟨את⟩ mənimlə ⟨birlikdə⟩ ucaların; Onun adını birgə yüksəldək.",
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "ucaların"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveni"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mənimlə ⟨birlikdə⟩"
+    },
+    {
+      "surface": "ונרוממה",
+      "gloss": "yüksəldək"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Onun adını"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "birgə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:11:42.406508700Z",
+  "model": "glm-5.3"
+}

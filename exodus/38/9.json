@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 38:9",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 38,
+  "translation": "Və o, həyəti ⟨את⟩ cənub tərəfdən, cənuba doğru düzəltdi; həyətin pərdələri əyirilmiş kətandan idi, yüz qulac.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "və o, düzəltdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "həyəti"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "həyəti"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "tərəfdən"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "cənub"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "cənuba doğru"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "pərdələri"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "həyətin"
+    },
+    {
+      "surface": "שש",
+      "gloss": "kətan"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "əyirilmiş"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "qulac"
+    }
+  ],
+  "timestamp": "2026-09-01T10:20:51.415259604Z",
+  "model": "glm-5.3"
+}

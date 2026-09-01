@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 40:1",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "Təsəlli edin, təsəlli edin xalqımı, deyir sizin Elohiminiz.",
+  "tokens": [
+    {
+      "surface": "נחמו",
+      "gloss": "Təsəlli edin"
+    },
+    {
+      "surface": "נחמו",
+      "gloss": "təsəlli edin"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqım"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "sizin Elohiminiz"
+    }
+  ],
+  "timestamp": "2026-09-01T13:08:08.318607995Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 146:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 146,
+  "translation": "Əzilənlər üçün məhkəmə edən, aclara çörək verən; Yahve bağlıların bağlarını açır.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "edən"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "məhkəmə"
+    },
+    {
+      "surface": "לעשוקים",
+      "gloss": "əzilənlər üçün"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verən"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "çörək"
+    },
+    {
+      "surface": "לרעבים",
+      "gloss": "aclara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מתיר",
+      "gloss": "açır"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "bağlıların"
+    }
+  ],
+  "timestamp": "2026-09-01T15:47:11.646310410Z",
+  "model": "glm-5.3"
+}

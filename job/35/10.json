@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 35:10",
+  "book": "job",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "Amma heç kim demir: 'Məni yaradan Eloah haradadır — gecələr nəğmələr verən?'",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "amma heç kim ... demir"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "demir"
+    },
+    {
+      "surface": "איה",
+      "gloss": "haradadır"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "məni yaradan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verən"
+    },
+    {
+      "surface": "זמרות",
+      "gloss": "nəğmələr"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "gecələr"
+    }
+  ],
+  "timestamp": "2026-09-01T16:16:33.780920256Z",
+  "model": "glm-5.3"
+}

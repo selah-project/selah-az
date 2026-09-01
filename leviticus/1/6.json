@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və o, ⟨את⟩ yanma qurbanının dərisini soyacaq və onu ⟨את⟩ öz hissələrinə böləcək.",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "soyacaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yanma qurbanını"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yanma qurbanı"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "böləcək"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "öz hissələrinə"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "öz hissələrinə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:22:47.652757180Z",
+  "model": "glm-5.3"
+}

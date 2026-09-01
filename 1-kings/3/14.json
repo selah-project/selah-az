@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 3:14",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Əgər yollarımda yürəsən, nizamnamələrimi və əmrlərimi qorusan — Davud atanın yürüdüyü kimi — günlərini ⟨את⟩ uzadaram.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "yürəsən"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "yollarımda"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "qorusan"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "nizamnamələrimi"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "əmrlərimi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yürüdüyü"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "atanın"
+    },
+    {
+      "surface": "והארכתי",
+      "gloss": "uzadaram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "günlərini"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "günlərini"
+    }
+  ],
+  "timestamp": "2026-09-01T12:10:16.235971641Z",
+  "model": "glm-5.3"
+}

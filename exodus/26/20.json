@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Və Məskənin ikinci tərəfi üçün, şimal tərəfə, iyirmi lövhə ⟨olacaq⟩.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "və... tərəfi üçün"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Məskənin"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ikinci"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "tərəfə"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "şimal"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iyirmi"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "lövhə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:16:47.778879028Z",
+  "model": "glm-5.3"
+}

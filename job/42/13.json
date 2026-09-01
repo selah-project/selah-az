@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 42:13",
+  "book": "job",
+  "lang": "az",
+  "chapter": 42,
+  "translation": "Onun yeddi oğlu və üç qızı oldu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onun"
+    },
+    {
+      "surface": "שבענה",
+      "gloss": "yeddi"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "üç"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "qızı"
+    }
+  ],
+  "timestamp": "2026-09-01T16:20:22.744561543Z",
+  "model": "glm-5.3"
+}

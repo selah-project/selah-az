@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 23:1",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Padşah göndərdi və onun yanına Yəhuda və Yeruşalayimin bütün qocamanları toplandı.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "göndərdi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "toplandılar"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "onun yanına"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "qocamanları"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yəhuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "və Yeruşalayim"
+    }
+  ],
+  "timestamp": "2026-09-01T12:45:08.107160003Z",
+  "model": "glm-5.3"
+}

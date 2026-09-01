@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 45:11",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 45,
+  "translation": "Və orada səni dolandıracağam, çünki qıtlıqdan ⟨əlavə⟩ beş il qalıb — yoxsa sən, evin və sənin olan hər şey yoxsullaşarsan.",
+  "tokens": [
+    {
+      "surface": "וכלכלתי",
+      "gloss": "və dolandıracağam"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "səni"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hələ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "beş"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "il"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "qıtlıq"
+    },
+    {
+      "surface": "פן",
+      "gloss": "yoxsa"
+    },
+    {
+      "surface": "תורש",
+      "gloss": "yoxsullaşarsan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "və evin"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "və hər şey"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənin olan"
+    }
+  ],
+  "timestamp": "2026-09-01T10:02:03.148258610Z",
+  "model": "glm-5.3"
+}

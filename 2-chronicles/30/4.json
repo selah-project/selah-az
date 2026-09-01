@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 30:4",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Və söz kralın ⟨gözlərində⟩ və bütün məclisin ⟨gözlərində⟩ düzgün göründü.",
+  "tokens": [
+    {
+      "surface": "ויישר",
+      "gloss": "düzgün göründü"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "söz"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "gözlərində"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "və gözlərində"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "məclisin"
+    }
+  ],
+  "timestamp": "2026-09-01T17:22:55.826181746Z",
+  "model": "glm-5.3"
+}

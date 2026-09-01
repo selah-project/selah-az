@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Adam dedi: Mənim yanımda olmaq üçün sənin verdiyin qadın — o, mənə o ağacdan verdi, və mən yedim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "qadın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "sənin verdiyin"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "yanımda"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "o verdi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ağac"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "və yedim"
+    }
+  ],
+  "timestamp": "2026-09-01T09:45:57.523810570Z",
+  "model": "glm-5.3"
+}

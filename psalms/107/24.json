@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 107:24",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 107,
+  "translation": "Onlar Yahvenin əməllərini gördülər, və Onun əcaib əməllərini dərinlikdə.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Onlar"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "gördülər"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "əməllərini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "və Onun əcaib əməllərini"
+    },
+    {
+      "surface": "במצולה",
+      "gloss": "dərinlikdə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:35:58.744997397Z",
+  "model": "glm-5.3"
+}

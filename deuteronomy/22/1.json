@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 22:1",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Qardaşının öküzünü və ya ⟨את⟩ qoyununu azmış görməyəcəksən və onlardan özünü gizlətməyəcəksən; mütləq onları qardaşına qaytaracaqsan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "görəcəksən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öküzünü"
+    },
+    {
+      "surface": "שור",
+      "gloss": "öküz"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "qardaşının"
+    },
+    {
+      "surface": "או",
+      "gloss": "və ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qoyununu"
+    },
+    {
+      "surface": "שיו",
+      "gloss": "qoyun"
+    },
+    {
+      "surface": "נדחים",
+      "gloss": "azmış"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "özünü gizlətməyəcəksən"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "onlardan"
+    },
+    {
+      "surface": "השב",
+      "gloss": "mütləq qaytar"
+    },
+    {
+      "surface": "תשיבם",
+      "gloss": "onları qaytaracaqsan"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "qardaşına"
+    }
+  ],
+  "timestamp": "2026-09-01T10:53:29.248296099Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 2:4",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və oğullar ⟨sərt⟩ üzlü və möhkəm ürəklidirlər; mən səni onların yanına göndərirəm ⟨את⟩ səni, və sən onlara deyəcəksən: belə deyir Adonay Yahve.",
+  "tokens": [
+    {
+      "surface": "והבנים",
+      "gloss": "və oğullar"
+    },
+    {
+      "surface": "קשי",
+      "gloss": "⟨sərt⟩ üzlü"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "üzlü"
+    },
+    {
+      "surface": "וחזקי",
+      "gloss": "və möhkəm"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ürəkli"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "שולח",
+      "gloss": "göndərirəm"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ səni",
+      "marks": "sən"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "onların yanına"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "və deyəcəksən"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "כה",
+      "gloss": "belə"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T14:01:11.089131260Z",
+  "model": "glm-5.3"
+}

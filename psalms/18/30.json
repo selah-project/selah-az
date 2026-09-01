@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Çünki səninlə dəstə üstündən qaçıram və Elohimimlə divarı aşıram.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "בך",
+      "gloss": "səninlə"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "qaçıram"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "dəstə"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "və Elohimimlə"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "aşıram"
+    },
+    {
+      "surface": "שור",
+      "gloss": "divarı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:06:23.466127540Z",
+  "model": "glm-5.3"
+}

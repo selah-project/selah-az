@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 42,
+  "translation": "və sizə rəhmlər verəcəyəm, və ⟨o⟩ sizi rəhm edəcək, və sizi öz torpağınıza qaytaracaq.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "verəcəyəm"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizə"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "rəhmlər"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "rəhm edəcək"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "sizi (rəhm olunan obyekt)"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "qaytaracaq"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "sizi (qaytarılan obyekt)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "öz torpağınıza"
+    }
+  ],
+  "timestamp": "2026-09-01T13:52:34.998916828Z",
+  "model": "glm-5.3"
+}

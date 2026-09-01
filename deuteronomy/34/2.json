@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 34:2",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 34,
+  "translation": "və ⟨את⟩ bütün Naftalini, ⟨את⟩ Efrayim torpağını və Menaşşeni, ⟨את⟩ bütün Yehuda torpağını axırıncı dənizə qədər.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "bütün Naftalini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftalini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "Efrayim torpağını"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "torpağını"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "və Menaşşeni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "bütün Yehuda torpağını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "torpağını"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dənizə"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "axırıncı"
+    }
+  ],
+  "timestamp": "2026-09-01T10:59:53.967407612Z",
+  "model": "glm-5.3"
+}

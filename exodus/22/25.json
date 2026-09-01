@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 22:25",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Əgər qonşunun paltarını girov ⟨olaraq⟩ alsan, günəş batana qədər onu ona qaytar.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "חבול",
+      "gloss": "girov ⟨olaraq⟩ almaq"
+    },
+    {
+      "surface": "תחבול",
+      "gloss": "alsan"
+    },
+    {
+      "surface": "שלמת",
+      "gloss": "paltarını"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "qonşunun"
+    },
+    {
+      "surface": "עד",
+      "gloss": "batana qədər"
+    },
+    {
+      "surface": "בא",
+      "gloss": "günəş"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "batmazdan"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "onu qaytar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-09-01T10:13:27.549559135Z",
+  "model": "glm-5.3"
+}

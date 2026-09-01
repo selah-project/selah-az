@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 102,
+  "translation": "Xalqların birlikdə, padşahlıqların Yahveyə xidmət etmək üçün yığıldığı vaxt ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "yığıldığı vaxt"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "xalqların"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "birlikdə"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "padşahlıqların"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "xidmət etmək üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveyə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:33:33.164871205Z",
+  "model": "glm-5.3"
+}

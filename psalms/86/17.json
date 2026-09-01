@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 86:17",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 86,
+  "translation": "Mənimlə xeyir üçün nişanə gör, və məni sevənlərin əvəzinə — məndən nifrət edənlər görənlər və utansınlar, çünki Sən, Yahve, mənə kömək etdin və məni təsəlli etdin.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "gör"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mənimlə"
+    },
+    {
+      "surface": "אות",
+      "gloss": "nişanə"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "xeyir üçün"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "və görənlər"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "məndən nifrət edənlər"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "və utansınlar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עזרתני",
+      "gloss": "mənə kömək etdin"
+    },
+    {
+      "surface": "ונחמתני",
+      "gloss": "və məni təsəlli etdin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:28:56.585946845Z",
+  "model": "glm-5.3"
+}

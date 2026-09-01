@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 123,
+  "translation": "Məqamlar mahnısı. Sənə qaldırdım ⟨את⟩ gözlərimi, ey göylərdə oturan!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "mahnısı"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "Məqamlar"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Sənə"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "qaldırdım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gözlərimi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözlərimi"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "oturan"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "göylərdə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:43:20.733298412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 8:20",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Goylər kimi — Yahvenin üzünüzün önündə məhv etdiyi ⟨goylər⟩ — eləcə də siz məhv olacaqsınız, ⟨çünki⟩ siz Yahve Elohiminizin səsinə qulaq asmamısınız.",
+  "tokens": [
+    {
+      "surface": "כגוים",
+      "gloss": "goylər kimi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨— ki⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "מאביד",
+      "gloss": "məhv etdiyi"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "üzünüzün önündə"
+    },
+    {
+      "surface": "כן",
+      "gloss": "eləcə də"
+    },
+    {
+      "surface": "תאבדון",
+      "gloss": "məhv olacaqsınız"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "⟨çünki⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תשמעון",
+      "gloss": "qulaq asmamısınız"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "səninə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiminizin"
+    }
+  ],
+  "timestamp": "2026-09-01T17:30:36.611328123Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "Dəvudun. Dava et, Yahve, ⟨את⟩ mənim davaçlarımla; vuruş ⟨את⟩ mənimlə vuruşanlarla.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dəvudun"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "dava et"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mənim davaçlarım"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "mənim davaçlarımla"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "vuruş"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mənimlə vuruşanlar"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "mənimlə vuruşanlarla"
+    }
+  ],
+  "timestamp": "2026-09-01T15:11:31.576288373Z",
+  "model": "glm-5.3"
+}

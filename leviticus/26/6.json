@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 26:6",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Və torpaqda salamlıq verəcəyəm, yatıb-dinçənəcəksiniz və qorxudan olmayacaq; torpaqdan pis vəhşi heyvanları yox edəcəyəm və qılınc torpağınızdan keçməyəcək.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "verəcəyəm"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salamlıq"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "torpaqda"
+    },
+    {
+      "surface": "ושכבתם",
+      "gloss": "yatıb-dinçənəcəksiniz"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "olmayacaq"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "qorxudan"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "yox edəcəyəm"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "vəhşi heyvan"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pis"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "torpaq"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "və qılınc"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "keçməyəcək"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "torpağınızdan"
+    }
+  ],
+  "timestamp": "2026-09-01T10:31:22.123042879Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Və bütün cəmiyyət səsini ucaltdı ⟨və ağladı⟩, və xalq o gecə ağladı.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "ucaltdı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "cəmiyyət"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "səslərini"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "səslərini"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "və ağladı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "o gecə"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-09-01T10:37:12.920010484Z",
+  "model": "glm-5.3"
+}

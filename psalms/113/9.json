@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 113:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 113,
+  "translation": "Məskən edən ⟨o⟩ qızsız ⟨qadını⟩ — ev ⟨anası⟩, oğullar ⟨⟨ilə⟩⟩ sevincli ana. Halleyin, Yah!",
+  "tokens": [
+    {
+      "surface": "מושיבי",
+      "gloss": "Məskən edən (otuzdur)"
+    },
+    {
+      "surface": "עקרת",
+      "gloss": "qızsız (qadını)"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ana"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "oğullar"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "sevincli"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halleyin"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-01T15:37:05.880439298Z",
+  "model": "glm-5.3"
+}

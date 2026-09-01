@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 118:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 118,
+  "translation": "İndi Yahvedən qorxanlar desinlər ki, Onun hesedi ⟨sonsuzdur⟩.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "desinlər"
+    },
+    {
+      "surface": "נא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "qorxanlar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvedən"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sonsuz"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Onun hesedi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:01.907666764Z",
+  "model": "glm-5.3"
+}

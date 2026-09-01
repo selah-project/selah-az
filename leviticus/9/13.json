@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 9:13",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Və ⟨את⟩ yandırma qurbanını ona parça-parça təqdim etdilər, ⟨את⟩ başı da, və o, onları altarda yandırdı.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yandırma qurbanını"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yandırma qurbanını"
+    },
+    {
+      "surface": "המציאו",
+      "gloss": "təqdim etdilər"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "parça-parça"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "başını"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "başını"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "yandırdı"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarda"
+    }
+  ],
+  "timestamp": "2026-09-01T10:24:22.247992036Z",
+  "model": "glm-5.3"
+}

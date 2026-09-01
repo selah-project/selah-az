@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 98,
+  "translation": "Çaylar əl çalın, dağlar birlikdə sevincdən nəğmə oxusun.",
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "Çaylar"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "çalın"
+    },
+    {
+      "surface": "כף",
+      "gloss": "əl"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "birlikdə"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dağlar"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "nəğmə oxusun"
+    }
+  ],
+  "timestamp": "2026-09-01T15:33:50.705483647Z",
+  "model": "glm-5.3"
+}

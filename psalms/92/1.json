@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 92,
+  "translation": "Məzmur, nəğmə — şabbat günü üçün.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Məzmur"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nəğmə"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "günü üçün"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "şabbat"
+    }
+  ],
+  "timestamp": "2026-09-01T15:32:53.910464245Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 8:16",
+  "book": "judges",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Şəhərin ağsaqqallarını ⟨את⟩ götürdü, səhranın tikanlarını ⟨את⟩ və dəvətikanlarını ⟨את⟩, və onlarla Sukkot adamlarını ⟨את⟩ cəzalandırdı.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "götürdü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şəhərin ağsaqqallarını"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ağsaqqallarını"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "Şəhərin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "səhranın tikanlarını"
+    },
+    {
+      "surface": "קוצי",
+      "gloss": "tikanlarını"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "səhranın"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dəvətikanlarını"
+    },
+    {
+      "surface": "הברקנים",
+      "gloss": "dəvətikanlarını"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "cəzalandırdı"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onlarla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sukkot adamlarını"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "adamlarını"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot"
+    }
+  ],
+  "timestamp": "2026-09-01T11:20:44.377161286Z",
+  "model": "glm-5.3"
+}

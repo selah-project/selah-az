@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 21:24",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Şəhərdə ölən Ahab ⟨nəslindən olanı⟩ itlər yeyəcək, və sahədə öləni göyün quşları yeyəcək.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "ölən"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "Ahab ⟨nəslindən olanı⟩"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "şəhərdə"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "yeyəcək"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "itlər"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "və ölüni"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sahədə"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "yeyəcək"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "quşları"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göyün"
+    }
+  ],
+  "timestamp": "2026-09-01T12:23:51.456823891Z",
+  "model": "glm-5.3"
+}

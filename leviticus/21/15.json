@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 21:15",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "və öz toxumunu öz xalqı içində murdarlamayacaq, çünki mən Yahveyəm, onu müqəddəsləşdirən.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "və... yox"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "murdarlamayacaq"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "öz toxumunu"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "öz xalqı içində"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "onu müqəddəsləşdirən"
+    }
+  ],
+  "timestamp": "2026-09-01T10:29:02.775854758Z",
+  "model": "glm-5.3"
+}

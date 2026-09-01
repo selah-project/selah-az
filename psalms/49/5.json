@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 49,
+  "translation": "Qulağımı məsəl üçün əyirəm, kinnor üstündə müammamı açaram.",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "əyirəm"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "məsəl üçün"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "qulağımı"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "açaram"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinnor üstündə"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "müammamı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:15:51.023527043Z",
+  "model": "glm-5.3"
+}

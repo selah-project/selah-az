@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 62,
+  "translation": "Elohimin üstündədir xilasım və izzətim; qüdrətim qayasının möhkəmdir, Elohimdədir sığınağım.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "üstündədir"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "xilasım"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "və izzətim"
+    },
+    {
+      "surface": "צור",
+      "gloss": "qaya"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "qüdrətim"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "sığınağım"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimdədir"
+    }
+  ],
+  "timestamp": "2026-09-01T15:20:50.524294885Z",
+  "model": "glm-5.3"
+}

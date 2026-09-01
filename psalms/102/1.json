@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 102:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 102,
+  "translation": "Örtüləndə élıncin duası — Yahvenin hüzurunda şikayətini tökərkən.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "dua"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "élınc üçün"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vaxt"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "örtüləndə"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "hüzurunda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "tökər"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "şikayətini"
+    }
+  ],
+  "timestamp": "2026-09-01T15:34:24.795434255Z",
+  "model": "glm-5.3"
+}

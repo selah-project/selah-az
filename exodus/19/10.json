@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 19:10",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Yahve Moşeyə dedi: Xalqın yanına get, onları bu gün və sabah müqəddəsləşdir, və paltarlarını yuysunlar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "get"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqın"
+    },
+    {
+      "surface": "וקדשתם",
+      "gloss": "və müqəddəsləşdir onları"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bu gün"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "və sabah"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "və yuysunlar"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "paltarlarını"
+    }
+  ],
+  "timestamp": "2026-09-01T10:10:52.546510998Z",
+  "model": "glm-5.3"
+}

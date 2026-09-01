@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Bəxtiyardır adamların, bəxtiyardır bu qulların — sənin önündə daim duran, hikmətini ⟨את⟩ eşidənlər!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "bəxtiyardır"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "adamların"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "bəxtiyardır"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "qulların"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bunlar"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "duranlar"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sənin önündə"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daim"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "eşidənlər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hikmətini"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "hikmətini"
+    }
+  ],
+  "timestamp": "2026-09-01T12:16:09.598695720Z",
+  "model": "glm-5.3"
+}

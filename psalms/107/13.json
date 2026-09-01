@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 107:13",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 107,
+  "translation": "Onlar sıxıntıda Yahveyə fəryad etdilər, O onları məşəqqətlərindən qurtardı.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "fəryad etdilər"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨-ə⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "sıxıntıda"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onların"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "məşəqqətlərindən"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "qurtardı onları"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:55.293004703Z",
+  "model": "glm-5.3"
+}

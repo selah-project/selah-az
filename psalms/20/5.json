@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Versin sənə ürəyinin istədiyini versin və bütün məsləhətini yerinə yetirsin.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "versin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "ürəyinin istədiyini"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "məsləhətini"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "yerinə yetirsin"
+    }
+  ],
+  "timestamp": "2026-09-01T17:53:08.475996013Z",
+  "model": "glm-5.3"
+}

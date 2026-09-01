@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 51:32",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 51,
+  "translation": "və keçidlər tutuldu, və ⟨את⟩ qamışlıqları odda yandırdılar, və müharibə adamları dəhşətə gəldilər.",
+  "tokens": [
+    {
+      "surface": "והמעברות",
+      "gloss": "və keçidlər"
+    },
+    {
+      "surface": "נתפשו",
+      "gloss": "tutuldu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qamışlıqları"
+    },
+    {
+      "surface": "האגמים",
+      "gloss": "qamışlıqları"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "yandırdılar"
+    },
+    {
+      "surface": "באש",
+      "gloss": "odda"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "və adamları"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "müharibənin"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "dəhşətə gəldilər"
+    }
+  ],
+  "timestamp": "2026-09-01T17:37:36.406683225Z",
+  "model": "glm-5.3"
+}

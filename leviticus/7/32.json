@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Sağ budu ⟨את⟩ isə sülh qurbanlarınızdan kahinə torumah hədiyyəsi olaraq verin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "budu"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "budu"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "sağ"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "verin"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "torumah hədiyyəsi"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kahinə"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "qurbanlarınızdan"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "sülh ... sizin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:23:11.513360773Z",
+  "model": "glm-5.3"
+}

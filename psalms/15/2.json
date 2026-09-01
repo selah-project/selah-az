@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Kim kamilliklə gəzir, ədalət işləyir və ürəyində həqiqətdən danışır.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "gəzir"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "kamilliklə"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "və işləyir"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ədalət"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "və danışır"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "həqiqətdən"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "ürəyində"
+    }
+  ],
+  "timestamp": "2026-09-01T15:05:05.900245317Z",
+  "model": "glm-5.3"
+}

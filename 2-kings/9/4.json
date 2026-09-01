@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 9:4",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Gənc — gənc peyğəmbər — Ramot-Gilada getdi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "getdi"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "gənc"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "gənc"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "peyğəmbər"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot-"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilada"
+    }
+  ],
+  "timestamp": "2026-09-01T12:32:46.231388407Z",
+  "model": "glm-5.3"
+}

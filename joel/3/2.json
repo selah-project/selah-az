@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 3:2",
+  "book": "joel",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Həm qulların, həm kənizlərin üzərinə o günlərdə ⟨את⟩ ruhumu tökəcəyəm.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "həm"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "qulların"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "həm ... üzərinə"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "kənizlərin"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "günlərdə"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "o"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "tökəcəyəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruhumu"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruhumu"
+    }
+  ],
+  "timestamp": "2026-09-01T14:39:57.870519723Z",
+  "model": "glm-5.3"
+}

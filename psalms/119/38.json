@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 119:38",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Quluna öz sözünü təsbit et, ki ⟨o,⟩ sənin qorxunun ⟨üçündür⟩.",
+  "tokens": [
+    {
+      "surface": "הקם",
+      "gloss": "təsbit et"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "quluna"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "öz sözünü"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ליראתך",
+      "gloss": "sənin qorxunun ⟨üçündür⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:16.869084105Z",
+  "model": "glm-5.3"
+}

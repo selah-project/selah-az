@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 10:2",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Özünə iki gümüş şeypur düzəlt; döyülmüş iş kimi onları düzəlt ⟨את⟩; və onlar sənə cəmiyyətin çağırılması və düşərgələrin ⟨את⟩ yola salınması üçün olsunlar.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "düzəlt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "özünə"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iki"
+    },
+    {
+      "surface": "חצוצרת",
+      "gloss": "şeypur"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "döyülmüş iş"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "düzəlt"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onlar (iki şeypur)"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "və onlar olsunlar"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "למקרא",
+      "gloss": "çağırılması üçün"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "cəmiyyətin"
+    },
+    {
+      "surface": "ולמסע",
+      "gloss": "və yola salınması üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "düşərgələr"
+    },
+    {
+      "surface": "המחנות",
+      "gloss": "düşərgələrin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:36:05.361811916Z",
+  "model": "glm-5.3"
+}

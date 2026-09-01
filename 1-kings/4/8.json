@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 4:8",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Bunlar onların adlarıdır: Ben-Hur, Efrayim dağında.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Bunlar"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "adlarıdır"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Hur"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "dağında"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T12:09:40.079719358Z",
+  "model": "glm-5.3"
+}

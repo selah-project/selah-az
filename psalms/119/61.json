@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "psalms 119:61",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Pis əllərin kəndirləri məni bükdü, amma Tövratını unutmadım.",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "kəndirləri"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "pis əllərin"
+    },
+    {
+      "surface": "עודני",
+      "gloss": "məni bükdü"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tövratını"
+    },
+    {
+      "surface": "לא",
+      "gloss": "amma... yox"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "unutmadım"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:02.122376793Z",
+  "model": "glm-5.3"
+}

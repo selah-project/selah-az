@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 18:4",
+  "book": "joshua",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Hər qəbilə üçün özünüzdən üç adam götürün, mən onları göndərim, qalxsınlar, torpağı gəzinlər, onu ⟨את⟩ miraslarına görə yazsınlar və yanıma gəlsinlər.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "götürün"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "özünüzdən"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "üç"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "adam"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "hər qəbilə üçün"
+    },
+    {
+      "surface": "ואשלחם",
+      "gloss": "mən onları göndərim"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "qalxsınlar"
+    },
+    {
+      "surface": "ויתהלכו",
+      "gloss": "gəzinlər"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "torpağı"
+    },
+    {
+      "surface": "ויכתבו",
+      "gloss": "yazsınlar"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ onu",
+      "marks": "torpağı"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "-ə görə"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "miraslarına"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "gəlsinlər"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "yanıma"
+    }
+  ],
+  "timestamp": "2026-09-01T11:10:23.737709082Z",
+  "model": "glm-5.3"
+}

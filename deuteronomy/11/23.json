@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 11:23",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "onda Yahve ⟨את⟩ bütün bu xalqları üzlərinizdən qovacaq, və siz sizdən böyük və güclü xalqları mənimsəyəcəksiniz.",
+  "tokens": [
+    {
+      "surface": "והוריש",
+      "gloss": "qovacaq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün bu xalqları"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "xalqları"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "מלפניכם",
+      "gloss": "üzlərinizdən"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "mənimsəyəcəksiniz"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "xalqları"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "və güclü"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "sizdən"
+    }
+  ],
+  "timestamp": "2026-09-01T10:49:32.053503946Z",
+  "model": "glm-5.3"
+}

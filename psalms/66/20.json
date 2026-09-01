@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 66,
+  "translation": "Xeyir-dua olun Elohim, ki duamı və öz hesedini məndən ⟨את⟩ uzaqlaşdırmadı.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Xeyir-dua olun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "uzaqlaşdırmadı"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "duamı"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "və öz hesedini"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "məndən ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T15:21:03.327449203Z",
+  "model": "glm-5.3"
+}

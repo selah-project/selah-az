@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 89:21",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 89,
+  "translation": "Dəvidi, qulumu tapdım; müqəddəs yağımla onu məsh etdim.",
+  "tokens": [
+    {
+      "surface": "מצאתי",
+      "gloss": "tapdım"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dəvidi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "qulumu"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "yağımla"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "משחתיו",
+      "gloss": "onu məsh etdim"
+    }
+  ],
+  "timestamp": "2026-09-01T15:30:28.386794240Z",
+  "model": "glm-5.3"
+}

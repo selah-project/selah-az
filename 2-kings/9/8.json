@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "və məhv olacaq Axavın bütün evi, və mən kəsəcəyəm Axavdan divara işəyəni, həbs ediləni və buraxılanı İsraildə.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "və məhv olacaq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Axavın"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "və mən kəsəcəyəm"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "Axavdan"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "işəyəni"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "divara"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "həbs ediləni"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "buraxılanı"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "İsraildə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:33:03.182179529Z",
+  "model": "glm-5.3"
+}

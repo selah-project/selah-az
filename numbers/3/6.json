@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 3:6",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Levi tayfasını yaxınlaşdır ⟨את⟩, və ⟨את⟩ onu kahin Aharonun qarşısında durdur, və ⟨את⟩ ona xidmət etsinlər.",
+  "tokens": [
+    {
+      "surface": "הקרב",
+      "gloss": "yaxınlaşdır"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Levi tayfasını"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tayfasını"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "והעמדת",
+      "gloss": "və … durdur"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "Levi tayfası"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "qarşısında"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonun"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "ושרתו",
+      "gloss": "və … xidmət etsinlər"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ona",
+      "marks": "Aharon"
+    }
+  ],
+  "timestamp": "2026-09-01T10:33:18.006450242Z",
+  "model": "glm-5.3"
+}

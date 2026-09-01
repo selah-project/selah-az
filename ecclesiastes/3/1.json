@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Hər şey üçün ⟨bir⟩ zaman, göylərin altında hər istək üçün ⟨bir⟩ vaxt.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "hər şey üçün"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "zaman"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "və vaxt"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "istək"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göylərin"
+    }
+  ],
+  "timestamp": "2026-09-01T16:29:14.703848827Z",
+  "model": "glm-5.3"
+}

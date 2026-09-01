@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Oğlum, atanın əmrini qoru, ananın törəsini isə tərk etmə.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "qoru"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğlum"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "əmrini"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "atanın"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "isə etmə"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "tərk"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "törəsini"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ananın"
+    }
+  ],
+  "timestamp": "2026-09-01T15:49:33.051633714Z",
+  "model": "glm-5.3"
+}

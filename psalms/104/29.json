@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 104:29",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 104,
+  "translation": "Üzünü gizlədirsən — onlar sarsılırlar; nəfəslərini geri alırsan — onlar ölürlar və öz torpaq-tozlarına qayıdırlar.",
+  "tokens": [
+    {
+      "surface": "תסתיר",
+      "gloss": "gizlədirsən"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "üzünü"
+    },
+    {
+      "surface": "יבהלון",
+      "gloss": "sarsılırlar"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "geri alırsan"
+    },
+    {
+      "surface": "רוחם",
+      "gloss": "nəfəslərini"
+    },
+    {
+      "surface": "יגועון",
+      "gloss": "ölürlar"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və öz ... -larına"
+    },
+    {
+      "surface": "עפרם",
+      "gloss": "torpaq-toz"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "qayıdırlar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:35:33.747248202Z",
+  "model": "glm-5.3"
+}

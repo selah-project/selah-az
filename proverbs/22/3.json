@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 22:3",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Ağıllı adam şəri görür və gizlənir; sadəlöhlər isə keçib gedir və cəzalanır.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "ağıllı adam"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "görür"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "şəri"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "və gizlənir"
+    },
+    {
+      "surface": "ופתיים",
+      "gloss": "və sadəlöhlər"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "keçib gedir"
+    },
+    {
+      "surface": "ונענשו",
+      "gloss": "və cəzalanır"
+    }
+  ],
+  "timestamp": "2026-09-01T15:57:11.148098470Z",
+  "model": "glm-5.3"
+}

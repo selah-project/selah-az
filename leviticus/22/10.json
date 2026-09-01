@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Və heç bir yad müqəddəs şeydən yeməyəcək; kohanın yanında yaşayan müxalif və muzdlu işçi müqəddəs şeydən yeməyəcək.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "və heç bir"
+    },
+    {
+      "surface": "זר",
+      "gloss": "yad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-məyəcək"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yeməyəcək"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "müqəddəs şeydən"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "yanında yaşayan müxalif"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohanın"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "və muzdlu işçi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-məyəcək"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yeməyəcək"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "müqəddəs şeydən"
+    }
+  ],
+  "timestamp": "2026-09-01T10:29:17.856802281Z",
+  "model": "glm-5.3"
+}

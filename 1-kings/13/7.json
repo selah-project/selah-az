@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 13:7",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Kral Elohim adamına dedi: Mənimlə evə gəl, ⟨yemək ye⟩ və mən sənə hədiyyə verəcəyəm.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באה",
+      "gloss": "gəl"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mənimlə"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "evə"
+    },
+    {
+      "surface": "וסעדה",
+      "gloss": "təsəlli tap"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "və verəcəyəm"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "hədiyyə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:20:30.493161906Z",
+  "model": "glm-5.3"
+}

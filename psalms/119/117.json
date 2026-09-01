@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 117,
+  "ref": "psalms 119:117",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Məni dəstəklə, və xilas olum, və sənin qanunlarına ⟨həmişə⟩ baxacağam.",
+  "tokens": [
+    {
+      "surface": "סעדני",
+      "gloss": "məni dəstəklə"
+    },
+    {
+      "surface": "ואושעה",
+      "gloss": "və xilas olum"
+    },
+    {
+      "surface": "ואשעה",
+      "gloss": "və baxacağam"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "sənin qanunlarına"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "⟨həmişə⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T15:41:04.076660917Z",
+  "model": "glm-5.3"
+}

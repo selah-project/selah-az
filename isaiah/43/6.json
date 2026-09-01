@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 43:6",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 43,
+  "translation": "Şimala deyirəm: «Ver»; cənuba: «Saxlama»; uzaqdan oğullarımı, yerin ucundan qızlarımı gətir.»",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "deyirəm"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "şimala"
+    },
+    {
+      "surface": "תני",
+      "gloss": "ver"
+    },
+    {
+      "surface": "ולתימן",
+      "gloss": "və cənuba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saxlama (inkar)"
+    },
+    {
+      "surface": "תכלאי",
+      "gloss": "saxlama"
+    },
+    {
+      "surface": "הביאי",
+      "gloss": "gətir"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarımı"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "uzaqdan"
+    },
+    {
+      "surface": "ובנותי",
+      "gloss": "və qızlarımı"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ucundan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    }
+  ],
+  "timestamp": "2026-09-01T13:06:51.118598947Z",
+  "model": "glm-5.3"
+}

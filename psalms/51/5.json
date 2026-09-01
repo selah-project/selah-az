@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 51,
+  "translation": "Çünki üsyanlarımı bilirəm, və günahım həmişə qarşımdadır.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "üsyanlarımı"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "bilirəm"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "və günahım"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "qarşımda"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "həmişə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:17:41.666398978Z",
+  "model": "glm-5.3"
+}

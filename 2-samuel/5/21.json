@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 5:21",
+  "book": "2-samuel",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Onlar orada ⟨את⟩ bütlərini atıb getdilər, onları Davud və adamları götürdü.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "atıb getdilər"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütlərini"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "bütlərini"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "onları götürdü"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "və adamları"
+    }
+  ],
+  "timestamp": "2026-09-01T11:53:23.552160653Z",
+  "model": "glm-5.3"
+}

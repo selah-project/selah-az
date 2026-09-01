@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 94:17",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 94,
+  "translation": "Əgər Yahve mənə kömək olmasaydı, canım az qala sükutda məskən salardı.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "olmasaydı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "kömək"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "az qala"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "məskən salardı"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "sükutda"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    }
+  ],
+  "timestamp": "2026-09-01T15:31:49.948711195Z",
+  "model": "glm-5.3"
+}

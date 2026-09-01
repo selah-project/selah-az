@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və ⟨את⟩ qoçu hissələrinə böldü, və Moşe ⟨את⟩ başı, ⟨את⟩ hissələri və ⟨את⟩ piyi tüstülədi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qoçu"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "qoç"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "böldü"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "hissələrinə"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "tüstülədi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "başı"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "baş"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hissələri"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "hissələr"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "piyi"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "piy"
+    }
+  ],
+  "timestamp": "2026-09-01T10:24:45.451507282Z",
+  "model": "glm-5.3"
+}

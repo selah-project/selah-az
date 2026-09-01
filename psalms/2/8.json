@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 2:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Məndən istə, sənə millətləri miras ⟨olaraq⟩ verəcəyəm və yerin uclarını mülkiyyətin ⟨olaraq⟩.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "istə"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "məndən"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "verəcəyəm"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "millətləri"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "mirasın"
+    },
+    {
+      "surface": "ואחזתך",
+      "gloss": "mülkiyyətin"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "uclarını"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:01:50.421502810Z",
+  "model": "glm-5.3"
+}

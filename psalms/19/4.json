@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Söz yoxdur, və sözlər yoxdur; səsləri eşidilməz.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "söz"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "və ... yoxdur"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "sözlər"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "sız"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "eşidilir"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "səsləri"
+    }
+  ],
+  "timestamp": "2026-09-01T15:07:21.853622455Z",
+  "model": "glm-5.3"
+}

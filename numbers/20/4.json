@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 20:4",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Və niyə gətirdiniz ⟨את⟩ Yahvenin məclisini bu səhraya, biz də, mal-qaramız da orada ölək deyə?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "və niyə"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "gətirdiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahvenin məclisi"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "məclisi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "səhra"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ölək deyə"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "biz"
+    },
+    {
+      "surface": "ובעירנו",
+      "gloss": "və mal-qaramız"
+    }
+  ],
+  "timestamp": "2026-09-01T10:40:34.452082072Z",
+  "model": "glm-5.3"
+}

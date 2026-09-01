@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 33:3",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "süd və bal axan torpağa; çünki sənin ortanda qalxmayacağam, çünki sən qalıniyinli bir xalqsan, yoxsa yolda səni məhv edərəm.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "torpağa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "torpağa"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "axan"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "süd"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "və bal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "qalxmayacağam"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "sənin ortanda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "qalın"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "eniyin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "פן",
+      "gloss": "yoxsa"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "səni məhv edərəm"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolda"
+    }
+  ],
+  "timestamp": "2026-09-01T10:20:04.938339620Z",
+  "model": "glm-5.3"
+}

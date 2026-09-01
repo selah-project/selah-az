@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 149,
+  "translation": "Hallelu-Yah! Yahveyə yeni mahnı oxuyun, Onun tərifini ⟨o⟩ hesedlilər məclisində ⟨oxuyun⟩.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Hallelu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "oxuyun"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "mahnı"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "yeni"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "Onun tərifini"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "məclisində"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "hesedlilər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:47:00.355032663Z",
+  "model": "glm-5.3"
+}

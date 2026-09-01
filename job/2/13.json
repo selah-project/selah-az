@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 2:13",
+  "book": "job",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və onunla yer üzərində yeddi gün və yeddi gecə oturdular; ona heç bir kəs ⟨את⟩ bir söz demədi, çünki gördülər ki, ağrı çox böyükdür.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "oturdular"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onunla",
+      "marks": "onunla — yaxınlıq önüzvü (H854), tamqəsd nişanı deyil"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "yer üzərində"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "yeddi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "və yeddi"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "gecə"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "və yox idi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "danışan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "söz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "gördülər"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "böyükdür"
+    },
+    {
+      "surface": "הכאב",
+      "gloss": "ağrı"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çox"
+    }
+  ],
+  "timestamp": "2026-09-01T16:01:37.062591699Z",
+  "model": "glm-5.3"
+}

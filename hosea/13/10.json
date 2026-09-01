@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 13:10",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Hardadır ⟨indi⟩ sənin kralın, və o qurtarsın səni bütün şəhərlərində? Və sənin hakimlərin ⟨haradadır⟩, ki dedin: «Ver mənə kral və başçılar»?",
+  "tokens": [
+    {
+      "surface": "אֱהִי",
+      "gloss": "hardadır"
+    },
+    {
+      "surface": "מַלְכְּךָ",
+      "gloss": "sənin kralın"
+    },
+    {
+      "surface": "אֵפוֹא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "וְיוֹשִׁיעֲךָ",
+      "gloss": "və o qurtarsın səni"
+    },
+    {
+      "surface": "בְכָל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עָרֶיךָ",
+      "gloss": "şəhərlərində"
+    },
+    {
+      "surface": "וְשֹׁפְטֶיךָ",
+      "gloss": "sənin hakimlərin"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אָמַרְתָּ",
+      "gloss": "dedin"
+    },
+    {
+      "surface": "תְּנָה",
+      "gloss": "ver"
+    },
+    {
+      "surface": "לִי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "מֶלֶךְ",
+      "gloss": "kral"
+    },
+    {
+      "surface": "וְשָׂרִים",
+      "gloss": "və başçılar"
+    }
+  ],
+  "timestamp": "2026-09-01T17:40:42.034117383Z",
+  "model": "glm-5.3"
+}

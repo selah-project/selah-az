@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Buna görə de: bax, mən ona ⟨את⟩ sülh əhmimi verirəm.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "buna görə"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "de"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "bax, mən"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verirəm"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sülh əhmimi"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "əhmimi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sülh"
+    }
+  ],
+  "timestamp": "2026-09-01T10:41:04.186260391Z",
+  "model": "glm-5.3"
+}

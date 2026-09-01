@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 51:19",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 51,
+  "translation": "Elohimin qurbanları sınmış ruhdur; sınmış və əzilmiş ürək, ey Elohim, Sən onu xor görməzsən.",
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "qurbanları"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruh"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "sınmış"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ürək"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "sınmış"
+    },
+    {
+      "surface": "ונדכה",
+      "gloss": "və əzilmiş"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ey Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "xor görməzsən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:18:05.259290084Z",
+  "model": "glm-5.3"
+}

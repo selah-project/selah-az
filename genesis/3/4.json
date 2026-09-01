@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və ilan qadına dedi: “Ölməzsiz ölməyəcəksiniz.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Və dedi"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ilan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "qadına"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ölməzsiz"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölməyə"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "ölməyəcəksiniz"
+    }
+  ],
+  "timestamp": "2026-09-01T09:46:24.158083073Z",
+  "model": "glm-5.3"
+}

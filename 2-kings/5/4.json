@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 5:4",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Və ⟨Naaman⟩ girdi və ağasına bildirib dedi: İsrail torpağından olan qız belə və belə danışdı.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Və girdi"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "və bildirib dedi"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "ağasına"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "belə deyərək"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "belə"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "və belə"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "danışdı"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "qız"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olan"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "torpağından"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    }
+  ],
+  "timestamp": "2026-09-01T12:32:01.073333682Z",
+  "model": "glm-5.3"
+}

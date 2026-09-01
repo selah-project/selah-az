@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 21:4",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "və o şəhərin qocaları ⟨את⟩ camış balasını çay yatağına — əbədi qayalıq — endirəcək, hansı ki, orada nə işlənir, nə da əkilır, və orada dərədə ⟨את⟩ camış balasının boynunu qıracaqlar.",
+  "tokens": [
+    {
+      "surface": "והורדו",
+      "gloss": "və endirəcək"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "qocaları"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şəhərin"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "camış balasını"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "camış balasını"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "çay yatağına"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "əbədi qayalıq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hansı ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nə"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "işlənir"
+    },
+    {
+      "surface": "בו",
+      "gloss": "orada"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nə da"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "əkilır"
+    },
+    {
+      "surface": "וערפו",
+      "gloss": "və boynunu qıracaqlar"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "camış balasının"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "camış balasının"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "dərədə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:52:51.830492345Z",
+  "model": "glm-5.3"
+}

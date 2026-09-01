@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 7:2",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Və ⟨את⟩ Levanon Meşəsinin evini tikdi: uzunluğu yüz amma, eni əlli amma, hündürlüyü otuz amma idi; dörd sıra sidr sütunlarının üstündə, sütunların üstündə sidr kəsəkləri ⟨ilə⟩.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "və tikdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Levanon Meşəsinin evini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evini"
+    },
+    {
+      "surface": "יער",
+      "gloss": "Meşəsinin"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Levanon"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amma"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "uzunluğu"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "əlli"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amma"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "eni"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "otuz"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amma"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "hündürlüyü"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "dörd"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "sıra"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "sütunlarının"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "sidr"
+    },
+    {
+      "surface": "וכרתות",
+      "gloss": "kəsəkləri"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "sidr"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "sütunların"
+    }
+  ],
+  "timestamp": "2026-09-01T12:13:39.258556388Z",
+  "model": "glm-5.3"
+}

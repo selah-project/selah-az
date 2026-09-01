@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 51:13",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 51,
+  "translation": "Yaradanın Yahveni unutdun — göyləri götürən və yerin bünövrəsini qoyan; və əzənin qəzəbindən, məhv etməyə hazırlaşdığı kimi, bütün gün hər an qorxdun. Haradır əzənin qəzəbi?",
+  "tokens": [
+    {
+      "surface": "ותשכח",
+      "gloss": "unutdun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עשך",
+      "gloss": "Yaradanın"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "götürən"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "göyləri"
+    },
+    {
+      "surface": "ויסד",
+      "gloss": "və qoyan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerin bünövrəsini"
+    },
+    {
+      "surface": "ותפחד",
+      "gloss": "və qorxdun"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "hər an"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "-ından"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "qəzəbi"
+    },
+    {
+      "surface": "המציק",
+      "gloss": "əzənin"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "hazırlaşdığı"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "məhv etməyə"
+    },
+    {
+      "surface": "ואיה",
+      "gloss": "haradır"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "qəzəbi"
+    },
+    {
+      "surface": "המציק",
+      "gloss": "əzənin"
+    }
+  ],
+  "timestamp": "2026-09-01T13:14:10.033553811Z",
+  "model": "glm-5.3"
+}

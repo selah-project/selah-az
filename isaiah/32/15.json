@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 32:15",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "ta ki yuxarıdan üzərimizə ruh tökülsün; və ⟨o zaman⟩ səhra kərmelə çevriləcək, kərmel isə meşə sayılacaq.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ta ki"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "tökülsün"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "üzərimizə"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruh"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "yuxarıdan"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "və ⟨o zaman⟩"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "səhra"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "kərmelə çevriləcək"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "kərmel isə"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "meşə"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "sayılacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T12:59:46.216403538Z",
+  "model": "glm-5.3"
+}

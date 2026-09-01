@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 25:26",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "və ⟨את⟩ şimalın bütün padşahlarını, yaxın ⟨olanları⟩ və uzaq ⟨olanları⟩, hər biri qardaşına ⟨qonşu⟩, və ⟨את⟩ yer üzərində, torpağın üzü üstündə olan bütün padşahlıqları; və Şeşax padşahı onlardan sonra içəcək.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "şimalın bütün padşahlarını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "padşahlarını"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "şimalın"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "yaxın ⟨olanları⟩"
+    },
+    {
+      "surface": "והרחקים",
+      "gloss": "və uzaq ⟨olanları⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər biri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨qonşu⟩"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "qardaşına"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bütün padşahlıqları"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "padşahlıqları"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olan"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərində"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzü"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "torpağın"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "və padşahı"
+    },
+    {
+      "surface": "ששך",
+      "gloss": "Şeşax"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "içəcək"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "onlardan sonra"
+    }
+  ],
+  "timestamp": "2026-09-01T13:37:17.142073030Z",
+  "model": "glm-5.3"
+}

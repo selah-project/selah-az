@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 105:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 105,
+  "translation": "Yadda saxlayın Onun etdiyi möcüzələrini, Onun nişanələrini və ağzının hökmlərini.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "yadda saxlayın"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "Onun möcüzələrini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etdiyi"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "Onun nişanələrini"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "və hökmlərini"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "Onun ağzının"
+    }
+  ],
+  "timestamp": "2026-09-01T15:35:26.948323133Z",
+  "model": "glm-5.3"
+}

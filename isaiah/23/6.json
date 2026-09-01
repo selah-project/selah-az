@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 23:6",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Tarşişə keçin, dəniz sahilində yaşayanlar, fəryad edin!",
+  "tokens": [
+    {
+      "surface": "עברו",
+      "gloss": "keçin"
+    },
+    {
+      "surface": "תרשישה",
+      "gloss": "Tarşişə"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "fəryad edin"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "yaşayanlar"
+    },
+    {
+      "surface": "אי",
+      "gloss": "dəniz sahilində"
+    }
+  ],
+  "timestamp": "2026-09-01T12:57:20.583243370Z",
+  "model": "glm-5.3"
+}

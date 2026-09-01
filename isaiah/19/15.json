@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Və Mitsrayim üçün heç bir əməl olmayacaq ki, baş, yaxud quyruq, palma budağı, yaxud qamış onu edə bilsin.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "və ... olmayacaq"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olmayacaq"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "Mitsrayim üçün"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "əməl"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "edə bilsin"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "baş"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "quyruq"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "palma budağı"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "qamış"
+    }
+  ],
+  "timestamp": "2026-09-01T12:54:47.186410386Z",
+  "model": "glm-5.3"
+}

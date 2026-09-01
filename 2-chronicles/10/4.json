@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 10:4",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Atan bizim boyunduruğumuzu ağır etdi; və indi atanın sərt qulluğundan və üzərimizə qoyduğu ağır boyunduruqdan yüngülləşdir, və biz sənə qul olaq.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "Atan"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "ağır etdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bizim boyunduruğumuzu"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "bizim boyunduruğumuzu"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "və indi"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "yüngülləşdir"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "qulluğundan"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "atanın"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "sərt"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "və boyunduruqdan"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ağır"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "qoyduğu"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "üzərimizə"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "və biz sənə qul olaq"
+    }
+  ],
+  "timestamp": "2026-09-01T17:16:03.154416181Z",
+  "model": "glm-5.3"
+}

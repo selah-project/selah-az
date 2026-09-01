@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 105:45",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 105,
+  "translation": "Onlara ⟨את⟩ hökmlərini qorusunlar və ⟨את⟩ tövrələrini saxlasınlar deyə; Həmd edin Yah-a!",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "deyə (buna görə ki)"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "qorusunlar"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "hökmlərini"
+    },
+    {
+      "surface": "ותורתיו",
+      "gloss": "və tövrələrini"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "saxlasınlar"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Həmd edin"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-01T15:35:14.932987191Z",
+  "model": "glm-5.3"
+}

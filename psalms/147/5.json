@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 147,
+  "translation": "Böyükdür Adonayımız, çox güclüdür; Onun anlayışına say yoxdur.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Böyükdür"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "Adonayımız"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "çox"
+    },
+    {
+      "surface": "כח",
+      "gloss": "güclüdür"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "Onun anlayışına"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "say"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:47.006901419Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Ağasından sənin yanına sığınpa xilas olan qulu ağasına təslim etməyəcəksan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "təslim etməyəcəksan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "qul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ağasına"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "sığınpa xilas olan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sənin yanına"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ağasından"
+    }
+  ],
+  "timestamp": "2026-09-01T10:54:01.473845161Z",
+  "model": "glm-5.3"
+}

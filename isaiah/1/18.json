@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 1:18",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Gəlin, indi, biz mübahisə edək, — deyir Yahve —; əgər günahlarınız al kimi olsa, qar kimi ağaracaqlar; əgər qırmızı kimi olsalar, yun kimi olacaqlar.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "gəlin"
+    },
+    {
+      "surface": "נא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ונוכחה",
+      "gloss": "biz mübahisə edək"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "olsa"
+    },
+    {
+      "surface": "חטאיכם",
+      "gloss": "günahlarınız"
+    },
+    {
+      "surface": "כשנים",
+      "gloss": "al kimi"
+    },
+    {
+      "surface": "כשלג",
+      "gloss": "qar kimi"
+    },
+    {
+      "surface": "ילבינו",
+      "gloss": "ağaracaqlar"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "יאדימו",
+      "gloss": "qırmızı olsalar"
+    },
+    {
+      "surface": "כתולע",
+      "gloss": "qırmızı kimi"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "yun kimi"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "olacaqlar"
+    }
+  ],
+  "timestamp": "2026-09-01T12:45:43.290516773Z",
+  "model": "glm-5.3"
+}

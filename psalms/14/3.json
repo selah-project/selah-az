@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Hamısı azdı, birlikdə murdardılar; yaxşılıq edən yoxdur, hətta bir nəfər də ⟨yoxdur⟩.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Hamısı"
+    },
+    {
+      "surface": "סר",
+      "gloss": "azdı"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "birlikdə"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "murdardılar"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "edən"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşılıq"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hətta"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir nəfər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:04:50.106194078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 9:7",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Necə xoşbəxtdir ⟨sənin⟩ adamların, necə xoşbəxtdir ⟨bu⟩ qulların — sənin önündə davamlı dayananlar və ⟨את⟩ sənin hikmətini eşidənlər!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Necə xoşbəxtdir"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "adamların"
+    },
+    {
+      "surface": "ואשרי",
+      "gloss": "və necə xoşbəxtdir"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "qulların"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "dayananlar"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sənin önündə"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "davamlı"
+    },
+    {
+      "surface": "ושמעים",
+      "gloss": "və eşidənlər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sənin hikmətini"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "sənin hikmətini"
+    }
+  ],
+  "timestamp": "2026-09-01T17:16:12.336276111Z",
+  "model": "glm-5.3"
+}

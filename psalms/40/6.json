@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 40:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "Çox şey etdin Sən, Yahve Elohimim; Sənin möcüzələrin və bizim haqqımızdakı düşüncələrin — Sənin yanında sıralana bilməz; elan edərəm və danışaram: onlar sayılan-dan çoxdur.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "çox"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "etdin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    },
+    {
+      "surface": "נפלאתיך",
+      "gloss": "Sənin möcüzələrin"
+    },
+    {
+      "surface": "ומחשבתיך",
+      "gloss": "və Sənin düşüncələrin"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "bizim haqqımızda"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "sıralana bilməz"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Sənin yanında"
+    },
+    {
+      "surface": "אגידה",
+      "gloss": "elan edərəm"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "və danışaram"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "çoxdur"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "sayılan-dan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:14:30.510777550Z",
+  "model": "glm-5.3"
+}

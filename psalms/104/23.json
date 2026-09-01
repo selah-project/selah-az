@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 104,
+  "translation": "İnsan öz işinə çıxır və axşama qədər öz əməyinə.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "çıxır"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "öz işinə"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "və öz əməyinə"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "axşama"
+    }
+  ],
+  "timestamp": "2026-09-01T15:33:52.272319633Z",
+  "model": "glm-5.3"
+}

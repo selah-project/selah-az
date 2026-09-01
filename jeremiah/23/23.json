@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 23:23",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Yaxınlıq Elohimi miyəm mən — Yahvenin növü — uzaqlıq Elohimi deyiləmmi?",
+  "tokens": [
+    {
+      "surface": "האלהי",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "yaxınlıq"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "növü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "yoxsa ... deyil"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "uzaqlıq"
+    }
+  ],
+  "timestamp": "2026-09-01T13:36:01.174467743Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 132:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 132,
+  "translation": "O, Yahve ⟨üçün⟩ and içdi, Yaakovun Abirinə nəzir verdi.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "O"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "and içdi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve ⟨üçün⟩"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "nəzir verdi"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "Abirinə"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovun"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:40.851427422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və onların hər ikisi də öldü — Maxlon və Kilyon; və qadın ⟨qaldı⟩ iki övladından və ərindən.",
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "və öldülər"
+    },
+    {
+      "surface": "גם",
+      "gloss": "də"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "onların hər ikisi"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "Maxlon"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "və Kilyon"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "və qaldı"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "qadın"
+    },
+    {
+      "surface": "משני",
+      "gloss": "ikisindən"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "övladından"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "və ərindən"
+    }
+  ],
+  "timestamp": "2026-09-01T16:25:04.245980134Z",
+  "model": "glm-5.3"
+}

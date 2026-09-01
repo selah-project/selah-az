@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 18:18",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Tükənərək tükənərsən həm sən, həm də bu xalq ki, səninlədir; çünki ağırdır səndən ⟨bu⟩ iş; təkbaşına edə bilməzsən onu.",
+  "tokens": [
+    {
+      "surface": "נבל",
+      "gloss": "tükənərək"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tükənərsən"
+    },
+    {
+      "surface": "גם",
+      "gloss": "həm"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "גם",
+      "gloss": "həm də"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bu xalq"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "səninlə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ağır"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "səndən"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨bu⟩ iş"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "bilməzsən"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "eda"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "təkbaşına"
+    }
+  ],
+  "timestamp": "2026-09-01T10:12:22.450815151Z",
+  "model": "glm-5.3"
+}

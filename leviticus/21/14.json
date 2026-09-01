@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 21:14",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Dul, boşanmış, murdar olmuş, fahişə — ⟨bu⟩ ⟨bunları⟩ götürməyəcək, yalnız öz xalqından ⟨olan⟩ bir bakirə ⟨olan⟩ qadın götürəcək.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "dul"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "boşanmış"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "murdar olmuş"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "fahişə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bunlar \/ bu qadınlar"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bunları"
+    },
+    {
+      "surface": "לא",
+      "gloss": "götürməyəcək (inkar)"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "götürməyəcək"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "bakirə"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "öz xalqından"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "götürəcək"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "qadın"
+    }
+  ],
+  "timestamp": "2026-09-01T10:29:02.775695856Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 28:22",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "Pula tələsən, pisi-göz ilə dolanan adam ⟨⟨bilmir⟩⟩ ki, qıtlıq üzərinə gələcək.",
+  "tokens": [
+    {
+      "surface": "נבהל",
+      "gloss": "tələsən"
+    },
+    {
+      "surface": "להון",
+      "gloss": "pula"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pis"
+    },
+    {
+      "surface": "עין",
+      "gloss": "göz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... bilmir"
+    },
+    {
+      "surface": "ידע",
+      "gloss": " bilir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "qıtlıq"
+    },
+    {
+      "surface": "יבאנו",
+      "gloss": "üzərinə gələcək"
+    }
+  ],
+  "timestamp": "2026-09-01T16:00:35.598801151Z",
+  "model": "glm-5.3"
+}

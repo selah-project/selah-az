@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Sənin üstünə atıldım bətndən, anamın bətnindən — mənim Elim ⟨sənsən⟩.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "sənin üstünə"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "atıldım"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "bətndən"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "bətndən"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "anamın"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənim Elim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sənsən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:06:12.483241416Z",
+  "model": "glm-5.3"
+}

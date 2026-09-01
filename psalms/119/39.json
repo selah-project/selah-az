@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 119:39",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Üzərimdəki təhqirimdən ⟨keç⟩, ondan qorxuram, çünki sənin hökmlərin yaxşıdır.",
+  "tokens": [
+    {
+      "surface": "העבר",
+      "gloss": "⟨keç⟩"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "üzərimdəki təhqirimdən"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "qorxuram"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "sənin hökmlərin"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "yaxşıdır"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:16.869221494Z",
+  "model": "glm-5.3"
+}

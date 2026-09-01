@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 22:3",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Və oldu: padşah Yoşiyanın ⟨səkkiz⟩ ⟨on⟩ ilində ⟨padşah⟩ Şafanı göndərdi — Ətsəlyahunun oğlu, Məşullamın oğlu, katibi — ⟨את⟩ Yahvenin evinə, deyərək.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "və oldu"
+    },
+    {
+      "surface": "בשמנה",
+      "gloss": "səkkiz"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "on"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ilində"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoşiyanın"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "göndərdi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şafanı"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Şafanı"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "אצליהו",
+      "gloss": "Ətsəlyahunun"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "Məşullamın"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "katibi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    }
+  ],
+  "timestamp": "2026-09-01T12:43:29.661373683Z",
+  "model": "glm-5.3"
+}

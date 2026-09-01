@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 8:15",
+  "book": "zechariah",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Eləcə də bu günlərdə Yeruşalayimə ⟨את⟩ və Yehuda evinə ⟨את⟩ yaxşılıq etməyi qəsd etməyə geri döndüm. Qorxmayın.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Eləcə də"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "geri döndüm"
+    },
+    {
+      "surface": "זממתי",
+      "gloss": "qəsd etməyə"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "günlərdə"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "yaxşılıq etməyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeruşalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "Yehuda evi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "qorxmayın (əmr inkarı)"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "qorxmayın"
+    }
+  ],
+  "timestamp": "2026-09-01T14:56:30.546671744Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və mən Yeruşalayimə gəldim və orada üç gün ⟨oldum⟩.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "və gəldim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "və oldum"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "üç"
+    }
+  ],
+  "timestamp": "2026-09-01T16:54:12.360139030Z",
+  "model": "glm-5.3"
+}

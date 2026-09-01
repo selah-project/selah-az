@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 42:14",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 42,
+  "translation": "Əzəldən susdum, sükut etdim, özümü saxladım; doğuran qadın kimi qışqıracağam, həm dəhşətlə nəfəs alacaq, birlikdə udacağam.",
+  "tokens": [
+    {
+      "surface": "החשיתי",
+      "gloss": "susdum"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "Əzəldən"
+    },
+    {
+      "surface": "אחריש",
+      "gloss": "sükut etdim"
+    },
+    {
+      "surface": "אתאפק",
+      "gloss": "özümü saxladım"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "doğuran qadın kimi"
+    },
+    {
+      "surface": "אפעה",
+      "gloss": "qışqıracağam"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "dəhşətlə nəfəs alacaq"
+    },
+    {
+      "surface": "ואשאף",
+      "gloss": "udacağam"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "birlikdə"
+    }
+  ],
+  "timestamp": "2026-09-01T13:08:01.283324664Z",
+  "model": "glm-5.3"
+}

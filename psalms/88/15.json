@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 88,
+  "translation": "Niyə, Yahve, canımı qovursan, üzünü məndən gizlədirsən?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "niyə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "qovursan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "gizlədirsən"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "üzünü"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "məndən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:26.052827552Z",
+  "model": "glm-5.3"
+}

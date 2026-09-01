@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 14:16",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Kahin sağ barmağını sol ovucundakı yağa batıracaq və barmağıyla yağdan yeddi dəfə Yahvenin üzü qarşısında səpəcək.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "batıracaq"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sağ barmağını"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "barmağını"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "sağ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "yağ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündəki"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "ovucundakı"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "sol"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "səpəcək"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "yağ"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "barmağıyla"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yeddi"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "dəfə"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "üzü qarşısında"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:26:33.296125062Z",
+  "model": "glm-5.3"
+}

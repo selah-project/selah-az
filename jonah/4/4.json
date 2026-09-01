@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 4:4",
+  "book": "jonah",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Yahve isə dedi: Sənə yaxşı görünür ki qəzəblənəsən?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "yaxşı görünür"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "qəzəblənəsən"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    }
+  ],
+  "timestamp": "2026-09-01T14:45:14.344870848Z",
+  "model": "glm-5.3"
+}

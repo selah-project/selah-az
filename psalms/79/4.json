@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 79:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 79,
+  "translation": "Qonşularımız üçün təhqir, ətrafımızdakılar üçün istehza ⟨və⟩ lağ olduq.",
+  "tokens": [
+    {
+      "surface": "היינו",
+      "gloss": "olduq"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "təhqir"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "qonşularımız üçün"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "istehza"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "və lağ"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "ətrafımızdakılar üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T15:28:41.536525611Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 141:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 141,
+  "translation": "Məni torun əllərindən qoru — onlar mənim üçün qurdular — və əməlsizlik işçilərinin torlarından ⟨da⟩.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "məni qoru"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "əllərindən"
+    },
+    {
+      "surface": "פח",
+      "gloss": "tor"
+    },
+    {
+      "surface": "יקשו",
+      "gloss": "qurdular"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənim üçün"
+    },
+    {
+      "surface": "ומקשות",
+      "gloss": "və torları"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "işçilərinin"
+    },
+    {
+      "surface": "און",
+      "gloss": "əməlsizliyin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:44:02.652264545Z",
+  "model": "glm-5.3"
+}

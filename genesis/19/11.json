@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 19:11",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Və evin qapısı önündə ⟨durán⟩ adamları ⟨את⟩ kiçidən böyüyə qədər korluqla vurdular, və qapını tapmaqdan yoruldular.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "adamları"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "adamları"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "qapısı önündə"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "evin"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "vurdular"
+    },
+    {
+      "surface": "בסנורים",
+      "gloss": "korluqla"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "kiçidən"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "böyüyə"
+    },
+    {
+      "surface": "וילאו",
+      "gloss": "yoruldular"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "tapmaqdan"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "qapını"
+    }
+  ],
+  "timestamp": "2026-09-01T09:50:16.963618168Z",
+  "model": "glm-5.3"
+}

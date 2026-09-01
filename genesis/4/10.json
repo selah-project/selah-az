@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "O dedi: «Nə etdin? Qardaşının qanının səsi torpaqdan mənə hay qoparır.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "etdin"
+    },
+    {
+      "surface": "קול",
+      "gloss": "səsi"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "qanının"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "qardaşının"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "hay qoparır"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "torpaq"
+    }
+  ],
+  "timestamp": "2026-09-01T09:46:04.039766284Z",
+  "model": "glm-5.3"
+}

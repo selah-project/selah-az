@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 69:25",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 69,
+  "translation": "Onların üstünə qəzəbini tök, və öfkənin coşqunluğu onları tutsun.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "tök"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "onların üstünə"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "qəzəbini"
+    },
+    {
+      "surface": "וחרון",
+      "gloss": "və öfkənin coşqunluğu"
+    },
+    {
+      "surface": "אפך",
+      "gloss": ""
+    },
+    {
+      "surface": "ישיגם",
+      "gloss": "onları tutsun"
+    }
+  ],
+  "timestamp": "2026-09-01T15:23:26.935619454Z",
+  "model": "glm-5.3"
+}

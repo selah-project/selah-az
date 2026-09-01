@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 143:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 143,
+  "translation": "Və hesedinlə düşmənlərimi kəsib at, canımın düşmənlərinin hamısını məhv et, çünki mən qulunam.",
+  "tokens": [
+    {
+      "surface": "ובחסדך",
+      "gloss": "və hesedinlə"
+    },
+    {
+      "surface": "תצמית",
+      "gloss": "kəsib at"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "düşmənlərimi"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "və məhv et"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamısını"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "canımın düşmənlərinin"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımın"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "qulunam"
+    }
+  ],
+  "timestamp": "2026-09-01T15:44:26.109180541Z",
+  "model": "glm-5.3"
+}

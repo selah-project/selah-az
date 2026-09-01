@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 130,
+  "translation": "Adonay, mənim səsimi eşit; qulaqların tənalərimizin səsinə qulaq asan ⟨olsun⟩.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "eşit"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "mənim səsimi"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "⟨olsun⟩"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "qulaqların"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "qulaq asan"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "səsinə"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "tənalərim"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:14.674374192Z",
+  "model": "glm-5.3"
+}

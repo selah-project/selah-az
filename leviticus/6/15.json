@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 6:15",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Və kahin — ondan sonra onun oğullarından məsh edilmiş olan — onu hazırlayacaq: ⟨bu⟩ Yahveyə əbədi qanundur, tamamilə yandırılacaq.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "və kahin"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "məsh edilmiş"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ondan sonra \/ onun yerinə"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "oğullarından"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "hazırlayacaq"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "onu (minçanı)"
+    },
+    {
+      "surface": "חק",
+      "gloss": "qanun"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "tamamilə"
+    },
+    {
+      "surface": "תקטר",
+      "gloss": "yandırılacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T10:24:03.983230424Z",
+  "model": "glm-5.3"
+}

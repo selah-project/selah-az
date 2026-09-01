@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 115,
+  "translation": "Niyə desinlər xalqlar: «Haradadır, ⟨elə isə⟩ onların Elohimi?»",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "niyə"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "desinlər"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "איה",
+      "gloss": "haradadır"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨elə isə⟩"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "onların Elohimi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:32.317254459Z",
+  "model": "glm-5.3"
+}

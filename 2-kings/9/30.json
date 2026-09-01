@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 9:30",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Və Yehu Yizreelə gəldi, İzevel bunu eşitdi və gözünə sürmə çəkdi, başını düzəltdi və pəncərədən aşağı baxdı.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "və gəldi"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "Yizreelə"
+    },
+    {
+      "surface": "ואיזבל",
+      "gloss": "və İzevel"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "eşitdi"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "və çəkdi"
+    },
+    {
+      "surface": "בפוך",
+      "gloss": "sürmə"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "gözünə"
+    },
+    {
+      "surface": "ותיטב",
+      "gloss": "və düzəltdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "başını"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "başını"
+    },
+    {
+      "surface": "ותשקף",
+      "gloss": "və aşağı baxdı"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "...dən"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "pəncərə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:32:38.163828119Z",
+  "model": "glm-5.3"
+}

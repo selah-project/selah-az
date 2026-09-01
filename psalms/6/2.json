@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Yahve, qəzəbində məni qınama, hirsində ⟨də⟩ məni tərbiyə etmə.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "qınama"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "qəzəbində"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "məni qına"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və etmə"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "hirsində"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "məni tərbiyə et"
+    }
+  ],
+  "timestamp": "2026-09-01T15:01:52.622509811Z",
+  "model": "glm-5.3"
+}

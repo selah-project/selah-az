@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 7:7",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Buna görə qalxdılar və şəfəq vaxtı qaçdılar, çadırlarını ⟨את⟩, atlarını ⟨את⟩ və eşşəklərini ⟨את⟩, düşərgəni olduğu kimi qoyub canlarının dalınca qaçdılar.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "qalxdılar"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "qaçdılar"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "şəfəq vaxtı"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "qoyub getdilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çadırlarını"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "çadırlarını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "atlarını"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "atlarını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "eşşəklərini"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "eşşəklərini"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "düşərgəni"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "olduğu kimi"
+    },
+    {
+      "surface": "היא",
+      "gloss": "o"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "qaçdılar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dalınca"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "canlarının"
+    }
+  ],
+  "timestamp": "2026-09-01T12:32:23.325532016Z",
+  "model": "glm-5.3"
+}

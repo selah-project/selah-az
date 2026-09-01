@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "və lövhələrin üstünə ⟨את⟩ kəlmələri yazacağam — o kəlmələri ki, sənin sındırdığın ilkin lövhələrin üstündə idilər — və onları sandığa qoyacaqsan.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "və yazacağam"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "lövhələrin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kəlmələri"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kəlmələri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "היו",
+      "gloss": "idilər"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "lövhələrin"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "ilkin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "sənin sındırdığın"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "və qoyacaqsan onları"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "sandığa"
+    }
+  ],
+  "timestamp": "2026-09-01T10:49:10.943992556Z",
+  "model": "glm-5.3"
+}

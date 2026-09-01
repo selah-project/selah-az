@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 1:8",
+  "book": "joshua",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Bu Tövrə kitabı ağzından ayrılmasın, onu gündüz və gecə dilə gətir — onda yazılmış hər şeyə riayət edib yerinə yetirmək üçün; çünki o zaman ⟨את⟩ yolunu müvəffəq edəcəksən və o zaman ağıllı hərəkət edəcəksən.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ימוש",
+      "gloss": "ayrılmasın"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitabı"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tövrə"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "מפיך",
+      "gloss": "ağzından"
+    },
+    {
+      "surface": "והגית",
+      "gloss": "və dilə gətir"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onu"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "gündüz"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "və gecə"
+    },
+    {
+      "surface": "למען",
+      "gloss": "...üçün"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "riayət edəsən"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yerinə yetirmək"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "hər... kimi"
+    },
+    {
+      "surface": "הכתוב",
+      "gloss": "yazılmış"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אז",
+      "gloss": "o zaman"
+    },
+    {
+      "surface": "תצליח",
+      "gloss": "müvəffəq edəcəksən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yolunu"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "yolunu"
+    },
+    {
+      "surface": "ואז",
+      "gloss": "və o zaman"
+    },
+    {
+      "surface": "תשכיל",
+      "gloss": "ağıllı hərəkət edəcəksən"
+    }
+  ],
+  "timestamp": "2026-09-01T11:03:12.545576779Z",
+  "model": "glm-5.3"
+}

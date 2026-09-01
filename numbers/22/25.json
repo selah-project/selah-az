@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 22:25",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Dişi eşşək Yahvenin mələyini ⟨את⟩ gördü və divara sıxıldı, Bilamın ayağını divara sıxdı və ⟨o⟩ onu vurmağa davam etdi.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "və gördü"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "dişi eşşək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mələk"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mələk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ותלחץ",
+      "gloss": "və sıxıldı"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a doğru"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "divar"
+    },
+    {
+      "surface": "ותלחץ",
+      "gloss": "və sıxdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayaq"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ayaq"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a doğru"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "divar"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "və davam etdi"
+    },
+    {
+      "surface": "להכתה",
+      "gloss": "onun vurmağa"
+    }
+  ],
+  "timestamp": "2026-09-01T10:41:14.180664934Z",
+  "model": "glm-5.3"
+}

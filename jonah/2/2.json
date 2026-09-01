@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 2:2",
+  "book": "jonah",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və Yunus balığın qarnından Yahveyə, öz Elohiminə dua etdi.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "dua etdi"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yunus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "öz Elohiminə"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "qarnından"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "balığın"
+    }
+  ],
+  "timestamp": "2026-09-01T14:45:40.344792787Z",
+  "model": "glm-5.3"
+}

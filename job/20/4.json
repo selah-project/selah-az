@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 20:4",
+  "book": "job",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Bunu əzəldən bilirsənmi, insan yer üzünə qoyulandan ⟨bəri⟩?",
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "Bunu"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "bilirsənmi"
+    },
+    {
+      "surface": "מני",
+      "gloss": "⟨-dən⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "əzəldən"
+    },
+    {
+      "surface": "מני",
+      "gloss": "⟨-dən⟩"
+    },
+    {
+      "surface": "שים",
+      "gloss": "qoyulandan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "yer üzünə"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-09-01T16:11:20.467604090Z",
+  "model": "glm-5.3"
+}

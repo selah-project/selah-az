@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 30:42",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Zəif qoyunlar ⟨cütləşəndə⟩ isə o, çubuqları qoymazdı; beləliklə zəiflər Lavana, güclülər isə Yaquba düşərdi.",
+  "tokens": [
+    {
+      "surface": "ובהעטיף",
+      "gloss": "zəifləşəndə"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "qoyunlar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "isə o ... qoymazdı"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "qoymazdı"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "beləliklə düşərdi"
+    },
+    {
+      "surface": "העטפים",
+      "gloss": "zəiflər"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "Lavana"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "güclülər isə"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yaquba"
+    }
+  ],
+  "timestamp": "2026-09-01T09:55:44.193223033Z",
+  "model": "glm-5.3"
+}

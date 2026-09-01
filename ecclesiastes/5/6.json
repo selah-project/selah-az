@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Çünki xəyalların çoxluğunda, hevəllərdə və sözlərin çoxluğunda ⟨belədir⟩; amma ⟨sən⟩ ⟨את⟩ Elohimdən qorx.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "çoxluğunda"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "xəyalların"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "hevəllərdə"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "və sözlərin"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "çoxluğunda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "qorx"
+    }
+  ],
+  "timestamp": "2026-09-01T16:32:34.172583470Z",
+  "model": "glm-5.3"
+}

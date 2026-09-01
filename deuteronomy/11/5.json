@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "və çöldə sizin üçün etdiklərini — bu yerə çatana qədər ⟨sizin üçün etdiklərini⟩.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "və ... etdiklərini"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etdi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin üçün"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "çöldə"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "sizin gəlməniz"
+    },
+    {
+      "surface": "עד",
+      "gloss": "çatana qədər"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "⟨bu⟩ yerə"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-09-01T10:49:41.366574697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 18:2",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Eliyu Ahava görünməyə getdi; Şomronda isə qıtlıq şiddətli idi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "getdi"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyu"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "görünməyə"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ə"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahava"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "və qıtlıq"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "şiddətli"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Şomronda"
+    }
+  ],
+  "timestamp": "2026-09-01T12:23:03.203275914Z",
+  "model": "glm-5.3"
+}

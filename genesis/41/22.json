@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 41:22",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 41,
+  "translation": "və yuxumda gördüm, və bax, yeddi sünbül bir gövdədə qalxan, dolu və yaxşı.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "və gördüm"
+    },
+    {
+      "surface": "בחלמי",
+      "gloss": "yuxumda"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "və bax"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yeddi"
+    },
+    {
+      "surface": "שבלים",
+      "gloss": "sünbül"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "qalxan"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "bir gövdədə"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "dolu"
+    },
+    {
+      "surface": "וטבות",
+      "gloss": "və yaxşı"
+    }
+  ],
+  "timestamp": "2026-09-01T09:59:44.319573523Z",
+  "model": "glm-5.3"
+}

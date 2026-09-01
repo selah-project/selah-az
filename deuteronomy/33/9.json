@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 33:9",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "O ki atasına və anasına dedi: Onu görmədim, ⟨את⟩ qardaşlarını tanımadı, ⟨את⟩ oğlunu bilmədi; çünki sözlərini saxladılar və ⟨ə⟩ əhdini qoruyacaqlar.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "O ki dedi"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "atasına"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "və anasına"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "onu görmədim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qardaşlarını"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "qardaşlarını"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "tanımadı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oğlunu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlunu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilmədi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "saxladılar"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "sözlərini"
+    },
+    {
+      "surface": "ובריתך",
+      "gloss": "və əhdini"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "qoruyacaqlar"
+    }
+  ],
+  "timestamp": "2026-09-01T10:57:46.230728103Z",
+  "model": "glm-5.3"
+}

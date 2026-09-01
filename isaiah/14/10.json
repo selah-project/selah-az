@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 14:10",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Hamısı cavab verib sənə deyəcək: sən də bizim kimi zəiflədin, bizə bənzədin!",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "hamısı"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "cavab verib"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "deyəcək"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "גם",
+      "gloss": "də"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "zəiflədin"
+    },
+    {
+      "surface": "כמונו",
+      "gloss": "bizim kimi"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "bizə"
+    },
+    {
+      "surface": "נמשלת",
+      "gloss": "bənzədin"
+    }
+  ],
+  "timestamp": "2026-09-01T17:35:21.477649215Z",
+  "model": "glm-5.3"
+}

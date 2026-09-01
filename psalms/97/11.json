@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 97:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 97,
+  "translation": "Saleh üçün işıq səpilir, ürək düzləri üçün isə sevinc.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "işıq"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "səpilir"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "saleh üçün"
+    },
+    {
+      "surface": "ולישרי",
+      "gloss": "və düzləri üçün"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ürək"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "sevinc"
+    }
+  ],
+  "timestamp": "2026-09-01T15:34:55.812488876Z",
+  "model": "glm-5.3"
+}

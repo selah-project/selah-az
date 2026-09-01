@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 9:10",
+  "book": "job",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Dərinlərindən araşdırılmayan böyük işlər görür, saysız-hesabsız möcüzələr törədir.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "görür"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "böyük ⟨işlər⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dərinlərindən"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yox"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "araşdırma"
+    },
+    {
+      "surface": "ונפלאות",
+      "gloss": "və möcüzələr"
+    },
+    {
+      "surface": "עד",
+      "gloss": "saysız"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yox"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "say"
+    }
+  ],
+  "timestamp": "2026-09-01T16:04:14.597402569Z",
+  "model": "glm-5.3"
+}

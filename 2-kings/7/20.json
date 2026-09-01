@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Və ona belə oldu, və xalq onu ⟨את⟩ qapıda əzdi, və o öldü.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "və belə oldu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "כן",
+      "gloss": "belə"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "və əzdi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "şəlisi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "qapıda"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "və öldü"
+    }
+  ],
+  "timestamp": "2026-09-01T12:32:57.930659833Z",
+  "model": "glm-5.3"
+}

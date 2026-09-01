@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 112,
+  "translation": "Pis bir xəbərdən qorxmayacaq; qəlbi sabitdir, Yahveyə arxayındır.",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "xəbərdən"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "qorxmayacaq"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "sabitdir"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "qəlbi"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "arxayındır"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahveyə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:01.694247991Z",
+  "model": "glm-5.3"
+}

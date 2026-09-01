@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 77,
+  "translation": "Qoruyucuya, Yedutun üzərinə, Asafa — məzmur.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Qoruyucuya"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Yedutun"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafa"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "məzmur"
+    }
+  ],
+  "timestamp": "2026-09-01T15:25:59.791641671Z",
+  "model": "glm-5.3"
+}

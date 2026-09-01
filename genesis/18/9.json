@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 18:9",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Və ona dedilər: Sara — zövcən haradadır? O da dedi: Bax, çadırdadır.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "dedilər"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "איה",
+      "gloss": "haradadır"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "zövcən"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o da dedi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "çadırdadır"
+    }
+  ],
+  "timestamp": "2026-09-01T09:50:08.363347489Z",
+  "model": "glm-5.3"
+}

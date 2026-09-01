@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 1:9",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və Elohim dedi: “Göylərin altındakı sular bir yerə yığılsın, və quru görünərək meydana çıxsın.” Və belə oldu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "yığılsın"
+    },
+    {
+      "surface": "המים",
+      "gloss": "sular"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "altındakı"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "Göylərin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "yer"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "və görünsün"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "quru"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "və oldu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "belə"
+    }
+  ],
+  "timestamp": "2026-09-01T09:45:39.434740203Z",
+  "model": "glm-5.3"
+}

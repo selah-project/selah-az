@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 5:17",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Sən ⟨את⟩ Davidi, atamı tanıyırsan — o, Yahvenin, öz Elohiminin adına ev tikməyə qadir olmadı, çünki onu hər tərəfdən əhatə edən müharibələr üzündən, Yahve ⟨את⟩ onları onun ayaqlarının tabanları altına qoyana qədər.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sən"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tanıyırsan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidi (atamı)"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atamı"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "qadir olmadı"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "tikməyə"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "adına"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "öz Elohiminin"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "üzündən"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "müharibələr"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "סבבהו",
+      "gloss": "onu əhatə edən"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "תת",
+      "gloss": "qoyana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onları",
+      "marks": "onları (düşmənləri — tabanlar altına qoyulanlar)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altına"
+    },
+    {
+      "surface": "כפות",
+      "gloss": "ayaqlarının tabanları"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "onun ayaqlarının"
+    }
+  ],
+  "timestamp": "2026-09-01T17:59:38.727845139Z",
+  "model": "glm-5.3"
+}

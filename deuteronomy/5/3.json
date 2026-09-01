@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Atalarımızla ⟨את⟩ yox, bizimlə kəsdi Yahve ⟨את⟩ bu müqaviləni; çünki biz — bizlərİZİK buradayıq, bu gün, hamımız diriyik.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atalarımızla"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "atalarımız"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "kəsdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu müqaviləni"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "müqaviləni"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ bizimlə"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "biz"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bizlərik"
+    },
+    {
+      "surface": "פה",
+      "gloss": "buradayıq"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bu gün"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "hamımız"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "diriyik"
+    }
+  ],
+  "timestamp": "2026-09-01T10:47:27.952090590Z",
+  "model": "glm-5.3"
+}

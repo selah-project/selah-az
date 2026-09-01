@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 59,
+  "translation": "Ozı ⟨onun gücü ilə⟩ Sənə doğru gözləyəcəyəm, çünki Elohim mənim sığınağım ⟨dır⟩.",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "Ozı (onun gücü)"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Sənə doğru"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "gözləyəcəyəm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "mənim sığınağım"
+    }
+  ],
+  "timestamp": "2026-09-01T15:20:24.503461942Z",
+  "model": "glm-5.3"
+}

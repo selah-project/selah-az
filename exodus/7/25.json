@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Yeddi gün doldu, Yahve çayır vurmağından sonra ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "doldu"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "yeddi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sonra"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "vurmağından"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çayır"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "çayır"
+    }
+  ],
+  "timestamp": "2026-09-01T10:06:41.727012038Z",
+  "model": "glm-5.3"
+}

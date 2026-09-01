@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 106,
+  "translation": "Atalarımızla birlikdə günah etdik, əyri yol tutduq, pislik etdik.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "günah etdik"
+    },
+    {
+      "surface": "עם",
+      "gloss": "birlikdə"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "atalarımızla"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "əyri yol tutduq"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "pislik etdik"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:00.980348977Z",
+  "model": "glm-5.3"
+}

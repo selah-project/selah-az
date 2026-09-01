@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 139,
+  "translation": "Haraya gedim ruhindən, və haraya üz çevirib qaçım sifətindən?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "haraya"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "gedim"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "ruhindən"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "və haraya"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "sifətindən"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "üz çevirib qaçım"
+    }
+  ],
+  "timestamp": "2026-09-01T17:43:11.584333454Z",
+  "model": "glm-5.3"
+}

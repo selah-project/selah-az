@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 13:7",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Və əgər kəpək dəridə yayılsa, kahinə öz təmizliyi üçün görünməsindən sonra, kahinə ikinci dəfə görünəcək.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "yayılsa"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "yayılacaq"
+    },
+    {
+      "surface": "המספחת",
+      "gloss": "kəpək"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "dəridə"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sonra"
+    },
+    {
+      "surface": "הראתו",
+      "gloss": "görülməsindən"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə doğru"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahinə"
+    },
+    {
+      "surface": "לטהרתו",
+      "gloss": "öz təmizliyi üçün"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "və görünəcək"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ikinci dəfə"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə doğru"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahinə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:26:10.350472310Z",
+  "model": "glm-5.3"
+}

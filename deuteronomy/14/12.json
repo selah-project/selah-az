@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Bunlar isə onlardan yeməyəcəyinizlərdir: qartal, pərxoz və üçbarmaq qartal.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "və bunlar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki, olan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yeməyəcəyiniz"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "onlardan"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "qartal"
+    },
+    {
+      "surface": "והפרס",
+      "gloss": "və pərxoz"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "və üçbarmaq qartal"
+    }
+  ],
+  "timestamp": "2026-09-01T10:50:09.419643581Z",
+  "model": "glm-5.3"
+}

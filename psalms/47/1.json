@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 47,
+  "translation": "Xormeystər üçün, Korach oğullarına, məzmur.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Xormeystər üçün"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oğullarına"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "məzmur"
+    }
+  ],
+  "timestamp": "2026-09-01T15:16:15.352579498Z",
+  "model": "glm-5.3"
+}

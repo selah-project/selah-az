@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 14:26",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Və Yahve Moşeyə dedi: Əlini dənizin üstünə uzat, və sular Mitsrayimin, onun arabalarının və onun atlılarının üstünə qayıtsınlar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Və ... dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşeyə"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "uzat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əlini"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "əlini"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dənizin"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "və ... qayıtsınlar"
+    },
+    {
+      "surface": "המים",
+      "gloss": "sular"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimin"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "onun arabalarının"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "və ... üstünə"
+    },
+    {
+      "surface": "פרשיו",
+      "gloss": "onun atlılarının"
+    }
+  ],
+  "timestamp": "2026-09-01T10:09:23.586563058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 33:22",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "Yahvenin əli qaçqın gəlməzdən əvvəl axşam üstü mənim üstümə idi və o, səhər mənə gəlməzdən əvvəl ağzımı açdı; ağzım açıldı və mən artıq lal qalmadım.",
+  "tokens": [
+    {
+      "surface": "ויד",
+      "gloss": "əli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "idi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənim üstümə"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "axşam üstü"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "əvvəl"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "gəlməzdən"
+    },
+    {
+      "surface": "הפליט",
+      "gloss": "qaçqın"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "və açdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ağzımı"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzımı"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dək"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "gəlməsi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "səhər"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "və açıldı"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ağzım"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və... qalmadım"
+    },
+    {
+      "surface": "נאלמתי",
+      "gloss": "lal"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "artıq"
+    }
+  ],
+  "timestamp": "2026-09-01T14:20:57.180424614Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 11:12",
+  "book": "daniel",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Və ⟨o⟩ kütləni daşıyacaq, ürəyi yüksələcək, və on minlərlə ⟨kəs⟩ devirəcək, amma qüvvətlənməyəcək.",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "daşıyacaq"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "kütləni"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "yüksələcək"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "ürəyi"
+    },
+    {
+      "surface": "והפיל",
+      "gloss": "devirəcək"
+    },
+    {
+      "surface": "רבאות",
+      "gloss": "on minlərlə"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma yox"
+    },
+    {
+      "surface": "יעוז",
+      "gloss": "qüvvətlənməyəcək"
+    }
+  ],
+  "timestamp": "2026-09-01T16:47:05.682396166Z",
+  "model": "glm-5.3"
+}

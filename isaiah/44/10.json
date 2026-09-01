@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 44,
+  "translation": "Kim ⟨bir⟩ ilah düzəltdi, tökmə heykəl — ⟨heç⟩ fayda verməsin deyə?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "düzəltdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilah"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "tökmə heykəl"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "tökmə"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "verməsin deyə"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "fayda"
+    }
+  ],
+  "timestamp": "2026-09-01T13:10:34.374478901Z",
+  "model": "glm-5.3"
+}

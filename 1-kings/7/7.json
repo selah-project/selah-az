@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 7:7",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Və taxt eyvanını — ⟨harada⟩ orada məhkəmə edərdi — məhkəmə eyvanını etdi; və sidr ağacı ilə örtüldü, döşəmədən döşəməyə ⟨qədər⟩.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "və eyvanını"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "taxt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨harada⟩"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "məhkəmə edərdi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "eyvanını"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "məhkəmə"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etdi"
+    },
+    {
+      "surface": "וספון",
+      "gloss": "və örtüldü"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "sidr ağacı ilə"
+    },
+    {
+      "surface": "מהקרקע",
+      "gloss": "döşəmədən"
+    },
+    {
+      "surface": "עד",
+      "gloss": "döşəməyə qədər"
+    },
+    {
+      "surface": "הקרקע",
+      "gloss": "döşəmə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:13:57.430341578Z",
+  "model": "glm-5.3"
+}

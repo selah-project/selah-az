@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 10:10",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Əlim but krallıqlarını ⟨məhz⟩ tapdığı kimi — ⟨onların⟩ oyma bütləri Yeruşalayımın ⟨bütlərindən⟩ və Şomeronun ⟨bütlərindən⟩ üstün oldu",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "tapdığı"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "elim"
+    },
+    {
+      "surface": "לממלכת",
+      "gloss": "krallıqlarını"
+    },
+    {
+      "surface": "האליל",
+      "gloss": "but"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "oyma bütləri"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "Yeruşalayımın"
+    },
+    {
+      "surface": "ומשמרון",
+      "gloss": "Şomeronun"
+    }
+  ],
+  "timestamp": "2026-09-01T12:50:35.337626987Z",
+  "model": "glm-5.3"
+}

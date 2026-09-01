@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 9:7",
+  "book": "esther",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "və ⟨את⟩ Parşandatanı, və ⟨את⟩ Dalfonu, və ⟨את⟩ Aspatanı ⟨öldürdülər⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Parşandatanı"
+    },
+    {
+      "surface": "פרשנדתא",
+      "gloss": "Parşandata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Dalfonu"
+    },
+    {
+      "surface": "דלפון",
+      "gloss": "Dalfon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aspatanı"
+    },
+    {
+      "surface": "אספתא",
+      "gloss": "Aspata"
+    }
+  ],
+  "timestamp": "2026-09-01T16:36:40.606497354Z",
+  "model": "glm-5.3"
+}

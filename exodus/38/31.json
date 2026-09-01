@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 38:31",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 38,
+  "translation": "və ⟨את⟩ həyətin ətrafındakı oturlaqları, ⟨את⟩ həyət qapısının oturlaqlarını, ⟨את⟩ Məskənin bütün möhkəm taxtalarını və ⟨את⟩ həyətin ətrafındakı bütün möhkəm taxtalarını.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oturlaqları"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "oturlaqları"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "həyətin"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ətrafında"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qapısının oturlaqlarını"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "oturlaqlarını"
+    },
+    {
+      "surface": "שער",
+      "gloss": "qapısının"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "həyət"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bütün möhkəm taxtalarını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "möhkəm taxtalarını"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Məskənin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bütün möhkəm taxtalarını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "möhkəm taxtalarını"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "həyətin"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ətrafındakı"
+    }
+  ],
+  "timestamp": "2026-09-01T17:52:45.911496376Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 121,
+  "translation": "Ayağının sürüşməsinə icazə verməsin, səni qoruyan yuxuya getməsin.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "⟨ya⟩"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "icazə verməsin"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "sürüşməsinə"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ayağının"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ya⟩"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "yuxuya getməsin"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "səni qoruyan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:41:52.704659959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 71:21",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 71,
+  "translation": "Böyüklüyümü artıracaqsan və ⟨məni⟩ təsəlli edəcəksən.",
+  "tokens": [
+    {
+      "surface": "תרב",
+      "gloss": "artıracaqsan"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "Böyüklüyümü"
+    },
+    {
+      "surface": "ותסב",
+      "gloss": "və ⟨məni⟩"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "təsəlli edəcəksən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:22:44.082470420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 19:5",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Və uzandı və bir ratam kolunun altında yatdı; və bax, bu, ona toxunan bir mələk ⟨idi⟩ və ona dedi: Qalx, yemək ye.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "uzandı"
+    },
+    {
+      "surface": "ויישן",
+      "gloss": "yatdı"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "רתם",
+      "gloss": "ratam"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "və bax"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mələk"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "toxunan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "קום",
+      "gloss": "qalx"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "yemək ye"
+    }
+  ],
+  "timestamp": "2026-09-01T12:24:15.423342294Z",
+  "model": "glm-5.3"
+}

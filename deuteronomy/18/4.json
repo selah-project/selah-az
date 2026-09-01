@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 18:4",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Dənənin, şirənin və yağının ilk meyvəsini, həmçinin qoyunlarının yununun ilkini ona verəcəksən.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "ilk meyvəsini"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "sənin dənənin"
+    },
+    {
+      "surface": "תירשך",
+      "gloss": "sənin şirənin"
+    },
+    {
+      "surface": "ויצהרך",
+      "gloss": "və sənin yağının"
+    },
+    {
+      "surface": "וראשית",
+      "gloss": "həmçinin ilkin"
+    },
+    {
+      "surface": "גז",
+      "gloss": "yununun"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "sənin qoyunlarının"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "verəcəksən"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-09-01T10:53:11.402058003Z",
+  "model": "glm-5.3"
+}

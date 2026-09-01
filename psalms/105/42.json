@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 105,
+  "translation": "Çünki müqəddəs sözünü xatırladı — ⟨את⟩, qulu Avrahəmə ⟨את⟩ dair.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "xatırladı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "müqəddəs sözünü"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sözünü"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahəm"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahəm"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "qulu"
+    }
+  ],
+  "timestamp": "2026-09-01T15:35:31.883339352Z",
+  "model": "glm-5.3"
+}

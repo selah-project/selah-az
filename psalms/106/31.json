@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 106,
+  "translation": "Və bu ona nəsildən-nəslə, əbədiyyən salehlik kimi sayıldı.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "sayıldı"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "salehlik kimi"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "nəsildən"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nəslə"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨davam⟩"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "əbədiyyən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:35.413548757Z",
+  "model": "glm-5.3"
+}

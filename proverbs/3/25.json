@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 3:25",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Qəflətən qorxudan qorxma, rəşəimlərin viranəliyindən ⟨də⟩, o gələndə.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "qorxma (qadağan)"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "qorxma"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "qorxudan"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "qəflətən"
+    },
+    {
+      "surface": "ומשאת",
+      "gloss": "və viranəliyindən"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "rəşəimlərin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "o"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "gələndə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:48:58.492827776Z",
+  "model": "glm-5.3"
+}

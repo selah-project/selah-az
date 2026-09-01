@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 5:11",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Və axırında fəryad edəsən, ətin və bədənin tükənəndə.",
+  "tokens": [
+    {
+      "surface": "וְנָהַמְתָּ֥",
+      "gloss": "və fəryad edəsən"
+    },
+    {
+      "surface": "בְּאַחֲרִיתֶ֑ךָ",
+      "gloss": "axırında"
+    },
+    {
+      "surface": "בִּכְל֥וֹת",
+      "gloss": "tükənəndə"
+    },
+    {
+      "surface": "בְּשָׂרְךָ֗",
+      "gloss": "ətin"
+    },
+    {
+      "surface": "וּשְׁאֵרֶֽךָ",
+      "gloss": "və bədənin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:48:10.791099042Z",
+  "model": "glm-5.3"
+}

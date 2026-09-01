@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "Çünki onlar salamlıq danışmırlar, yerin sakinlərinə qarşı hiylə sözləri qururlar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salamlıq"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "danışmırlar"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "qarşı"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "sakinlərinə"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözləri"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "hiylə"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "qururlar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:11:24.629723130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 64:10",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 64,
+  "translation": "Bizim müqəddəs evimiz və izzətimiz — atalarımızın səni mədh etdiyi ⟨ev⟩ — odun yandırığına çevrildi, və bütün sevimli şeylərimiz viranəliyə döndü.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "evimiz"
+    },
+    {
+      "surface": "קדשנו",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "ותפארתנו",
+      "gloss": "və izzətimiz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הללוך",
+      "gloss": "səni mədh edirdilər"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "atalarımız"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "לשרפת",
+      "gloss": "yanmağa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "od"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "מחמדינו",
+      "gloss": "sevimli şeylərimiz"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "viranəliyə"
+    }
+  ],
+  "timestamp": "2026-09-01T13:19:18.859040306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 61:4",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 61,
+  "translation": "Və əzəli xarabalıqları tikəcəklər, əvvəlki viranələri qaldıracaqlar, nəsildən-nəslə ⟨durmuş⟩ viran şəhərləri yeniləyəcəklər.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "Və tikəcəklər"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "xarabalıqları"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "əzəli"
+    },
+    {
+      "surface": "שממות",
+      "gloss": "viranələri"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "əvvəlki"
+    },
+    {
+      "surface": "יקוממו",
+      "gloss": "qaldıracaqlar"
+    },
+    {
+      "surface": "וחדשו",
+      "gloss": "yeniləyəcəklər"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "şəhərləri"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "viran"
+    },
+    {
+      "surface": "שממות",
+      "gloss": "⟨durmuş⟩"
+    },
+    {
+      "surface": "דור",
+      "gloss": "nəsildən"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "nəslə"
+    }
+  ],
+  "timestamp": "2026-09-01T13:18:59.028326673Z",
+  "model": "glm-5.3"
+}

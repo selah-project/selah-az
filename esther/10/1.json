@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 10:1",
+  "book": "esther",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Axsəroş padşah ölkənin üzərinə və dənizin adalarına məs (məcburi iş qulu kimi vergi) qoydu.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "qoydu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "Axsəroş"
+    },
+    {
+      "surface": "מס",
+      "gloss": "məs (məcburi iş qulu kimi vergi)"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ölkə"
+    },
+    {
+      "surface": "ואיי",
+      "gloss": "və adalar"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dənizin"
+    }
+  ],
+  "timestamp": "2026-09-01T18:02:48.018691841Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 11:12",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Və ümmətlər üçün nisanən qaldıracaq, İsrailin qovulmuşlarını toplayacaq və Yehudanın səpələnmişlərini yerin dörd qanadından yığacaq.",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "qaldıracaq"
+    },
+    {
+      "surface": "נס",
+      "gloss": "nisanən"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "ümmətlər üçün"
+    },
+    {
+      "surface": "ואסף",
+      "gloss": "toplayacaq"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "qovulmuşlarını"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailin"
+    },
+    {
+      "surface": "ונפצות",
+      "gloss": "səpələnmişlərini"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudanın"
+    },
+    {
+      "surface": "יקבץ",
+      "gloss": "yığacaq"
+    },
+    {
+      "surface": "מארבע",
+      "gloss": "dörd"
+    },
+    {
+      "surface": "כנפות",
+      "gloss": "qanadından"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    }
+  ],
+  "timestamp": "2026-09-01T12:51:26.244026201Z",
+  "model": "glm-5.3"
+}

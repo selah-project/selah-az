@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 102,
+  "translation": "Qəzəmindən və öfkəndən, çünki məni qaldırdın və məni atıb uzaqlaşdırdın.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "-ndən"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "qəzəmindən"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "və öfkəndən"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "məni qaldırdın"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "məni atıb uzaqlaşdırdın"
+    }
+  ],
+  "timestamp": "2026-09-01T15:33:41.899523509Z",
+  "model": "glm-5.3"
+}

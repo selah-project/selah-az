@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 12:12",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Xahiş edirəm, o, ölü kimi olmasın — anasının bətnindən çıxanda ətinin yarısı yeyilmiş ⟨olan⟩ kimi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "... olmasın (inkar)"
+    },
+    {
+      "surface": "נא",
+      "gloss": "xahiş edirəm"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "olmasın"
+    },
+    {
+      "surface": "כמת",
+      "gloss": "ölü kimi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "çıxanda"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "bətnindən"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "anasının"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "yeyilmiş"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "yarısı"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ətinin"
+    }
+  ],
+  "timestamp": "2026-09-01T17:29:22.695301607Z",
+  "model": "glm-5.3"
+}

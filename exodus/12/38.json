@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 12:38",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Və qarışıq bir kütlə də onlarla ⟨את⟩ birlikdə qalxdı, həm davar, həm iri buynuzlu mal — çox ağır sürü.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "və həm də"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "qarışıq kütlə"
+    },
+    {
+      "surface": "רב",
+      "gloss": "büyük"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "qalxdı"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onlarla",
+      "marks": "onlarla"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "həm davar"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "həm iri buynuzlu mal"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "mal-qara"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ağır"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çox"
+    }
+  ],
+  "timestamp": "2026-09-01T10:08:43.992621199Z",
+  "model": "glm-5.3"
+}

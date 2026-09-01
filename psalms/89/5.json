@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 89,
+  "translation": "Əbədiyyətə qədər toxumunu sabitləyəcəyəm və nəsildən-nəslə taxtını quracağam. Sela.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "əbədiyyətə"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "sabitləyəcəyəm"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "toxumunu"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "və quracağam"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "nəsildən"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "nəslə"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "taxtını"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:45.505481745Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "⟨Kimsə⟩ belə bir adamın üstünə göz açırsan,\n    məni ⟨את⟩ ⟨özünlə⟩ mühakiməyə gətirirsən.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "hətta"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "זה",
+      "gloss": "belə bir"
+    },
+    {
+      "surface": "פקחת",
+      "gloss": "açırsan"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "göz"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩",
+      "marks": "məni"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "gətirirsən"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "mühakiməyə"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "özünlə"
+    }
+  ],
+  "timestamp": "2026-09-01T16:08:15.940655588Z",
+  "model": "glm-5.3"
+}

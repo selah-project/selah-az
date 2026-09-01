@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 11:1",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Atalya, Ahazyanın anası, oğlunun öldüyünü görüb qalxdı və ⟨את⟩ padşahlığın bütün nəslini məhv etdi.",
+  "tokens": [
+    {
+      "surface": "ועתליה",
+      "gloss": "Atalya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "anası"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ahazyanın"
+    },
+    {
+      "surface": "וראתה",
+      "gloss": "görüb"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מת",
+      "gloss": "öldüyünü"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "oğlunun"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "qalxdı"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "məhv etdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "padşahlığın bütün nəslini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "nəslini"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "padşahlığın"
+    }
+  ],
+  "timestamp": "2026-09-01T12:35:53.031401480Z",
+  "model": "glm-5.3"
+}

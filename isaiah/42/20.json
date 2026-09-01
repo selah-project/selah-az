@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 42,
+  "translation": "Çox şey gördün, lakin ⟨onları⟩ qorumadın; qulaqlar ⟨açıqdır⟩, lakin eşitmir.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "gördün"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "çox şey"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lakin... oy"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "qorumadın"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "⟨açıq⟩"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "qulaqlar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və... oy"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "eşitmir"
+    }
+  ],
+  "timestamp": "2026-09-01T13:08:04.872750231Z",
+  "model": "glm-5.3"
+}

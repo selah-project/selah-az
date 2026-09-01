@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 37:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Və mütilər torpağı miras alacaq, bol salomdan zövq alacaqlar.",
+  "tokens": [
+    {
+      "surface": "וענוים",
+      "gloss": "mütilər"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "miras alacaq"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "torpağı"
+    },
+    {
+      "surface": "והתענגו",
+      "gloss": "zövq alacaqlar"
+    },
+    {
+      "surface": "על",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "bol"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salom"
+    }
+  ],
+  "timestamp": "2026-09-01T15:11:25.555231375Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 24:30",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Tənbəl adamın tarlasının yanından, ürəyi çatışmayan insanın üzüm bağınn yanından keçdim.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "yanından"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "tarla"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamın"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "tənbəl"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "keçdim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "və yanından"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "üzüm bağı"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insanın"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "çatışmayan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ürək"
+    }
+  ],
+  "timestamp": "2026-09-01T15:58:40.919350486Z",
+  "model": "glm-5.3"
+}

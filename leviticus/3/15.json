@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 3:15",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "və iki böyrəyi ⟨את⟩, onların üstündəki piyi ⟨את⟩ — bel yumşaqqlarının üstündə olanı — və qara ciyərin üstündəki artığı ⟨את⟩ böyrəklərin üstündən çıxaracaq.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "iki böyrəyi"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iki"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "böyrəyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "piyi"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "piyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olan"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "onların üstündəki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olan"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "bel yumşaqqlarının"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "artığı"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "artığı"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündəki"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "qara ciyərin"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündən"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "böyrəklərin"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "çıxaracaq"
+    }
+  ],
+  "timestamp": "2026-09-01T10:22:28.043632936Z",
+  "model": "glm-5.3"
+}

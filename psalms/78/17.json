@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 78:17",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 78,
+  "translation": "Onlar Ona qarşı yenə də günah işlətməyə davam etdilər, Elyon-u quraq səhrada üsyana qalxaraq (onu) qəzəbləndirdilər.",
+  "tokens": [
+    {
+      "surface": "ויוסיפו",
+      "gloss": "davam etdilər (əlavə etdilər)"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yenə də"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "günah işlətməyə"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Ona qarşı"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "üsyana qalxaraq (onu qəzəbləndirmək)"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "בציה",
+      "gloss": "quraq səhrada"
+    }
+  ],
+  "timestamp": "2026-09-01T15:25:47.521332134Z",
+  "model": "glm-5.3"
+}

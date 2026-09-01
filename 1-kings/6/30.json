@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Və ⟨את⟩ evin döşəməsini qızıl ilə örtdü — içəri tərəfdə və xaricdə.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "evin döşəməsini"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "döşəməsini"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "evin"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "örtdü"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "qızıl ilə"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "içəri tərəfdə"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "və xaricdə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:13:19.219096721Z",
+  "model": "glm-5.3"
+}

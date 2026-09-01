@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 8:7",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və qurbağalar səndən, və evlərindən, və qullarından, və xalqından çəkiləcəklər; yalnız çayda qalacaqlar.",
+  "tokens": [
+    {
+      "surface": "וסרו",
+      "gloss": "və çəkiləcəklər"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "qurbağalar"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "səndən"
+    },
+    {
+      "surface": "ומבתיך",
+      "gloss": "və evlərindən"
+    },
+    {
+      "surface": "ומעבדיך",
+      "gloss": "və qullarından"
+    },
+    {
+      "surface": "ומעמך",
+      "gloss": "və xalqından"
+    },
+    {
+      "surface": "רק",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "çayda"
+    },
+    {
+      "surface": "תשארנה",
+      "gloss": "qalacaqlar"
+    }
+  ],
+  "timestamp": "2026-09-01T10:06:48.252972335Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 58,
+  "translation": "Qazanlarınız tikanı dərk etməzdən əvvəl — hələ canlı, hələ qəzəbin qaynarlığı içində ⟨onu⟩ fırladıb aparsın.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "...məzdən əvvəl"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "dərk etsinlər"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "qazanlarınız"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "dəvə tikini"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "canlı"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "qəzəbin qaynarlığı"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "fırladıb aparsın"
+    }
+  ],
+  "timestamp": "2026-09-01T15:18:46.116915434Z",
+  "model": "glm-5.3"
+}

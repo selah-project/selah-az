@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 82,
+  "translation": "Məzmur, Asafa məxsus. Elohim durur Elin məclisində, elohlərin ortasında hökm verir.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Məzmur"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafa məxsus"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "durur"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "məclisində"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elin"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ortasında"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohlərin"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "hökm verir"
+    }
+  ],
+  "timestamp": "2026-09-01T18:01:53.090154033Z",
+  "model": "glm-5.3"
+}

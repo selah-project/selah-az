@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 42,
+  "translation": "Göz yaşım mənə gündüz və gecə çörək olub, ona görə ki, bütün gün mənə deyirlər: \"Haradır sənin Elohimin?\"",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "olub"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "göz yaşım"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "çörək"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "gündüz"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "və gecə"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "deyirlər"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "איה",
+      "gloss": "haradır"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sənin Elohimin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:14:29.173518134Z",
+  "model": "glm-5.3"
+}

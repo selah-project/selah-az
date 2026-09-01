@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Hamısı bir yerə gedir; hamısı tozdan ⟨olub⟩, və hamısı toza qayıdır.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "hamısı"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "gedir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "bir yerə"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "hamısı"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨olub⟩"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "tozdan"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "və hamısı"
+    },
+    {
+      "surface": "שב",
+      "gloss": "qayıdır"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "toza"
+    }
+  ],
+  "timestamp": "2026-09-01T18:02:45.776064114Z",
+  "model": "glm-5.3"
+}

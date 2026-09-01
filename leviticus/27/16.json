@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 27:16",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Və əgər adam öz mülk torpağından ⟨bir⟩ sahəni Yahveyə təqdis etsə, qiymətləndirmən onun toxumuna görə olsun: arpa toxumundan bir xomər əlli şekel gümüş ⟨dəyərində⟩.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Və əgər"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "torpaq sahəsindən"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "öz mülkündən"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "təqdis etsə"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "sənin qiymətləndirmən"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "görə"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "onun toxumuna"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "toxum"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "bir xomər"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "arpa"
+    },
+    {
+      "surface": "בחמשים",
+      "gloss": "əlli"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "şekel"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    }
+  ],
+  "timestamp": "2026-09-01T10:32:24.163292878Z",
+  "model": "glm-5.3"
+}

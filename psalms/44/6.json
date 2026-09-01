@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 44:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 44,
+  "translation": "Sənlə düşmənlərimizi buynuzlayacağıq, Adınla bizə qalxanları əzəcəyik.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Sənlə"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "düşmənlərimizi"
+    },
+    {
+      "surface": "ננגח",
+      "gloss": "buynuzlayacağıq"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "Adınla"
+    },
+    {
+      "surface": "נבוס",
+      "gloss": "əzəcəyik"
+    },
+    {
+      "surface": "קמינו",
+      "gloss": "bizə qalxanları"
+    }
+  ],
+  "timestamp": "2026-09-01T15:14:22.865859901Z",
+  "model": "glm-5.3"
+}

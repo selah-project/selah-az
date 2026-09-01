@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 21:3",
+  "book": "judges",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Və dedilər: Niyə, Yahve, İsrailin Eloimi, İsraildə ⟨bu⟩ oldu — bu gün İsraildən bir qəbilə ⟨əskik⟩ olsun deyə?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "dedilər"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Niyə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloimi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailin"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "İsraildə"
+    },
+    {
+      "surface": "להפקד",
+      "gloss": "əskik olsun"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bu gün"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "İsraildən"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "qəbilə"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    }
+  ],
+  "timestamp": "2026-09-01T11:29:25.043768914Z",
+  "model": "glm-5.3"
+}

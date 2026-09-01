@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 40:16",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "Və Livanonun yandırmağa ⟨gücü⟩ çatmaz, və onun heyvanları yandırma qurbanına yetməz.",
+  "tokens": [
+    {
+      "surface": "ולבנון",
+      "gloss": "və Livanonun"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "די",
+      "gloss": "çatmaz"
+    },
+    {
+      "surface": "בער",
+      "gloss": "yandırmağa"
+    },
+    {
+      "surface": "וחיתו",
+      "gloss": "və onun heyvanları"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "די",
+      "gloss": "yetməz"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "yandırma qurbanına"
+    }
+  ],
+  "timestamp": "2026-09-01T13:06:28.917122697Z",
+  "model": "glm-5.3"
+}

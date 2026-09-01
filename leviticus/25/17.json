@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 25:17",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Və heç bir adam öz yoldaşına ⟨את⟩ zülm etməsin, və Elohimindən qorx; çünki Mən Yahve, sizin Elohiminizəm.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "və heç"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "zülm etməsin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öz yoldaşına"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "öz yoldaşına"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "və qorx"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Elohimindən"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "sizin Elohiminizəm"
+    }
+  ],
+  "timestamp": "2026-09-01T10:31:01.034580354Z",
+  "model": "glm-5.3"
+}

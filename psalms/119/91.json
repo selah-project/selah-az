@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 91,
+  "ref": "psalms 119:91",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Sənin hökmlərinə görə bu günə qədər dayanırlar, çünki hamısı sənin qullarındır.",
+  "tokens": [
+    {
+      "surface": "למשפטיך",
+      "gloss": "sənin hökmlərinə görə"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "dayanırlar"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bu günə qədər"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "hamısı"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "sənin qullarındır"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:21.281716839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 42:5",
+  "book": "job",
+  "lang": "az",
+  "chapter": 42,
+  "translation": "Qulağın eşitməsi ilə səni eşitmişdim, indi isə gözüm səni gördü.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "eşitməsi ilə"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "qulağın"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "səni eşitmişdim"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "indi isə"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözüm"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "səni gördü"
+    }
+  ],
+  "timestamp": "2026-09-01T16:22:20.545584895Z",
+  "model": "glm-5.3"
+}

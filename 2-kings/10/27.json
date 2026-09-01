@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Və Baalın sütun daşını dağıtdılar, və Baalın evini dağıtdılar, və onu ayaq yolu ⟨etdilər⟩ bu günə qədər.",
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "dağıtdılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sütun daşını"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "sütun daşını"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baalın"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "dağıtdılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "evi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baalın"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "onu ... ⟨etdilər⟩"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "ayaq yolu üçün"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bu gün"
+    }
+  ],
+  "timestamp": "2026-09-01T12:32:31.311173842Z",
+  "model": "glm-5.3"
+}

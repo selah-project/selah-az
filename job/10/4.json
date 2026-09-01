@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 10:4",
+  "book": "job",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Sənin ət gözlərinmi var, yoxsa ənsə görən kimi görürsən?",
+  "tokens": [
+    {
+      "surface": "העיני",
+      "gloss": "gözlərinmi"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ət"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoxsa"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "görən kimi"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "əns"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "görürsən"
+    }
+  ],
+  "timestamp": "2026-09-01T16:08:01.179548433Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "Oturacağının məskənindən o, yerin bütün sakinlərinə dik baxır.",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "məskənindən"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "oturuşunun"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "dik baxır"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə doğru"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "sakinlərinə"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:11:20.895540459Z",
+  "model": "glm-5.3"
+}

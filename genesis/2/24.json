@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Buna görə kişi ⟨את⟩ atasını və ⟨את⟩ anasını tərk edəcək və arvadına yapışacaq, və bir ət olacaqlar.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "-ına"
+    },
+    {
+      "surface": "כן",
+      "gloss": "buna görə"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "tərk edəcək"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kişi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atasını"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atasını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "anasını"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "anasını"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "və yapışacaq"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "arvadına"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "və olacaqlar"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "bir ət"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    }
+  ],
+  "timestamp": "2026-09-01T09:45:58.809799618Z",
+  "model": "glm-5.3"
+}

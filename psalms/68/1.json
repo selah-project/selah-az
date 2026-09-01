@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 68,
+  "translation": "Qoruq rəhbərinə ⟨üçün⟩, Davuda ⟨məxsus⟩ — məzmur, nəğmə.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "qoruq rəhbərinə"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davuda"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "məzmur"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nəğmə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:22:06.835175360Z",
+  "model": "glm-5.3"
+}

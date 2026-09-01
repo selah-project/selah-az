@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 8:25",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və əlli yaşından ⟨o⟩ xidmət ordusundan geri qayıtsın və artıq xidmət etməsin.",
+  "tokens": [
+    {
+      "surface": "ומבן",
+      "gloss": "və ... yaşından"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "əlli"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yaş"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "qayıtsın"
+    },
+    {
+      "surface": "מצבא",
+      "gloss": "ordusundan"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "xidmətin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... yox"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "xidmət etməsin"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "artıq"
+    }
+  ],
+  "timestamp": "2026-09-01T10:35:23.478510834Z",
+  "model": "glm-5.3"
+}

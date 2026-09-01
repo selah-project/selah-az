@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "və bizi bu yerə gətirdi, və bizə ⟨את⟩ bu torpağı verdi — süd və bal axan torpaq.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "və gətirdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "yerə"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "və verdi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu torpağı"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "torpağı"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "torpaq"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "axan"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "süd"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "və bal"
+    }
+  ],
+  "timestamp": "2026-09-01T10:54:12.831204587Z",
+  "model": "glm-5.3"
+}

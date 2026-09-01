@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 64:4",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 64,
+  "translation": "Sevinəni və ədalət edəni qarşıladın ⟨את⟩; yollarında Səni xatırlayarlar. Bax, Sən qəzəbləndin və biz günah etdik — onlarda əbədilik ⟨qalır⟩ və biz xilas olarıq.",
+  "tokens": [
+    {
+      "surface": "פגעת",
+      "gloss": "qarşıladın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sevinəni"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sevinəni"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "və edəni"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ədalət"
+    },
+    {
+      "surface": "בדרכיך",
+      "gloss": "yollarında"
+    },
+    {
+      "surface": "יזכרוך",
+      "gloss": "Səni xatırlayarlar"
+    },
+    {
+      "surface": "הן",
+      "gloss": "bax"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sən"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "qəzəbləndin"
+    },
+    {
+      "surface": "ונחטא",
+      "gloss": "və biz günah etdik"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onlarda"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "əbədilik"
+    },
+    {
+      "surface": "ונושע",
+      "gloss": "və biz xilas olarıq"
+    }
+  ],
+  "timestamp": "2026-09-01T13:18:02.742788696Z",
+  "model": "glm-5.3"
+}

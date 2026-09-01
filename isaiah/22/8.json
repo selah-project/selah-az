@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Və Yehudanın örtüyünü ⟨את⟩ açdı, və o gün Meşət Evinin silahlarına baxdın.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "Və açdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehudanın örtüyünü"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "örtüyünü"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudanın"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "və baxdın"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gündə"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "אל",
+      "gloss": "üzlə"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "silahlarına"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Evinin"
+    },
+    {
+      "surface": "היער",
+      "gloss": "Meşət"
+    }
+  ],
+  "timestamp": "2026-09-01T12:55:37.591314535Z",
+  "model": "glm-5.3"
+}

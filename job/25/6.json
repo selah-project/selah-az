@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 25:6",
+  "book": "job",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Nəfsi şeydən — ölümlü insan qurd, adam oğlu isə tullantı qurdu!",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "nəfsi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "şeydən"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ölümlü insan"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "qurd"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "תולעה",
+      "gloss": "tullantı qurdu"
+    }
+  ],
+  "timestamp": "2026-09-01T16:12:17.009463865Z",
+  "model": "glm-5.3"
+}

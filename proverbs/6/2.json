@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 6:2",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Ağızının sözləri ilə tutulmusan, ağızının sözləri ilə tora düşmüsən",
+  "tokens": [
+    {
+      "surface": "נוקשת",
+      "gloss": "tora düşmüsən"
+    },
+    {
+      "surface": "באמרי",
+      "gloss": "ilə... sözləri"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ağızının"
+    },
+    {
+      "surface": "נלכדת",
+      "gloss": "tutulmusan"
+    },
+    {
+      "surface": "באמרי",
+      "gloss": "ilə... sözləri"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ağızının"
+    }
+  ],
+  "timestamp": "2026-09-01T15:49:20.595940177Z",
+  "model": "glm-5.3"
+}

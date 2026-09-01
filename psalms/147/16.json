@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 147,
+  "translation": "O, yun kimi qar verir, kül kimi şaxanı səpir.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "o, verir"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "qar"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "yun kimi"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "şaxanı"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "kül kimi"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "səpir"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:30.332185569Z",
+  "model": "glm-5.3"
+}

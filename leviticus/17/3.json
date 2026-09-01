@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "İsrail evindən hər hansı bir adam ki, düşərgədə öküz, yaxud quzu, yaxud keçi kəsər, yaxud düşərgənin xaricində kəsər —",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər hansı bir (adam)"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "evindən"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "kəsər"
+    },
+    {
+      "surface": "שור",
+      "gloss": "öküz"
+    },
+    {
+      "surface": "או",
+      "gloss": "yaxud"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "quzu"
+    },
+    {
+      "surface": "או",
+      "gloss": "yaxud"
+    },
+    {
+      "surface": "עז",
+      "gloss": "keçi"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "düşərgədə"
+    },
+    {
+      "surface": "או",
+      "gloss": "yaxud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "kəsər"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "xaricində"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "düşərgənin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:28:18.268166130Z",
+  "model": "glm-5.3"
+}

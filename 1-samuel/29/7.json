@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 29:7",
+  "book": "1-samuel",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "İndi isə geri dön və salamatlıqla get, filistim sərənlərinin gözündə pislik etmə.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "və indi"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "geri dön"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "və get"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "salamatlıqla"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "etmə"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pislik"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "gözündə"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "sərənlərin"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistim"
+    }
+  ],
+  "timestamp": "2026-09-01T11:48:56.567532622Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Kohen əmr edəcək və quşlardan birini gil qabda canlı suların üstündə kəsəcək.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "əmr edəcək"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "kəsəcək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "quşlardan birini"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "quş"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "birini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "içində"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "qab"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "gil"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suların"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "canlı"
+    }
+  ],
+  "timestamp": "2026-09-01T10:26:45.928781018Z",
+  "model": "glm-5.3"
+}

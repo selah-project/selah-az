@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 15:20",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "xəmirinizin ilk məhsulundan bir çörək qaldıracaqsınız teruma olaraq; harms qaldırması kimi, belə qaldıracaqsınız onu ⟨את⟩",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "ilk məhsulundan"
+    },
+    {
+      "surface": "ערסתכם",
+      "gloss": "xəmirinizin"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "çörək"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "qaldıracaqsınız"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "teruma"
+    },
+    {
+      "surface": "כתרומת",
+      "gloss": "qaldırması kimi"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "harms"
+    },
+    {
+      "surface": "כן",
+      "gloss": "belə"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "qaldıracaqsınız"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "onu (çörəyi)"
+    }
+  ],
+  "timestamp": "2026-09-01T10:38:35.485750763Z",
+  "model": "glm-5.3"
+}

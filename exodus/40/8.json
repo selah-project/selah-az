@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "Və həyəti ⟨את⟩ ətrafına quracaqsan, və həyətin qapısının pərdəsini ⟨את⟩ asacaqsan.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "quracaqsan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "həyət"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "həyəti"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ətrafına"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "asacaqsan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pərdə"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "pərdəsini"
+    },
+    {
+      "surface": "שער",
+      "gloss": "qapısının"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "həyətin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:22:06.133513012Z",
+  "model": "glm-5.3"
+}

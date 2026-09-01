@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 103:21",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 103,
+  "translation": "Yahveni süqün edin, bütün orduları, Onun xidmətçiləri, Onun xoşuna gələni edənlər.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "süqün edin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "צבאיו",
+      "gloss": "orduları"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "Onun xidmətçiləri"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "edənlər"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "Onun xoşuna gələni"
+    }
+  ],
+  "timestamp": "2026-09-01T15:33:37.782142010Z",
+  "model": "glm-5.3"
+}

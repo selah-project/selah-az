@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 12:42",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "O, Yahveyə gözləmə gecəsidir — onları Mitsrayim torpağından çıxartmaq üçün; o, bu gecədir, Yahveyə gözləmələr, bütün İsrail oğullarına, onların nəsillərinə ⟨qədər⟩.",
+  "tokens": [
+    {
+      "surface": "ליל",
+      "gloss": "gecə"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "gözləmələr"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "להוציאם",
+      "gloss": "onları çıxartmaq üçün"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "torpağından"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "gecədir"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "gözləmələr"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarına"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "onların nəsillərinə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:08:29.157999025Z",
+  "model": "glm-5.3"
+}

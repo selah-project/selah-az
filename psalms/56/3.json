@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 56,
+  "translation": "Düşmənlərim bütün gün məni udmaq istəyirlər, çünki mənimlə vuruşanlar çoxdur, ⟨ey Uca Olan⟩.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "məni udmaq istəyirlər"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "düşmənlərim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "çoxdur"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "vuruşanlar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənimlə"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "Uca Olan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:18:49.913450718Z",
+  "model": "glm-5.3"
+}

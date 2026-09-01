@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 1:10",
+  "book": "joel",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Tələf olub tarla, yas tutub torpaq; çünki tələf olub dən, quruyub təzə şərab, solub yağ.",
+  "tokens": [
+    {
+      "surface": "שדד",
+      "gloss": "Tələf olub"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "tarla"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "yas tutub"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "torpaq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "tələf olub"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "dən"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "quruyub"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "təzə şərab"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "solub"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "yağ"
+    }
+  ],
+  "timestamp": "2026-09-01T14:38:53.614390708Z",
+  "model": "glm-5.3"
+}

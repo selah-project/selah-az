@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 76,
+  "translation": "Çünki insanın qəzəbi Səni tərifləyəcək; qəzəbin qalıqlarını ⟨özünə⟩ bağlayacaqsan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "qəzəbi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insanın"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "Səni tərifləyəcək"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "qalıqlarını"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "qəzəbin"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "bağlayacaqsan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:25:14.060934005Z",
+  "model": "glm-5.3"
+}

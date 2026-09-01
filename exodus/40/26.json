@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "Və qızıl qurbangahı görüş çadırında, pərdənin qarşısında qoydu.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Və qoydu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qızıl qurbangahı"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "qurbangahı"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "qızıl"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "çadırında"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "görüş"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "qarşısında"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "pərdənin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:21:50.450152152Z",
+  "model": "glm-5.3"
+}

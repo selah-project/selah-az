@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 4:3",
+  "book": "ruth",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və goelə ⟨qohum-yiyələnənə⟩ dedi: Qardaşımız Elimeləkə aid olan tarlanın hissəsini Moav tarlasından qayıdan Naomi satır.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "לגאל",
+      "gloss": "goelə"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "hissəsini"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tarlanın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לאחינו",
+      "gloss": "qardaşımıza aid"
+    },
+    {
+      "surface": "לאלימלך",
+      "gloss": "Elimeləkə"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "satır"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "השבה",
+      "gloss": "qayıdan"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "tarlasından"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    }
+  ],
+  "timestamp": "2026-09-01T16:24:25.444193523Z",
+  "model": "glm-5.3"
+}

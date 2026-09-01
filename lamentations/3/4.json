@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Ətimi və dərimi köhnətdi, sümüklərimi qırdı.",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "köhnətdi"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "Ətimi"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "və dərimi"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "qırdı"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "sümüklərimi"
+    }
+  ],
+  "timestamp": "2026-09-01T16:26:28.422321850Z",
+  "model": "glm-5.3"
+}

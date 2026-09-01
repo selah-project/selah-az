@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 44,
+  "translation": "Bütün gün utanclığım qarşımdadır, və üzümün rüsvayçılığı məni örtüb.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "utanclığım"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "qarşımdadır"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "və rüsvayçılıq"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzümün"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "məni örtüb"
+    }
+  ],
+  "timestamp": "2026-09-01T15:15:16.085365705Z",
+  "model": "glm-5.3"
+}

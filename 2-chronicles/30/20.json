@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Yahve Yehizqiyahuya qulaq asdı və ⟨את⟩ xalqı şəfa verdi.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "qulaq asdı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yönə"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yehizqiyahuya"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "şəfa verdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqı"
+    }
+  ],
+  "timestamp": "2026-09-01T17:23:07.016322892Z",
+  "model": "glm-5.3"
+}

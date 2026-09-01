@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 96,
+  "translation": "Xalqlar arasında deyin: Yahve hökmranlıq edir! Həm dünya ⟨bərqərar olub⟩, tərpənməz qalacaq; O, xalqları düzlüklə mühakimə edəcək.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "deyin"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "xalqlar arasında"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hökmranlıq edir"
+    },
+    {
+      "surface": "אף",
+      "gloss": "həm də"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "⟨bərqərar olub⟩"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dünya"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tərpənməz"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "qalacaq"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "mühakimə edəcək"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "xalqları"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "düzlüklə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:32:03.668943268Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 109,
+  "translation": "Çünki mən kasıb və ehtiyaclıyam, ürəyim də içincə yaralanıb.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kasıb"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "və ehtiyaclı"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mən...am"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "ürəyim də"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "yaralanıb"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "içincə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:37:15.325585152Z",
+  "model": "glm-5.3"
+}

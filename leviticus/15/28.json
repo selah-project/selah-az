@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 15:28",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Və əgər axıntısından təmizlənsə, özü üçün yeddi gün sayacaq və sonra təmizlənəcək.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "təmizlənsə"
+    },
+    {
+      "surface": "מזובה",
+      "gloss": "axıntısından"
+    },
+    {
+      "surface": "וספרה",
+      "gloss": "sayacaq"
+    },
+    {
+      "surface": "לה",
+      "gloss": "özü üçün"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "yeddi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "və sonra"
+    },
+    {
+      "surface": "תטהר",
+      "gloss": "təmizlənəcək"
+    }
+  ],
+  "timestamp": "2026-09-01T10:27:34.636472420Z",
+  "model": "glm-5.3"
+}

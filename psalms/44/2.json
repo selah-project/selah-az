@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 44,
+  "translation": "Elohim, qulaqlarımızla eşitdik, atalarımız bizə danışdılar ⟨⟨⟩⟩ əməli ki, onların günlərində işlədin, qədim günlərdə.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "qulaqlarımızla"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "eşitdik"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "atalarımız"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "danışdılar"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizə"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "əməli"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "işlədin"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "onların günlərində"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "günlərində"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "qədim"
+    }
+  ],
+  "timestamp": "2026-09-01T18:01:57.206625025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "Və ⟨את⟩ təqdis qoçunu götürəcəksən, və ətini müqəddəs yerdə bişirəcəksən ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "təqdis qoçunu"
+    },
+    {
+      "surface": "איל",
+      "gloss": "qoç"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "təqdis"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "götürəcəksən"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "və bişirəcəksən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ətini"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ətini"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "yerdə"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "müqəddəs"
+    }
+  ],
+  "timestamp": "2026-09-01T10:18:12.355527483Z",
+  "model": "glm-5.3"
+}

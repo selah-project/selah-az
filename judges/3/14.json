@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və İsrail oğulları Moav kralı ⟨את⟩ Eqlona on səkkiz il xidmət etdilər.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "xidmət etdilər"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eqlon"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Eqlon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "səkkiz"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "on"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "il"
+    }
+  ],
+  "timestamp": "2026-09-01T11:17:50.299489376Z",
+  "model": "glm-5.3"
+}

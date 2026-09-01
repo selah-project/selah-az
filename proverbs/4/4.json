@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 4:4",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və o, məni öyrətdi və mənə dedi: ürəyin sözlərimi tutasın, əmrlərimi qoru və yaşa.",
+  "tokens": [
+    {
+      "surface": "וירני",
+      "gloss": "öyrətdi məni"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "tutasın"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözlərimi"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ürəyin"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "qoru"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "əmrlərimi"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "və yaşa"
+    }
+  ],
+  "timestamp": "2026-09-01T15:49:01.859135297Z",
+  "model": "glm-5.3"
+}

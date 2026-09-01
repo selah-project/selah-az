@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 50:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 50,
+  "translation": "Elohimi ⟨⟨alan⟩⟩ tərif qurbanı kimi ⟨⟩ — El Elyona nəzirlərini yerinə yetir.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "qurban kəs"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimi ⟨alan⟩"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "tərif ⟨qurbanı⟩"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "yerinə yetir"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "El Elyona ⟨doğrusu: Ən Yüksəyə⟩"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "nəzirlərini"
+    }
+  ],
+  "timestamp": "2026-09-01T15:16:35.536330829Z",
+  "model": "glm-5.3"
+}

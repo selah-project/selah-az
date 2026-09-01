@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 21:13",
+  "book": "2-samuel",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "və oradan ⟨את⟩ Şaulun sümüklərini və ⟨את⟩ oğlu Yehonatanın sümüklərini gətirdi, və asılmışların sümüklərini topladılar",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "gətirdi"
+    },
+    {
+      "surface": "משם",
+      "gloss": "oradan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şaulun sümüklərini"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "sümüklərini"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaulun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "Yehonatanın sümüklərini"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "sümüklərini"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatanın"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "və topladılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asılmışların sümüklərini"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "sümüklərini"
+    },
+    {
+      "surface": "המוקעים",
+      "gloss": "asılmışların"
+    }
+  ],
+  "timestamp": "2026-09-01T12:03:58.148543976Z",
+  "model": "glm-5.3"
+}

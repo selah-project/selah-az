@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 7:8",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Bax, siz özünüzə yalan sözləri üstündə güvənirsiniz ⟨sözləri⟩ — fayda verməyəcək ⟨sözlər⟩ ⟨üçün⟩.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bax"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "בטחים",
+      "gloss": "güvənirsiniz"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "özünüzə"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözləri"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "yalan"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "fayda verməmək üçün"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "fayda verən"
+    }
+  ],
+  "timestamp": "2026-09-01T13:24:40.119743270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 149,
+  "translation": "Millətlərin içində intiqam almaq, xalqların ⟨üzerində⟩ qınamaq ⟨etmək üçün⟩ —",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "etmək üçün"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "intiqam"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "millətlərin içində"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "qınama"
+    },
+    {
+      "surface": "בל",
+      "gloss": "xalqların"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "üzerində"
+    }
+  ],
+  "timestamp": "2026-09-01T18:02:17.607855797Z",
+  "model": "glm-5.3"
+}

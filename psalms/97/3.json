@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 97,
+  "translation": "Od onun önündə gəzir və onun düşmənlərini ətrafında yandırır.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "od"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "onun önündə"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "gəzir"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "və yandırır"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ətrafında"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "onun düşmənləri"
+    }
+  ],
+  "timestamp": "2026-09-01T15:32:56.388626559Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 52,
+  "translation": "Mən isə Elohimin evində yaşıllanmış zeytun ağacı kimi ⟨əm⟩; Elohimin hesedinə güvənmişəm, əbədi və sonsuz.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Mən isə"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "zeytun ağacı kimi"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "yaşıllanmış"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "evində"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "güvənmişəm"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "hesedinə"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "və sonsuz"
+    }
+  ],
+  "timestamp": "2026-09-01T18:01:43.045205982Z",
+  "model": "glm-5.3"
+}

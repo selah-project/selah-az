@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 7:14",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Bütün xalqlardan çox xeyir-dua almış olacaqsan; səndə qısırlqadın və qısıroğlan olmayacaq, mal-qaranızda da ⟨olmayacaq⟩.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "xeyir-dua almış"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olacaqsan"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bütün ...dən çox"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "xalqlardan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "olmayacaq yox"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "בך",
+      "gloss": "səndə"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "qısıroğlan"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "və qısırlqadın"
+    },
+    {
+      "surface": "ובבהמתך",
+      "gloss": "mal-qaranızda da"
+    }
+  ],
+  "timestamp": "2026-09-01T10:49:24.055169755Z",
+  "model": "glm-5.3"
+}

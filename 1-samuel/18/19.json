@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 18:19",
+  "book": "1-samuel",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Və oldu: Şaulun qızı Meravın Dovidxa verilməsi vaxtında ⟨את⟩ o, arvad olaraq Meholatlı Adrielə verildi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "və oldu"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "vaxtında"
+    },
+    {
+      "surface": "תת",
+      "gloss": "verilməsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "o (Merav)"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "Meravın"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qızı"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaulun"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dovidxa"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "o"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "verildi"
+    },
+    {
+      "surface": "לעדריאל",
+      "gloss": "Adrielə"
+    },
+    {
+      "surface": "המחלתי",
+      "gloss": "Meholatlı"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "arvad olaraq"
+    }
+  ],
+  "timestamp": "2026-09-01T11:42:11.513939018Z",
+  "model": "glm-5.3"
+}

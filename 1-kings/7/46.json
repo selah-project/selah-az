@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-kings 7:46",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Padşah onları İordanın dairəsində, torpağın gilində, Sukkot ilə Tsartan arasında tökmüşdü.",
+  "tokens": [
+    {
+      "surface": "בככר",
+      "gloss": "dairəsində"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "İordanın"
+    },
+    {
+      "surface": "יצקם",
+      "gloss": "onları tökmüşdü"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "במעבה",
+      "gloss": "gilində"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "torpağın"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ilə arasında"
+    },
+    {
+      "surface": "צרתן",
+      "gloss": "Tsartan"
+    }
+  ],
+  "timestamp": "2026-09-01T12:13:10.708207273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 89:49",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 89,
+  "translation": "Kim ⟨dir⟩ o kişi ki, yaşayar və ölümü görməyə? ⟨O⟩, canını Şeolun əlindən qurtararmı? Sela.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kim"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "⟨dir⟩ o kişi"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "yaşayar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... görməyə"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "görməyə"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölümü"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "qurtararmı"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "canını"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "əlindən"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şeolun"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-09-01T15:31:43.026718555Z",
+  "model": "glm-5.3"
+}

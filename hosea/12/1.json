@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 12:1",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Efrayim yalanla məni dolandırdı, İsrail evi isə hiylə ilə; Yəhuda hələ El ilə ⟨azğın⟩ gəzir və müqəddəslərlə ⟨birlikdə⟩ sadiqdir.",
+  "tokens": [
+    {
+      "surface": "סבבני",
+      "gloss": "məni dolandırdı"
+    },
+    {
+      "surface": "בכחש",
+      "gloss": "yalanla"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ובמרמה",
+      "gloss": "və hiylə ilə"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "və Yəhuda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hələ"
+    },
+    {
+      "surface": "רד",
+      "gloss": "gəzir"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "və ilə"
+    },
+    {
+      "surface": "קדושים",
+      "gloss": "müqəddəslər"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "sadiqdir"
+    }
+  ],
+  "timestamp": "2026-09-01T14:37:13.754087353Z",
+  "model": "glm-5.3"
+}

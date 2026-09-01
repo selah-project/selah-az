@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "Ərinin ürəyi ona etibar edir, ⟨və⟩ qənimətdən məhrum olmayacaq.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "etibar edir"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ürəyi"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "ərinin"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "qənimətdən"
+    },
+    {
+      "surface": "לא",
+      "gloss": "məhrum olmayacaq —"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "-- çatışmayacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T16:01:33.527454741Z",
+  "model": "glm-5.3"
+}

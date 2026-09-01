@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 89,
+  "translation": "Sənindir göylər, sənindir də yer; dünya və onun doluluğu — sən onların bünövrəsini qoydun.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Sənindir"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "göylər"
+    },
+    {
+      "surface": "אף",
+      "gloss": "də"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənindir"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dünya"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "və onun doluluğu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "onların bünövrəsini qoydun"
+    }
+  ],
+  "timestamp": "2026-09-01T17:42:54.625095104Z",
+  "model": "glm-5.3"
+}

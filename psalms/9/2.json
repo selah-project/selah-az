@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Yahveyi bütün ürəyimlə tərifləyəcəyəm, bütün möcüzələrini danışacağam.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "tərifləyəcəyəm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveyi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ürəyimlə"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "danışacağam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "möcüzələrini"
+    }
+  ],
+  "timestamp": "2026-09-01T15:05:11.764636989Z",
+  "model": "glm-5.3"
+}

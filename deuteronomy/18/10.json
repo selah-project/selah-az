@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 18:10",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Səndə tapılmasın: oğlunu və qızını oda ⟨keçirən⟩, falçı, fal açan, ⟨gözədüşməyə⟩ baxan, ilançı və sehrbaz.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "tapılmasın"
+    },
+    {
+      "surface": "בך",
+      "gloss": "səndə"
+    },
+    {
+      "surface": "מעביר",
+      "gloss": "keçirən"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlunu"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "və qızını"
+    },
+    {
+      "surface": "באש",
+      "gloss": "oda"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "falçı"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "fal açan"
+    },
+    {
+      "surface": "מעונן",
+      "gloss": "gözədüşməyə baxan"
+    },
+    {
+      "surface": "ומנחש",
+      "gloss": "ilançı"
+    },
+    {
+      "surface": "ומכשף",
+      "gloss": "və sehrbaz"
+    }
+  ],
+  "timestamp": "2026-09-01T10:52:06.426052672Z",
+  "model": "glm-5.3"
+}

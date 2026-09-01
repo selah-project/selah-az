@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 27:1",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Və ⟨את⟩ qurbangahı şittim ağacından düzəlt: uzunluğu beş ama, eni beş ama; qurbangah dördbucaqlı olacaq, hündürlüyü üç ama.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "və düzəlt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbangahı"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "qurbangahı"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ağacından"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "şittim"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "beş"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "uzunluğu"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "eni beş"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "en"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "dördbucaqlı"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "qurbangah"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "hündürlüyü üç"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "hündürlük"
+    }
+  ],
+  "timestamp": "2026-09-01T10:16:59.487556118Z",
+  "model": "glm-5.3"
+}

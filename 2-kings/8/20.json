@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 8:20",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Onun günlərində Edom üsyan etdi Yehudanın əlindən, və özlərinin üstünə padşah qaçdırdılar.",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "onun günlərində"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "üsyan etdi"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "altından"
+    },
+    {
+      "surface": "יד",
+      "gloss": "əli"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudanın"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "və padşah etdilər"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "özlərinin üstünə"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşah"
+    }
+  ],
+  "timestamp": "2026-09-01T12:33:17.395030500Z",
+  "model": "glm-5.3"
+}

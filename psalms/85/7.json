@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 85,
+  "translation": "Məgər sən ⟨bizi⟩ qaytarmayıb canlandırmayacaqsan, ki sənin xalqın səndə sevinə bilsin?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "məgər... -mı"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "qaytarmayıb"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "canlandırmayacaqsan"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "və sənin xalqın"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "sevinə bilsin"
+    },
+    {
+      "surface": "בך",
+      "gloss": "səndə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:11.248319466Z",
+  "model": "glm-5.3"
+}

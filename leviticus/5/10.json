@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Və ⟨את⟩ ikincini qanun üzrə yandırma qurbanı kimi hazırlasın; kohen onun günahından ötrü — etdiyi günahdan — onun üçün kəffarə etsin, və ona bağışlanar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ikincini"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikincini"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "hazırlasın"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "yandırma qurbanı"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "qanun üzrə"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "və kəffarə etsin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üçün"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "günahından ötrü"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "etdiyi"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "günah"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "bağışlanar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-09-01T10:23:46.156157196Z",
+  "model": "glm-5.3"
+}

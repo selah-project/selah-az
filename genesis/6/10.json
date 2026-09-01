@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Nuh üç oğul doğdu: ⟨את⟩ Şemi, ⟨את⟩ Hamı və ⟨את⟩ Yafəti.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "doğdu"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Nuh"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "üç"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Şem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ham"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "Yafət"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yafət"
+    }
+  ],
+  "timestamp": "2026-09-01T09:47:34.027907680Z",
+  "model": "glm-5.3"
+}

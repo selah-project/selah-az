@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 126,
+  "translation": "Yüksəliş mahnısı. Yahve Tsiyonun ⟨את⟩ geri dönüşünü qaytardıqda, yuxu görənlər kimi olduq.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "mahnısı"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "Yüksəliş"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "qaytardıqda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "geri dönüşünü"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "geri dönüşünü"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyonun"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "olduq"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "yuxu görənlər kimi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:55.620047768Z",
+  "model": "glm-5.3"
+}

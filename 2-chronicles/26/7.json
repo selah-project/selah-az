@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 26:7",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Elohim ona Filiştimlilərə, Gur-Baalda yaşayan Ərəblərə və Meunimlərə qarşı kömək etdi.",
+  "tokens": [
+    {
+      "surface": "ויעזרהו",
+      "gloss": "kömək etdi ona"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "qarşı"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filiştimlilərə"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "və qarşı"
+    },
+    {
+      "surface": "הערביים",
+      "gloss": "Ərəblərə"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "yaşayan"
+    },
+    {
+      "surface": "בגור",
+      "gloss": "Gur-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baalda"
+    },
+    {
+      "surface": "והמעונים",
+      "gloss": "və Meunimlərə"
+    }
+  ],
+  "timestamp": "2026-09-01T17:20:31.487013985Z",
+  "model": "glm-5.3"
+}

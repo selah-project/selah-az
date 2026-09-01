@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Və ⟨o⟩ dedi: Qorxma, çünki bizimlə ⟨את⟩ olanlar onlarla ⟨את⟩ olanlardan çoxdur.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "qorxma (yox)"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "qorxma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "çoxdur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olanlar"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ bizimlə"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "daha çox... olanlardan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "onlarla (olanlardan)"
+    }
+  ],
+  "timestamp": "2026-09-01T12:30:51.255003373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 27:18",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Lənətlənmişdir koru yolda azdırmaqda olan; və bütün xalq deyəcək: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Lənətlənmişdir"
+    },
+    {
+      "surface": "משגה",
+      "gloss": "azdırmaqda olan"
+    },
+    {
+      "surface": "עור",
+      "gloss": "koru"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolda"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "və deyəcək"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-09-01T10:55:25.019020202Z",
+  "model": "glm-5.3"
+}

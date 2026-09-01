@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Gözlərin görməsi nəfəsin gəzib-dolaşmasından yaxşıdır; bu da heveldir və ruhun əzabıdır.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "yaxşıdır"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "görməsi"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "gözlərin"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "gəzib-dolaşması"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nəfəsin"
+    },
+    {
+      "surface": "גם",
+      "gloss": "də"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "və əzabı"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhun"
+    }
+  ],
+  "timestamp": "2026-09-01T16:32:06.062983665Z",
+  "model": "glm-5.3"
+}

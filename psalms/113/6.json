@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 113:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 113,
+  "translation": "özünü alçaldıb göylərdə və yerdə ⟨olanlara⟩ baxan ⟨O⟩ —",
+  "tokens": [
+    {
+      "surface": "המשפילי",
+      "gloss": "özünü alçaldıb"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "baxan"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "göylərdə"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "və yerdə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:37:21.519662287Z",
+  "model": "glm-5.3"
+}

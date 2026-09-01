@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 3:17",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Çünki Yahve belə dedi: Küləyi görməyəcəksiniz və yağışı da görməyəcəksiniz, amma o dərə sularla dolacaq; və içəcəksiniz — siz, davarlarınız və heyvanlarınız.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "כה",
+      "gloss": "belə"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "görməyəcəksiniz… yox"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "görməyəcəksiniz"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "küləyi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və… yox"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "görməyəcəksiniz"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "yağışı"
+    },
+    {
+      "surface": "והנחל",
+      "gloss": "və o dərə"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "dolacaq"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sularla"
+    },
+    {
+      "surface": "ושתיתם",
+      "gloss": "və içəcəksiniz"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "ומקניכם",
+      "gloss": "davarlarınız"
+    },
+    {
+      "surface": "ובהמתכם",
+      "gloss": "və heyvanlarınız"
+    }
+  ],
+  "timestamp": "2026-09-01T12:29:30.338426079Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 4:3",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və günlərin sonunda oldu ki, Qayin torpağın meyvəsindən Yahveye qurban gətirdi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "və oldu ki"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "sonunda"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günlərin"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "və gətirdi"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Qayin"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "meyvəsindən"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "torpağın"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "qurban"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveye"
+    }
+  ],
+  "timestamp": "2026-09-01T09:46:34.590956756Z",
+  "model": "glm-5.3"
+}

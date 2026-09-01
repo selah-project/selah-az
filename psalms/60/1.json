@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 60,
+  "translation": "Rəhbər üçün, Şuşan-Edut üzərinə, Davuda məxsus miktam, öyrətmək üçün.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Rəhbər üçün"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Şuşan"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Edut"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davuda məxsus"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "öyrətmək üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T15:20:34.838797830Z",
+  "model": "glm-5.3"
+}

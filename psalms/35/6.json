@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "Onların yolu qaranlıq və sürüşkən olsun, və Yahvenin mələyi onları qovsun.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "onların yolu"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "qaranlıq"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "və sürüşkən"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "və mələyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "onları qovsun"
+    }
+  ],
+  "timestamp": "2026-09-01T15:11:14.288788813Z",
+  "model": "glm-5.3"
+}

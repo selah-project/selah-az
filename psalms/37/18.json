@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 37:18",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Yahve kamillərin günlərini bilir və ⟨onların⟩ mülkü əbədi olacaq.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "bilir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "günlərini"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "kamillərin"
+    },
+    {
+      "surface": "ונחלתם",
+      "gloss": "və ⟨onların⟩ mülkü"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:12:56.963751158Z",
+  "model": "glm-5.3"
+}

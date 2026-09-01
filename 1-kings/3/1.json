@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 3:1",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Şelomo ⟨את⟩ Paro ilə, Mitsrayim kralı ilə qohumluq bağladı, Paronun qızını aldı və onu Davud şəhərinə gətirdi — öz evini, Yahvenin evini və Yeruşalayım ətrafındakı səddi tikib bitirənədək.",
+  "tokens": [
+    {
+      "surface": "ויתחתן",
+      "gloss": "qohumluq bağladı"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "aldı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paronun qızı"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qızını"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paronun"
+    },
+    {
+      "surface": "ויביאה",
+      "gloss": "gətirdi onu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şəhərinə"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ərzində"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "bitirənədək"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "tikmək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öz evini"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "öz evini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "Yahvenin evini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "Yeruşalayım səddini"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "səddini"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayım"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ətrafında"
+    }
+  ],
+  "timestamp": "2026-09-01T12:10:57.883464523Z",
+  "model": "glm-5.3"
+}

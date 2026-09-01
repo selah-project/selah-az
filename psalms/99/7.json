@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 99:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 99,
+  "translation": "Bulud sütununda onlarla danışırdı; Onun şəhadətlərini saxlayırdılar və qanun verdi ⟨onlara⟩.",
+  "tokens": [
+    {
+      "surface": "בעמוד",
+      "gloss": "sütununda"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "bulud"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "danışırdı"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "onlarla"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "saxlayırdılar"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "Onun şəhadətlərini"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "və qanun"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨onlara⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T15:34:45.209598623Z",
+  "model": "glm-5.3"
+}

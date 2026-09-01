@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 17:13",
+  "book": "2-samuel",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Və əgər o, bir şəhərə yığılsa, bütün İsrail o şəhərə kəndirlər daşıyar və biz onu ⟨את⟩ arxaya qədər sürüyərik — orada hətta bir çınqıl daş belə tapılmasın deyə.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨bir⟩ ... şəhərə"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şəhər"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "yığılsa"
+    },
+    {
+      "surface": "והשיאו",
+      "gloss": "daşıyarlar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "אל",
+      "gloss": "şəhərə"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "o"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "şəhərə"
+    },
+    {
+      "surface": "חבלים",
+      "gloss": "kəndirlər"
+    },
+    {
+      "surface": "וסחבנו",
+      "gloss": "və sürüyərik"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "şəhəri"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "arxaya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ki⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "tapılmasın"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hətta"
+    },
+    {
+      "surface": "צרור",
+      "gloss": "çınqıl daş"
+    }
+  ],
+  "timestamp": "2026-09-01T12:02:10.255003444Z",
+  "model": "glm-5.3"
+}

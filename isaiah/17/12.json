@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 17:12",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Vay olsun! Bir çox xalqın küyü — dənizin gurultusu kimi gurultu çəkir; millətlərin uğultusu — güclü suların uğultusu kimi uğuldayır.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Vay olsun!"
+    },
+    {
+      "surface": "המון",
+      "gloss": "küyü"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "xalqın"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "bir çox"
+    },
+    {
+      "surface": "כהמות",
+      "gloss": "gurultusu kimi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dənizin"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "gurultu çəkir"
+    },
+    {
+      "surface": "ושאון",
+      "gloss": "və uğultusu"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "millətlərin"
+    },
+    {
+      "surface": "כשאון",
+      "gloss": "uğultusu kimi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suların"
+    },
+    {
+      "surface": "כבירים",
+      "gloss": "güclü"
+    },
+    {
+      "surface": "ישאון",
+      "gloss": "uğuldayır"
+    }
+  ],
+  "timestamp": "2026-09-01T12:53:53.332443279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 71,
+  "translation": "Adonay Yahvenin qüdrətləri ilə gələcəyəm, Sənin salehliyini xatırladacağam — yalnız Səninkini.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "gələcəyəm"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "qüdrətləri ilə"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "xatırladacağam"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "salehliyini"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "yalnız Səninkini"
+    }
+  ],
+  "timestamp": "2026-09-01T15:23:12.798080647Z",
+  "model": "glm-5.3"
+}

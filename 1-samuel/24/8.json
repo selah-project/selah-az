@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Və Davud adamlarını ⟨את⟩ sözlərlə saxladı və onları Şaulun üstünə qalxmağa qoymadı; və Şaul mağaradan qalxdı və yolda getdi.",
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "və saxladı"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adamlarını"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "adamlarını"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "sözlərlə"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və qoymadı"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "onları"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "qalxmağa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "üstdünə"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şaulun"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "və Şaul"
+    },
+    {
+      "surface": "קם",
+      "gloss": "qalxdı"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "mağaradan"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "və getdi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolda"
+    }
+  ],
+  "timestamp": "2026-09-01T11:44:15.900385882Z",
+  "model": "glm-5.3"
+}

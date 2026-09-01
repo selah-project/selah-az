@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 43:30",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 43,
+  "translation": "Və Yusif tələsdi, çünki qardaşına doğru tərəfdəki mərhəməti qızışdı və ağlamaq istədi, və otağa girdi, və orada ağladı.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "tələsdi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusif"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "qızışdı"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "mərhəməti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "doğru"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "qardaşına"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "və istədi"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "ağlamaq"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "və girdi"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "otağa"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "və ağladı"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "orada"
+    }
+  ],
+  "timestamp": "2026-09-01T10:00:49.138503100Z",
+  "model": "glm-5.3"
+}

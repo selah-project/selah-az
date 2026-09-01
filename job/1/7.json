@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 1:7",
+  "book": "job",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Yahve Şatana dedi: «Hardan gəlirsən?» Şatan Yahveyi ⟨את⟩ cavablandırıb dedi: «Yer üzündə gəzib-dolaşmaqdan və onda ayaqlamaqdan».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Şatan"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "hardan"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "gəlirsən"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "cavablandırıb"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Şatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveyi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "משוט",
+      "gloss": "gəzib-dolaşmaqdan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yer üzündə"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "ayaqlamaqdan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "onda"
+    }
+  ],
+  "timestamp": "2026-09-01T16:03:38.435071730Z",
+  "model": "glm-5.3"
+}

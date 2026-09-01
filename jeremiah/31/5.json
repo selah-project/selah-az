@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 31:5",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "Yenə sən bağlar əkəcəksən Şomeronun dağlarında; əkənlər əkəcəklər və ⟨məhsulu⟩ adi edəcəklər.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "yenə"
+    },
+    {
+      "surface": "תטעי",
+      "gloss": "sən əkəcəksən"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "bağlar"
+    },
+    {
+      "surface": "בהרי",
+      "gloss": "dağlarında"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Şomeron"
+    },
+    {
+      "surface": "נטעו",
+      "gloss": "əkəcəklər"
+    },
+    {
+      "surface": "נטעים",
+      "gloss": "əkənlər"
+    },
+    {
+      "surface": "וחללו",
+      "gloss": "və adi edəcəklər"
+    }
+  ],
+  "timestamp": "2026-09-01T13:41:15.831810843Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 4:25",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Adam ⟨את⟩ arvadını yenə tanıdı və o, bir oğul doğdu və adını Şet qoydu, çünki Elohim mənə Hevelin yerinə başqa bir nəsil qoydu, çünki onu Qayn öldürmüşdü.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "tanıdı"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yenə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arvadını"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "arvadını"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "doğdu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "qoydu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adını"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "adını"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Şet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "שת",
+      "gloss": "qoydu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "nəsil"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "başqa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "yerinə"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevelin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "öldürmüşdü"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Qayn"
+    }
+  ],
+  "timestamp": "2026-09-01T09:45:35.521029585Z",
+  "model": "glm-5.3"
+}

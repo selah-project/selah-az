@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 49:22",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 49,
+  "translation": "Belə deyir Adonay Yahve: Bax, millətlərə əlimi qaldıracağam və xalqlara bayrağımı ucaldacağım, və ⟨onlar⟩ oğullarını qucaqlarında gətirəcəklər, və qızların çiyinlər üstündə daşınacaqlar.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "belə"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "qaldıracağam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "millətlər"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "əlimi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və ... -ə"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "ארים",
+      "gloss": "ucaldacağam"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "bayrağımı"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "və gətirəcəklər"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "בחצן",
+      "gloss": "qucaqlarında"
+    },
+    {
+      "surface": "ובנתיך",
+      "gloss": "və qızlarını"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "çiyin"
+    },
+    {
+      "surface": "תנשאנה",
+      "gloss": "daşınacaqlar"
+    }
+  ],
+  "timestamp": "2026-09-01T13:09:54.363366755Z",
+  "model": "glm-5.3"
+}

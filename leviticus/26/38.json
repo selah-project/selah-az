@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Və millətlərin arasında məhv olacaqsınız, və düşmənlərinizin torpağı sizi ⟨את⟩ yeyəcək.",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "məhv olacaqsınız"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "millətlərin arasında"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "yeyəcək"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "torpağı"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "düşmənlərinizin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:31:52.041477684Z",
+  "model": "glm-5.3"
+}

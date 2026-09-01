@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 144,
+  "translation": "O, padşahlara qurtuluş verən, qulu Davidi pis qılıncdan xilas edəndir.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "verən"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "qurtuluş"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "padşahlara"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "xilas edən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "qulu"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "qılıncdan"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pis"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:04.964678215Z",
+  "model": "glm-5.3"
+}

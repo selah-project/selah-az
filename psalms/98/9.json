@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 98:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 98,
+  "translation": "Yahvenin hüzurunda, çünki O, ⟨את⟩ yeri mühakimə etməyə gəlir; dünyanı ədalətlə, xalqları isə düzlüklə mühakimə edəcək.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "hüzurunda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gəlir"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "mühakimə etməyə"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeri"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "mühakimə edəcək"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dünyanı"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ədalətlə"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "və xalqları"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "düzlüklə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:33:19.795667581Z",
+  "model": "glm-5.3"
+}

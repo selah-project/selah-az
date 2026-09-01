@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 4:16",
+  "book": "job",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Dayandı, amma onun görünüşünü tanımadım; bir surət gözümün qarşısında ⟨idi⟩; sükut — və bir səs eşitdim.",
+  "tokens": [
+    {
+      "surface": "יעמד",
+      "gloss": "dayandı"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma... amma"
+    },
+    {
+      "surface": "אכיר",
+      "gloss": "tanımadım"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "onun görünüşünü"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "bir surət"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "qarşısında"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözümün"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "sükut"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "və bir səs"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "eşitdim"
+    }
+  ],
+  "timestamp": "2026-09-01T16:02:36.052855318Z",
+  "model": "glm-5.3"
+}

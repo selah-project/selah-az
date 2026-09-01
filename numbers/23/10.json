@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 23:10",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Kim sayır Yaakovun tozunu və ⟨את⟩ Yisraelin dörddə birinin sayını? Mənim canım düzlərin ölümü ilə ölsün və axırım onunki kimi olsun.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "sayır"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "tozunu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovun"
+    },
+    {
+      "surface": "ומספר",
+      "gloss": "və sayını"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraelin dörddə birini"
+    },
+    {
+      "surface": "רבע",
+      "gloss": "dörddə birinin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraelin"
+    },
+    {
+      "surface": "תמת",
+      "gloss": "ölsün"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mənim canım"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ölümü ilə"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "düzlərin"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "və olsun"
+    },
+    {
+      "surface": "אחריתי",
+      "gloss": "mənim axırım"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "onunki kimi"
+    }
+  ],
+  "timestamp": "2026-09-01T10:41:05.204616170Z",
+  "model": "glm-5.3"
+}

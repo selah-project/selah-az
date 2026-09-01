@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 21:29",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Əgər öküz vurqan olub dünəndən, səhərisi günündən bəri dirsə və sahibinə xəbər verilmişdirsə, o isə onu saxlamamışdırsa və kişi və ya qadını öldürmüşdürsə — öküz daşqalaq edilsin, həmçinin sahibi də ölüm cəzasına çatdırılsın.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "שור",
+      "gloss": "öküz"
+    },
+    {
+      "surface": "נגח",
+      "gloss": "vurqan (buynuzvuran)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "מתמל",
+      "gloss": "dünəndən"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "səhərisi günündən bəri"
+    },
+    {
+      "surface": "והועד",
+      "gloss": "və xəbər verilmişdirsə"
+    },
+    {
+      "surface": "בבעליו",
+      "gloss": "sahibinə"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "o isə ... yox"
+    },
+    {
+      "surface": "ישמרנו",
+      "gloss": "onu saxlamamışdırsa"
+    },
+    {
+      "surface": "והמית",
+      "gloss": "və öldürmüşdürsə"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kişi"
+    },
+    {
+      "surface": "או",
+      "gloss": "və ya"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "qadını"
+    },
+    {
+      "surface": "השור",
+      "gloss": "öküz"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "daşqalaq edilsin"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "həmçinin"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "sahibi"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ölüm cəzasına çatdırılsın"
+    }
+  ],
+  "timestamp": "2026-09-01T10:15:56.139227282Z",
+  "model": "glm-5.3"
+}

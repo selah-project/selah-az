@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 55:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 55,
+  "translation": "Viranəlik onların üstünə ⟨gəlsin⟩, diri-diri Şeolə ensinlər; çünki şər onların məskənlərində, ortalarındadır.",
+  "tokens": [
+    {
+      "surface": "ישימות",
+      "gloss": "viranəlik"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "onların üstünə"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "ensinlər"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Şeol"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "diri-diri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "şər"
+    },
+    {
+      "surface": "במגורם",
+      "gloss": "onların məskənlərində"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "ortalarında"
+    }
+  ],
+  "timestamp": "2026-09-01T15:18:36.334785098Z",
+  "model": "glm-5.3"
+}

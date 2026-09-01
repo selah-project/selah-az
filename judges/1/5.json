@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 1:5",
+  "book": "judges",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Bezekdə Adoni-Bezeki tapdılar, onunla vuruşdular və Kənanilini və Perizzini vurub əzib öldürdülər.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "tapdılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adoni-Bezeki"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni-"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezeki"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "Bezekdə"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "vuruşdular"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "vurub əzib öldürdülər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kənanilini"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kənanilini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "Perizzini"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Perizzini"
+    }
+  ],
+  "timestamp": "2026-09-01T11:15:24.569824011Z",
+  "model": "glm-5.3"
+}

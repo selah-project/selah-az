@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 132:18",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 132,
+  "translation": "Onun düşmənlərini utanc ⟨ilə⟩ geyindirəcəyəm, onun tacı isə üstündə çiçəklənəcək.",
+  "tokens": [
+    {
+      "surface": "אויביו",
+      "gloss": "Onun düşmənlərini"
+    },
+    {
+      "surface": "אלביש",
+      "gloss": "geyindirəcəyəm"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "utanc"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "çiçəklənəcək"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "onun tacı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:41:49.003406033Z",
+  "model": "glm-5.3"
+}

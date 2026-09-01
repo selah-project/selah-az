@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 107:28",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 107,
+  "translation": "Və çətinlikdə Yahveyə fəryad edirlər, və onları sıxıntılarından çıxarır.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "və fəryad edirlər"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yönəlib (ə)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "çətinlikdə"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onların"
+    },
+    {
+      "surface": "וממצוקתיהם",
+      "gloss": "və sıxıntılarından"
+    },
+    {
+      "surface": "יוציאם",
+      "gloss": "çıxarır onları"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:56.273152722Z",
+  "model": "glm-5.3"
+}

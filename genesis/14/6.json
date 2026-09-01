@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "və ⟨את⟩ Horiləri onların dağı Seirdə, səhranın üstündəki El-Parana qədər.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "Horiləri"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "Horiləri"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "onların dağında"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "איל",
+      "gloss": "El-"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Parana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "səhranın"
+    }
+  ],
+  "timestamp": "2026-09-01T09:48:54.544043165Z",
+  "model": "glm-5.3"
+}

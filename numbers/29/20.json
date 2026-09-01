@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 29:20",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "Və üçüncü gündə ⟨təqdim edilir⟩: öküzlər — on bir, qoçlar — iki, quzular — bir yaşında olanlardan on dörd, nöqsansızlar.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "və üçüncü gündə"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "üçüncü"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "öküzlər"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "on-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "bir"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "qoçlar"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iki"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "quzular"
+    },
+    {
+      "surface": "בני",
+      "gloss": "yaşında olanlardan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "bir yaş"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "dörd"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "on"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "nöqsansızlar"
+    }
+  ],
+  "timestamp": "2026-09-01T10:43:22.885980164Z",
+  "model": "glm-5.3"
+}

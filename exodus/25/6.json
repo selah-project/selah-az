@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 25:6",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "çiraq üçün yağ, məsh yağı üçün ətrli maddələr, və ətir buxuru üçün ədviyyələr;",
+  "tokens": [
+    {
+      "surface": "שמן",
+      "gloss": "yağ"
+    },
+    {
+      "surface": "למאר",
+      "gloss": "çiraq üçün"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ətrli maddələr"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "yağı üçün"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "məsh"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "və buxuru üçün"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "ədviyyələr"
+    }
+  ],
+  "timestamp": "2026-09-01T10:16:11.895937931Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 43:4",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 43,
+  "translation": "Gözlərimdə nə qədər dəyərli olmusansa, nə qədər şərəfli, və mən səni sevmişəmsə, insanları sənin əvəzinə, millətləri sənin canın əvəzinə verəcəyəm.",
+  "tokens": [
+    {
+      "surface": "מאשר",
+      "gloss": "nə qədər... olmusansa"
+    },
+    {
+      "surface": "יקרת",
+      "gloss": "dəyərli"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "gözlərimdə"
+    },
+    {
+      "surface": "נכבדת",
+      "gloss": "şərəfli"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "və mən"
+    },
+    {
+      "surface": "אהבתיך",
+      "gloss": "səni sevmişəm"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "verəcəyəm"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insanları"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "sənin əvəzinə"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "və millətləri"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "əvəzinə"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "sənin canın"
+    }
+  ],
+  "timestamp": "2026-09-01T13:08:20.711412424Z",
+  "model": "glm-5.3"
+}

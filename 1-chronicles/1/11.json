@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Mitsrayim ⟨את⟩ Ludimləri, ⟨את⟩ Anamimləri, ⟨את⟩ Lehavimləri və ⟨את⟩ Naftuximləri doğdu.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "doğdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ludimləri"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "Ludimləri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Anamimləri"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "Anamimləri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Lehavimləri"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "Lehavimləri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Naftuximləri"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "Naftuximləri"
+    }
+  ],
+  "timestamp": "2026-09-01T17:00:13.639849643Z",
+  "model": "glm-5.3"
+}

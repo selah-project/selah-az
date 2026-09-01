@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "qüdrətli kişi və müharibə adamı, hakim və nabi, falçı və qoca —",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "qüdrətli"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "kişi və"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "müharibə"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "hakim"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "falcı"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "qoca"
+    }
+  ],
+  "timestamp": "2026-09-01T12:46:50.767827246Z",
+  "model": "glm-5.3"
+}

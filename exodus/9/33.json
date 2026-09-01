@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 9:33",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Moşe Parodan ⟨את⟩ şəhəri tərk edib çıxdı və əllərini Yahveyə doğru açdı, səslər və dolu dayandı, yağış yerə tökülmədi.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "çıxdı"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "dandan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şəhəri"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şəhər"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "açdı"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "əllərini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "doğru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "dayandı"
+    },
+    {
+      "surface": "הקלות",
+      "gloss": "səslər"
+    },
+    {
+      "surface": "והברד",
+      "gloss": "və dolu"
+    },
+    {
+      "surface": "ומטר",
+      "gloss": "və yağış"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "נתך",
+      "gloss": "tökülmədi"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yerə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:06:34.558077596Z",
+  "model": "glm-5.3"
+}

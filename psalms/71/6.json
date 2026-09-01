@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 71,
+  "translation": "Sənə söykəndim ana bətnindən, anamın bətnindən çıxaran mənim sənsən; mədhim ⟨sənindir⟩, həmişə.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "söykəndim"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "ana bətnindən"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "bətnindən"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "anamın"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "çıxaran"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "mədhim"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "həmişə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:22:11.095563572Z",
+  "model": "glm-5.3"
+}

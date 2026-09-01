@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 104:35",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 104,
+  "translation": "Günahkarlar yerdən tükənsinlər, şər insanlar artıq olmasınlar. Canım, Yahveni ⟨את⟩ mübarək et. Həmd edin, Yah!",
+  "tokens": [
+    {
+      "surface": "יתמו",
+      "gloss": "tükənsinlər"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "günahkarlar"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dən"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerdən"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "şər insanlar"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "artıq"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "olmasınlar"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "mübarək et"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveni"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Həmd edin"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-01T15:35:31.558211364Z",
+  "model": "glm-5.3"
+}

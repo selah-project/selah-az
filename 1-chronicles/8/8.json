@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 8:8",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "və Şaharayim Moab düzündə ⟨uşaqlar⟩ doğurdu — onları göndərdikdən sonra: Xuşim və ⟨את⟩ Baara, onun arvadları.",
+  "tokens": [
+    {
+      "surface": "ושחרים",
+      "gloss": "və Şaharayim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "düzündə"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan sonra"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "onları göndərdi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onları",
+      "marks": "Xuşim və Baara"
+    },
+    {
+      "surface": "חושים",
+      "gloss": "Xuşim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "Baara"
+    },
+    {
+      "surface": "בערא",
+      "gloss": "Baara"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "onun arvadları"
+    }
+  ],
+  "timestamp": "2026-09-01T17:02:39.846028033Z",
+  "model": "glm-5.3"
+}

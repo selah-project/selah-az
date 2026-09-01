@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 22:24",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "İnsan oğlu, ona de: sən təmizlənməyən, qəzəb günündə yağış üstünə düşməyən bir torpaqsan.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "de"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "את",
+      "gloss": "sən",
+      "marks": "torpaq — qeyd: burada את H859 əvəzliyidir, DOM nişanı deyil"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "torpaq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "מטהרה",
+      "gloss": "təmizlənən"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨dır⟩ o"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "גשמה",
+      "gloss": "yağış"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "günündə"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "qəzəbin"
+    }
+  ],
+  "timestamp": "2026-09-01T14:14:48.107041316Z",
+  "model": "glm-5.3"
+}

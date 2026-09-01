@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 111,
+  "translation": "Öz əllərinin əməlləri haqq və hökmdür ⟨idi⟩; Onun bütün göstərişləri etibarlıdır.",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "əməlləri"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "Öz əllərinin"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "haqq"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "və hökm"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "etibarlıdır"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "göstərişləri"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:17.811961496Z",
+  "model": "glm-5.3"
+}

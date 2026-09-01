@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 3:3",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Bunlar məsh olunmuş kohənlərin, Aharonun oğullarının adlarıdır, kimin əli kahinlik etmək üçün doldurulmuşdur.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "bunlar"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "adları"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohənlərin"
+    },
+    {
+      "surface": "המשחים",
+      "gloss": "məsh olunmuş"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kimin(-lər)"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "doldurulmuşdur"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "əlləri"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kahinlik etmək üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:33:36.048367529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 44,
+  "translation": "Çünki yayıma güvənmirəm, və qılıncım məni xilas etməz.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "yayıma"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "güvənmirəm"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "və qılıncım"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "məni xilas etməz"
+    }
+  ],
+  "timestamp": "2026-09-01T15:14:22.866137194Z",
+  "model": "glm-5.3"
+}

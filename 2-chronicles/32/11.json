@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 32:11",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Məgər Yehizqiya sizi yoldan çıxarmırmı ki, ⟨את⟩sizi aclıqda və susuzluqda ölməyə versin, deyərək: «Yahve, Elohimimiz, bizi Aşşur padşahının əlindən qurtaracaq»?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Məgər... deyilmi"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yehizqiya"
+    },
+    {
+      "surface": "מסית",
+      "gloss": "yoldan çıxarır"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩sizi",
+      "marks": "ölməyə vermək"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "vermək üçün"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩sizi",
+      "marks": "ölməyə"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ölməyə"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "aclıqda"
+    },
+    {
+      "surface": "ובצמא",
+      "gloss": "və susuzluqda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimiz"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "qurtaracaq bizi"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "əlindən"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşahının"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşşur"
+    }
+  ],
+  "timestamp": "2026-09-01T17:23:13.825335557Z",
+  "model": "glm-5.3"
+}

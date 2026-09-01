@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 2:12",
+  "book": "habakkuk",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Vay oyna ki, qanlarla şəhər qurur, və haqsızlıqla qalanı bərqərar edir!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Vay"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "qurur"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şəhər"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "qanlarla"
+    },
+    {
+      "surface": "וכונן",
+      "gloss": "və bərqərar edir"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "qalanı"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "haqsızlıqla"
+    }
+  ],
+  "timestamp": "2026-09-01T14:48:49.659475378Z",
+  "model": "glm-5.3"
+}

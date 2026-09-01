@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 140,
+  "translation": "Xilas et məni, Yahve, pis adamdan, zorakı adamlardan qoru məni.",
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "xilas et məni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "adamdan"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pis"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "zorakı adamlardan"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "zorakı"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "qoru məni"
+    }
+  ],
+  "timestamp": "2026-09-01T15:45:07.797417863Z",
+  "model": "glm-5.3"
+}

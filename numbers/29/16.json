@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 29:16",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "və bir keçi teyəsi günah qurbanı olaraq — davamlı yandırma qurbanından, onun taxıl qurbanından və içki qurbanından əlavə.",
+  "tokens": [
+    {
+      "surface": "ושעיר",
+      "gloss": "və teyə"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "keçilərdən"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "günah qurbanı"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "əlavə olaraq"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "yandırma qurbanından"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "davamlı"
+    },
+    {
+      "surface": "מנחתה",
+      "gloss": "onun taxıl qurbanı"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "və onun içki qurbanı"
+    }
+  ],
+  "timestamp": "2026-09-01T10:43:01.623694454Z",
+  "model": "glm-5.3"
+}

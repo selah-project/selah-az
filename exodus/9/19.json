@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 9:19",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Və indi göndər, qoruğa çəir ⟨את⟩ mal-qaranı və ⟨את⟩ sahədə olan hər şey sənin; hər insan və heyvan ki, sahədə tapılar və evə yığılmasa, onların üstünə dolu enəcək və öləcəklər.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "və indi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "göndər"
+    },
+    {
+      "surface": "העז",
+      "gloss": "tələsik çək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mal-qaranı"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "mal-qaranı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hər şey"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər şey"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənin"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sahədə"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "והבהמה",
+      "gloss": "və heyvan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "tapılar"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sahədə"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və olmasa"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "yığılsa"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "evə"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "və enəcək"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "onların üstünə"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "dolu"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "və öləcəklər"
+    }
+  ],
+  "timestamp": "2026-09-01T10:06:59.771805550Z",
+  "model": "glm-5.3"
+}

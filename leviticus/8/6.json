@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və Moşe ⟨את⟩ Aharonu və ⟨את⟩ oğullarını yaxınlaşdırdı, ⟨את⟩ onları su ilə yudu.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "yaxınlaşdırdı"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharonu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "oğullarını"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "yudu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onları"
+    },
+    {
+      "surface": "במים",
+      "gloss": "su ilə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:25:05.544952034Z",
+  "model": "glm-5.3"
+}

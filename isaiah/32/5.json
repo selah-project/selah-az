@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Artıq nabal ⟨haqqında⟩ nədiv deyilməyəcək, və xəsis ⟨haqqında⟩ şoa deyilməyəcək.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "deyilməyəcək"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "artıq"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "nabal ⟨haqqında⟩"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "nədiv"
+    },
+    {
+      "surface": "ולכילי",
+      "gloss": "və xəsis ⟨haqqında⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "deyilməyəcək"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "şoa"
+    }
+  ],
+  "timestamp": "2026-09-01T13:00:26.324183515Z",
+  "model": "glm-5.3"
+}

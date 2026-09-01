@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 135:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 135,
+  "translation": "və onların torpağını miras olaraq verdi, miras olaraq öz xalqı Yisrayıl üçün.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "və verdi"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "onların torpağını"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "miras olaraq"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "miras olaraq"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Yisrayıl üçün"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "öz xalqı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:15.822609771Z",
+  "model": "glm-5.3"
+}

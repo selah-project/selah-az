@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 22:23",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "qəzəbim alovlanacaq və sizi qılıncla öldürəcəyəm, və arvadlarınız dul qalacaq, oğullarınız isə yetim.",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "alovlanacaq"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "qəzəbim"
+    },
+    {
+      "surface": "והרגתי",
+      "gloss": "və öldürəcəyəm"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizi"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "qılıncla"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "və olacaq"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "arvadlarınız"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "dul"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "və oğullarınız"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "yetim"
+    }
+  ],
+  "timestamp": "2026-09-01T10:13:25.573691728Z",
+  "model": "glm-5.3"
+}

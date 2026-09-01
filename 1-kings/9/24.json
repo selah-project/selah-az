@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 9:24",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Yalnız Paronun qızı Davud şəhərindən öz evinə — onun üçün tikdiyi evə — qalxdı; o zaman ⟨o⟩ ⟨את⟩ Milloyu tikdi.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qızı"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "qalxdı"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "şəhərindən"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "öz evinə"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "tikdiyi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "onun üçün"
+    },
+    {
+      "surface": "אז",
+      "gloss": "o zaman"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "tikdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Milloyu"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Millo"
+    }
+  ],
+  "timestamp": "2026-09-01T12:15:30.283364723Z",
+  "model": "glm-5.3"
+}

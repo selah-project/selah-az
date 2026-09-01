@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Gözlərim tükəndi sənin xilasını ⟨gözləməkdən⟩ və sənin ədalət sözünü ⟨gözləməkdən⟩.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "gözlərim"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "tükəndi"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "sənin xilasını"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "və sözünü"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "sənin ədalət"
+    }
+  ],
+  "timestamp": "2026-09-01T15:41:20.795789991Z",
+  "model": "glm-5.3"
+}

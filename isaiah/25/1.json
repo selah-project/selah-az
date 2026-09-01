@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 25:1",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Yahve, Elohimim, sən səni ucaldaram, adına şükür edərəm, çünki ⟨sən⟩ möcüzə etdin; məsləhətlər uzaqdan ⟨qurulmuşdu⟩ — sadiqlik, əmin.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "səni ucaldaram"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "şükür edərəm"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "adını"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "etdin"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "möcüzə"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "məsləhətlər"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "uzaqdan"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "sadiqlik"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "əmin"
+    }
+  ],
+  "timestamp": "2026-09-01T17:36:01.451648379Z",
+  "model": "glm-5.3"
+}

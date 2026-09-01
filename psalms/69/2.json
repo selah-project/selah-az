@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 69,
+  "translation": "Məni xilas et, Elohim, çünki sular cana qədər gəlib çatdı.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "məni xilas et"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "באו",
+      "gloss": "gəlib çatdı"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sular"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "cana"
+    }
+  ],
+  "timestamp": "2026-09-01T15:23:33.737135978Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 77:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 77,
+  "translation": "Sıxıntım günündə Adonayı axtardım; əlim gecə ⟨uzadıldı⟩ və ⟨dayanmadı⟩; canım təsəllini rədd etdi.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "günündə"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "sıxıntımın"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayı"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "axtardım"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "əlim"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "gecə"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "⟨uzadıldı⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ⟨dayanmadı⟩"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "taqətsizləşmir"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "rədd etdi"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "təsəllini"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    }
+  ],
+  "timestamp": "2026-09-01T15:25:59.792003129Z",
+  "model": "glm-5.3"
+}

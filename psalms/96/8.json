@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 96:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 96,
+  "translation": "Verin Yahveyə adına layiq izzəti, dəyərli təqdimə götürün və onun həyətlərinə girin!",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "verin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "izzəti"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "adına layiq"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "götürün"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "təqdimə"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "və girin"
+    },
+    {
+      "surface": "לחצרותיו",
+      "gloss": "onun həyətlərinə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:31:54.570296403Z",
+  "model": "glm-5.3"
+}

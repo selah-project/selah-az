@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "O, hökmranlığının izzət sərvətini və ⟨o⟩ böyüklüyünün şöhrətinin dəyərini çox gün — səksən və yüz gün — göstərərkən.",
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "göstərərkən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sərvətini"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sərvətini"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "izzət"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "hökmranlığının"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dəyərini"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "dəyərini"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "şöhrətinin"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "böyüklüyünün"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "çox"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "səksən"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "və yüz"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    }
+  ],
+  "timestamp": "2026-09-01T16:35:23.575755626Z",
+  "model": "glm-5.3"
+}

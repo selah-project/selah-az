@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 35:17",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "⟨את⟩ həyətin pərdələrini, onun sütunlarını və onun oturacaqlarını, həyətin qapısının örtüyünü ⟨də⟩",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "həyətin pərdələri"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "pərdələrini"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "həyətin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sütunlarını"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "onun sütunlarını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "oturacaqlarını"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "onun oturacaqlarını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "örtüyünü"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "örtüyünü"
+    },
+    {
+      "surface": "שער",
+      "gloss": "qapısının"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "həyətin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:19:41.149916177Z",
+  "model": "glm-5.3"
+}

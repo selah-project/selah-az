@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 21:3",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Və Yahve İsrailin səsini eşitdi və ⟨את⟩ Kənanlını ⟨onun⟩ əlinə verdi, və ⟨את⟩ onları ⟨את⟩ və şəhərlərini ⟨את⟩ həram etdilər; və yerin adını Hərma qoydular.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "və eşitdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "səsini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailin"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "və verdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kənanlını"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kənanlını"
+    },
+    {
+      "surface": "ויחרם",
+      "gloss": "və həram etdi"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩ onları"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "şəhərlərini"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "şəhərlərini"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "və qoydular adını"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adını"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Hərma"
+    }
+  ],
+  "timestamp": "2026-09-01T10:40:05.043701122Z",
+  "model": "glm-5.3"
+}

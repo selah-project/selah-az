@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 32:4",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Çox xalq toplandı və bütün bulaqları ⟨את⟩ və ölkənin içindən axan arxı ⟨את⟩ bağladılar, deyərək: Niyə Aşşur padşahları gəlsinlər və çoxlu su tapsınlar?",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "və toplandı"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "רב",
+      "gloss": "çox"
+    },
+    {
+      "surface": "ויסתמו",
+      "gloss": "və bağladılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün bulaqları"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "המעינות",
+      "gloss": "bulaqları"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "arxı"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "arxı"
+    },
+    {
+      "surface": "השוטף",
+      "gloss": "axan"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "içindən"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ölkənin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "למה",
+      "gloss": "niyə"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "gəlsinlər"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "padşahları"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşşur"
+    },
+    {
+      "surface": "ומצאו",
+      "gloss": "və tapsınlar"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "çoxlu"
+    }
+  ],
+  "timestamp": "2026-09-01T17:23:12.962262701Z",
+  "model": "glm-5.3"
+}

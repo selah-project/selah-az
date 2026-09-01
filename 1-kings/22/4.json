@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 22:4",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Yehoşafata dedi: Mənimlə Ramot-Gilada müharibəyə ⟨את⟩ gedəcəksənmi? Yehoşafat İsrail kralına dedi: Mən sənin kimi, xalqım sənin xalqın kimi, atlarım sənin atların kimi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Yehoşafata"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoşafat"
+    },
+    {
+      "surface": "התלך",
+      "gloss": "gedəcəksənmi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mənimlə",
+      "marks": "mənimlə (burada את 'ilə' ön qoşması, nişan deyil — lakin ⟨את⟩ saxlanılır)"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "müharibəyə"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoşafat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kralına"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "Mən ... kimi"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "sənin kimi"
+    },
+    {
+      "surface": "כעמי",
+      "gloss": "xalqım ... kimi"
+    },
+    {
+      "surface": "כעמך",
+      "gloss": "sənin xalqın kimi"
+    },
+    {
+      "surface": "כסוסי",
+      "gloss": "atlarım ... kimi"
+    },
+    {
+      "surface": "כסוסיך",
+      "gloss": "sənin atların kimi"
+    }
+  ],
+  "timestamp": "2026-09-01T12:27:58.550772118Z",
+  "model": "glm-5.3"
+}

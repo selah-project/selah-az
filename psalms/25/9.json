@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 25:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Yalvar olanları məşfur hökmündə yoldaş qoynuna salar (yönləndirər), yalvar olanlara Öz yolunu öyrədər.",
+  "tokens": [
+    {
+      "surface": "ידרך",
+      "gloss": "yoldaş qoynuna salar"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "yalvar olanları"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "hökmündə"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "öyrədər"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "yalvar olanlara"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "öz yolunu"
+    }
+  ],
+  "timestamp": "2026-09-01T15:08:10.864333932Z",
+  "model": "glm-5.3"
+}

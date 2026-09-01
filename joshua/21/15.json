@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 21:15",
+  "book": "joshua",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "⟨את⟩ Holonu və onun kənar sahələrini, ⟨את⟩ Deviri və onun kənar sahələrini,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Holonu"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Holonu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "kənar sahələrini"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "onun kənar sahələrini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "Deviri"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Deviri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "kənar sahələrini"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "onun kənar sahələrini"
+    }
+  ],
+  "timestamp": "2026-09-01T11:12:15.183440100Z",
+  "model": "glm-5.3"
+}

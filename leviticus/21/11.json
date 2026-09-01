@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Ölü canların yanına da girməsin; atası üçün və anası üçün murdarlanmasın.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "canların"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ölü"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "girməsin"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "atası üçün"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "anası üçün"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "murdarlanmasın"
+    }
+  ],
+  "timestamp": "2026-09-01T10:29:28.635141025Z",
+  "model": "glm-5.3"
+}

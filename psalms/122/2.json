@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 122,
+  "translation": "Ayaqlarımız dururdu sənin qapılarında, ey Yeruşalayim.",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "dururdu"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨olmuşdu⟩"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "ayaqlarımız"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "sənin qapılarında"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ey Yeruşalayim"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:46.435851621Z",
+  "model": "glm-5.3"
+}

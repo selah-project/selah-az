@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 7:5",
+  "book": "1-samuel",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Şemuəl dedi: „Yığın bütün İsraili Mitspaya, mən də sizin üçün Yahveyə dua edəcəyəm.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şemuəl"
+    },
+    {
+      "surface": "קבצו",
+      "gloss": "yığın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün İsraili"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "Mitspaya"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "dua edəcəyəm"
+    },
+    {
+      "surface": "בעדכם",
+      "gloss": "sizin üçün"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T11:33:22.271634002Z",
+  "model": "glm-5.3"
+}

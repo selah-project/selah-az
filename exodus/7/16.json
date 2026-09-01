@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 7:16",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Və ona deyəcəksən: Yahve, ivrilərin Elohimi, məni sənin yanına göndərdi ⟨ki deyim⟩: ⟨את⟩ xalqımı burax, ki mənə səhrada qulluq etsinlər; və bax, indiyə qədər eşitmədin.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "və deyəcəksən"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'i"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "ivrilərin"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "məni göndərdi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sənin yanına"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨ki deyim⟩"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "burax"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqımı"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqımı"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "ki mənə qulluq etsinlər"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "səhrada"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "və bax"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "eşitmədin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "כה",
+      "gloss": "indi"
+    }
+  ],
+  "timestamp": "2026-09-01T17:26:46.425839310Z",
+  "model": "glm-5.3"
+}

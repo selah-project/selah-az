@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Və Moavı vurdu, və moavlılar Davuda qul oldular, mincə gətirənlər.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "vurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moavı"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moavı"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "oldular"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "moavlılar"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "qul"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Davuda"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "gətirənlər"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "mincə"
+    }
+  ],
+  "timestamp": "2026-09-01T17:06:47.222818126Z",
+  "model": "glm-5.3"
+}

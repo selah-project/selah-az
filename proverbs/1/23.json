@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 1:23",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Mənim tənbehimə qayıdın: bax, ruhumu sizə boşaldacağam, sözlərimi ⟨את⟩ sizə bildirəcəyəm.",
+  "tokens": [
+    {
+      "surface": "תשובו",
+      "gloss": "qayıdın"
+    },
+    {
+      "surface": "לתוכחתי",
+      "gloss": "mənim tənbehimə"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "boşaldacağam"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizə"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruhumu"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "bildirəcəyəm"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözlərimi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:47:24.623292227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 26:25",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Qardaşları isə Eliezer tərəfindən ⟨idi⟩: oğlu Rəhavyahu, oğlu Yeşayahu, oğlu Yoram, oğlu Zikri və oğlu Şelomut.",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "Qardaşları"
+    },
+    {
+      "surface": "לאליעזר",
+      "gloss": "Eliezer tərəfindən"
+    },
+    {
+      "surface": "רחביהו",
+      "gloss": "Rəhavyahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "וישעיהו",
+      "gloss": "oğlu Yeşayahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "oğlu Yoram"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "oğlu Zikri"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "ושלמות",
+      "gloss": "və oğlu Şelomut"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlu"
+    }
+  ],
+  "timestamp": "2026-09-01T17:12:11.994369698Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 13:9",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Məgər bütün yer sənin qarşında deyilmi? Xahiş edirəm, məndən ayrıl; əgər sola ⟨yetsən⟩, mən sağa, əgər sağa ⟨yetsən⟩, mən sola ⟨gedəcəyəm⟩.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "məgər... deyilmi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sənin qarşında"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "ayrıl"
+    },
+    {
+      "surface": "נא",
+      "gloss": "xahiş edirəm"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "məndən"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "השמאל",
+      "gloss": "sola"
+    },
+    {
+      "surface": "ואימנה",
+      "gloss": "mən sağa"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "sağa"
+    },
+    {
+      "surface": "ואשמאילה",
+      "gloss": "mən sola ⟨gedəcəyəm⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T17:55:48.386938150Z",
+  "model": "glm-5.3"
+}

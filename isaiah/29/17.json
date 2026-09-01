@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 29:17",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "Məgər hələ çox az, lap az bir vaxt ⟨keçəcək⟩ və Lübnan Karmelə çevriləcək, və Karmel meşə sayılacaq?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "məgər yox"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hələ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "çox az"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "lap az"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "və çevriləcək"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lübnan"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "Karmelə"
+    },
+    {
+      "surface": "והכרמל",
+      "gloss": "və Karmel"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "meşə"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "sayılacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T13:00:46.627460219Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 21:21",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Yalnız əgər ⟨bir⟩ gün və ya ⟨iki⟩ gün dursa, cəzalandırılmayacaq, çünki o, onun gümüşüdür.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "או",
+      "gloss": "və ya"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "iki gün"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "dursa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "cəzalandırılacaq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "onun gümüşü"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-09-01T10:14:09.821480559Z",
+  "model": "glm-5.3"
+}

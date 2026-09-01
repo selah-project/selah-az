@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 37:26",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Bütün gün lütf edir və borc verir, onun nəsli xeyir-dua üçündür.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Bütün"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "lütf edir"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "və borc verir"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "onun nəsli"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "xeyir-dua üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T15:13:08.011255839Z",
+  "model": "glm-5.3"
+}

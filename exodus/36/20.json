@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 36,
+  "translation": "Və məskən üçün şittim ağacından şaqul dayanan lövhələri ⟨את⟩ düzəltdi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "və düzəltdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lövhələri"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "lövhələri"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "məskən üçün"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ağacından"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "şittim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "dayanan"
+    }
+  ],
+  "timestamp": "2026-09-01T10:21:20.614943676Z",
+  "model": "glm-5.3"
+}

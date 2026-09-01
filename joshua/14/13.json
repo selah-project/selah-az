@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "və Yehoşua onu xeyir-dua ilə bərəkətlədi, və ⟨את⟩ Hevronu Kalib ibni Yefunnəyə miras olaraq verdi.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "onu bərəkətlədi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoşua"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Kalibə"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefunnə"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "miras olaraq"
+    }
+  ],
+  "timestamp": "2026-09-01T17:58:11.516065049Z",
+  "model": "glm-5.3"
+}

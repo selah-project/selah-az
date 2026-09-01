@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Çünki ölümdə Sənin yad edilmən yoxdur; Şeolda Sənə kim şükür edəcək?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "במות",
+      "gloss": "ölümdə"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "Sənin yad edilmən"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "Şeolda"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "şükür edəcək"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Sənə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:01:12.423823547Z",
+  "model": "glm-5.3"
+}

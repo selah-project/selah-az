@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 29:3",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "Və onların un qurbanlığı: yağla qarışdırılmış sülb un, öküz üçün üç ondan bir, qoç üçün iki ondan bir.",
+  "tokens": [
+    {
+      "surface": "ומנחתם",
+      "gloss": "onların qurbanlığı"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "sülb un"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "qarışdırılmış"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "yağla"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "üç"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "ondan bir"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "öküz üçün"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iki"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "ondan bir"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "qoç üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:43:12.705982595Z",
+  "model": "glm-5.3"
+}

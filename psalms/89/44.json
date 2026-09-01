@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 89:44",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 89,
+  "translation": "Bəli, onun qılıncınınğını da geri qaytardın və onu döyüşdə saxlamadın.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "bəli, …da"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "geri qaytardın"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ağını"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "qılıncının"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və …mədin"
+    },
+    {
+      "surface": "הקימתו",
+      "gloss": "onu saxla-"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "döyüşdə"
+    }
+  ],
+  "timestamp": "2026-09-01T17:42:24.488166973Z",
+  "model": "glm-5.3"
+}

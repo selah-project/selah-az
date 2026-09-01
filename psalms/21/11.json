@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 21:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Onların meyvəsini yerdən məhv edəcəksən, onların nəslini insan oğullarından.",
+  "tokens": [
+    {
+      "surface": "פרימו",
+      "gloss": "onların meyvəsini"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yerdən"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "məhv edəcəksən"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "onların nəslini"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "oğullarından"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:06:03.536373665Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 126:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 126,
+  "translation": "Gedib ağa-ağa toxum dəsti daşıyan, şübhəsiz, sevinç nəğməsi ilə qayıdacaq, dəstələrini daşıyaraq.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "gedib"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "gedən"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "ağa-ağa"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "daşıyan"
+    },
+    {
+      "surface": "משך",
+      "gloss": "toxum dəsti"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "toxum"
+    },
+    {
+      "surface": "בא",
+      "gloss": "şübhəsiz gələcək"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "qayıdacaq"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "sevinç nəğməsi ilə"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "daşıyaraq"
+    },
+    {
+      "surface": "אלמתיו",
+      "gloss": "dəstələrini"
+    }
+  ],
+  "timestamp": "2026-09-01T15:41:58.194133865Z",
+  "model": "glm-5.3"
+}

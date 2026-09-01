@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "daniel 10:15",
+  "book": "daniel",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Və o, mənimlə bu sözlərə görə danışanda üzümü yerə çevirdim və susdum.",
+  "tokens": [
+    {
+      "surface": "ובדברו",
+      "gloss": "və o danışanda"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mənimlə"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "sözlərə görə"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "çevirdim"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzümü"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yerə"
+    },
+    {
+      "surface": "ונאלמתי",
+      "gloss": "və susdum"
+    }
+  ],
+  "timestamp": "2026-09-01T16:47:03.238819501Z",
+  "model": "glm-5.3"
+}

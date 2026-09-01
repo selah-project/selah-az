@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 11:9",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Yahve Moşeyə dedi: Paro sizə qulaq asmayacaq — ki, möcüzələrim Mitsrayim torpağında çoxalsın.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "qulaq asmayacaq"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "sizə"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "למען",
+      "gloss": "— ki"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "çoxalsın"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "möcüzələrim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "torpağında"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T10:06:32.845332102Z",
+  "model": "glm-5.3"
+}

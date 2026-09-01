@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 73,
+  "translation": "Çünki mən ağılsızları qısqandım, şərlilərin əmin-amanlığını gördüyüm zaman.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "qısqandım"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "ağılsızları"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "əmin-amanlığını"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "şərlilərin"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "gördüyüm zaman"
+    }
+  ],
+  "timestamp": "2026-09-01T15:24:18.522420347Z",
+  "model": "glm-5.3"
+}

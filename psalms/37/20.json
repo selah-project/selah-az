@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 37:20",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Çünki şərirlər məhv olacaq və Yahvenin düşmənləri qoyunların ⟨yağı⟩ kimi tükənəcəklər, tüstü kimi tükənəcəklər.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "şərirlər"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "məhv olacaq"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "və düşmənləri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "כיקר",
+      "gloss": "⟨yağı⟩ kimi"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "qoyunların"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "tükənəcəklər"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "tüstü kimi"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "tükənəcəklər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:12:56.964056110Z",
+  "model": "glm-5.3"
+}

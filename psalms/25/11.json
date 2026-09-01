@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 25:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Adın uğrunda, ya Yahve, qüsurumu bağışla, çünki o böyükdür.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "uğrunda"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Adın"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahve"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "bağışla"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "qüsurumu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "רב",
+      "gloss": "böyükdür"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-09-01T15:08:10.864735971Z",
+  "model": "glm-5.3"
+}

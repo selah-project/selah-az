@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Pusquda duran ayı odur mənim üçün, gizli yerlərdə ⟨isə⟩ şir.",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "ayı"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "pusquda duran"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "odur"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənım üçün"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "şir"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "gizli yerlərdə"
+    }
+  ],
+  "timestamp": "2026-09-01T16:25:39.249543826Z",
+  "model": "glm-5.3"
+}

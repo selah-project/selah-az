@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "O torpaqdan Aşşur çıxdı və ⟨את⟩ Ninveyi, ⟨את⟩ Rehovot-İri və ⟨את⟩ Kəlahı tikdi.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "o torpaq"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "çıxdı"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşşur"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "tikdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ninveyi"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Rehovot-İri"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Rehovot"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "İr (şəhər)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kəlahı"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kəlah"
+    }
+  ],
+  "timestamp": "2026-09-01T09:48:31.150642517Z",
+  "model": "glm-5.3"
+}

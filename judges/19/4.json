@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 19:4",
+  "book": "judges",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Onun qaynatası, qızın atası onu möhkəm tutub saxladı; o, onunla ⟨את⟩ üç gün qaldı; yedilər, içdilər və orada gecələdilər.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "möhkəm tutub saxladı"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onu"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "onun qaynatası"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atası"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "qızın"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "qaldı"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onunla"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "üç"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "yedilər"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "içdilər"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "gecələdilər"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    }
+  ],
+  "timestamp": "2026-09-01T17:32:26.475736392Z",
+  "model": "glm-5.3"
+}

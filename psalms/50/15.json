@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 50,
+  "translation": "Bəla günündə Mənə səslən, Mən səni qurtararam və sən Məni izzətləndirərsən.",
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "Mənə səslən"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "günündə"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "bəla"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "səni qurtararam"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "Məni izzətləndirərsən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:16:35.536452432Z",
+  "model": "glm-5.3"
+}

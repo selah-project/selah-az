@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Siz ⟨את⟩ mənə cavab verib dediniz: «⟨Nəzərdə tutulan⟩ sözü etmək üçün danışdığın ⟨iş⟩ yaxşıdır.»",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "cavab verib"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mənə"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "dediniz"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşıdır"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sözü \/ iş"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "danışdığın"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "etmək üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:46:33.527669978Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 102,
+  "translation": "O, yolda gücümü əzdi, günlərimi qısaltdı.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "əzdi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolda"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "gücümü"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "qısaltdı"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "günlərimi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:33:33.165043029Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 32:7",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Qədim günləri xatırla, nəsillərin illərini anla; atandan soruş, o sənə bildirəcək, ağsaqqallarından — onlar sənə deyəcəklər.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "xatırla"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "günləri"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "qədim"
+    },
+    {
+      "surface": "בינו",
+      "gloss": "anla"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "illərini"
+    },
+    {
+      "surface": "דור",
+      "gloss": "nəsillərin"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "və nəsil"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "soruş"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "atandan"
+    },
+    {
+      "surface": "ויגדך",
+      "gloss": "o sənə bildirəcək"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "ağsaqqallarından"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "onlar deyəcəklər"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:58:35.906844613Z",
+  "model": "glm-5.3"
+}

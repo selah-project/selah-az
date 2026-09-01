@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 38,
+  "translation": "Çünki oxların mənə batdı, və əlin mənim üstümə aşağı endi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "oxların"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "batdı"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "və endi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üstümə"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "əlin"
+    }
+  ],
+  "timestamp": "2026-09-01T17:42:24.466441238Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 17:35",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Və Yahve onlarla ⟨את⟩ əhd kəsdi və onlara buyurub dedi: Başqa tanrılardan qorxmayın, onlara səcdə etməyin, onlara xidmət etməyin və onlara qurban kəsməyin.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "və kəsdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onlarla",
+      "marks": "onlar (ilə)"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "əhd"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "və buyurdu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "qorxmayın"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tanrılardan"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "başqa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "תשתחוו",
+      "gloss": "səcdə etməyin"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "תעבדום",
+      "gloss": "onlara xidmət etməyin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "qurban kəsməyin"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    }
+  ],
+  "timestamp": "2026-09-01T12:40:05.712127340Z",
+  "model": "glm-5.3"
+}

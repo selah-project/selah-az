@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "Yahvenin səsi suların üstündədir; kavodun Eli göy səsindən torpandı; Yahve ⟨dirilir⟩ çox suların üstündə.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "səsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "המים",
+      "gloss": "suların"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "kavodun"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "göy səsindən torpandı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suların"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "çox"
+    }
+  ],
+  "timestamp": "2026-09-01T15:09:28.394839250Z",
+  "model": "glm-5.3"
+}

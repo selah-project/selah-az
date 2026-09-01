@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və mənə ⟨üçün⟩ etibarlı şahidlər şahidlik etsin: ⟨את⟩ Uriyanı kahini, və ⟨את⟩ Zekharyahunu, Yeverekhyahunun oğlunu.",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "şahidlik etdirəcəyəm"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "şahidlər"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "etibarlı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriyanı kahini"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zekharyahunu"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zekharyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "Yeverekhyahu"
+    }
+  ],
+  "timestamp": "2026-09-01T12:48:58.061247462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 15:19",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "⟨את⟩ Keyniləri, ⟨את⟩ Kenizliləri və ⟨את⟩ Qedmoniləri ⟨(verdim)⟩",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Keyniləri"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "Keyni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kenizliləri"
+    },
+    {
+      "surface": "הקנזי",
+      "gloss": "Kenizli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Qedmoniləri"
+    },
+    {
+      "surface": "הקדמני",
+      "gloss": "Qedmoni"
+    }
+  ],
+  "timestamp": "2026-09-01T09:49:44.942189414Z",
+  "model": "glm-5.3"
+}

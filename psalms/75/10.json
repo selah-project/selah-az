@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 75:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 75,
+  "translation": "Mən isə ⟨bunu⟩ əbədi bəyan edəcəyəm, Yaqovun Elohiminə zümzümə edəcəyəm.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "mən isə"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "bəyan edəcəyəm"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "zümzümə edəcəyəm"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohiminə"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqovun"
+    }
+  ],
+  "timestamp": "2026-09-01T15:24:31.001653799Z",
+  "model": "glm-5.3"
+}

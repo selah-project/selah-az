@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 38:17",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 38,
+  "translation": "Çünki dedim: bəlkə mənim üstümə sevinməsinlər; ayağım sürüşəndə mənim əleyhimə böyüdülər.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "dedim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "bəlkə … —məsinlər"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "sevinməsinlər"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənim üstümə"
+    },
+    {
+      "surface": "במוט",
+      "gloss": "sürüşəndə"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ayağım"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mənim əleyhimə"
+    },
+    {
+      "surface": "הגדילו",
+      "gloss": "böyüdülər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:13:14.569336613Z",
+  "model": "glm-5.3"
+}

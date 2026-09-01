@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 13:3",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Və kahin dərinin — ətin dərisindəki — ⟨את⟩ zədəni görəcək, və zədədəki tük ağa dönüb, və zədənin görünüşü onun ətinin dərisindən dərinsə — o, tzaraat zədəsidir; və kahin onu görəcək və onu murdar edəcək.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "görəcək"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zədəni"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "zədəni"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "dərinin"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ətin"
+    },
+    {
+      "surface": "ושער",
+      "gloss": "və tük"
+    },
+    {
+      "surface": "בנגע",
+      "gloss": "zədədəki"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "ağa dönüb"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ağ"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "və görünüşü"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "zədənin"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "dərin"
+    },
+    {
+      "surface": "מעור",
+      "gloss": "dəridən"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "onun ətinin"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "zədə"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tzaraat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "odur"
+    },
+    {
+      "surface": "וראהו",
+      "gloss": "onu görəcək"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "murdar edəcək"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu (zədəli şəxs)"
+    }
+  ],
+  "timestamp": "2026-09-01T17:27:53.839544449Z",
+  "model": "glm-5.3"
+}

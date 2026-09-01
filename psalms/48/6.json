@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 48,
+  "translation": "Onlar gördülər — ⟨beləcə⟩ heyrətə düşdülər, titrədilər, tələsərək qaçdılar.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "gördülər"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨beləcə⟩"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "heyrətə düşdülər"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "titrədilər"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "tələsərək qaçdılar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:15:48.805511036Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 12:15",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Və padşah xalqa qulaq asmadı, çünki Yahvenin tərəfindən bir dönüş ⟨idi⟩ — Yahvenin Şilolu Axiya vasitəsilə Nevat oğlu Yarovama söylədiyi ⟨את⟩ sözünü yerinə yetirmək üçün.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Və ... məd"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "qulaq asmadı"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨idi⟩"
+    },
+    {
+      "surface": "סבה",
+      "gloss": "bir dönüş"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "tərəfindən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "למען",
+      "gloss": "üçün"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "yerinə yetirmək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sözünü"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "sözünü"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "söylədiyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "vasitəsilə"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Axiya"
+    },
+    {
+      "surface": "השילני",
+      "gloss": "Şilolu"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevatın"
+    }
+  ],
+  "timestamp": "2026-09-01T12:20:03.197493572Z",
+  "model": "glm-5.3"
+}

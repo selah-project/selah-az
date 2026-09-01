@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 15:4",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Şəfa verən dil həyat ağacıdır, onda əyrilik isə ruhdə qırıntıdır.",
+  "tokens": [
+    {
+      "surface": "מרפא",
+      "gloss": "şəfa verən"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "dil"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ağacı"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "həyat"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "və əyrilik"
+    },
+    {
+      "surface": "בה",
+      "gloss": "onunda"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "qırıntı"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "ruhdə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:54:24.134059195Z",
+  "model": "glm-5.3"
+}

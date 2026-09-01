@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 35:24",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "Məni Sənin salehliyinə görə mühakimə et, Yahve, Elohimim; və mənim üstümə sevinməyinlər ⟨sevinməsinlər⟩.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "məni mühakimə et"
+    },
+    {
+      "surface": "כצדקך",
+      "gloss": "Sənin salehliyinə görə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və qəti inkar (etmə)"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "sevinməsinlər"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənim üstümə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:10:41.846627850Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "İkisi təkindən yaxşıdır, çünki onların əməklərində ⟨onların⟩ yaxşı mükafatı var.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "yaxşıdır"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "ikisi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "−dən"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "təkindən"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "יש",
+      "gloss": "var"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onların"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "mükafat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşı"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "əməklərində"
+    }
+  ],
+  "timestamp": "2026-09-01T16:29:02.999635545Z",
+  "model": "glm-5.3"
+}

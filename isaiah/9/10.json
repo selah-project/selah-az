@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 9:10",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Və Yahve Retsinin düşmənlərini onun üstünə yüksəltdi, ⟨את⟩ onun düşmənlərini isə qızışdırdı.",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "yüksəltdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Retsinin düşmənlərini"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "düşmənlərini"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üstünə"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "onun düşmənlərini"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "onun düşmənlərini"
+    },
+    {
+      "surface": "יסכסך",
+      "gloss": "qızışdırdı"
+    }
+  ],
+  "timestamp": "2026-09-01T12:50:43.937632015Z",
+  "model": "glm-5.3"
+}

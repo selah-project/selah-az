@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və dedi: Onu çağır. Və o onu çağırdı, və o qapının ağzında durdu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "çağır"
+    },
+    {
+      "surface": "לה",
+      "gloss": "onu"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "və o çağırdı"
+    },
+    {
+      "surface": "לה",
+      "gloss": "onu"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "və o durdu"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "qapının ağzında"
+    }
+  ],
+  "timestamp": "2026-09-01T12:31:21.789813692Z",
+  "model": "glm-5.3"
+}

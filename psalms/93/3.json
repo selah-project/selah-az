@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 93,
+  "translation": "Çaylar qaldırdı, ya Yahve, çaylar qaldırdı öz səslərini, çaylar qaldıracaq öz daşıq dalğalarını.",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "qaldırdı"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "çaylar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahve"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "qaldırdı"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "çaylar"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "öz səslərini"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "qaldıracaq"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "çaylar"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "öz daşıq dalğalarını"
+    }
+  ],
+  "timestamp": "2026-09-01T15:32:55.442017693Z",
+  "model": "glm-5.3"
+}

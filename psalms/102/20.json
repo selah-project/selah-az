@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 102:20",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 102,
+  "translation": "Çünki Yahve öz müqəddəsliyinin hündürlüyündən aşağı baxdı, göylərdən yerə nəzər saldı.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "aşağı baxdı"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "hündürlüyündən"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "öz müqəddəsliyinin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "göylərdən"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə doğru"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerə"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "nəzər saldı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:34:08.387583791Z",
+  "model": "glm-5.3"
+}

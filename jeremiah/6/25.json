@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 6:25",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Çölə çıxma, yolda da gəzmə, çünki düşmənin qılıncı ⟨var⟩, hər tərəfdə qorxu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "çıxma (gəzmə)"
+    },
+    {
+      "surface": "תצאי",
+      "gloss": "çıxma"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "çölə"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "yolda da"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gəzmə"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "gəzmə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "qılıncı"
+    },
+    {
+      "surface": "לאיב",
+      "gloss": "düşmənin"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "qorxu"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "hər tərəfdə"
+    }
+  ],
+  "timestamp": "2026-09-01T17:37:16.104694861Z",
+  "model": "glm-5.3"
+}

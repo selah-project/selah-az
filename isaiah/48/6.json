@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 48:6",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 48,
+  "translation": "Eşitdin — bütünü gör, siz isə ⟨məgər⟩ danışmayacaqsınızmı? Bundan sonra sənə yenilikləri, saxlanılmış şeyləri eşitdirirəm — onları isə bilmirdin.",
+  "tokens": [
+    {
+      "surface": "שמעת",
+      "gloss": "Eşitdin"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "gör"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "bütünü"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "siz isə"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "⟨məgər⟩ ... mı"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "danışmayacaqsınızmı"
+    },
+    {
+      "surface": "השמעתיך",
+      "gloss": "sənə eşitdirirəm"
+    },
+    {
+      "surface": "חדשות",
+      "gloss": "yenilikləri"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "bundan sonra"
+    },
+    {
+      "surface": "ונצרות",
+      "gloss": "saxlanılmış şeyləri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "isə ... --"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "bilmirdin"
+    }
+  ],
+  "timestamp": "2026-09-01T13:09:37.432385166Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 35:3",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "Gücləndirin gevşəmiş əlləri, və tərpənən dizləri möhkəmləndirin.",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "Gücləndirin"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "əlləri"
+    },
+    {
+      "surface": "רפות",
+      "gloss": "gevşəmiş"
+    },
+    {
+      "surface": "וברכים",
+      "gloss": "və dizləri"
+    },
+    {
+      "surface": "כשלות",
+      "gloss": "tərpənən (sürüşən)"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "möhkəmləndirin"
+    }
+  ],
+  "timestamp": "2026-09-01T13:04:52.644589011Z",
+  "model": "glm-5.3"
+}

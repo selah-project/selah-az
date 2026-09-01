@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 119:63",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Səndən qorxanların hamısının və Sənin əmrlərini qoruyanların yoldaşıyam.",
+  "tokens": [
+    {
+      "surface": "חבר",
+      "gloss": "yoldaşıyam"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hamısının"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "...ların"
+    },
+    {
+      "surface": "יראוך",
+      "gloss": "Səndən qorxan"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "və qoruyanların"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "əmrlərini"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:02.122709404Z",
+  "model": "glm-5.3"
+}

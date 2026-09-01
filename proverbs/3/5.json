@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 3:5",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Yahveyə bütün ürəyinlə etibar et, öz anlayışına söykənmə.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "etibar et"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-yə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ürəyinlə"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "öz ... -ına ⟨və⟩"
+    },
+    {
+      "surface": "בינתך",
+      "gloss": "anlayışına"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-mə"
+    },
+    {
+      "surface": "תשען",
+      "gloss": "söykən"
+    }
+  ],
+  "timestamp": "2026-09-01T17:53:17.520624777Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 70,
+  "translation": "Onların öz utanclarının dibinə qayıtsınlar — deyənlər kimi: 'Həəh, həəh!'",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "qayıtsınlar"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "dibinə (daban)"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "onların utancının"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "deyənlər"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Həəh"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Həəh"
+    }
+  ],
+  "timestamp": "2026-09-01T15:22:43.714277930Z",
+  "model": "glm-5.3"
+}

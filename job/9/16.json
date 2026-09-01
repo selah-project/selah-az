@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 9:16",
+  "book": "job",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Əgər çağırsam və ⟨o⟩ mənə cavab versə belə, səsimə qulaq asdığına inanmaram.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "çağırsam"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "cavab versə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "אאמין",
+      "gloss": "inanmaram"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "qulaq asdığına"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "səsimə"
+    }
+  ],
+  "timestamp": "2026-09-01T16:05:41.690710916Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 35:7",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "və Seir dağını ⟨את⟩ viranə və heyranedici edəcəyəm, və oradan ötüb-keçəni və qayıdanı kəsəcəyəm.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "və edəcəyəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seir dağını"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dağını"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "viranə"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "heyranedici"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "və kəsəcəyəm"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "oradan"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ötüb-keçəni"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "qayıdanı"
+    }
+  ],
+  "timestamp": "2026-09-01T14:24:44.645375634Z",
+  "model": "glm-5.3"
+}

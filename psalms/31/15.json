@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "Mən isə Sənə ümid etdim, ey Yahve; dedim: Mənim Elohimim Sənsən.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "mən isə"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "Sənə"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ümid etdim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "dedim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Mənim Elohimim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sənsən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:09:06.016810768Z",
+  "model": "glm-5.3"
+}

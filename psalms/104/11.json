@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 104,
+  "translation": "Onlar sahənin bütün heyvanlarını suvarırlar, vəhşi eşşəklər susuzluqlarını yatırırlar.",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "suvarırlar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "heyvanlarını"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "sahənin"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "yatırırlar"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "vəhşi eşşəklər"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "susuzluqlarını"
+    }
+  ],
+  "timestamp": "2026-09-01T15:33:25.740300251Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 8:2",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Mənə fəryad edəcəklər: «Ey Elohimim, biz — İsrail — səni tanıyırıq!»",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "Mənə"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "fəryad edəcəklər"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    },
+    {
+      "surface": "ידענוך",
+      "gloss": "səni tanıyırıq"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    }
+  ],
+  "timestamp": "2026-09-01T14:37:09.705549208Z",
+  "model": "glm-5.3"
+}

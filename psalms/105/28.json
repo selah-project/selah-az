@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 105,
+  "translation": "Qaranlığı göndərdi və qaranlıq etdi, və onlar onun sözünə qarşı üsyan etmədilər ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "göndərdi"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "qaranlığı"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "və qaranlıq etdi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... etmədilər"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "üsyan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onun sözünə"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "onun sözünə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:31.822688777Z",
+  "model": "glm-5.3"
+}

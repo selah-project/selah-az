@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 110,
+  "translation": "Adonay ⟨sənin⟩ sağ əlindədir, onun qəzəbi günündə padşahları əzəcək.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "על",
+      "gloss": "yanında"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "sağ əlin"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "əzəcək"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "günündə"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "qəzəbi"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "padşahları"
+    }
+  ],
+  "timestamp": "2026-09-01T15:37:37.223321275Z",
+  "model": "glm-5.3"
+}

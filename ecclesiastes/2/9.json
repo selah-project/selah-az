@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 2:9",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Mən böyüdüm və məndən əvvəl Yeruşalayimdə olan hər kəsdən artıq oldum; hətta müdrikliyim də mənim yanımda qaldı.",
+  "tokens": [
+    {
+      "surface": "וגדלתי",
+      "gloss": "böyüdüm"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "artıq oldum"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "hər kəsdən"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "olan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "məndən əvvəl"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yeruşalayimdə"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hətta"
+    },
+    {
+      "surface": "חכמתי",
+      "gloss": "müdrikliyim"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "qaldı"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənim yanımda"
+    }
+  ],
+  "timestamp": "2026-09-01T16:29:27.754282431Z",
+  "model": "glm-5.3"
+}

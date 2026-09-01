@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 19:35",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Və həmin gecə də atalarına ⟨את⟩ şərab içirdiblər, kiçik qız qalxdı və onunla yatırdı, o isə onun yatışını da, qalxışını da bilmədi.",
+  "tokens": [
+    {
+      "surface": "ותשקין",
+      "gloss": "içirdilər"
+    },
+    {
+      "surface": "גם",
+      "gloss": "də"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "gecə"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "həmin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ataları"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "ataları"
+    },
+    {
+      "surface": "יין",
+      "gloss": "şərab"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "qalxdı"
+    },
+    {
+      "surface": "הצעירה",
+      "gloss": "kiçik qız"
+    },
+    {
+      "surface": "ותשכב",
+      "gloss": "yatdı"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və... yox"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilmədi"
+    },
+    {
+      "surface": "בשכבה",
+      "gloss": "yatışında"
+    },
+    {
+      "surface": "ובקמה",
+      "gloss": "və qalxışında"
+    }
+  ],
+  "timestamp": "2026-09-01T09:51:18.009877658Z",
+  "model": "glm-5.3"
+}

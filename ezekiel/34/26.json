@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 34:26",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 34,
+  "translation": "Və təpəmin ətrafındakı ⟨sahələri⟩ onlar üçün ⟨ Alleph-tav yoxdur ⟩ bərəkət edəcəyəm və yağışı vaxtında endirəcəyəm, bərəkət yağışları olacaq.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "və verəcəyəm"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "onlar (və təpəmin ətrafı)"
+    },
+    {
+      "surface": "וסביבות",
+      "gloss": "və ətraflar"
+    },
+    {
+      "surface": "גבעתי",
+      "gloss": "təpəmin"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "bərəkət"
+    },
+    {
+      "surface": "והורדתי",
+      "gloss": "və endirəcəyəm"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "yağışı"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "vaxtında"
+    },
+    {
+      "surface": "גשמי",
+      "gloss": "yağışlar"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "bərəkət"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "olacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T14:21:00.808739490Z",
+  "model": "glm-5.3"
+}

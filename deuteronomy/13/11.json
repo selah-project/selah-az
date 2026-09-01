@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 13:11",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Onu daşlarla daşla öldürəcəksən və o öləcək, çünki səni Yahve, Elohim-inin yanından uzaqlaşdırmağa çalışdı — o, səni Mitsrayim torpağından, qullar evindən çıxaran.",
+  "tokens": [
+    {
+      "surface": "וסקלתו",
+      "gloss": "onu daşla öldürəcəksən"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "daşlarla"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "və o öləcək"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "çalışdı"
+    },
+    {
+      "surface": "להדיחך",
+      "gloss": "səni uzaqlaşdırmağa"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "yanından"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-inin"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "çıxaran"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "torpağından"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "evindən"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "qullar"
+    }
+  ],
+  "timestamp": "2026-09-01T10:50:20.932209496Z",
+  "model": "glm-5.3"
+}

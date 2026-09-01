@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 6:9",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Və Elohim adamı Yisrayel kralına göndərdi, deyərək: Qorun, o yerdən keçmə, çünki orada Aramlılar eniblər.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "və göndərdi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "qorun"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "keçməkdən"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "yerdən"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "o"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramlılar"
+    },
+    {
+      "surface": "נחתים",
+      "gloss": "eniblər"
+    }
+  ],
+  "timestamp": "2026-09-01T12:31:21.392251561Z",
+  "model": "glm-5.3"
+}

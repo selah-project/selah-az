@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 11:27",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Bunlar Terahın nəsilləridir: Terah ⟨את⟩ Avramı, ⟨את⟩ Nahoru və ⟨את⟩ Haranı dünyaya gətirdi, və Haran ⟨את⟩ Lutu dünyaya gətirdi.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Bunlar"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "nəsilləri"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terahın"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dünyaya gətirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avramı"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahoru"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Haranı"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "והרן",
+      "gloss": "və Haran"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dünyaya gətirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lutu"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    }
+  ],
+  "timestamp": "2026-09-01T09:48:31.941984699Z",
+  "model": "glm-5.3"
+}

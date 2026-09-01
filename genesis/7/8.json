@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 7:8",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Təmiz heyvanlardan, və təmiz olmayan heyvanlardan, və quşlardan, və yer üzündə sürünən hər şeydən.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "heyvan"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "təmiz"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "və -dan"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "heyvan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "איננה",
+      "gloss": "deyil"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "təmiz"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "və -dan"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "quş"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "və hər"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "sürünən"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzündə"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-09-01T09:47:16.222103586Z",
+  "model": "glm-5.3"
+}

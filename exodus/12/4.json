@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 12:4",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Əgər ev quzuya ⟨çatmağa⟩ çox kiçikdirsə, o və evinə yaxın olan qonşusu canların sayına görə, hər kəs öz yeməyinə görə quzu üçün ⟨sayımı⟩ etsin.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "çox kiçikdirsə"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "מהית",
+      "gloss": "⟨çatmağa⟩ olmağa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "quzudan"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "götürsün"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ושכנו",
+      "gloss": "və qonşusu"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "yaxın olan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "evinə"
+    },
+    {
+      "surface": "במכסת",
+      "gloss": "sayına görə"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "canların"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər kəs"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "-ə görə"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "öz yeməyinə"
+    },
+    {
+      "surface": "תכסו",
+      "gloss": "sayım etsin"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ü üçün"
+    },
+    {
+      "surface": "השה",
+      "gloss": "quzu"
+    }
+  ],
+  "timestamp": "2026-09-01T10:08:14.475044604Z",
+  "model": "glm-5.3"
+}

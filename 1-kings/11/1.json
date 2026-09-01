@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Və kral Şelomo bir çox yad qadınları sevgilədi — Paronun qızını ⟨את⟩, Moab qadınlarını, Ammon qadınlarını, Edom qadınlarını, Sidon qadınlarını, Het qadınlarını.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "və kral"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "sevgilədi"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "qadınları"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "yad"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "bir çox"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Paronun qızını"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qızını"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "Moab qadınlarını"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "Ammon qadınlarını"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "Edom qadınlarını"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "Sidon qadınlarını"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "Het qadınlarını"
+    }
+  ],
+  "timestamp": "2026-09-01T12:20:31.221848183Z",
+  "model": "glm-5.3"
+}

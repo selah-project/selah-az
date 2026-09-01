@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 101:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 101,
+  "translation": "Səhər-səhər ölkənin bütün şər əməllilərini məhv edəcəyəm — Yahvenin şəhərindən bütün fəsad törədənləri kəsib atmaq üçün.",
+  "tokens": [
+    {
+      "surface": "לבקרים",
+      "gloss": "səhər-səhər"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "məhv edəcəyəm"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "şər əməllilərini"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ölkənin"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "kəsib atmaq üçün"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "şəhərindən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "törədənləri"
+    },
+    {
+      "surface": "און",
+      "gloss": "fəsad"
+    }
+  ],
+  "timestamp": "2026-09-01T15:35:05.743286166Z",
+  "model": "glm-5.3"
+}

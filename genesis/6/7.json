@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 6:7",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Yahve dedi: insanı siləcəyəm ⟨את⟩, yaratdığım ⟨את⟩ torpağın üzündən — insandan heyvanədək, sürünənədək və göylərin quşunadək; çünki peşman oldum ki, onları etdim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "siləcəyəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "insanı"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insanı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yaratdığım"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "⟨yaratdığım⟩"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "üzündən"
+    },
+    {
+      "surface": "פני",
+      "gloss": "üzünün"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "torpağın"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "insandan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "...ədək"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "heyvanədək"
+    },
+    {
+      "surface": "עד",
+      "gloss": "...ədək"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "sürünənədək"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "və ...ədək"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "quşunadək"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göylərin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "peşman oldum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "etdim"
+    }
+  ],
+  "timestamp": "2026-09-01T09:47:33.046135558Z",
+  "model": "glm-5.3"
+}

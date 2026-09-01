@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 14:7",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "O, Edomu Duz vadisində — on min ⟨nəfər⟩ — vurdu və müharibədə ⟨את⟩ Selanı tutdu və adına Yokteel dedi, bu günə qədər.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "vurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edomu"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "vadisində"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "Duz"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "on"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "min"
+    },
+    {
+      "surface": "ותפש",
+      "gloss": "və tutdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Selanı"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "Selanı"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "müharibədə"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adına"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "adına"
+    },
+    {
+      "surface": "יקתאל",
+      "gloss": "Yokteel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bu günə"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-09-01T17:35:15.355274683Z",
+  "model": "glm-5.3"
+}

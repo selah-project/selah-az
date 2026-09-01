@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "habakkuk 2:13",
+  "book": "habakkuk",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Məgər bax, ⟨mənşə⟩ Yahve Səbaotdan deyilmi? Xalqlar atəş üçün yorulacaq, millətlər isə boş şey üçün tükənəcəklər.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "məgər... deyilmi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩-dən",
+      "marks": "Yahve Səbaotdan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Səbaot"
+    },
+    {
+      "surface": "וייגעו",
+      "gloss": "yorulacaq"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "üçün"
+    },
+    {
+      "surface": "אש",
+      "gloss": "atəş"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "millətlər isə"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "üçün"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "boş şey"
+    },
+    {
+      "surface": "יעפו",
+      "gloss": "tükənəcəklər"
+    }
+  ],
+  "timestamp": "2026-09-01T14:50:06.390174434Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 43:28",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 43,
+  "translation": "Mən müqəddəsliyin sərlərini murdarladım və Yaqovu ⟨məhvə⟩ təslim etdim, İsraili isə tənələrə.",
+  "tokens": [
+    {
+      "surface": "ואחלל",
+      "gloss": "murdarladım"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "sərlərini"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "müqəddəsliyin"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "təslim etdim"
+    },
+    {
+      "surface": "לחרם",
+      "gloss": "məhvə"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqovu"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "İsraili"
+    },
+    {
+      "surface": "לגדופים",
+      "gloss": "tənələrə"
+    }
+  ],
+  "timestamp": "2026-09-01T17:59:58.807686491Z",
+  "model": "glm-5.3"
+}

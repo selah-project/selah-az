@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 41:52",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 41,
+  "translation": "Və ikincinin adına ⟨את⟩ Efrayim adını qoydu, çünki Elohim məni əzimliyim torpağında bərəkətli etdi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "ad"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adını"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikincinin"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "qoydu"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "הפרני",
+      "gloss": "məni bərəkətli etdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "torpağında"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "əzimliyim"
+    }
+  ],
+  "timestamp": "2026-09-01T10:00:18.573334788Z",
+  "model": "glm-5.3"
+}

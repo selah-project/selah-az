@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Öz davasını ⟨את⟩ dostunla çək, və başqasının sirrini açma.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "öz davasını"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "çək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dostun"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "dostun"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "və sirrini"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "başqasının"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "açma"
+    }
+  ],
+  "timestamp": "2026-09-01T15:57:52.326816905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "Nə ⟨deyim⟩, oğlum? və nə, bətnimin oğlu? və nə, andlarımın oğlu?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "oğlum"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "və nə"
+    },
+    {
+      "surface": "בר",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "bətnimin"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "və nə"
+    },
+    {
+      "surface": "בר",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "andlarımın"
+    }
+  ],
+  "timestamp": "2026-09-01T16:01:49.035999688Z",
+  "model": "glm-5.3"
+}

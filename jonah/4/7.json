@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 4:7",
+  "book": "jonah",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Amma Elohim sübh açılan zaman bir qurd təyin etdi ⟨ertəsi gün⟩ və o, ⟨את⟩ qıqayonu vurdu, və o qurudu.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "təyin etdi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "qurd"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "sübh açılan zaman"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "sübh"
+    },
+    {
+      "surface": "למחרת",
+      "gloss": "ertəsi gün"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "vurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qıqayon"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "qıqayon"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "qurudu"
+    }
+  ],
+  "timestamp": "2026-09-01T14:46:46.121550495Z",
+  "model": "glm-5.3"
+}

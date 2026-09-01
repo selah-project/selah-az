@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 30:28",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "və ⟨את⟩ yandırma qurbangahını və bütün ləvazimatlarını, ⟨את⟩ çəni və onun ⟨את⟩ təməlini",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yandırma qurbangahını"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "qurbangah"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yandırma (qurbanı)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bütün ləvazimatlarını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ləvazimatlarını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "çəni"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "çən"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "təməlini"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "təməlini"
+    }
+  ],
+  "timestamp": "2026-09-01T17:56:01.154615877Z",
+  "model": "glm-5.3"
+}

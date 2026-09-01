@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 31:13",
+  "book": "1-samuel",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "Sümüklərini götürdülər və Yaveşdə ərşin ağacının altında dəfn etdilər və yeddi gün oruc tutdular.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "götürdülər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sümüklərini"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "sümüklərini"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "dəfn etdilər"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "האשל",
+      "gloss": "ərşin ağacı"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "Yaveşdə"
+    },
+    {
+      "surface": "ויצמו",
+      "gloss": "oruc tutdular"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "yeddi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    }
+  ],
+  "timestamp": "2026-09-01T11:49:43.709074547Z",
+  "model": "glm-5.3"
+}

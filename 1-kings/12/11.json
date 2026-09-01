@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 12:11",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "İndi isə atam sizin üstünüzə ağır boyunduruq yüklədi, mən isə sizin boyunduruğunuzun üstünə artıracağam: atam sizi ⟨את⟩ qamçılarla tərbiyə etdi, mən isə sizi ⟨את⟩ əqrəblərlə tərbiyə edəcəyəm.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "və indi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atam"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "yüklədi"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sizin üstünüzə"
+    },
+    {
+      "surface": "על",
+      "gloss": "boyunduruq"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ağır"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mən isə"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "artıracağam"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "boyunduruğunuzun"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atam"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "tərbiyə etdi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "sizi"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "qamçılarla"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mən isə"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "tərbiyə edəcəyəm"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "sizi"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "əqrəblərlə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:19:31.239428693Z",
+  "model": "glm-5.3"
+}

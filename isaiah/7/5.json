@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 7:5",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Çünki Aram, Efrayim və Remalyahunun oğlu sənə qarşı şər məsləhətləşib, deyərək:",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ki⟩"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "məsləhətləşib"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sənə qarşı"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "şər"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "və oğlu"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remalyahu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    }
+  ],
+  "timestamp": "2026-09-01T12:47:44.421353317Z",
+  "model": "glm-5.3"
+}

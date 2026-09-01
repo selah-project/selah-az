@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Altı il tarlanı əkacaqsan, altı il bağını budayacaqsan və məhsulunu ⟨את⟩ yığacaqsan.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "Altı"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "il"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "əkacaqsan"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "tarlanı"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "və altı"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "il"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "budayacaqsan"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "bağını"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "və yığacaqsan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "məhsulunu"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "məhsulunu"
+    }
+  ],
+  "timestamp": "2026-09-01T10:31:06.994688141Z",
+  "model": "glm-5.3"
+}

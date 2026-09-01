@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 2:16",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və kahin onun xatirə hissəsini ⟨את⟩ — dövülmüş dənindən və yağından, bütün ləvonası ilə — tüstü kimi qaldıracaq, od təqdməsi kimi Yahveyə.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "və tüstü kimi qaldıracaq"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onun xatirə hissəsi"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "onun xatirə hissəsini"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dövülmüş dənindən"
+    },
+    {
+      "surface": "ומשמנה",
+      "gloss": "və yağından"
+    },
+    {
+      "surface": "על",
+      "gloss": "ilə \/ üzərinə"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "לבנתה",
+      "gloss": "ləvonası"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "od təqdməsi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:22:45.100430821Z",
+  "model": "glm-5.3"
+}

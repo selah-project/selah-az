@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 137,
+  "translation": "Onun ortasındakı söyüdlərdə kinorlarımızı asdıq.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "üzerində"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "söyüdlərdə"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "onun ortasında"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "asdıq"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "kinorlarımızı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:44:57.128551328Z",
+  "model": "glm-5.3"
+}

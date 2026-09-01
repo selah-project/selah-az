@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 135,
+  "translation": "Tərif deyin Yah-a! Tərif deyin ⟨את⟩ Yahvenin adına! Tərif deyin, ey Yahvenin qulları!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Tərif deyin"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Tərif deyin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahvenin adı"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Tərif deyin"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "qulları"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:43:17.632479044Z",
+  "model": "glm-5.3"
+}

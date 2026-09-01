@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və bilin ki, Yahve hasidi özünə ayırdı; Yahve mən Ona çağırdığımda eşidəcək.",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "və bilin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "ayırdı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "hasidi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "özünə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "eşidəcək"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "çağırdığımda"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "Ona"
+    }
+  ],
+  "timestamp": "2026-09-01T17:41:31.164729362Z",
+  "model": "glm-5.3"
+}

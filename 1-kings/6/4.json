@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 6:4",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Və ⟨ev⟩ üçün bərkidilmiş, dar pəncərəli şəkildə pəncərələr düzəltdi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "və düzəltdi"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "⟨ev⟩ üçün"
+    },
+    {
+      "surface": "חלוני",
+      "gloss": "pəncərələr"
+    },
+    {
+      "surface": "שקפים",
+      "gloss": "dar pəncərəli"
+    },
+    {
+      "surface": "אטמים",
+      "gloss": "bərkidilmiş"
+    }
+  ],
+  "timestamp": "2026-09-01T17:34:25.628075721Z",
+  "model": "glm-5.3"
+}

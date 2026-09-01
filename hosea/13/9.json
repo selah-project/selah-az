@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 13:9",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Məhv etdin özünü, İsrail, çünki ⟨Məndədir⟩ sənin köməyin.",
+  "tokens": [
+    {
+      "surface": "שִֽׁחֶתְךָ",
+      "gloss": "məhv etdin özünü"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "בִּי",
+      "gloss": "Məndə"
+    },
+    {
+      "surface": "בְּעֶזְרֶךָ",
+      "gloss": "sənin köməyin"
+    }
+  ],
+  "timestamp": "2026-09-01T17:40:42.031840236Z",
+  "model": "glm-5.3"
+}

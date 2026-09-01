@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "çünki onu işi görənlərə verirdilər və onunla Yahvenin evini ⟨את⟩ möhkəmləndirirdilər.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "görənlərə"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "işi"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "onu verirdilər"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "möhkəmləndirirdilər"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahvenin evini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    }
+  ],
+  "timestamp": "2026-09-01T12:36:47.007989901Z",
+  "model": "glm-5.3"
+}

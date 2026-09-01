@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Onu vuranlara vurduğu kimi mi vurdu onu? Yoxsa öldürülənləri öldürüldüyü kimi mi öldürdü?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "kimi mi vurdu"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "onu vuranlara"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "vurdu onu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoxsa"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "öldürüldüyü kimi"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "öldürülənləri"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "öldürdü"
+    }
+  ],
+  "timestamp": "2026-09-01T12:57:54.137351244Z",
+  "model": "glm-5.3"
+}

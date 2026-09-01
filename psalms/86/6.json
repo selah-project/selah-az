@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 86:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 86,
+  "translation": "Qulaq as, Yahve, duamı, və dinlə yalvarışlarımın səsini.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "qulaq as"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "duamı"
+    },
+    {
+      "surface": "והקשיבה",
+      "gloss": "və dinlə"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "səsini"
+    },
+    {
+      "surface": "תחנונותי",
+      "gloss": "yalvarışlarımın"
+    }
+  ],
+  "timestamp": "2026-09-01T15:30:14.148369227Z",
+  "model": "glm-5.3"
+}

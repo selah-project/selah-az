@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 5:16",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Və Yahve Sevaot məhkəmədə ucaldı, və müqəddəs El səlahiyyətdə müqəddəsləşdi.",
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "ucaldı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sevaot"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "məhkəmədə"
+    },
+    {
+      "surface": "והאל",
+      "gloss": "və El"
+    },
+    {
+      "surface": "הקדוש",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "נקדש",
+      "gloss": "müqəddəsləşdi"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "səlahiyyətdə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:49:00.982808893Z",
+  "model": "glm-5.3"
+}

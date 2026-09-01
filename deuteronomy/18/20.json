@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 18:20",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Amma adımla danışmağa cürət edərək buyurmamışam ki danışsın, söz danışan, yaxud başqa tanrıların adı ilə danışan peyğəmbər — o peyğəmbər ölümlə öləcək.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "amma"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "peyğəmbər"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יזיד",
+      "gloss": "cürət edərək"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "danışmağa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "söz"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "adımla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buyurmamışam olduğumu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "צויתיו",
+      "gloss": "buyurmamışam"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "danışmağa"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "və ki"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "danışan"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "adı ilə"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tanrıların"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "başqa"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "öləcək"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "peyğəmbər"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-09-01T10:51:54.247607245Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 13:1",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Efrayim danışanda titrəmə ⟨idi⟩; o Yisraeldə yüksəldi, amma Baal ilə günah etdi və öldü.",
+  "tokens": [
+    {
+      "surface": "כדבר",
+      "gloss": "danışanda"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "רתת",
+      "gloss": "titrəmə"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "yüksəldi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Yisraeldə"
+    },
+    {
+      "surface": "ויאשם",
+      "gloss": "günah etdi"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "Baal ilə"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "öldü"
+    }
+  ],
+  "timestamp": "2026-09-01T14:38:27.122790415Z",
+  "model": "glm-5.3"
+}

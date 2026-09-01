@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 7:6",
+  "book": "zechariah",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Və yedikdə, və içdikdə — yeməyinizi yeyən siz deyilsinizmi, içən də siz deyilsinizmi?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "və ...-də"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yedikdə"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "və ...-də"
+    },
+    {
+      "surface": "תשתו",
+      "gloss": "içdikdə"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "⟨məgər⟩ ... deyil"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "yeyənlər"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "və siz"
+    },
+    {
+      "surface": "השתים",
+      "gloss": "içənlər"
+    }
+  ],
+  "timestamp": "2026-09-01T14:55:24.648941819Z",
+  "model": "glm-5.3"
+}

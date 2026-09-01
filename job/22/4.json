@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 22:4",
+  "book": "job",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Sənin qorxundanmı o səni mühakimə edəcək, səninlə məhkəməyə gələcək?",
+  "tokens": [
+    {
+      "surface": "המיראתך",
+      "gloss": "sənin qorxundanmı"
+    },
+    {
+      "surface": "יכיחך",
+      "gloss": "səni mühakimə edəcək"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "gələcək"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "səninlə"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "məhkəməyə"
+    }
+  ],
+  "timestamp": "2026-09-01T16:12:09.432472331Z",
+  "model": "glm-5.3"
+}

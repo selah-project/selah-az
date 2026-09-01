@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Davuda məxsus məzmur. Yahvenindir ⟨dir⟩ yer və onun doluluğu, dünya və onda yaşayanlar.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davuda məxsus"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "məzmur"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvenindir"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "və onun doluluğu"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dünya"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "və yaşayanları"
+    },
+    {
+      "surface": "בה",
+      "gloss": "onda"
+    }
+  ],
+  "timestamp": "2026-09-01T15:09:14.823548295Z",
+  "model": "glm-5.3"
+}

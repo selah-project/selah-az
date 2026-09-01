@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 21:4",
+  "book": "job",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Məgər mənim şikayətim insanadır? və əgər ⟨belədirsə⟩, nə üçün ruhum qısalmasın?",
+  "tokens": [
+    {
+      "surface": "האנכי",
+      "gloss": "məgər mənim"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "insanadır"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "şikayətim"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "nə üçün"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תקצר",
+      "gloss": "qısalmasın"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruhum"
+    }
+  ],
+  "timestamp": "2026-09-01T16:11:39.761936211Z",
+  "model": "glm-5.3"
+}

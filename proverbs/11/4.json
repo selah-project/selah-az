@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 11:4",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Sərvət qəzəb günündə fayda verməz, ədalət isə ölümdən qurtarar.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "fayda verməz"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "fayda"
+    },
+    {
+      "surface": "הון",
+      "gloss": "sərvət"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "günündə"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "qəzəb"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ədalət"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "qurtarar"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ölümdən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:52:40.629796820Z",
+  "model": "glm-5.3"
+}

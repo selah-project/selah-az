@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 45,
+  "translation": "Mən Yahve-am və başqa yoxdur; məndən başqa Elohim yoxdur; mən səni kəndirlə bağladım, sənsə məni tanımadın.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "və yoxdur"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "başqa"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "məndən başqa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "mən səni kəndirlə bağladım"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "isə ... -madın"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "məni tanımadın"
+    }
+  ],
+  "timestamp": "2026-09-01T13:11:20.653799946Z",
+  "model": "glm-5.3"
+}

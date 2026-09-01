@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 16:31",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "İsrail evi onun adını Man adlandırdı; o, kişmiş toxumu kimidir, ağ, dadı isə baldan yoğrulmuş çörək kimidir.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "adlandırdı"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onun adını"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "onun adını"
+    },
+    {
+      "surface": "מן",
+      "gloss": "Man"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "toxumu kimidir"
+    },
+    {
+      "surface": "גד",
+      "gloss": "kişmiş"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ağ"
+    },
+    {
+      "surface": "וטעמו",
+      "gloss": "dadı isə"
+    },
+    {
+      "surface": "כצפיחת",
+      "gloss": "çörək kimidir"
+    },
+    {
+      "surface": "בדבש",
+      "gloss": "bal ilə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:10:50.142862523Z",
+  "model": "glm-5.3"
+}

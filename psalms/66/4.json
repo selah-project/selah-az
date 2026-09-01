@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 66,
+  "translation": "Bütün yer Sənə səcdə edəcək, Sənə çalacaq, Adına çalacaq. Selah.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "səcdə edəcək"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Sənə"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "çalacaq"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Sənə"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "çalacaq"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Adına"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T15:21:15.939389272Z",
+  "model": "glm-5.3"
+}

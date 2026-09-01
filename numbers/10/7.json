@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Yığıncağı ⟨את⟩ yığıncağı toplamaq istədiyinizdə çalacaqsınız, amma terua çalmayacaqsınız.",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "topladıqda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yığıncağı"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "yığıncağı"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "çalacaqsınız"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma yox"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "terua çalmayacaqsınız"
+    }
+  ],
+  "timestamp": "2026-09-01T10:36:05.040523766Z",
+  "model": "glm-5.3"
+}

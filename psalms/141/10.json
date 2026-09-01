@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 141,
+  "translation": "Pis işlər sahibləri öz torlarına düşsünlər, ⟨mən isə⟩ keçənə qədər.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "düşsünlər"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "öz torlarına"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "pis işlər sahibləri"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "birlikdə"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mən"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "keçənə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:44:02.652590801Z",
+  "model": "glm-5.3"
+}

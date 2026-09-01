@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 103,
+  "translation": "Əbədilik üçün mübahisə etməyəcək, nə də əbədi olaraq ⟨qəzəbini⟩ saxlayacaq.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "əbədilik üçün"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "mübahisə edəcək"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədi olaraq"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "saxlayacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:33:56.205938903Z",
+  "model": "glm-5.3"
+}

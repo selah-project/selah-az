@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "Və burnt-offering altarını ⟨את⟩ görüş çadırının, məskənin girişinin önünə qoyacaqsan.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "qoyacaqsan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yanğa altarı"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yanğa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünə"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "girişinin"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "məskənin"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadırının"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "görüş"
+    }
+  ],
+  "timestamp": "2026-09-01T10:22:06.133199818Z",
+  "model": "glm-5.3"
+}

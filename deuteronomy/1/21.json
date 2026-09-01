@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 1:21",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Bax, Yahve, sənin Elohimin ⟨את⟩ torpağı sifətinin önünə qoydu; çıx, onu miras al, necə ki Yahve, atalarının Elohimi sənə demişdir; qorxma və həvəslənmə ⟨yox⟩.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Bax"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "qoydu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sənin Elohimin"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sifətinin önünə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "torpağı"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "torpağı"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "çıx"
+    },
+    {
+      "surface": "רש",
+      "gloss": "miras al"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "necə ki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "demişdir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "atarının"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "אל",
+      "gloss": "qorxma (əmr inkarı)"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "qorxma"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və ⟨yox⟩"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "həvəslənmə ⟨yox⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T10:45:57.933473819Z",
+  "model": "glm-5.3"
+}

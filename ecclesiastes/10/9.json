@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Daşları yerindən tərpədən onlardan zədələnər; odunları yaran onlarda təhlükəyə düşər.",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "yerindən tərpədən"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "daşları"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "zədələnər"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onlardan"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "yaran"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "odunları"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "təhlükəyə düşər"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onlarda"
+    }
+  ],
+  "timestamp": "2026-09-01T16:31:15.111757849Z",
+  "model": "glm-5.3"
+}

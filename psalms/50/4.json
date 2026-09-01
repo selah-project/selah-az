@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 50,
+  "translation": "Yuxarıdakı göylərə və yerə çağıracaq, öz xalqını mühakimə etmək üçün.",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "çağıracaq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göylərə"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "yuxarıdakı"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və -a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerə"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "mühakimə etmək üçün"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "öz xalqını"
+    }
+  ],
+  "timestamp": "2026-09-01T15:17:10.603571493Z",
+  "model": "glm-5.3"
+}

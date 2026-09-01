@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 12:16",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Və onun sayəyində Avrama yaxşı davrandı; və onun üçün qoyun, inəklər,erkək eşşəklər,qullar, kənizlər, dişi eşşəklər və dəvələr oldu.",
+  "tokens": [
+    {
+      "surface": "ולאברם",
+      "gloss": "və Avrama"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "yaxşı davrandı"
+    },
+    {
+      "surface": "בעבורה",
+      "gloss": "onun sayəyində"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "və oldu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onun üçün"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "qoyun"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "inəklər"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "erkək eşşəklər"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "qullar"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "kənizlər"
+    },
+    {
+      "surface": "ואתנת",
+      "gloss": "dişi eşşəklər"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "və dəvələr"
+    }
+  ],
+  "timestamp": "2026-09-01T09:48:47.252352546Z",
+  "model": "glm-5.3"
+}

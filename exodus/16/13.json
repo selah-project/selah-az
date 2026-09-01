@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 16:13",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Və axşam oldu, və bildirçinlər qalxdı və ⟨את⟩ düşərgəni örtdü; səhər isə şiyin ətrafında şeh qatı ⟨idi⟩ düşərgənin ⟨ətrafında⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "və oldu"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "axşam"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "və qalxdı"
+    },
+    {
+      "surface": "השלו",
+      "gloss": "bildirçinlər"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "və örtdü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "düşərgəni"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "düşərgəni"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "və səhər"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "idi"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "qatı"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "şeh"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ətrafında"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "düşərgənin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:11:54.616533361Z",
+  "model": "glm-5.3"
+}

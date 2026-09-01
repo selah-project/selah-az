@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 15:25",
+  "book": "2-samuel",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Və padşah Tsadoka dedi: Elohim sandığını şəhərə qaytar; əgər Yahvenin gözündə lütf tapsam, O məni geri qaytaracaq və mənə onu və onun məskənini göstərəcək.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "לצדוק",
+      "gloss": "Tsadoka"
+    },
+    {
+      "surface": "השב",
+      "gloss": "qaytar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandığı"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandığın"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şəhərə"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "tapsam"
+    },
+    {
+      "surface": "חן",
+      "gloss": "lütf"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "gözündə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "והשבני",
+      "gloss": "və O məni geri qaytaracaq"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "və mənə göstərəcək"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ və",
+      "marks": "onun məskənini"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "məskənini"
+    }
+  ],
+  "timestamp": "2026-09-01T12:01:21.043554160Z",
+  "model": "glm-5.3"
+}

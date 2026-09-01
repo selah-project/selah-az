@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 128,
+  "translation": "Məqam nəğməsi. Nə xoşbəxtdir hər kəs ki, Yahvedən qorxur, Onun yollarında gəzir.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "nəğməsi"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "məqam"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "nə xoşbəxtdir"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər kəs"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "qorxur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "gəzir"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "yollarında"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:44.462219560Z",
+  "model": "glm-5.3"
+}

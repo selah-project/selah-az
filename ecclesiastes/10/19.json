@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 10:19",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Gülmək üçün ziyafət düzəldirlər, və şərab ⟨…⟩ canı sevindirir, və pul ⟨את⟩ hər şeyi cavablandırır.",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "gülmək üçün"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "düzəldirlər"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "çörək (ziyafət)"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "və şərab"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "sevindirir"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "canı"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "və pul"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "cavablandırır"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hər şeyi"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "hər şeyi"
+    }
+  ],
+  "timestamp": "2026-09-01T16:31:41.865459077Z",
+  "model": "glm-5.3"
+}

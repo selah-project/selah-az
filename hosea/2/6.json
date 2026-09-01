@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və onun oğullarına ⟨את⟩ rəhm etməyəcəyəm, çünki onlar zina oğullarıdır ⟨onlar⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "onun oğullarına"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "onun oğullarına"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "rəhm edəcəyəm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "zinanın"
+    },
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    }
+  ],
+  "timestamp": "2026-09-01T14:34:33.780952839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 15:33",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Onu odun yığarkən tapmış olanlar ⟨את⟩ onu Moşenin yanına, Ahronun yanına və bütün cəmiyyətin yanına gətirdilər.",
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "gətirdilər"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu (odun yığan adamı)"
+    },
+    {
+      "surface": "המצאים",
+      "gloss": "tapanlar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu (odun yığan adamı)"
+    },
+    {
+      "surface": "מקשש",
+      "gloss": "yığarkən"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "odun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və yanına"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahron"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və yanına"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "cəmiyyət"
+    }
+  ],
+  "timestamp": "2026-09-01T10:38:33.046137621Z",
+  "model": "glm-5.3"
+}

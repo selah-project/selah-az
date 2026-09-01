@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 17:3",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "və gedib başqa tanrılara xidmət etsə, onlara səcdə etsə — günəşə, və ya aya, və ya göylərin bütün ordusuna — mən bunları əmr etməmişəm —",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "və getsə"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "xidmət etsə"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tanrılara"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "başqa"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "səcdə etsə"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "ולשמש",
+      "gloss": "günəşə"
+    },
+    {
+      "surface": "או",
+      "gloss": "və ya"
+    },
+    {
+      "surface": "לירח",
+      "gloss": "aya"
+    },
+    {
+      "surface": "או",
+      "gloss": "və ya"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ordusuna"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göylərin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-mə"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "əmr etmişəm"
+    }
+  ],
+  "timestamp": "2026-09-01T10:52:38.794273802Z",
+  "model": "glm-5.3"
+}

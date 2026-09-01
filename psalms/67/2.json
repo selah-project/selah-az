@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 67,
+  "translation": "Elohim bizə lütf etsin və bizi xeyir-dua versin, üzünün işığı ⟨את⟩ bizimlə parlasın. Səlah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "bizə lütf etsin"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "və bizi xeyir-dua versin"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "işıqlatsın"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "üzünün"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ bizimlə"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Səlah"
+    }
+  ],
+  "timestamp": "2026-09-01T17:42:36.143818262Z",
+  "model": "glm-5.3"
+}

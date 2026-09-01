@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 2:10",
+  "book": "amos",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və mən sizi Mitsrayim torpağından çıxardım və sizi çöldə qırx il apardım ki, Emori torpağını miras alasınız.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "və mən"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "çıxardım"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "sizi"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "torpağından"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "və apardım"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "sizi"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "çöldə"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "qırx"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "il"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "miras almaq üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Emori torpağını"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "torpağını"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emori"
+    }
+  ],
+  "timestamp": "2026-09-01T17:40:37.146101832Z",
+  "model": "glm-5.3"
+}

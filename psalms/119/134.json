@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 134,
+  "ref": "psalms 119:134",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Məni insan zülmündən azad et, və mən sənin əmrlərini saxlayacağam.",
+  "tokens": [
+    {
+      "surface": "פדני",
+      "gloss": "məni azad et"
+    },
+    {
+      "surface": "מעשק",
+      "gloss": "zülmündən"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "və saxlayacağam"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "sənin əmrlərini"
+    }
+  ],
+  "timestamp": "2026-09-01T15:41:05.665424600Z",
+  "model": "glm-5.3"
+}

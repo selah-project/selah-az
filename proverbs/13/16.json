@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 13:16",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Hər ehtiyatlı-ağıllı ⟨kəs⟩ biliklə iş görər, axmaq isə axmaqlığı açıq yayır.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "ehtiyatlı-ağıllı"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "iş görər"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "biliklə"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "axmaq isə"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "açıq yayır"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "axmaqlığı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:52:50.434499878Z",
+  "model": "glm-5.3"
+}

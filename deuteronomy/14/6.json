@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 14:6",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "və hər heyvan ki dırnağı yarır və dırnağı tam ikiyə yararaq dırnaq yarığı edir və cud çeynəyir — heyvanlar içində ⟨את⟩ o heyvanı yeyə bilərsiniz.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "və hər"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "heyvan"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "dırnağı yarır"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "dırnaq"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "və yararaq"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "yarıq"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iki"
+    },
+    {
+      "surface": "פרסות",
+      "gloss": "dırnaq"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "çeynəyir"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "cud"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "heyvanlar içində"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "o heyvanı"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yeyə bilərsiniz"
+    }
+  ],
+  "timestamp": "2026-09-01T10:51:27.158302858Z",
+  "model": "glm-5.3"
+}

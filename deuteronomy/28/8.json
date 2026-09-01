@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 28:8",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "Yahve səninlə ⟨את⟩ bərəkəti əmbərlərində və əlinin uzatdığı hər şeydə əmr edəcək, və səni mübarək edəcək — Yahve Elohiminin sənə verəcəyi ölkədə.",
+  "tokens": [
+    {
+      "surface": "יצו",
+      "gloss": "əmr edəcək"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ səninlə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bərəkəti"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "bərəkəti"
+    },
+    {
+      "surface": "באסמיך",
+      "gloss": "əmbərlərində"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "və hər"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "uzatdığı"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "əlinin"
+    },
+    {
+      "surface": "וברכך",
+      "gloss": "və səni mübarək edəcək"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ölkədə"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiminin"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verəcəyi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:55:56.156091890Z",
+  "model": "glm-5.3"
+}

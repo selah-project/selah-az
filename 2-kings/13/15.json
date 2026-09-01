@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 13:15",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Elişa ona dedi: Kamanı və oxları götür. O, ona kamanı və oxları götürdü.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elişa"
+    },
+    {
+      "surface": "קח",
+      "gloss": "götür"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "kamanı"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "və oxları"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "və götürdü"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "kamanı"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "və oxları"
+    }
+  ],
+  "timestamp": "2026-09-01T12:37:28.965194452Z",
+  "model": "glm-5.3"
+}

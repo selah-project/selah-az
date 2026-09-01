@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 39,
+  "translation": "Məzmur rəhbərinə, Yedutuna; Davudun məzmuru.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "məzmur rəhbərinə"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "Yedutuna"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "məzmuru"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davudun"
+    }
+  ],
+  "timestamp": "2026-09-01T15:14:11.205155222Z",
+  "model": "glm-5.3"
+}

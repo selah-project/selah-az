@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 118:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 118,
+  "translation": "Darlıqdan mən Yah-nı çağırdım, Yah məni genişlikdə cavablandırdı.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "המצר",
+      "gloss": "darlıq"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "çağırdım"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "məni cavablandırdı"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "genişlikdə"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:43.493974598Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 18:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Və ⟨o⟩ göyləri əydi və endi, qaranlıq ayaqlarının altında idi.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "əydi"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "göyləri"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "endi"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "qalın qaranlıq"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ayaqlarının"
+    }
+  ],
+  "timestamp": "2026-09-01T15:06:29.097844473Z",
+  "model": "glm-5.3"
+}

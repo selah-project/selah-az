@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 97,
+  "translation": "Bulud və qaranlıq ⟨onun⟩ ətrafındadır, salehlik və məhkəmə onun taxtının təməlidir.",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "bulud"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "və qaranlıq"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "onun ətrafında"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "salehlik"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "və məhkəmə"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "təməl"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "onun taxtı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:32:56.388198048Z",
+  "model": "glm-5.3"
+}

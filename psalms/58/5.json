@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 58,
+  "translation": "Onların zəhəri ilanın zəhəri kimidir, kar gürzə kimi ⟨onun⟩ qulağını bağlayar.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "zəhəri"
+    },
+    {
+      "surface": "למו",
+      "gloss": "onların"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "kimidir"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "zəhəri"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ilanın"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "gürzə"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "kar"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "bağlayar"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "qulağını"
+    }
+  ],
+  "timestamp": "2026-09-01T17:42:32.250086482Z",
+  "model": "glm-5.3"
+}

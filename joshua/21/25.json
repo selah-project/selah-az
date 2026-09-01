@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 21:25",
+  "book": "joshua",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Və Menaşşe tayfasının yarısından ⟨את⟩ Taanaxı və onun kənar sahələrini, ⟨את⟩ Gat-Rimmonu və onun kənar sahələrini — iki şəhər.",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "və yarısından"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tayfasının"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menaşşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Taanax"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "Taanax"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "onun kənar sahələri"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "onun kənar sahələri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "Gat-Rimmon"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimmon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "onun kənar sahələri"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "onun kənar sahələri"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "şəhər"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "iki"
+    }
+  ],
+  "timestamp": "2026-09-01T11:12:20.131574017Z",
+  "model": "glm-5.3"
+}

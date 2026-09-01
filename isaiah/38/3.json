@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 38:3",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 38,
+  "translation": "Və dedi: Ah, Yahve, xahiş edirəm, xatırla ⟨את⟩ ⟨o şeyləri ki⟩ sənin önüncə həqiqətlə və bütöv ürəklə gəzmişəm, və sənin gözündə yaxşı olanı etmişəm. Və Hizkiyahu böyük ağlayışla ağladı.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "xatırla"
+    },
+    {
+      "surface": "נא",
+      "gloss": "xahiş edirəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "o şeyləri ki (אשר — sənin önüncə gəzmişəm)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨o şeyləri ki⟩"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "gəzmişəm"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sənin önüncə"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "həqiqətlə"
+    },
+    {
+      "surface": "ובלב",
+      "gloss": "və ürəklə"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "bütöv"
+    },
+    {
+      "surface": "והטוב",
+      "gloss": "və yaxşı olanı"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "sənin gözündə"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "etmişəm"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "və ağladı"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "ağlayışla"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "böyük"
+    }
+  ],
+  "timestamp": "2026-09-01T13:03:59.089267144Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "Bərəkətli olsun Yahve, çünki O, hesedini (sadiq məhəbbətini) mənə qüsur şəhərində möcüzəvi dərəcədə göstərdi.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Bərəkətli olsun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "möcüzəvi dərəcədə göstərdi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedini"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "şəhərində"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "qüsur"
+    }
+  ],
+  "timestamp": "2026-09-01T15:10:48.577040706Z",
+  "model": "glm-5.3"
+}

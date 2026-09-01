@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 105:21",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 105,
+  "translation": "⟨Onu⟩ öz evinin ağası təyin etdi və bütün mülkünün hökmdarı ⟨etdi⟩.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "təyin etdi"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "ağa"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "öz evinin"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "və hökmdar"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "קנינו",
+      "gloss": "mülkünün"
+    }
+  ],
+  "timestamp": "2026-09-01T15:35:38.205410536Z",
+  "model": "glm-5.3"
+}

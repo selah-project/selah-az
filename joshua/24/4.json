@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 24:4",
+  "book": "joshua",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Və Yitsxaka ⟨את⟩ Yaqovu və ⟨את⟩ Esavı verdim, və Esava məskunlaşması üçün ⟨את⟩ Seyir dağını verdim; Yaqov və oğulları isə Mitsrayimə endilər.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "və verdim"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Yitsxaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaqovu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqovu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Esavı"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavı"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "və verdim"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Esava"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seyir dağını"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dağını"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seyir"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "məskunlaşması üçün"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ onu"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "Yaqov"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "və oğulları"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "endilər"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimə"
+    }
+  ],
+  "timestamp": "2026-09-01T11:15:27.215070664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 14:25",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "və ⟨את⟩ təqsir qurbanı quzsunu kəsəcək, kahin təqsir qurbanının qanından götürəcək və təmizlənənin sağ qulağının ucuqına, sağ əlinin baş barmağına və sağ ayağının baş barmağına qoyacaq.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "və kəsəcək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "təqsir qurbanı quzusu"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "quzu"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "təqsir qurbanının"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "və götürəcək"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "qanından"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "təqsir qurbanının"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "və qoyacaq"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzdə"
+    },
+    {
+      "surface": "תנוך",
+      "gloss": "ucuğu"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "qulağının"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "təmizlənənin"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "sağ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "və üzdə"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "baş barmağına"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "əlinin"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "sağ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "və üzdə"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "baş barmağına"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "ayağının"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "sağ"
+    }
+  ],
+  "timestamp": "2026-09-01T10:26:45.283030310Z",
+  "model": "glm-5.3"
+}

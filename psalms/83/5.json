@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 83,
+  "translation": "Dedilər: Gəlin, onları xalq olmaqdan qırıb yandıraq, və Yisraelin adı bir daha xatırlanmasın.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Dedilər"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Gəlin"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "onları qırıb yandıraq"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "xalq olmaqdan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... masın"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "xatırlanmasın"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraelin"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bir daha"
+    }
+  ],
+  "timestamp": "2026-09-01T15:27:51.627209493Z",
+  "model": "glm-5.3"
+}

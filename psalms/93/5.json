@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 93,
+  "translation": "Sənin şəhadətlərin çox səbat etdi, evinə yaraşır qüds, ey Yahve, günlərin uzunluğuna ⟨qədər⟩.",
+  "tokens": [
+    {
+      "surface": "עדתיך",
+      "gloss": "şəhadətlərin"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "səbat etdi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çox"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "evinə"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "yaraşır"
+    },
+    {
+      "surface": "qödes → קדש",
+      "gloss": "qüds",
+      "note": "placeholder"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "uzunluğuna"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günlərin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:31:07.859571171Z",
+  "model": "glm-5.3"
+}

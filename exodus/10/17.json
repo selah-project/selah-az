@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 10:17",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "İndi isə bu dəfə yalnız günahımı bağışla və Yahve olan Elohinizə yalvarın ki, bu ölümdən yalnız məni qurtarsın.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "indi isə"
+    },
+    {
+      "surface": "שא",
+      "gloss": "bağışla"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨xahiş edirəm⟩"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "günahımı"
+    },
+    {
+      "surface": "אך",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "bu dəfə"
+    },
+    {
+      "surface": "והעתירו",
+      "gloss": "yalvarın"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve olan ⟨Elohinizə⟩"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiniz"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "qurtarsın"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "məni ⟨üstümdən⟩"
+    },
+    {
+      "surface": "רק",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu ölümdən"
+    },
+    {
+      "surface": "המות",
+      "gloss": "ölümdən"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-09-01T10:07:29.971343565Z",
+  "model": "glm-5.3"
+}

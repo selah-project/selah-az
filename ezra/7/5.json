@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 7:5",
+  "book": "ezra",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Avishuanın oğlu, Pinehasın oğlu, Elazarın oğlu, Aharonun oğlu, baş kahin ⟨Aharon⟩.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Avishua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinehas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "baş"
+    }
+  ],
+  "timestamp": "2026-09-01T16:50:08.661844028Z",
+  "model": "glm-5.3"
+}

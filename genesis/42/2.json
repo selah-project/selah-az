@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 42:2",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 42,
+  "translation": "Və dedi: Bax, eşitdim ki, Mitsrayimda taxıl var; enin oraya və bizim üçün oradan ⟨taxıl⟩ alın, ki yaşayaq və ölməyək.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "eşitdim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יש",
+      "gloss": "var"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "taxıl"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayimda"
+    },
+    {
+      "surface": "רדו",
+      "gloss": "enin"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "oraya"
+    },
+    {
+      "surface": "ושברו",
+      "gloss": "alın"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizim üçün"
+    },
+    {
+      "surface": "משם",
+      "gloss": "oradan"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "yaşayaq"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ölməyək"
+    },
+    {
+      "surface": "נמות",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-01T10:00:54.804257821Z",
+  "model": "glm-5.3"
+}

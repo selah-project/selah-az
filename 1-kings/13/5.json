@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 13:5",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Və ⟨məqbərə⟩ altı, küülər altından töküldü — Elohim adamının Yahvenin sözü ilə verdiyi möcüzəyə görə.",
+  "tokens": [
+    {
+      "surface": "והמזבח",
+      "gloss": "və ⟨məqbərə⟩"
+    },
+    {
+      "surface": "נקרע",
+      "gloss": "yırtıldı\/çatladı"
+    },
+    {
+      "surface": "וישפך",
+      "gloss": "və töküldü"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "kül"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altından"
+    },
+    {
+      "surface": "כמופת",
+      "gloss": "möcüzəyə görə"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "sözü ilə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    }
+  ],
+  "timestamp": "2026-09-01T12:20:30.492654328Z",
+  "model": "glm-5.3"
+}

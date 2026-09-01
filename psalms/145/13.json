@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 145,
+  "translation": "Sənin məmləkətin bütün olamların məmləkətidir, və sənin hökmranlığın nəsil nəsildə ⟨sürür⟩.",
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "sənin məmləkətin"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "məmləkətidir"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "olamların"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "və sənin hökmranlığın"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "⟨sürür⟩ nəsil"
+    },
+    {
+      "surface": "דור",
+      "gloss": "nəsil"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "nəsildə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:34.899778141Z",
+  "model": "glm-5.3"
+}

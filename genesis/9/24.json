@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Və Nuh şərabından ayıldı və kiçik oğlunun ona nə etdiyini ⟨את⟩ bildi.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "və ayıldı"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Nuh"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "şərabından"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "və bildi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oğlunun ona etdiyi şey"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nə ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etdi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "kiçik"
+    }
+  ],
+  "timestamp": "2026-09-01T09:47:20.172674897Z",
+  "model": "glm-5.3"
+}

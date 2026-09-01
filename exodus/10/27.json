@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Və Yahve Paronun ⟨את⟩ ürəyini möhkəmlətdi, və ⟨o⟩ onları buraxmağa razı olmadı.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "möhkəmlətdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ürək"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ürəyini"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "razı olmadı"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "onları buraxmağa"
+    }
+  ],
+  "timestamp": "2026-09-01T10:07:08.055261015Z",
+  "model": "glm-5.3"
+}

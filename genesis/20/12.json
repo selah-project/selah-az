@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 20:12",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Həqiqətən də o, mənim bacım — atamın qızıdır, yalnız anamın qızı deyil; və o, mənə arvad oldu.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "həm də"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "həqiqətən də"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "bacım"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qızı"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atamın"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "אך",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "לא",
+      "gloss": "deyil"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qızı"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "anamın"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "və oldu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "arıvad"
+    }
+  ],
+  "timestamp": "2026-09-01T09:51:20.929046304Z",
+  "model": "glm-5.3"
+}

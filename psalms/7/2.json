@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 7:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Yahve, Elohimim, sənə sığındım; məni bütün təqibçilərimdən xilas et və qurtar.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "sığındım"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "məni xilas et"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bütün ...dən"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "təqibçilərim"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "və qurtar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:02:21.068422553Z",
+  "model": "glm-5.3"
+}

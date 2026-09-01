@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 34:23",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 34,
+  "translation": "Yahve qullarının canını azad edir ⟨qarşılığını ödəyir⟩, Ona sığınanların heç biri günahkar sayılmaz.",
+  "tokens": [
+    {
+      "surface": "פודה",
+      "gloss": "azad edir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "canını"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "qullarının"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... yox"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "günahkar sayılmaz"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heç biri"
+    },
+    {
+      "surface": "החסים",
+      "gloss": "sığınanların"
+    },
+    {
+      "surface": "בו",
+      "gloss": "Ona"
+    }
+  ],
+  "timestamp": "2026-09-01T15:10:30.317292910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Özünü qoru, yoxsa unudarsan Yahve-ni ⟨את⟩, səni çıxaranı Mitsrayim torpağından, qullar evindən.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "özünü qoru"
+    },
+    {
+      "surface": "לך",
+      "gloss": "özünü (sənin özün)"
+    },
+    {
+      "surface": "פן",
+      "gloss": "yoxsa"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "unudarsan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "çıxaranı"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "səni çıxaran"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "torpağından"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "evindən"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "qullar"
+    }
+  ],
+  "timestamp": "2026-09-01T17:30:18.897699520Z",
+  "model": "glm-5.3"
+}

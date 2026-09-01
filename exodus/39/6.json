@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 39:6",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 39,
+  "translation": "Onlar şoham daşlarını ⟨את⟩ hazırladılar — qızıl çərvəzlərdə yerləşdirilmiş, möhür oyması kimi oymalı, İsrail oğullarının adlarına görə.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "hazırladılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şoham daşlarını"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "daşlarını"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "şoham"
+    },
+    {
+      "surface": "מסבת",
+      "gloss": "yerləşdirilmiş"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "çərvəzlərdə"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "qızıl"
+    },
+    {
+      "surface": "מפתחת",
+      "gloss": "oymalı"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "oyması kimi"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "möhür"
+    },
+    {
+      "surface": "על",
+      "gloss": "görə"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "adlarına"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    }
+  ],
+  "timestamp": "2026-09-01T10:21:38.476023469Z",
+  "model": "glm-5.3"
+}

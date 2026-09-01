@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 59:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 59,
+  "translation": "Mənim hesedimin Elohimi məni qabaqlayacaq; Elohim məni düşmənlərim ⟨ə⟩ göstərəcək.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "mənim hesedim"
+    },
+    {
+      "surface": "יקדמני",
+      "gloss": "məni qabaqlayacaq"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "məni göstərəcək"
+    },
+    {
+      "surface": "בשררי",
+      "gloss": "düşmənlərimə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:20:24.503650180Z",
+  "model": "glm-5.3"
+}

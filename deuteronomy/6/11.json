@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 6:11",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "və ⟨o⟩ evlər ki, doludur hər cür xeyirlə — hansını sən doldurmadın — və oyuq quyular ki, hansını sən yonmadın, üzümlüklər və zeytun ağacları ki, hansını sən əkmədin; və yeyəcəksən və tox olacaqsan.",
+  "tokens": [
+    {
+      "surface": "ובתים",
+      "gloss": "və evlər"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "doludur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "xeyirlə"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hansını"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...-mədin (inkar)"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "doldurmadın"
+    },
+    {
+      "surface": "וברת",
+      "gloss": "və quyular"
+    },
+    {
+      "surface": "חצובים",
+      "gloss": "oyuq (yonulmuş)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hansını"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...-mədin (inkar)"
+    },
+    {
+      "surface": "חצבת",
+      "gloss": "yonmadın"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "üzümlüklər"
+    },
+    {
+      "surface": "וזיתים",
+      "gloss": "və zeytun ağacları"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hansını"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...-mədin (inkar)"
+    },
+    {
+      "surface": "נטעת",
+      "gloss": "əkmədin"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "və yeyəcəksən"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "və tox olacaqsan"
+    }
+  ],
+  "timestamp": "2026-09-01T17:30:18.897455615Z",
+  "model": "glm-5.3"
+}

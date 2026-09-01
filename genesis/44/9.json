@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 44:9",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 44,
+  "translation": "«⟨O⟩, kimin yanında tapılsa, ölsün, həmçinin biz özümüz ağamızın qulları olarıq».",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kimin yanında"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "tapılsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onun yanında"
+    },
+    {
+      "surface": "מעבדיך",
+      "gloss": "qullarından"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ölsün"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "həmçinin"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "biz özümüz"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "olarıq"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "ağamızın"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "qulları"
+    }
+  ],
+  "timestamp": "2026-09-01T10:00:52.087341143Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 23:5",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "və üçdə bir hissə kral evində, üçdə bir hissə Təməl qapısında olsun, bütün xalq isə Yahvenin evinin həyətlərində ⟨olsun⟩.",
+  "tokens": [
+    {
+      "surface": "והשלשית",
+      "gloss": "və üçdə bir hissə"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "evində"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "והשלשית",
+      "gloss": "üçdə bir hissə"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "qapısında"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "Təməl"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "həyətlərində"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evinin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T17:19:34.426983191Z",
+  "model": "glm-5.3"
+}

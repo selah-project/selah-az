@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 47,
+  "translation": "Çünki bütün yerin padşahı Elohimdir; anlayışla nəğmə oxuyun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşahı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "nəğmə oxuyun"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "anlayışla"
+    }
+  ],
+  "timestamp": "2026-09-01T15:16:21.938635392Z",
+  "model": "glm-5.3"
+}

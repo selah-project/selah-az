@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 5:9",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Şərq tərəfə isə səhranın girişinədək, Perat çayından başlayaraq sakin oldular, çünki mal-qaraları Gilad torpağında çoxalmışdı.",
+  "tokens": [
+    {
+      "surface": "ולמזרח",
+      "gloss": "şərq tərəfə"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sakin oldu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ədək"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "girişinə"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "səhraya"
+    },
+    {
+      "surface": "למן",
+      "gloss": "-dan başlayaraq"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "çay"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Perat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "mal-qaraları"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "çoxalmışdı"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "torpağında"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    }
+  ],
+  "timestamp": "2026-09-01T17:01:29.890531580Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 41:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 41,
+  "translation": "Sən isə, ya Yahve, mənə lütf et və məni qaldır, ki mən onlara əvəzini verim.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Sən isə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "mənə lütf et"
+    },
+    {
+      "surface": "והקימני",
+      "gloss": "və məni qaldır"
+    },
+    {
+      "surface": "ואשלמה",
+      "gloss": "əvəzini verim"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    }
+  ],
+  "timestamp": "2026-09-01T15:13:32.559677102Z",
+  "model": "glm-5.3"
+}

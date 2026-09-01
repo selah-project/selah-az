@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 98:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 98,
+  "translation": "Məzmur. Yahveyə yeni mahnı oxuyun, çünki o, möcüzələr etdi; onun sağ əli və müqəddəs qolu ona qurtuluş qazandırdı.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Məzmur"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "oxuyun"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "mahnı"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "yeni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "möcüzələr"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etdi"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "qurtuluş qazandırdı"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "onun sağ əli"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "və qolu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "müqəddəs"
+    }
+  ],
+  "timestamp": "2026-09-01T17:42:56.614264794Z",
+  "model": "glm-5.3"
+}

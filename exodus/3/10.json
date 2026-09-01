@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və indi gəl, səni Paroya göndərəcəyəm, və ⟨את⟩ xalqımı — İsrail oğullarını — Mitsrayimdan çıxart.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "və indi"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "gəl"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "səni göndərəcəyəm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "və çıxart"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqımı"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqımı"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayimdan"
+    }
+  ],
+  "timestamp": "2026-09-01T10:05:14.045294419Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 1:11",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və onun üstünə vergi rəisləri qoydular, onu yükləri ilə əzmək üçün; və Paro üçün anbar şəhərləri bina etdilər: ⟨את⟩ Pitomu və ⟨את⟩ Raamsesi.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "qoydular"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üstünə"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "rəisləri"
+    },
+    {
+      "surface": "מסים",
+      "gloss": "vergi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "üçün"
+    },
+    {
+      "surface": "ענתו",
+      "gloss": "onu əzmək"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "yükləri ilə"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "bina etdilər"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "şəhərləri"
+    },
+    {
+      "surface": "מסכנות",
+      "gloss": "anbar"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Paro üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pitomu"
+    },
+    {
+      "surface": "פתם",
+      "gloss": "Pitomu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "Raamsesi"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Raamsesi"
+    }
+  ],
+  "timestamp": "2026-09-01T10:03:53.524475796Z",
+  "model": "glm-5.3"
+}

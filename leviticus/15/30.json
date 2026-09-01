@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 15:30",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Kahin birini ⟨את⟩ günah qurbanı, o birini ⟨את⟩ isə yandırma qurbanı etsin; və kahin Yahvenin hüzurunda onun üçün onun murdarlığının axıntısına görə kəffarə etsin.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "və etsin"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "birini"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "birini"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "günah qurbanı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "o birini"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "o birini"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "yandırma qurbanı"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "və kəffarə etsin"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "onun üçün"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hüzurunda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מזוב",
+      "gloss": "axıntısına"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "murdarlığının"
+    }
+  ],
+  "timestamp": "2026-09-01T10:27:35.250144826Z",
+  "model": "glm-5.3"
+}

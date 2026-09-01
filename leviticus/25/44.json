@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 25:44",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "və sənin qulun və kənizin — sənin olacaqları — ⟨את⟩ ətrafınızdakı millətlərdən ⟨olacaq⟩; onlardan qul və kəniz satın alacaqsınız.",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "və sənin qulun"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "və kənizin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "olacaqları"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənin üçün"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ... -dan",
+      "marks": "ətrafınızdakı millətlər"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "millətlər"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "סביבתיכם",
+      "gloss": "ətrafınızdakı"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "onlardan"
+    },
+    {
+      "surface": "תקנו",
+      "gloss": "satın alacaqsınız"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "qul"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "və kəniz"
+    }
+  ],
+  "timestamp": "2026-09-01T10:30:59.682908156Z",
+  "model": "glm-5.3"
+}

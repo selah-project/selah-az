@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Və hər adam ⟨את⟩ öz müqəddəs şeyləri ona olacaqdır; hər kəs kahinə nə verərsə, o kahinin olacaqdır.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "və hər adam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öz müqəddəs şeyləri"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "öz müqəddəs şeyləri"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "olacaqdır"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər kəs"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "verər"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kahinə"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacaqdır"
+    }
+  ],
+  "timestamp": "2026-09-01T10:33:58.626946145Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 16:28",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Və Yahve Moşeyə dedi: «Nə vaxta qədər əmrlərimi və tövrələrimi qorumaqdan imtina edəcəksiniz?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-yə"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "nə vaxta"
+    },
+    {
+      "surface": "מאנתם",
+      "gloss": "imtina edirsiniz"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "qorumaq"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "əmrlərimi"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "və tövrələrimi"
+    }
+  ],
+  "timestamp": "2026-09-01T10:10:22.539683234Z",
+  "model": "glm-5.3"
+}

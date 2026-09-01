@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 5:9",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Və Enoş doxsan il yaşadı və ⟨את⟩ Keynanı doğdu.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "və yaşadı"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enoş"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "doxsan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "il"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "və doğdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Keynanı"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Keynanı"
+    }
+  ],
+  "timestamp": "2026-09-01T09:46:30.586955343Z",
+  "model": "glm-5.3"
+}

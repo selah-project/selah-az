@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 71:18",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 71,
+  "translation": "Hətta qocalığa və ağ saçlılığa ⟨çatanda⟩ da, Elohim, məni tərk etmə; qüdrətini bu nəslə, gələcək hər kəsə bildirənə qədər.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "hətta ... da"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "qocalığa"
+    },
+    {
+      "surface": "ושיבה",
+      "gloss": "və ağ saçlılığa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "etmə"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "məni tərk"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "bildirənə"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "qüdrətini"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "nəslə"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hər kəsə"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "gələcək"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "qüdrətini"
+    }
+  ],
+  "timestamp": "2026-09-01T15:23:42.789417966Z",
+  "model": "glm-5.3"
+}

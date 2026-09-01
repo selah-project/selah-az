@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 27:3",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Mən Yahveyəm, onu qoruyuram; anbaan ona su verirəm; ona qarşı ⟨kimsə⟩ ziyarət etməsin deyə, gecə və gündüz onu saxlayıram.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveyəm"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "onu qoruyuram"
+    },
+    {
+      "surface": "לרגעים",
+      "gloss": "anbaan"
+    },
+    {
+      "surface": "אשקנה",
+      "gloss": "ona su verirəm"
+    },
+    {
+      "surface": "פן",
+      "gloss": "…məsin deyə"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "ziyarət etməsin"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ona qarşı"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "gecə"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "və gündüz"
+    },
+    {
+      "surface": "אצרנה",
+      "gloss": "onu saxlayıram"
+    }
+  ],
+  "timestamp": "2026-09-01T12:58:46.693939784Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 106:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 106,
+  "translation": "Səhrada arzu arzuladılar və Elı sınadılar ⟨çöldə⟩.",
+  "tokens": [
+    {
+      "surface": "ויתאוו",
+      "gloss": "arzuladılar"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "arzu"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "səhrada"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "sınadılar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "⟨çöldə⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:02.914285436Z",
+  "model": "glm-5.3"
+}

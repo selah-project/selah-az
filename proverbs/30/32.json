@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 30:32",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Əgər özünü ucaltdığında axmaqlıq etdinsə, ya da pis niyyət qursan — əlini ağzına qoy!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "axmaqlıq etdinsə"
+    },
+    {
+      "surface": "בהתנשא",
+      "gloss": "özünü ucaltdığında"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ya da əgər"
+    },
+    {
+      "surface": "זמות",
+      "gloss": "niyyət qursan"
+    },
+    {
+      "surface": "יד",
+      "gloss": "əlini"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "ağzına"
+    }
+  ],
+  "timestamp": "2026-09-01T16:00:07.865612703Z",
+  "model": "glm-5.3"
+}

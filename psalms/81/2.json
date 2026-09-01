@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 81:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 81,
+  "translation": "Sevinclə oxuyun Elohimə, qüvvəmizə; səs ucaldın Yaakovın Elohiminə.",
+  "tokens": [
+    {
+      "surface": "הרנינו",
+      "gloss": "sevinclə oxuyun"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimə"
+    },
+    {
+      "surface": "עוזנו",
+      "gloss": "qüvvəmizə"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "səs ucaldın"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohiminə"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovın"
+    }
+  ],
+  "timestamp": "2026-09-01T15:27:43.338003833Z",
+  "model": "glm-5.3"
+}

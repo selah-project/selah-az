@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ruth 1:17",
+  "book": "ruth",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Sənin öləcəyin yerdə mən də öləcəyəm və orada dəfn olunacağım; belə etsin Yahve mənə və belə əlavə etsin, çünki yalnız ölüm ayıracaq mənimlə sənin aranı.",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "harada"
+    },
+    {
+      "surface": "תמותי",
+      "gloss": "sən öləcəksən"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "mən öləcəyəm"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "və orada"
+    },
+    {
+      "surface": "אקבר",
+      "gloss": "dəfn olunacağam"
+    },
+    {
+      "surface": "כה",
+      "gloss": "belə"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "etsin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "və belə"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "əlavə etsin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "המות",
+      "gloss": "yalnız ölüm"
+    },
+    {
+      "surface": "יפריד",
+      "gloss": "ayıracaq"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "mənimlə"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "sənin aranı"
+    }
+  ],
+  "timestamp": "2026-09-01T16:24:53.611777458Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Çünki görürəm göylərini — barmaqlarının əməllərini; ayı və ulduzları, hansılarını sən bünövrələdin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "görürəm"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "göylərini"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "əməllərini"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "barmaqlarının"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "ayı"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "və ulduzları"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hansılarını"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "bünövrələdin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:02:45.419318271Z",
+  "model": "glm-5.3"
+}

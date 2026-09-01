@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 57,
+  "translation": "Göydən göndərəcək və məni xilas edəcək; məni udmaq istəyəni xorlayacaq. Sela. Elohim göndərəcək ⟨özlüyündə⟩ hesedini və həqiqətini.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "göndərəcək"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "Göydən"
+    },
+    {
+      "surface": "ויושיעני",
+      "gloss": "və məni xilas edəcək"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "xorlayacaq"
+    },
+    {
+      "surface": "שאפי",
+      "gloss": "məni udmaq istəyəni"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "göndərəcək"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedini"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "və həqiqətini"
+    }
+  ],
+  "timestamp": "2026-09-01T15:19:46.235937212Z",
+  "model": "glm-5.3"
+}

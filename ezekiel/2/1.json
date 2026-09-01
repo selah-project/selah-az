@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 2:1",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və mənə dedi: insan oğlu, ayaqlarının üstündə dur, və mən danışacağam ⟨את⟩ səni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "dur"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "ayaqlarının"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "və danışacağam"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ səni",
+      "marks": "sən"
+    }
+  ],
+  "timestamp": "2026-09-01T14:01:11.088477701Z",
+  "model": "glm-5.3"
+}

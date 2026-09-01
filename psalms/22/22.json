@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 22:22",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Şirdən qurtar məni, və şiröklərin buynuzları ⟨altından⟩ məni cavablandırırsan.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "qurtar məni"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "ağızından"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "şir"
+    },
+    {
+      "surface": "ומקרני",
+      "gloss": "və buynuzlarından"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "şiröklərin"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "məni cavablandırdın"
+    }
+  ],
+  "timestamp": "2026-09-01T15:06:23.381178574Z",
+  "model": "glm-5.3"
+}

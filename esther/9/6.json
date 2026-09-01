@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Şuşan qalasında isə Yəhudilər beş yüz kişini öldürüb məhv etdilər.",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "Şuşanda"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "qalasında"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "öldürdülər"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yəhudilər"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "məhv etdilər"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "beş"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kişini"
+    }
+  ],
+  "timestamp": "2026-09-01T16:36:40.606365203Z",
+  "model": "glm-5.3"
+}

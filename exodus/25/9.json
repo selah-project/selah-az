@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 25:9",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Hamısı ilə ⟨onun⟩ — nəyi mən ⟨את⟩ sənə göstərirəm: ⟨את⟩ Məskənin nümunəsini və ⟨את⟩ bütün ləvazimatının nümunəsini — beləcə edin.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "hamısı ilə"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nəyi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "göstərirəm"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ sənə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Məskənin nümunəsini"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "nümunəsini"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Məskənin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "bütün ləvazimatının nümunəsini"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "nümunəsini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ləvazimatının"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "beləcə"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "edin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:16:18.593259862Z",
+  "model": "glm-5.3"
+}

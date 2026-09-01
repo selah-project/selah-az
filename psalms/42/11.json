@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 42,
+  "translation": "Sümüklərimin sındırılması ilə düşmənlərim məni təhqir edir, bütün gün mənə deyərək: “Haradadır sənin Elohimin?”",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "sındırılması ilə"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "sümüklərimin"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "məni təhqir edir"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "düşmənlərim"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "איה",
+      "gloss": "haradadır"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sənin Elohimin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:14:16.242199687Z",
+  "model": "glm-5.3"
+}

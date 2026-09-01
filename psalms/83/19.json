@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 83,
+  "translation": "Və bilsinlər ki, sən — Adın Yahve — təksən, Elyon ⟨⟨sən⟩⟩ bütün yer üzərində.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "və bilsinlər"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Adın"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "təksən"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərində"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-09-01T15:27:11.151090234Z",
+  "model": "glm-5.3"
+}

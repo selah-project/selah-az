@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 7:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Yahve xalqları mühakimə edəcək: məni mühakimə et, Yahve, mənim salehliyimə görə və mənim paklığım üzrə.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "mühakimə edəcək"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "xalqları"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "məni mühakimə et"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "mənim salehliyimə görə"
+    },
+    {
+      "surface": "וכתמי",
+      "gloss": "və mənim paklığım"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üzrə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:00:33.629640125Z",
+  "model": "glm-5.3"
+}

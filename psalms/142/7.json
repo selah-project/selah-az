@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 142:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 142,
+  "translation": "Qüdsül-qüds qulaq as fəryadıma, çünki çox zəiflədim; təqib edənlərimdən qurtar məni, çünki onlar məndən güclüdürlər.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "qulaq as"
+    },
+    {
+      "surface": "אל",
+      "gloss": "qüdsül-qüds"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "fəryadıma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "zəiflədim"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çox"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "qurtar məni"
+    },
+    {
+      "surface": "מרדפי",
+      "gloss": "təqib edənlərimdən"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "güclüdürlər"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "məndən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:45:23.549212666Z",
+  "model": "glm-5.3"
+}

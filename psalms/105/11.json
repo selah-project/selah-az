@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 105,
+  "translation": "Deyərək: «Sənə ⟨את⟩ Kənan torpağını verirəm — mirasınızın payı olaraq».",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "Deyərək"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Sənə"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "verirəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kənan torpağını"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "torpağını"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kənan"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "payı"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "mirasınızın"
+    }
+  ],
+  "timestamp": "2026-09-01T15:35:30.365605153Z",
+  "model": "glm-5.3"
+}

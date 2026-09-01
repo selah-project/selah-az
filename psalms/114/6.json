@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 114,
+  "translation": "Ey dağlar, koçlar kimi sıçrayırsınız, təpələr — qoyun balaları kimi?",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "ey dağlar"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "sıçrayırsınız"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "koçlar kimi"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "təpələr"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "balaları kimi"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "qoyun"
+    }
+  ],
+  "timestamp": "2026-09-01T15:37:48.663765610Z",
+  "model": "glm-5.3"
+}

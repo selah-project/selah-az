@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "habakkuk 2:3",
+  "book": "habakkuk",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Çünki görüntü hələ ⟨müəyyən olunmuş⟩ vaxt üçündür, və sona doğru nəfəs alır və yalan söyləməyəcək; əgər o ləngəsə, onu gözlə, çünki gələcək — gələcək, gecikməyəcək.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hələ"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "görüntü"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "vaxt üçündür"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "və nəfəs alır"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "sona doğru"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "יכזב",
+      "gloss": "yalan söyləyəcək"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "יתמהמה",
+      "gloss": "ləngəsə"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "gözlə"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gələcək"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "gələcək"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יאחר",
+      "gloss": "gecikəcək"
+    }
+  ],
+  "timestamp": "2026-09-01T14:50:15.542507375Z",
+  "model": "glm-5.3"
+}

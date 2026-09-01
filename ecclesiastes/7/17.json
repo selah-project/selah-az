@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Çox pis olma, və ağlabatan olma; nə üçün öz vaxtından əvvəl ölməlisən?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "olma"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "pis"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "çox"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və ... olma"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ol"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "ağlabatan"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nə üçün"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ölməlisən"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "əvvəl"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "öz vaxtından"
+    }
+  ],
+  "timestamp": "2026-09-01T18:02:41.005498887Z",
+  "model": "glm-5.3"
+}

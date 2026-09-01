@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 131,
+  "translation": "Şübhəsiz, canımı düzəldib dindirdim; südəmər uşaq kimi, anasının ⟨qucağındakı⟩ kimi — südəmər uşaq kimi üzərimdədir canım.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "düzəldib"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "dindirdim"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "südəmər uşaq kimi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "anasının"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "südəmər uşaq kimi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üzərimdə"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:13.497070713Z",
+  "model": "glm-5.3"
+}

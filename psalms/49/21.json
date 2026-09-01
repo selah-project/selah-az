@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 49:21",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 49,
+  "translation": "İnsan şərəf ⟨içindədir⟩, amma dərk etmir — heyvanlara bənzədildi, məhv oldular.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "İnsan"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "şərəf ⟨içindədir⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma … etmir"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "dərk etmir"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "bənzədildi"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "heyvanlara"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "məhv oldular"
+    }
+  ],
+  "timestamp": "2026-09-01T15:14:56.822295366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 39,
+  "translation": "⟨את⟩ masanı, ⟨את⟩ bütün ləvazimatını və ⟨את⟩ üz çörəyini.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masanı"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "masanı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün ləvazimatını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ləvazimatını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "üz çörəyini"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "çörəyini"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "üz"
+    }
+  ],
+  "timestamp": "2026-09-01T10:21:59.422870198Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 7:15",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Buna görə səninlə görüşməyə çıxdım, üzünü axtarmağa, və səni tapdım.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "buna görə"
+    },
+    {
+      "surface": "כן",
+      "gloss": "…"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "çıxdım"
+    },
+    {
+      "surface": "לקראתך",
+      "gloss": "səninlə görüşməyə"
+    },
+    {
+      "surface": "לשחר",
+      "gloss": "axtarmağa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "üzünü"
+    },
+    {
+      "surface": "ואמצאך",
+      "gloss": "və səni tapdım"
+    }
+  ],
+  "timestamp": "2026-09-01T15:49:51.873338218Z",
+  "model": "glm-5.3"
+}

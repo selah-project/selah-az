@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Bütün sözlər yorucudur; ⟨insan⟩ danışa bilmir; görməkdən göz doymur və eşitməkdən qulaq dolmur.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sözlər"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "yorucudur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bilmir"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "bacara"
+    },
+    {
+      "surface": "איש",
+      "gloss": "insan"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "danışmağa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "doymur"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "doyur"
+    },
+    {
+      "surface": "עין",
+      "gloss": "göz"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "görməkdən"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və dolmur"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "doldurulur"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "qulaq"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "eşitməkdən"
+    }
+  ],
+  "timestamp": "2026-09-01T16:30:25.394477688Z",
+  "model": "glm-5.3"
+}

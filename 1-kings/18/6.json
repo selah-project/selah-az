@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 18:6",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Və ölkəni onun içindən keçmək üçün özlərinə bölüşdülər: Ahab tək başına bir yolla getdi, ovdiyahu isə tək başına bir yolla getdi.",
+  "tokens": [
+    {
+      "surface": "ויחלקו",
+      "gloss": "bölüşdülər"
+    },
+    {
+      "surface": "להם",
+      "gloss": "özlərinə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ölkəni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ölkəni"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "keçmək üçün"
+    },
+    {
+      "surface": "בה",
+      "gloss": "onun içindən"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "getdi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "bir yolla"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "tək başına"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "və ovdiyahu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "getdi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "bir yolla"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "tək başına"
+    }
+  ],
+  "timestamp": "2026-09-01T12:23:14.642048066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 4:18",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və uşaq böyüdü, və gün oldu, və atanın yanına, oruqbitanların yanına çıxdı.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "böyüdü"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "uşaq"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "və oldu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "çıxdı"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atası⟨nın⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "הקצרים",
+      "gloss": "oruqbitan⟨ların⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T12:30:52.511488405Z",
+  "model": "glm-5.3"
+}

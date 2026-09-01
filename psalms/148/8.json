@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 148,
+  "translation": "Od və dolu, qar və duman, Onun sözünü yerinə yetirən fırtına küləyi:",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "od"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "və dolu"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "qar"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "və duman"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "külək"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "fırtına"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yerinə yetirən"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "Onun sözünü"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:30.102864416Z",
+  "model": "glm-5.3"
+}

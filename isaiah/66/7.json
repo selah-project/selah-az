@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 66:7",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 66,
+  "translation": "Sancısı tutmazdan əvvə doğdu; ağrısı ona gəlməzdən əvvə oğlan dünyaya gətirdi.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "-mazdan əvvəl"
+    },
+    {
+      "surface": "תחיל",
+      "gloss": "sancısı tutmazdan"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "doğdu"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "-məzdən əvvəl"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "gəlməzdən"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ağrısı"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "והמליטה",
+      "gloss": "dünyaya gətirdi"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "oğlan"
+    }
+  ],
+  "timestamp": "2026-09-01T13:19:23.785561347Z",
+  "model": "glm-5.3"
+}

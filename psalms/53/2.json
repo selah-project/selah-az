@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 53,
+  "translation": "Nadan ürəyində dedi: «Elohim yoxdur». Onlar pozdular, iyrənc ədalətsizlik etdilər, yaxşılıq edən yoxdur.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nadan"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "ürəyində"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "pozdular"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "iyrənc etdilər"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ədalətsizlik"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "edən"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşılıq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:18:35.763846194Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 87,
+  "translation": "Yahve xalqların yazılışında sayacaq: bu adam orada doğulub. Sela.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "sayacaq"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "yazılışında"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "xalqların"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "doğulub"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:30.097285493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 38,
+  "translation": "Çünki mən laxlamağa hazır¹, və ağrım həmişə qarşımdadır.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "laxlamağa"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "hazır"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "və ağrım"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "qarşımda"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "həmişə"
+    }
+  ],
+  "timestamp": "2026-09-01T18:01:56.379487259Z",
+  "model": "glm-5.3"
+}

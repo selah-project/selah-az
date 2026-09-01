@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Yahvenin qanunları düzdür, ürəyi sevindirir; Yahvenin əmri təmizdir, gözləri işıqlandırır.",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "qanunları"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "düzdür"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "sevindirir"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ürəyi"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "əmri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "təmizdir"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "ışıqlandırır"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "gözləri"
+    }
+  ],
+  "timestamp": "2026-09-01T15:06:02.583689528Z",
+  "model": "glm-5.3"
+}

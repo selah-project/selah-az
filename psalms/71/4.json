@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 71,
+  "translation": "Elohimim, məni pisdən ⟨qurtar⟩, ədalətsizin və zülmkarın əlindən xilas et.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "xilas et"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "əlindən"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "pisdən"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "əlindən"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "ədalətsizin"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "zülmkar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:23:18.793898011Z",
+  "model": "glm-5.3"
+}

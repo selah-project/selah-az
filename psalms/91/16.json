@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 91:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 91,
+  "translation": "Ömür uzunluğu ilə onu doyuzduracağam və öz xilasımla onu üzəçəkdirəcəyəm.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "uzunluğu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ömür (günlərin)"
+    },
+    {
+      "surface": "אשביעהו",
+      "gloss": "doyuzduracağam onu"
+    },
+    {
+      "surface": "ואראהו",
+      "gloss": "və üzəçəkdirəcəyəm onu"
+    },
+    {
+      "surface": "בישועתי",
+      "gloss": "öz xilasımla"
+    }
+  ],
+  "timestamp": "2026-09-01T15:32:23.882390222Z",
+  "model": "glm-5.3"
+}

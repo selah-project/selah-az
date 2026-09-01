@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 14:42",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Və başqa daşlar götürəcəklər və o daşların ⟨yerinə⟩ gətirəcəklər, və başqa suv götürəcək və ⟨את⟩ evi suvlayacaq.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "və götürəcəklər"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "daşlar"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "başqa"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "və gətirəcəklər"
+    },
+    {
+      "surface": "אל",
+      "gloss": "‑a"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "yerinə"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "o daşların"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "və suv"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "başqa"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "götürəcək"
+    },
+    {
+      "surface": "וטח",
+      "gloss": "və suvlayacaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "evi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "evi"
+    }
+  ],
+  "timestamp": "2026-09-01T10:26:33.203557477Z",
+  "model": "glm-5.3"
+}

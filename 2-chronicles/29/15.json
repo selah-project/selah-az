@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 29:15",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "Onlar qardaşlarını ⟨את⟩ topladılar, özlərini müqəddəsləşdirdilər və kralın əmrinə, Yahvenin sözlərinə görə Yahve evini təmizləmək üçün girdilər.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "topladılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qardaşlarını"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "qardaşlarını"
+    },
+    {
+      "surface": "ויתקדשו",
+      "gloss": "özlərini müqəddəsləşdirdilər"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "girdilər"
+    },
+    {
+      "surface": "כמצות",
+      "gloss": "əmrinə"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "sözlərinə görə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "təmizləmək üçün"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T17:21:43.672375251Z",
+  "model": "glm-5.3"
+}

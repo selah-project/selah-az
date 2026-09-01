@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 52:8",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 52,
+  "translation": "Sənin gözcülərinin səsi! Səs qaldırdılar, birlikdə nəğmə söyləyəcəklər, çünki göz gözə görəcəklər, Yahve Siyona qayıtdıqda.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "səsi"
+    },
+    {
+      "surface": "צפיך",
+      "gloss": "sənin gözcülərinin"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "qaldırdılar"
+    },
+    {
+      "surface": "קול",
+      "gloss": "səs"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "birlikdə"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "nəğmə söyləyəcəklər"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "עין",
+      "gloss": "göz"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "gözə"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "görəcəklər"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "qayıtdıqda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyon"
+    }
+  ],
+  "timestamp": "2026-09-01T13:14:24.094177067Z",
+  "model": "glm-5.3"
+}

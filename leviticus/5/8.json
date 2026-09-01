@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "və onları kahinin yanına gətirəcək, və kahin günah qurbanına aid olanı birinci təqdim edəcək, və başını boynunun qabaq tərəfindən qoparacaq, amma ayırmayacaq.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "və gətirəcək"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahinin"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "və təqdim edəcək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "günah qurbanına aid olanı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olanı ki"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "günah qurbanına"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "birinci"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "və qoparacaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "başını"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "başını"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "qabaq tərəfindən"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "boynunun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma yox"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "ayırmayacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T10:23:59.769571294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Onlarla və onların elohimləri ilə əhd kəsməyəcəksan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "kəsməyəcəksan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlarla"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "və onların elohimləri ilə"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "əhd"
+    }
+  ],
+  "timestamp": "2026-09-01T10:15:27.270110630Z",
+  "model": "glm-5.3"
+}

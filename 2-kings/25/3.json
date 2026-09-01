@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 25:3",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Ayın doqquzunda aclıq şəhərdə gücləndi və ölkənin xalqı üçün çörək olmadı.",
+  "tokens": [
+    {
+      "surface": "בתשעה",
+      "gloss": "doqquzunda"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ayın"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "və gücləndi"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "aclıq"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "şəhərdə"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "çörək"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "xalqı üçün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ölkənin"
+    }
+  ],
+  "timestamp": "2026-09-01T12:46:11.873457582Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 42,
+  "translation": "Və ona dedik: «Biz düst adamlarıq ⟨dır⟩; casus ⟨deyilik⟩.»",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "və dedik"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "düst"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "biz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "olmuşuq"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "casuslar"
+    }
+  ],
+  "timestamp": "2026-09-01T10:01:16.887828212Z",
+  "model": "glm-5.3"
+}

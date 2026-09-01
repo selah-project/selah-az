@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 20:6",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Və hansı adam ki, bağ dikmiş və ondan istifadə etməmişdir — getsin və evinə qayıtsın, yoxsa döyüşdə ölsün və başqa bir adam ondan istifadə etsin.",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "və hansı"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "dikmişdir"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "bağ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və... yox"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "ondan istifadə etməmişdir"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "getsin"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "və qayıtsın"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "evinə"
+    },
+    {
+      "surface": "פן",
+      "gloss": "yoxsa"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ölsün"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "döyüşdə"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "və adam"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "başqa"
+    },
+    {
+      "surface": "יחללנו",
+      "gloss": "ondan istifadə etsin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:53:00.796922359Z",
+  "model": "glm-5.3"
+}

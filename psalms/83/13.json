@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 83:13",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 83,
+  "translation": "Onlar ki, dedilər: «Gəlin Elohimin ⟨את⟩ otlaqlarını bizim özümüzə sahib çıxaq».",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "dedilər"
+    },
+    {
+      "surface": "נירשה",
+      "gloss": "sahib çıxaq"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizim özümüzə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "otlaqlarını"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "otlaqlarını"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:27:48.391033409Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 69,
+  "translation": "Su seli məni yumasın, dərinlik məni udmasın və quy ağzını üstümə bağlamasın.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "məni yumasın"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "seli"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "məni udmasın"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "dərinlik"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "bağlamasın"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üstümə"
+    },
+    {
+      "surface": "באר",
+      "gloss": "quy"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ağzını"
+    }
+  ],
+  "timestamp": "2026-09-01T15:22:55.375678108Z",
+  "model": "glm-5.3"
+}

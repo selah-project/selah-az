@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "İnsan qanını tökənin — insandan onun qanı töküləcək; çünki Elohim insanı ⟨את⟩ öz surətində yaratdı.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "tökənin"
+    },
+    {
+      "surface": "דם",
+      "gloss": "qanını"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "insandan"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "onun qanı"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "töküləcək"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "öz surətində"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaratdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "insanı"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insanı"
+    }
+  ],
+  "timestamp": "2026-09-01T09:47:12.596067412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 17:19",
+  "book": "2-samuel",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Qadın götürdü və quyunun ağzının üstünə ⟨את⟩ örtüyü gerdi, üstünə də döyülmüş dənə səpdi, və heç bir şey məlum olmadı.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "götürdü"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "qadın"
+    },
+    {
+      "surface": "ותפרש",
+      "gloss": "gerdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "örtüyü"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "örtük"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ağzının"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "quyunun"
+    },
+    {
+      "surface": "ותשטח",
+      "gloss": "səpdi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "הרפות",
+      "gloss": "döyülmüş dənə"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... olmadı"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "məlum olmadı"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "heç bir şey"
+    }
+  ],
+  "timestamp": "2026-09-01T12:00:45.542634360Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Və Pələg otuz il yaşadı, və ⟨את⟩ Reunu doğdu.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "və yaşadı"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Pələg"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "otuz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "il"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "və doğdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reunu"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reunu"
+    }
+  ],
+  "timestamp": "2026-09-01T09:48:56.903444111Z",
+  "model": "glm-5.3"
+}

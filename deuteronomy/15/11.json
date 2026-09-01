@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 15:11",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Çünki yoxsul ölkənin ortasından kəsilməyəcək; buna görə mən sənə əmr edirəm, deyərək: qardaşına, sənin dilənçinə və yoxsuluna ölkəndə ⟨את⟩ əlini mütləq aç.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "kəsilməyəcək"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "yoxsul"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ortasından"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ölkənin"
+    },
+    {
+      "surface": "על",
+      "gloss": "buna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "görə"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mən"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "sənə əmr edirəm"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "aç"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "aç"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əlini"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "əlini"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "qardaşına"
+    },
+    {
+      "surface": "לעניך",
+      "gloss": "dilənçininə"
+    },
+    {
+      "surface": "ולאבינך",
+      "gloss": "və yoxsuluna"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "ölkəndə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:51:09.826012426Z",
+  "model": "glm-5.3"
+}

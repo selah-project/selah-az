@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "«Ağam, məni eşit: yer dörd yüz şekəl gümüşdür; mənimlə sənin aranda bu nədir ki? Öz ölünü dəfn et.»",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Ağam"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "məni eşit"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "dörd"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "şəkəl"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "mənimlə"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "sənin aranda"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ölünü"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "ölünü"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "dəfn et"
+    }
+  ],
+  "timestamp": "2026-09-01T09:51:36.397907489Z",
+  "model": "glm-5.3"
+}

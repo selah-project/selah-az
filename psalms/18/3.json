@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Yahve ⟨mənim⟩ qayam, qalasımdır, qurtarıcımdır; Elim — sülb qayamdır, Ona sığınıram; qalxanım, xilasım buynuzu, sığınacaq yerim ⟨odur⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "qayamdır"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "qalasımdır"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "qurtarıcımdır"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Elim"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "sülb qayam"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "sığınıram"
+    },
+    {
+      "surface": "בו",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "qalxanım"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "buynuzu"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "xilasımın"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "sığınacaq yerim"
+    }
+  ],
+  "timestamp": "2026-09-01T15:05:18.142084540Z",
+  "model": "glm-5.3"
+}

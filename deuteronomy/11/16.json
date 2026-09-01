@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 11:16",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Özünüzü qoruyun ki, qəlbiniz yoldan çıxmasın, və siz dönüb başqa tanrılara xidmət edib onlara səcdə etməyəsiniz.",
+  "tokens": [
+    {
+      "surface": "השמרו",
+      "gloss": "qoruyun"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "özünüzü"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ki...-məsin"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "yoldan çıxmasın"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "qəlbiniz"
+    },
+    {
+      "surface": "וסרתם",
+      "gloss": "dönüb uzaqlaşasınız"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "xidmət edəsiniz"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tanrılara"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "başqa"
+    },
+    {
+      "surface": "והשתחויתם",
+      "gloss": "səcdə edəsiniz"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    }
+  ],
+  "timestamp": "2026-09-01T10:49:44.541659742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 147,
+  "translation": "O, heyvanına yemini verir, çağıran qarğanın balalarına ⟨da⟩ verir.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "verir"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "heyvanına"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "yemini"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "balalarına"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "qarğanın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "çağıran"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "onlar çağırır"
+    }
+  ],
+  "timestamp": "2026-09-01T17:43:06.352354797Z",
+  "model": "glm-5.3"
+}

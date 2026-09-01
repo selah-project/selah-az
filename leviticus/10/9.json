@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 10:9",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Şərab və səmən süni ⟨sən⟩ içmə, sən də oğulların da səninlə birlikdə, görüş çadırına girdiyiniz zaman, ki ölməyəsiniz — nəsilləriniz üçün əbədi qanundur.",
+  "tokens": [
+    {
+      "surface": "יין",
+      "gloss": "şərab"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "və səmən süni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...mə"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "içmə"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "və oğulların"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ səninlə"
+    },
+    {
+      "surface": "בבאכם",
+      "gloss": "girdiyiniz zaman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ına"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadır"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "görüş"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... yox"
+    },
+    {
+      "surface": "תמתו",
+      "gloss": "ölməyəsiniz"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "qanun"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "nəsilləriniz üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:24:49.163412715Z",
+  "model": "glm-5.3"
+}

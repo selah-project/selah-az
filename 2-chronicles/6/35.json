@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "onda göylərdən onların ⟨את⟩ dualarını və ⟨את⟩ yalvarışlarını eşidəsən və onların haqqını çıxardasan.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "eşidəsən"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göylər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onların dualarını"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "onların dualarını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yalvarışlarını"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "onların yalvarışlarını"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "və edəsən"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "onların haqqını\/mühakiməsini"
+    }
+  ],
+  "timestamp": "2026-09-01T17:14:31.091040488Z",
+  "model": "glm-5.3"
+}

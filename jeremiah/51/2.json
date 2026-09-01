@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 51:2",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 51,
+  "translation": "Və Babilə xaricilər göndərəcəyəm, və onu ələkləyəcəklər, və onun torpağını ⟨את⟩ boşaldacaqlar; çünki onun üzərinə, ətrafına, pislik günündə ⟨olacaqlar⟩.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "və göndərəcəyəm"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "Babilə"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "xaricilər"
+    },
+    {
+      "surface": "וזרוה",
+      "gloss": "və onu ələkləyəcəklər"
+    },
+    {
+      "surface": "ובקקו",
+      "gloss": "və boşaldacaqlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onun torpağını"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "onun torpağını"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨olacaqlar⟩"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "onun üzərinə"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ətrafına"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "günündə"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pisliyin"
+    }
+  ],
+  "timestamp": "2026-09-01T13:57:49.011576041Z",
+  "model": "glm-5.3"
+}

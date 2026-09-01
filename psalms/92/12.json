@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 92:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 92,
+  "translation": "Gözüm məni gözləyənlərə baxdı, mənə qalxan şər edənləri qulaqlarım eşidəcək.",
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "baxdı"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözüm"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "məni gözləyənlərə"
+    },
+    {
+      "surface": "בקמים",
+      "gloss": "qalxan(lar)"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "şər edənləri"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "eşidəcək"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "qulaqlarım"
+    }
+  ],
+  "timestamp": "2026-09-01T15:31:52.791064451Z",
+  "model": "glm-5.3"
+}

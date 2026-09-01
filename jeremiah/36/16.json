@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 36:16",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 36,
+  "translation": "Və ⟨oldu⟩: bütün sözləri ⟨את⟩ eşidəndə hər biri öz yoldaşından qorxdular və Baruxa dedilər: «Krala ⟨את⟩ bütün bu sözləri mütləq bildirməli, bildirəcəyik.»",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "və ⟨oldu⟩"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "eşidəndə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün sözləri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sözləri"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "qorxdular"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər biri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "öz yoldaşının"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "və dedilər"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Barux"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "bildirməli"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "bildirəcəyik"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "krala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün bu sözləri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sözləri"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-09-01T13:46:05.157036001Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 19:18",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Oğlunu intizamlandır, çünki ümid var, amma canını onu öldürməyə qaldırma.",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "intizamlandır"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "oğlunu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "יש",
+      "gloss": "var"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "ümid"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "amma … -mə"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "onu öldürməyə"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ma"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "qaldırma"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "canını"
+    }
+  ],
+  "timestamp": "2026-09-01T15:56:44.081517041Z",
+  "model": "glm-5.3"
+}

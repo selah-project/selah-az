@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 7:23",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Və arvadının yanına girdi, o hamilə qaldı və oğul doğdu, və adını Beria qoydu, çünki evində bəla ⟨olmuşdu⟩.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "girdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "onun arvadı"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "hamilə qaldı"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "doğdu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "qoydu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adını"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "onun adını"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "Beria"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "bəlada"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨olmuşdu⟩"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "onun evində"
+    }
+  ],
+  "timestamp": "2026-09-01T17:03:01.451545560Z",
+  "model": "glm-5.3"
+}

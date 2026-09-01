@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Elazar ⟨את⟩ Pinechası doğurdu, Pinechas ⟨את⟩ Avişuanı doğurdu.",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pinechası"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinechası"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinechas"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avişuanı"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Avişuanı"
+    }
+  ],
+  "timestamp": "2026-09-01T17:01:43.109561585Z",
+  "model": "glm-5.3"
+}

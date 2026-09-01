@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 2:4",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və xalqa ⟨את⟩ əmr et, deyə: siz qardaşlarınızın, Esav oğullarının sərhədindən keçirsiniz, onlar Seyirdə yaşayan ⟨kimsələrdir⟩; onlar sizdən qorxacaqlar, siz isə çox ehtiyatlı olun.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "xalqa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqa"
+    },
+    {
+      "surface": "צו",
+      "gloss": "əmr et"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyə"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "keçirsiniz"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "sərhədindən"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "qardaşlarınızın"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "yaşayan"
+    },
+    {
+      "surface": "בשעיר",
+      "gloss": "Seyirdə"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "qorxacaqlar"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "sizdən"
+    },
+    {
+      "surface": "ונשמרתם",
+      "gloss": "ehtiyatlı olun"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çox"
+    }
+  ],
+  "timestamp": "2026-09-01T10:46:05.672192735Z",
+  "model": "glm-5.3"
+}

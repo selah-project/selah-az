@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 95,
+  "translation": "«Buna görə» qəzəbimdə and içdim: əgər ⟨onlar⟩ istirahətimə girərlərsə —!",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "«buna görə»"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "and içdim"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "qəzəbimdə"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "girərlərsə"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "istirahətimə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:31:29.004725112Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Və sünnət edəcəksiniz ⟨את⟩ sünnət ətinizi (ördəyinizi); və bu, mənimlə sizin aranızda əhdin nişanı olacaq.",
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "və sünnət edəcəksiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əti"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ət"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "sünnət ətinizin (ördəyiniz)"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "və olacaq"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "nişanı"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "əhdin"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "mənimlə"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "sizin aranızda"
+    }
+  ],
+  "timestamp": "2026-09-01T09:49:46.371461938Z",
+  "model": "glm-5.3"
+}

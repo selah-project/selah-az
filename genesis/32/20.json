@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 32:20",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Həm ⟨את⟩ ikinciyə, həm ⟨את⟩ üçüncüyə, həm sürülərin arxasınca gedən hamısına da bu sözlə əmr etdi: Esavı tapanda ona belə danışın —",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "əmr etdi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "həm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikinciyə"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikinci"
+    },
+    {
+      "surface": "גם",
+      "gloss": "həm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "üçüncüyə"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "üçüncü"
+    },
+    {
+      "surface": "גם",
+      "gloss": "həm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hamısına"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamı"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "gedən"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "arxasınca"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "sürüların"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyə"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "bu sözlə"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "belə"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "danışın"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esava"
+    },
+    {
+      "surface": "במצאכם",
+      "gloss": "tapanda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu"
+    }
+  ],
+  "timestamp": "2026-09-01T09:56:43.098498347Z",
+  "model": "glm-5.3"
+}

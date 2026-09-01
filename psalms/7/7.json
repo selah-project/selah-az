@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 7:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Qalx, Yahve, qəzəbində, özünü düşmənlərimin hirsindən ⟨yüksəlt⟩ və mənim üçün oyat ⟨məni⟩; hökm ki, əmr etmisən ⟨sən⟩.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Qalx"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "qəzəbində"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "özünü yüksəlt"
+    },
+    {
+      "surface": "בעברות",
+      "gloss": "hirsindən"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "düşmənlərimin"
+    },
+    {
+      "surface": "ועורה",
+      "gloss": "və oyat"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənim üçün ⟨məni⟩"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hökm"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "əmr etmisən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:01:51.066898683Z",
+  "model": "glm-5.3"
+}

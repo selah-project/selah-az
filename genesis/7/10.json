@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Və ⟨oldu⟩ yeddi gündən ⟨sonra⟩, və tufanın suları yerin üstündə ⟨oldu⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "və ⟨oldu⟩"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "yeddi ⟨gündən sonra⟩"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "gün"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "və suları"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "tufanın"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨oldu⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    }
+  ],
+  "timestamp": "2026-09-01T09:47:16.984051461Z",
+  "model": "glm-5.3"
+}

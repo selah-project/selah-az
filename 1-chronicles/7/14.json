@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 7:14",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Menaşşenin oğulları: Asriel — onu ⟨aramealı⟩ kənizi doğdu; o, ⟨את⟩ Maxiri, Giladin atasını doğdu.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menaşşenin"
+    },
+    {
+      "surface": "אשריאל",
+      "gloss": "Asriel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "doğdu"
+    },
+    {
+      "surface": "פילגשו",
+      "gloss": "kənizi"
+    },
+    {
+      "surface": "הארמיה",
+      "gloss": "aramealı"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "o, doğdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maxiri"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Maxiri"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atası"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giladin"
+    }
+  ],
+  "timestamp": "2026-09-01T17:02:57.807652311Z",
+  "model": "glm-5.3"
+}

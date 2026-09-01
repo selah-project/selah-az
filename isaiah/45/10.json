@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 45,
+  "translation": "Vay ataya deyənə: «Nə doğursan?» və qadına: «Nə ⟨doğuş ağrısı çəkirsən⟩?",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Vay"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deyənə"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "ataya"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "doğursan"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "və qadına"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "doğuş ağrısı çəkirsən"
+    }
+  ],
+  "timestamp": "2026-09-01T13:09:51.390955465Z",
+  "model": "glm-5.3"
+}

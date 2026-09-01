@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 138,
+  "translation": "Səni çağırdığım gün mənə cavab verdin, canımda məni qüvvətləndirdin ⟨cəsarətləndirdin⟩.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "Səni çağırdığım"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "mənə cavab verdin"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "məni qüvvətləndirdin"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "canımda"
+    },
+    {
+      "surface": "עז",
+      "gloss": "qüvvət"
+    }
+  ],
+  "timestamp": "2026-09-01T15:45:37.610355445Z",
+  "model": "glm-5.3"
+}

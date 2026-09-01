@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 9:1",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Səkkizinci gündə oldu ki, Moşe Aharonu, oğullarını və İsrailin ağsaqqallarını çağırdı.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "oldu ki"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gündə"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "səkkizinci"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "çağırdı"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharonu"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "və oğullarını"
+    },
+    {
+      "surface": "ולזקני",
+      "gloss": "və ağsaqqallarını"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:25:06.304392353Z",
+  "model": "glm-5.3"
+}

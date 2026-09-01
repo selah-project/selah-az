@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 11:8",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Və bütün xarici arvadları üçün belə etdi — onlar öz tanrılarına buxur verib qurban kəsirdilər.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "belə"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etdi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bütün... üçün"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "arvadları"
+    },
+    {
+      "surface": "הנכריות",
+      "gloss": "xarici"
+    },
+    {
+      "surface": "מקטירות",
+      "gloss": "buxur verirdilər"
+    },
+    {
+      "surface": "ומזבחות",
+      "gloss": "qurban kəsirdilər"
+    },
+    {
+      "surface": "לאלהיהן",
+      "gloss": "öz tanrılarına"
+    }
+  ],
+  "timestamp": "2026-09-01T12:18:23.465242157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 6:8",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Və Aram meliki İsrayılla müharibə edirdi; və qulları ilə məsləhətləşib dedi: Filanküsə, fulanküsə ⟨bir⟩ yerə ⟨olacaq⟩ düşərgələrim.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "Və... meliki"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "היה",
+      "gloss": "idi"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "müharibə edirdi"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "İsrayılla"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "məsləhətləşib"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "qulları"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "çox"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "⟨bir⟩ yerə"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "filanküsə"
+    },
+    {
+      "surface": "אלמני",
+      "gloss": "fulanküsə"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "düşərgələrim"
+    }
+  ],
+  "timestamp": "2026-09-01T12:29:51.750127882Z",
+  "model": "glm-5.3"
+}

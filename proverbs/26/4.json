@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 26:4",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Ağılsavada öz ağılsızlığına görə cavab vermə, yoxsa sən də ona bənzərsən.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תען",
+      "gloss": "cavab vermə"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "aqlısavada"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "öz ağılsızlığına görə"
+    },
+    {
+      "surface": "פן",
+      "gloss": "yoxsa"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "bənzərsən"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "גם",
+      "gloss": "də"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:59:01.674968829Z",
+  "model": "glm-5.3"
+}

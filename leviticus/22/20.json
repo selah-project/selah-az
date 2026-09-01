@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "İçində qüsl olan hər şeyi yaxınlaşdırmayın, çünki sizin üçün razılıq ⟨olmayacaq⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hər şeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onun içində"
+    },
+    {
+      "surface": "מום",
+      "gloss": "qüsl"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "yaxınlaşdırın"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "razılıq"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olmayacaq"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:29:08.927673605Z",
+  "model": "glm-5.3"
+}

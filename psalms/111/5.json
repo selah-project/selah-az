@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 111:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 111,
+  "translation": "Ovulmuş ruzi verdi Ondan qorxanlarına; Öz əhdini əbədi xatırlayır.",
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "Ovulmuş ruzi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "Ondan qorxanlarına"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "xatırlayır"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "Öz əhdini"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:17.811610026Z",
+  "model": "glm-5.3"
+}

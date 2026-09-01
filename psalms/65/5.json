@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 65:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 65,
+  "translation": "Xoşbəxt o kəs ki, sən seçirsən və ⟨özünə⟩ yaxına gətirirsən; o, həyətlərində sakin olacaq. Evindəki xeyir-ilə, müqəddəs məbədin ⟨ilə⟩ doyacağıq.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Xoşbəxt"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "seçirsən"
+    },
+    {
+      "surface": "ותקרב",
+      "gloss": "yaxına gətirirsən"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "sakin olacaq"
+    },
+    {
+      "surface": "חצריך",
+      "gloss": "həyətlərində"
+    },
+    {
+      "surface": "נשבעה",
+      "gloss": "doyacağıq"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "xeyir-ilə"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "evindəki"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "məbədin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:21:30.742362667Z",
+  "model": "glm-5.3"
+}

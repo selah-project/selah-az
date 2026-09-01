@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 31:3",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "və mən onu ⟨את⟩ Elohim ruhu ilə doldurdum — hikmətlə, anlayışla, biliklə və hər növ sənətlə.",
+  "tokens": [
+    {
+      "surface": "וָאֲמַלֵּא",
+      "gloss": "doldurdum"
+    },
+    {
+      "surface": "אֹתוֹ",
+      "gloss": "⟨את⟩ onu"
+    },
+    {
+      "surface": "רוּחַ",
+      "gloss": "ruh",
+      "marks": "onu"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בְּחָכְמָה",
+      "gloss": "hikmətlə"
+    },
+    {
+      "surface": "וּבִתְבוּנָה",
+      "gloss": "anlayışla"
+    },
+    {
+      "surface": "וּבְדַעַת",
+      "gloss": "biliklə"
+    },
+    {
+      "surface": "וּבְכָל",
+      "gloss": "hər növ"
+    },
+    {
+      "surface": "מְלָאכָה",
+      "gloss": "sənətlə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:17:31.641615046Z",
+  "model": "glm-5.3"
+}

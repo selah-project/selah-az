@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "micah 7:19",
+  "book": "micah",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "O, geri dönüb bizə rəhm edəcək; günahlarımızı tapdalayacaq; və onların bütün günahlarını dənizin dərinliklərinə atacaqsan.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "geri dönüb"
+    },
+    {
+      "surface": "ירחמנו",
+      "gloss": "bizə rəhm edəcək"
+    },
+    {
+      "surface": "יכבש",
+      "gloss": "tapdalayacaq"
+    },
+    {
+      "surface": "עונתינו",
+      "gloss": "günahlarımızı"
+    },
+    {
+      "surface": "ותשליך",
+      "gloss": "və atacaqsan"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "dərinliklərinə"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dənizin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "חטאותם",
+      "gloss": "onların günahlarını"
+    }
+  ],
+  "timestamp": "2026-09-01T14:49:08.394273234Z",
+  "model": "glm-5.3"
+}

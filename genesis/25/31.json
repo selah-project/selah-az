@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Və Yaakov dedi: «Bu gün öz doğuş haqqını ⟨את⟩ mənə sat.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "sat"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "bu gün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "doğuş haqqın"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "doğuş haqqın"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    }
+  ],
+  "timestamp": "2026-09-01T09:53:25.819255165Z",
+  "model": "glm-5.3"
+}

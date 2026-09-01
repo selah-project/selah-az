@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "obadiah 1:8",
+  "book": "obadiah",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Məgər o gündə, — Yahve deyir, — mən Edomdan müdrikləri məhv etməyəcəyəmmi və Esav dağından anlayışı?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "məgər... məyəcəyəmmi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gündə"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "והאבדתי",
+      "gloss": "məhv etməyəcəyəmmi"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "müdrikləri"
+    },
+    {
+      "surface": "מאדום",
+      "gloss": "Edomdan"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "və anlayışı"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "dağından"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    }
+  ],
+  "timestamp": "2026-09-01T14:43:17.744056791Z",
+  "model": "glm-5.3"
+}

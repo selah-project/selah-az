@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 92,
+  "translation": "Buynuzumu vəhşi öküzün buynuzu kimi ucaltdın, təzə yağla məsh olundum.",
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "ucaltdın"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "vəhşi öküzün kimi"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "buynuzum"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "məsh olundum"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "yağla"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "təzə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:31:52.790697474Z",
+  "model": "glm-5.3"
+}

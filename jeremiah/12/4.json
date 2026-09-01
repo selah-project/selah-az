@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 12:4",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Nə qədər yas tutacaq torpaq, bütün tarlanın otu quruyacaq — onun sakinlərinin şər üzündən? Heyvanlar və quşlar məhv oldular, çünki dedilər: O, ⟨את⟩ axırımızı görməyəcək.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "nə qədər"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "nə vaxta qədər"
+    },
+    {
+      "surface": "תאבל",
+      "gloss": "yas tutacaq"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "torpaq"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "otu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tarlanın"
+    },
+    {
+      "surface": "ייבש",
+      "gloss": "quruyacaq"
+    },
+    {
+      "surface": "מרעת",
+      "gloss": "şər üzündən"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "sakinlərinin"
+    },
+    {
+      "surface": "בה",
+      "gloss": "onun"
+    },
+    {
+      "surface": "ספתה",
+      "gloss": "məhv oldular"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "heyvanlar"
+    },
+    {
+      "surface": "ועוף",
+      "gloss": "quşlar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "dedilər"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "görməyəcək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "axırımızı"
+    },
+    {
+      "surface": "אחריתנו",
+      "gloss": "axırımızı"
+    }
+  ],
+  "timestamp": "2026-09-01T13:29:07.844112443Z",
+  "model": "glm-5.3"
+}

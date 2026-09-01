@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 3:4",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Kral qurban kəsmək üçün Givona getdi — çünki ⟨o⟩ ən böyük bamaydı; Şelomo o qurbangah üstündə min yandırma qurbanı qaldırırdı.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "getdi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "גבענה",
+      "gloss": "Givona"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "qurban kəsmək üçün"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "הבמה",
+      "gloss": "bamaydı"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "ən böyük"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "min"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "yandırma qurbanı"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "qaldırırdı"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "o qurbangah"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "həmin"
+    }
+  ],
+  "timestamp": "2026-09-01T12:10:57.884045651Z",
+  "model": "glm-5.3"
+}

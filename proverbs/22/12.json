@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 22:12",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Yahvenin gözləri biliyi qoruyur, xainin sözlərini isə alt-üst edir.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "gözləri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "נצרו",
+      "gloss": "qoruyur"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "biliyi"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "alt-üst edir"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözlərini"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "xainin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:56:36.331305670Z",
+  "model": "glm-5.3"
+}

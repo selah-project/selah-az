@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 12:11",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Və belə yeyəcəksiniz onu ⟨את⟩: belləriniz qurşanmış, ayaqqabılarınız ayaqlarınızda, əsaclarınız əlinizdə; və onu ⟨את⟩ tələsik yeyəcəksiniz — Pesaxdır o, Yahve üçün.",
+  "tokens": [
+    {
+      "surface": "וככה",
+      "gloss": "və belə"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yeyəcəksiniz"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "מתניכם",
+      "gloss": "belləriniz"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "qurşanmış"
+    },
+    {
+      "surface": "נעליכם",
+      "gloss": "ayaqqabılarınız"
+    },
+    {
+      "surface": "ברגליכם",
+      "gloss": "ayaqlarınızda"
+    },
+    {
+      "surface": "ומקלכם",
+      "gloss": "və əsaclarınız"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "əlinizdə"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "və yeyəcəksiniz"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "tələsik"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesax"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:08:17.886136908Z",
+  "model": "glm-5.3"
+}

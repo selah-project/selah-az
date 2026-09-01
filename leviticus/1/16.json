@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "⟨O⟩ onun ⟨את⟩ işkəmbəsini lələkləri ilə çıxaracaq və ⟨את⟩ onu altara yaxın, şərq tərəfə, külün yerinə atacaq.",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "çıxaracaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "işkəmbəsini"
+    },
+    {
+      "surface": "מראתו",
+      "gloss": "işkəmbəsini"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "lələkləri ilə"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "atacaq"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ onu",
+      "marks": "işkəmbəni"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "yanında"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarın"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "şərqə"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "yerinə"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "külün"
+    }
+  ],
+  "timestamp": "2026-09-01T17:27:38.718959202Z",
+  "model": "glm-5.3"
+}

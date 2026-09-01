@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "və bir xalqdan ⟨digərinə⟩ gəzib-dolaşdılar, millətdən millətə, ⟨bir⟩ məmləkətdən başqa bir xalqa",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "gəzib-dolaşdılar"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "millətdən"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨üçün⟩"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "millətə"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "məmləkətdən"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨üçün⟩"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "başqa"
+    }
+  ],
+  "timestamp": "2026-09-01T18:03:20.513598618Z",
+  "model": "glm-5.3"
+}

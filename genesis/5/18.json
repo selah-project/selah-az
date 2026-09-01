@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 5:18",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Və Yared yüz altmış iki il yaşadı, və ⟨את⟩ Hanoxu doğdu.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "yaşadı"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Yared"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "iki"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "və altmış"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "il"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "və yüz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "il"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "və doğdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hanoxu"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanoxu"
+    }
+  ],
+  "timestamp": "2026-09-01T09:46:45.045134111Z",
+  "model": "glm-5.3"
+}

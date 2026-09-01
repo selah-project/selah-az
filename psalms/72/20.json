@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 72,
+  "translation": "Qurtardı Dudun, Yişayin oğlunun duaları.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "qurtardı"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "duaları"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dudun"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yişayin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:23:59.850163921Z",
+  "model": "glm-5.3"
+}

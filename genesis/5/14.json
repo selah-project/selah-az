@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 5:14",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Və Qeynanın bütün günləri doqquz yüz on il oldu; və o ⟨öldü⟩.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "günləri"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Qeynanın"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "on"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "il"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "və doqquz"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "il"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "öldü"
+    }
+  ],
+  "timestamp": "2026-09-01T09:46:42.083766823Z",
+  "model": "glm-5.3"
+}

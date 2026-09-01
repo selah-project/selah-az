@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 150,
+  "translation": "O-na tərif deyin ⟨onun⟩ qəhrimanlıqlarında; O-na tərif deyin ⟨onun⟩ böyüklüyünün çoxluğuna görə.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "O-na tərif deyin"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "onun qəhrimanlıqlarında"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "O-na tərif deyin"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "çoxluğuna görə"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "onun böyüklüyü"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:04.792114360Z",
+  "model": "glm-5.3"
+}

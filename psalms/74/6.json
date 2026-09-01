@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 74:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 74,
+  "translation": "Və indi onun bütün oyma işlərini birlikdə balta və dəlbərlə vurub dağıdırlar.",
+  "tokens": [
+    {
+      "surface": "ועת",
+      "gloss": "və indi"
+    },
+    {
+      "surface": "פתוחיה",
+      "gloss": "onun oyma işlərini"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "birlikdə"
+    },
+    {
+      "surface": "בכשיל",
+      "gloss": "baltayla"
+    },
+    {
+      "surface": "וכילפת",
+      "gloss": "və dəlbərlə"
+    },
+    {
+      "surface": "יהלמון",
+      "gloss": "vurub dağıdırlar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:25:13.224844388Z",
+  "model": "glm-5.3"
+}

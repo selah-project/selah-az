@@ -1,0 +1,151 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 14:4",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Ona görə onlarla ⟨את⟩ danış və onlara de: Belə deyir Adonay Yahve: İsrail evindən hər kəs ki, öz bütlərini ⟨את⟩ ürəyinə qaldırar və günahının sədini üzünün qabağına qoyar və peyğəmbərin yanına gələrsə — mən Yahve, ona bu barədə, bütlərinin çoxluğuna görə cavab verəcəyəm.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ona görə"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "danış"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "və de"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "כה",
+      "gloss": "belə"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər kəs"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər kəs (təkrar)"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "evindən"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "qaldırar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütlərini"
+    },
+    {
+      "surface": "גלוליו",
+      "gloss": "bütlərini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ürəyi"
+    },
+    {
+      "surface": "ומכשול",
+      "gloss": "və səd"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "günahının"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "qoyar"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "qabağına"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "üzünün"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "və gələrsə"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "peyğəmbərin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נעניתי",
+      "gloss": "cavab verəcəyəm"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "בה",
+      "gloss": "bu barədə"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "çoxluğuna görə"
+    },
+    {
+      "surface": "גלוליו",
+      "gloss": "bütlərinin"
+    }
+  ],
+  "timestamp": "2026-09-01T14:07:07.457436791Z",
+  "model": "glm-5.3"
+}

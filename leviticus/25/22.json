@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 25:22",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Səkkizinci ili ⟨את⟩ əkəcəksiniz və köhnə məhsuldan yeyəcəksiniz, doqquzuncu ilə qədər, onun məhsulu gələnə qədər köhnəsini yeyəcəksiniz.",
+  "tokens": [
+    {
+      "surface": "וזרעתם",
+      "gloss": "əkəcəksiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "səkkizinci ili"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "ili"
+    },
+    {
+      "surface": "השמינת",
+      "gloss": "səkkizinci"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "yeyəcəksiniz"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "məhsul"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "köhnə"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "il"
+    },
+    {
+      "surface": "התשיעת",
+      "gloss": "doqquzuncu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "gələn"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "onun məhsulu"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yeyəcəksiniz"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "köhnəsini"
+    }
+  ],
+  "timestamp": "2026-09-01T10:30:27.684787884Z",
+  "model": "glm-5.3"
+}

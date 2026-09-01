@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 51:20",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 51,
+  "translation": "Xeyir eylə razılığınla ⟨את⟩ Tsiyonu ⟨sən⟩; Yeruşalayimin divarlarını ⟨sən⟩ tikəcəksən.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "Xeyir eylə"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "razılığınla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiyonu"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyonu"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "tikəcəksən"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "divarlarını"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayimin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:18:05.259463794Z",
+  "model": "glm-5.3"
+}

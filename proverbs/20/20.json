@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 20:20",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Atasını və anasını lənətləyənin çırağı zülmət qaranlıqda sönəcək.",
+  "tokens": [
+    {
+      "surface": "מקלל",
+      "gloss": "lənətləyənin"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atasını"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "və anasını"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "sönəcək"
+    },
+    {
+      "surface": "נרו",
+      "gloss": "çırağı"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "zülmət qaranlıqda"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "qaranlıqda"
+    }
+  ],
+  "timestamp": "2026-09-01T15:55:57.885513380Z",
+  "model": "glm-5.3"
+}

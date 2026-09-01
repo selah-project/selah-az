@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Qanunlarında həzz alacağam, sözünü unutmayacağam.",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "qanunlarında"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "həzz alacağam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "unutmayacağam"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "sözünü"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:21.558822022Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 23:14",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Və çörək, qovrulmuş dən və təzə dən yeməyəcəksiniz — elə bu günə qədər, Elohiminizin qurbanını gətirənədək: ⟨את⟩. Əbədi hökm nəsilləriniz üçün, bütün məskənlərinizdə.",
+  "tokens": [
+    {
+      "surface": "ולחם",
+      "gloss": "və çörək"
+    },
+    {
+      "surface": "וקלי",
+      "gloss": "qovrulmuş dən"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "təzə dən"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yeməyəcəksiniz"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "elin özü"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bu gün"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "הביאכם",
+      "gloss": "siz gətirənədək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurban"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "qurban"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiminizin"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "hökm"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "nəsilləriniz üçün"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "məskənlərinizdə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:30:33.691422950Z",
+  "model": "glm-5.3"
+}

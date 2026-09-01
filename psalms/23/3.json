@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Canımı geri qaytarır, ədalət yollarında məni yönəldir — öz Adı uğrunda.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Canımı"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "geri qaytarır"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "məni yönəldir"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "yollarında"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ədalət"
+    },
+    {
+      "surface": "למען",
+      "gloss": "uğrunda"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "öz Adı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:07:47.505517807Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 64:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 64,
+  "translation": "Məni pislərin məclisindən, haqsızlıq işlədənlərin qiyamından gizlət.",
+  "tokens": [
+    {
+      "surface": "תסתירני",
+      "gloss": "Məni gizlət"
+    },
+    {
+      "surface": "מסוד",
+      "gloss": "məclisindən"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "pislərin"
+    },
+    {
+      "surface": "מרגשת",
+      "gloss": "qiyamından"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "işlədənlərin"
+    },
+    {
+      "surface": "און",
+      "gloss": "haqsızlıq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:21:08.997107592Z",
+  "model": "glm-5.3"
+}

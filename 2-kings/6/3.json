@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Birləri dedi: Xahiş edirəm, razı ol və qullarınla ⟨את⟩ birlikdə get. O dedi: Mən gedəcəyəm.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o dedi"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "birləri"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "razı ol"
+    },
+    {
+      "surface": "נא",
+      "gloss": "xahiş edirəm"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "get"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qullarınla birlikdə"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "qullarınla"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o dedi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "gedəcəyəm"
+    }
+  ],
+  "timestamp": "2026-09-01T12:31:18.901620209Z",
+  "model": "glm-5.3"
+}

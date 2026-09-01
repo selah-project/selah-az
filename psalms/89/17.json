@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 89:17",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 89,
+  "translation": "Adınla bütün gün sevinərlər, səlahiyyətinlə ucalar.",
+  "tokens": [
+    {
+      "surface": "בשמך",
+      "gloss": "adınla"
+    },
+    {
+      "surface": "יגילון",
+      "gloss": "sevinərlər"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "ובצדקתך",
+      "gloss": "səlahiyyətinlə"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "ucalar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:30:17.132519846Z",
+  "model": "glm-5.3"
+}

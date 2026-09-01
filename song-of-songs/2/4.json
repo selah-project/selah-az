@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 2:4",
+  "book": "song-of-songs",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Məni şərab evinə gətirdi, onun bayrağı üstümdə sevgidir.",
+  "tokens": [
+    {
+      "surface": "הביאני",
+      "gloss": "Məni gətirdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ına"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "היין",
+      "gloss": "şərab"
+    },
+    {
+      "surface": "ודגלו",
+      "gloss": "onun bayrağı"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üstümdə"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "sevgidir"
+    }
+  ],
+  "timestamp": "2026-09-01T16:20:57.868863730Z",
+  "model": "glm-5.3"
+}

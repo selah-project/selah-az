@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-kings 1:52",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və Şlomoh dedi: Əgər o, igid oğlan olsa, onun saçından ⟨bir tel⟩ yerə düşməyəcək; amma əgər onda pislik tapsalar, öləcək.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şlomoh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olsa"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "oğlan"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "igid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "düşməyəcək"
+    },
+    {
+      "surface": "משערתו",
+      "gloss": "onun saçından"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yerə"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "amma əgər"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pislik"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "tapsalar"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onda"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "öləcək"
+    }
+  ],
+  "timestamp": "2026-09-01T17:34:03.990970097Z",
+  "model": "glm-5.3"
+}

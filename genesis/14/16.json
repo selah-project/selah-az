@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 14:16",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Və ⟨o⟩ bütün malları geri qaytardı, həmçinin qardaşı Lotu və onun mallarını da geri qaytardı, həmçinin ⟨את⟩ qadınları və ⟨את⟩ xalqı ⟨da⟩.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Və geri qaytardı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün malları"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "malları"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "həmçinin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qardaşı Lotu"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lotu"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "qardaşı"
+    },
+    {
+      "surface": "ורכשו",
+      "gloss": "və onun mallarını"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "geri qaytardı"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "həmçinin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qadınları"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "qadınları"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "xalqı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqı"
+    }
+  ],
+  "timestamp": "2026-09-01T09:49:40.971509356Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "O şəhərin yaşlıları o adamı götürüb ⟨את⟩ onu cəzalandırmalıdırlar.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "və götürməlidirlər"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "yaşlıları"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şəhərin"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "o adamı"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "və cəzalandırmalıdırlar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu"
+    }
+  ],
+  "timestamp": "2026-09-01T10:53:35.578491305Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 29:20",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "Siz isə Yahvenin sözünü eşidin, ey bütün sürgün — hansı ki mən onları Yeruşalayimdan Bavelə göndərmişəm.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "siz isə"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "eşidin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sözünü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "sürgün"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hansı ki"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "göndərmişəm"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "Yeruşalayimdan"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Bavelə"
+    }
+  ],
+  "timestamp": "2026-09-01T13:41:22.344047570Z",
+  "model": "glm-5.3"
+}

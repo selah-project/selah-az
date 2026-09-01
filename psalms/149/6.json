@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 149:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 149,
+  "translation": "El-in ucalıq tərifləri boğazlarında, və iki ağzılı qılınc əllərində olsun.",
+  "tokens": [
+    {
+      "surface": "רוממות",
+      "gloss": "ucalıq tərifləri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El-in"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "boğazlarında"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "və qılınc"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "iki ağzılı"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "əllərində"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:41.486094631Z",
+  "model": "glm-5.3"
+}

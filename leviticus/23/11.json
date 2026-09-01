@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 23:11",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "O Kahin onu Yahve önündə, sizin qəbulunuz üçün dalğalandıracaq; şabbatdan sonrakı gün ⟨onu⟩ kahin dalğalandıracaq.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "və dalğalandıracaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omer dəstini"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "omer dəsti"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önündə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "sizin qəbulunuz üçün"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "sonrakı gün"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "şabbat"
+    },
+    {
+      "surface": "יניפנו",
+      "gloss": "onu dalğalandıracaq"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:29:36.030405616Z",
+  "model": "glm-5.3"
+}

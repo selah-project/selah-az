@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "O, daşlarla Davudə ⟨את⟩ və kral Davudün bütün qullarına ⟨את⟩ daş atırdı; bütün xalq və bütün qüdrətli adamlar ⟨is⟩ onun sağında və solunda.",
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "daş atırdı"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "daşlarla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davudə"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bütün qullarına"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "qullarına"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davudün"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "qüdrətli adamlar"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "onun sağında"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "və solunda"
+    }
+  ],
+  "timestamp": "2026-09-01T12:00:25.585728169Z",
+  "model": "glm-5.3"
+}

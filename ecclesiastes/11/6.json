@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Səhər ⟨את⟩ toxumunu səp, axşam isə əlini dayandırma; çünki bilməzsən hansı düz gələcək — bu, yoxsa o, yoxsa hər ikisi bərabər yaxşıdır.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "səhər"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "səp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toxumunu"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "toxumunu"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "axşam isə"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dayandırma"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "dayandırma"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "əlini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "bilməzsən"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "bilməzsən"
+    },
+    {
+      "surface": "אי",
+      "gloss": "hansı"
+    },
+    {
+      "surface": "זה",
+      "gloss": "düz gələcək"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "düz gələcək"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "או",
+      "gloss": "yoxsa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "o"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "yoxsa"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "hər ikisi"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "bərabər"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "yaxşıdır"
+    }
+  ],
+  "timestamp": "2026-09-01T16:33:11.296741822Z",
+  "model": "glm-5.3"
+}

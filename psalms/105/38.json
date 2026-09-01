@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 105:38",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 105,
+  "translation": "Mitsrayim onların çıxmasından sevindi, çünki onların qorxusu onların üstünə düşdü.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "sevindi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "onların çıxmasından"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "düşdü"
+    },
+    {
+      "surface": "פחדם",
+      "gloss": "onların qorxusu"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "onların üstünə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:35:35.870671483Z",
+  "model": "glm-5.3"
+}

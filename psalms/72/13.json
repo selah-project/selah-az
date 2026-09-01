@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 72,
+  "translation": "Zəifin və ehtiyac sahibinin üzərinə rəhm edəcək, və ehtiyac sahiblərinin canlarını xilas edəcək.",
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "rəhm edəcək"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "דל",
+      "gloss": "zəifin"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "və ehtiyac sahibinin"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "və canlarını"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "ehtiyac sahiblərinin"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "xilas edəcək"
+    }
+  ],
+  "timestamp": "2026-09-01T15:24:16.071589791Z",
+  "model": "glm-5.3"
+}

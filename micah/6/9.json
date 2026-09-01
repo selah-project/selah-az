@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 6:9",
+  "book": "micah",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Yahvenin səsi şəhərə çağırır, və müdriklik Adından qorxur; çomağı eşidin, və kim onu təyin edib.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "səsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "şəhərə"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "çağırır"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "və müdriklik"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "qorxur"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Adın"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "eşidin"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "çomağı"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "və kim"
+    },
+    {
+      "surface": "יעדה",
+      "gloss": "onu təyin edib"
+    }
+  ],
+  "timestamp": "2026-09-01T14:48:37.292905Z",
+  "model": "glm-5.3"
+}

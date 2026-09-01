@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Və göyərçinlərdən və ya göyərcin balalarından birini — əlinin çatdığı qədər — ⟨את⟩ birini edəcək.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "edəcək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "birini"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "birini"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "göyərçinlərdən"
+    },
+    {
+      "surface": "או",
+      "gloss": "və ya"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "balalarından"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "göyərcinin"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "-dan, nə ki"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "çatır"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "onu əli"
+    }
+  ],
+  "timestamp": "2026-09-01T10:26:01.525715441Z",
+  "model": "glm-5.3"
+}

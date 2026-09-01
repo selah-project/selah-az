@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Qarşımda süfrə düzürsən — düşmənlərimin qarşısında; başımı yağla yaşırsan; kəsamdovğundur.",
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "düzürsən"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "qarşında"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "süfrə"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "qarşısında"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "düşmənlərimin"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "yaşırsan"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "yağla"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "başımı"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "kəsam"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "dovğundur"
+    }
+  ],
+  "timestamp": "2026-09-01T15:08:29.839038065Z",
+  "model": "glm-5.3"
+}

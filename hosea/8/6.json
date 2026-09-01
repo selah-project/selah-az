@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 8:6",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Çünki İsraildən ⟨bu⟩dur ⟨o⟩; sənətkar onu düzəltdi, və Elohim o deyil; çünki pərə-pərə olacaq — Şomeronin buzağısı.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "İsraildən"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "⟨bu⟩dur ⟨o⟩"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "sənətkar"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "onu düzəltdi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... deyil"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "שבבים",
+      "gloss": "pərə-pərə"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "buzağısı"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Şomeronin"
+    }
+  ],
+  "timestamp": "2026-09-01T14:38:03.824831479Z",
+  "model": "glm-5.3"
+}

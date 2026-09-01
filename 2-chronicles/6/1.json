@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 6:1",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "O zaman Şelomo dedi: Yahve qaranlıqda yaşamaq üçün demişdir.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "o zaman"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "demişdir"
+    },
+    {
+      "surface": "לשכון",
+      "gloss": "yaşamaq üçün"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "qaranlıqda"
+    }
+  ],
+  "timestamp": "2026-09-01T17:14:09.351243870Z",
+  "model": "glm-5.3"
+}

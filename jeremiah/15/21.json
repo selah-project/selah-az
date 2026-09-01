@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 15:21",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "və səni şərirlərin əlindən qurtaracağam, və səni zorbaların ⟨əlindən⟩ satın alıb azad edəcəyəm.",
+  "tokens": [
+    {
+      "surface": "והצלתיך",
+      "gloss": "və səni qurtaracağam"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "əlindən"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "şərirlərin"
+    },
+    {
+      "surface": "ופדתיך",
+      "gloss": "və səni satın alıb azad edəcəyəm"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "⟨əlindən⟩"
+    },
+    {
+      "surface": "ערצים",
+      "gloss": "zorbaların"
+    }
+  ],
+  "timestamp": "2026-09-01T13:29:07.459934064Z",
+  "model": "glm-5.3"
+}

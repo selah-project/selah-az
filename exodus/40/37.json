@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 40:37",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "Əgər bulud qalxmasaydı, onlar qalxduğu günə qədər yola düşməzdilər.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "qalxmasaydı"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "bulud"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "yola düşməzdilər"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "יום",
+      "gloss": "günə"
+    },
+    {
+      "surface": "העלתו",
+      "gloss": "qalxduğu"
+    }
+  ],
+  "timestamp": "2026-09-01T10:21:47.861410898Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 63,
+  "translation": "Çünki sən mənim üçün kömək olmusan, və qanadlarının kölgəsində sevinclə nəğmə deyirəm.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "היית",
+      "gloss": "olmusan"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "kömək"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənim üçün"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "və kölgəsində"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "qanadlarının"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "sevinclə nəğmə deyirəm"
+    }
+  ],
+  "timestamp": "2026-09-01T15:21:35.147199794Z",
+  "model": "glm-5.3"
+}

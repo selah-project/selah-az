@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 147:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 147,
+  "translation": "O, sənin sərhədinə şalom verir, səni buğdanın ⟨ən yağı ilə⟩ tox doyuzdurur.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "o, qoyur"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "sənin sərhədinə"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "şalom (sülh)"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "yağı"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "buğdanın"
+    },
+    {
+      "surface": "ישביעך",
+      "gloss": "səni tox doyuzdurur"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:30.331858475Z",
+  "model": "glm-5.3"
+}

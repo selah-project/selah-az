@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 45:18",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 45,
+  "translation": "atanızı ⟨את⟩ və evlərinizi ⟨את⟩ götürüb mənə gəlin; mən sizə Mitsrayim torpağının yaxşılığını ⟨את⟩ verəcəyəm və torpağın yağını ⟨את⟩ yeyəcəksiniz.",
+  "tokens": [
+    {
+      "surface": "וקחו",
+      "gloss": "və götürüb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atanızı"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "atanız"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "evlərinizi"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "evləriniz"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "və gəlin"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "verəcəyəm"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yaxşılığı"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşılığını"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "torpağının"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "yeyəcəksiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yağı"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "yağını"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "torpağın"
+    }
+  ],
+  "timestamp": "2026-09-01T10:02:30.738377473Z",
+  "model": "glm-5.3"
+}

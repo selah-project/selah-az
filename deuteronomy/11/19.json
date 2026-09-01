@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 11:19",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "və ⟨את⟩ onları övladlarınıza öyrədəcəksiniz — onlar haqqında danışmaq üçün — evində oturanda, yolda gedəndə, uzanıb yatananda və qalxanda.",
+  "tokens": [
+    {
+      "surface": "ולמדתם",
+      "gloss": "öyrədəcəksiniz"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ onları"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "övladlarınıza"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "övladlarınıza"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "danışmaq üçün"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onlar haqqında"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "oturanda"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "evində"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "və gedəndə"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolda"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "və yatananda"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "və qalxanda"
+    }
+  ],
+  "timestamp": "2026-09-01T10:49:40.933047383Z",
+  "model": "glm-5.3"
+}

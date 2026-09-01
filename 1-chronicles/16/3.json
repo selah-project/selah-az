@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 16:3",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Və Yisraelin hər kişisinə, kişidən qadınadək, hər kişi üçün bir çörək çörəyi, bir xurma kütləsi və bir üzüm kütləsi payladı.",
+  "tokens": [
+    {
+      "surface": "ויחלק",
+      "gloss": "payladı"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kişisinə"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraelin"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "kişidən"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "adək"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "qadın"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kişi üçün"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "bir çörək"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "çörək"
+    },
+    {
+      "surface": "ואשפר",
+      "gloss": "bir xurma kütləsi"
+    },
+    {
+      "surface": "ואשישה",
+      "gloss": "bir üzüm kütləsi"
+    }
+  ],
+  "timestamp": "2026-09-01T17:05:29.310361180Z",
+  "model": "glm-5.3"
+}

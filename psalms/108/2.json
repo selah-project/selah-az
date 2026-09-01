@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 108,
+  "translation": "Hazırdır qəlbim, Elohim; mən oxuyacağam, bəli, mədh edəcəyəm, hətta izzətimlə də.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "Hazırdır"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "qəlbim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "oxuyacağam"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "mədh edəcəyəm"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hətta"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "izzətimlə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:10.979223288Z",
+  "model": "glm-5.3"
+}

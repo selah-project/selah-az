@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Hər vaxt libasların ağ olsun, və başının üstündən yağ əskilməsin.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vaxt"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "libasların"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "ağ"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "və yağ"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündən"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "başının"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-sin (inkar)"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "əskilmə"
+    }
+  ],
+  "timestamp": "2026-09-01T17:45:09.035251097Z",
+  "model": "glm-5.3"
+}

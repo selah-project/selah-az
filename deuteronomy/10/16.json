@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Və ürəyinizin örtüyünü kəsin, və boynunuzu artıq sərtləşdirməyin.",
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "və kəsin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ürəyinizin örtüyünü"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "örtüyünü"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ürəyinizin"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "və boynunuzu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-məyin"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "sərtləşdirin"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "artıq"
+    }
+  ],
+  "timestamp": "2026-09-01T10:48:51.781992454Z",
+  "model": "glm-5.3"
+}

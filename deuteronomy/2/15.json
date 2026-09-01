@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 2:15",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Həm də Yahvenin əli onların üzərinə idi — onları düşərgənin içindən məhv etmək üçün, sona çatana qədər.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "həm də"
+    },
+    {
+      "surface": "יד",
+      "gloss": "əli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "idi"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onların üzərinə"
+    },
+    {
+      "surface": "להמם",
+      "gloss": "məhv etmək üçün"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "içindən"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "düşərgənin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "sona çatana"
+    }
+  ],
+  "timestamp": "2026-09-01T10:45:48.938950526Z",
+  "model": "glm-5.3"
+}

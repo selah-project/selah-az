@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "və Luta da — Avramla ⟨את⟩ gedənə — qoyunlar, inəklər və çadırlar ⟨var idi⟩.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "və ... da"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "Luta"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "gedən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avramla"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨var idi⟩"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "qoyunlar"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "və inəklər"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "və çadırlar"
+    }
+  ],
+  "timestamp": "2026-09-01T17:25:20.892686081Z",
+  "model": "glm-5.3"
+}

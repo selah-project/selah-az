@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 2:28",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və onun dəstəsi, və onların sayılmışları: qırx bir min beş yüz ⟨nəfər⟩.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "və onun dəstəsi"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "və onların sayılmışları"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "və qırx"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "min"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "beş"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    }
+  ],
+  "timestamp": "2026-09-01T10:33:01.585564822Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 37:16",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Ey Sevaların Yahvesi, İsrailin Elohimi, kruvimlərin üstündə oturan, bütün yer krallıqlarının Elohimi yalnız sənsən ⟨sən⟩, sən ⟨את⟩ göyləri və ⟨את⟩ yeri yaratdın.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sevaların"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailin"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "oturan"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "kruvimlərin üstündə"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sənsən"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨sən⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "krallıqlarının"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "yaratdın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "göyləri"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göyləri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yeri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeri"
+    }
+  ],
+  "timestamp": "2026-09-01T13:04:21.488201152Z",
+  "model": "glm-5.3"
+}

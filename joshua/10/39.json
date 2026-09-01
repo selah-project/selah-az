@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "joshua 10:39",
+  "book": "joshua",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Onu, ⟨את⟩ onun padşahını və ⟨את⟩ bütün şəhərlərini tutdu; onları qılıncın ağzı ilə vurdu, ⟨את⟩ içindəki bütün canları həram etdilər; sağ qalan buraxmadı — Hevrona etdiyi kimi, belə Dvirə və onun padşahına etdi, Libnaya və onun padşahına etdiyi kimi.",
+  "tokens": [
+    {
+      "surface": "וילכדה",
+      "gloss": "onu tutdu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "onun padşahını"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "onun padşahını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bütün şəhərlərini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עריה",
+      "gloss": "şəhərlərini"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "onları vurdu"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ağzı ilə"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "qılıncın"
+    },
+    {
+      "surface": "ויחרימו",
+      "gloss": "həram etdilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün canları"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "canları"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בה",
+      "gloss": "içindəki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "buraxmadı"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "sağ qalan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etdiyi"
+    },
+    {
+      "surface": "לחברון",
+      "gloss": "Hevrona"
+    },
+    {
+      "surface": "כן",
+      "gloss": "belə"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etdi"
+    },
+    {
+      "surface": "לדברה",
+      "gloss": "Dvirə"
+    },
+    {
+      "surface": "ולמלכה",
+      "gloss": "və onun padşahına"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "və kimi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etdiyi"
+    },
+    {
+      "surface": "ללבנה",
+      "gloss": "Libnaya"
+    },
+    {
+      "surface": "ולמלכה",
+      "gloss": "və onun padşahına"
+    }
+  ],
+  "timestamp": "2026-09-01T11:07:43.512511574Z",
+  "model": "glm-5.3"
+}

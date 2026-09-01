@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 65:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 65,
+  "translation": "Dağları öz qüdrəti ilə təməldə qərarlaşdırır, güc ilə kəmərlənmişdir.",
+  "tokens": [
+    {
+      "surface": "מכין",
+      "gloss": "təməldə qərarlaşdırır"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "Dağları"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "öz qüdrəti ilə"
+    },
+    {
+      "surface": "נאזר",
+      "gloss": "kəmərlənmişdir"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "güc ilə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:21:30.742712880Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 4:3",
+  "book": "daniel",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Buna görə ⟨mənim tərəfimdən⟩ fərman qoyuldu ki, bütün Babilin müdrikləri önümə gətirilsinlər, yuxunun yozumunu mənə bildirsinlər.",
+  "tokens": [
+    {
+      "surface": "ומני",
+      "gloss": "Buna görə ⟨mənim tərəfimdən⟩"
+    },
+    {
+      "surface": "שים",
+      "gloss": "qoyuldu"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "fərman"
+    },
+    {
+      "surface": "להנעלה",
+      "gloss": "gətirilsinlər"
+    },
+    {
+      "surface": "קדמי",
+      "gloss": "önümə"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "חכימי",
+      "gloss": "müdrikləri"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilin"
+    },
+    {
+      "surface": "די",
+      "gloss": "ki"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "yozumunu"
+    },
+    {
+      "surface": "חלמא",
+      "gloss": "yuxunun"
+    },
+    {
+      "surface": "יהודענני",
+      "gloss": "mənə bildirsinlər"
+    }
+  ],
+  "timestamp": "2026-09-01T16:42:04.170927503Z",
+  "model": "glm-5.3"
+}

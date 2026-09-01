@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 4:29",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "və ⟨את⟩ əlini günah qurbanının başı üstünə qoyacaq, və ⟨את⟩ günah qurbanını yandırma qurbanının kəsildiyi yerdə kəsəcək.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "qoyacaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əlini"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "əlini"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "baş"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "günah qurbanının"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "kəsəcək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "günah qurbanını"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "günah qurbanını"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "yerdə"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yandırma qurbanının"
+    }
+  ],
+  "timestamp": "2026-09-01T10:23:54.226616025Z",
+  "model": "glm-5.3"
+}

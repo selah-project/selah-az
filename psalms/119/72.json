@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Ağzının Tövrəsi mən üçün minlərlə qızıl və gümüşdən yaxşıdır.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "yaxşıdır"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mən üçün"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tövrəsi"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ağzının"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "minlərlə ... dən"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "qızıl"
+    },
+    {
+      "surface": "וככסף",
+      "gloss": "və gümüşdən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:44.701840064Z",
+  "model": "glm-5.3"
+}

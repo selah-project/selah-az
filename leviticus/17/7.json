@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 17:7",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Və onlar artıq ⟨את⟩ qurbanlarını keçilərinə — hansılar ki onlar onların arxasından fahişəlik edirlər — kəsməsinlər; bu onlar üçün nəsillərində əbədi qanun olacaq.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "-məsinlər"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "və kəssinlər"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "artıq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbanlarını"
+    },
+    {
+      "surface": "זבחיהם",
+      "gloss": "qurbanlarını"
+    },
+    {
+      "surface": "לשעירם",
+      "gloss": "keçilərinə"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hansılar ki"
+    },
+    {
+      "surface": "הם",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "זנים",
+      "gloss": "fahişəlik edirlər"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "onların arxasından"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "qanun"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlar üçün"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "nəsillərində"
+    }
+  ],
+  "timestamp": "2026-09-01T10:28:49.300383954Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Hatəx Mordoxayın yanına çıxdı — kral qapısının qarşısındakı şəhər meydanına.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "çıxdı"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hatəx"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordoxay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−ya"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "meydanına"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şəhərin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki, o"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "qarşısında"
+    },
+    {
+      "surface": "שער",
+      "gloss": "qapısının"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    }
+  ],
+  "timestamp": "2026-09-01T16:35:27.821526511Z",
+  "model": "glm-5.3"
+}

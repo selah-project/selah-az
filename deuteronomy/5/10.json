@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 5:10",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "və minlərlə nəslə qədər Məni-sevənlərə, Mənim əmrlərimi saxlayanlara hesed edirəm.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "və edirəm"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "minlərlə nəslə qədər"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "Məni-sevənlərə"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "və saxlayanlara"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "Mənim əmrlərimi"
+    }
+  ],
+  "timestamp": "2026-09-01T10:47:21.792075280Z",
+  "model": "glm-5.3"
+}

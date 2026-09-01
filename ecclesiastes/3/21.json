@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 3:21",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Kim bilir, insan oğullarının ruhu yuxarıya qalxanmı, heyvanın ruhu ise aşağıya, yerə enənmı?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "bilir"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yuxarıya qalxan"
+    },
+    {
+      "surface": "היא",
+      "gloss": "o"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "yuxarıya"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ve ruhu"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "heyvanın"
+    },
+    {
+      "surface": "הירדת",
+      "gloss": "aşağıya enən"
+    },
+    {
+      "surface": "היא",
+      "gloss": "o"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "aşağıya"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "yerə"
+    }
+  ],
+  "timestamp": "2026-09-01T16:28:54.289406560Z",
+  "model": "glm-5.3"
+}

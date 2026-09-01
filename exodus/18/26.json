@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 18:26",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Onlar xalqı hər vaxt ⟨את⟩ mühakimə edirdilər; ⟨את⟩ çətin işi Moşenin yanına gətirirdilər, hər kiçik işi isə özləri mühakimə edirdilər.",
+  "tokens": [
+    {
+      "surface": "ושפטו",
+      "gloss": "mühakimə edirdilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vaxt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çətin işi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "iş"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "çətin"
+    },
+    {
+      "surface": "יביאון",
+      "gloss": "gətirirdilər"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "iş"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "kiçik"
+    },
+    {
+      "surface": "ישפוטו",
+      "gloss": "mühakimə edirdilər"
+    },
+    {
+      "surface": "הם",
+      "gloss": "özləri"
+    }
+  ],
+  "timestamp": "2026-09-01T10:10:46.586793113Z",
+  "model": "glm-5.3"
+}

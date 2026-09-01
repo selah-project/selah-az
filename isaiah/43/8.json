@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 43:8",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 43,
+  "translation": "Gözü olan kor xalqı, qulağı olan karları ⟨çıxart⟩.",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "çıxart"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalqı"
+    },
+    {
+      "surface": "עור",
+      "gloss": "kor"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "və gözü olan"
+    },
+    {
+      "surface": "יש",
+      "gloss": "olan (var)"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "və karlar"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "və qulağı olan"
+    },
+    {
+      "surface": "למו",
+      "gloss": "onlara"
+    }
+  ],
+  "timestamp": "2026-09-01T13:06:51.118845507Z",
+  "model": "glm-5.3"
+}

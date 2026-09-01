@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 10:19",
+  "book": "ezra",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Və əllərini verdilər ki, öz qadınlarını çıxarsınlar; və günahkar olaraq günahlarına görə ⟨את⟩ sürüdən bir qoç ⟨təqdim etdilər⟩.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "verdilər"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "əllərini"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "çıxarsınlar"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "qadınlarını"
+    },
+    {
+      "surface": "ואשמים",
+      "gloss": "günahkar olaraq"
+    },
+    {
+      "surface": "איל",
+      "gloss": "qoç"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "sürüdən"
+    },
+    {
+      "surface": "על",
+      "gloss": "görə"
+    },
+    {
+      "surface": "אשמתם",
+      "gloss": "günahlarına"
+    }
+  ],
+  "timestamp": "2026-09-01T16:51:29.472460686Z",
+  "model": "glm-5.3"
+}

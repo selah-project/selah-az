@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 24:21",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Və ⟨את⟩ Qeynini gördü, məşəlini qaldırdı və dedi: Əbədidir məskənin, və qayada qurursan yuvanı.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "və gördü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qeynini"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "Qeynini"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "qaldırdı"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "məşəlini"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "əbədidir"
+    },
+    {
+      "surface": "מושבך",
+      "gloss": "məskənin"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "və qurursan"
+    },
+    {
+      "surface": "בסלע",
+      "gloss": "qayada"
+    },
+    {
+      "surface": "קנך",
+      "gloss": "yuvanı"
+    }
+  ],
+  "timestamp": "2026-09-01T10:41:27.688124051Z",
+  "model": "glm-5.3"
+}

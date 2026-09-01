@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Yerə baxdım və bax — o, toyhu və bohu ⟨idi⟩; göylərə ⟨baxdım⟩ və onların işığı yox idi.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "baxdım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yerə"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "və bax"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "toyhu"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "və bohu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və ⟨baxdım⟩"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göylərə"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "və yoxdur"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "onların işığı"
+    }
+  ],
+  "timestamp": "2026-09-01T13:22:47.600636697Z",
+  "model": "glm-5.3"
+}

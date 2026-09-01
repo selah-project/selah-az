@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 83,
+  "translation": "Elohimim! Onları təkər kimi fırlat, küləyin önündəki saman kimi et.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "onları qoy\/fırlat"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "təkər kimi"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "saman kimi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önündə"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "küləyin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:27:48.391182463Z",
+  "model": "glm-5.3"
+}

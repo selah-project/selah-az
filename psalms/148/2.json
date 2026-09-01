@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 148:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 148,
+  "translation": "Həmd deyin ⟨Ona⟩ bütün mələkləri, Həmd deyin ⟨Ona⟩ bütün orduları!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Həmd deyin ⟨Ona⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "mələkləri"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "Həmd deyin ⟨Ona⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "orduları"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:40.468643755Z",
+  "model": "glm-5.3"
+}

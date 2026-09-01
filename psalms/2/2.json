@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Yer kürəsinin padşahları öz mövqelərini tuturlar, və hökmdarlar bir yerdə məsləhətləşirlər, Yahveyə və Onun Məsihinə qarşı:",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "öz mövqelərini tuturlar"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "padshahları"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer kürəsinin"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "və hökmdarlar"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "bir yerdə məsləhətləşirlər"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bir yerdə"
+    },
+    {
+      "surface": "על",
+      "gloss": "qarşı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "və ... qarşı"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Onun Məsihinə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:01:49.100035077Z",
+  "model": "glm-5.3"
+}

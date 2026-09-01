@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 32:21",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Və xalqın ⟨את⟩ İsraili Mitsrayim torpağından çıxartdın — əlamətlərlə, möcüzələrlə, güclü əllə, uzadılmış qolla və böyük qorxu ilə.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "çıxartdın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqın"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "xalqın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsraili"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsraili"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "torpağından"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "באתות",
+      "gloss": "əlamətlərlə"
+    },
+    {
+      "surface": "ובמופתים",
+      "gloss": "möcüzələrlə"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "əllə"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "güclü"
+    },
+    {
+      "surface": "ובאזרוע",
+      "gloss": "qolla"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "uzadılmış"
+    },
+    {
+      "surface": "ובמורא",
+      "gloss": "qorxu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "böyük"
+    }
+  ],
+  "timestamp": "2026-09-01T13:45:07.668695780Z",
+  "model": "glm-5.3"
+}

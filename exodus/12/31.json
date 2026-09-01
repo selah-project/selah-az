@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 12:31",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Və ⟨o⟩ gecə Moşeyi və Əhəronu çağırdı və dedi: Qalxın, xalqımın arasından çıxın, həm siz, həm İsrail oğulları, və gedin, Yahveyə ⟨את⟩ qulluq edin, dediyiniz kimi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "və çağırdı"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moşeyi"
+    },
+    {
+      "surface": "וולאהרן",
+      "gloss": "və Əhəronu"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "gecə"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "qalxın"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "çıxın"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "arasından"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqımın"
+    },
+    {
+      "surface": "גם",
+      "gloss": "həm"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "גם",
+      "gloss": "həm"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "və gedin"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "qulluq edin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveyə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כדברכם",
+      "gloss": "dediyiniz kimi"
+    }
+  ],
+  "timestamp": "2026-09-01T10:09:40.167946034Z",
+  "model": "glm-5.3"
+}

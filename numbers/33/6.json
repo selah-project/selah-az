@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 33:6",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "Sukkotdan yola düşdülər və səhranın kənarında olan Etamda düşərgə saldılar.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "yola düşdülər"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "Sukkotdan"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "düşərgə saldılar"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "Etamda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olan"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "kənarında"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "səhranın"
+    }
+  ],
+  "timestamp": "2026-09-01T17:29:15.028376265Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 6:19",
+  "book": "nehemiah",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Həm onun yaxşı işlərini mənim qarşımda deyirdilər, sözərimi isə ona çatdırırdılar; Toviya məni qorxutmaq üçün məktublar göndərdi.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "həm"
+    },
+    {
+      "surface": "טובתיו",
+      "gloss": "yaxşı işlərini"
+    },
+    {
+      "surface": "היו",
+      "gloss": "idi"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "deyirdilər"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "qarşımda"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "sözərimi isə"
+    },
+    {
+      "surface": "היו",
+      "gloss": "idi"
+    },
+    {
+      "surface": "מוציאים",
+      "gloss": "çıxarırdılar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "אגרות",
+      "gloss": "məktublar"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "göndərdi"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "Toviya"
+    },
+    {
+      "surface": "ליראני",
+      "gloss": "məni qorxutmaq üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T16:53:48.433139968Z",
+  "model": "glm-5.3"
+}

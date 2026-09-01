@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "Yahvenin səsi səhranı lərzəyə salır; Yahve Qadeş səhrasını lərzəyə salır.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "səsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "lərzəyə salır"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "səhranı"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "lərzəyə salır"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "səhrasını"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Qadeş"
+    }
+  ],
+  "timestamp": "2026-09-01T15:08:52.416752665Z",
+  "model": "glm-5.3"
+}

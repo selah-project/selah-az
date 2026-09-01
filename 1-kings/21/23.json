@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 21:23",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Və İzebel haqqında da Yahve danışdı, deyərək: itlər İzebeli Yizreel divarı yanında yeyəcəklər.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "və ... da"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "İzebel haqqında"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "danışdı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "itlər"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "yeyəcəklər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İzebeli"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "İzebeli"
+    },
+    {
+      "surface": "בחל",
+      "gloss": "divar ⟨yanında⟩"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    }
+  ],
+  "timestamp": "2026-09-01T12:23:51.456692718Z",
+  "model": "glm-5.3"
+}

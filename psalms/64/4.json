@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 64,
+  "translation": "Ki, onlar dillərini qılınc kimi itiləyir, oxlarını yönəldirlər — acı söz ⟨üçün⟩.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ki"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "itiləyir"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "qılınc kimi"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "dillərini"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "yönəldirlər"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "oxlarını"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "söz"
+    },
+    {
+      "surface": "מר",
+      "gloss": "acı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:21:08.997303722Z",
+  "model": "glm-5.3"
+}

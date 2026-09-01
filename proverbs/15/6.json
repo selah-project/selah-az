@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 15:6",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Salehin evində çoxlu sərvət ⟨var⟩, amma şərin gəlirində ⟨qarışıqlıq⟩ ⟨olur⟩.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "evində"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "salehin"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "sərvət"
+    },
+    {
+      "surface": "רב",
+      "gloss": "çoxlu"
+    },
+    {
+      "surface": "ובתבואת",
+      "gloss": "amma gəlirində"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "şərin"
+    },
+    {
+      "surface": "נעכרת",
+      "gloss": "⟨qarışıqlıq olur⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T15:53:37.637799147Z",
+  "model": "glm-5.3"
+}

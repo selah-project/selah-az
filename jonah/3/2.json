@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Qalx, getsən o böyük şəhər Nineveyə, və ona o çağırışı elan et ki, mən sənə danışıram.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Qalx"
+    },
+    {
+      "surface": "לך",
+      "gloss": "getsən"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineveyə"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şəhər"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "və … elan et"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çağırışı"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "çağırışı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mən"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "danışıram"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sənə"
+    }
+  ],
+  "timestamp": "2026-09-01T14:45:19.232083264Z",
+  "model": "glm-5.3"
+}

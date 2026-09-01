@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 10:4",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Səhlənkar əl işləyəni yoxsul edər, ama ciddi əllər zəngin edər.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "yoxsul edər"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "işləyəni"
+    },
+    {
+      "surface": "כף",
+      "gloss": "əl"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "səhlənkar"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "ama əl(lər)"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "ciddi (diligent)"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "zəngin edər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:50:59.860113824Z",
+  "model": "glm-5.3"
+}

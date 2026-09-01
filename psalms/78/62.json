@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 78:62",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 78,
+  "translation": "Xalqını qılıncın ixtiyarına verdi və mərəsində qəzəbləndi.",
+  "tokens": [
+    {
+      "surface": "ויסגר",
+      "gloss": "verdi (təslim etdi)"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "qılıncın ixtiyarına"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "xalqını"
+    },
+    {
+      "surface": "ובנחלתו",
+      "gloss": "və mərəsində (irsində)"
+    },
+    {
+      "surface": "התעבר",
+      "gloss": "qəzəbləndi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:26:39.442956409Z",
+  "model": "glm-5.3"
+}

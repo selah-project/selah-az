@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 13:16",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "vurmaqla vuracaqsan o şəhərin sakinlərini ⟨את⟩ qılıncın ağzı ilə; onu həram edəcəksən ⟨את⟩ və içində olan hər şeyi ⟨את⟩ və onun mal-qarasını ⟨את⟩ qılıncın ağzı ilə.",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "vurmaqla"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "vuracaqsan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "o şəhərin sakinlərini"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "sakinlərini"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şəhərin"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ağzı ilə"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "qılıncın"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "həram edəcəksən"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "içində olan hər şeyi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər şeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בה",
+      "gloss": "içində olan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "onun mal-qarasını"
+    },
+    {
+      "surface": "בהמתה",
+      "gloss": "onun mal-qarasını"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ağzı ilə"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "qılıncın"
+    }
+  ],
+  "timestamp": "2026-09-01T10:50:40.025782972Z",
+  "model": "glm-5.3"
+}

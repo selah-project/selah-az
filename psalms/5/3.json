@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Fəryadımın səsinə diqqət ver, mənim kralım və mənim Elohimim, çünki sənə doğru dua edirəm.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "diqqət ver"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "səsinə"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "fəryadımın"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mənim kralım"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "və mənim Elohimim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sənə doğru"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "dua edirəm"
+    }
+  ],
+  "timestamp": "2026-09-01T15:01:10.810274631Z",
+  "model": "glm-5.3"
+}

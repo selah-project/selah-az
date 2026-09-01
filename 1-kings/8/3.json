@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Bütün Yisrael qoca kişiləri gəldilər, kahinlər isə sandığı götürdülər.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "gəldilər"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "qoca kişiləri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "götürdülər"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kahinlər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandığı"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "sandığı"
+    }
+  ],
+  "timestamp": "2026-09-01T12:15:24.151943884Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 106,
+  "translation": "Necə xoşbəxtdir məhkəməni qoruyanlar, hər vaxt ədalət edənlər.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Necə xoşbəxtdir"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "qoruyanlar"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "məhkəməni"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "edənlər"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ədalət"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vaxt"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:24.015220078Z",
+  "model": "glm-5.3"
+}

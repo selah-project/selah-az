@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 140,
+  "translation": "Yahve, şərin istəklərini əsla vermə; onun hiyləsini yerinə yetirmə; yüksəlməsinlər. Sela.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "əsla"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "vermə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "istəklərini"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "şər"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "hiyləsini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "əsla"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "yerinə yetirmə"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "yüksəlməsinlər"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-01T15:44:34.829682193Z",
+  "model": "glm-5.3"
+}

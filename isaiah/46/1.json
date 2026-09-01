@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 46:1",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 46,
+  "translation": "Bel diz çökdü, Nevo büküldü; onların bütləri heyvan ⟨üçün⟩ və mal-qara ⟨üçün⟩ ⟨oldu⟩; daşıdıqlarınız yüklənmiş — yorulmuş ⟨heyvana⟩ yük.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "diz çökdü"
+    },
+    {
+      "surface": "בל",
+      "gloss": "Bel"
+    },
+    {
+      "surface": "קרס",
+      "gloss": "büküldü"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Nevo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨oldu⟩"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "onların bütləri"
+    },
+    {
+      "surface": "לחיה",
+      "gloss": "heyvan ⟨üçün⟩"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "və mal-qara ⟨üçün⟩"
+    },
+    {
+      "surface": "נשאתיכם",
+      "gloss": "daşıdıqlarınız"
+    },
+    {
+      "surface": "עמוסות",
+      "gloss": "yüklənmiş"
+    },
+    {
+      "surface": "משא",
+      "gloss": "yük"
+    },
+    {
+      "surface": "לעיפה",
+      "gloss": "yorulmuş ⟨heyvana⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T13:10:33.040840351Z",
+  "model": "glm-5.3"
+}

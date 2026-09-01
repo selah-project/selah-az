@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 25:23",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Şimal küləyi yağışı doğur, və gizli dilə qarşı qəzəbli üzlər ⟨olur⟩.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "külək"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "şimal"
+    },
+    {
+      "surface": "תחולל",
+      "gloss": "doğur"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "yağış"
+    },
+    {
+      "surface": "ופנים",
+      "gloss": "və üzlər"
+    },
+    {
+      "surface": "נזעמים",
+      "gloss": "qəzəbli"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "dil"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "gizli"
+    }
+  ],
+  "timestamp": "2026-09-01T15:57:51.339732337Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Tuluqdakı su qurtardı və o, ⟨את⟩ uşağı kollardan birinin altına atdı.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "qurtardı"
+    },
+    {
+      "surface": "המים",
+      "gloss": "su"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dakı"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "tuluq"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "o atdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uşaq"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "uşaq"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altına"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "birinin"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "kollar"
+    }
+  ],
+  "timestamp": "2026-09-01T09:51:44.012210462Z",
+  "model": "glm-5.3"
+}

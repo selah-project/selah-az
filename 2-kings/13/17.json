@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 13:17",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Və dedi: şərq pəncərəsini aç. Və ⟨o⟩ açdı. Və Elişa dedi: at. Və atdı. Və dedi: Yahvenin xilas oxu, və Arama qarşı xilas oxu; və sən Apekdə ⟨את⟩ Aramı məhv edənədək vuracaqsan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Və dedi"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "aç"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "pəncərəni"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "şərqə"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "və açdı"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elişa"
+    },
+    {
+      "surface": "ירה",
+      "gloss": "at"
+    },
+    {
+      "surface": "ויור",
+      "gloss": "və atdı"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "ox"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "xilas"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "וחץ",
+      "gloss": "və ox"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "xilas"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "Arama qarşı"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "və vuracaqsan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aramı"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramı"
+    },
+    {
+      "surface": "באפק",
+      "gloss": "Apekdə"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "məhv edənədək"
+    }
+  ],
+  "timestamp": "2026-09-01T12:38:10.221282519Z",
+  "model": "glm-5.3"
+}

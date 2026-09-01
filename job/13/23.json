@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 13:23",
+  "book": "job",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Nə qədər ⟨var⟩ mənim günahlarım və taksirlərim? Asiçiliyimi və günahımı mənə bildir.",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "nə qədər"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənim ⟨var⟩"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "günahlarım (əyriliklərim)"
+    },
+    {
+      "surface": "וחטאות",
+      "gloss": "və taksirlərim"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "asiçiliyim"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "və günahım"
+    },
+    {
+      "surface": "הדיעני",
+      "gloss": "mənə bildir"
+    }
+  ],
+  "timestamp": "2026-09-01T16:06:47.430007284Z",
+  "model": "glm-5.3"
+}

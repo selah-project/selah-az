@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 104:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 104,
+  "translation": "Sərhəd qoydun — onlar ⟨onu⟩ keçməzlər, yerin üstünü örtmək üçün geri dönməzlər.",
+  "tokens": [
+    {
+      "surface": "גבול",
+      "gloss": "sərhəd"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "qoydun"
+    },
+    {
+      "surface": "בל",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יעברון",
+      "gloss": "keçməzlər"
+    },
+    {
+      "surface": "בל",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "geri dönməzlər"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "örtmək üçün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin üstünü"
+    }
+  ],
+  "timestamp": "2026-09-01T15:33:25.739843521Z",
+  "model": "glm-5.3"
+}

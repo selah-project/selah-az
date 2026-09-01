@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 10:14",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Onlarla gənclərin məsləhətinə görə danışdı, deyə: Atam sizin boyunduruğunuzu ağırlaşdırdı, mən isə ona əlavə edəcəyəm; atam ⟨את⟩ sizi çubuqlarla cəzalandırdı, mən isə əqrəblərlə.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "danışdı"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "onlarla"
+    },
+    {
+      "surface": "כעצת",
+      "gloss": "məsləhətinə görə"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "gənclərin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyə"
+    },
+    {
+      "surface": "אכביד",
+      "gloss": "ağırlaşdırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sizin boyunduruğunuzu"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "boyunduruğunuzu"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mən isə"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "əlavə edəcəyəm"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atam"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "cəzalandırdı"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "çubuqlarla"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mən isə"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "əqrəblərlə"
+    }
+  ],
+  "timestamp": "2026-09-01T17:15:44.301521422Z",
+  "model": "glm-5.3"
+}

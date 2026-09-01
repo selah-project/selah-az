@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 2:3",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Minxədən qalan isə Aharonun və onun oğullarının olacaq — qüddüslüklər qüddüsü, Yahvenin od qurbanlarındandır.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "və qalan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "‑dan"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minxədən"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharonun"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "və onun oğullarının"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qüddüs"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "qüddüslüklərin"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "od qurbanlarından"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:22:45.490237032Z",
+  "model": "glm-5.3"
+}

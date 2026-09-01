@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 7:8",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Küçədən, onun küncü yanından keçən, evinə gedən yolla addımlayan ⟨gənc⟩.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "keçən"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "küçədən"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "yanından"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "onun küncü"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "və yolla"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "evinə gedən"
+    },
+    {
+      "surface": "יצעד",
+      "gloss": "addımlayan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:50:07.530531575Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 13:10",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Çünki onu öldürməli olacaqsan — öldürəcəksən onu; əlin ⟨onun üzərində⟩ birincilikdə olacaq, onu öldürmək üçün, sonra isə bütün xalqın əli ⟨sonrakı yerdə⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "öldürmək"
+    },
+    {
+      "surface": "תהרגנו",
+      "gloss": "onu öldürəcəksən"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "əlin"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨onun üzərində⟩"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "birincilikdə"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "onu öldürmək üçün"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "və əli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqın"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "⟨sonrakı yerdə⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T10:50:20.931945264Z",
+  "model": "glm-5.3"
+}

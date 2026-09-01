@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 23:10",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Və Tofeti ⟨את⟩ — Benni-Hinom vadisində olan yeri — murdarladı, ki heç bir adam oğlunu ⟨את⟩ və qızını ⟨את⟩ Molex üçün oddan keçirməsin.",
+  "tokens": [
+    {
+      "surface": "וטמא",
+      "gloss": "murdarladı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tofeti"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "Tofeti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "vadisində"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "Hinom"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ki …məsin"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "keçirməsin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "heç bir adam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oğlunu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlunu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qızını"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "qızını"
+    },
+    {
+      "surface": "באש",
+      "gloss": "oddan"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Molex üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T12:43:44.536731895Z",
+  "model": "glm-5.3"
+}

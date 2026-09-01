@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Öz ürəyimdə dedim: ⟨את⟩ ədli və ⟨את⟩ haqsızı Elohim mühakimə edəcək, çünki hər istək üçün bir vaxt var və orada hər əməl üçün ⟨vaxt var⟩.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "dedim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "ürəyimdə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ədli"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "ədli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "haqsız"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "haqsızı"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "mühakimə edəcək"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vaxt"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "istək üçün"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "üçün"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "əməl"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    }
+  ],
+  "timestamp": "2026-09-01T16:29:29.897592837Z",
+  "model": "glm-5.3"
+}

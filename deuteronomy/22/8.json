@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 22:8",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Yeni ev tikəndə dama barmaqlıq düzəltməli, evində qan qoymamalısan — düşən oradan düşsün deyə.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "-dıqda"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "tikəndə"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "yeni"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "düzəltməlisən"
+    },
+    {
+      "surface": "מעקה",
+      "gloss": "barmaqlıq"
+    },
+    {
+      "surface": "לגגך",
+      "gloss": "dama"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "qoymamalı"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "san"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "qan"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "evində"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-sin deyə"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "düşsün"
+    },
+    {
+      "surface": "הנפל",
+      "gloss": "düşən"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "oradan"
+    }
+  ],
+  "timestamp": "2026-09-01T10:53:16.148173927Z",
+  "model": "glm-5.3"
+}

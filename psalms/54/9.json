@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 54:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 54,
+  "translation": "Çünki ⟨o⟩ bütün sıxıntılardan məni qurtardı, və gözüm düşmənlərimi ⟨gördü⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "sıxıntılardan"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "məni qurtardı"
+    },
+    {
+      "surface": "ובאיבי",
+      "gloss": "və düşmənlərimi"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "⟨gördü⟩"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözüm"
+    }
+  ],
+  "timestamp": "2026-09-01T15:17:26.822649206Z",
+  "model": "glm-5.3"
+}

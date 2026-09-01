@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 2:9",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Yahve Elohim torpaqdan hər ağacı bitirtdi — görünüşünə görə arzuolunan və yeməyə yaxşı; həmçinin həyat ağacı bağın ortasında, və yaxşılıq və şərin bilik ağacı.",
+  "tokens": [
+    {
+      "surface": "ויצמח",
+      "gloss": "bitirtdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "torpaq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ağac"
+    },
+    {
+      "surface": "נחמד",
+      "gloss": "arzuolunan"
+    },
+    {
+      "surface": "למראה",
+      "gloss": "görünüşünə görə"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "və yaxşı"
+    },
+    {
+      "surface": "למאכל",
+      "gloss": "yeməyə"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "həmçinin ağac"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "həyat"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ortasında"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "bağ"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "və ağac"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "bilik"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşılıq"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "və şər"
+    }
+  ],
+  "timestamp": "2026-09-01T09:45:42.945314481Z",
+  "model": "glm-5.3"
+}

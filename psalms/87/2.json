@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 87,
+  "translation": "Yahve Sion qapılarını sevir, Yaqovun bütün sığınacaqlarından ⟨artıq⟩.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "sevir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "qapılarını"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bütün ... ⟨artıq⟩"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "sığınacaqlarından"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqovun"
+    }
+  ],
+  "timestamp": "2026-09-01T15:30:30.509025051Z",
+  "model": "glm-5.3"
+}

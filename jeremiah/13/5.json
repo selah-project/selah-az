@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 13:5",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Və mən getdim və onu Peratda gizlətdim, Yahvenin ⟨את⟩ mənə əmr etdiyi kimi.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "və getdim"
+    },
+    {
+      "surface": "ואטמנהו",
+      "gloss": "və onu gizlətdim"
+    },
+    {
+      "surface": "בפרת",
+      "gloss": "Peratda"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "əmr etdiyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ mənə"
+    }
+  ],
+  "timestamp": "2026-09-01T13:30:14.989904962Z",
+  "model": "glm-5.3"
+}

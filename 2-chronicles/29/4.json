@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 29:4",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "Kahinləri ⟨את⟩ və Levi oğullarını ⟨את⟩ gətirdi və onları şərq tərəfdəki meydanda topladı.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "və gətirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kahinləri"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "Kahinləri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Levi oğullarını"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "və Levi oğullarını"
+    },
+    {
+      "surface": "ויאספם",
+      "gloss": "və onları topladı"
+    },
+    {
+      "surface": "לרחוב",
+      "gloss": "meydanda"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "şərq tərəfdəki"
+    }
+  ],
+  "timestamp": "2026-09-01T17:21:29.665597478Z",
+  "model": "glm-5.3"
+}

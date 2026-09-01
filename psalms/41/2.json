@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 41:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 41,
+  "translation": "Xoşbəxtdir zəifə qarşı müdrik davranan; şərin günündə Yahve onu qurtaracaq.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Xoşbəxtdir"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "müdrik davranan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "qarşı"
+    },
+    {
+      "surface": "דל",
+      "gloss": "zəifə"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "günündə"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "şərin"
+    },
+    {
+      "surface": "ימלטהו",
+      "gloss": "onu qurtaracaq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T15:14:03.033636787Z",
+  "model": "glm-5.3"
+}

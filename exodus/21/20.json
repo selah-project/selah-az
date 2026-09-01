@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Və əgər bir adam ⟨את⟩ qulunu və ya ⟨את⟩ kənizini çubuqla vursa və o onun əli altında ölsə, intiqam mütləq alınacaq.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "vursa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir adam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qulunu"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "qulunu"
+    },
+    {
+      "surface": "או",
+      "gloss": "və ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kənizini"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "kənizini"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "çubuqla"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ölsə"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "onun əlinin"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "intiqam"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "alınacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T10:15:32.582746810Z",
+  "model": "glm-5.3"
+}

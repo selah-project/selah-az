@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 12:31",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Yahveyə, sənin Elohiminə belə etməyəcəksən; çünki Yahvenin nifrət etdiyi hər ikrahı onlar öz tanrıları üçün etdilər; hətta öz oğullarını və öz qızlarını atəşdə öz tanrıları üçün yandırdılar.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "etməyəcəksən"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "belə etmə"
+    },
+    {
+      "surface": "כן",
+      "gloss": "belə"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sənin Elohiminə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "ikrah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "nifrət etdiyi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "etdilər"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "özlərinin tanrıları üçün"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hətta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "özlərinin oğullarını"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "özlərinin oğullarını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "özlərinin qızlarını"
+    },
+    {
+      "surface": "בנתיהם",
+      "gloss": "özlərinin qızlarını"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "yandırdılar"
+    },
+    {
+      "surface": "באש",
+      "gloss": "atəşdə"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "özlərinin tanrıları üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:50:33.364387854Z",
+  "model": "glm-5.3"
+}

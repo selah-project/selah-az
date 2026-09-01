@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "Yahve tufan üzərində ⟨oturub⟩ hökm sürdü, və Yahve kral olaraq əbədi ⟨oturur⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "tufan üzərində"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "⟨oturub⟩ hökm sürdü"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "və ... oturur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kral olaraq"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:08:06.875243717Z",
+  "model": "glm-5.3"
+}

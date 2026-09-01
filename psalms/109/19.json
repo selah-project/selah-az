@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 109:19",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 109,
+  "translation": "Onun üçün örtdüyü paltar kimi olsun və həmişə bağladığı kəmər kimi.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onun üçün"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "paltar kimi"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "örtdüyü"
+    },
+    {
+      "surface": "ולמזח",
+      "gloss": "və kəmər kimi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "həmişə"
+    },
+    {
+      "surface": "יחגרה",
+      "gloss": "bağladığı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:37:33.342300916Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Axitub ⟨את⟩ Tsadoku doğurdu, Tsadok isə ⟨את⟩ Şallumu doğurdu.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "Axitub"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsadok"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "Tsadok isə"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "doğurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şallum"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Şallum"
+    }
+  ],
+  "timestamp": "2026-09-01T17:01:04.318071794Z",
+  "model": "glm-5.3"
+}

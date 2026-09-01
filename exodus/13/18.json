@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Və Elohim ⟨את⟩ xalqı çəkərək səhraya, Qamışlı dənizinə gedən yolla apardı; və İsrail oğulları Mitsrayim torpağından döyüşə hazır qalxdılar.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "və çəkərək apardı"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqı"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yolla"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "səhraya"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dənizinə"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Qamışlı"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "döyüşə hazır"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "qalxdılar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "torpağından"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T10:09:49.348333910Z",
+  "model": "glm-5.3"
+}

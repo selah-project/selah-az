@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Qocalardan ⟨⟨daha⟩⟩ anlayıram, çünki sənin fərmanlarını gözləmişəm.",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "qocalardan"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "anlayıram"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "fərmanlarını"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "gözləmişəm"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:42.793476161Z",
+  "model": "glm-5.3"
+}

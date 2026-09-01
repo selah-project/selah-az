@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 95,
+  "translation": "«O yerlərdə» ata-babalarınız Məni sınaqdAN keçirdilər, Məni imtahan etdilər, hətta işimi gördülər.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "«o yerlərdə»"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "sınaqdAN keçirdilər Məni"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "ata-babalarınız"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "Məni imtahan etdilər"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hətta"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "gördülər"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "işimi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:31:29.004220257Z",
+  "model": "glm-5.3"
+}

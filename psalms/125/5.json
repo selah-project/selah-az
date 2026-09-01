@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 125,
+  "translation": "Əyri yollarına meyl edənləri isə Yahve ⟨את⟩ günah işləyənlərlə birlikdə ⟨aparacaq⟩; Yisrayelin üstünə salam ⟨olacaq⟩.",
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "meyl edənləri"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "əyri yollarına"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "⟨aparacaq⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "günah işləyənlər"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "işləyənlər"
+    },
+    {
+      "surface": "האון",
+      "gloss": "günah"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salam"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayel"
+    }
+  ],
+  "timestamp": "2026-09-01T15:41:48.658333431Z",
+  "model": "glm-5.3"
+}

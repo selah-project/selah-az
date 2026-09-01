@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 5:31",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Və kişi günahdan təmiz çıxar, o qadın isə öz günahını ⟨את⟩ daşıyacaq.",
+  "tokens": [
+    {
+      "surface": "ונקה",
+      "gloss": "və təmiz çıxar"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "kişi"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "günahdan"
+    },
+    {
+      "surface": "והאשה",
+      "gloss": "qadın isə"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "daşıyacaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öz günahını"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "öz günahını"
+    }
+  ],
+  "timestamp": "2026-09-01T10:34:16.979997777Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Ömür istədi Səndən, Sən ona verdin — uzun günlər, əbədi və sonsuz.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "Ömür"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "istədi"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "Səndən"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "Sən verdin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "uzun"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günlər"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "və sonsuz"
+    }
+  ],
+  "timestamp": "2026-09-01T15:07:56.043348879Z",
+  "model": "glm-5.3"
+}

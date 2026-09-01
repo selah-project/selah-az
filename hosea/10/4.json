@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 10:4",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Sözlər danışırlar, yalan andlar içirlər, əhd bağlayırlar; məhkəmə isə şırımlarda zəhərli ot kimi boy atır.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "danışırlar"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "Sözlər"
+    },
+    {
+      "surface": "אלות",
+      "gloss": "andlar içirlər"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "yalan"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "bağlayırlar"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "əhd"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "boy atır"
+    },
+    {
+      "surface": "כראש",
+      "gloss": "zəhərli ot kimi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "məhkəmə"
+    },
+    {
+      "surface": "על",
+      "gloss": "…da"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "şırımlarda"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "tarlanın"
+    }
+  ],
+  "timestamp": "2026-09-01T14:38:11.687278005Z",
+  "model": "glm-5.3"
+}

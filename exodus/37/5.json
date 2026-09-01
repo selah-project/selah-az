@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 37:5",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "və o, ⟨את⟩ çubuqları sandığın yan tərəflərindəki halqalara gətirdi, ⟨את⟩ sandığı daşımaq üçün.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "gətirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çubuqları"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "çubuqları"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "halqalara"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "yan tərəflərindəki"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sandığın"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "daşımaq üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandığı"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sandığı"
+    }
+  ],
+  "timestamp": "2026-09-01T10:20:50.628604014Z",
+  "model": "glm-5.3"
+}

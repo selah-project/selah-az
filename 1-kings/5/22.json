@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 5:22",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Və Hiram Şlomoya göndərib dedi: Mən ⟨את⟩ sənin mənə göndərdiyini eşitdim; mən ⟨את⟩ sənin bütün istəyini ərz ağacları ilə və sərv ağacları ilə yerinə yetirəcəyəm.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "göndərib"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şlomo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "eşitdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sənin ... göndərdiyini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "göndərdiyini"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "yerinə yetirəcəyəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün istəyini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "חפצך",
+      "gloss": "sənin istəyini"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "ağacları ilə"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "ərz"
+    },
+    {
+      "surface": "ובעצי",
+      "gloss": "və ağacları ilə"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "sərv"
+    }
+  ],
+  "timestamp": "2026-09-01T12:13:17.301985771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Yahve ⟨bir⟩ vaxt təyin etdi və dedi: sabah Yahve bu sözü ölkədə yerinə yetirəcək.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "təyin etdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "vaxt"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "sabah"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "yerinə yetirəcək"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sözü"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ölkədə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:07:43.259921446Z",
+  "model": "glm-5.3"
+}

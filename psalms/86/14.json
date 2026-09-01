@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 86:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 86,
+  "translation": "Elohim, qürralar mənə qarşı qalxdılar və zorakıların dəstəsi canımı axtardı, və səni özlərinin qarşısında qoymadılar.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "qürralar"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "qalxdılar"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mənə qarşı"
+    },
+    {
+      "surface": "ועדת",
+      "gloss": "və ... dəstəsi"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "zorakıların"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "axtardı"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "שמוך",
+      "gloss": "səni qoymadılar"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "özlərinin qarşısında"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:47.762855510Z",
+  "model": "glm-5.3"
+}

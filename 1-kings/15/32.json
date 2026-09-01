@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 15:32",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Və Asa ilə İsrail hökmdarı Baaşa arasında müharibə oldu, onların bütün günlərində.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "Və müharibə"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baaşa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hökmdarı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "günlərində"
+    }
+  ],
+  "timestamp": "2026-09-01T12:22:44.049506137Z",
+  "model": "glm-5.3"
+}

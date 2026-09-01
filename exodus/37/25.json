@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 37:25",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Və ⟨את⟩ buxur mizbəhini şittim ağacından düzəltdi: uzunluğu bir amma, eni bir amma, dördbucaqlı, hündürlüyü iki amma; buynuzları ondan ⟨idi⟩.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "düzəltdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buxur mizbəhi"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizbəh"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "buxur"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ağacından"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "şittim"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "bir amma"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "uzunluğu"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "və bir amma"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "eni"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "dördbucaqlı"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "və iki amma"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "hündürlüyü"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "idi"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "buynuzları"
+    }
+  ],
+  "timestamp": "2026-09-01T10:20:50.468623416Z",
+  "model": "glm-5.3"
+}

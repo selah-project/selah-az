@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 114,
+  "translation": "Ey torpaq, Adonayın ⟨üzü⟩ önündə titrə, Yaakovun Eloahının ⟨üzü⟩ önündə!",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "⟨üzü⟩ önündə"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "titrə"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ey torpaq"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "⟨üzü⟩ önündə"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovun"
+    }
+  ],
+  "timestamp": "2026-09-01T15:37:48.663878902Z",
+  "model": "glm-5.3"
+}

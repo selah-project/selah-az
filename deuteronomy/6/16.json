@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "⟨את⟩ Yahve, Elohim-inizi sınayacaqsınız deyil — Massahda sınadığınız kimi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "sınayacaqsınız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-inizi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "sınadığınız"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "Massahda"
+    }
+  ],
+  "timestamp": "2026-09-01T10:47:44.841525046Z",
+  "model": "glm-5.3"
+}

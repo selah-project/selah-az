@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 48:12",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 48,
+  "translation": "Mənə eşit, ey Yaakov, və çağırdığım Israil: Mən o ⟨Mənəm⟩; Mən birinciyəm, həm Mən axırıncıyam.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "eşit"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Mənə"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "və Israil"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "çağırdığım"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "birinciyəm"
+    },
+    {
+      "surface": "אף",
+      "gloss": "həm"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "axırıncıyam"
+    }
+  ],
+  "timestamp": "2026-09-01T13:09:11.688560067Z",
+  "model": "glm-5.3"
+}

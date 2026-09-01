@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 1:2",
+  "book": "amos",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və dedi: Siondan Yahve nərildəyəcək, və Yeruşalayimdan öz səsini verəcək; çobanların otlaqları yas tutacaq və Karmelin başı quruyacaq.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Siondan"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "nərildəyəcək"
+    },
+    {
+      "surface": "ומירושלם",
+      "gloss": "və Yeruşalayimdan"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "verəcək"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "öz səsini"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "yas tutacaq"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "otlaqları"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "çobanların"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "və quruyacaq"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "başı"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmelin"
+    }
+  ],
+  "timestamp": "2026-09-01T14:41:22.980521173Z",
+  "model": "glm-5.3"
+}

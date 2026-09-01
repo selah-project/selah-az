@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 4:7",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "⟨את⟩ qızıl çıraqlardan onunu onların qaydasına görə düzəltdi və məbəddə qoydu — beş sağda, beş solda.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "düzəltdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qızıl çıraqlardan onunu"
+    },
+    {
+      "surface": "מנרות",
+      "gloss": "çıraqlar"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "qızıl"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "on"
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "onların qaydasına görə"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "qoydu"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "məbəddə"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "beş"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "sağda"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "beş"
+    },
+    {
+      "surface": "משמאול",
+      "gloss": "solda"
+    }
+  ],
+  "timestamp": "2026-09-01T17:13:35.749068127Z",
+  "model": "glm-5.3"
+}

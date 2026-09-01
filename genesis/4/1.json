@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və insan ⟨את⟩ Chavvahı, öz arvadını tanıdı; o, hamilə oldu və ⟨את⟩ Qayini doğdu və dedi: “Yahve ⟨את⟩ ilə ⟨mən⟩ bir adam qazandım.”",
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "və insan"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tanıdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chavvahı"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Chavvah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "öz arvadını"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "o, hamilə oldu"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "və doğdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qayini"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Qayin"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "qazandım"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir adam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ilə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T09:46:34.590439259Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 39,
+  "translation": "Həqiqətən, yalnız ⟨surətdə⟩ gəzir insan; həqiqətən, yalnız puçluq üçün küy qaldırırlar; yığar, lakin bilməz kim toplayacaq onları.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "həqiqətən, yalnız"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "surətdə"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "gəzir"
+    },
+    {
+      "surface": "איש",
+      "gloss": "insan"
+    },
+    {
+      "surface": "אך",
+      "gloss": "həqiqətən, yalnız"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "puçluq üçün"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "küy qaldırırlar"
+    },
+    {
+      "surface": "יצבר",
+      "gloss": "yığar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lakin ... bilməz"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilməz"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "toplayacaq onları"
+    }
+  ],
+  "timestamp": "2026-09-01T15:14:41.164194602Z",
+  "model": "glm-5.3"
+}

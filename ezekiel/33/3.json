@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 33:3",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "və o, qılıncın ölkəyə gəldiyini görərsə, şofar çalsın və xalqı qorxutsun —",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "və görərsə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qılıncı"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "qılıncın"
+    },
+    {
+      "surface": "באה",
+      "gloss": "gəldiyini"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ölkəyə"
+    },
+    {
+      "surface": "ותקע",
+      "gloss": "çalsın"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "şofarı"
+    },
+    {
+      "surface": "והזהיר",
+      "gloss": "və qorxutsun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqı"
+    }
+  ],
+  "timestamp": "2026-09-01T14:22:11.730918935Z",
+  "model": "glm-5.3"
+}

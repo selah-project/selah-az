@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 105:17",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 105,
+  "translation": "Onların qarşısına bir adam göndərdi — Yosef kölə kimi satıldı.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "göndərdi"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "onların qarşısına"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir adam"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "kölə kimi"
+    },
+    {
+      "surface": "נמכר",
+      "gloss": "satıldı"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:25.373297595Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 34:10",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 34,
+  "translation": "və ⟨את⟩ bizimlə yaşayın; ⟨o⟩ yer sizin qarşınızda olsun — yaşayın, onda ticarət edin və onda sahib olun.",
+  "tokens": [
+    {
+      "surface": "ואתנו",
+      "gloss": "⟨את⟩ bizimlə"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "yaşayın"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "sizin qarşınızda"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "yaşayın"
+    },
+    {
+      "surface": "וסחרוה",
+      "gloss": "onda ticarət edin"
+    },
+    {
+      "surface": "והאחזו",
+      "gloss": "sahib olun"
+    },
+    {
+      "surface": "בה",
+      "gloss": "onda"
+    }
+  ],
+  "timestamp": "2026-09-01T17:55:36.258831719Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 47:16",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 47,
+  "translation": "Yosef dedi: Mal-qaranızı verin, gümüş qurtarmışsa mal-qaranızın müqabilində sizə ⟨çörək⟩ verəcəyəm.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "verin"
+    },
+    {
+      "surface": "מקניכם",
+      "gloss": "mal-qaranızı"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "verəcəyəm"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizə"
+    },
+    {
+      "surface": "במקניכם",
+      "gloss": "mal-qaranızın müqabilində"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "qurtarmışsa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    }
+  ],
+  "timestamp": "2026-09-01T10:02:29.247220575Z",
+  "model": "glm-5.3"
+}

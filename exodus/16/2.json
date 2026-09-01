@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "İsrail oğullarının bütün cəmiyyəti səhrada Moşeyə və Aharona qarşı pıçıldadı.",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "pıçıldadı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "cəmiyyəti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "על",
+      "gloss": "qarşı"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşeyə"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "və … qarşı"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharona"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "səhrada"
+    }
+  ],
+  "timestamp": "2026-09-01T10:10:21.055175657Z",
+  "model": "glm-5.3"
+}

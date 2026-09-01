@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Uydurma işləyənlərin hamısı, yanımdan çəkilin, çünki Yahve ağlamamın səsini eşitdi.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "çəkilin"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "yanımdan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamısı"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "işləyənlərin"
+    },
+    {
+      "surface": "און",
+      "gloss": "uydurma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eşitdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "קול",
+      "gloss": "səsini"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "ağlamamın"
+    }
+  ],
+  "timestamp": "2026-09-01T15:00:22.382809072Z",
+  "model": "glm-5.3"
+}

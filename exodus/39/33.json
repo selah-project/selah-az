@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 39:33",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 39,
+  "translation": "Və Moşeyə ⟨את⟩ məskəni gətirdilər, ⟨את⟩ çadırı və ⟨את⟩ bütün ləvazimatını, ilgəklərini, lövhələrini, taylarını, sütunlarını və oyüqlarını.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "gətirdilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "məskəni"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "məskəni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşeyə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çadırı"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "çadırı"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "bütün ləvazimatını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ləvazimatını"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "ilgəklərini"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "lövhələrini"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "taylarını"
+    },
+    {
+      "surface": "ועמדיו",
+      "gloss": "və sütunlarını"
+    },
+    {
+      "surface": "ואדניו",
+      "gloss": "və oyüqlarını"
+    }
+  ],
+  "timestamp": "2026-09-01T10:21:59.422389231Z",
+  "model": "glm-5.3"
+}

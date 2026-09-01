@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zephaniah 1:15",
+  "book": "zephaniah",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Qəzəb günü — həmin gün; sıxıntı və məşəqqət günü, viranəlik və dibçəklik günü, qaranlıq və zülmət günü, bulud və qaranlıq bulud günü.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "qəzəb"
+    },
+    {
+      "surface": "היום",
+      "gloss": "həmin"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "gün"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "sıxıntı"
+    },
+    {
+      "surface": "ומצוקה",
+      "gloss": "və məşəqqət"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "שאה",
+      "gloss": "viranəlik"
+    },
+    {
+      "surface": "ומשואה",
+      "gloss": "və dibçəklik"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "qaranlıq"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "və zülmət"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "bulud"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "və qaranlıq bulud"
+    }
+  ],
+  "timestamp": "2026-09-01T17:40:37.790108902Z",
+  "model": "glm-5.3"
+}

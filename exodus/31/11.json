@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 31:11",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "və ⟨את⟩ məsh yağını və ⟨את⟩ müqəddəs yer üçün ətirli tüstü qətarını — bütün əmr etdiyim kimi onlar edəcəklər",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "məsh yağını"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "yağ"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "məsh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ətirli tüstü qətarını"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "tüstü qətar"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "ətirli (baharatlar)"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "müqəddəs yer üçün"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "hər şey kimi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "sənə əmr etdim"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "onlar edəcəklər"
+    }
+  ],
+  "timestamp": "2026-09-01T10:18:15.167634337Z",
+  "model": "glm-5.3"
+}

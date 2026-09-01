@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 7:3",
+  "book": "daniel",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Və dörd böyük heyvan dənizdən qalxırdı, biri o birisindən fərqli idi.",
+  "tokens": [
+    {
+      "surface": "וארבע",
+      "gloss": "və dörd"
+    },
+    {
+      "surface": "חיון",
+      "gloss": "heyvan"
+    },
+    {
+      "surface": "רברבן",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "סלקן",
+      "gloss": "qalxırdı"
+    },
+    {
+      "surface": "מן",
+      "gloss": "‑dan"
+    },
+    {
+      "surface": "ימא",
+      "gloss": "dəniz"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "fərqli"
+    },
+    {
+      "surface": "דא",
+      "gloss": "biri"
+    },
+    {
+      "surface": "מן",
+      "gloss": "‑dan"
+    },
+    {
+      "surface": "דא",
+      "gloss": "o biri"
+    }
+  ],
+  "timestamp": "2026-09-01T16:44:45.779465003Z",
+  "model": "glm-5.3"
+}

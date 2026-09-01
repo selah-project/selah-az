@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 37:32",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Rəngli köynəyi göndərib atasının yanına gətirdilər və dedilər: Bunu tapdıq; tanı ⟨now⟩, oğlu­nun köynəyidir, ya yox?",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "göndərdilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "köynəyi"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "köynəyi"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "rəngli"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "gətirdilər"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "atasının"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "və dedilər"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bunu"
+    },
+    {
+      "surface": "מצאנו",
+      "gloss": "tapdıq"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "tanı"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨now⟩"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "köynəyi"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "oğlunun"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "­dur"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    }
+  ],
+  "timestamp": "2026-09-01T09:58:47.638506948Z",
+  "model": "glm-5.3"
+}

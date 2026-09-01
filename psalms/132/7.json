@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 132:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 132,
+  "translation": "Onun məskənlərinə girək, Onun ayaq altılığına səcdə edək.",
+  "tokens": [
+    {
+      "surface": "נבואה",
+      "gloss": "girək"
+    },
+    {
+      "surface": "למשכנותיו",
+      "gloss": "Onun məskənlərinə"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "səcdə edək"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "ayaq altılığına"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "Onun"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:21.510287756Z",
+  "model": "glm-5.3"
+}

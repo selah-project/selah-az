@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 25:2",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Elohimin izzəti ⟨bir⟩ sözü gizlətməkdir, padşahların izzəti isə ⟨bir⟩ sözü araşdırmaqdır.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "izzəti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "הסתר",
+      "gloss": "gizlətməkdir"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sözü"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "və izzəti"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "padşahların"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "araşdırmaqdır"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sözü"
+    }
+  ],
+  "timestamp": "2026-09-01T15:58:55.572968671Z",
+  "model": "glm-5.3"
+}

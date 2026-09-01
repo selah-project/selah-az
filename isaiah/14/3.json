@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 14:3",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Və olacaq: gün gələcək, Yahve səni kədərindən, təlaşından və sənin üstündə qul kimi işlədilən ağır qulluqdan istirahətə çatızdıracaq.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "və olacaq"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "günü"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "istirahətə çatızdıracaq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לך",
+      "gloss": "səni"
+    },
+    {
+      "surface": "מעצבך",
+      "gloss": "kədərindən"
+    },
+    {
+      "surface": "ומרגזך",
+      "gloss": "və təlaşından"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "və ⟨-dan⟩"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "qulluqdan"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "ağır"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "işlədilmişdir"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sənin üstündə"
+    }
+  ],
+  "timestamp": "2026-09-01T17:35:40.949536326Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 14:4",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Öküzlər olmadıqda yemlik təmiz qalar, öküzün qüdrəti ilə ⟨is⟩ bol məhsul ⟨olır⟩.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "olmadıqda"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "öküzlər"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "yemlik"
+    },
+    {
+      "surface": "בר",
+      "gloss": "təmiz qalar"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "bol"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "məhsul"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "qüdrəti ilə"
+    },
+    {
+      "surface": "שור",
+      "gloss": "öküzün"
+    }
+  ],
+  "timestamp": "2026-09-01T15:53:14.116338364Z",
+  "model": "glm-5.3"
+}

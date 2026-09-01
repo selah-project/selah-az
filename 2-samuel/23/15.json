@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 23:15",
+  "book": "2-samuel",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "David arzuladı və dedi: Kim mənə Beyt-Lexemin qapının yanındakı quyunun suyundan içirəcək?",
+  "tokens": [
+    {
+      "surface": "ויתאוה",
+      "gloss": "arzuladı"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "ישקני",
+      "gloss": "mənə içirəcək"
+    },
+    {
+      "surface": "מים",
+      "gloss": "su"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "quyudan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lexem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki, o"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "qapının yanında"
+    }
+  ],
+  "timestamp": "2026-09-01T12:07:52.731705859Z",
+  "model": "glm-5.3"
+}

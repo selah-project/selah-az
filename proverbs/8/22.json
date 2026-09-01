@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 8:22",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Yahve məni Öz yolunun başlanğıcı olaraq qazandı, əzəldən, Öz əməllərindən əvvəl, əvvəldən.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "קנני",
+      "gloss": "məni qazandı"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "başlanğıcı"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "Öz yolunun"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "əzəldən"
+    },
+    {
+      "surface": "מפעליו",
+      "gloss": "Öz əməllərindən"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "əvvəldən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:49:43.682946967Z",
+  "model": "glm-5.3"
+}

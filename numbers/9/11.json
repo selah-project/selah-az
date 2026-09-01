@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 9:11",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "İkinci ayın on dördüncü günündə, axşam aralarında onu ⟨את⟩ hazırlasınlar; matsot və acı otlarla yesinlər.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "ayında"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikinci"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "dörd"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "on"
+    },
+    {
+      "surface": "יום",
+      "gloss": "günündə"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "axşam"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "hazırlasınlar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu (pesah)"
+    },
+    {
+      "surface": "על",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "matsot"
+    },
+    {
+      "surface": "ומררים",
+      "gloss": "və acı otlar"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "yesinlər onu"
+    }
+  ],
+  "timestamp": "2026-09-01T10:36:09.005656507Z",
+  "model": "glm-5.3"
+}

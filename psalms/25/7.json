@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 25:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Gəncliyimin günahlarını və üsyanlarımı yadda saxlama, hesedinə görə məni yadda saxla Sən, xeyirxahlığına görə, Yahve.",
+  "tokens": [
+    {
+      "surface": "חטאות",
+      "gloss": "günahlarını"
+    },
+    {
+      "surface": "נעורי",
+      "gloss": "gəncliyimin"
+    },
+    {
+      "surface": "ופשעי",
+      "gloss": "və üsyanlarımı"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "yadda saxlama"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "hesedinə görə"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "yadda saxla"
+    },
+    {
+      "surface": "לי",
+      "gloss": "məni"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sən"
+    },
+    {
+      "surface": "למען",
+      "gloss": "görə"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "xeyirxahlığına"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T15:08:44.997700639Z",
+  "model": "glm-5.3"
+}

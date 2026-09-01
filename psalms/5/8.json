@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Mən isə Sənin hesed-inin bolluğu ilə evinə girəcəyəm, Sənin qorxunla müqəddəs ⟨məbədinə⟩ doğru səcdə edəcəyəm.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Mən isə"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "bolluğu ilə"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "Sənin hesed-inin"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "girəcəyəm"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "evinə"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "səcdə edəcəyəm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "doğru"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "⟨məbədinə⟩"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "Sənin qorxunla"
+    }
+  ],
+  "timestamp": "2026-09-01T15:01:04.891711309Z",
+  "model": "glm-5.3"
+}

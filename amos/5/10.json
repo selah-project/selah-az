@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 5:10",
+  "book": "amos",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Onlar qapıda məzəmmət edəni söyür və düz danışanı iyrənc sayırlar.",
+  "tokens": [
+    {
+      "surface": "שנאו",
+      "gloss": "söyürlər"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "qapıda"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "məzəmmət edəni"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "və danışan"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "düz (kamal sahibi)"
+    },
+    {
+      "surface": "יתעבו",
+      "gloss": "iyrənc sayırlar"
+    }
+  ],
+  "timestamp": "2026-09-01T14:42:42.491671493Z",
+  "model": "glm-5.3"
+}

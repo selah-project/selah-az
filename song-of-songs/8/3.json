@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 8:3",
+  "book": "song-of-songs",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Onun sol əli başımın altında, sağı qucaqlayar məni.",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "onun sol əli"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "başımın"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "sağı"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "qucaqlayar məni"
+    }
+  ],
+  "timestamp": "2026-09-01T16:23:14.295276410Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 4:21",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və ucharon ⟨את⟩ buğanı düşərgənin xaricinə çıxaracaq və onu ilk buğan yandırıldığı kimi yandıracaq; o, camaatın günah qurbanıdır.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "çıxaracaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buğanı"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "buğanı"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "xaricinə"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "düşərgənin"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "yandıracaq"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "yandırıldığı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buğanı"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "buğanı"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ilk"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "günah qurbanıdır"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "camaatın"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-09-01T10:23:17.248673746Z",
+  "model": "glm-5.3"
+}

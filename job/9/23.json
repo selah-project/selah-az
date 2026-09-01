@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 9:23",
+  "book": "job",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Əgər qamçı qəflətən öldürsə, günahsızların sınağına gülür ⟨o⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Əgər"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "qamçı"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "öldürsə"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "qəflətən"
+    },
+    {
+      "surface": "למסת",
+      "gloss": "sınağına"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "günahsızların"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "gülür"
+    }
+  ],
+  "timestamp": "2026-09-01T16:06:26.649773685Z",
+  "model": "glm-5.3"
+}

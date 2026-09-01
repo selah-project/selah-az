@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Va Hur ⟨את⟩ Urini doğdu, va Uri ⟨את⟩ Betsaleli doğdu.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "Va Hur"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "doğdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uri"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Urini"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "va Uri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "doğdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betsalel"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsaleli"
+    }
+  ],
+  "timestamp": "2026-09-01T17:00:41.896085824Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 27:10",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Və atanın yanına gətirəcəksən, və o yeyəcək, ona görə ki o, öz ölümündən əvvəl sənə xeyir-dua versin.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "və gətirəcəksən"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "atanın yanına"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "və yeyəcək"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "ona görə ki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "sənə xeyir-dua versin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "əvvəl"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "öz ölümündən"
+    }
+  ],
+  "timestamp": "2026-09-01T09:54:23.219733479Z",
+  "model": "glm-5.3"
+}

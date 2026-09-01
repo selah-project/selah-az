@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 17:6",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Qarğalar ona səhər çörək və ət, axşam çörək və ət gətirirdilər; və dərədən ⟨o⟩ içirdi.",
+  "tokens": [
+    {
+      "surface": "והערבים",
+      "gloss": "Qarğalar"
+    },
+    {
+      "surface": "מביאים",
+      "gloss": "gətirirdilər"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "çörək"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "və ət"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "səhər"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "çörək"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "və ət"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "axşam"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "və ... dan"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "dərədən"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "⟨o⟩ içirdi"
+    }
+  ],
+  "timestamp": "2026-09-01T12:21:04.387790486Z",
+  "model": "glm-5.3"
+}

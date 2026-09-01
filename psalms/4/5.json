@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Titrəyin, və yox — günah etməyin; ürəyinizdə, yatağınız üstündə deyin, ⟨və⟩ susun. Sela.",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "Titrəyin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "günah etməyin"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "deyin"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "ürəyinizdə"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "yatağınız"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "və susun"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-01T15:01:49.271001531Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 21:8",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Və onu müqəddəs say, çünki o, sənin Elohiminin ⟨את⟩ çörəyini təqdim edir; sənin üçün müqəddəs olacaq, çünki müqəddəs olan Mən, sizi müqəddəsləşdirən Yahveyəm.",
+  "tokens": [
+    {
+      "surface": "וקדשתו",
+      "gloss": "və onu müqəddəs say"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çörəyini"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "çörəyini"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sənin Elohiminin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "təqdim edir"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənin üçün"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "sizi müqəddəsləşdirən"
+    }
+  ],
+  "timestamp": "2026-09-01T17:27:59.687169389Z",
+  "model": "glm-5.3"
+}

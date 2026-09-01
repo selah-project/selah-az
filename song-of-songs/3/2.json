@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 3:2",
+  "book": "song-of-songs",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Qalxaram ⟨indi⟩, şəhərdə dolaşaram, küçələrdə və meydanlarda axtararam ⟨את⟩ canımın sevdiyini; onu axtardım, amma tapmadım.",
+  "tokens": [
+    {
+      "surface": "אקומה",
+      "gloss": "qalxaram"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨indi⟩"
+    },
+    {
+      "surface": "ואסובבה",
+      "gloss": "dolaşaram"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "şəhərdə"
+    },
+    {
+      "surface": "בשוקים",
+      "gloss": "küçələrdə"
+    },
+    {
+      "surface": "וברחבות",
+      "gloss": "və meydanlarda"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "axtararam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "canımın sevdiyini"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "sevdiyini"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımın"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "onu axtardım"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "tapmadım"
+    }
+  ],
+  "timestamp": "2026-09-01T16:21:36.615832160Z",
+  "model": "glm-5.3"
+}

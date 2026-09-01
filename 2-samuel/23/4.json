@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 23:4",
+  "book": "2-samuel",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Və səhər işığı kimi, doğan günəş kimi — buludsuz səhər, parıltıdan, yağışdan yerdən çıxan ⟨yaşıl⟩ ota ⟨bənzəyir⟩.",
+  "tokens": [
+    {
+      "surface": "וכאור",
+      "gloss": "və işığı kimi"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "səhər"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "doğan"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "günəş"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "səhər"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "buludlu"
+    },
+    {
+      "surface": "מנגה",
+      "gloss": "parıltıdan"
+    },
+    {
+      "surface": "ממטר",
+      "gloss": "yağışdan"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "ot"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yerdən"
+    }
+  ],
+  "timestamp": "2026-09-01T12:07:40.603398241Z",
+  "model": "glm-5.3"
+}

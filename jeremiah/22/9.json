@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 22:9",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Və deyəcəklər: «Ona görə ki, onlar Yahve, öz Elohim-inin ⟨את⟩ əhdini tərk etdilər, başqa tanrılara səcdə etdilər və onlara qulluq etdilər».",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "və deyəcəklər"
+    },
+    {
+      "surface": "על",
+      "gloss": "ona görə ki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "tərk etdilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əhdi"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "əhd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "öz Elohim-i"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "və səcdə etdilər"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "tanrılara"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "başqa"
+    },
+    {
+      "surface": "ויעבדום",
+      "gloss": "və onlara qulluq etdilər"
+    }
+  ],
+  "timestamp": "2026-09-01T13:34:34.196531395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 90,
+  "translation": "Qullarına öz əməlin görün, izzətin isə onların oğulları ⟨üzarına⟩.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "görünsün"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨üzarına⟩"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "qullarına"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "sənin əməlin"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "sənin izzətin"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨üzarına⟩"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "onların oğulları"
+    }
+  ],
+  "timestamp": "2026-09-01T15:31:50.294648928Z",
+  "model": "glm-5.3"
+}

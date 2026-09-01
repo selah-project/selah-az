@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 7:11",
+  "book": "joshua",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "İsrail günah etdi, həmçinin mənim əqdimi pozdular ki, mən ⟨את⟩ onlara buyurmuşam; həmçinin həramdan götürdülər, həmçinin oğurladılar, həmçinfile yalan dedilər, həmçinin onu öz əşyalarının içinə qoydular.",
+  "tokens": [
+    {
+      "surface": "חטא",
+      "gloss": "günah etdi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "həmçinin"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "pozdular"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əqdimi"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "əqdimi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "buyurmuşam"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ onlara"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "həmçinin"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "götürdülər"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "həramdan"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "həmçinin"
+    },
+    {
+      "surface": "גנבו",
+      "gloss": "oğurladılar"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "həmçinin"
+    },
+    {
+      "surface": "כחשו",
+      "gloss": "yalan dedilər"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "həmçinin"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "qoydular"
+    },
+    {
+      "surface": "בכליהם",
+      "gloss": "onların əşyalarının içinə"
+    }
+  ],
+  "timestamp": "2026-09-01T11:04:56.296844981Z",
+  "model": "glm-5.3"
+}

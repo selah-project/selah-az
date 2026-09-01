@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Vay ⟨olacaq⟩ çırpınan qanadlar ölkəsinə, Kush çaylarının o tayındakına!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Vay"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ölkəsinə"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "çırpınan"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "qanadlar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨olandığına⟩"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "o tayında"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "çaylarının"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    }
+  ],
+  "timestamp": "2026-09-01T12:56:06.660427810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 26:29",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Oğullarınızın ətini yeyəcəksiniz və qızlarınızın ətini yeyəcəksiniz.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "yeyəcəksiniz"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ətini"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "oğullarınızın"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "və ətini"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "qızlarınızın"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yeyəcəksiniz"
+    }
+  ],
+  "timestamp": "2026-09-01T10:31:43.458449201Z",
+  "model": "glm-5.3"
+}

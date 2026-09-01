@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 7:3",
+  "book": "ezra",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Əməryanın oğlu, Əzəryanın oğlu, Merayotun oğlu.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Əməryanın"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Əzəryanın"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Merayotun"
+    }
+  ],
+  "timestamp": "2026-09-01T16:50:45.766628835Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Və Ahav İzevelə xəbər verdi ki, Eliyahu nə etdisə ⟨את⟩ hamısını və qılınccla ⟨את⟩ bütün peyğəmbərləri öldürdü, ⟨את⟩ hamısını.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "xəbər verdi"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "İzevelə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nə etdisə hamısını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamısını"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nə ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etdi"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "bütün peyğəmbərləri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nə ki"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "öldürdü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün peyğəmbərləri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "peyğəmbərləri"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "qılınccla"
+    }
+  ],
+  "timestamp": "2026-09-01T12:26:43.295411110Z",
+  "model": "glm-5.3"
+}

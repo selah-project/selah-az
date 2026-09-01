@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 3:1",
+  "book": "song-of-songs",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Yatağımda gecələrlə axtardım ⟨את⟩ canımın sevdiyini; onu axtardım, amma tapmadım.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "yatağımda"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "gecələrlə"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "axtardım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "canımın sevdiyini"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "sevdiyini"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımın"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "onu axtardım"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "tapmadım"
+    }
+  ],
+  "timestamp": "2026-09-01T16:21:36.615624853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 68,
+  "translation": "Ey Elohim, xalqının önünə çıxanda, çöldə addımlayanda — Səlah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Ey Elohim"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "çıxanda"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünə"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "xalqının"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "addımlayanda"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "çöldə"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Səlah"
+    }
+  ],
+  "timestamp": "2026-09-01T15:22:07.946495033Z",
+  "model": "glm-5.3"
+}

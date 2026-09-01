@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 20:7",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Saleh insan öz təmizliyində gəzər; ondan sonra övladları xoşbəxt ⟨dir⟩.",
+  "tokens": [
+    {
+      "surface": "מתהלך",
+      "gloss": "gəzər"
+    },
+    {
+      "surface": "בתמו",
+      "gloss": "öz təmizliyində"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "saleh insan"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "xoşbəxt"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "övladları"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ondan sonra"
+    }
+  ],
+  "timestamp": "2026-09-01T15:55:41.901048827Z",
+  "model": "glm-5.3"
+}

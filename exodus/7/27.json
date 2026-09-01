@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 7:27",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Əgər sən buraxmaqdan imtina etsən, bax, mən sənin bütün sərhədlərini ⟨את⟩ qurbağalarla vuracağam.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "imtina etsən"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "buraxmaqdan"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mən"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "vuracağam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün sərhədlərini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "sərhədlərini"
+    },
+    {
+      "surface": "בצפרדעים",
+      "gloss": "qurbağalarla"
+    }
+  ],
+  "timestamp": "2026-09-01T10:06:41.727498523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 5:21",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Nəfəs ⟨nəfəs — can⟩ günah edərək Yahveyə qarşı xəyanət etsə və əmanətdə, yaxud ələ verilmiş əşyada, yaxud qarətdə, yaxud yoldaşını sıxdırdıqda öz yoldaşına qarşı yalan desə",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "nəfəs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "günah etsə"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "xəyanət etsə"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "qarşı"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "yalan desə"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "öz yoldaşına qarşı"
+    },
+    {
+      "surface": "בפקדון",
+      "gloss": "əmanətdə"
+    },
+    {
+      "surface": "או",
+      "gloss": "yaxud"
+    },
+    {
+      "surface": "בתשומת",
+      "gloss": "ələ verilmişdə"
+    },
+    {
+      "surface": "יד",
+      "gloss": "əl (əşyada)"
+    },
+    {
+      "surface": "או",
+      "gloss": "yaxud"
+    },
+    {
+      "surface": "בגזל",
+      "gloss": "qarətdə"
+    },
+    {
+      "surface": "או",
+      "gloss": "yaxud"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "sıxdırdıqda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öz yoldaşını"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "öz yoldaşını"
+    }
+  ],
+  "timestamp": "2026-09-01T10:23:53.503748804Z",
+  "model": "glm-5.3"
+}

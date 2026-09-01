@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 68:22",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 68,
+  "translation": "Şübhəsiz, Elohim düşmənlərinin başını əzəcək — öz günahlarında gəzənin tüklü təpəsini.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Şübhəsiz"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ימחץ",
+      "gloss": "əzəcək"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "baş"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "düşmənlərinin"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "təpəsini"
+    },
+    {
+      "surface": "שער",
+      "gloss": "tüklü"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "gəzənin"
+    },
+    {
+      "surface": "באשמיו",
+      "gloss": "öz günahlarında"
+    }
+  ],
+  "timestamp": "2026-09-01T15:22:19.992611480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 9:17",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Mənim Elohimim onları rədd edəcək, çünki ona qulaq asmadılar; və onlar millətlər arasında köçüb-dolaşanlar olacaqlar.",
+  "tokens": [
+    {
+      "surface": "ימאסם",
+      "gloss": "onları rədd edəcək"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Mənim Elohimim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "not"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "qulaq asmadılar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "və olacaqlar"
+    },
+    {
+      "surface": "נדדים",
+      "gloss": "köçüb-dolaşanlar"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "millətlər arasında"
+    }
+  ],
+  "timestamp": "2026-09-01T14:35:24.317699438Z",
+  "model": "glm-5.3"
+}

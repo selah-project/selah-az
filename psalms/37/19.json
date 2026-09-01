@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 37:19",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Pis vaxtda utandırılmayacaqlar və qıtlıq günlərində tox olacaqlar.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "utandırılmayacaqlar"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "vaxtda"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pis"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "və günlərində"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "qıtlıq"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "tox olacaqlar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:12:56.963869898Z",
+  "model": "glm-5.3"
+}

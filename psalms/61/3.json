@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 61:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 61,
+  "translation": "Yerin ucundan sənə səslənəcəyəm, ürəyim ⟨örtüldükdə⟩; məni özümdən yüksək qayaya sənin özün aparacaq.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "ucundan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "səslənəcəyəm"
+    },
+    {
+      "surface": "בעטף",
+      "gloss": "örtüldükdə"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ürəyim"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "qayaya"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "yüksək"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "özümdən"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "məni aparacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:21:22.454168935Z",
+  "model": "glm-5.3"
+}

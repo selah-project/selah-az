@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 135,
+  "translation": "Sionu, emorilərin padşahını, və Oqu, Başanın padşahını, və Kənanın bütün padşahlıqlarını —",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "Sionu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşahını"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emorilərin"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "və Oqu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşahını"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Başanın"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "padşahlıqlarını"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kənanın"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:15.822454012Z",
+  "model": "glm-5.3"
+}

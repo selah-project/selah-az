@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Əlin bütün düşmənlərini tapacaq, sağ əlin səni söyənləri tapacaq.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "tapacaq"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "əlin"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "düşmənlərini"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "sağ əlin"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "tapacaq"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "səni söyənləri"
+    }
+  ],
+  "timestamp": "2026-09-01T15:06:03.535931184Z",
+  "model": "glm-5.3"
+}

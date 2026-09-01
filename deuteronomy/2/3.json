@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Kifayətdir sizə — bu dağı ⟨את⟩ dolanmaq; özünüz üçün şimala dönün.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "kifayətdir"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizə"
+    },
+    {
+      "surface": "סב",
+      "gloss": "dolanmaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu dağı"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "dağı"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "dönün"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "özünüz üçün"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "şimala"
+    }
+  ],
+  "timestamp": "2026-09-01T10:46:05.672047662Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 21:32",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Və Beer-Şevada əhd kəsdilər; və Avimelex və onun ordusunun başçısı Fixol qalxdı və Filistimlər diyarına qayıtdılar.",
+  "tokens": [
+    {
+      "surface": "ויכרתו",
+      "gloss": "və kəsdilər"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "əhd"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Şevada"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "və qalxdı"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelex"
+    },
+    {
+      "surface": "ופיכל",
+      "gloss": "və Fixol"
+    },
+    {
+      "surface": "שר",
+      "gloss": "başçısı"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "onun ordusunun"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "və qayıtdılar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "diyarına"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistimlər"
+    }
+  ],
+  "timestamp": "2026-09-01T09:51:37.963897801Z",
+  "model": "glm-5.3"
+}

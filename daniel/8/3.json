@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 8:3",
+  "book": "daniel",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və gözlərimi qaldırdım və gördüm, və bax: bir qoç çayın qarşısında dururdu; və buynuzları ⟨idi⟩ və buynuzlar uca ⟨idi⟩, və biri ikincisindən uca ⟨idi⟩, və uca olan ən sonda qalxdı.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "qaldırdım"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözlərimi"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "gördüm"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "və bax"
+    },
+    {
+      "surface": "איל",
+      "gloss": "qoç"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "dururdu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "qarşısında"
+    },
+    {
+      "surface": "האבל",
+      "gloss": "çayın"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "və ona"
+    },
+    {
+      "surface": "קרנים",
+      "gloss": "buynuzlar"
+    },
+    {
+      "surface": "והקרנים",
+      "gloss": "və buynuzlar"
+    },
+    {
+      "surface": "גבהות",
+      "gloss": "uca"
+    },
+    {
+      "surface": "והאחת",
+      "gloss": "və biri"
+    },
+    {
+      "surface": "גבהה",
+      "gloss": "uca"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dən"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ikincisindən"
+    },
+    {
+      "surface": "והגבהה",
+      "gloss": "və uca olan"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "qalxdı"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "ən sonda"
+    }
+  ],
+  "timestamp": "2026-09-01T16:44:28.248879186Z",
+  "model": "glm-5.3"
+}

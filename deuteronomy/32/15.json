@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 32:15",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Və Yeşurun kökəldi və təpik atdı; sən kökəldin, qalınlaşdın, yağlandın; ⟨o⟩, onu yaradan Eloahı tərk etdi və xilasının Qayasını cılız saydı.",
+  "tokens": [
+    {
+      "surface": "וישמן",
+      "gloss": "və kökəldi"
+    },
+    {
+      "surface": "ישרון",
+      "gloss": "Yeşurun"
+    },
+    {
+      "surface": "ויבעט",
+      "gloss": "və təpik atdı"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "kökəldin"
+    },
+    {
+      "surface": "עבית",
+      "gloss": "qalınlaşdın"
+    },
+    {
+      "surface": "כשית",
+      "gloss": "yağlandın"
+    },
+    {
+      "surface": "ויטש",
+      "gloss": "və tərk etdi"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "onu yaradan"
+    },
+    {
+      "surface": "וינבל",
+      "gloss": "və cılız saydı"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Qaya"
+    },
+    {
+      "surface": "ישעתו",
+      "gloss": "xilasının"
+    }
+  ],
+  "timestamp": "2026-09-01T10:59:15.975667630Z",
+  "model": "glm-5.3"
+}

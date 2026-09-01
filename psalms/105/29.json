@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 105,
+  "translation": "Sularını qana çevirdi və balıqlarını öldürdü.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "çevirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sularını"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "sularını"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "qana"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "və öldürdü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balıqlarını"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "balıqlarını"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:26.478902870Z",
+  "model": "glm-5.3"
+}

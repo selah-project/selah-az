@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 30:21",
+  "book": "job",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Mənə qarşı amansıza çevrilirsən, əlinin gücü ilə məni təqib edirsən.",
+  "tokens": [
+    {
+      "surface": "תהפך",
+      "gloss": "çevrilirsən"
+    },
+    {
+      "surface": "לאכזר",
+      "gloss": "amansıza"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə qarşı"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "gücü ilə"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "əlinin"
+    },
+    {
+      "surface": "תשטמני",
+      "gloss": "məni təqib edirsən"
+    }
+  ],
+  "timestamp": "2026-09-01T16:14:37.178659584Z",
+  "model": "glm-5.3"
+}

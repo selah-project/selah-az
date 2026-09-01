@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 147,
+  "translation": "Yahve məzlumları dirçəldir, şər insanları yerə qədər alçaldır.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "dirçəldir"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "məzlumları"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "alçaldır"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "şər insanları"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "yerə qədər"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:47.007121438Z",
+  "model": "glm-5.3"
+}

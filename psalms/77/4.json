@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 77,
+  "translation": "Elohimi xatırlayıram və ⟨inləyirəm⟩; ürəkdən danışıram, və ruhum taqətdən düşür. Sela.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "xatırlayıram"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "və ⟨inləyirəm⟩"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ürəkdən danışıram"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "və taqətdən düşür"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruhum"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-01T15:25:59.792128924Z",
+  "model": "glm-5.3"
+}

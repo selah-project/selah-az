@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 2:5",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Paronun qızı çayda çimmək üçün endi, və onun qızları çayın kənarı boyunca gedirdilər; o, ⟨את⟩ səbəti qamışlıq içində gördü və ⟨את⟩ cariyəsini göndərdi, və o, onu götürdü.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "endi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qızı"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לרחץ",
+      "gloss": "çimmək üçün"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərində"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "çayın"
+    },
+    {
+      "surface": "ונערתיה",
+      "gloss": "və onun qızları"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "gedirdilər"
+    },
+    {
+      "surface": "על",
+      "gloss": "boyunca"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kənarı"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "çayın"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "o, gördü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "səbəti"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "səbəti"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "içində"
+    },
+    {
+      "surface": "הסוף",
+      "gloss": "qamışlıq"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "və göndərdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cariyəsini"
+    },
+    {
+      "surface": "אמתה",
+      "gloss": "cariyəsini"
+    },
+    {
+      "surface": "ותקחה",
+      "gloss": "və o götürdü"
+    }
+  ],
+  "timestamp": "2026-09-01T10:03:53.814499772Z",
+  "model": "glm-5.3"
+}

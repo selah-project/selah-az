@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 6:10",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Və Yisrayel kralı o yerə — Elohim adamının ona dediyi yerə — adamlar göndərdi və xəbərdarlıq edildi, və orada qorundu, bir dəfə yox, iki dəfə də yox.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "və göndərdi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "yer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dediyi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adamı"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והזהירה",
+      "gloss": "və xəbərdarlıq etdi"
+    },
+    {
+      "surface": "ונשמר",
+      "gloss": "və qorundu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orada"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "bir dəfə"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "iki dəfə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:31:21.392509647Z",
+  "model": "glm-5.3"
+}

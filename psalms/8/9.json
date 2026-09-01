@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Göyün quşları və dənizin balıqları, dənizin yollarından ötən ⟨hər şey⟩.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "quşları"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "göyün"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "və balıqları"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dənizin"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ötən"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "yollarından"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dənizin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:03:07.738504209Z",
+  "model": "glm-5.3"
+}

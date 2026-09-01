@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 54:3",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 54,
+  "translation": "Çünki sağa və sola səpələnəcəksən, və toxumun xalqları mənimsəyəcək, və tərk edilmiş şəhərləri məskunlaşdıracaq.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "sağa"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "və sola"
+    },
+    {
+      "surface": "תפרצי",
+      "gloss": "səpələnəcəksən"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "və toxumun"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "xalqları"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "mənimsəyəcək"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "və şəhərləri"
+    },
+    {
+      "surface": "נשמות",
+      "gloss": "tərk edilmiş"
+    },
+    {
+      "surface": "יושיבו",
+      "gloss": "məskunlaşdıracaq"
+    }
+  ],
+  "timestamp": "2026-09-01T17:36:38.117228962Z",
+  "model": "glm-5.3"
+}

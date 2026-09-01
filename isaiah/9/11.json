@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 9:11",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Aram öndən, Peliştlilər arxadan; və İsraili bütün ağızla yedilər. Bütün bunlara baxmayaraq onun qəzəbi dönmədi və onun əli hələ də uzadılıb.",
+  "tokens": [
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "öndən"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "Peliştlilər"
+    },
+    {
+      "surface": "מאחור",
+      "gloss": "arxadan"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "yedilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsraili"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsraili"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ağızla"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bunlara baxmayaraq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dönmədi — yox"
+    },
+    {
+      "surface": "שב",
+      "gloss": "dönmədi"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "onun qəzəbi"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "hələ də"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "onun əli"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "uzadılıb"
+    }
+  ],
+  "timestamp": "2026-09-01T12:50:43.937793851Z",
+  "model": "glm-5.3"
+}

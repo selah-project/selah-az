@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 78,
+  "translation": "Yosefin çadırını rədd etdi və Efrayim qəbiləsini seçmədi.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "rədd etdi"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "çadırını"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefin"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "qəbiləsini"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "seçmədi ⟨yox⟩"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "seçdi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:26:27.843149270Z",
+  "model": "glm-5.3"
+}

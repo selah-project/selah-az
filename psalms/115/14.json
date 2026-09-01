@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 115,
+  "translation": "Yahve sizə artırsın, sizə və oğullarınıza ⟨artırsın⟩.",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "artırsın"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sizə"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sizə"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "və"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "oğullarınıza"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:34.424765035Z",
+  "model": "glm-5.3"
+}

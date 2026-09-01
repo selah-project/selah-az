@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və qızlarına dedi: O haradadır? Niyə ⟨belə⟩ adamı qoyub getdiniz? Çağırın onu, ki çörək yesin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "qızlarına"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "və o haradadır"
+    },
+    {
+      "surface": "למה",
+      "gloss": "niyə"
+    },
+    {
+      "surface": "זה",
+      "gloss": "belə"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "qoyub getdiniz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adammu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "adammu"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "çağırın"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onu"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ki o yesin"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "çörək"
+    }
+  ],
+  "timestamp": "2026-09-01T10:03:35.600729975Z",
+  "model": "glm-5.3"
+}

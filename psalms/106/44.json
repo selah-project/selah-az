@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 106,
+  "translation": "Amma sıxıntıda onlara baxdı, onların ⟨את⟩ fəryadını eşidəndə.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "baxdı"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "sıxıntıda"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "eşidəndə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onların fəryadını"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "onların fəryadını"
+    }
+  ],
+  "timestamp": "2026-09-01T15:35:57.520780295Z",
+  "model": "glm-5.3"
+}

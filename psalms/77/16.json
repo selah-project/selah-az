@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 77,
+  "translation": "Qolunla xalqını — Yaaqovun və Yosefin oğullarını — qurtardın. Selah.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "qurtardın"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "qolunla"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "xalqını"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaqovun"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "və Yosefin"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T15:24:56.515823570Z",
+  "model": "glm-5.3"
+}

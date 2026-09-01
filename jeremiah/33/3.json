@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 33:3",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "Mənə çağır, və Mən sənə cavab verəcəyəm, və sənə böyük, əlçatmaz şeylər bildirəcəyəm — sən onları bilməmisən.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "çağır"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Mənə"
+    },
+    {
+      "surface": "ואענך",
+      "gloss": "və Mən sənə cavab verəcəyəm"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "və bildirəcəyəm"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "böyük şeylər"
+    },
+    {
+      "surface": "ובצרות",
+      "gloss": "və əlçatmaz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "onları bilməmisən"
+    }
+  ],
+  "timestamp": "2026-09-01T13:44:11.293689018Z",
+  "model": "glm-5.3"
+}

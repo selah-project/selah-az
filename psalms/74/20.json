@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 74:20",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 74,
+  "translation": "Əhdə bax, çünki yerin qaranlıq guşələri zorluq yuvaları ilə doludur.",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "bax"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "əhdə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "doludur"
+    },
+    {
+      "surface": "מחשכי",
+      "gloss": "qaranlıq guşələri"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "yuvaları"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "zorluq"
+    }
+  ],
+  "timestamp": "2026-09-01T15:25:37.051324436Z",
+  "model": "glm-5.3"
+}

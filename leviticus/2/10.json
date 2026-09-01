@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 2:10",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Minxadan qalan isə Ahrona və oğullarına çatar — müqəddəslərin müqəddəsi, Yahvenin od qurbanlarındandır.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "qalan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "—dan"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minxa"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Ahrona"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "və oğullarına"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "müqəddəslərin"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "od qurbanlarından"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:22:34.955256701Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Qatda ⟨bunu⟩ bildirməyin, ağlayın, ağlamayın; Bet-LeAfrada toz içində özümü yuvarladım.",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "Qatda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "bildirməyin"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "ağlayın"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "ağlamayın"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "LeAfrada"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "toz"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "özümü yuvarladım"
+    }
+  ],
+  "timestamp": "2026-09-01T14:45:51.500012681Z",
+  "model": "glm-5.3"
+}

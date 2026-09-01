@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 51:10",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 51,
+  "translation": "Məgər sən deyilsənmi o, dənizi qurudan, böyük ⟨Təhomun⟩ sularını; dərinliklərə yol edən keçəcək ⟨fidye olunanlar⟩ üçün?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "məgər... deyil"
+    },
+    {
+      "surface": "את",
+      "gloss": "sən",
+      "marks": "sən (H859 əvəzliyi)"
+    },
+    {
+      "surface": "היא",
+      "gloss": "o"
+    },
+    {
+      "surface": "המחרבת",
+      "gloss": "qurudan"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dənizi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sularını"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "Təhomun"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "edən"
+    },
+    {
+      "surface": "מעמקי",
+      "gloss": "dərinliklərə"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dəniz"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yol"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "keçmək üçün"
+    },
+    {
+      "surface": "גאולים",
+      "gloss": "fidye olunanlar"
+    }
+  ],
+  "timestamp": "2026-09-01T13:13:35.197069963Z",
+  "model": "glm-5.3"
+}

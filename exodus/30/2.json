@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 30:2",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Bir amma ⟨olacaq⟩ uzunluğu, bir amma eni — dördkünc olacaq; iki amma boyu; buynuzları ⟨ondan⟩ çıxacaq.",
+  "tokens": [
+    {
+      "surface": "אמה",
+      "gloss": "amma"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "uzunluğu"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "və bir amma"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "eni"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "dördkünc"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "və iki amma"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "boyu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "buynuzları"
+    }
+  ],
+  "timestamp": "2026-09-01T10:18:20.420958508Z",
+  "model": "glm-5.3"
+}

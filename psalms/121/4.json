@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 121,
+  "translation": "Bax, nə yuxuya dalır, nə yatır — Yisraeli qoruyan.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bax"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nə"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "yuxuya dalır"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nə də"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "yatır"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "qoruyan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-01T15:41:52.704805241Z",
+  "model": "glm-5.3"
+}

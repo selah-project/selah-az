@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 68,
+  "translation": "Yetimlərin atası, dulların hakimi — Elohim öz müqəddəs məskənində.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "atası"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "yetimlərin"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "və hakimi"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "dulların"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "məskənində"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "müqəddəs"
+    }
+  ],
+  "timestamp": "2026-09-01T15:22:07.946236878Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Günahkarlarla bir yığma mənim canımı, qan adamlarıyla ⟨bir yığma⟩ mənim həyatımı.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "yığma"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "...ma"
+    },
+    {
+      "surface": "עם",
+      "gloss": "birlikdə"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "günahkarlarla"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mənim canımı"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "və ...birlikdə"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "adamlarıyla"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "qan"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "mənim həyatımı"
+    }
+  ],
+  "timestamp": "2026-09-01T15:08:18.296054197Z",
+  "model": "glm-5.3"
+}

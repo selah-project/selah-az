@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 22:12",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Və Elohim Bilama dedi: onlarla getmə, ⟨את⟩ xalqı lənətləmə, çünki o mübarəkdir.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Və ... dedi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "getmə"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "onlarla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "lənətləmə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqı"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "mübarək"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-09-01T17:29:11.906255803Z",
+  "model": "glm-5.3"
+}

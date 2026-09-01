@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 77:17",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 77,
+  "translation": "Səni gördülər sular, ya Elohim, səni gördülər sular, fıryana gəldilər; hətta dərinliklər lərzəyə gəldilər.",
+  "tokens": [
+    {
+      "surface": "ראוך",
+      "gloss": "səni gördülər"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sular"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ראוך",
+      "gloss": "səni gördülər"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sular"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "fıryana gəldilər"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hətta"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "lərzəyə gəldilər"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "dərinliklər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:25:15.840066477Z",
+  "model": "glm-5.3"
+}

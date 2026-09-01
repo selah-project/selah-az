@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 59:15",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 59,
+  "translation": "Və həqiqət ⟨əskik qaldı⟩, şərdən çəkinən isə talan ⟨edildi⟩; Yahve gördü və Onun gözündə pis oldu, çünki mühakimə yox idi.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "və oldu"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "həqiqət"
+    },
+    {
+      "surface": "נעדרת",
+      "gloss": "⟨əskik qaldı⟩"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "və çəkindi"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "şərdən"
+    },
+    {
+      "surface": "משתולל",
+      "gloss": "talan"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "və gördü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "və pis oldu"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "Onun gözündə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mühakimə"
+    }
+  ],
+  "timestamp": "2026-09-01T13:17:40.163873264Z",
+  "model": "glm-5.3"
+}

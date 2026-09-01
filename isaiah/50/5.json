@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 50,
+  "translation": "Adonay Yahve mənə qulaq açdı, mən isə üsyan etmədim, geri çəkilmədim.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "açdı"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "qulaq"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "mən isə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…mədim"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "üsyan et"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "geri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…mədim"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "çəkilmədim"
+    }
+  ],
+  "timestamp": "2026-09-01T13:14:53.468605585Z",
+  "model": "glm-5.3"
+}

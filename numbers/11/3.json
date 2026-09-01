@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 11:3",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Və o yerin adını Tavera qoydu, çünki onların içində Yahvenin odu yanıb yandırmışdı.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "və ad qoydu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ad"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "תבערה",
+      "gloss": "Tavera"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "yanıb yandırmışdı"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onların içində"
+    },
+    {
+      "surface": "אש",
+      "gloss": "od"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T10:36:40.075754134Z",
+  "model": "glm-5.3"
+}

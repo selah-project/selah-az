@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 25:25",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Və ona ətrafda bir qədəh enində haşiyə düzəltcəksən, və haşiyəsinin ətrafına qızıl çərçivə düzəltcəksən.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "və düzəltcəksən"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "מסגרת",
+      "gloss": "haşiyə"
+    },
+    {
+      "surface": "טפח",
+      "gloss": "bir qədəh enində"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ətrafda"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "və düzəltcəksən"
+    },
+    {
+      "surface": "זר",
+      "gloss": "çərçivə"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "qızıl"
+    },
+    {
+      "surface": "למסגרתו",
+      "gloss": "haşiyəsinin"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ətrafına"
+    }
+  ],
+  "timestamp": "2026-09-01T10:16:12.636478198Z",
+  "model": "glm-5.3"
+}

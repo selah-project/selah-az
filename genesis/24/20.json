@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 24:20",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Və tələsdi və küpünü suvarma yalasına boşaltdı və yenə quyu qaçdı su çəkməyə və bütün dəvələri üçün su çəkdi.",
+  "tokens": [
+    {
+      "surface": "ותמהר",
+      "gloss": "və tələsdi"
+    },
+    {
+      "surface": "ותער",
+      "gloss": "və boşaltdı"
+    },
+    {
+      "surface": "כדה",
+      "gloss": "küpünü"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "השקת",
+      "gloss": "suvarma yalasına"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "və qaçdı"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yenə"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "quyu"
+    },
+    {
+      "surface": "לשאב",
+      "gloss": "su çəkməyə"
+    },
+    {
+      "surface": "ותשאב",
+      "gloss": "və su çəkdi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "גמליו",
+      "gloss": "dəvələri üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T09:52:18.750708846Z",
+  "model": "glm-5.3"
+}

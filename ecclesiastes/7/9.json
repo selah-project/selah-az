@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Ruhunda qəzəblənmək üçün tələsmə, çünki qəzəb avamların qucağında sükunət tapır.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "{qəzəblənmə}"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "tələsmə"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "ruhunda"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "qəzəblənmək üçün"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "qəzəb"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "qucağında"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "avamların"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "sükunət tapır"
+    }
+  ],
+  "timestamp": "2026-09-01T16:30:58.868900841Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 19:4",
+  "book": "2-samuel",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Və xalq ⟨o⟩ gün gizlicə şəhərə girmək üçün sıvışdı, utanc içində döyüşdən qaçan xalqın sıvışdığı kimi.",
+  "tokens": [
+    {
+      "surface": "ויתגנב",
+      "gloss": "sıvışdı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "girmək üçün"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şəhərə"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "יתגנב",
+      "gloss": "sıvışdığı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqın"
+    },
+    {
+      "surface": "הנכלמים",
+      "gloss": "utanc içində"
+    },
+    {
+      "surface": "בנוסם",
+      "gloss": "qaçan"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "döyüşdən"
+    }
+  ],
+  "timestamp": "2026-09-01T12:03:14.265224742Z",
+  "model": "glm-5.3"
+}

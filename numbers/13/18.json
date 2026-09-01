@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 13:18",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Və torpağa ⟨את⟩ baxın — necədir ⟨o⟩, və orada yaşayan xalqı ⟨את⟩ — güclüdür ⟨o⟩, zəifdir ⟨o⟩? Azdır ⟨o⟩, yoxsa çox?",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "və baxın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "torpağa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "torpağa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "necə"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "xalqı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqı"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "yaşayan"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "onun üstündə"
+    },
+    {
+      "surface": "החזק",
+      "gloss": "güclü"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "הרפה",
+      "gloss": "zəif"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "az"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoxsa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "çox"
+    }
+  ],
+  "timestamp": "2026-09-01T10:37:33.003936281Z",
+  "model": "glm-5.3"
+}

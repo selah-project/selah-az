@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 48,
+  "translation": "Elohim, hesedini düşündük məbədinizin ⟨⟩ içərisində — ⟨məbədinin⟩ ortasında.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "düşündük"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "sənin hesedin"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ortasında"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "sənin məbədin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:15:42.825398001Z",
+  "model": "glm-5.3"
+}

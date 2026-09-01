@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 94,
+  "translation": "Millətləri tərbiyə edən ⟨o⟩ qınımazmı? İnsana bilik öyrədən ⟨o⟩ ⟨bilməzmi⟩?",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "tərbiyə edən"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "millətləri"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "mü… yox"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "qınımazmı"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "öyrədən"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insana"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "bilik"
+    }
+  ],
+  "timestamp": "2026-09-01T15:31:39.180490223Z",
+  "model": "glm-5.3"
+}

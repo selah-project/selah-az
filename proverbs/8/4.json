@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Sizə, ey adamlar, müraciət edirəm, və səsim insan oğullarınadır.",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "sizə"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "ey adamlar"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "müraciət edirəm"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "və səsim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarına"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:50:31.925038839Z",
+  "model": "glm-5.3"
+}

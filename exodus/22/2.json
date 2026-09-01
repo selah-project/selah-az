@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 22:2",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Əgər günəş onun üzərinə doğsa, onun üçün qan ⟨ödənilir⟩; tam ödəyəcək; əgər onun ⟨malı⟩ yoxdursa, oğurluğuna görə satılacaq.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Əgər"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "doğsa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "günəş"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üzərinə"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "qan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onun üçün"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ödəyəcək"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdursa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onun"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "və satılacaq"
+    },
+    {
+      "surface": "בגנבתו",
+      "gloss": "oğurluğuna görə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:15:33.396103876Z",
+  "model": "glm-5.3"
+}

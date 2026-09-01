@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Hikmətlilərlə ⟨את⟩ gəzən hikmətli olar, amma dəcillərlə düşüb-gedən ziyan çəkər.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "gəzən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hikmətlilərlə"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "hikmətlilər"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "amma hikmətli olar"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "amma düşüb-gedən"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "dəcillərlə"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "ziyan çəkər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:52:23.001576845Z",
+  "model": "glm-5.3"
+}

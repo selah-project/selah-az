@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 30:2",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Çünki mən hər adamdan daha heyvanıyam ⟨və⟩ insan dərrakəsi məndə ⟨yoxdur⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "בער",
+      "gloss": "heyvani"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mən"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "hər adamdan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "בינת",
+      "gloss": "dərrakəsi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "məndə"
+    }
+  ],
+  "timestamp": "2026-09-01T16:01:17.251646437Z",
+  "model": "glm-5.3"
+}

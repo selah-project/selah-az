@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Lənətlənmişdir atasını və anasını alçaq tutan; və bütün xalq deyəcək: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Lənətlənmişdir"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "alçaq tutan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atasını"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "və anasını"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "deyəcək"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-09-01T10:54:30.082217014Z",
+  "model": "glm-5.3"
+}

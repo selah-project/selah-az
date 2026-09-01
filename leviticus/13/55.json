@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 13:55",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Kohan yuyulmadan sonra zərərə baxsa və baxsa — zərər ⟨öz⟩ görünüşünü dəyişməyibsə və zərər yayılmayıbsa — o, murdardır; onu odda yandıracaqsan; o, keyinlikdir — onun keçəl yerində, yaxud alın tərəfində.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "baxsa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sonra"
+    },
+    {
+      "surface": "הכבס",
+      "gloss": "yuyulma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zərər"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "zərər"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "və baxsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "dəyişməyib"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "zərər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öz görünüşü (עינו)"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "görünüşü"
+    },
+    {
+      "surface": "והנגע",
+      "gloss": "və zərər"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "yayılmayıb"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "murdardır"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "באש",
+      "gloss": "odda"
+    },
+    {
+      "surface": "תשרפנו",
+      "gloss": "yandıracaqsan"
+    },
+    {
+      "surface": "פחתת",
+      "gloss": "keyinlikdir"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "בקרחתו",
+      "gloss": "onun keçəl yerində"
+    },
+    {
+      "surface": "או",
+      "gloss": "yaxud"
+    },
+    {
+      "surface": "בגבחתו",
+      "gloss": "alın tərəfində"
+    }
+  ],
+  "timestamp": "2026-09-01T10:27:12.326285607Z",
+  "model": "glm-5.3"
+}

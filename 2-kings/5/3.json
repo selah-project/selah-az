@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 5:3",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Və o, xanımına dedi: Kaş ki, ağam Şomronda olan peyğəmbərin yanında olaydı — o zaman o, onu ⟨את⟩ cüzamından sağaldardı.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Və o dedi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "xanımına"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "Kaş ki"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ağam"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yanında"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "peyğəmbərin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olan"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Şomronda"
+    },
+    {
+      "surface": "אז",
+      "gloss": "o zaman"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "sağaldardı"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "cüzamından"
+    }
+  ],
+  "timestamp": "2026-09-01T12:32:01.073184349Z",
+  "model": "glm-5.3"
+}

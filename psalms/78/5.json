@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 78:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 78,
+  "translation": "Yaakovda şəhadət qaldırdı və Yisraildə Tövrə qoydu, atalarımıza buyurduğu kimi ki, ⟨את⟩ onları öz övladlarına bildirsinlər.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "qaldırdı"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "şəhadət"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "Yaakovda"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "və Tövrə"
+    },
+    {
+      "surface": "שם",
+      "gloss": "qoydu"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Yisraildə"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kimi ki"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onları (atalarımız)"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "atalarımız"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "bildirsinlər"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "öz övladlarına"
+    }
+  ],
+  "timestamp": "2026-09-01T15:26:25.646776817Z",
+  "model": "glm-5.3"
+}

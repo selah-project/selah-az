@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 56:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 56,
+  "translation": "Şər üzərinə qaçacaqlarmı? Qəzəbində, ey Elohim, xalqları aşağı endir.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "און",
+      "gloss": "şər"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "qaçmaq"
+    },
+    {
+      "surface": "למו",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "באף",
+      "gloss": "qəzəbində"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "xalqları"
+    },
+    {
+      "surface": "הורד",
+      "gloss": "aşağı endir"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T15:19:24.744294864Z",
+  "model": "glm-5.3"
+}

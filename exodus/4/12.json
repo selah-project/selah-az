@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 4:12",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və indi get; və mən olacağam ağzınla, və sənə öyrədəcəyəm nə danışmalısan.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "və indi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "get"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "və mən"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "olacağam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ağzınla"
+    },
+    {
+      "surface": "והוריתיך",
+      "gloss": "sənə öyrədəcəyəm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nə"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "danışmalısan"
+    }
+  ],
+  "timestamp": "2026-09-01T10:05:47.803132833Z",
+  "model": "glm-5.3"
+}

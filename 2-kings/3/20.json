@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və səhər oldu, minxa qalxdığı zaman, və bax, sular Edom yolundan gəlirdi, və yer ⟨את⟩ sularla doldu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "və oldu"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "səhər"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "qalxdığı zaman"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minxa"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "və bax"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sular"
+    },
+    {
+      "surface": "באים",
+      "gloss": "gəlirdi"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "yolundan"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "və doldu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sularla"
+    },
+    {
+      "surface": "המים",
+      "gloss": "sular"
+    }
+  ],
+  "timestamp": "2026-09-01T12:29:30.339114702Z",
+  "model": "glm-5.3"
+}

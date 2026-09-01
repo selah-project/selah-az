@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 24:33",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Və onun qarşısına yemək qoydu; o isə dedi: Yeməyəcəyəm, sözlərimi danışana qədər. O da dedi: Danış.",
+  "tokens": [
+    {
+      "surface": "ויישם",
+      "gloss": "qoydu"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "onun qarşısına"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "yeməyə"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o isə dedi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yeməyəcəyəm"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨əgər⟩"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "danışana"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözlərimi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o da dedi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "danış"
+    }
+  ],
+  "timestamp": "2026-09-01T09:52:40.249292781Z",
+  "model": "glm-5.3"
+}

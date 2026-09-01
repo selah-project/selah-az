@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 27:12",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Kahin onu yaxşı ⟨və ya⟩ pis olmasına görə dəyərləndirsin; kahin nə dəyər biçərsə, ⟨qiymət⟩ elə olacaq.",
+  "tokens": [
+    {
+      "surface": "והעריך",
+      "gloss": "dəyərləndirsin"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Kahin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "onu (heyvanı)"
+    },
+    {
+      "surface": "בין",
+      "gloss": "olmasına görə"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşı"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "və ya"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pis"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "nə dəyər biçərsən"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin (sən)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "elə"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T10:32:13.331464360Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və yenə Günəşin altında gördüm: məhkəmə yerində orada şər ⟨var idi⟩, ədalət yerində isə orada şər ⟨var idi⟩.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "Və yenə"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "gördüm"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "Günəşin"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "yerində"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "məhkəmə"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "orada"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "şər"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "yerində isə"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "ədalət"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "orada"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "şər"
+    }
+  ],
+  "timestamp": "2026-09-01T16:29:34.494036961Z",
+  "model": "glm-5.3"
+}

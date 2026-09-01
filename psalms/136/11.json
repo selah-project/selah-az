@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 136:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 136,
+  "translation": "və Yisraeli onların arasından çıxartdı; çünki onun hesedi əbədidir.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "və çıxartdı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "onların arasından"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədidir"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "onun hesedi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:43:54.062039452Z",
+  "model": "glm-5.3"
+}

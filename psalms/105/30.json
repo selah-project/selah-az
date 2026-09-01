@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 105,
+  "translation": "Ölkələrini qurbağalarla doldurdu, öz padşahlarının otaqlarında ⟨belə⟩.",
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "doldurdu (dolanıb-tuşdu)"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ölkələrini"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "qurbağalarla"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "otaqlarında"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "padşahlarının"
+    }
+  ],
+  "timestamp": "2026-09-01T15:36:26.479171921Z",
+  "model": "glm-5.3"
+}

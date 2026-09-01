@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "Və ona dedi: Əgər üzün getmirsə, bizi buradan yuxarı aparma.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "üzün"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "getmirsə"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aparma"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "bizi yuxarı aparma"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "buradan"
+    }
+  ],
+  "timestamp": "2026-09-01T10:20:15.460767108Z",
+  "model": "glm-5.3"
+}

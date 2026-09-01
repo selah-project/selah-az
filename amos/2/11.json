@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 2:11",
+  "book": "amos",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Oğullarınızdan peyğəmbərlər üçün, seçilmiş gənclərinizdən nazirlər üçün qaldırdım. Məgər bu belə deyilmi, ey Yisrael oğulları? — deyir Yahve.",
+  "tokens": [
+    {
+      "surface": "ואקים",
+      "gloss": "qaldırdım"
+    },
+    {
+      "surface": "מבניכם",
+      "gloss": "oğullarınızdan"
+    },
+    {
+      "surface": "לנביאים",
+      "gloss": "peyğəmbərlər üçün"
+    },
+    {
+      "surface": "ומבחוריכם",
+      "gloss": "seçilmiş gənclərinizdən"
+    },
+    {
+      "surface": "לנזרים",
+      "gloss": "nazirlər üçün"
+    },
+    {
+      "surface": "האף",
+      "gloss": "məgər"
+    },
+    {
+      "surface": "אין",
+      "gloss": "deyil"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T17:40:52.962126829Z",
+  "model": "glm-5.3"
+}

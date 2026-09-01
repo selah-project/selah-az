@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 47:3",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 47,
+  "translation": "Çılpaqlığın görünəcək, hətta utancın görüləcək; intiqam alacağam və heç bir insanla ⟨üz-üzə gəlməyəcəyəm⟩.",
+  "tokens": [
+    {
+      "surface": "תגל",
+      "gloss": "görünəcək"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "çılpaqlığın"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hətta"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "görüləcək"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "utancın"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "intiqam"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "alacağam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "אפגע",
+      "gloss": "üz-üzə gəlməyəcəyəm"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    }
+  ],
+  "timestamp": "2026-09-01T13:11:28.937281195Z",
+  "model": "glm-5.3"
+}

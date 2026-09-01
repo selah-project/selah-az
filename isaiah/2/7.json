@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 2:7",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Torpağı gümüş və qızılla doldu, xəzinələrinə son yoxdur; torpağı atlarla doldu, döyüş arabalarına son yoxdur.",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "doldu"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "torpağı"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "qızılla"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "son"
+    },
+    {
+      "surface": "לאצרתיו",
+      "gloss": "xəzinələrinə"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "doldu"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "torpağı"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "atlarla"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "son"
+    },
+    {
+      "surface": "למרכבתיו",
+      "gloss": "döyüş arabalarına"
+    }
+  ],
+  "timestamp": "2026-09-01T12:45:31.553385565Z",
+  "model": "glm-5.3"
+}

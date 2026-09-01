@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 32:10",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Günlər ⟨boyunca⟩, bir ildən ⟨sonra⟩ titrəyəcəksiniz, ey güvənənlər; çünki məhsul qurtarıb, yığım gəlməyəcək.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "günlər"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerində"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "il"
+    },
+    {
+      "surface": "תרגזנה",
+      "gloss": "titrəyəcəksiniz"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "güvənənlər"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "qurtarıb"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "məhsul"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "yığım"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "gəlməyəcək ⟨-məyəcək⟩"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "gəlmək"
+    }
+  ],
+  "timestamp": "2026-09-01T12:59:31.245186207Z",
+  "model": "glm-5.3"
+}

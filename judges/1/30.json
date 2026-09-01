@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 1:30",
+  "book": "judges",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Zevulun ⟨את⟩ Kitron sakinlərini və ⟨את⟩ Nahalal sakinlərini qovmadı, və Kenaani onun içində yaşadı, və onlar məcburi əməkçi oldular.",
+  "tokens": [
+    {
+      "surface": "זבולן",
+      "gloss": "Zevulun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "qovmadı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kitron sakinləri"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "sakinləri"
+    },
+    {
+      "surface": "קטרון",
+      "gloss": "Kitron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Nahalal sakinləri"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "sakinləri"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "Nahalal"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "və yaşadı"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaani"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "onun içində"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "və oldular"
+    },
+    {
+      "surface": "למס",
+      "gloss": "məcburi əməkçi"
+    }
+  ],
+  "timestamp": "2026-09-01T11:15:09.935164016Z",
+  "model": "glm-5.3"
+}

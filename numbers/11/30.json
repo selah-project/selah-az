@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 11:30",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Və Moşe düşərgəyə yığıldı, o və İsrailin ağsaqqalları.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "və yığıldı"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-yə"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "düşərgə"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "və ağsaqqalları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:37:58.916307702Z",
+  "model": "glm-5.3"
+}

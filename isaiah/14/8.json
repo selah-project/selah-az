@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 14:8",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Hətta sərv ağacları səndən sevindilər, Livanın sədrləri ⟨deyərək⟩: ⟨o andan⟩ bəri ki, uzandın, ağac kəsən bizim üstümüzə qalxmır.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "hətta"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "sərv ağacları"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "sevindilər"
+    },
+    {
+      "surface": "לך",
+      "gloss": "səndən"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "sədrləri"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Livandan"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "⟨o andan⟩ bəri"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "uzandın"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "qalxmır"
+    },
+    {
+      "surface": "הכרת",
+      "gloss": "ağac kəsən"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "bizim üstümüzə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:51:50.041631009Z",
+  "model": "glm-5.3"
+}

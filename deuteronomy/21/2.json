@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 21:2",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "onda sənin qocaların və sənin hakimlərin çıxacaq və öldürülmüşün ətrafındakı şəhərlərə ⟨tərəf⟩ ölçəcəklər.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "çıxacaq"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "sənin qocaların"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "sənin hakimlərin"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "və ölçəcəklər"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨tərəf⟩"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "şəhərlərə"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "ətrafındakı"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "öldürülmüşün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:52:51.830113564Z",
+  "model": "glm-5.3"
+}

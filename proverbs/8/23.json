@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 8:23",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Əzəldən mən töküldüm, əvvəldən, yer yaranmazdan əvvəlki zamanlardan.",
+  "tokens": [
+    {
+      "surface": "מעולם",
+      "gloss": "Əzəldən"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "mən töküldüm"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "əvvəldən"
+    },
+    {
+      "surface": "מקדמי",
+      "gloss": "əvvəlki zamanlardan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-09-01T15:49:43.683114739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 79:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 79,
+  "translation": "Və qaytart qonşularımıza onların bağrına yeddiqat, onların təhqirini ki, səni təhqir etdilər, ey Adonay.",
+  "tokens": [
+    {
+      "surface": "והשב",
+      "gloss": "Və qaytart"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "qonşularımıza"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "yeddiqat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨geri⟩"
+    },
+    {
+      "surface": "חיקם",
+      "gloss": "onların bağrına"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "onların təhqirini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "חרפוך",
+      "gloss": "səni təhqir etdilər"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    }
+  ],
+  "timestamp": "2026-09-01T15:27:23.953403764Z",
+  "model": "glm-5.3"
+}

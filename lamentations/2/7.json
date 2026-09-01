@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 2:7",
+  "book": "lamentations",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Adonay qurbangahından imtina etdi, müqəddəs yerini rədd etdi; saraylarının divarlarını düşmənin əlinə təslim etdi; Yahve evində bayram günü kimi səs saldılar.",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "imtina etdi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "מזבחו",
+      "gloss": "qurbangahından"
+    },
+    {
+      "surface": "נאר",
+      "gloss": "rədd etdi"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "müqəddəs yerini"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "təslim etdi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "əlinə"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "düşmənin"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "divarlarını"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "saraylarının"
+    },
+    {
+      "surface": "קול",
+      "gloss": "səs"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "saldılar"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "evində"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "günü kimi"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "bayram"
+    }
+  ],
+  "timestamp": "2026-09-01T16:27:23.233439968Z",
+  "model": "glm-5.3"
+}

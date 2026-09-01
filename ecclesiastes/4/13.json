@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 4:13",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Yoxsul və müdrik oğlan, öyüd qəbul etməyi artıq bilməyən qoca və ağılsız padşahdan yaxşıdır.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "yaxşıdır"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "oğlan"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "yoxsul"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "və müdrik"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "padşahdan"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "qoca"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "və ağılsız"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilmir"
+    },
+    {
+      "surface": "להזהר",
+      "gloss": "öyüd qəbul etməyi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "artıq"
+    }
+  ],
+  "timestamp": "2026-09-01T16:29:41.388429902Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 10:25",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Çünki hələ çox az, ən az ⟨bir vaxt⟩, və qəzəb tükənəcək, və öz qəzəbim onların məhvindən ötrü ⟨olacaq⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Çünki"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hələ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "çox az"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "ən az"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "və tükənəcək"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "qəzəb"
+    },
+    {
+      "surface": "ואפי",
+      "gloss": "və öz qəzəbim"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "תבליתם",
+      "gloss": "onların məhvi"
+    }
+  ],
+  "timestamp": "2026-09-01T12:51:01.538677003Z",
+  "model": "glm-5.3"
+}

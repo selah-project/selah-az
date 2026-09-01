@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 140,
+  "translation": "Şübhəsiz, salehlər Sənin adına şükür edəcəklər; düzlər ⟨את⟩ Üzünün qarşısında sakin olacaqlar.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Şübhəsiz"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "salehlər"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "şükür edəcəklər"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "Sənin adına"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "sakin olacaqlar"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "düzlər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Üzünün qarşısında"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "Üzünün qarşısında"
+    }
+  ],
+  "timestamp": "2026-09-01T15:44:07.681643666Z",
+  "model": "glm-5.3"
+}

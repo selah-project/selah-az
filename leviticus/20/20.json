@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 20:20",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Və bir kişi ki, ⟨את⟩ əmisinin arvadı ilə yatarsa — əmisinin çılpaqlığını açmışdır; onlar öz günahlarını daşıyacaqlar; uşaqsız öləcəklər.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Və kişi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "yatarsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əmisinin arvadı ilə"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "əmisinin arvadı ilə"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "çılpaqlığını"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "əmisinin"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "açmışdır"
+    },
+    {
+      "surface": "חטאם",
+      "gloss": "onların günahlarını"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "daşıyacaqlar"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "uşaqsız"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "öləcəklər"
+    }
+  ],
+  "timestamp": "2026-09-01T10:30:01.944160424Z",
+  "model": "glm-5.3"
+}

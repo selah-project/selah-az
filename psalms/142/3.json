@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 142:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 142,
+  "translation": "Onun önünə öz içli-yanağımı tökürəm, öz dərdimi Onun önündə bildirirəm.",
+  "tokens": [
+    {
+      "surface": "אשפך",
+      "gloss": "tökürəm"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "Onun önünə"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "içli-yanağımı"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "dərdimi"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "Onun önündə"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "bildirirəm"
+    }
+  ],
+  "timestamp": "2026-09-01T15:44:54.017527238Z",
+  "model": "glm-5.3"
+}

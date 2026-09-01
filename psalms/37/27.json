@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 37:27",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 37,
+  "translation": "Şərdən üz çevir, yaxşılıq et və əbədə qədər məskən sal.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "üz çevir"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "Şərdən"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "və et"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşılıq"
+    },
+    {
+      "surface": "ושכן",
+      "gloss": "və məskən sal"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədə qədər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:13:08.011392111Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 36:7",
+  "book": "job",
+  "lang": "az",
+  "chapter": 36,
+  "translation": "Salehdən gözünü çəkmir, ⟨את⟩ padşahları taxta ⟨oturdur⟩ — onları əbədi oturdur və ucalırlar.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "çəkmir"
+    },
+    {
+      "surface": "מצדיק",
+      "gloss": "salehdən"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "gözünü"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "padşahları"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "padşahları"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "taxta"
+    },
+    {
+      "surface": "וישיבם",
+      "gloss": "onları oturdur"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "ויגבהו",
+      "gloss": "və ucalırlar"
+    }
+  ],
+  "timestamp": "2026-09-01T16:16:58.439075494Z",
+  "model": "glm-5.3"
+}

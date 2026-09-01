@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 3:8",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və onlar bütün əşyalarını gözləsinlər ⟨את⟩ görüş çadırının, və İsrail oğullarının gözləməsini ⟨את⟩, məskənin xidmətini görmək üçün ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "və … gözləsinlər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün əşyaları"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "əşyaları"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadırının"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "görüş"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "gözləməsini"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "gözləməsini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "görmək üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xidmətini"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "xidmətini"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "məskənin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:33:18.006809466Z",
+  "model": "glm-5.3"
+}

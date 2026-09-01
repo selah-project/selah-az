@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Sən əmrlərini əmr etdin ⟨onları⟩ çox qorumaq üçün.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sən"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "əmr etdin"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "əmrlərini"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "qorumaq üçün"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "çox"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:37.802168141Z",
+  "model": "glm-5.3"
+}

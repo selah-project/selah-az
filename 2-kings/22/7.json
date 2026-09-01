@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 22:7",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Yalnız onlarla ⟨את⟩ gümüş hesablanmasın — ⟨o gümüş⟩ ki, onların əlinə verilmişdir — çünki sədaqətlə ⟨onlar⟩ iş görürlər.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Yalnız"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "hesablanmasın"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "onlarla ⟨את⟩",
+      "marks": "gümüş"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "verilmişdir"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "onların əlinə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "sədaqətlə"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨onlar⟩"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "iş görürlər"
+    }
+  ],
+  "timestamp": "2026-09-01T17:35:21.435379429Z",
+  "model": "glm-5.3"
+}

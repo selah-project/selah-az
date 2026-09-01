@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 27:32",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Və iri buynuzlu heyvanın və qoyunun bütün onda biri — çubuğun altından keçən hər şeyin onuncusu — Yahve üçün müqəddəs olacaq.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "onda biri"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "iri buynuzlu heyvanın"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "və qoyunun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "şeyin"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "keçən"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "altından"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "çubuğun"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "onuncusu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:31:53.545610468Z",
+  "model": "glm-5.3"
+}

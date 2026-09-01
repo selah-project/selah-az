@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 46:30",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 46,
+  "translation": "Yisrael Yosefə dedi: Bu dəfə ölümmü, çünki üzünü gördüm, ⟨çünki⟩ sən ⟨hələ⟩ dirisən.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yə"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אמותה",
+      "gloss": "ölüm"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "bu dəfə"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": ""
+    },
+    {
+      "surface": "ראותי",
+      "gloss": "gördüm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "üzünü"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "üzünü"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "sən ⟨hələ⟩"
+    },
+    {
+      "surface": "חי",
+      "gloss": "dirisən"
+    }
+  ],
+  "timestamp": "2026-09-01T10:02:22.316798278Z",
+  "model": "glm-5.3"
+}

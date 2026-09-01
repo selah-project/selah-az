@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 79:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 79,
+  "translation": "Gəlsin Üzünün önünə əsirin fəryadı; qolunun böyüklüyünə görə azad et ölüm oğullarını.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "Gəlsin"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "Üzünün önünə"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "fəryadı"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "əsirin"
+    },
+    {
+      "surface": "כגדל",
+      "gloss": "böyüklüyünə görə"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "qolunun"
+    },
+    {
+      "surface": "הותר",
+      "gloss": "azad et"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "ölüm"
+    }
+  ],
+  "timestamp": "2026-09-01T15:27:23.953223908Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 7:16",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "keçilərdən bir təkə, günah qurbanı üçün.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "təkə"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "keçilərdən"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "günah qurbanı üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:33:51.983116073Z",
+  "model": "glm-5.3"
+}

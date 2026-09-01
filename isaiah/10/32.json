@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "isaiah 10:32",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Hələ bu gün Nobda dayanacaq; əlini Sil qızının evinin dağına, Yeruşalayimin təpəsinə yelləyəcək.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "hələ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bu gün"
+    },
+    {
+      "surface": "בנב",
+      "gloss": "Nobda"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "dayanmaq üçün"
+    },
+    {
+      "surface": "ינפף",
+      "gloss": "yelləyəcək"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "əlini"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dağına"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evinin"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sil"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "təpəsinə"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayimin"
+    }
+  ],
+  "timestamp": "2026-09-01T12:51:34.680499120Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 24:7",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Əgər kişinin qardaşlarından, İsrail oğullarından bir canı oğurlayıb ona zülm edən və onu satan tapılsa, o oğru ölsün; və şəri öz ortandan silərsən.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "tapılsa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kişi"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "oğurlayan"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "can"
+    },
+    {
+      "surface": "מאחיו",
+      "gloss": "qardaşlarından"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "oğullarından"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "והתעמר",
+      "gloss": "və zülm edən"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "və onu satan"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ölsün"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "o oğru"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "və silərsən"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "şəri"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "öz ortandan"
+    }
+  ],
+  "timestamp": "2026-09-01T10:54:00.904825142Z",
+  "model": "glm-5.3"
+}

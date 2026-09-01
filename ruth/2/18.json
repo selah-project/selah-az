@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 2:18",
+  "book": "ruth",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "O, ⟨onu⟩ götürdü və şəhərə gəldi, və qaynanası ⟨את⟩ dətdiklərini gördü, və o çıxarıb toxdoymuşundan qalanları ona verdi.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "o, ⟨onu⟩ götürdü"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "və gəldi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şəhərə"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "və gördü"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "qaynanası"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dətdiklərini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨o,⟩ dətdiklərini"
+    },
+    {
+      "surface": "לקטה",
+      "gloss": "dətdiklərini"
+    },
+    {
+      "surface": "ותוצא",
+      "gloss": "və çıxardı"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "və verdi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toxdoymuşundan qalanları"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨o,⟩ toxdoymuşundan qalanları"
+    },
+    {
+      "surface": "הותרה",
+      "gloss": "qalanları"
+    },
+    {
+      "surface": "משבעה",
+      "gloss": "toxdoymuşundan"
+    }
+  ],
+  "timestamp": "2026-09-01T16:24:47.998061975Z",
+  "model": "glm-5.3"
+}

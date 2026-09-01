@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 119:65",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Yaxşılıq etdin qulunla, Yahve, sözünə görə.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "yaxşılıq"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "etdin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "qulun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "sözünə görə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:32.251137669Z",
+  "model": "glm-5.3"
+}

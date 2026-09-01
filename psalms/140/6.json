@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 140:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 140,
+  "translation": "Təkəbbürlülər mənim üçün tor gizlədiblər və iplər; yolun kənarında şəbəkə açıblar, mənim üçün tələlər qoyublar. Selah.",
+  "tokens": [
+    {
+      "surface": "טמנו",
+      "gloss": "gizlədiblər"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "təkəbbürlülər"
+    },
+    {
+      "surface": "פח",
+      "gloss": "tor"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənim üçün"
+    },
+    {
+      "surface": "וחבלים",
+      "gloss": "və iplər"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "açıblar"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "şəbəkə"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "kənarında"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "yolun"
+    },
+    {
+      "surface": "מקשים",
+      "gloss": "tələlər"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "qoyublar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənim üçün"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T15:44:53.473874780Z",
+  "model": "glm-5.3"
+}

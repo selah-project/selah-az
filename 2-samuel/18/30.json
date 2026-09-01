@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Və padşah ⟨ona⟩ dedi: Kənara çəkil, burada dur. Və o, kənara çəkildi və dayandı.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "סב",
+      "gloss": "kənara çəkil"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "dur"
+    },
+    {
+      "surface": "כה",
+      "gloss": "burada"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "və kənara çəkildi"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "və dayandı"
+    }
+  ],
+  "timestamp": "2026-09-01T12:03:47.369162957Z",
+  "model": "glm-5.3"
+}

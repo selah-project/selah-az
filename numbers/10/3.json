@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 10:3",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "və onlarla çalsınlar — və bütün cəmiyyət sənin yanına, görüş çadırının girişinə toplaşacaq.",
+  "tokens": [
+    {
+      "surface": "ותקעו",
+      "gloss": "və çalsınlar"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "onlarla"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "və toplaşacaq"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sənin yanına"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "cəmiyyət"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "girişinə"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadırının"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "görüş"
+    }
+  ],
+  "timestamp": "2026-09-01T10:36:05.361998477Z",
+  "model": "glm-5.3"
+}

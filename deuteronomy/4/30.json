@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 4:30",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Sənə sıxıntıda, bütün bu sözlər sənin üstünə gəldikdə, günlərin sonunda Yahveyə, sənin Elohiminə qayıdacaqsan və onun səsinə qulaq asacaqsan.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "sıxıntıda"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "ומצאוך",
+      "gloss": "sənin üstünə gəldikdə"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "bu sözlər"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bunlar"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "sonunda"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "günlərin"
+    },
+    {
+      "surface": "ושבת",
+      "gloss": "qayıdacaqsan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sənin Elohimin"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "və qulaq asacaqsan"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "onun səsinə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:47:53.948307793Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 17:10",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Bu, mənim ⟨את⟩ əhdimdir ki, siz onu saxlayacaqsınız — mənimlə sizin aranızda və səndən sonrakı nəslinlə: sizə sünnət edilsin, bütün erkəklər.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "əhdim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "saxlayacaqsınız"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "mənimlə"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "sizin aranızda"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "və ... ilə"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "nəslin"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "səndən sonra"
+    },
+    {
+      "surface": "המול",
+      "gloss": "sünnət edilsin"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizə"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "erkəklər"
+    }
+  ],
+  "timestamp": "2026-09-01T09:49:46.371329717Z",
+  "model": "glm-5.3"
+}

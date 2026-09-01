@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Ətalya ⟨את⟩ qoşun ⟨və⟩ xalqın səsini eşidib xalqın yanına — Yahvenin evinə girdi.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "eşidib"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "Ətalya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "səs"
+    },
+    {
+      "surface": "קול",
+      "gloss": "səs"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "qoşunun"
+    },
+    {
+      "surface": "העם",
+      "gloss": "və xalqın"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "girdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yanına"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqın"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    }
+  ],
+  "timestamp": "2026-09-01T12:35:57.828070623Z",
+  "model": "glm-5.3"
+}

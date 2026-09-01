@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 80:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 80,
+  "translation": "Ey İsrailin çobanı, qulaq as, Yusuflə sürü kimi hökmediyin ⟨sən⟩, kruvlərin üstündə oturan ⟨sən⟩, parlaq görün!",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "çobanı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailin"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "qulaq as"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "hökmediyin"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "sürü kimi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusuf"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "oturan"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "kruvlərin üstündə"
+    },
+    {
+      "surface": "הופיעה",
+      "gloss": "parlaq görün"
+    }
+  ],
+  "timestamp": "2026-09-01T15:27:48.383271236Z",
+  "model": "glm-5.3"
+}

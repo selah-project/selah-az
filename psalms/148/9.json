@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 148,
+  "translation": "Dağlar və bütün təpələr, meyvə ağacları və bütün sidr ağacları",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "dağlar"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "təpələr"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ağaclar"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "meyvə"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "sidr ağacları"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:18.773902218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 98,
+  "ref": "psalms 119:98",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Əşiqərlərimdən ⟨⟨daha⟩⟩ müdrik edirsən məni əmrlərin ⟨⟨vasitəsilə⟩⟩, çünki əbədi olaraq o mənimlədir.",
+  "tokens": [
+    {
+      "surface": "מאיבי",
+      "gloss": "əşiqərlərimdən"
+    },
+    {
+      "surface": "תחכמני",
+      "gloss": "müdrik edirsən məni"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "əmrlərin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədi olaraq"
+    },
+    {
+      "surface": "היא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənimlədir"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:42.793095984Z",
+  "model": "glm-5.3"
+}

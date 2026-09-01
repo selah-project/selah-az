@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 144,
+  "translation": "İnsan nəfəsə bənzər; günləri ötüb keçən kölgə kimidir.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "İnsan"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "nəfəsə"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "bənzər"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "günləri"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "kölgə kimi"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "ötüb keçən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:45:25.500475715Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 16:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Yahveni öz qarşımda tuturam həmişə; çünki sağ tərəfimdə ⟨o⟩ — heç yıxılmaram.",
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "öz qarşımda tuturam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "qarşımda"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "həmişə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "מימיני",
+      "gloss": "sağ tərəfimdə"
+    },
+    {
+      "surface": "בל",
+      "gloss": "heç"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "yıxılmaram"
+    }
+  ],
+  "timestamp": "2026-09-01T15:04:36.304071517Z",
+  "model": "glm-5.3"
+}

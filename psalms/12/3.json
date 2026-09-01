@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Yalan danışırlar hər kəs öz yoldaşı ilə ⟨את⟩; hamar dudlaq, ürəklə və ürəklə danışırlar.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "yalan"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "danışırlar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər kəs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öz yoldaşı"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "öz yoldaşı"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "dudaq"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "hamar (yalançi)"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "ürəklə"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "və ürəklə"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "danışırlar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:03:46.001696695Z",
+  "model": "glm-5.3"
+}

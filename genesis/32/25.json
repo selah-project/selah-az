@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 32:25",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Yaaqov tək qaldı, və bir adam şəfəq qalxanadək onunla güləşdi.",
+  "tokens": [
+    {
+      "surface": "ויותר",
+      "gloss": "qaldı"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaqov"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "tək"
+    },
+    {
+      "surface": "ויאבק",
+      "gloss": "və güləşdi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir adam"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qalxanadək"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "qalxması"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "şəfəq"
+    }
+  ],
+  "timestamp": "2026-09-01T09:56:04.212264140Z",
+  "model": "glm-5.3"
+}

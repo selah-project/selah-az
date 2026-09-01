@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 22:30",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Və Mənə müqəddəs adamlar olacaqsınız; sahədə ⟨olan⟩ parçalanmış əti yeməyəcəksiniz, onu itə atacaqsınız ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "və adamları"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "תהיון",
+      "gloss": "olacaqsınız"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Mənə"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "və ət"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sahədə"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "parçalanmış"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yeməyəcəksiniz"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yeyəcəksiniz"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "itə"
+    },
+    {
+      "surface": "תשלכון",
+      "gloss": "atacaqsınız"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu (parçalanmış əti)"
+    }
+  ],
+  "timestamp": "2026-09-01T10:13:03.579971072Z",
+  "model": "glm-5.3"
+}

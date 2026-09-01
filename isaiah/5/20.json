@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 5:20",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Vay o kəslərə ki, şərə yaxşı, yaxşıya şər deyirlər; zülməti işığa, işığı zülmətə qoyurlar; acını şirinə, şirini acıya qoyurlar!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "vay"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "deyənlər"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "şərə"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşı"
+    },
+    {
+      "surface": "ולטוב",
+      "gloss": "və yaxşıya"
+    },
+    {
+      "surface": "רע",
+      "gloss": "şər"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "qoyanlar"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "zülməti"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "işığa"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "və işığı"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "zülmətə"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "qoyanlar"
+    },
+    {
+      "surface": "מר",
+      "gloss": "acını"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "şirinə"
+    },
+    {
+      "surface": "ומתוק",
+      "gloss": "və şirini"
+    },
+    {
+      "surface": "למר",
+      "gloss": "acıya"
+    }
+  ],
+  "timestamp": "2026-09-01T12:48:42.455813322Z",
+  "model": "glm-5.3"
+}

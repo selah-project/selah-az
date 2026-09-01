@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Və Avraham Elohimə dua etdi, və Elohim ⟨את⟩ Avimelexi, ⟨את⟩ arvadını və kənizlərini şəfa verdi, və onlar doğdular.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "dua etdi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "şəfa verdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelexi"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelex"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "arvadını"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "arvadını"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "kənizlərini"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "doğdular"
+    }
+  ],
+  "timestamp": "2026-09-01T17:55:22.011680505Z",
+  "model": "glm-5.3"
+}

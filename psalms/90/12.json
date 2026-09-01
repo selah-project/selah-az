@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 90:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 90,
+  "translation": "Günlərimizi saymağı bizə belə öyrət, ki müdriklik qəlbinə ⟨çataq⟩.",
+  "tokens": [
+    {
+      "surface": "למנות",
+      "gloss": "saymağı"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "günlərimizi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "belə"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "öyrət"
+    },
+    {
+      "surface": "ונבא",
+      "gloss": "⟨çataq⟩"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "qəlb"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "müdriklik"
+    }
+  ],
+  "timestamp": "2026-09-01T15:31:51.567920957Z",
+  "model": "glm-5.3"
+}

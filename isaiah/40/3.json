@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 40:3",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "Səda çəkir: səhrada Yahvenin yolunu hazırlayın, çöldə Elohimimizə şosesi düzəldin.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Səda"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "çəkir"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "səhrada"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "hazırlayın"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yolunu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "düzəldin"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "çöldə"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "şosesi"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "Elohimimizə"
+    }
+  ],
+  "timestamp": "2026-09-01T13:08:08.319963237Z",
+  "model": "glm-5.3"
+}

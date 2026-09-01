@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Yokşan ⟨את⟩ Şevanı və ⟨את⟩ Dedanı doğdu; Dedanın oğulları Aşşurim, Letuşim və Leummim oldular.",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "Yokşan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "doğdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şevanı"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Şeva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Dedanı"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedanın"
+    },
+    {
+      "surface": "היו",
+      "gloss": "oldular"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "Aşşurim"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "Letuşim"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "Leummim"
+    }
+  ],
+  "timestamp": "2026-09-01T09:53:26.594093464Z",
+  "model": "glm-5.3"
+}

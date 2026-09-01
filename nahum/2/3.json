@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Çünki Yahve Yaqovun qürurunu geri qaytarır, İsrailin qüruru kimi; çünki boşaldanlar onları boşaldıb və onların qlımlarını korladılar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "שב",
+      "gloss": "geri qaytarır"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaqovun qürurunu"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "qürurunu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqov"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "qüruru kimi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "boşaldanlar"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "boşaldıb"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "və onların qlımlarını"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "korladılar"
+    }
+  ],
+  "timestamp": "2026-09-01T14:50:44.486214334Z",
+  "model": "glm-5.3"
+}

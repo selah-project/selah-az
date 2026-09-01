@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 9:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Çünki mənim mühakiməmi və davamımı etdin, ədalətlə mühakimə edən ⟨olaraq⟩ taxta oturdun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "etdin"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mühakiməmi"
+    },
+    {
+      "surface": "ודיני",
+      "gloss": "və davamımı"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "oturdun"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "taxta"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "mühakimə edən"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ədalətlə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:03:52.715418103Z",
+  "model": "glm-5.3"
+}

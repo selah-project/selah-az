@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 5:32",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Və saxlayın ki, Yahve Elohiminiz sizə nə buyurdusa, ⟨onu⟩ edəsiniz; sağa və sola dönməyin.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Və saxlayın"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "edəsiniz"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nə ... kimi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurdusa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiminiz"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-ma"
+    },
+    {
+      "surface": "תסרu",
+      "gloss": "dönməyin"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "sağa"
+    },
+    {
+      "surface": "ושמאל",
+      "gloss": "və sola"
+    }
+  ],
+  "timestamp": "2026-09-01T10:47:29.860297477Z",
+  "model": "glm-5.3"
+}

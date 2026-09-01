@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 35:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "Və canım Yahvedə sevinəcək, Onun qurtuluşunda şadlanacaq.",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "və canım"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "sevinəcək"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahvedə"
+    },
+    {
+      "surface": "תשיש",
+      "gloss": "şadlanacaq"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "Onun qurtuluşunda"
+    }
+  ],
+  "timestamp": "2026-09-01T15:10:56.781951407Z",
+  "model": "glm-5.3"
+}

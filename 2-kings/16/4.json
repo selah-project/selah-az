@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 16:4",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Və qurban kəsdi, buxur yandırdı — yüksək yerlərdə, təpələrin üstündə və hər yarpaqlı ağacın altında.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "qurban kəsdi"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "buxur yandırdı"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "yüksək yerlərdə"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "təpələrin"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "altında"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ağacın"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "yarpaqlı"
+    }
+  ],
+  "timestamp": "2026-09-01T12:40:08.031342681Z",
+  "model": "glm-5.3"
+}

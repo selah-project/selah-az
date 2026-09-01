@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 7:22",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Burun dəliklərində həyat nəfəsinin ⟨ruhunun⟩ olan hər şey — quru quruda olanların hamısından — öldü.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hər şey"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "nəfəsinin"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhunun"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "həyat"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "burun dəliklərində"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "hamısından"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki olanların"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "quru quruda"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "öldü"
+    }
+  ],
+  "timestamp": "2026-09-01T09:47:32.452327913Z",
+  "model": "glm-5.3"
+}

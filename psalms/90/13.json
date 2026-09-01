@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 90:13",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 90,
+  "translation": "Qayıt, ey Yahve, nə vaxta qədər? Və qullarına ⟨üzarına⟩ təsəlli tap.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Qayıt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nə vaxta qədər"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "nə vaxta qədər"
+    },
+    {
+      "surface": "והנחם",
+      "gloss": "təsəlli tap"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨üzarına⟩"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "qullarına"
+    }
+  ],
+  "timestamp": "2026-09-01T15:31:50.294229357Z",
+  "model": "glm-5.3"
+}

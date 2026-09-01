@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 26:30",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Və mən ⟨את⟩ ucalıqlarınızı məhv edəcəyəm, ⟨את⟩ gün sütunlarınızı kəsəcəyəm və ⟨את⟩ cəsədlərinizi bütlərinizin cəsədlərinin üstünə qoyacağam, və canım ⟨את⟩ sizdən ikrah edəcək.",
+  "tokens": [
+    {
+      "surface": "והשמדתי",
+      "gloss": "məhv edəcəyəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ucalıqlarınızı"
+    },
+    {
+      "surface": "במתיכם",
+      "gloss": "ucalıqlarınızı"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "kəsəcəyəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gün sütunlarınızı"
+    },
+    {
+      "surface": "חמניכם",
+      "gloss": "gün sütunlarınızı"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "qoyacağam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cəsədlərinizi"
+    },
+    {
+      "surface": "פגריכם",
+      "gloss": "cəsədlərinizi"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "cəsədlərinin"
+    },
+    {
+      "surface": "גלוליכם",
+      "gloss": "bütlərinizin"
+    },
+    {
+      "surface": "וגעלה",
+      "gloss": "ikrah edəcək"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizdən"
+    }
+  ],
+  "timestamp": "2026-09-01T10:31:43.458873591Z",
+  "model": "glm-5.3"
+}

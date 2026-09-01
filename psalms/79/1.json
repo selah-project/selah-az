@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 79,
+  "translation": "Məzmur, Asafa aiddir. Elohim, millətlər mərasinə gəldilər, ⟨את⟩ müqəddəs məbədini murdadladılar, ⟨את⟩ Yeruşalayimi xarabalıqlara çevirdilər.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Məzmur"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafa aiddir"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באו",
+      "gloss": "gəldilər"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "millətlər"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "mərasinə"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "murdadladılar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "müqəddəs məbədini"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "məbəd"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "müqəddəs...in"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "çevirdilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeruşalayimi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayim"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "xarabalıqlara"
+    }
+  ],
+  "timestamp": "2026-09-01T15:28:41.536021315Z",
+  "model": "glm-5.3"
+}

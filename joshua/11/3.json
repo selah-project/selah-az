@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 11:3",
+  "book": "joshua",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Kənanililərə şərqdə və qərbdə, və Əmorililərə, və Hittililərə, və Perizzililərə, və Yevusililərə dağlarda, və Hivvililərə Hermonun {ətəyində}, Mitspa torpağında.",
+  "tokens": [
+    {
+      "surface": "הכנעני",
+      "gloss": "Kənanililərə"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "şərqdə"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "və qərbdə"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "və Əmorililərə"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "və Hittililərə"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "və Perizzililərə"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "və Yevusililərə"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "dağlarda"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "və Hivvililərə"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "{ətəyində}"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Hermonun"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "torpağında"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitspa"
+    }
+  ],
+  "timestamp": "2026-09-01T17:31:33.833772419Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 1:6",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Ayağın təkcəsindən başın üstünə qədər onda sağlamlıq yoxdur; yara, göyə və təzə zərbə; sıxılmayıb, sarınmayıb və yağla yumşaldılmayıb.",
+  "tokens": [
+    {
+      "surface": "מכף",
+      "gloss": "təkcəsindən"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ayağın"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "başın üstünə"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoxdur"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onda"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "sağlamlıq"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "yara"
+    },
+    {
+      "surface": "וחבורה",
+      "gloss": "göyə"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "zərbə"
+    },
+    {
+      "surface": "טריה",
+      "gloss": "təzə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox — sıxılmayıb"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "sıxılmayıb"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "— sarınmayıb"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "sarınmayıb"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "— yumşaldılmayıb"
+    },
+    {
+      "surface": "רככה",
+      "gloss": "yumşaldılmayıb"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "yağla"
+    }
+  ],
+  "timestamp": "2026-09-01T12:46:06.286809234Z",
+  "model": "glm-5.3"
+}

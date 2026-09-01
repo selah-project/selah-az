@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 90:9",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 90,
+  "translation": "Çünki bütün günlərimiz qəzəbində keçib-getdi, illərimizi bir ⟨ah⟩ kimi bitirdik.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "günlərimiz"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "keçib-getdi"
+    },
+    {
+      "surface": "בעברתך",
+      "gloss": "qəzəbində"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "bitirdik"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "illərimizi"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "ah"
+    }
+  ],
+  "timestamp": "2026-09-01T15:31:51.566799283Z",
+  "model": "glm-5.3"
+}

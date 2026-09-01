@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 134,
+  "translation": "Qaldırın əllərinizi ⟨müqəddəs yerə⟩ və bərəkət deyin ⟨את⟩ Yahve-yə!",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Qaldırın"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "əllərinizi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "⟨müqəddəs yerə⟩"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "bərəkət deyin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:18.815316098Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 71:22",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 71,
+  "translation": "Mən də səni nevel aləti ilə tərifləyəcəyəm, sənin doğruğunla, Elohimim; sənə kinor ilə zəmilər oxuyacağam, İsrailin Qüdsü.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "də"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "səni tərifləyəcəyəm"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "aləti ilə"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nevel"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "sənin doğruğunla"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "zəmilər oxuyacağam"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinor ilə"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Qüdsü"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:22:44.082730461Z",
+  "model": "glm-5.3"
+}

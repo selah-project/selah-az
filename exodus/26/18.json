@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 26:18",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Məskən üçün lövhələri ⟨את⟩ düzəldəcəksən: cənub tərəfə, cənuba doğru iyirmi lövhə.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "düzəldəcəksən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lövhələri"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "lövhələri"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Məskən üçün"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iyirmi"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "lövhə"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "tərəfə"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "cənub"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "cənuba doğru"
+    }
+  ],
+  "timestamp": "2026-09-01T10:16:47.778595030Z",
+  "model": "glm-5.3"
+}

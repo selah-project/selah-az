@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "Ağıllı adam ⟨את⟩ axmaq adamla mühakimə edir — o qəzəblənir də, gülür də, ⟨amma⟩ sükunət yoxdur.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ağıllı"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "mühakimə edir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "axmaq adam"
+    },
+    {
+      "surface": "איש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "axmaq"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "və qəzəblənir"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "və gülür"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "amma yoxdur"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "sükunət"
+    }
+  ],
+  "timestamp": "2026-09-01T15:59:36.283927715Z",
+  "model": "glm-5.3"
+}

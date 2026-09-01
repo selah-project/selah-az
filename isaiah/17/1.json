@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 17:1",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Dəməşq yükü. Bax, Dəməşq ⟨şəhər⟩ olmaqdan çıxarıldı və xaraba yığını, çöküntü oldu.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "yük"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Dəməşq"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bax"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Dəməşq"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "çıxarıldı"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "şəhər ⟨olmaqdan⟩"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "və oldu"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "xaraba yığını"
+    },
+    {
+      "surface": "מפלה",
+      "gloss": "çöküntü"
+    }
+  ],
+  "timestamp": "2026-09-01T12:55:22.302634166Z",
+  "model": "glm-5.3"
+}

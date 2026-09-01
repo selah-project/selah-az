@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və insan arvadının adını Hava qoydu, çünki o, bütün dirilərin anası olmuşdu.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "və ad qoydu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ad"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "arvadının"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Hava"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "olmuşdu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "anası"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "חי",
+      "gloss": "dirilərin"
+    }
+  ],
+  "timestamp": "2026-09-01T09:46:41.861243209Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 138,
+  "translation": "Davuda aiddir. Bütün ürəyimlə Səni alqışlayacağam, Elohim qarşısında Sənə saz çalacağam.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davuda aiddir"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "Səni alqışlayacağam"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ürəyimlə"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "qarşısında"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "Sənə saz çalacağam"
+    }
+  ],
+  "timestamp": "2026-09-01T15:45:37.609729895Z",
+  "model": "glm-5.3"
+}

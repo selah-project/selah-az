@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 19:5",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "İndi isə, əgər səsimi həqiqətən eşitsəniz və ⟨את⟩ əhdimi qorusanız, bütün xalqlar içində mənə səgulla olacaqsınız, çünki bütün yer mənindir.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "İndi isə"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "həqiqətən eşitsəniz"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "eşitsəniz"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "səsimi"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "qorusanız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əhdimi"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "əhdimi"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "olacaqsınız"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "סגלה",
+      "gloss": "səgulla (xüsusi xəzin)"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bütün ... içində"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənindir"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-09-01T10:10:48.397107523Z",
+  "model": "glm-5.3"
+}

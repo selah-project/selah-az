@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 51,
+  "translation": "Sənə, yalnız sənə qarşı günah etdim, və sənin gözündə şəri gördüm ⟨etdim⟩ — ⟨bunun üçün⟩ ki, danışanda haqqı çıxasan, mühakimə edəndə təmiz görünəsən.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "yalnız sənə"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "günah etdim"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "və şəri"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "sənin gözündə"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "etdim"
+    },
+    {
+      "surface": "למען",
+      "gloss": "⟨bunun üçün⟩ ki"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "haqqı çıxasan"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "danışanda"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "təmiz görünəsən"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "mühakimə edəndə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:17:41.666636318Z",
+  "model": "glm-5.3"
+}

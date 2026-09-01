@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 23:31",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Və sərhədini qoyacağam ⟨את⟩ Qamış dənizindən Filisti dənizinə qədər, və çöldən çaya qədər; çünki ⟨את⟩ torpağın sakinlərini əlinizə verəcəyəm və sən onları üzlərindən qovub çıxaracaqsan.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "və qoyacağam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sərhədini"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "sərhədini"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dənizindən"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Qamış"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "və qədər"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dənizinə"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filisti"
+    },
+    {
+      "surface": "וממדבר",
+      "gloss": "və çöldən"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "çaya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "verəcəyəm"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "əlinizə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakinlərini"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "sakinlərini"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "torpağın"
+    },
+    {
+      "surface": "וגרשתמו",
+      "gloss": "və qovub çıxaracaqsan"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "üzlərindən"
+    }
+  ],
+  "timestamp": "2026-09-01T10:15:27.269964231Z",
+  "model": "glm-5.3"
+}

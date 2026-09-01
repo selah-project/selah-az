@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 24:15",
+  "book": "2-samuel",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Va Yahve İsrailin üzərinə səhərdən təyin olunmuş vaxta qədər taun verdi; xalqdan Dan qədər — Beer-Şevaya qədər — yetmiş min kişi öldü.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "taun"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "İsrailin üzərinə"
+    },
+    {
+      "surface": "מהבקר",
+      "gloss": "səhərdən"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vaxtına"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "təyin olunmuş"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "öldü"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Dan qədər"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Şevaya"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "yetmiş"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "min"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kişi"
+    }
+  ],
+  "timestamp": "2026-09-01T12:08:47.305428554Z",
+  "model": "glm-5.3"
+}

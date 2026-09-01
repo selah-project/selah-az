@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 9:4",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Və hər adam öz yoldaşı ilə məsxərə edib aldadır, həqiqəti danışmırlar; dilinə yalan danışmağı öyrətdilər, əyriliyi işəməkdən yoruldular.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "və hər adam"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "öz yoldaşı ilə"
+    },
+    {
+      "surface": "יהתלו",
+      "gloss": "məsxərə edib aldadır"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "həqiqəti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "danışırlar"
+    },
+    {
+      "surface": "למדו",
+      "gloss": "öyrətdilər"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "dilinə"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "danışmağı"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yalan"
+    },
+    {
+      "surface": "העוה",
+      "gloss": "əyrilik"
+    },
+    {
+      "surface": "נלאו",
+      "gloss": "yoruldular"
+    }
+  ],
+  "timestamp": "2026-09-01T13:28:50.684038036Z",
+  "model": "glm-5.3"
+}

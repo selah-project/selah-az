@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 2:4",
+  "book": "jonah",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "«Sən məni dərinliyə, dənizlərin ürəyinə tulladın, və axın məni bürüdü; Sənin bütün qırılan dalğaların və dalğaların üstümdən keçdi».",
+  "tokens": [
+    {
+      "surface": "ותשליכני",
+      "gloss": "tulladın məni"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "dərinliyə"
+    },
+    {
+      "surface": "בלבב",
+      "gloss": "ürəyinə"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dənizlərin"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "və axın"
+    },
+    {
+      "surface": "יסבבני",
+      "gloss": "bürüdü məni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "qırılan dalğaların"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "və dalğaların"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üstümdən"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "keçdi"
+    }
+  ],
+  "timestamp": "2026-09-01T14:45:40.345199297Z",
+  "model": "glm-5.3"
+}

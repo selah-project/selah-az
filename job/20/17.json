@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 20:17",
+  "book": "job",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Çayların qollarını görməyəcək — bal və kəsmik sellərini ⟨görməyəcək⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "görməyəcək"
+    },
+    {
+      "surface": "בפלגות",
+      "gloss": "qollarını"
+    },
+    {
+      "surface": "נהרי",
+      "gloss": "çayların"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "sellərini"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "bal"
+    },
+    {
+      "surface": "וחמאה",
+      "gloss": "və kəsmik"
+    }
+  ],
+  "timestamp": "2026-09-01T16:11:07.621641454Z",
+  "model": "glm-5.3"
+}

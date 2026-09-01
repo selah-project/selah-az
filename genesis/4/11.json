@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 4:11",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "«İndi isə lənətlənisən ⟨o⟩ torpaqdan, which o, ağzını açıb qardaşının qanını əlindən qəbul etdi.",
+  "tokens": [
+    {
+      "surface": "וְעתה",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "lənətlənisən"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "torpaq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o ki"
+    },
+    {
+      "surface": "פצתה",
+      "gloss": "ağzını açıb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ağzını"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "onun ağzı"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "qəbul etdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qanı"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "qanını"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "qardaşının"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "əlindən"
+    }
+  ],
+  "timestamp": "2026-09-01T09:46:04.040024927Z",
+  "model": "glm-5.3"
+}

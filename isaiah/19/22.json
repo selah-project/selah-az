@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 19:22",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Yahve Mitsrayimi vuracaq — ⟨את⟩ Mitsrayimi — vurma və şəfa; Yahveyə qayıdacaqlar və o, onların duasını qəbul edəcək və onları sağaldacaq.",
+  "tokens": [
+    {
+      "surface": "ונגף",
+      "gloss": "vuracaq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayimi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimi"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "vurma"
+    },
+    {
+      "surface": "ורפוא",
+      "gloss": "və şəfa"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "və qayıdacaqlar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tərəfə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "ונעתר",
+      "gloss": "və qəbul edəcək"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onların (duasını)"
+    },
+    {
+      "surface": "ורפאם",
+      "gloss": "və onları sağaldacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T12:54:10.238170381Z",
+  "model": "glm-5.3"
+}

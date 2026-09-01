@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 27:40",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Və qılıncınla yaşayacaqsan, və qardaşına qul olacaqsan; və ⟨olacaq ki⟩ sənin azdıqda, onun boyunduruğunu boynundan soyub atacaqsan.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "və -nın"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "qılıncınla"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "yaşayacaqsan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qardaşına"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "qardaşına"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "qul olacaqsan"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "və ⟨olacaq ki⟩"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "-dıqda"
+    },
+    {
+      "surface": "תריד",
+      "gloss": "azdıqda"
+    },
+    {
+      "surface": "ופרקת",
+      "gloss": "soyub atacaqsan"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "onun boyunduruğunu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "boynundan"
+    }
+  ],
+  "timestamp": "2026-09-01T09:54:46.437348139Z",
+  "model": "glm-5.3"
+}

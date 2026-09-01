@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Tərifəlayiq ⟨olan⟩ Yahveni çağıracağam və düşmənlərimdən qurtulacağam.",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "Tərifəlayiq"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "çağıracağam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveni"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "və ... dan"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "düşmənlərim"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "qurtulacağam"
+    }
+  ],
+  "timestamp": "2026-09-01T15:05:18.142188613Z",
+  "model": "glm-5.3"
+}

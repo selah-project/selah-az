@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 11:15",
+  "book": "judges",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "və ona dedi: Belə deyir Yiftah: İsraillər ⟨את⟩ Moavın torpağını və ⟨את⟩ Beni-Ammon övladlarının torpağını almadılar;",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "כה",
+      "gloss": "belə"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "almadılar"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsraillər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moavın torpağını"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "torpağını"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moavın"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "Beni-Ammon övladlarının torpağını"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "torpağını"
+    },
+    {
+      "surface": "בני",
+      "gloss": "övladlarının"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Beni-Ammon"
+    }
+  ],
+  "timestamp": "2026-09-01T11:24:14.211493350Z",
+  "model": "glm-5.3"
+}

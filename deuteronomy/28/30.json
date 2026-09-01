@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 28:30",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "Qadın nişanlayacaqsan və başqa kişi onunla yatacaq; ev tikəcəksən və orada yaşamayacaqsan; bağ əkəcəksən və onu istifadə etməyəcəksən.",
+  "tokens": [
+    {
+      "surface": "אשה",
+      "gloss": "qadın"
+    },
+    {
+      "surface": "תארש",
+      "gloss": "nişanlayacaqsan"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "və kişi"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "başqa"
+    },
+    {
+      "surface": "ישגלנה",
+      "gloss": "onunla yatacaq"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "tikəcəksən"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... yox"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "yaşamayacaqsan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "orada"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "bağ"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "əkəcəksən"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... yox"
+    },
+    {
+      "surface": "תחללנו",
+      "gloss": "onu istifadə etməyəcəksən"
+    }
+  ],
+  "timestamp": "2026-09-01T10:56:46.420002457Z",
+  "model": "glm-5.3"
+}

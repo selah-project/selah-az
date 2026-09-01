@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 41,
+  "translation": "Bərəkətli ⟨dir⟩ Yisraelin Elohimi Yahve: əzəldən və əbədiyə. Amin və amin.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "bərəkətli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraelin"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "əzəldən"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "və ... qədər"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "əbədiyə"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "və amin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:12:32.734049384Z",
+  "model": "glm-5.3"
+}

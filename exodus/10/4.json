@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "əgər sən xalqımı buraxmaqdan imtina edirsənsə, bax, mən sabah çekirgəni sərhədin içərisinə gətirirəm.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "imtina edirsən"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "buraxmaqdan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqımı"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqım"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "bax, mən"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "gətirirəm"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "sabah"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "çekirgə"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "sərhədinin içərisinə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:07:38.275144148Z",
+  "model": "glm-5.3"
+}

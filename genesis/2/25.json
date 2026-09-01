@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "İkisi də çılpaq idilər — ⟨o⟩ adam və arvadı — və utanmırdılar.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "oldular"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ikisi də"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "çılpaq"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "və arvadı"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və… qeyri-"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "utanmırdılar"
+    }
+  ],
+  "timestamp": "2026-09-01T09:45:27.901613296Z",
+  "model": "glm-5.3"
+}

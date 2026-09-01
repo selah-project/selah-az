@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 20:11",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Çünki altı gündə Yahve ⟨את⟩ göyləri və ⟨את⟩ yeri, ⟨את⟩ dənizi və ⟨את⟩ onların içində olan hər şeyi yaratdı, yeddinci gündə isə dincəldi; ona görə Yahve ⟨את⟩ şabbat gününü bərəkətlədi və onu müqəddəsləşdirdi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "altı"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gündə"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaratdı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "göyləri"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göyləri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yeri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dənizi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dənizi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hər şeyi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hər şeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onların içində olan"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "dincəldi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "gündə"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "yeddinci"
+    },
+    {
+      "surface": "על",
+      "gloss": "ona görə"
+    },
+    {
+      "surface": "כן",
+      "gloss": "—"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "bərəkətlədi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şabbat gününü"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gününü"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "şabbat"
+    },
+    {
+      "surface": "ויקדשהו",
+      "gloss": "müqəddəsləşdirdi"
+    }
+  ],
+  "timestamp": "2026-09-01T10:12:18.568100461Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "Yadda saxla ⟨את⟩ Yahve, Elohim-in, Miryam üçün yolda nə etdiyini — siz Mitsrayimdan çıxarkən.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "yadda saxla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahvenin Miryam üçün yolda etdiyi şey"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki (nə etdiyini)"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-in"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "Miryam üçün"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yolda"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "siz çıxarkən"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayimdan"
+    }
+  ],
+  "timestamp": "2026-09-01T10:53:50.562614574Z",
+  "model": "glm-5.3"
+}

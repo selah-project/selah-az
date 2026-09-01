@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 31:27",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "Bax, günlər gəlir, — Yahve natiqdir — və İsrail evini və Yehuda evini insan toxumu ilə və mal-qara toxumu ilə əkəcəyəm.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günlər"
+    },
+    {
+      "surface": "באים",
+      "gloss": "gəlir"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "natiqdir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וזרעתי",
+      "gloss": "və əkəcəyəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsrail evi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda evi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "toxum"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "və toxum"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "mal-qara"
+    }
+  ],
+  "timestamp": "2026-09-01T13:40:06.743116552Z",
+  "model": "glm-5.3"
+}

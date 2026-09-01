@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 9:27",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Və Paro göndərib Moşeni və Əhronu çağırdı və onlara dedi: Bu dəfə günah etdim; Yahve salehdir, mən və xalqım isə günahkarıq.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "göndərib"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "çağırdı"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moşeni"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "və Əhronu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "günah etdim"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "bu dəfə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "salehdir"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "və xalqım"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "günahkarıq"
+    }
+  ],
+  "timestamp": "2026-09-01T10:07:04.483600493Z",
+  "model": "glm-5.3"
+}

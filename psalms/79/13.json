@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 79:13",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 79,
+  "translation": "Biz isə — sənin xalqın, sənin otlağının sürüsü — sənə əbədi olaraq, nəsildən-nəslə şükür edəcəyik, sənin tərifini danışacağıq.",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "biz isə"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sənin xalqın"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "sürüsü"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "sənin otlağının"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "şükür edəcəyik"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədi olaraq"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "nəsildən"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nəslə"
+    },
+    {
+      "surface": "נספר",
+      "gloss": "danışacağıq"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "sənin tərifini"
+    }
+  ],
+  "timestamp": "2026-09-01T15:26:39.706384030Z",
+  "model": "glm-5.3"
+}

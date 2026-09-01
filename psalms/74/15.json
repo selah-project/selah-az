@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 74,
+  "translation": "Sən bulağı və çayı yarıdın, Sən əbədi axan çayları qurutdun.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sən"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "yarıdın"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "bulağı"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "və çayı"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sən"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "qurutdun"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "çayları"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "əbədi axan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:25:18.566645800Z",
+  "model": "glm-5.3"
+}

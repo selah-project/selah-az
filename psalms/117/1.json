@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 117,
+  "translation": "Bütün xalqlar, Yahveni tərifləyin; ⟨את⟩ Yahveni bütün ümmətlər yüksək şəkildə mədh edin.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "tərifləyin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "onu mədh edin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "ümmətlər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:30.022659104Z",
+  "model": "glm-5.3"
+}

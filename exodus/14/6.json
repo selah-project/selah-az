@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "və öz döyüş arabalarını ⟨את⟩ hazırladı və öz xalqını ⟨את⟩ özü ilə götürdü.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "və hazırladı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öz döyüş arabalarını"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "öz döyüş arabalarını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "öz xalqını"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "öz xalqını"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "götürdü"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "özü ilə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:08:58.318662619Z",
+  "model": "glm-5.3"
+}

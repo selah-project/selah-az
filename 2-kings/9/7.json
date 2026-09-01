@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 9:7",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "və sən vuracaqsan ⟨את⟩ Axavın evini, sənin ağasını ⟨evini⟩, və mən intiqam alacağım qullarım peyğəmbərlərin qanını və Yahvenin bütün qullarının qanını İzebelin əlindən.",
+  "tokens": [
+    {
+      "surface": "והכיתה",
+      "gloss": "və sən vuracaqsan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Axavın evini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evini"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Axavın"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "sənin ağasını"
+    },
+    {
+      "surface": "ונקמתי",
+      "gloss": "və mən intiqam alacağam"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "qanını"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "qullarım"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "peyğəmbərlərin"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "və qanını"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "qullarının"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "əlindən"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "İzebelin"
+    }
+  ],
+  "timestamp": "2026-09-01T12:33:03.182012106Z",
+  "model": "glm-5.3"
+}

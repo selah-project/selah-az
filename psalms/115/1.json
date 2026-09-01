@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 115,
+  "translation": "Yox, bizə deyil, Yahve, yox, bizə deyil, çünki adına ⟨izzət⟩ ver, hesedinə görə, doğru sözünə görə.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizə deyil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizə deyil"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "adına"
+    },
+    {
+      "surface": "תן",
+      "gloss": "ver"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "izzət"
+    },
+    {
+      "surface": "על",
+      "gloss": "görə"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedinə"
+    },
+    {
+      "surface": "על",
+      "gloss": "görə"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "doğru sözünün"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:32.317048690Z",
+  "model": "glm-5.3"
+}

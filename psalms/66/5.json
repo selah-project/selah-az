@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 66,
+  "translation": "Gəlin və Elohimin əməllərini görün; Adəm övladları üzərində ⟨o⟩ dəhşətlidir ⟨onun⟩ əməli.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "gəlin"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "və görün"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "əməllərini"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "dəhşətlidir"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "əməli"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərində"
+    },
+    {
+      "surface": "בני",
+      "gloss": "övladları"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adəm"
+    }
+  ],
+  "timestamp": "2026-09-01T15:21:33.308437857Z",
+  "model": "glm-5.3"
+}

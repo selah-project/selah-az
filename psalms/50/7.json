@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 50,
+  "translation": "Eşit, ey xalqım, və danışacağam; ey Yisrael, sənə qarşı şahidlik edəcəyəm: Elohim, sənin Elohimin, mənəm.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "eşit"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ey xalqım"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "və danışacağam"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ey Yisrael"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "və şahidlik edəcəyəm"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sənə qarşı"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sənin Elohimin"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mənəm"
+    }
+  ],
+  "timestamp": "2026-09-01T15:16:14.019399196Z",
+  "model": "glm-5.3"
+}

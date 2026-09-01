@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 1:3",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "O da getdi və Gömer, Divlayimin qızını ⟨את⟩ götürdü; və o hamilə qaldı və ona bir oğlan doğdu.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "və getdi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "götürdü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gömer"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gömer"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qızı"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "Divlayimin"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "hamilə qaldı"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "doğdu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlan"
+    }
+  ],
+  "timestamp": "2026-09-01T14:35:11.666255475Z",
+  "model": "glm-5.3"
+}

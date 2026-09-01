@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 96,
+  "translation": "Göylər sevinəcək, yer coşacaq; dəniz və onun doluluğu gürləyəcək.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "sevinəcək"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göylər"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "coşacaq"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "gürləyəcək"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dəniz"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "və onun doluluğu"
+    }
+  ],
+  "timestamp": "2026-09-01T15:32:03.669116070Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 1:15",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Əllərinizi açdığınızda gözümü sizdən gizlədirəm; hətta duanı çoxaltdığınızda eşitmirəm; əlləriniz qanla doludur.",
+  "tokens": [
+    {
+      "surface": "ובפרשכם",
+      "gloss": "açdığınızda"
+    },
+    {
+      "surface": "כפיכם",
+      "gloss": "əllərinizi"
+    },
+    {
+      "surface": "אעלים",
+      "gloss": "gizlədirəm"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözümü"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "sizdən"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hətta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "–dığınızda"
+    },
+    {
+      "surface": "תרבו",
+      "gloss": "çoxaltdığınızda"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "duanı"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "–mə"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eşit"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "əlləriniz"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "qanla"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "doludur"
+    }
+  ],
+  "timestamp": "2026-09-01T12:45:53.853333604Z",
+  "model": "glm-5.3"
+}

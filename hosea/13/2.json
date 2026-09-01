@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 13:2",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Və indi onlar günaha əlavə edirlər və özlərinə öz gümüşlərindən tökmə bütlər düzəldirlər, öz anlayışlarına görə oyma bütlər — sənətkarların əməyi, hamısı onlarındır; onlar haqqında deyirlər: insan qurbanı kəsənlər buzovları öpsünlər.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Və indi"
+    },
+    {
+      "surface": "יוספו",
+      "gloss": "əlavə edirlər"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "günaha"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "düzəldirlər"
+    },
+    {
+      "surface": "להם",
+      "gloss": "özlərinə"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "tökmə büt"
+    },
+    {
+      "surface": "מכספם",
+      "gloss": "öz gümüşlərindən"
+    },
+    {
+      "surface": "כתבונם",
+      "gloss": "öz anlayışlarına görə"
+    },
+    {
+      "surface": "עצבים",
+      "gloss": "oyma bütlər"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "əməyi"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "sənətkarların"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "hamısı"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onlarındır"
+    },
+    {
+      "surface": "הם",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "deyirlər"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "qurban kəsənlər"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    },
+    {
+      "surface": "עגלים",
+      "gloss": "buzovları"
+    },
+    {
+      "surface": "ישקון",
+      "gloss": "öpsünlər"
+    }
+  ],
+  "timestamp": "2026-09-01T14:38:27.123116322Z",
+  "model": "glm-5.3"
+}

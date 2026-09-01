@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 6:3",
+  "book": "hosea",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Bilək, bilsin deyə izləyək Yahveni ⟨את⟩; şəfəq kimi müəyyəndir onun çıxışı, yağış kimi bizə gələcək, gecə yağışı kimi torpağı suvaracaq.",
+  "tokens": [
+    {
+      "surface": "וידעה",
+      "gloss": "bilək"
+    },
+    {
+      "surface": "נרדפה",
+      "gloss": "izləyək"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "bilsin deyə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "şəfəq kimi"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "müəyyəndir"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "onun çıxışı"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "gələcək"
+    },
+    {
+      "surface": "כגשם",
+      "gloss": "yağış kimi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizə"
+    },
+    {
+      "surface": "כמלקוש",
+      "gloss": "gecə yağışı kimi"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "suvaracaq"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "torpağı"
+    }
+  ],
+  "timestamp": "2026-09-01T14:34:22.524538534Z",
+  "model": "glm-5.3"
+}

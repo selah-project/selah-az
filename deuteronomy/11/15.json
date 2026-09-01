@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 11:15",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "və Mən tarlanıza mal-qaranız üçün ot verəcəyəm, və yeyəcəksiniz və doyacaqsınız.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "verəcəyəm"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ot"
+    },
+    {
+      "surface": "בשדך",
+      "gloss": "tarlanıza"
+    },
+    {
+      "surface": "לבהמתך",
+      "gloss": "mal-qaranız üçün"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "və yeyəcəksiniz"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "və doyacaqsınız"
+    }
+  ],
+  "timestamp": "2026-09-01T10:49:44.541502796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 1:10",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və Elohim quru yerə Er adını qoydu, suların toplanmasına isə Dənizlər adını qoydu; və Elohim gördü ki, yaxşıdır.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "və adını qoydu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "quru yerə"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Er"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "toplanmasına isə"
+    },
+    {
+      "surface": "המים",
+      "gloss": "suların"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "adını qoydu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Dənizlər"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "və gördü"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşıdır"
+    }
+  ],
+  "timestamp": "2026-09-01T09:45:40.894791515Z",
+  "model": "glm-5.3"
+}

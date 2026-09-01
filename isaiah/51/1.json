@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 51:1",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 51,
+  "translation": "Mənə qulaq asın, doğru.luğu qovalayanlar, Yahveni axtaranlar: oyulduğunuz qayaya baxın, çıxarıldığınız çuxurun mədəninə baxın.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "qulaq asın"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "qovalayanlar"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "doğru.luğu"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "axtaranlar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveni"
+    },
+    {
+      "surface": "הביטו",
+      "gloss": "baxın"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "צור",
+      "gloss": "qayaya"
+    },
+    {
+      "surface": "חצבתם",
+      "gloss": "oyulduğunuz"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və -a"
+    },
+    {
+      "surface": "מקבת",
+      "gloss": "mədənə"
+    },
+    {
+      "surface": "בור",
+      "gloss": "çuxurun"
+    },
+    {
+      "surface": "נקרתם",
+      "gloss": "çıxarıldığınız"
+    }
+  ],
+  "timestamp": "2026-09-01T13:15:45.976562325Z",
+  "model": "glm-5.3"
+}

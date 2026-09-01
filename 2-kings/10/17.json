@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 10:17",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Şomrona gəldi və Axava məxsus Şomronda qalanların ⟨את⟩ hamısını onu tam məhv edənədək vurdu — Yahvenin Eliyaya dediyi sözə uyğun olaraq.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "gəldi"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Şomron"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "vurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qalanların hamısı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamısı"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "qalanlar"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "Axava məxsus"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Şomronda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qiymətinədək"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "məhv etdiyi"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sözünə uyğun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dediyi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ona⟩"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliya"
+    }
+  ],
+  "timestamp": "2026-09-01T12:33:45.747296504Z",
+  "model": "glm-5.3"
+}

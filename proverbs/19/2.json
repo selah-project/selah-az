@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 19:2",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Həm bilik olmadan ⟨olmaq⟩ can üçün yaxşı deyil, və ayaqları ilə tələsən ⟨kimse⟩ günah edir.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "həm"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "olmadan"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "bilik"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "can"
+    },
+    {
+      "surface": "לא",
+      "gloss": "deyil"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşı"
+    },
+    {
+      "surface": "ואץ",
+      "gloss": "və tələsən"
+    },
+    {
+      "surface": "ברגלים",
+      "gloss": "ayaqları ilə"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "günah edir"
+    }
+  ],
+  "timestamp": "2026-09-01T15:56:41.122977559Z",
+  "model": "glm-5.3"
+}

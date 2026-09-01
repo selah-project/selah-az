@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "və ⟨את⟩ daayı, ⟨את⟩ qırğanı — növünə görə.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "daayı"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "daa (quşu)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qırğanı"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "qırğan"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "növünə görə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:24:15.880286880Z",
+  "model": "glm-5.3"
+}

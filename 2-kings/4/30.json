@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 4:30",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Oğlanın anası isə dedi: Yahve diridir və canın diridir ⟨ki⟩ səni tərk etməyəcəyəm. O da qalxıb onun ardınca getdi.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "anası"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "oğlanın"
+    },
+    {
+      "surface": "חי",
+      "gloss": "diridir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "və diridir"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "canın"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨ki⟩"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "səni tərk etməyəcəyəm"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "və qalxıb"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "getdi"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "onun ardınca"
+    }
+  ],
+  "timestamp": "2026-09-01T12:30:28.886836701Z",
+  "model": "glm-5.3"
+}

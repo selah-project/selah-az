@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 5:3",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Kişidən qadına qədər göndərin; düşərgənin xaricinə göndərin ki, mənim içlərində sakin olduğum düşərgələrini murdarlamasınlar.",
+  "tokens": [
+    {
+      "surface": "מזכר",
+      "gloss": "kişidən"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "qadın"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "göndərin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "xaricinə"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "düşərgənin"
+    },
+    {
+      "surface": "תשלחום",
+      "gloss": "onları göndərin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ki... olmasın"
+    },
+    {
+      "surface": "יטמאו",
+      "gloss": "murdarlamasınlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "düşərgələrini"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "düşərgələrini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "sakin olan"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "içlərində"
+    }
+  ],
+  "timestamp": "2026-09-01T10:34:43.952894200Z",
+  "model": "glm-5.3"
+}

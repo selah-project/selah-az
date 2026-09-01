@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 72,
+  "translation": "Səndən qorxsunlar günəşlə ⟨birlikdə⟩, ⟨və⟩ ayın önündə, nəsil nəsillər ⟨boyu⟩.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "səndən qorxsunlar"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "günəş"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "⟨və⟩ ... önündə"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "ay"
+    },
+    {
+      "surface": "דור",
+      "gloss": "nəsil"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "nəsillər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:24:03.638572719Z",
+  "model": "glm-5.3"
+}

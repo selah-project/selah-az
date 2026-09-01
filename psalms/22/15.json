@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 22:15",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Su kimi töküldüm, bütün sümüklərim bir-birindən ayrıldı, ürəyim balmumu kimi oldu, bağırığımın içinə əridi.",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "su kimi"
+    },
+    {
+      "surface": "נשפכתי",
+      "gloss": "töküldüm"
+    },
+    {
+      "surface": "והתפרדו",
+      "gloss": "ayrıldı"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "sümüklərim"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ürəyim"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "balmumu kimi"
+    },
+    {
+      "surface": "נמס",
+      "gloss": "əridi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "içinə"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "bağırığımın"
+    }
+  ],
+  "timestamp": "2026-09-01T15:06:55.325998681Z",
+  "model": "glm-5.3"
+}

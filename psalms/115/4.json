@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 115,
+  "translation": "Onların bütləri gümüş və qızıl, insan əllərinin əməlidir.",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "onların bütləri"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüş"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "və qızıl"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "əməlidir"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "əllərinin"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:32.317485653Z",
+  "model": "glm-5.3"
+}

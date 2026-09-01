@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 3:25",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Utanclarımızın içində uzanaq, ləkəmiz bizi örtsün; çünki Yahve Elohimimizə qarşı günah etdik biz və atalarımız, gəncliyimizdən ⟨bu⟩ günə qədər, və Yahve Elohimimizin səsinə qulaq asmamışıq.",
+  "tokens": [
+    {
+      "surface": "נשכבה",
+      "gloss": "uzanaq"
+    },
+    {
+      "surface": "בבשתנו",
+      "gloss": "utanclarımızın içində"
+    },
+    {
+      "surface": "ותכסנו",
+      "gloss": "və örtsün bizi"
+    },
+    {
+      "surface": "כלמתנו",
+      "gloss": "ləkəmiz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve-yə qarşı"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimizə"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "günah etdik"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "biz"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "və atalarımız"
+    },
+    {
+      "surface": "מנעורינו",
+      "gloss": "gəncliyimizdən"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "היום",
+      "gloss": "günə"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "qulaq asmamışıq"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "səsinə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimizin"
+    }
+  ],
+  "timestamp": "2026-09-01T17:36:45.505272827Z",
+  "model": "glm-5.3"
+}

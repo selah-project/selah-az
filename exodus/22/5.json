@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 22:5",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Əgər od çıxsa və tikanlıları tapsa və ⟨את⟩ yandırıqları yaxsa — ya dəstə, ya duran taxıl, ya da tarla — odu yandıran tam ödəsin ⟨את⟩ zərəri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "çıxsa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "od"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "və tapsa"
+    },
+    {
+      "surface": "קצים",
+      "gloss": "tikanlıları"
+    },
+    {
+      "surface": "ונאכל",
+      "gloss": "və yaxsa (yandırılsa)"
+    },
+    {
+      "surface": "גדיש",
+      "gloss": "dəstə (nişan dəstəsi)"
+    },
+    {
+      "surface": "או",
+      "gloss": "ya"
+    },
+    {
+      "surface": "הקמה",
+      "gloss": "duran taxıl"
+    },
+    {
+      "surface": "או",
+      "gloss": "ya da"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tarla"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ödəsin"
+    },
+    {
+      "surface": "המבער",
+      "gloss": "odu yandıran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zərəri (הבערה — yandırıq\/zərər)"
+    },
+    {
+      "surface": "הבערה",
+      "gloss": "yandırıqları (zərəri)"
+    }
+  ],
+  "timestamp": "2026-09-01T17:56:35.246375978Z",
+  "model": "glm-5.3"
+}

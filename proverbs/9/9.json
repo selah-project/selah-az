@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 9:9",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Müdrikə ⟨ver⟩, və o, daha da müdrik olacaq; salehə bildir, və o, öyrənməsini artıracaq.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "ver"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "müdrikə"
+    },
+    {
+      "surface": "ויחכם",
+      "gloss": "və o müdrik olacaq"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "daha da"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "bildir"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "salehə"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "və o artıracaq"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "öyrənməni"
+    }
+  ],
+  "timestamp": "2026-09-01T15:49:36.056372105Z",
+  "model": "glm-5.3"
+}

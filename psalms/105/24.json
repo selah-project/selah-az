@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 105:24",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 105,
+  "translation": "Və öz xalqını ⟨את⟩ son dərəcə çoxaltdı, onu düşmənlərindən güclü etdi.",
+  "tokens": [
+    {
+      "surface": "ויפר",
+      "gloss": "və çoxaltdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öz xalqını"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "öz xalqını"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "son dərəcə"
+    },
+    {
+      "surface": "ויעצמהו",
+      "gloss": "güclü etdi"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "düşmənlərindən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:35:38.205879839Z",
+  "model": "glm-5.3"
+}

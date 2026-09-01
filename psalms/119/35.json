@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 119:35",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Yürüt məni əmrlərinin cığırında, çünki mən onda xoşbəxtəm.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "yürüt məni"
+    },
+    {
+      "surface": "בנתיב",
+      "gloss": "cığırında"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "əmrlərinin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onda"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "xoşum tuta"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:45.205050809Z",
+  "model": "glm-5.3"
+}

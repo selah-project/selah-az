@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 22:23",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Qardaşlarıma Adını bildirəcəyəm, məclisin ortasında Səni tərifləyəcəyəm.",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "bildirəcəyəm"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Adını"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "qardaşlarıma"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ortasında"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "məclisin"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "Səni tərifləyəcəyəm"
+    }
+  ],
+  "timestamp": "2026-09-01T15:06:23.381337895Z",
+  "model": "glm-5.3"
+}

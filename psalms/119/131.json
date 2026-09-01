@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 131,
+  "ref": "psalms 119:131",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Ağzımı açdım, ⟨nəfəs⟩ uddum, çünki əmrlərinə susadım.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "ağzımı"
+    },
+    {
+      "surface": "פערתי",
+      "gloss": "açdım"
+    },
+    {
+      "surface": "ואשאפה",
+      "gloss": "⟨nəfəs⟩ uddum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "למצותיך",
+      "gloss": "əmrlərinə"
+    },
+    {
+      "surface": "יאבתי",
+      "gloss": "susadım"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:51.954777439Z",
+  "model": "glm-5.3"
+}

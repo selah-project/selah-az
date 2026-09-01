@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 27:3",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 27,
+  "translation": "Ağır ⟨dır⟩ daş, qum da küllidir, amma avamın qəzəbi hər ikisindən ağırdır.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "ağır"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "daş"
+    },
+    {
+      "surface": "ונטל",
+      "gloss": "küllidir"
+    },
+    {
+      "surface": "החול",
+      "gloss": "qum"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "qəzəbi"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "avamın"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ağırdır"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "hər ikisindən"
+    }
+  ],
+  "timestamp": "2026-09-01T16:00:05.578715452Z",
+  "model": "glm-5.3"
+}

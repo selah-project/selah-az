@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 9:5",
+  "book": "daniel",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Günah etdik, təqsirkar olduq, pislik etdik, üsyan qaldırdıq, əmrindən və məhkəmələrindən uzaqlaşdıq.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "günah etdik"
+    },
+    {
+      "surface": "ועוינו",
+      "gloss": "təqsirkar olduq"
+    },
+    {
+      "surface": "והרשענו",
+      "gloss": "pislik etdik"
+    },
+    {
+      "surface": "ומרדנו",
+      "gloss": "üsyan qaldırdıq"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "uzaqlaşdıq"
+    },
+    {
+      "surface": "ממצותך",
+      "gloss": "əmrindən"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "məhkəmələrindən"
+    }
+  ],
+  "timestamp": "2026-09-01T16:44:08.893712946Z",
+  "model": "glm-5.3"
+}

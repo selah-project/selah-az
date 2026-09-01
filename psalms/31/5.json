@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 31:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "Məni bu gizlətdikləri tordan çıxar, çünki sən mənim sığınacağımsan.",
+  "tokens": [
+    {
+      "surface": "תוציאני",
+      "gloss": "Məni çıxar"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "tordan"
+    },
+    {
+      "surface": "זו",
+      "gloss": "bu"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "gizlətdikləri"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənim üçün"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "mənim sığınacağımsan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:09:19.146705784Z",
+  "model": "glm-5.3"
+}

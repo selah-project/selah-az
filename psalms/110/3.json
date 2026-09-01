@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 110,
+  "translation": "Sənin xalqın könüllü bəxşişlər ⟨olacaq⟩ qüdrət günlərində, müqəddəs zinətlərdə; şəfəq bətnindən sənin gəncliyinin şehi ⟨sənindir⟩.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "sənin xalqın"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "könüllü bəxşişlər"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "günlərində"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "qüdrət"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "zinətlərində"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "bətnindən"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "şəfəq"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənin"
+    },
+    {
+      "surface": "טל",
+      "gloss": "şehi"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "gəncliyinin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:38:23.202776179Z",
+  "model": "glm-5.3"
+}

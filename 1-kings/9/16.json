@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 9:16",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Paro, Mitsrayim padşahı, qalxdı və ⟨את⟩ Gezeri tutdu, onu oda yandırdı, ⟨את⟩ şəhərdə yaşayan kənanilini öldürdü və onu öz qızına — Şlomonun arvadına — şilluxim ⟨kimi cehiz⟩ verdi.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "qalxdı"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "və tutdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezeri"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "וישרפה",
+      "gloss": "onu yandırdı"
+    },
+    {
+      "surface": "באש",
+      "gloss": "odda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kənanilini"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kənanili"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "yaşayan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "şəhərdə"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "öldürdü"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "və verdi onu"
+    },
+    {
+      "surface": "שלחים",
+      "gloss": "şilluxim (cehiz)"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "öz qızına"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "arvadı"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şlomon"
+    }
+  ],
+  "timestamp": "2026-09-01T12:17:34.131061735Z",
+  "model": "glm-5.3"
+}

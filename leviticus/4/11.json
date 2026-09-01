@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "və ⟨את⟩ buğanın dərisini və ⟨את⟩ bütün ətini, başı ilə, ayaqları ilə, daxili orqanlarını və ifrazatını",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "dərisini"
+    },
+    {
+      "surface": "עור",
+      "gloss": "dərisini"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "buğanın"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "bütün ətini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ətini"
+    },
+    {
+      "surface": "על",
+      "gloss": "ilə"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "başı"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "və ilə"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "ayaqları"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "daxili orqanlarını"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "ifrazatını"
+    }
+  ],
+  "timestamp": "2026-09-01T10:23:10.683722361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 50,
+  "translation": "Mənə yığın ⟨özü→⟩ sadiqlərimi — əhdimi qurban üzərinə kəsənləri.",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "yığın"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "sadiqlərimi"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "kəsənləri"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "əhdimi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "qurban"
+    }
+  ],
+  "timestamp": "2026-09-01T15:16:14.018919906Z",
+  "model": "glm-5.3"
+}

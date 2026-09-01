@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 50:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 50,
+  "translation": "Rəşidə isə Elohim dedi: Sənə nə olub ki, Mənim qanunlarımı danışırsan, Mənim əhdimi ağzına götürürsən?",
+  "tokens": [
+    {
+      "surface": "ולרשע",
+      "gloss": "Rəşidə isə"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nə"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "danışırsan"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "qanunlarımı"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "götürürsən"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "əhdimi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üzərinə ⟨ağzına⟩"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ağzına"
+    }
+  ],
+  "timestamp": "2026-09-01T15:16:35.536579484Z",
+  "model": "glm-5.3"
+}

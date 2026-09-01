@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 1:12",
+  "book": "malachi",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Siz isə onu ⟨את⟩ murdarlaşdırırsınız, deyərkən: Adonayın süfrəsi murdardır ⟨is⟩, və onun bəhrəsi nifrətəlayiq, yeməyi.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "siz isə"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "murdarlaşdırırsınız"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "onu (Adı)"
+    },
+    {
+      "surface": "באמרכם",
+      "gloss": "deyərkən"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "süfrəsi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayın"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "murdardır"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨is⟩ o"
+    },
+    {
+      "surface": "וניבו",
+      "gloss": "və onun bəhrəsi"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "nifrətəlayiq"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "yeməyi"
+    }
+  ],
+  "timestamp": "2026-09-01T14:59:59.319331925Z",
+  "model": "glm-5.3"
+}

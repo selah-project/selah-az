@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 20:5",
+  "book": "joshua",
+  "lang": "az",
+  "chapter": 20,
+  "translation": "Və əgər qan qatili onun arxasınca təqib etsə, onlar qatili ⟨onun⟩ əlinə təslim etməyəcəklər, çünki o, bilmədən ⟨את⟩ yoldaşını vurub və onu dünəndən-əvvəlki-gündən nifrət etməyib.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "və əgər"
+    },
+    {
+      "surface": "ירדף",
+      "gloss": "təqib etsə"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "qatili"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "qanın"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "onun arxasınca"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... etməyəcəklər"
+    },
+    {
+      "surface": "יסגרו",
+      "gloss": "təslim etməyəcəklər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qatili"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "qatili"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "əlinə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "בבלי",
+      "gloss": "bilmədən"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "bilgi"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "vurub"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yoldaşını"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "yoldaşını"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... etməyib"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "nifrət etməyib"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "מתמול",
+      "gloss": "dünəndən"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "əvvəlki-gündən"
+    }
+  ],
+  "timestamp": "2026-09-01T11:12:58.486446716Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 32:11",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Və aldım ⟨את⟩ satınalma kitabını — ⟨את⟩ möhürlənmiş nüsxəni, əmri və qaydaları, və ⟨את⟩ açıq nüsxəni.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "və aldım"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "satınalma kitabını"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitabını"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "satınalma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "möhürlənmiş nüsxəni"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "möhürlənmiş nüsxəni"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "əmri"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "və qaydaları"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "açıq nüsxəni"
+    },
+    {
+      "surface": "הגלוי",
+      "gloss": "açıq nüsxəni"
+    }
+  ],
+  "timestamp": "2026-09-01T13:43:19.611065056Z",
+  "model": "glm-5.3"
+}

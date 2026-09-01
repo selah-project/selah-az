@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 11:5",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Kamalın düzlüyü onun yolunu düzləşdirir, öz şərində isə şər adam yıxılar.",
+  "tokens": [
+    {
+      "surface": "צדקת",
+      "gloss": "düzlüyü"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "kamalın"
+    },
+    {
+      "surface": "תישר",
+      "gloss": "düzləşdirir"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "onun yolunu"
+    },
+    {
+      "surface": "וברשעתו",
+      "gloss": "öz şərində"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "yıxılar"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "şər adam"
+    }
+  ],
+  "timestamp": "2026-09-01T15:51:41.318859556Z",
+  "model": "glm-5.3"
+}

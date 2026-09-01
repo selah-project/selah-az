@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 51:1",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 51,
+  "translation": "Belə deyir Yahve: Bax, mən Babil üzərinə və Leb-Qamayın (qarşımda duranların ürəyi) sakinləri üzərinə oyadan qaldırıram — məhv edən külək.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "belə"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "bax, mən"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "oyadan"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babil"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və ... üzərinə"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "sakinləri"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ürəyi"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "qarşımda qalxanların"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "külək"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "məhv edən"
+    }
+  ],
+  "timestamp": "2026-09-01T13:57:49.011261869Z",
+  "model": "glm-5.3"
+}

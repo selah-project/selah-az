@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 6:22",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Və ⟨את⟩ bütün evi qızılla örtdü — bütün ev tamamlanana qədər; və Dəbirə aid olan bütün qurbangahı da qızılla örtüb qapladı.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bütün evi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "örtüb qapladı"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "qızılla"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qədər"
+    },
+    {
+      "surface": "תם",
+      "gloss": "tamamlanana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ev"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "qurbangahı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki, o"
+    },
+    {
+      "surface": "לדביר",
+      "gloss": "Dəbirə aiddir"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "örtüb qapladı"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "qızılla"
+    }
+  ],
+  "timestamp": "2026-09-01T12:12:03.298406388Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 15:4",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Çünki Davudun xatirinə Yahve, onun Elohimi, ona Yeruşalayimda çıraq verdi: oğlunu özündən sonra qaldırmaq üçün ⟨את⟩ və Yeruşalayimi möhkəmləndirmək üçün ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "למען",
+      "gloss": "xatirinə"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davudun"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "onun Elohimi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "çıraq"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yeruşalayimda"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "qaldırmaq üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oğlunu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlunu"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "özündən sonra"
+    },
+    {
+      "surface": "ולהעמיד",
+      "gloss": "və möhkəmləndirmək üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeruşalayimi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruşalayimi"
+    }
+  ],
+  "timestamp": "2026-09-01T12:23:02.985031129Z",
+  "model": "glm-5.3"
+}

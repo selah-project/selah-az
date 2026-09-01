@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 40:18",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "Mən isə kasıb və ehtiyac içindəyəm; Adonay məni düşünür. Köməyim və qurtarıcım Sənsən, Elohimim, gecikmə ⟨yox⟩!",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Mən isə"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kasıb"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "və ehtiyac içindəyəm"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "düşünür"
+    },
+    {
+      "surface": "לי",
+      "gloss": "məni"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "Köməyim"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "və qurtarıcım"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sənsən"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨yox⟩"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "gecikmə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:13:02.560898667Z",
+  "model": "glm-5.3"
+}

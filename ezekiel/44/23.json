@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 44:23",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 44,
+  "translation": "Və ⟨את⟩ xalqımı müqəddəs ilə adi arasında öyrədəcəklər, murdar ilə təmiz arasında onları tanıtdıracaqlar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "xalqımı"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqım"
+    },
+    {
+      "surface": "יורו",
+      "gloss": "öyrədəcəklər"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "לחol",
+      "gloss": ""
+    },
+    {
+      "surface": "ובין",
+      "gloss": "və arasında"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "murdar"
+    },
+    {
+      "surface": "לטהור",
+      "gloss": "təmiz"
+    },
+    {
+      "surface": "יודעם",
+      "gloss": "onları tanıtdıracaqlar"
+    }
+  ],
+  "timestamp": "2026-09-01T14:30:38.589670874Z",
+  "model": "glm-5.3"
+}

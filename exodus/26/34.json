@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 26:34",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Və ⟨את⟩ kəffarəti şəhadət sandığının üstünə qoyacaqsan, müqəddəslərin müqəddəsində.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "qoyacaqsan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kəffarəti"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kəffarəti"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandığının"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "şəhadət"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "müqəddəs ⟨yerində⟩"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "müqəddəslərin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:17:02.634802488Z",
+  "model": "glm-5.3"
+}

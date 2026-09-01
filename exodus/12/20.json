@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 12:20",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Mayalı heç bir şey yeməyəcəksiniz; bütün yaşayış yerlərinizdə matsot yeyəcəksiniz.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "heç bir"
+    },
+    {
+      "surface": "מחמצת",
+      "gloss": "mayalı şey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yeməyəcəksiniz"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yeyəcəksiniz"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "yaşayış yerlərinizdə"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yeyəcəksiniz"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "matsot"
+    }
+  ],
+  "timestamp": "2026-09-01T10:09:19.206301493Z",
+  "model": "glm-5.3"
+}

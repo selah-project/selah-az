@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 24:2",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 24,
+  "translation": "İsrail oğullarına ⟨את⟩ əmr et ki, sənin yanına çıraq üçün döyülmüş təmiz zeytun yağı gətirsinlər, çırağı fasiləsiz yandırmaq üçün.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "əmr et"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsrail oğullarına"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "gətirsinlər"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sənin yanına"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "yağı"
+    },
+    {
+      "surface": "זית",
+      "gloss": "zeytun"
+    },
+    {
+      "surface": "זך",
+      "gloss": "təmiz"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "döyülmüş"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "çıraq üçün"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "yandırmaq üçün"
+    },
+    {
+      "surface": "נר",
+      "gloss": "çırağı"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "fasiləsiz"
+    }
+  ],
+  "timestamp": "2026-09-01T10:30:48.522738824Z",
+  "model": "glm-5.3"
+}

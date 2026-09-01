@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 6:11",
+  "book": "joshua",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Yahvenin sandığı ⟨את⟩ şəhəri bir dəfə dolanaraq dolaşdırdı, və düşərgəyə gəldilər və düşərgədə gecələdilər.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "dolaşdırdı"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandığı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şəhəri"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şəhəri"
+    },
+    {
+      "surface": "הקף",
+      "gloss": "dolanaraq"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "dəfə"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "bir"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "gəldilər"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "düşərgəyə"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "gecələdilər"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "düşərgədə"
+    }
+  ],
+  "timestamp": "2026-09-01T11:02:15.293510341Z",
+  "model": "glm-5.3"
+}

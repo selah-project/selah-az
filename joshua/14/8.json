@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 14:8",
+  "book": "joshua",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Qardaşlarım ki, mənimlə birlikdə qalxmışdılar, xalqın ⟨את⟩ qəlbini əritdilər; mən isə Yahve Elohimimin ardınca tam getdim.",
+  "tokens": [
+    {
+      "surface": "ואחי",
+      "gloss": "qardaşlarım"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "qalxmışdılar"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mənimlə"
+    },
+    {
+      "surface": "המסיו",
+      "gloss": "əritdilər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qəlbini"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qəlbini"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqın"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "mən isə"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "tam getdim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ardınca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    }
+  ],
+  "timestamp": "2026-09-01T11:09:02.153018072Z",
+  "model": "glm-5.3"
+}

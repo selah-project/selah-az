@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Qoyun və mal-qara, hamısı, hətta sahə heyvanları da.",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "qoyun"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "və mal-qara"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "hamısı"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "hətta ... da"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "heyvanları"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "sahə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:03:30.384172154Z",
+  "model": "glm-5.3"
+}

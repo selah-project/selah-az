@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 36:20",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 36,
+  "translation": "Bunlar Seir Horinin oğullarıdır, torpağın sakinləri: Lotan, Şoval, Tsivon va Anah.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "bunlar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seirin"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "Hori"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "sakinləri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "torpağın"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Lotan"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "və Şoval"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "və Tsivon"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "və Anah"
+    }
+  ],
+  "timestamp": "2026-09-01T09:57:45.115278053Z",
+  "model": "glm-5.3"
+}

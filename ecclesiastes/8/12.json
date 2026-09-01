@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 8:12",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Hər kəs ⟨ki⟩ günah edər və yüz dəfə şər işləyər və ⟨onun üçün⟩ uzun ömür verilsə, həm də mən bilirəm ki, Elohimdən qorxanların, üzünün önündən qorxanların üçün yaxşı olacaq.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "⟨ki⟩"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "günah edər"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "işləyər"
+    },
+    {
+      "surface": "רע",
+      "gloss": "şər"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "yüz dəfə"
+    },
+    {
+      "surface": "ומאריך",
+      "gloss": "uzun ömür verilsə"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨onun üçün⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "גם",
+      "gloss": "həm də"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "bilirəm"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ki⟩"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşı"
+    },
+    {
+      "surface": "ליראי",
+      "gloss": "qorxanların üçün"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimdən"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ki⟩"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "qorxanlar"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "üzünün önündən"
+    }
+  ],
+  "timestamp": "2026-09-01T18:02:45.331527516Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 3:2",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və əlini öz qurbanının başı üzərinə qoysun və onu görüş çadırının girişində kəssin; və kahin olan Aharonun oğulları ⟨את⟩ qanı məhbədin üstünə hər tərəfə səpsinlər.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "və qoysun"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "onun əli"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "baş"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "onun qurbanı"
+    },
+    {
+      "surface": "ושחטו",
+      "gloss": "və kəssin onu"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "girişində"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadır"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "görüş"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "və səpsinlər"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonun"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kahin olan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qanı"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "qanı"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "məhbədin"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "hər tərəfə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:22:48.627125018Z",
+  "model": "glm-5.3"
+}

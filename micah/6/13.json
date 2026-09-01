@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "micah 6:13",
+  "book": "micah",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Həm də Mən səni xəstələtdim, vurmaqla ⟨səni⟩, viranə etməklə — günahlarının üstündən.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "həm də"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "החליתי",
+      "gloss": "xəstələtdim"
+    },
+    {
+      "surface": "הכותך",
+      "gloss": "vurmaqla səni"
+    },
+    {
+      "surface": "השמם",
+      "gloss": "viranə etməklə"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündən"
+    },
+    {
+      "surface": "חטאתך",
+      "gloss": "günahlarının"
+    }
+  ],
+  "timestamp": "2026-09-01T14:48:37.489616826Z",
+  "model": "glm-5.3"
+}

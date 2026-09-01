@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 136:14",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 136,
+  "translation": "və İsraili onun ortasından keçirənə — çünki onun hesedi əbədidir.",
+  "tokens": [
+    {
+      "surface": "והעביר",
+      "gloss": "keçirənə"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsraili"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "onun ortasından"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədidir"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "onun hesedi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:43:50.465759370Z",
+  "model": "glm-5.3"
+}

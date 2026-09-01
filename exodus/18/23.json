@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 18:23",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Əgər sən ⟨את⟩ bu işi edərsən və Elohim sənə belə əmr edərsə, sən ⟨bunu⟩ davam gətirə biləcəksən və bütün bu xalq da öz yerinə salamatlıqla çatacaq.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu işi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "işi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "edərsən"
+    },
+    {
+      "surface": "וצוך",
+      "gloss": "sənə əmr edərsə"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויכלת",
+      "gloss": "davam gətirə biləcəksən"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "durmağa"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "və həmçinin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ə doğru"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "öz yerinə"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "çağacaq"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "salamatlıqla"
+    }
+  ],
+  "timestamp": "2026-09-01T10:12:00.155238008Z",
+  "model": "glm-5.3"
+}

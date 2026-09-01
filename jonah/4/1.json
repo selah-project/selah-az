@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Yonaya böyük ⟨bir⟩ pislik pis gəldi və ⟨bu⟩ ona qəzəbləndirdi.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "pis gəldi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-a"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonaya"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pislik"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "böyük"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "qəzəbləndirdi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-09-01T14:45:14.344255496Z",
+  "model": "glm-5.3"
+}

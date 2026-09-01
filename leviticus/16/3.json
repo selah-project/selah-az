@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 16:3",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Bunlarla girməli Aharon müqəddəsə: günah qurbanı üçün qaramal oğlu buğa, yandırma qurbanı üçün bir qoç.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "Bunlarla"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "girməli"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "müqəddəsə"
+    },
+    {
+      "surface": "בפר",
+      "gloss": "buğa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "qaramal"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "günah qurbanı üçün"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "qoç"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "yandırma qurbanı üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:28:32.377591733Z",
+  "model": "glm-5.3"
+}

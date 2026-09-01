@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 3:7",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Bütün mal-qaranı və şəhərlərin qənimətini isə özümüz üçün yağmaladıq.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "mal-qara"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "qənimətini"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "şəhərlərin"
+    },
+    {
+      "surface": "בזונו",
+      "gloss": "yağmaladıq"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "özümüz üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:46:07.737492279Z",
+  "model": "glm-5.3"
+}

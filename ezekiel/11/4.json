@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 11:4",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Buna görə onlara peyğəmbərlik et, peyğəmbərlik et, ey insan oğlu!",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "buna görə"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "peyğəmbərlik et"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "peyğəmbərlik et"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insan"
+    }
+  ],
+  "timestamp": "2026-09-01T14:06:37.825479456Z",
+  "model": "glm-5.3"
+}

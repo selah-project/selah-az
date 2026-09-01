@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 38:30",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 38,
+  "translation": "Və sonra qardaşı çıxdı — əlində qırmızı ⟨sap⟩ olan; və adını Zerah qoydu.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "və sonra"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "çıxdı"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "qardaşı"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olan"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstündə"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "əli"
+    },
+    {
+      "surface": "השני",
+      "gloss": "qırmızı ⟨sap⟩"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "və adını qoydu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "adı"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zerah"
+    }
+  ],
+  "timestamp": "2026-09-01T09:58:47.076380641Z",
+  "model": "glm-5.3"
+}

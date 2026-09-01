@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 28:18",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 28,
+  "translation": "Lənətlənmiş ⟨olsun⟩ bətninin meyvəsi və torpağının meyvəsi, inəklərinin balaları və qoyunlarının ⟨balaları⟩.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "lənətlənmiş"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "meyvəsi"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "bətninin"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "və meyvəsi"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "torpağının"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "balaları"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "inəklərinin"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "və balaları"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "qoyunlarının"
+    }
+  ],
+  "timestamp": "2026-09-01T10:57:10.199646849Z",
+  "model": "glm-5.3"
+}

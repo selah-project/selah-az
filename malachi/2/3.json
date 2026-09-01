@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 2:3",
+  "book": "malachi",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Bax, mən sizin üçün ⟨את⟩ toxumunuzu rədd edirəm və bayramlarınızın töküntüsünü üzlərinizə səpəcəyəm — bayramlarınızın töküntüsü — və sizi özü ilə daşıyacaq.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "bax, mən"
+    },
+    {
+      "surface": "גער",
+      "gloss": "rədd edirəm"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toxumunuz"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "toxumunuz"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "və səpəcəyəm"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "töküntü"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "üzləriniz"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "töküntü"
+    },
+    {
+      "surface": "חגיכם",
+      "gloss": "bayramlarınızın"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "və daşıyacaq"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizi",
+      "marks": "sizi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "onu"
+    }
+  ],
+  "timestamp": "2026-09-01T15:00:02.350048701Z",
+  "model": "glm-5.3"
+}

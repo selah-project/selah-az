@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 3:5",
+  "book": "judges",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Yisrael oğulları Kənanlıların, Xetliyin, Emorlunun, Perizliyin, Xivliyin və Yevuslunun arasında yaşadılar.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "və ... oğulları"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "yaşadılar"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "içində"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kənanlı(ların)"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Xetli"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "və Emorlu"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "və Perizli"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "və Xivli"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "və Yevuslu"
+    }
+  ],
+  "timestamp": "2026-09-01T11:16:26.719373846Z",
+  "model": "glm-5.3"
+}

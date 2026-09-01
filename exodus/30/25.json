@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 30:25",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Və ondan məsh yağı — müqəddəs məsh yağı, ətirçinin əməyi kimi qarışıq ətir düzəltmiş olacaqsan; o, müqəddəs məsh yağı olacaq.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "düzəltmiş olacaqsan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "⟨את⟩ şəkiltili — onu (şəmən yağı)"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "yağı"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "məsh"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "ətir qarışığı"
+    },
+    {
+      "surface": "מרקחת",
+      "gloss": "qarışıq"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "əməyi"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "ətirçi"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "yağ"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "məsh"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T10:17:52.473215963Z",
+  "model": "glm-5.3"
+}

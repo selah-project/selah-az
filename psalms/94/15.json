@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 94,
+  "translation": "Çünki məhkəmə ədalətə qayıdacaq, və onun ardınca bütün ürəkdürüst ⟨insanlar⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨təkrar⟩"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ədalətə"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "qayıdacaq"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "məhkəmə"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "və onun ardınca"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "ürəkdürüst"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ürək"
+    }
+  ],
+  "timestamp": "2026-09-01T15:32:32.403727126Z",
+  "model": "glm-5.3"
+}

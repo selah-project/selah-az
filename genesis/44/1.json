@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 44:1",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 44,
+  "translation": "Və evinin ⟨başındakınə⟩ əmr etdi, deyərək: Kişilərin çantalarını daşıya biləcəkləri qədər yeməklə doldur, və hər kişinin gümüşünü çantasının ağzına qoy.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "və əmr etdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "evinin başındakına"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ki⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "başında"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "onun evinin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "doldur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "çantaları"
+    },
+    {
+      "surface": "אמתחת",
+      "gloss": "çantalarını"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "kişilərin"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yeməklə"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nə qədər ki"
+    },
+    {
+      "surface": "יוכלון",
+      "gloss": "daşıya bilirlərsə"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "daşımaq"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "və qoy"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "gümüşünü"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hər kişinin"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ağzına"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "çantasının"
+    }
+  ],
+  "timestamp": "2026-09-01T10:01:47.065308517Z",
+  "model": "glm-5.3"
+}

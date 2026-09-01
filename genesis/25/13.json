@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 25:13",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Və bunlar Yişmaelin oğullarının adlarıdır, doğumlarına görə öz adları ilə: Yişmaelin böyüyü Nəvayot, və Qədar, və Ədbeel, və Mivsam.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "və bunlar"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "adları"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yişmaelin"
+    },
+    {
+      "surface": "בשמתם",
+      "gloss": "öz adları ilə"
+    },
+    {
+      "surface": "לתולדתם",
+      "gloss": "doğumlarına görə"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "böyüyü"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yişmaelin"
+    },
+    {
+      "surface": "נבית",
+      "gloss": "Nəvayot"
+    },
+    {
+      "surface": "וקדר",
+      "gloss": "və Qədar"
+    },
+    {
+      "surface": "ואדבאל",
+      "gloss": "və Ədbeel"
+    },
+    {
+      "surface": "ומבשם",
+      "gloss": "və Mivsam"
+    }
+  ],
+  "timestamp": "2026-09-01T09:53:08.064599315Z",
+  "model": "glm-5.3"
+}

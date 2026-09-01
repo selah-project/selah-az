@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 56:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 56,
+  "translation": "Bütün günü sözlərimi əyirlər; bütün düşüncələri mənim qarşımda şər üçündür.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "היום",
+      "gloss": "günü"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözlərimi"
+    },
+    {
+      "surface": "יעצבו",
+      "gloss": "əyirlər"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mənim üstümə"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "düşüncələri"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "şər üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T15:19:24.743935152Z",
+  "model": "glm-5.3"
+}

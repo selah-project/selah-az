@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "İndi isə gəl, sənə məsləhət verim, nə olar, məsləhət, və ⟨את⟩ canını və ⟨את⟩ oğlun Şelomonun canını xilas et.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "indi isə"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "gəl"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "sənə məsləhət verim"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nə olar"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "məsləhət"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "və xilas et"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "canını"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "canını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "can"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "can"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "oğlun"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şelomonun"
+    }
+  ],
+  "timestamp": "2026-09-01T12:08:32.387546390Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 8:14",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və sehrbazlar bitləri çıxarmaq üçün lahətləri ilə belə etdilər, amma ⟨bacarmadılar⟩; və bit ⟨oldu⟩ insanda və heyvanda.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "və etdilər"
+    },
+    {
+      "surface": "כן",
+      "gloss": "belə"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "sehrbazlar"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "lahətləri ilə"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "çıxarmaq üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bitləri"
+    },
+    {
+      "surface": "הכנים",
+      "gloss": "bitləri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "bacarmadılar"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "və oldu"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "bit"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "insanda"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "və heyvanda"
+    }
+  ],
+  "timestamp": "2026-09-01T10:07:50.312451607Z",
+  "model": "glm-5.3"
+}

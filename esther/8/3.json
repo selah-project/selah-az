@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 8:3",
+  "book": "esther",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Ester yenə davam edib padşahın hüzurunda danışdı və padşahın ayaqlarının önünə düşdü, ağladı və ona yalvarıb xahiş etdi ki, Haman Aqaqinin şərini və ⟨את⟩ Yəhudilər əleyhinə qurduğu ⟨את⟩ hiyləsini ləğv etdirsin.",
+  "tokens": [
+    {
+      "surface": "ותוסף",
+      "gloss": "yenə davam etdi"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "danışdı"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hüzurunda"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "padşahın"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "düşdü"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önünə"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ayaqlarının"
+    },
+    {
+      "surface": "ותבך",
+      "gloss": "ağladı"
+    },
+    {
+      "surface": "ותתחנן",
+      "gloss": "yalvarıb xahiş etdi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "ləğv etdirsin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "şərini"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "şərini"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamanın"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "Aqaqinin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hiyləsini"
+    },
+    {
+      "surface": "מחשבתו",
+      "gloss": "hiyləsini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "qurduğu"
+    },
+    {
+      "surface": "על",
+      "gloss": "əleyhinə"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yəhudilər"
+    }
+  ],
+  "timestamp": "2026-09-01T16:37:22.507540298Z",
+  "model": "glm-5.3"
+}

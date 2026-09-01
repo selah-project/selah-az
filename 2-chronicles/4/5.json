@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 4:5",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Qalınlığı bir qarış idi, kənarı isə lapir kənarının işi kimi, susən çiçəyi kimi ⟨idi⟩; üç min bat tutuşdururdu.",
+  "tokens": [
+    {
+      "surface": "ועביו",
+      "gloss": "Qalınlığı"
+    },
+    {
+      "surface": "טפח",
+      "gloss": "bir qarış"
+    },
+    {
+      "surface": "ושפתו",
+      "gloss": "kənarı"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "işi kimi"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "kənarı"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "lapirin"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "çiçək"
+    },
+    {
+      "surface": "שושנה",
+      "gloss": "susən"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "tutuşdururdu"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "bat"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "üç"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "min"
+    },
+    {
+      "surface": "יכיל",
+      "gloss": "tuturdu"
+    }
+  ],
+  "timestamp": "2026-09-01T17:13:35.748634446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 89,
+  "translation": "Xeyir-dua olunsun Yahve-yə ⟨əbədiyyətə⟩, amen və amen.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Xeyir-dua olunsun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "⟨əbədiyyətə⟩"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "və amen"
+    }
+  ],
+  "timestamp": "2026-09-01T15:31:08.050633953Z",
+  "model": "glm-5.3"
+}

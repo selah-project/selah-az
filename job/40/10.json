@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 40:10",
+  "book": "job",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "İndi isə qürurla və ucalıqla bəzən, izzəti və əzəməti geyin.",
+  "tokens": [
+    {
+      "surface": "עדה",
+      "gloss": "bəzən"
+    },
+    {
+      "surface": "נא",
+      "gloss": "indi isə"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "qürurla"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "və ucalıqla"
+    },
+    {
+      "surface": "והוד",
+      "gloss": "izzəti"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "və əzəməti"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "geyin"
+    }
+  ],
+  "timestamp": "2026-09-01T16:18:42.248122157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Paronun qullarından Yahvenin sözündən qorxan, ⟨את⟩ qullarını və ⟨את⟩ mal-qarasını evlərə sığındırdı.",
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "qorxan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sözünü"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sözünü"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "qullarından"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paronun"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "sığındırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qullarını"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "qullarını"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mal-qarasını"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "mal-qarasını"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "evlərə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:06:59.772017885Z",
+  "model": "glm-5.3"
+}

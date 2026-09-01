@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "Və ⟨את⟩ ətriyyatı və ⟨את⟩ yağı — çıraq üçün, məsh yağı üçün və ətirli buxur üçün.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "ətriyyat"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "ətriyyat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "yağ"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "yağ"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "çıraq üçün"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "və yağ üçün"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "məsh yağı"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "və buxur üçün"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "ətirli otların"
+    }
+  ],
+  "timestamp": "2026-09-01T10:20:24.629377537Z",
+  "model": "glm-5.3"
+}

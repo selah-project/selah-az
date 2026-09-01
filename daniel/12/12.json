@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 12:12",
+  "book": "daniel",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Necə xoşbəxtdir gözləyib min üç yüz otuz beş günə çatan!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "necə xoşbəxtdir"
+    },
+    {
+      "surface": "המחכה",
+      "gloss": "gözləyən"
+    },
+    {
+      "surface": "ויגיע",
+      "gloss": "çatan"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "günə"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "min"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "üç"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "otuz"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "və beş"
+    }
+  ],
+  "timestamp": "2026-09-01T16:46:48.219456783Z",
+  "model": "glm-5.3"
+}

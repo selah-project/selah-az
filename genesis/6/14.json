@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Özünə gofər ağacından bir sandıq düzəlt; sandığı oyuqlarla düzəlt və ⟨את⟩ onu içdən və qıfdan (tanı) islanmış kəfərlə ört.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "düzəlt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "özünə"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "sandıq"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ağacından"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "gofər"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "oyuqlarla"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "düzəlt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandığı"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "sandığı"
+    },
+    {
+      "surface": "וכפרת",
+      "gloss": "və ört"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ onu"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "içdən"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "və xaricdən"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "kəfərlə"
+    }
+  ],
+  "timestamp": "2026-09-01T09:47:57.299688438Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 2:4",
+  "book": "esther",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və kralın gözünə yatan qız Vaşti yerinə kraliça olsun. Və bu söz kralın gözünə yatdı və o, belə etdi.",
+  "tokens": [
+    {
+      "surface": "והנערה",
+      "gloss": "və qız"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תיטב",
+      "gloss": "yatar"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "gözünə"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "תמלך",
+      "gloss": "kraliça olsun"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "yerinə"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vaşti"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "və yatdı"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "bu söz"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "gözünə"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "və etdi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "belə"
+    }
+  ],
+  "timestamp": "2026-09-01T16:34:50.001660959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 17,
+  "translation": "Məni gözün bəbəyi kimi qoru, qanadlarının kölgəsində məni gizlət.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "məni qoru"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "bəbək kimi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qızı"
+    },
+    {
+      "surface": "עין",
+      "gloss": "gözün"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "kölgəsində"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "qanadlarının"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "məni gizlət"
+    }
+  ],
+  "timestamp": "2026-09-01T15:04:21.603149710Z",
+  "model": "glm-5.3"
+}

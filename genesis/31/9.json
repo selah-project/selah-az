@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "Beləliklə Elohim atanızın mal-qarasını ⟨את⟩ alıb götürdü və mənə verdi.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "alıb götürdü"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mal-qara"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "mal-qarasını"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "atanızın"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "verdi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    }
+  ],
+  "timestamp": "2026-09-01T09:56:21.581198168Z",
+  "model": "glm-5.3"
+}

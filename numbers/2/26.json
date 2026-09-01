@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 2:26",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Və onun dəstəsi, və onların sayılmışları: altmış iki min yeddi yüz ⟨nəfər⟩.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "və onun dəstəsi"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "və onların sayılmışları"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iki"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "və altmış"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "min"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "yeddi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yüz"
+    }
+  ],
+  "timestamp": "2026-09-01T10:33:01.585338168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 1:12",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və nə qədər onu əzdilərsə, o qədər çoxaldı və o qədər yayıldı; və İsrail oğullarının üzündən ⟨onlar⟩ iyrənc duydular.",
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "və nə qədər"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "əzdilərsə"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "o qədər"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "çoxaldı"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "və o qədər"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "yayıldı"
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "iyrənc duydular"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "üzündən"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    }
+  ],
+  "timestamp": "2026-09-01T10:03:53.524619890Z",
+  "model": "glm-5.3"
+}

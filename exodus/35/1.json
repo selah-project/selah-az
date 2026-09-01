@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 35:1",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "Və Moşe İsrail oğullarının bütün cəmiyyətini ⟨את⟩ topladı və onlara dedi: Bunlar Yahvenin göstəriş verdiyi sözlərdir ⟨את⟩ ⟨onları⟩ yerinə yetirmək üçün.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "topladı"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün cəmiyyət"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "cəmiyyətini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bunlar"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sözlər"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "göstəriş verdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "yerinə yetirmək üçün"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨onları⟩",
+      "marks": "sözlər"
+    }
+  ],
+  "timestamp": "2026-09-01T17:56:45.088542767Z",
+  "model": "glm-5.3"
+}

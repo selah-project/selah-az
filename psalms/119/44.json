@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 119:44",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Və Tövratını qoruyum daima, əbədi və sonsuz.",
+  "tokens": [
+    {
+      "surface": "ואשמרה",
+      "gloss": "və qoruyum"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Sənin Tövratını"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daima"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "və sonsuz"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:12.950234031Z",
+  "model": "glm-5.3"
+}

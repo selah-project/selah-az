@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 22:25",
+  "book": "2-samuel",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Və Yahve mənə qaytardı — mənim salehliyimə görə, onun gözü qarşısında təmizliyimə görə.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "qaytardı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "כצדקתי",
+      "gloss": "salehliyimə görə"
+    },
+    {
+      "surface": "כברי",
+      "gloss": "təmizliyimə görə"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "qarşısında"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "onun gözü"
+    }
+  ],
+  "timestamp": "2026-09-01T12:07:08.235842909Z",
+  "model": "glm-5.3"
+}

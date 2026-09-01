@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 31:7",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "atanız isə məni aldatdı, muzumu on dəfə dəyişdi ⟨את⟩; amma Elohim ona izn vermədi ki, mənə şər etsin.",
+  "tokens": [
+    {
+      "surface": "ואביכן",
+      "gloss": "atanız isə"
+    },
+    {
+      "surface": "התל",
+      "gloss": "aldatdı"
+    },
+    {
+      "surface": "בי",
+      "gloss": "məni"
+    },
+    {
+      "surface": "והחלף",
+      "gloss": "dəyişdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muzum"
+    },
+    {
+      "surface": "משכרתי",
+      "gloss": "muzumu"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "on"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "dəfə"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma... etmədi"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "izn verdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "şər etməyə"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "mənimlə"
+    }
+  ],
+  "timestamp": "2026-09-01T09:56:03.966204834Z",
+  "model": "glm-5.3"
+}

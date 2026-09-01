@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 33:23",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "Sonra əlimi çəkəcəyəm və sən ⟨את⟩ arxamı görəcəksən, üzüm isə görünməyəcək.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "çıxaracağam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əlimi"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "əlimi"
+    },
+    {
+      "surface": "וראית",
+      "gloss": "görəcəksən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arxamı"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "arxamı"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "üzüm isə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "görünməyəcək (neqasiya: yox)"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "görüləcək"
+    }
+  ],
+  "timestamp": "2026-09-01T10:19:08.543876543Z",
+  "model": "glm-5.3"
+}

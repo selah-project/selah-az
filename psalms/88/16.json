@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 88,
+  "translation": "Mən səfilliyəm və gəncliyimdən bəri ölüm çağındayam; dəhşətlərini daşıdım, sarsılmışam.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "səfilliyəm"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "ölüm çağında"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "gəncliyimdən bəri"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "daşıdım"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "dəhşətlərini"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "sarsılmışam"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:26.052984499Z",
+  "model": "glm-5.3"
+}

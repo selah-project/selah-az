@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 42:6",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 42,
+  "translation": "Niyə yığılırsan, canım, və niyə mənim içimdə guruldayırsan? Elohimə ümid et, çünki hələ Ona təşəkkür edəcəyəm — üzünün nicatları ⟨üçün⟩.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Niyə"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "yığılırsan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "ותהמי",
+      "gloss": "və guruldayırsan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mənim içimdə"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "ümid et"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hələ"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "Ona təşəkkür edəcəyəm"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "nicatları"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "üzünün"
+    }
+  ],
+  "timestamp": "2026-09-01T15:14:19.329090456Z",
+  "model": "glm-5.3"
+}

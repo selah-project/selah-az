@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 119:22",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Üzərimdən təhqiri və xor baxışı uzaqlaşdır, çünki şəhadətlərini saxlamışam.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "uzaqlaşdır"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "üzərimdən"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "təhqiri"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "və xor baxışı"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "şəhadətlərini"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "saxlamışam"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:49.576772565Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 15:16",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Bir tora və bir mişpat ⟨olacaq⟩ sizin üçün və sizinlə qonaq qalan gər ⟨את⟩ üçün.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "tora"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "bir"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "və bir mişpat"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin üçün"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "və gər üçün"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "qonaq qalan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ⟨sizinlə⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T10:38:38.657409446Z",
+  "model": "glm-5.3"
+}

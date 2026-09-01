@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 40:13",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "Və ⟨את⟩ qapını ölçdü — bir otağın damından onun damına ⟨qədər⟩; eni iyirmi və beş dirsək, qapı qapının qarşısında.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "ölçdü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qapını"
+    },
+    {
+      "surface": "השער",
+      "gloss": "qapını"
+    },
+    {
+      "surface": "מגג",
+      "gloss": "damından"
+    },
+    {
+      "surface": "התא",
+      "gloss": "otağın"
+    },
+    {
+      "surface": "לגגו",
+      "gloss": "onun damına"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "eni"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iyirmi"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "və beş"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "dirsək"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "qapı"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "qarşısında"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "qapı"
+    }
+  ],
+  "timestamp": "2026-09-01T14:28:26.682292596Z",
+  "model": "glm-5.3"
+}

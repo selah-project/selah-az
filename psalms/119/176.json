@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 176,
+  "ref": "psalms 119:176",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Azmışam, itmiş qoyun kimi; qulunu axtar, çünki əmrlərini unutmuş deyiləm.",
+  "tokens": [
+    {
+      "surface": "תעיתי",
+      "gloss": "Azmışam"
+    },
+    {
+      "surface": "כשה",
+      "gloss": "qoyun kimi"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "itmiş"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "axtar"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "qulunu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "əmrlərini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "unutmuş deyiləm"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:12.649460135Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 35:2",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "Çiçək açacaq, bol-bol çiçək açacaq, hətta şadlanacaq və sevincək, nəşə ilə oxuyacaq; Ləvanonun əzəməti ona veriləcək, Karmelin və Şaronun gözəlliyi — onlar Yahvenin əzəmətini, Elohimimizin gözəlliyini görəcəklər.",
+  "tokens": [
+    {
+      "surface": "פרח",
+      "gloss": "çiçək açacaq"
+    },
+    {
+      "surface": "תפרח",
+      "gloss": "bol-bol çiçək açacaq"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "şadlanacaq"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hətta"
+    },
+    {
+      "surface": "גילת",
+      "gloss": "sevincək"
+    },
+    {
+      "surface": "ורנן",
+      "gloss": "və oxuyacaq"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "əzəməti"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Ləvanonun"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "veriləcək"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "gözəlliyi"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmelin"
+    },
+    {
+      "surface": "והשרון",
+      "gloss": "və Şaronun"
+    },
+    {
+      "surface": "המה",
+      "gloss": "onlar"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "görəcəklər"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "əzəmətini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "gözəlliyini"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimizin"
+    }
+  ],
+  "timestamp": "2026-09-01T13:04:52.644455883Z",
+  "model": "glm-5.3"
+}

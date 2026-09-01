@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Birinci ayda, ayın on dördündə, axşamlar arasında Pesah — Yahve üçün ⟨olandır⟩.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "ayda"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "birinci"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "dörd"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "on"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ayın"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "axşamlar"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:29:54.281519541Z",
+  "model": "glm-5.3"
+}

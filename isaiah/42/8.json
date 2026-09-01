@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 42,
+  "translation": "Mən Yahve, bu Mənim adımdır; izzətimi başqasına verməyəcəyəm, tərifimi oyma bütlərə ⟨verməyəcəyəm⟩.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "bu"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "adımdır"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "izzətimi"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "başqasına"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "verməyəcəyəm"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "tərifimi"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "oyma bütlərə"
+    }
+  ],
+  "timestamp": "2026-09-01T13:06:40.901233915Z",
+  "model": "glm-5.3"
+}

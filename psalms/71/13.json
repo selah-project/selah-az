@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 71:13",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 71,
+  "translation": "Canımın düşmənləri utansınlar və tükənsinlər; mənim pisliyimi axtaranlar tənə və utanc ⟨ilə⟩ örtülsünlər.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "utansınlar"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "tükənsinlər"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "düşmənləri"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımın"
+    },
+    {
+      "surface": "יעטו",
+      "gloss": "örtülsünlər"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "tənə"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "və utanc"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "axtaranlar"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "pisliyimi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:23:12.797575234Z",
+  "model": "glm-5.3"
+}

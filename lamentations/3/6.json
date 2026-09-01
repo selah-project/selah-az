@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 3:6",
+  "book": "lamentations",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Məni qaranlıqlarda oturtdu, əzəldən ⟨ölənlər⟩ kimi.",
+  "tokens": [
+    {
+      "surface": "במחשכים",
+      "gloss": "qaranlıqlarda"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "məni oturtdu"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "⟨ölənlər⟩ kimi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "əzəldən"
+    }
+  ],
+  "timestamp": "2026-09-01T16:25:42.456537292Z",
+  "model": "glm-5.3"
+}

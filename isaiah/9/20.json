@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 9:20",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 9,
+  "translation": "Menaşşe ⟨את⟩ Efrayimi ⟨dəvərir⟩, və Efrayim ⟨את⟩ Menaşşeni ⟨dəvərir⟩; birlikdə ⟨onlar⟩ Yehudaya qarşıdırlar. Bütün bunlara baxmayaraq Onun qəzəbi dinməyib, əli hələ də uzadılıb.",
+  "tokens": [
+    {
+      "surface": "מנשה",
+      "gloss": "Menaşşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrayimi"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimi"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "və Efrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menaşşeni"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menaşşeni"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "birlikdə"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨onlar⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "qarşı"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudaya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bunlara baxmayaraq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dinməyib (inkar)"
+    },
+    {
+      "surface": "שב",
+      "gloss": "dinməyib"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "Onun qəzəbi"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "hələ də"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "əli"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "uzadılıb"
+    }
+  ],
+  "timestamp": "2026-09-01T12:50:42.891072629Z",
+  "model": "glm-5.3"
+}

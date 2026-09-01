@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 31:25",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 31,
+  "translation": "Güc və izzət onun libasıdır, o ⟨isə⟩ axırıncı günə gülür.",
+  "tokens": [
+    {
+      "surface": "עז",
+      "gloss": "Güc"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "və izzət"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "onun libasıdır"
+    },
+    {
+      "surface": "ותשחק",
+      "gloss": "o gülür"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "günə"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "axırıncı"
+    }
+  ],
+  "timestamp": "2026-09-01T16:01:46.589404347Z",
+  "model": "glm-5.3"
+}

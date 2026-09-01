@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 40,
+  "translation": "Yosef səhər onların yanına gəldi və onlara ⟨את⟩ baxdı, və bax ⟨onlar⟩ qəmli idilər.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "gəldi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "onların yanına"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "səhər"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "baxdı"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onlara"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "və bax ⟨onlar⟩"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "qəmli idilər"
+    }
+  ],
+  "timestamp": "2026-09-01T09:59:08.908404134Z",
+  "model": "glm-5.3"
+}

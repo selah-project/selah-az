@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 22:25",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Çünki zəlilin zəlilliyini xorlamadı və iyrənc saymadı, üzünü ondan gizlətmədi; o, Ona fəryad etdikdə eşitdi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "xorlamadı"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "iyrənc saymadı"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "zəlilliyini"
+    },
+    {
+      "surface": "עני",
+      "gloss": "zəlilin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "gizlətmədi"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "üzünü"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "ובשועו",
+      "gloss": "fəryad etdikdə"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eşitdi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:07:31.127992887Z",
+  "model": "glm-5.3"
+}

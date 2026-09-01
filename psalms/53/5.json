@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 53,
+  "translation": "Məgər bilmirlərmi avn-in işləyənləri — xalqımı yeyənlər çörək yedilər, Elohimi çağırmadılar?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Məgər ... -mi"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bilmirlər"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "işləyənləri"
+    },
+    {
+      "surface": "און",
+      "gloss": "avn-in (nalayiq işin)"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "yeyənlər"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqımı"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "yedilər"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "çörək"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-mə"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "çağırmadılar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:19:17.039985918Z",
+  "model": "glm-5.3"
+}

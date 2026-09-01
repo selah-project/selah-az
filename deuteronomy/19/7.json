@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 19:7",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Buna görə mən sənə əmr edirəm, deyərək: özün üçün üç şəhər ayır.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "buna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "görə"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mən"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "sənə əmr edirəm"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "üç"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "şəhər"
+    },
+    {
+      "surface": "תבדיל",
+      "gloss": "ayırsan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "özün üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:52:30.020837927Z",
+  "model": "glm-5.3"
+}

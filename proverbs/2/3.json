@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "əgər dərk üçün səsləsən, dərk etməyə səsini ucaltsan",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "dərk üçün"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "səsləsən"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "derk etməyə"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ucaltsan"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "səsini"
+    }
+  ],
+  "timestamp": "2026-09-01T15:48:58.825670875Z",
+  "model": "glm-5.3"
+}

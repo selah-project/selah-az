@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 142,
+  "translation": "Səsimlə Yahveyə doğru qışqırıram, səsimlə Yahveyə yalvarıram.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "səsimlə"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yönündə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "qışqırıram"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "səsimlə"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yönündə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "yalvarıram"
+    }
+  ],
+  "timestamp": "2026-09-01T15:44:54.017385309Z",
+  "model": "glm-5.3"
+}

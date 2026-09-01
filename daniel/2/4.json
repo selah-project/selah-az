@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 2:4",
+  "book": "daniel",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "Kasdimlər padshaha aram dilində dedilər: Ey padşah, əbədi yaşa; yuxunu qullarına de, yozumunu biz göstərək.",
+  "tokens": [
+    {
+      "surface": "וידברו",
+      "gloss": "dedilər"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Kasdimlər"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "padşaha"
+    },
+    {
+      "surface": "ארמית",
+      "gloss": "aram dilində"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ey padşah"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "əbədi"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "yaşa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "de"
+    },
+    {
+      "surface": "חלמא",
+      "gloss": "yuxunu"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "qullarına"
+    },
+    {
+      "surface": "ופשרא",
+      "gloss": "yozumunu"
+    },
+    {
+      "surface": "נחוא",
+      "gloss": "göstərək"
+    }
+  ],
+  "timestamp": "2026-09-01T16:38:57.882308351Z",
+  "model": "glm-5.3"
+}

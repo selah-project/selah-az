@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 145:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 145,
+  "translation": "Adamların oğullarına onun qüdrət əməllərini, və onun məmləkətinin əzəmət izzətini bildirmək üçün.",
+  "tokens": [
+    {
+      "surface": "להודיע",
+      "gloss": "bildirmək üçün"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oğullarına"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "adamların"
+    },
+    {
+      "surface": "גבורתיו",
+      "gloss": "onun qüdrət əməllərini"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "və ... izzətini"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "əzəmət"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "onun məmləkətinin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:46:17.324656636Z",
+  "model": "glm-5.3"
+}

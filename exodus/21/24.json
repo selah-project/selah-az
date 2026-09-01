@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Göz gözün əvəzinə, diş dişin əvəzinə, əl əlin əvəzinə, ayaq ayağın əvəzinə.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "göz"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "əvəzinə"
+    },
+    {
+      "surface": "עין",
+      "gloss": "göz"
+    },
+    {
+      "surface": "שן",
+      "gloss": "diş"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "əvəzinə"
+    },
+    {
+      "surface": "שן",
+      "gloss": "diş"
+    },
+    {
+      "surface": "יד",
+      "gloss": "əl"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "əvəzinə"
+    },
+    {
+      "surface": "יד",
+      "gloss": "əl"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ayaq"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "əvəzinə"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ayaq"
+    }
+  ],
+  "timestamp": "2026-09-01T10:14:09.822066576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Bax ⟨mənə⟩, cavab ver mənə, Yahve, Elohimim! Gözlərimə işıq ver, yoxsa ölüm yuxusuna yatıram —",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "bax"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "cavab ver mənə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "işıq ver"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gözlərimə"
+    },
+    {
+      "surface": "פן",
+      "gloss": "yoxsa"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "yatıram"
+    },
+    {
+      "surface": "המות",
+      "gloss": "ölüm"
+    }
+  ],
+  "timestamp": "2026-09-01T15:04:54.530977541Z",
+  "model": "glm-5.3"
+}

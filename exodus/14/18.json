@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 14:18",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Və Mitsrayim biləcək ki, mən Yahveyəm — Paro üçün, onun döyüş arabaları üçün və süvariləri üçün izzətlənəndə.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "biləcək"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בהכבדי",
+      "gloss": "izzətlənəndə"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "Paro üçün"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "onun döyüş arabaları üçün"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "və süvariləri üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:10:00.526563351Z",
+  "model": "glm-5.3"
+}

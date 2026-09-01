@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Və ⟨bir⟩ sığınacaq olacaq: günduz istidən kölgə üçün, sığınacaq və gizlənmə yeri olacaq — tufandan və yağışdan.",
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "və sığınacaq"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olacaq"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "kölgə üçün"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "gündüz"
+    },
+    {
+      "surface": "מחרeb",
+      "gloss": "istidən"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "və sığınacaq olacaq"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "və gizlənmə yeri"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "tufandan"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "və yağışdan"
+    }
+  ],
+  "timestamp": "2026-09-01T12:47:16.489393263Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 141,
+  "ref": "psalms 119:141",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Kiçik mənəm və nifrətlə baxılan, ⟨ammа⟩ Sənin buyurqlarını unutmadım.",
+  "tokens": [
+    {
+      "surface": "צעיר",
+      "gloss": "kiçik"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mənəm"
+    },
+    {
+      "surface": "ונבזה",
+      "gloss": "və nifrətlə baxılan"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "Sənin buyurqlarını"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨amma⟩"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "unutmadım"
+    }
+  ],
+  "timestamp": "2026-09-01T15:40:54.021441031Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 25:28",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 25,
+  "translation": "Və danışdı onunla yaxşı sözlər, və qoydu ⟨את⟩ onun taxtını — padşahların taxtlarından yuxarı, ⟨את⟩ onlar ki onunla idilər Babılda.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "və danışdı"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onunla"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "yaxşı sözlər"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "və qoydu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onun taxtını"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "onun taxtını"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "yuxarı"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "taxtından"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "padşahların"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onunla"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "Babılda"
+    }
+  ],
+  "timestamp": "2026-09-01T12:46:10.803610062Z",
+  "model": "glm-5.3"
+}

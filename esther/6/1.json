@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 6:1",
+  "book": "esther",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "O gecə kralın yuxusu qaçdı və o, yaddaşlar kitabını, günlərin sözlərini ⟨את⟩ gətirməyi əmr etdi, və onlar kralın önündə oxundular.",
+  "tokens": [
+    {
+      "surface": "בלילה",
+      "gloss": "O gecə"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "נדדה",
+      "gloss": "qaçdı"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "yuxusu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "və əmr etdi"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "gətirməyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yaddaşlar kitabını"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitabını"
+    },
+    {
+      "surface": "הזכרנות",
+      "gloss": "yaddaşların"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sözlərini"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "günlərin"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "və oldular"
+    },
+    {
+      "surface": "נקראים",
+      "gloss": "oxunulanlar"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "önündə"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    }
+  ],
+  "timestamp": "2026-09-01T16:35:45.317007009Z",
+  "model": "glm-5.3"
+}

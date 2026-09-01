@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 53,
+  "translation": "Xor başçıya, Maḥalat ⟨üzerinə⟩; Davidin öyüd-nəsihəti.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "xor başçısına"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzerinə"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Maḥalat"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "öyüd-nəsihət"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:18:35.763541312Z",
+  "model": "glm-5.3"
+}

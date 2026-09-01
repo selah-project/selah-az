@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 134,
+  "translation": "Məqamat nəğməsi. Bakın, bərəkət deyin ⟨את⟩ Yahve-yə, ey Yahvenin bütün qulları, ey Yahve evində gecələr duranlar!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "nəğməsi"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "Məqamat (dərəcələr)"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bakın"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "bərəkət deyin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "qulları"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "duranlar"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "evində"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "gecələr"
+    }
+  ],
+  "timestamp": "2026-09-01T15:42:18.815041249Z",
+  "model": "glm-5.3"
+}

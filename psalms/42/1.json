@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 42,
+  "translation": "Nəğmə başçısına, Qorax oğullarının müdrik şeiri.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "nəğmə başçısına"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "müdrik şeiri"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qorax"
+    }
+  ],
+  "timestamp": "2026-09-01T15:14:29.172832305Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 21:30",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Əgər ona fidyə qoyulsa, canının qurtuluş bağı olaraq onun üstünə qoyulan hər şeyi versin.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "fidyə"
+    },
+    {
+      "surface": "יושת",
+      "gloss": "qoyulsa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üstünə"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "versin"
+    },
+    {
+      "surface": "פדין",
+      "gloss": "qurtuluş bağı"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "onun canı"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "hər şeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יושת",
+      "gloss": "qoyulan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üstünə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:15:56.139464064Z",
+  "model": "glm-5.3"
+}

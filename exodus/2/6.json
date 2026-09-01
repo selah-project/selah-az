@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 2:6",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 2,
+  "translation": "O, ⟨את⟩ açdı və onu gördü — ⟨את⟩ uşağı, və bax, oğlan ağlayırdı; ona acıdı və dedi: «Bu, ivrilərın uşaqlarından biridir.»",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "o, açdı"
+    },
+    {
+      "surface": "ותראהו",
+      "gloss": "və onu gördü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uşağı"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "uşağı"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "və bax"
+    },
+    {
+      "surface": "נער",
+      "gloss": "oğlan"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "ağlayırdı"
+    },
+    {
+      "surface": "ותחמל",
+      "gloss": "acıdı"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "מילדי",
+      "gloss": "uşaqlarından"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "ivrilərın"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-09-01T10:03:53.814748148Z",
+  "model": "glm-5.3"
+}

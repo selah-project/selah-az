@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 123,
+  "translation": "Lütf et bizə, ey Yahve, lütf et bizə, çünki çox toxmarıq istehza ilə.",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "Lütf et bizə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "lütf et bizə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "רב",
+      "gloss": "çox"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "toxmarıq"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "istehza ilə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:43:20.733702896Z",
+  "model": "glm-5.3"
+}

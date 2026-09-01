@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 84,
+  "translation": "Nə qədər sevimlidir sənin məskənlərin, ey Yahve Səbaot!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "nə qədər"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "sevimli"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "sənin məskənlərin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Səbaot"
+    }
+  ],
+  "timestamp": "2026-09-01T15:30:57.043688850Z",
+  "model": "glm-5.3"
+}

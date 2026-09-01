@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 18:20",
+  "book": "joshua",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Yarden isə şərq tərəfdən onu ⟨את⟩ sərhədləyirdi. Bu, öz sərhədləri daxilində, ailələrinə görə Binjamin oğullarının mülküdür ⟨ətrafında⟩.",
+  "tokens": [
+    {
+      "surface": "והירדן",
+      "gloss": "Yarden isə"
+    },
+    {
+      "surface": "יגבל",
+      "gloss": "sərhədləyirdi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "onu (sərhədi)"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "tərəfdən"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "şərq"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Bu"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "mülküdür"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "לגבולתיה",
+      "gloss": "sərhədləri daxilində"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "⟨ətrafında⟩"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ailələrinə görə"
+    }
+  ],
+  "timestamp": "2026-09-01T11:10:08.561511083Z",
+  "model": "glm-5.3"
+}

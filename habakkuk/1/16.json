@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "habakkuk 1:16",
+  "book": "habakkuk",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Buna görə toruna qurban kəsir və şəbəkəsinə buxur verir, çünki onun payı yağlı, onun yeməyi kökdür.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "buna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "görə"
+    },
+    {
+      "surface": "יזבח",
+      "gloss": "qurban kəsir"
+    },
+    {
+      "surface": "לחרמו",
+      "gloss": "toruna"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "və buxur verir"
+    },
+    {
+      "surface": "למכמרתו",
+      "gloss": "şəbəkəsinə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "⟨onlarla⟩"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "yağlı"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "onun payı"
+    },
+    {
+      "surface": "ומאכלו",
+      "gloss": "və onun yeməyi"
+    },
+    {
+      "surface": "בראה",
+      "gloss": "kökdür"
+    }
+  ],
+  "timestamp": "2026-09-01T14:49:31.154088081Z",
+  "model": "glm-5.3"
+}

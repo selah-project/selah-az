@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Səfehlərin əməyi onları yorar, çünki ⟨onlar⟩ şəhərə getməyi bilmirlər.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "əməyi"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "səfehlərin"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "yorar onları"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilir"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "getməyi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "elə"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şəhərə"
+    }
+  ],
+  "timestamp": "2026-09-01T16:31:13.150765865Z",
+  "model": "glm-5.3"
+}

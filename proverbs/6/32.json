@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 6:32",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Arvadla zina edən ürəkdən məhrumdur; öz canını məhv edən ⟨odur⟩ ki, bunu edər.",
+  "tokens": [
+    {
+      "surface": "נאף",
+      "gloss": "zina edən"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "arvadla"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "məhrumdur"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ürəkdən"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "məhv edən"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "canını"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "יעשנה",
+      "gloss": "bunu edər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:50:20.358842219Z",
+  "model": "glm-5.3"
+}

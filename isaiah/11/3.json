@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 11:3",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Və ⟨o⟩ Yahve qorxusunda qoxlayacaq ⟨hökmlər verəcək⟩; gözlərinin gördüyünə görə mühakimə etməyəcək, qulaqlarının eşitdiyinə görə qərar verməyəcək.",
+  "tokens": [
+    {
+      "surface": "והריחו",
+      "gloss": "və qoxlayacaq"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "qorxusunda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... yox"
+    },
+    {
+      "surface": "למראה",
+      "gloss": "gördüyünə görə"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "gözlərinin"
+    },
+    {
+      "surface": "ישפוט",
+      "gloss": "mühakimə etməyəcək"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ... yox"
+    },
+    {
+      "surface": "למשמע",
+      "gloss": "eşitdiyinə görə"
+    },
+    {
+      "surface": "אזניו",
+      "gloss": "qulaqlarının"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "qərar verməyəcək"
+    }
+  ],
+  "timestamp": "2026-09-01T12:52:34.595568733Z",
+  "model": "glm-5.3"
+}

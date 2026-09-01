@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 38:20",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 38,
+  "translation": "Yehuda keçi balasını ⟨את⟩ dostu Adullamlının əli ilə göndərdi — qadının əlindən girovu geri almaq üçün — amma ⟨onu⟩ tapa bilmədi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "göndərdi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keçi balası"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "keçi balası"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "keçi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "əli ilə"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "dostu"
+    },
+    {
+      "surface": "העדלמי",
+      "gloss": "Adullamlı"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "geri almaq üçün"
+    },
+    {
+      "surface": "הערבון",
+      "gloss": "girov"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "əlindən"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "qadının"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma... bilmədi"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "tapa"
+    }
+  ],
+  "timestamp": "2026-09-01T09:59:29.898669657Z",
+  "model": "glm-5.3"
+}

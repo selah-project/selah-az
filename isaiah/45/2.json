@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 45:2",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 45,
+  "translation": "Mən sənin önündə gedəcəyəm, və əyri yerləri düz edəcəyəm, mis qapıları sındıracağam və dəmir barmaqlıqları qıracağam.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mən"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sənin önündə"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "gedəcəyəm"
+    },
+    {
+      "surface": "והדורים",
+      "gloss": "və əyri yerləri"
+    },
+    {
+      "surface": "אושר",
+      "gloss": "düz edəcəyəm"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "qapıları"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "mis"
+    },
+    {
+      "surface": "אשבר",
+      "gloss": "sındıracağam"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "və barmaqlıqları"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "dəmir"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "qıracağam"
+    }
+  ],
+  "timestamp": "2026-09-01T13:11:40.332328969Z",
+  "model": "glm-5.3"
+}

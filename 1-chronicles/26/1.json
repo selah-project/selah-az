@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 26:1",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 26,
+  "translation": "Qapıçıların dəstələrinə görə: korhilitlərdən Meşelemyahu, Kore oğlu, Asaf oğullarından idi.",
+  "tokens": [
+    {
+      "surface": "למחלקות",
+      "gloss": "dəstələrinə görə"
+    },
+    {
+      "surface": "לשערים",
+      "gloss": "qapıçıların"
+    },
+    {
+      "surface": "לקרחים",
+      "gloss": "korhilitlərdən"
+    },
+    {
+      "surface": "משלמיהו",
+      "gloss": "Meşelemyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Kore"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğulları"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Asaf"
+    }
+  ],
+  "timestamp": "2026-09-01T17:08:13.090796695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 46:5",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 46,
+  "translation": "Çay — onun arxları Elohim şəhərini sevindirir, Elyonun məskənlərinin müqəddəs ⟨yeri⟩.",
+  "tokens": [
+    {
+      "surface": "נהר",
+      "gloss": "çay"
+    },
+    {
+      "surface": "פלגיו",
+      "gloss": "onun arxları"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "sevindirir"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "şəhərini"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "məskənlərinin"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyonun"
+    }
+  ],
+  "timestamp": "2026-09-01T15:16:32.392290074Z",
+  "model": "glm-5.3"
+}

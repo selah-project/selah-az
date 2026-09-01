@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 30:4",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Əgər sənin sürgünü göylərin ucqarında olsa, oradan səni toplayacaq Yahve Elohimin, və oradan səni götürəcək.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olsa"
+    },
+    {
+      "surface": "נדחך",
+      "gloss": "sənin sürgünü"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "ucqarında"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göylərin"
+    },
+    {
+      "surface": "משם",
+      "gloss": "oradan"
+    },
+    {
+      "surface": "יקבצך",
+      "gloss": "səni toplayacaq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "və oradan"
+    },
+    {
+      "surface": "יקחך",
+      "gloss": "səni götürəcək"
+    }
+  ],
+  "timestamp": "2026-09-01T10:57:38.488857299Z",
+  "model": "glm-5.3"
+}

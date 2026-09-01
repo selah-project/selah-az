@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 86:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 86,
+  "translation": "Bütün qəlbimlə sənə şükür edəcəyəm, ey Adonay, mənim Elohimim; və adını əbədi ucaldacağam.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "sənə şükür edəcəyəm"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mənim Elohimim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "qəlbimlə"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "və ucaldacağam"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "adını"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:29:20.398412824Z",
+  "model": "glm-5.3"
+}

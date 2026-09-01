@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "jeremiah 32:28",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "Buna görə belə deyir Yahve: Bax, Mən bu şəhəri Kasdimlərin əlinə, Babil padşahı Nevuxadrettsarın əlinə verirəm, və o onu tutacaq.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Buna görə"
+    },
+    {
+      "surface": "כה",
+      "gloss": "belə"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Bax, Mən"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verirəm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu şəhəri"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şəhəri"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "əlinə"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Kasdimlərin"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "və ... əlinə"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "Nevuxadrettsarın"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşahı"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babil"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "və o onu tutacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T13:43:41.662227512Z",
+  "model": "glm-5.3"
+}

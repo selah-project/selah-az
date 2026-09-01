@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Və onunla ⟨את⟩ görüş çadırını və ⟨את⟩ şəhadət sandığını məsh edəcəksən.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "məsh edəcəksən"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onunla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "görüş çadırını"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "çadır"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "görüş"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "şəhadət sandığını"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandıq"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "şəhadətin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:17:52.473468390Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 14:5",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 14,
+  "translation": "Əmin şahid yalan söyləməz, yalanlar üfləyən isə yalan şahididir.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "şahid"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "əmin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "יכזב",
+      "gloss": "yalan söyləyər"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "və üfləyər"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "yalanlar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "şahidi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yalan"
+    }
+  ],
+  "timestamp": "2026-09-01T15:53:27.435514263Z",
+  "model": "glm-5.3"
+}

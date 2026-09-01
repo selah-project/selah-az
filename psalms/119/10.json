@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 119,
+  "translation": "Bütün ürəyimlə Səni axtardım; məni əmrlərindən azdırma.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ürəyimlə"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "Səni axtardım"
+    },
+    {
+      "surface": "אל",
+      "gloss": "azdırma (negativ əmr üçün)"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "məni azdırma"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "əmrlərindən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:39:46.824278078Z",
+  "model": "glm-5.3"
+}

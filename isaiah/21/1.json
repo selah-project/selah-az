@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 21:1",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Yük: dəniz səhrasının — qasırğalar kimi cənubda ötüb keçmək üçün; səhradan ⟨o⟩ gəlir, qorxunc ölkədən.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "yük"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "səhrası"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dəniz"
+    },
+    {
+      "surface": "כסופות",
+      "gloss": "qasırğalar kimi"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "cənubda"
+    },
+    {
+      "surface": "לחלף",
+      "gloss": "ötüb keçmək üçün"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "səhradan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gəlir"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ölkədən"
+    },
+    {
+      "surface": "נוראה",
+      "gloss": "qorxunc"
+    }
+  ],
+  "timestamp": "2026-09-01T12:55:30.059143585Z",
+  "model": "glm-5.3"
+}

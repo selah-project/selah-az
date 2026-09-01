@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 54:6",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 54,
+  "translation": "Çünki Yahve səni tərk edilmiş və ruhu qəmgin arvad kimi çağırdı, gəncliyin arvadını — rədd edildiyi zaman ⟨belə⟩ — deyir sənin Elohimin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "כאשה",
+      "gloss": "arvad kimi"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "tərk edilmiş"
+    },
+    {
+      "surface": "ועצובת",
+      "gloss": "qəmgin"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhu"
+    },
+    {
+      "surface": "קראך",
+      "gloss": "səni çağırdı"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "arvadını"
+    },
+    {
+      "surface": "נעורים",
+      "gloss": "gəncliyin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨belə⟩ — rədd edildiyi zaman"
+    },
+    {
+      "surface": "תמאס",
+      "gloss": "rədd edildiyi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sənin Elohimin"
+    }
+  ],
+  "timestamp": "2026-09-01T13:14:04.593480303Z",
+  "model": "glm-5.3"
+}

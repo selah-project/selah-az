@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 4:21",
+  "book": "job",
+  "lang": "az",
+  "chapter": 4,
+  "translation": "Məgər onların çadır kəndiri onlardan çəkilib çıxarılmırmı? Ölərlər, hətta kamalsız ⟨ölərlər⟩.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "məgər... -mı"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "çəkilib çıxarılmır"
+    },
+    {
+      "surface": "יתרם",
+      "gloss": "onların çadır kəndiri"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onlardan"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "ölərlər"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "kamal"
+    }
+  ],
+  "timestamp": "2026-09-01T17:43:44.207106768Z",
+  "model": "glm-5.3"
+}

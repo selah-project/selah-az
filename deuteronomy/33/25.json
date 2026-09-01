@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 33:25",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 33,
+  "translation": "Dəmir və tunc ⟨olsun⟩ sənin bağlıqların, və günlərin necədirsə, dincəlməyin də ⟨elə⟩ olsun.",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "dəmir"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "və tunc"
+    },
+    {
+      "surface": "מנעליך",
+      "gloss": "sənin bağlıqların"
+    },
+    {
+      "surface": "וכימיך",
+      "gloss": "və günlərin necədirsə"
+    },
+    {
+      "surface": "דבאך",
+      "gloss": "dincəlməyin"
+    }
+  ],
+  "timestamp": "2026-09-01T10:59:02.921027025Z",
+  "model": "glm-5.3"
+}

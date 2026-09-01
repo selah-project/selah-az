@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 41:25",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 41,
+  "translation": "Şimaldan oyatdım, və o gəldi; günəşin doğduğu yerdən o Mənim adımla çağırır; o hökmdarların üstünə əhəng kimi gələcək və dulus gili tapdaladığı kimi tapdalayacaq.",
+  "tokens": [
+    {
+      "surface": "העירותי",
+      "gloss": "oyatdım"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "şimaldan"
+    },
+    {
+      "surface": "ויאת",
+      "gloss": "və gəldi"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "doğuluqdan"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "günəş"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "çağırır"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "Mənim adımla"
+    },
+    {
+      "surface": "ובא→והוא יבוא",
+      "gloss": "və gələcək",
+      "surface_alt": "ובא"
+    },
+    {
+      "surface": "סגנים",
+      "gloss": "hökmdarların üstünə"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "əhəng"
+    },
+    {
+      "surface": "וכמו",
+      "gloss": "və ... kimi"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "dulus"
+    },
+    {
+      "surface": "ירמס",
+      "gloss": "tapdalayacaq"
+    },
+    {
+      "surface": "טיט",
+      "gloss": "gili"
+    }
+  ],
+  "timestamp": "2026-09-01T13:08:11.399137562Z",
+  "model": "glm-5.3"
+}

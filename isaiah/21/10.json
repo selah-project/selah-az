@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 21:10",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "Ey mənim döyülmüşlərim, ey mənim harmamın oğlu: Yahve Sevaotdan, İsrailin Elohimindən eşitdiyimi sizə bildirdim.",
+  "tokens": [
+    {
+      "surface": "מדשתי",
+      "gloss": "mənim döyülmüşlərim"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "və oğlu"
+    },
+    {
+      "surface": "גרני",
+      "gloss": "mənim harmamın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨o ki⟩"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "eşitdiyimi"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ...dan",
+      "marks": "Yahve Sevaot, İsrailin Elohimindən"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sevaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailin"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "bildirdim"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:53:56.146476433Z",
+  "model": "glm-5.3"
+}

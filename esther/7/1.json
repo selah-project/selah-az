@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Və kral gəldi və Haman Ester kraliça ⟨ilə⟩ içməyə.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "və gəldi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kral"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "və Haman"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "içməyə"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨ilə⟩"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "kraliça"
+    }
+  ],
+  "timestamp": "2026-09-01T16:37:22.108297551Z",
+  "model": "glm-5.3"
+}

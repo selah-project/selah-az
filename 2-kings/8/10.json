@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 8:10",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Elişa ona dedi: Get, ona de: ⟨Sağalacaqsan⟩; lakin Yahve mənə göstərdi ki, o, mütləq öləcək.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "və dedi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elişa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "get"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "de"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sağalacaqsan"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "⟨yaşayacaqsan⟩"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "⟨sağalacaqsan⟩"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "və mənə göstərdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mütləq"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "öləcək"
+    }
+  ],
+  "timestamp": "2026-09-01T12:33:23.974260954Z",
+  "model": "glm-5.3"
+}

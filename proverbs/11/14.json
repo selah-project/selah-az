@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 11:14",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "İdarəsizlikdə xalq yıxılar, qurtuluş isə çox məsləhətçidə ⟨olur⟩.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "idasizlikdə"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "idarəsizlikdə"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "yıxılar"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "ותשועה",
+      "gloss": "qurtuluş isə"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "çox"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "məsləhətçidə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:52:19.315491539Z",
+  "model": "glm-5.3"
+}

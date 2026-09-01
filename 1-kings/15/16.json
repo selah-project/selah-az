@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 15:16",
+  "book": "1-kings",
+  "lang": "az",
+  "chapter": 15,
+  "translation": "Və Asa ilə Yisrael kralı Başa arasında onların bütün günlərində müharibə oldu.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "və müharibə"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "oldu"
+    },
+    {
+      "surface": "בין",
+      "gloss": "arasında"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "və"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baña"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraelin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "günlərində"
+    }
+  ],
+  "timestamp": "2026-09-01T12:21:41.541533926Z",
+  "model": "glm-5.3"
+}

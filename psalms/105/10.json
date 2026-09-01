@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 105:10",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 105,
+  "translation": "Onu Yaaqova qanun olaraq qoydu, İsrailə əbədi əhd olaraq.",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "qoydu"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yaaqova"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "qanun olaraq"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "İsrailə"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "əhd"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "əbədi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:35:30.365457706Z",
+  "model": "glm-5.3"
+}

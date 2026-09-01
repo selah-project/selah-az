@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 10:11",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 10,
+  "translation": "Məgər Şomerona və onun butlarına etdiyimi Yeruşalayıma və onun oyma bütlərinə etməyəcəyəmmi?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "məgər … -mı"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "etdiyimi"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "etdim"
+    },
+    {
+      "surface": "לשמרון",
+      "gloss": "Şomerona"
+    },
+    {
+      "surface": "ולאליליה",
+      "gloss": "butlarına"
+    },
+    {
+      "surface": "כן",
+      "gloss": "beləcə"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "edəcəyəm"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Yeruşalayıma"
+    },
+    {
+      "surface": "ולעצביה",
+      "gloss": "oyma bütlərinə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:50:35.337758998Z",
+  "model": "glm-5.3"
+}

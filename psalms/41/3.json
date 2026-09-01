@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 41,
+  "translation": "Yahve onu qoruyacaq və onu dirildəcək; yer üzündə onu xoşbəxt edəcək; onu düşmənlərinin nəfsinə təslim ⟨etmə⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "onu qoruyacaq"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "və onu dirildəcək"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "xoşbəxt edəcək"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yer üzündə"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "və... etmə"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "onu təslim ⟨etmə⟩"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "nəfsinə"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "düşmənlərinin"
+    }
+  ],
+  "timestamp": "2026-09-01T15:14:03.033765096Z",
+  "model": "glm-5.3"
+}

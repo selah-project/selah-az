@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 72,
+  "translation": "Bütün krallər ona səcdə edəcəklər, bütün millətlər ona xidmət edəcəklər.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "səcdə edəcəklər"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "krallər"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "millətlər"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "ona xidmət edəcəklər"
+    }
+  ],
+  "timestamp": "2026-09-01T15:22:53.040265531Z",
+  "model": "glm-5.3"
+}

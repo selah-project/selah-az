@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 94:13",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 94,
+  "translation": "⟨Ona⟩ pis günlərdən dinclik vermək üçün, ta ki, rəşiyq üçün çuxur qazılanadək.",
+  "tokens": [
+    {
+      "surface": "להשקיט",
+      "gloss": "dinclik vermək üçün"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "günlərindən"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pis"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ta ki"
+    },
+    {
+      "surface": "יכרה",
+      "gloss": "qazılanadək"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "rəşiyq üçün"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "çuxur"
+    }
+  ],
+  "timestamp": "2026-09-01T15:32:32.403414701Z",
+  "model": "glm-5.3"
+}

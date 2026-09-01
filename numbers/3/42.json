@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 3:42",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Və Moşe Yahvenin ona əmr etdiyi kimi İsrail oğullarının bütün bəkərlərinin ⟨את⟩ sayını apardı.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "sayını apardı"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "əmr etdiyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onu",
+      "marks": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün bəkərlərin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "bəkərlərin"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    }
+  ],
+  "timestamp": "2026-09-01T10:33:00.628628221Z",
+  "model": "glm-5.3"
+}

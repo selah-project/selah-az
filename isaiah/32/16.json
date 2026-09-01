@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 32:16",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 32,
+  "translation": "və məhkəmə səhrada sakin olacaq, ədalət isə kərmeldə oturacaq.",
+  "tokens": [
+    {
+      "surface": "ושכן",
+      "gloss": "və sakin olacaq"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "səhrada"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "məhkəmə"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ədalət isə"
+    },
+    {
+      "surface": "בכרמל",
+      "gloss": "kərmeldə"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "oturacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T12:59:46.216540647Z",
+  "model": "glm-5.3"
+}

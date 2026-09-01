@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 36,
+  "translation": "Və Adah Esava ⟨את⟩ Elifazı doğdu, və Bosmat ⟨את⟩ Reueli doğdu.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "Və ... doğdu"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adah"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Esava"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elifazı"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifazı"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "və Bosmat"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "doğdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reueli"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reueli"
+    }
+  ],
+  "timestamp": "2026-09-01T09:57:31.586858098Z",
+  "model": "glm-5.3"
+}

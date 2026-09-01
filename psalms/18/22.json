@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 18:22",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Çünki mən Yahvenin yollarını qorudum və Elohimimdən ⟨qayıtmaqla⟩ pislik etmədim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "qorudum"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "yollarını"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və etmədim"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "pislik"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "Elohimimdən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:05:56.494267843Z",
+  "model": "glm-5.3"
+}

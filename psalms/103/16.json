@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 103,
+  "translation": "Çünki külək onun üstündən keçər, və o, artıq yoxdur; onun yeri də onu artıq tanımaz.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "külək"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "keçər"
+    },
+    {
+      "surface": "בו",
+      "gloss": "onun üstündən"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "və o, artıq yoxdur"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və … də"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "tanımaz"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "artıq"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "onun yeri"
+    }
+  ],
+  "timestamp": "2026-09-01T15:33:51.448904980Z",
+  "model": "glm-5.3"
+}

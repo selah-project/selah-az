@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 21:15",
+  "book": "2-chronicles",
+  "lang": "az",
+  "chapter": 21,
+  "translation": "və sən özün bağırsaqlarının xəstəliyi ilə çox xəstəliklərdə olacaqsan, ta ki xəstəlikdən bağırsaqların çıxana qədər, gün üstünə gün.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "və sən özün"
+    },
+    {
+      "surface": "בחליים",
+      "gloss": "xəstəliklərdə"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "çox"
+    },
+    {
+      "surface": "במחלה",
+      "gloss": "xəstəliyi ilə"
+    },
+    {
+      "surface": "מעיך",
+      "gloss": "bağırsaqlarının"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ta ki"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "çıxana qədər"
+    },
+    {
+      "surface": "מעיך",
+      "gloss": "bağırsaqların"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dən"
+    },
+    {
+      "surface": "החלי",
+      "gloss": "xəstəlikdən"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gün"
+    }
+  ],
+  "timestamp": "2026-09-01T17:19:11.494877599Z",
+  "model": "glm-5.3"
+}

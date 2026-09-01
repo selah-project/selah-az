@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "Çünki haqsız olaraq mənim üçün çuxur gizlətdilər — torlarını; haqsız olaraq canım üçün çuxur qazdılar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "haqsız olaraq"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "gizlətdilər"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənim üçün"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "çuxur"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "torlarını"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "haqsız olaraq"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "qazdılar"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "canım üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T15:11:14.288926761Z",
+  "model": "glm-5.3"
+}

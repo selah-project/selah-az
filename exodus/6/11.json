@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 6:11",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 6,
+  "translation": "Gir, Mitsrayim padşahı Paroya danış, o da İsrail oğullarını öz torpağından buraxsın.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "Gir"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "danış"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşahı"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "buraxsın"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "İsrail oğullarını"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oğullarını"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrail"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "öz torpağından"
+    }
+  ],
+  "timestamp": "2026-09-01T10:04:46.933237896Z",
+  "model": "glm-5.3"
+}

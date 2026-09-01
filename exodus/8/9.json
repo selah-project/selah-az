@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Yahve Moşenin sözünə görə etdi, və qurbağalar evlərdən, həyətlərdən və tarlalardan öldülər.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "etdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sözünə görə"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşenin"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "və öldülər"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "qurbağalar"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "evlərdən"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "həyətlərdən"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "və -dan"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "tarlalardan"
+    }
+  ],
+  "timestamp": "2026-09-01T10:06:40.920393120Z",
+  "model": "glm-5.3"
+}

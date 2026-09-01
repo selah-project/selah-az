@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 48:3",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 48,
+  "translation": "Gözəldir ⟨o⟩ yüksəkliyi ⟨ilə⟩, bütün yerin sevinci ⟨olan⟩ Tsiyon dağı, şimalın ucları, böyük kralın şəhəri.",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "Gözəldir"
+    },
+    {
+      "surface": "נוף",
+      "gloss": "yüksəkliyi ilə"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "sevinci olan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerin"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dağı"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "ucları"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "şimalın"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "şəhəri"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "רב",
+      "gloss": "böyük"
+    }
+  ],
+  "timestamp": "2026-09-01T15:16:42.393494994Z",
+  "model": "glm-5.3"
+}

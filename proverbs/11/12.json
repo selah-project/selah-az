@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 11:12",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Öz yoldaşını təhqir edən ürəkdən məhrumdur, ancaq anlayışlı adam susar.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "təhqir edən"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "öz yoldaşını"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "məhrumdur"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ürəkdən"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "və\/adam"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "anlayışlı"
+    },
+    {
+      "surface": "יחריש",
+      "gloss": "susar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:51:27.900556819Z",
+  "model": "glm-5.3"
+}

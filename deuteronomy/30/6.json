@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 30:6",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Və Yahve, Elohimin sənin ürəyini və ⟨את⟩ nəslinin ürəyini sünnə edəcək — Yahve, Elohimini bütün ürəyinlə və bütün canınla sevməyin üçün, ⟨ki⟩ yaşayaq sən.",
+  "tokens": [
+    {
+      "surface": "ומל",
+      "gloss": "və sünnə edəcək"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ürəyini"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ürəyini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "və ⟨את⟩",
+      "marks": "nəslinin ürəyini"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ürəyini"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "nəslinin"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "sevməyin üçün"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve, Elohimini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimini"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ürəyinlə"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "və bütün"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "canınla"
+    },
+    {
+      "surface": "למען",
+      "gloss": "⟨üçün⟩"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "yaşayaq sən"
+    }
+  ],
+  "timestamp": "2026-09-01T10:57:01.836672657Z",
+  "model": "glm-5.3"
+}

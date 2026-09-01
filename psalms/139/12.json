@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 139,
+  "translation": "Hətta qaranlıq da səndən qaranlaşmaz, gecə gün kimi işıqlanar; qaranlıq işıq kimidir.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "hətta"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "qaranlıq da"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...-maz"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "qaranlaşmaz"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "səndən"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "gecə"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "gün kimi"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "ışıqlanar"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "qaranlıq"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "ışıq kimidir"
+    }
+  ],
+  "timestamp": "2026-09-01T15:44:18.511580170Z",
+  "model": "glm-5.3"
+}

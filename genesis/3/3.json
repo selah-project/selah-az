@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Amma bağın ortasındakı ağacın meyvəsindən — Elohim demişdir: ondan yeməyin və ona toxunmayın, yoxsa ölərsiniz.”",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "Amma meyvəsindən"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ağacın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "–"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ortasındakı"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "bağın"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "demişdir"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yeməyin"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yeməyin"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ondan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və toxunmayın"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "toxunmayın"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "פן",
+      "gloss": "yoxsa"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "ölərsiniz"
+    }
+  ],
+  "timestamp": "2026-09-01T09:46:24.157874929Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Yahve, Elohimim, əgər bunu etdimsə, əgər əllərimdə haqsızlıq varsa —",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "etdimsə"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bunu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "יש",
+      "gloss": "var"
+    },
+    {
+      "surface": "עול",
+      "gloss": "haqsızlıq"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "əllərimdə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:02:21.068747341Z",
+  "model": "glm-5.3"
+}

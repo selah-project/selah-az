@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Yalan sözə saleh nifrət edir, şər isə pis qoxu saçar və utandırılar.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "söz"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yalan"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "nifrət edir"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "saleh"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "şər isə"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "pis qoxu saçar"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "və utandırılar"
+    }
+  ],
+  "timestamp": "2026-09-01T15:52:08.901324749Z",
+  "model": "glm-5.3"
+}

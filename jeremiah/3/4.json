@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 3:4",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 3,
+  "translation": "Məgər indidən mənə səslənmədinmi: Atam ⟨mənsən⟩, gəncliyimin yoldaşı sən?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "məgər... -mi"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "indidən"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "səslənmədinmi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mənə"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Atam"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "yoldaşı"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "gəncliyimin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    }
+  ],
+  "timestamp": "2026-09-01T13:22:09.294460215Z",
+  "model": "glm-5.3"
+}

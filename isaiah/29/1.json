@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 29:1",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 29,
+  "translation": "Vaydır sənə, Ariel, Ariel, ⟨o⟩ şəhər ki, Davud orada düşərgə saldı! İl üstünə il ⟨tokunub⟩ keçin, bayramlar ⟨dövr edib gəlsin⟩.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "vaydır"
+    },
+    {
+      "surface": "אריאל",
+      "gloss": "Ariel"
+    },
+    {
+      "surface": "אריאל",
+      "gloss": "Ariel"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "şəhər"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "düşərgə saldı"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "ספו",
+      "gloss": "tokunub keçin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "il"
+    },
+    {
+      "surface": "על",
+      "gloss": "üstünə"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "il"
+    },
+    {
+      "surface": "חגים",
+      "gloss": "bayramlar"
+    },
+    {
+      "surface": "ינקפו",
+      "gloss": "dövr edib gələcək"
+    }
+  ],
+  "timestamp": "2026-09-01T13:00:52.047643927Z",
+  "model": "glm-5.3"
+}

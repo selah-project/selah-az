@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Tərbiyəni sevən bilikni sevər, töhmətdən nifrət edən isə heyvan kimi cahildir.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "sevən"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tərbiyəni"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "sevər"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "bilikni"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "nifrət edən isə"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "töhmətdən"
+    },
+    {
+      "surface": "בער",
+      "gloss": "heyvan kimi cahildir"
+    }
+  ],
+  "timestamp": "2026-09-01T15:52:38.937169Z",
+  "model": "glm-5.3"
+}

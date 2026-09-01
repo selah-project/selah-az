@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "David qocaldı və günlərlə doydu, oğlu Şlomonu İsrailin üzərinə hökmdar etdi ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "qocaldı"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "doydu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "günlərlə"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "hökmdar etdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Şlomonu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Şlomonu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "İsrailin"
+    }
+  ],
+  "timestamp": "2026-09-01T17:08:01.067948212Z",
+  "model": "glm-5.3"
+}

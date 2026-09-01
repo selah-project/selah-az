@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 16:18",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 16,
+  "translation": "Və ⟨את⟩ şabbat üçün tikilmiş örtüklü eyvanı, evdə olan, və ⟨את⟩ kralın bayır girişini Assur kralının üzündən Yahve evinə tərəf çevirdi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "şabbat eyvanını"
+    },
+    {
+      "surface": "מיסך",
+      "gloss": "örtüklü eyvanı"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "şabbatın"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "tikdilər"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "evdə"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bayır girişi"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "girişi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralın"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "bayır"
+    },
+    {
+      "surface": "הסב",
+      "gloss": "çevirdi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "evi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "üzündən"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralı"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    }
+  ],
+  "timestamp": "2026-09-01T12:40:19.855825200Z",
+  "model": "glm-5.3"
+}

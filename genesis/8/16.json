@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Gəmidən çıx — sən, arın və oğulların və oğullarının arıları ⟨את⟩ səninlə.",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "çıx"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "gəmi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sən"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "və arın"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "və oğulların"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "və arıları"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ səninlə"
+    }
+  ],
+  "timestamp": "2026-09-01T09:47:07.905732984Z",
+  "model": "glm-5.3"
+}

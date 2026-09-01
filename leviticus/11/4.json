@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 11:4",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 11,
+  "translation": "Yalnız ⟨את⟩ bunu yeməyin — şıq qaytaranlardan və dırnağı qoparanlardan: ⟨את⟩ dəvəni, çünki o, şıq qaytarandır, lakin dırnağını qoparmır — o, sizin üçün murdardır.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "yalnız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bunu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bunları"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-mə"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yeyin"
+    },
+    {
+      "surface": "ממעלי",
+      "gloss": "qaytaranlardan"
+    },
+    {
+      "surface": "הגרה",
+      "gloss": "şıq"
+    },
+    {
+      "surface": "וממפריסי",
+      "gloss": "və qoparanlardan"
+    },
+    {
+      "surface": "הפרסה",
+      "gloss": "dırnağı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dəvəni"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "dəvə"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "qaytaran"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "şıq"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "və dırnaq"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "deyil"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "qoparan"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "murdar"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:24:56.282633274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 12,
+  "translation": "Qoy ⟨o⟩ sizin üçün qüsursuz, erkək, bir yaşında quzu olsun; qoyunlardan və ya keçilərdən götürəsiniz.",
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "quzu"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "qüsursuz"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "erkək"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oğlu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "bir ilin"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olsun"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizin üçün"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "qoyunlardan"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "və -dan"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "keçilərdən"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "götürəsiniz"
+    }
+  ],
+  "timestamp": "2026-09-01T10:08:06.898323642Z",
+  "model": "glm-5.3"
+}

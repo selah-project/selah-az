@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 18:8",
+  "book": "job",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Çünki o, öz ayaqları ilə şəbəkəyə ⟨düşüb⟩, və tor üstündə gəzir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "⟨düşüb⟩"
+    },
+    {
+      "surface": "ברשת",
+      "gloss": "şəbəkəyə"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "öz ayaqları ilə"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "və ... üstündə"
+    },
+    {
+      "surface": "שבכה",
+      "gloss": "tor"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "gəzir"
+    }
+  ],
+  "timestamp": "2026-09-01T16:08:50.231553760Z",
+  "model": "glm-5.3"
+}

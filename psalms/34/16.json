@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 34,
+  "translation": "Yahvenin gözləri salehlərə ⟨tərəfdir⟩, və qulaqları onların fəryadına ⟨tərəfdir⟩.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "gözləri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨tərəf⟩"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "salehlərə"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "qulaqları"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨tərəf⟩"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "fəryadına"
+    }
+  ],
+  "timestamp": "2026-09-01T15:11:14.856100064Z",
+  "model": "glm-5.3"
+}

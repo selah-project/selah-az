@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 1:14",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Budur, göydən od endi və ⟨את⟩ əvvəlki iki əlli başçısını və ⟨את⟩ onların əllilərini yandırdı; indi isə canım gözündə qiymətli olsun.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "budur"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "endi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "od"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "göydən"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "yandırdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "əvvəlki iki əlli başçısını"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iki"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "başçısını"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "əlli"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "əvvəlki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "onların əllilərini"
+    },
+    {
+      "surface": "חמשיהם",
+      "gloss": "onların əllilərini"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "indi isə"
+    },
+    {
+      "surface": "תיקר",
+      "gloss": "qiymətli olsun"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canım"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "gözündə"
+    }
+  ],
+  "timestamp": "2026-09-01T12:29:28.684288592Z",
+  "model": "glm-5.3"
+}

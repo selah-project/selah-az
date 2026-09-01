@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Ona yeddi oğul və üç qız doğuldu.",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "doğuldu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "yeddi"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oğul"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "və üç"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "qız"
+    }
+  ],
+  "timestamp": "2026-09-01T16:03:16.390486995Z",
+  "model": "glm-5.3"
+}

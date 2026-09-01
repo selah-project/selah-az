@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 35,
+  "translation": "Rüsvay olsunlar və utansınlar canımı axtaranlar; geri çəkilsinlər və xəcalət çəksinlər mənim şərimi quranlar.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "rüsvay olsunlar"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "və utansınlar"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "axtaranlar"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "canımı"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "geri çəkilsinlər"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "geri"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "və xəcalət çəksinlər"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "quranlar"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "mənim şərimi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:11:31.576814670Z",
+  "model": "glm-5.3"
+}

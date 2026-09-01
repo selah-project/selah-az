@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 23:15",
+  "book": "proverbs",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Oğlum, əgər qəlbin müdrik olsa, qəlbim sevinər, mən də.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Oğlum"
+    },
+    {
+      "surface": "אם",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "müdrik olsa"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "qəlbin"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "sevinər"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "qəlbim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "də"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    }
+  ],
+  "timestamp": "2026-09-01T15:57:33.414548931Z",
+  "model": "glm-5.3"
+}

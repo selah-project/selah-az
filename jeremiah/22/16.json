@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 22:16",
+  "book": "jeremiah",
+  "lang": "az",
+  "chapter": 22,
+  "translation": "Yoxsulun və ehtiyaclının işini mühakimə etdi — onda yaxşı ⟨idi⟩. Bu, məni tanımaq deyilmidir? — Yahve deyir.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "mühakimə etdi"
+    },
+    {
+      "surface": "דין",
+      "gloss": "işini"
+    },
+    {
+      "surface": "עני",
+      "gloss": "yoxsulun"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ehtiyaclının"
+    },
+    {
+      "surface": "אז",
+      "gloss": "onda"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxşı"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "deyilimidir"
+    },
+    {
+      "surface": "היא",
+      "gloss": "bu"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "tanımaq"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "məni"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "deyir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-09-01T13:33:51.909055254Z",
+  "model": "glm-5.3"
+}

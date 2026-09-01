@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 13:22",
+  "book": "isaiah",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Tənha ulayanlar onun boş qalmış evlərində cavab verəcək, çəkallar isə əyləncə saraylarında ⟨səslənəcək⟩; vaxtı gəlməyə yaxındır, günləri uzadılmayacaq.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "cavab verəcək"
+    },
+    {
+      "surface": "איים",
+      "gloss": "tənha ulayanlar"
+    },
+    {
+      "surface": "באלמנותיו",
+      "gloss": "onun boş qalmış evlərində"
+    },
+    {
+      "surface": "ותנים",
+      "gloss": "çəkallar"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "saraylarında"
+    },
+    {
+      "surface": "ענג",
+      "gloss": "əyləncə (lüks)"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "yaxındır"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "gəlməyə"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "vaxtı"
+    },
+    {
+      "surface": "וימיה",
+      "gloss": "günləri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "ימשכו",
+      "gloss": "uzadılmayacaq"
+    }
+  ],
+  "timestamp": "2026-09-01T12:50:11.199784133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 44:1",
+  "book": "ezekiel",
+  "lang": "az",
+  "chapter": 44,
+  "translation": "Və məni Yahvenin müqəddəs yerinin şərqə baxan xarici qapısının ⟨את⟩ yolu ilə geri qaytardı, və o ⟨bağlı idi⟩.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "və geri qaytardı"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "yolu"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yolu ilə"
+    },
+    {
+      "surface": "שער",
+      "gloss": "qapısının"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "müqəddəs yerin"
+    },
+    {
+      "surface": "החיצון",
+      "gloss": "xarici"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "baxan"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "şərqə"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "və o"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "bağlı"
+    }
+  ],
+  "timestamp": "2026-09-01T14:31:15.261061215Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 8:18",
+  "book": "genesis",
+  "lang": "az",
+  "chapter": 8,
+  "translation": "Və Noax çıxdı, və oğulları, və arvadı, və oğullarının arvadları onunla.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "və çıxdı"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noax"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "və oğulları"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "və arvadı"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "və arvadları"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oğullarının"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ onunla"
+    }
+  ],
+  "timestamp": "2026-09-01T09:47:55.344857944Z",
+  "model": "glm-5.3"
+}

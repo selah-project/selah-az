@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 1:4",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 1,
+  "translation": "Və o, əlini olandırbanın başı üzərinə qoyacaq, və o, onun üçün qəbul olunacaq, onun üçün kəffarə etmək üzrə.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "Və o, qoyacaq"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "əlini"
+    },
+    {
+      "surface": "על",
+      "gloss": "üzərinə"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "başının"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "olandırbanın"
+    },
+    {
+      "surface": "ונרצה",
+      "gloss": "və o, qəbul olunacaq"
+    },
+    {
+      "surface": "לו",
+      "gloss": "onun üçün"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "kəffarə etmək üzrə"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "onun üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T17:26:49.668583645Z",
+  "model": "glm-5.3"
+}

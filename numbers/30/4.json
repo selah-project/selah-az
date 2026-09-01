@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 30:4",
+  "book": "numbers",
+  "lang": "az",
+  "chapter": 30,
+  "translation": "Və əgər bir qadın Yahveyə nəzir vəd edərsə və atasının evində, gəncliyində özünə təyinat bağlayarsa:",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "və bir qadın"
+    },
+    {
+      "surface": "כי",
+      "gloss": "əgər"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "nəzir vəd edərsə"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "nəzir vəd"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "ואסרה",
+      "gloss": "və bağlayarsa"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "təyinat"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "evində"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "atasının"
+    },
+    {
+      "surface": "בנעריה",
+      "gloss": "gəncliyində"
+    }
+  ],
+  "timestamp": "2026-09-01T10:44:08.493120742Z",
+  "model": "glm-5.3"
+}

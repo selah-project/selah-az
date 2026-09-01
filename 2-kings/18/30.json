@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 18:30",
+  "book": "2-kings",
+  "lang": "az",
+  "chapter": 18,
+  "translation": "Hizqiya da ⟨את⟩ sizi Yahve-yə güvəndirməsin, deyərək: «Yahve bizi mütləq qurtaracaq və bu şəhər Aşşur padşahının əlinə verilməyəcək».",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "da -masın"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "güvəndirməsin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizi (Hizqiya güvəndirməsin)"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizqiya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyərək"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "mütləq qurtaracaq"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "qurtaracaq bizi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və yox"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "verilməyəcək"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu şəhər"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "şəhər"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "əlinə"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşahı"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aşşur"
+    }
+  ],
+  "timestamp": "2026-09-01T12:41:30.503091819Z",
+  "model": "glm-5.3"
+}

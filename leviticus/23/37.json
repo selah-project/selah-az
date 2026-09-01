@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 23:37",
+  "book": "leviticus",
+  "lang": "az",
+  "chapter": 23,
+  "translation": "Bunlar Yahvenin mövlədləridir ki, onları müqəddəs çağırışlar elan edəsiniz, Yahveyə od qurbanı — yandırma qurbanı, un qurbanı, kəsilmiş qurban və içilik qurbanları təqdim etmək üçün, hər söz ⟨onun⟩ öz günündə ⟨yerinə yetirilir⟩.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "bunlar"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "mövlədləri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvenin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "elan edəsiniz"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "onları"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "çağırışlar"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "müqəddəs"
+    },
+    {
+      "surface": "להקריב",
+      "gloss": "təqdim etmək üçün"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "od qurbanı"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveyə"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "yandırma qurbanı"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "və un qurbanı"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "kəsilmiş qurban"
+    },
+    {
+      "surface": "ונסכים",
+      "gloss": "və içilik qurbanları"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hər söz"
+    },
+    {
+      "surface": "יום",
+      "gloss": "gün"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "öz günündə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:31:17.228413437Z",
+  "model": "glm-5.3"
+}

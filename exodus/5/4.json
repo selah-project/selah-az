@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "az",
+  "chapter": 5,
+  "translation": "Mitsrayim padşahı onlara dedi: Niyə, ey Moşe və Aharon, xalqı ⟨את⟩ işindən yayındırırsınız? Öz yükünüzlərinizə qayıdın.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "padşahı"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "למה",
+      "gloss": "niyə"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "və Aharon"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "yayındırırsınız"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqı"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqı"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "işindən"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "qayıdın"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "öz yükünüzlərinizə"
+    }
+  ],
+  "timestamp": "2026-09-01T10:06:02.290619592Z",
+  "model": "glm-5.3"
+}

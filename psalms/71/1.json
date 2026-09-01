@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 71,
+  "translation": "Səndə sığınmışam, ey Yahve, əbədi utanmış olmaram.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Səndə"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "sığınmışam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "utanh"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "olmaram"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "əbədi"
+    }
+  ],
+  "timestamp": "2026-09-01T15:23:18.793350340Z",
+  "model": "glm-5.3"
+}

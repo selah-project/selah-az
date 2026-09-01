@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 13:2",
+  "book": "job",
+  "lang": "az",
+  "chapter": 13,
+  "translation": "Sizin bildiyiniz kimi mən də bildim; mən sizdən ⟨aşağı⟩ düşməmişəm.",
+  "tokens": [
+    {
+      "surface": "כדעתכם",
+      "gloss": "sizin bildiyiniz kimi"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "bildim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "də"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mən"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yox"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "düşməmişəm"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mən"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "sizdən"
+    }
+  ],
+  "timestamp": "2026-09-01T16:07:30.901043993Z",
+  "model": "glm-5.3"
+}

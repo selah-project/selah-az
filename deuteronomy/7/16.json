@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 7:16",
+  "book": "deuteronomy",
+  "lang": "az",
+  "chapter": 7,
+  "translation": "Və Yahve sənin Elohimin sənə verəcəyi bütün xalqları ⟨את⟩ məhv edəcəksən; gözün onlara rəhm etməyəcək, onların tanrılarına da ⟨את⟩ ibadət etməyəcəksən, çünki bu sənin üçün tələdir.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "və məhv edəcəksən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bütün xalqları"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bütün"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "xalqları"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sənin Elohimin"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "verəcəyi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənə"
+    },
+    {
+      "surface": "לא",
+      "gloss": "rəhm etməyəcək yox"
+    },
+    {
+      "surface": "תחס",
+      "gloss": "rəhm edəcək"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "gözün"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "onlara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "və ibadət etməyəcəksən yox"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "ibadət edəcəksən"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onların tanrılarına"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "onların tanrılarına"
+    },
+    {
+      "surface": "כי",
+      "gloss": "çünki"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "tələdir"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "bu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sənin üçün"
+    }
+  ],
+  "timestamp": "2026-09-01T10:49:24.055471704Z",
+  "model": "glm-5.3"
+}

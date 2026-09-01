@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 19:13",
+  "book": "psalms",
+  "lang": "az",
+  "chapter": 19,
+  "translation": "Səhvləri kim anlaya bilər? Gizli ⟨səhvlərdən⟩ məni təmizlə.",
+  "tokens": [
+    {
+      "surface": "שגיאות",
+      "gloss": "səhvləri"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "anlaya bilər"
+    },
+    {
+      "surface": "מנסתרות",
+      "gloss": "gizli ⟨səhvlərdən⟩"
+    },
+    {
+      "surface": "נקני",
+      "gloss": "məni təmizlə"
+    }
+  ],
+  "timestamp": "2026-09-01T15:05:57.703449503Z",
+  "model": "glm-5.3"
+}
