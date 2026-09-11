@@ -25,3 +25,8 @@ Böyük dil modelindən və ya maşın tərcüməsindən istifadə etmisənsə �
 ## Lisenziya və yoxlama
 
 Töhfə verməklə qəbul olunan hər şeyin [CC BY-SA 4.0](LICENSE.md) altında nəşr olunmasına razılıq verirsən. Git tarixçəsi qeydi və səbəbləri açıq saxlayır. Yoxlayanlar təklifləri İbranicə ilə, qaydalarla, istinadlarla və uyğunlaşdırma ilə tutuşdurur.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
