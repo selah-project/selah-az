@@ -50,3 +50,9 @@ Bu tərcümə CC BY-SA 4.0 lisenziyası altında açıqdır. Əgər bu iş sən�
 ## Gəl yoxla
 
 Oxucular, İbrani dili tələbələri, tərcüməçilər, uşaqlıqdan Azərbaycan dilində danışanlar — hamınız xoş gəlmisiniz. Xəta bildirməzdən və ya düzəliş təklif etməzdən əvvəl [CONTRIBUTING.md](CONTRIBUTING.md) sənədini oxu.
+
+## Selah
+
+- The languages of Selah — every chair, native name and status: https://selahproject.com/learn/languages/index.md
+- How the renderings are made — the process, the discipline, the receipts: https://selahproject.com/learn/data-sources/selah-renderings.md
+- The source text — OSHB / WLC 4.20, the record every rendering stands on: https://selahproject.com/learn/data-sources/oshb-wlc.md
